@@ -93,6 +93,18 @@
     "shard": "p"
   },
   {
+    "slug": "peanut-butter-kebab-wrap",
+    "title": "Peanut Butter Kebab Wrap",
+    "tags": [
+      "peanut-butter",
+      "kebab-wrap",
+      "whole30"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "peanut-dutch-breeze",
     "title": "Peanut Dutch Breeze",
     "tags": [

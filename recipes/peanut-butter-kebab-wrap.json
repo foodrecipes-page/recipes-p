@@ -1,0 +1,74 @@
+{
+  "title": "Peanut Butter Kebab Wrap",
+  "description": "A savory and tender kid-friendly Ethiopian dish featuring peanut butter in a whole30-friendly wrap that's perfect for lunch or snack time.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "whole30",
+    "sodium_free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole wheat tortilla",
+      "amount": "1"
+    },
+    {
+      "name": "Ground beef or ground turkey",
+      "amount": "2 cups finely crumbled"
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Hummus",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium-high heat. Season the ground meat with salt and pepper.",
+    "Sauté the seasoned meat in the skillet until browned, about 5-7 minutes.",
+    "While the meat is cooking, soften the peanut butter in warm water for 20 seconds to blend it better.",
+    "Add the softened peanut butter, hummus, ketchup, and mayonnaise to the skillet with the ground meat. Mix well.",
+    "Toast a whole wheat tortilla by wrapping it in aluminum foil and heating it in the oven at 350°F (175°C) for about 2 minutes until slightly crispy on both sides.",
+    "Place a spoonful of the peanut butter mixture onto one side of each tortilla, then fold the top half over to enclose the filling. Serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "peanut-butter",
+    "kebab-wrap",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 369,
+    "protein": 18.8,
+    "carbs": 47.5,
+    "fat": 12.3
+  },
+  "slug": "peanut-butter-kebab-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peanut-butter-kebab-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:18:36Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "rest",
+    "primaryIngredient": "peanut butter",
+    "diet": "whole30",
+    "region": null
+  }
+}
