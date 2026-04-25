@@ -1,0 +1,69 @@
+{
+  "title": "Passion Bitter Treat",
+  "description": "A chewy and bitter treat perfect for a sick day, this vegan-friendly dessert features passion fruit pulp infused with sous-vide.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Passion Fruit",
+      "amount": "1 cup fresh",
+      "notes": "Choose ripe, juicy fruits"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "200ml",
+      "notes": "Vegan or non-vegan depending on your preference"
+    },
+    {
+      "name": "Honey",
+      "amount": "3 tablespoons",
+      "notes": "Optional for sweetness"
+    },
+    {
+      "name": "Agar Agar (Elasticated Gelling Agent)",
+      "amount": "1 teaspoon",
+      "notes": "To thicken the mixture"
+    }
+  ],
+  "instructions": [
+    "Squeeze passion fruits to extract pulp, removing seeds and membranes.",
+    "Combine coconut milk with extracted passion fruit pulp in a blender, add honey if using for sweetness, then blend until smooth and creamy.",
+    "Add agar agar and simmer the mixture over low heat until it thickens. Stir frequently to prevent burning.",
+    "Pour the mixture into a mold or small ramekins and let it set in the refrigerator for at least 4 hours or overnight.",
+    "Serve chilled with additional honey or vegan yogurt as desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "passion-bitter-treat",
+    "sous-vide",
+    "vegan-dessert",
+    "indian-recipe"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 62,
+    "fat": 10
+  },
+  "slug": "passion-bitter-treat",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/passion-bitter-treat",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:27:27Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "sous-vide",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "vegan",
+    "region": null
+  }
+}

@@ -29,6 +29,19 @@
     "shard": "p"
   },
   {
+    "slug": "passion-bitter-treat",
+    "title": "Passion Bitter Treat",
+    "tags": [
+      "passion-bitter-treat",
+      "sous-vide",
+      "vegan-dessert",
+      "indian-recipe"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 60,
+    "shard": "p"
+  },
+  {
     "slug": "peanut-butter-grilled-cheesecake",
     "title": "Peanut Butter Grilled Cheesecake",
     "tags": [
