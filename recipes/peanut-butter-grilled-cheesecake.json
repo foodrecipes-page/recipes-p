@@ -1,0 +1,77 @@
+{
+  "title": "Peanut Butter Grilled Cheesecake",
+  "description": "A rich and flaky peanut butter grilled cheesecake that's perfect for a whole30-friendly meal, featuring a dairy-free base and crunchy toppings.",
+  "cuisine": "American",
+  "diet": [
+    "whole30",
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dairy-Free Cheesecake Base Mix",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Peanut Butter Ice Cream",
+      "amount": "1 container"
+    },
+    {
+      "name": "Coconut Oil Chips",
+      "amount": "2 oz"
+    },
+    {
+      "name": "Honey",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Peanut Butter Frosting Mix",
+      "amount": "1 packet"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Prepare the cheesecake base by combining Dairy-Free Cheesecake Base Mix with Honey in a mixing bowl. Stir until evenly combined and spreadable.",
+    "Pour the base mixture onto a parchment-lined baking sheet and press firmly into an even layer. Place it on a baking tray and keep warm while you prepare other ingredients.",
+    "In a separate bowl, mix Peanut Butter Ice Cream with Honey to create a peanut butter ice cream spread. Spread this evenly over the cheesecake base.",
+    "Meanwhile, melt Coconut Oil Chips in the microwave or over low heat until fully melted. Pour it over the ice cream layer and then add a generous amount of Peanut Butter Frosting Mix on top.",
+    "Place your cheesecake base with the ice cream on the grill for 5 minutes to warm up before putting under the broiler for another 3-4 minutes, or until golden brown. The heat will melt the Coconut Oil Chips and create a crispy layer atop.",
+    "Once done, allow it to cool for about 10 minutes before removing from the tray and serving. Enjoy this unique whole30-friendly dessert with your family!",
+    "Optional: You can add crushed peanuts as toppings for an extra crunchy texture."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peanut-butter",
+    "whole30-friendly",
+    "kid-friendly",
+    "grilled-cheesecake"
+  ],
+  "nutrition": {
+    "calories": 568,
+    "protein": 19,
+    "carbs": 27,
+    "fat": 27
+  },
+  "slug": "peanut-butter-grilled-cheesecake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peanut-butter-grilled-cheesecake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:19:51Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "grill",
+    "primaryIngredient": "peanut butter",
+    "diet": "whole30",
+    "region": null
+  }
+}

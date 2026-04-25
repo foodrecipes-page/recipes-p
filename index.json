@@ -29,6 +29,19 @@
     "shard": "p"
   },
   {
+    "slug": "peanut-butter-grilled-cheesecake",
+    "title": "Peanut Butter Grilled Cheesecake",
+    "tags": [
+      "peanut-butter",
+      "whole30-friendly",
+      "kid-friendly",
+      "grilled-cheesecake"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 80,
+    "shard": "p"
+  },
+  {
     "slug": "pear-melange-grilled-salad",
     "title": "Pear Melange Grilled Salad",
     "tags": [
