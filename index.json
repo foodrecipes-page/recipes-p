@@ -335,5 +335,17 @@
     "cuisine": "Mediterranean",
     "totalTimeMin": 18,
     "shard": "p"
+  },
+  {
+    "slug": "protein-cheesy-skewers",
+    "title": "Protein Cheesy Skewers",
+    "tags": [
+      "protein-cheesy-skewers",
+      "savory-syrian",
+      "quick-fix"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 25,
+    "shard": "p"
   }
 ]
