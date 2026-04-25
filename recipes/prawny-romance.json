@@ -1,0 +1,62 @@
+{
+  "title": "Prawny Romance",
+  "description": "A romantic American dish featuring raw king prawns that are pressure-cooked for a salty and light taste, suitable for diabetics.",
+  "cuisine": "American",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "King Prawns",
+      "amount": "12-15 per serving",
+      "notes": "Fresh and peeled"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "A few drops",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "Juice of 1 lemon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Wash hands thoroughly and prepare a clean work area.",
+    "Using tongs, place the prawns in a pressure cooker or a suitable heat-safe container.",
+    "Drizzle with olive oil and squeeze fresh lemon juice over the top of each prawn to add flavor and enhance its natural sweetness.",
+    "Close the pressure cooker lid tightly following manufacturer's instructions for cooking time, which should be minimal due to raw nature but ensure internal temperature reaches 160°F (71°C) or above to kill bacteria safely."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "prawns",
+    "pressure-cooking",
+    "salty-romantic-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 9,
+    "fat": 6
+  },
+  "slug": "prawny-romance",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/prawny-romance",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:30:08Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "pressure-cook",
+    "primaryIngredient": "raw king prawns",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}

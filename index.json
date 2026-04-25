@@ -426,6 +426,18 @@
     "shard": "p"
   },
   {
+    "slug": "prawny-romance",
+    "title": "Prawny Romance",
+    "tags": [
+      "prawns",
+      "pressure-cooking",
+      "salty-romantic-dish"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 8,
+    "shard": "p"
+  },
+  {
     "slug": "pressure-packed-coriander-crumble",
     "title": "Pressure-Packed Coriander Crumble",
     "tags": [
