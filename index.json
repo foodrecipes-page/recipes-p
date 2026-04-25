@@ -79,6 +79,18 @@
     "shard": "p"
   },
   {
+    "slug": "paprika-pesto-pasta",
+    "title": "Paprika Pesto Pasta",
+    "tags": [
+      "paprika pesto",
+      "italian pasta",
+      "slovakian cuisine"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "parsnip-jalebi",
     "title": "Parsnip Jalebi",
     "tags": [

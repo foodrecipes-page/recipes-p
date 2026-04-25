@@ -1,0 +1,80 @@
+{
+  "title": "Paprika Pesto Pasta",
+  "description": "A peppery and chewy weeknight dish featuring pappardelle pasta with a dash-friendly paprika pesto sauce.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "50ml"
+    },
+    {
+      "name": "paprika powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "handful"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Bring a large pot of salted water to boil.",
+    "Cook pappardelle pasta according to package instructions until al dente.",
+    "Meanwhile, finely chop garlic and onion. Sauté in olive oil for about 2 minutes.",
+    "Add chopped parsley to the sautéed vegetables, along with paprika powder, salt, and pepper. Mix well.",
+    "Drain pasta and add it to the vegetable mixture. Toss until everything is evenly coated with the pesto sauce.",
+    "Transfer pasta to a serving dish and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paprika pesto",
+    "italian pasta",
+    "slovakian cuisine"
+  ],
+  "nutrition": {
+    "calories": 410,
+    "protein": 23,
+    "carbs": 61,
+    "fat": 17
+  },
+  "slug": "paprika-pesto-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/paprika-pesto-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:58:03Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "rest",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "dash",
+    "region": null
+  }
+}
