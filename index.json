@@ -25,6 +25,19 @@
     "shard": "p"
   },
   {
+    "slug": "paleo-citrus-king-prawn-appetizer",
+    "title": "Paleo Citrus King Prawn Appetizer",
+    "tags": [
+      "paleo",
+      "citrus",
+      "king prawn",
+      "appetizer"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "paleo-monsoon-porridge",
     "title": "Paleo Monsoon Porridge",
     "tags": [

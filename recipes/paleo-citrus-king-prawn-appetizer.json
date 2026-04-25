@@ -1,0 +1,70 @@
+{
+  "title": "Paleo Citrus King Prawn Appetizer",
+  "description": "A citrusy and flaky dish featuring raw king prawns that is a perfect solo dinner Saudi Arabian dish, suitable for paleo diet.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "King Prawns",
+      "amount": "20-30 pieces"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Saffron Threads",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "2-3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Clean and devein the prawns thoroughly.",
+    "In a bowl, mix the lemon zest, saffron threads, fresh parsley, and avocado oil. Add prawns to the marinade and ensure they are well coated.",
+    "Let it marinate for at least 30 minutes in the refrigerator.",
+    "Preheat your grill or frying pan to medium-high heat (around 165°F - 200°F).",
+    "Gently place the prawns on the heated surface and cook for about 30 seconds per side, until golden brown.",
+    "Serve immediately with a squeeze of fresh lemon juice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "paleo",
+    "citrus",
+    "king prawn",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 18,
+    "carbs": 5,
+    "fat": 24
+  },
+  "slug": "paleo-citrus-king-prawn-appetizer",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/paleo-citrus-king-prawn-appetizer",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:41:17Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "marinate",
+    "primaryIngredient": "raw king prawns",
+    "diet": "paleo",
+    "region": null
+  }
+}
