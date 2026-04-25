@@ -1,0 +1,73 @@
+{
+  "title": "Padron Parchment",
+  "description": "A chewy and indulgent Venezuelan dish featuring fermented Padron peppers for a pescatarian-friendly snack.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fermented Padron Peppers",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": "For added richness and smoke flavor"
+    },
+    {
+      "name": "Fresh Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cilantro Leaves",
+      "amount": "handful"
+    }
+  ],
+  "instructions": [
+    "In a skillet, heat the coconut oil over medium heat.",
+    "Add the fermented Padron peppers and cook until softened, about 5 minutes.",
+    "Add fresh garlic and sesame seeds to the skillet, cooking for another minute or two until fragrant.",
+    "Stir in lime juice just before serving.",
+    "Garnish with cilantro leaves."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "padron",
+    "fermented",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 8,
+    "fat": 9
+  },
+  "slug": "padron-parchment",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/padron-parchment",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:43:18Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "ferment",
+    "primaryIngredient": "padron peppers",
+    "diet": "pescatarian",
+    "region": null
+  }
+}

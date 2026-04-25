@@ -1,5 +1,17 @@
 [
   {
+    "slug": "padron-parchment",
+    "title": "Padron Parchment",
+    "tags": [
+      "padron",
+      "fermented",
+      "venezuelan"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "paleo-brown-lentil-salad",
     "title": "Paleo Brown Lentil Salad",
     "tags": [
