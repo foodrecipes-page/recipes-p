@@ -41,6 +41,18 @@
     "shard": "p"
   },
   {
+    "slug": "paneer-blanched-taj-mahal",
+    "title": "Paneer Blanched Taj Mahal",
+    "tags": [
+      "paneer",
+      "taj mahal",
+      "vegetarian"
+    ],
+    "cuisine": "vegetarian",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "paneer-date-night-delight",
     "title": "Paneer Date Night Delight",
     "tags": [

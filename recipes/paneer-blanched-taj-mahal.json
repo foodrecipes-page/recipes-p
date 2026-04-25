@@ -1,0 +1,95 @@
+{
+  "title": "Paneer Blanched Taj Mahal",
+  "description": "This rich and tender vegetarian-friendly Paneer Blanched Taj Mahal is a crowd-pleaser dish featuring fresh paneer served with aromatic vegetables.",
+  "cuisine": "vegetarian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paneer",
+      "amount": "200g",
+      "notes": "Extra-firm or smooth variety"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Capsicum (Pepper)",
+      "amount": "200g",
+      "notes": "Red bell pepper, thinly sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "4 medium, finely chopped"
+    },
+    {
+      "name": "Leaves of Fresh Basil",
+      "amount": "1 bunch, leaves picked out and washed"
+    },
+    {
+      "name": "Coriander (Cilantro)",
+      "amount": "20g",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Curry Leaves",
+      "amount": "2-3 fresh, leaves picked out and washed"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Blend onion, garlic, capsicum, tomato into a smooth puree in a food processor.",
+    "In a pan, heat oil over medium-high heat. Add onion and sauté until translucent.",
+    "Add the blended mixture to the pan with salt, red chili powder, and curry leaves. Mix well for 2-3 minutes.",
+    "Fold in sliced capsicum into the gravy.",
+    "Add fresh basil leaves along with a little water. Cover and let simmer for another 5 minutes.",
+    "Garnish with chopped coriander before serving.",
+    "Serve hot with naan or roti."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paneer",
+    "taj mahal",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 298,
+    "protein": 14.6,
+    "carbs": 35.4,
+    "fat": 7
+  },
+  "slug": "paneer-blanched-taj-mahal",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/paneer-blanched-taj-mahal",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:18:45Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "blanch",
+    "primaryIngredient": "paneer",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
