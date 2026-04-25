@@ -1,0 +1,61 @@
+{
+  "title": "Poached Chickpea Delight",
+  "description": "A fresh and fluffy meal-prep Greek dish featuring chickpeas in a low-calorie-friendly poaching method suitable for breakfast or lunch.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed for extra flavor and antioxidants"
+    }
+  ],
+  "instructions": [
+    "Rinse the chickpeas thoroughly to remove any dirt or debris.",
+    "Place the cleaned chickpeas in a medium pot with 2 cups of water. Bring to a boil over high heat.",
+    "Once boiling, reduce heat to low and let simmer for about 15 minutes or until chickpeas are tender.",
+    "Drain excess liquid from the chickpeas and serve them immediately as they will continue to cook when removed from heat.",
+    "Sprinkle with freshly squeezed lemon juice just before serving for added zing and brightness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "poached-chickpea",
+    "greek-delight",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 105,
+    "protein": 7,
+    "carbs": 18,
+    "fat": 2
+  },
+  "slug": "poached-chickpea-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/poached-chickpea-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:31:21Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "poach",
+    "primaryIngredient": "chickpeas",
+    "diet": "low-calorie",
+    "region": null
+  }
+}

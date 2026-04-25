@@ -362,6 +362,18 @@
     "shard": "p"
   },
   {
+    "slug": "poached-chickpea-delight",
+    "title": "Poached Chickpea Delight",
+    "tags": [
+      "poached-chickpea",
+      "greek-delight",
+      "meal-prep"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "poached-grape-leaf-delight",
     "title": "Poached Grape Leaf Delight",
     "tags": [
