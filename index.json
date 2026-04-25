@@ -373,6 +373,18 @@
     "shard": "p"
   },
   {
+    "slug": "plumpride-tomateux",
+    "title": "PlumPride Tomateux",
+    "tags": [
+      "plum-tomato-dish",
+      "filipino-dessert",
+      "high-protein-meal"
+    ],
+    "cuisine": "Philippine",
+    "totalTimeMin": null,
+    "shard": "p"
+  },
+  {
     "slug": "poached-chickpea-delight",
     "title": "Poached Chickpea Delight",
     "tags": [

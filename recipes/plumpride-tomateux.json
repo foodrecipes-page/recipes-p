@@ -1,0 +1,67 @@
+{
+  "title": "PlumPride Tomateux",
+  "description": "A rich and dense Filipino dish featuring plum tomatoes, high in protein for a show-off meal.",
+  "cuisine": "Philippine",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 plum tomatoes",
+      "amount": "pieces"
+    },
+    {
+      "name": "1/4 cup heavy cream",
+      "notes": "whole milk can be used as a substitute"
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "notes": "ensure it is not overheated for safety"
+    },
+    {
+      "name": "pinch of salt",
+      "notes": "optional, to taste"
+    },
+    {
+      "name": "handful fresh basil leaves",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Wash the plum tomatoes thoroughly and chop them into small pieces.",
+    "In a pan, heat the olive oil over medium heat. Add chopped plum tomatoes and sauté until they start to soften.",
+    "Pour in heavy cream and bring it to a simmer. Stir occasionally until the mixture reduces and thickens slightly.",
+    "Season with salt if desired and remove from heat. Garnish with fresh basil leaves before serving.",
+    "prepTimeMin: 10",
+    "cookTimeMin: 20",
+    "totalTimeMin: 30",
+    "servings: 4",
+    "difficulty: "
+  ],
+  "tags": [
+    "plum-tomato-dish",
+    "filipino-dessert",
+    "high-protein-meal"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "plumpride-tomateux",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/plumpride-tomateux",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:59:41Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "rest",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "high-protein",
+    "region": null
+  }
+}
