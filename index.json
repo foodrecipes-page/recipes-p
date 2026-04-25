@@ -125,5 +125,19 @@
     "cuisine": "Filipino",
     "totalTimeMin": 60,
     "shard": "p"
+  },
+  {
+    "slug": "prawn-broil-medley",
+    "title": "Prawn Broil Medley",
+    "tags": [
+      "prawn",
+      "broil",
+      "mediterranean",
+      "meal-prep",
+      "nut-free-friendly"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 18,
+    "shard": "p"
   }
 ]

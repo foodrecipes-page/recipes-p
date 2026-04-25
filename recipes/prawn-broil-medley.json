@@ -1,0 +1,93 @@
+{
+  "title": "Prawn Broil Medley",
+  "description": "A savory and crispy Mediterranean medley featuring tiger prawns for a meal-prep-friendly dish.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 lb tiger prawns",
+      "amount": "6 pieces"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Extra virgin for best flavor"
+    },
+    {
+      "name": "1 lemon, juiced and halved",
+      "amount": null
+    },
+    {
+      "name": "1 garlic clove, minced",
+      "amount": null
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null
+    },
+    {
+      "name": "2 tbsp fresh parsley, chopped (optional)",
+      "amount": null
+    },
+    {
+      "name": "1/4 tsp red pepper flakes (optional)",
+      "amount": null
+    },
+    {
+      "name": "Pitted Kalamata olives, sliced in half",
+      "amount": "6 pieces"
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Artichoke hearts, halved and lightly fried (optional)",
+      "amount": null
+    },
+    {
+      "name": "Feta cheese, crumbled",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat your broiler to high heat.",
+    "Place prawns in a single layer on a baking sheet. Drizzle with olive oil and sprinkle with lemon juice, garlic, salt, pepper, parsley, red pepper flakes, if using.",
+    "Add olives and dill between layers of prawns for added flavor. If using, place artichokes on top or around the prawns. Sprinkle feta cheese evenly over the top.",
+    "Broil for about 5-7 minutes, or until the prawns are cooked through and golden brown, checking every minute to avoid burning.",
+    "Serve immediately with lemon wedges and additional fresh herbs like mint or cilantro on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "prawn",
+    "broil",
+    "mediterranean",
+    "meal-prep",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 26,
+    "carbs": 9,
+    "fat": 14
+  },
+  "slug": "prawn-broil-medley",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/prawn-broil-medley",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:43:57Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "broil",
+    "primaryIngredient": "tiger prawns",
+    "diet": "nut-free",
+    "region": null
+  }
+}
