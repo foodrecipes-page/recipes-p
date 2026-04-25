@@ -1,0 +1,73 @@
+{
+  "title": "Plum Dash Dum",
+  "description": "A light and smoky Ethiopian dish featuring plum jam, dum, and a dash-friendly twist.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup of plum jam",
+      "amount": "cup",
+      "notes": "Freshly made or store-bought"
+    },
+    {
+      "name": "2 cups of rice flour (or amchera)",
+      "amount": "cups",
+      "notes": "Prepared by mixing flour and water to form a dough"
+    },
+    {
+      "name": "1/4 cup vegetable oil",
+      "amount": "cup",
+      "notes": "For frying the dumplings and coating them with oil"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro (optional for garnish)",
+      "amount": "fresh sprigs",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Blend the plum jam with a splash of water until smooth.",
+    "Mix rice flour and enough water to form a soft dough. Knead until smooth.",
+    "Divide the dough into small balls. Roll each ball in your hands to make dumplings, about 2 inches in diameter.",
+    "Heat oil in a large pan over medium heat. Add the prepared dumplings and fry them until golden brown on both sides.",
+    "Carefully place the fried dumplings into the plum jam mixture, making sure they are fully coated with the sauce. Cook for an additional 5-10 minutes to allow the dumplings to absorb the flavors.",
+    "Remove from heat and serve hot. Garnish with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "smoky",
+    "light",
+    "dash-friendly"
+  ],
+  "nutrition": {
+    "calories": 327,
+    "protein": 10,
+    "carbs": 49,
+    "fat": 15
+  },
+  "slug": "plum-dash-dum",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/plum-dash-dum",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:15:06Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "light",
+    "technique": "dum",
+    "primaryIngredient": "plum jam",
+    "diet": "dash",
+    "region": null
+  }
+}
