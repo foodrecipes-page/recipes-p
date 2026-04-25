@@ -1,0 +1,67 @@
+{
+  "title": "Pressure-Packed Coriander Crumble",
+  "description": "A show-off British dish featuring fermented coriander leaves, perfect for low-carb enthusiasts and those looking to impress.",
+  "cuisine": "British",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fermented Coriander Leaves",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your pressure cooker to a safe temperature, usually around 15psi for about 10 minutes.",
+    "In a mixing bowl, combine the fermented coriander leaves with coconut oil and almond flour. Mix well until there are no lumps remaining.",
+    "Fold in vanilla extract until fully incorporated into the mixture.",
+    "Transfer the crumble to your pre-heated pressure cooker lid.",
+    "Close the pressure cooker and cook for about 10 minutes on high pressure or as per manufacturer's instructions.",
+    "Allow it to naturally release steam before opening, ensuring all heat is off once done."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "coriander",
+    "crumble",
+    "pressure-cook",
+    "fermented",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 29,
+    "fat": 36
+  },
+  "slug": "pressure-packed-coriander-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/pressure-packed-coriander-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:07:28Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "pressure-cook",
+    "primaryIngredient": "coriander leaves",
+    "diet": "low-carb",
+    "region": null
+  }
+}
