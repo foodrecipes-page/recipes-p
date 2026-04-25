@@ -55,6 +55,20 @@
     "shard": "p"
   },
   {
+    "slug": "peanut-dutch-breeze",
+    "title": "Peanut Dutch Breeze",
+    "tags": [
+      "dutch",
+      "smoky",
+      "fluffy",
+      "kid-friendly",
+      "diabetic-friendly"
+    ],
+    "cuisine": "Asian-Inspired",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "pear-melange-grilled-salad",
     "title": "Pear Melange Grilled Salad",
     "tags": [

@@ -1,0 +1,85 @@
+{
+  "title": "Peanut Dutch Breeze",
+  "description": "A smoky and fluffy dutch dish featuring peanut oil that is also diabetic-friendly, perfect for kids.",
+  "cuisine": "Asian-Inspired",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peanut Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "2 pieces, sliced into small chunks",
+      "notes": "Ensure chicken is cooked thoroughly to ensure safety."
+    },
+    {
+      "name": "Sweet Potato Cubes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Thyme Sprig",
+      "amount": "1",
+      "notes": "Fresh or dried can be used."
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup",
+      "notes": "Use a low-sodium version if available."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large skillet, heat peanut oil over medium-high heat. Add sliced chicken and cook until golden brown, about 4-6 minutes per side.",
+    "Add sweet potato cubes, carrots, onion, minced garlic, thyme sprig, and soy sauce to the skillet with chicken. Stir well to coat vegetables with the chicken juices.",
+    "Transfer the mixture into a baking dish. Bake for 20-25 minutes until the chicken is fully cooked through and vegetables are tender.",
+    "Garnish with fresh herbs or lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "smoky",
+    "fluffy",
+    "kid-friendly",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 325,
+    "protein": 31,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "peanut-dutch-breeze",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peanut-dutch-breeze",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:24:50Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "braise",
+    "primaryIngredient": "peanut oil",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
