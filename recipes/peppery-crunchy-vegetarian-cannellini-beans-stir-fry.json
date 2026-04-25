@@ -1,0 +1,101 @@
+{
+  "title": "Peppery Crunchy Vegetarian Cannellini Beans Stir-fry",
+  "description": "This dish is a monsoon-inspired Venezuelan creation featuring crisp cannellini beans seasoned with savory peppery notes for a vibrant and satisfying meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup cannellini beans",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "notes": "for sautéing and deglazing"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "medium"
+    },
+    {
+      "name": "4 garlic cloves, minced",
+      "amount": "piece"
+    },
+    {
+      "name": "1 red bell pepper, chopped",
+      "amount": "cup"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "notes": "for flavoring the beans and vegetables"
+    },
+    {
+      "name": "1/2 teaspoon smoked paprika",
+      "notes": "for added depth of flavor"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to taste"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "freshly ground"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "notes": "for a bright citrus pop and acidity"
+    },
+    {
+      "name": "Fresh parsley, chopped (optional)",
+      "amount": "handful"
+    }
+  ],
+  "instructions": [
+    "Rinse the cannellini beans under cold water.",
+    "In a large skillet or wok, heat the olive oil over medium-high heat. Add the onion and garlic, sautéing until translucent about 3 minutes.",
+    "Add the chopped bell pepper to the skillet and cook for another minute until slightly softened.",
+    "Push vegetables to one side of the pan and add cannellini beans to the other side. Cook for a few more minutes until they start to brown lightly.",
+    "Pour in the cumin, smoked paprika, salt, and freshly ground black pepper over the beans. Toss everything together well.",
+    "Deglaze the skillet with lime juice. Stir well to coat all ingredients evenly.",
+    "If desired, finish by adding a handful of chopped fresh parsley for extra freshness."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crunchy",
+    "vegan",
+    "stir-fry",
+    "monsoon",
+    "vz"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 13,
+    "carbs": 27,
+    "fat": 9
+  },
+  "slug": "peppery-crunchy-vegetarian-cannellini-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crunchy-vegetarian-cannellini-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:11:40Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "deglaze",
+    "primaryIngredient": "cannellini beans",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Vegetarian",
+    "mainIngredient": "Cannellini Beans",
+    "descriptor": "Peppery Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
