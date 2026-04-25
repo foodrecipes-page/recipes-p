@@ -1,0 +1,92 @@
+{
+  "title": "Pineapple Makhani on Sundays",
+  "description": "A herbal, light Indian (Goan) dish featuring pineapple chunks baked to perfection.",
+  "cuisine": "Indian (Goan)",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pineapple",
+      "amount": "1 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "ripe and chopped finely"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "garam masala powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a pan, heat oil over medium heat. Add cumin and coriander seeds; toast until fragrant.",
+    "Add chopped onion and minced garlic. Sauté for about 2 minutes or until softened.",
+    "Stir in finely chopped tomato and grated ginger. Mix well and cook for another minute.",
+    "Fold in fresh pineapple chunks and sprinkle with garam masala powder. Stir gently to combine.",
+    "Transfer the mixture into a baking dish, ensuring even distribution of ingredients.",
+    "Bake in preheated oven for 20-25 minutes or until the edges start to turn golden brown.",
+    "Let it cool slightly before serving warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pineapple",
+    "makhani",
+    "goan",
+    "herbal",
+    "light",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 6
+  },
+  "slug": "pineapple-makhani-on-sundays",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/pineapple-makhani-on-sundays",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:59:37Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "bake",
+    "primaryIngredient": "pineapple chunks",
+    "diet": "egg-free",
+    "region": "goan"
+  }
+}

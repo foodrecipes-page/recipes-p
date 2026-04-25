@@ -283,6 +283,21 @@
     "shard": "p"
   },
   {
+    "slug": "pineapple-makhani-on-sundays",
+    "title": "Pineapple Makhani on Sundays",
+    "tags": [
+      "pineapple",
+      "makhani",
+      "goan",
+      "herbal",
+      "light",
+      "lazy-sunday"
+    ],
+    "cuisine": "Indian (Goan)",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "pistachio-monsoon-medley",
     "title": "Pistachio Monsoon Medley",
     "tags": [
