@@ -1,0 +1,76 @@
+{
+  "title": "Paleo Brown Lentil Salad",
+  "description": "A herbal, juicy Chinese (Cantonese) dish featuring brown lentils, light and refreshing with a touch of herbs.",
+  "cuisine": "Chinese (Cantonese)",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "1 cup brown lentils",
+      "amount": "cup"
+    },
+    {
+      "name": "1 lemon",
+      "amount": "piece"
+    },
+    {
+      "name": "1 bunch scallions",
+      "amount": "bunch"
+    },
+    {
+      "name": "2 tablespoons sesame oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "Juice of 1/4 lemon",
+      "amount": "tsp"
+    },
+    {
+      "name": "1 tablespoon fresh cilantro leaves",
+      "amount": "tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse and soak the brown lentils in water for at least 30 minutes.",
+    "Cook the soaked lentils with a pinch of sea salt in enough water to cover them. Keep warm until ready to use.",
+    "Combine cooked lentils, lemon juice (from one half), minced garlic, sesame oil, scallions, and cilantro leaves. Season with additional sea salt if needed.",
+    "Squeeze the rest of the lemon over the mixture before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paleo",
+    "salad",
+    "herbal",
+    "juicy"
+  ],
+  "nutrition": {
+    "calories": 167,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "paleo-brown-lentil-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/paleo-brown-lentil-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:55:19Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "reduce",
+    "primaryIngredient": "brown lentils",
+    "diet": "paleo",
+    "region": "cantonese"
+  }
+}
