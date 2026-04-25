@@ -27,6 +27,19 @@
     "shard": "p"
   },
   {
+    "slug": "pear-pearls",
+    "title": "Pear Pearls",
+    "tags": [
+      "pear",
+      "air-fry",
+      "bitter",
+      "crunchy"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 16,
+    "shard": "p"
+  },
+  {
     "slug": "peeled-pride",
     "title": "Peeled Pride",
     "tags": [

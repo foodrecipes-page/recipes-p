@@ -1,0 +1,61 @@
+{
+  "title": "Pear Pearls",
+  "description": "A crunchy and adventurous Malaysian dish featuring pears air-fried to be both bitter and chewy, perfect for those with fodmap-friendly diets.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pears",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Wash the pears thoroughly.",
+    "Trim off any stems and prepare as needed.",
+    "Gently cut each pear into small, even pieces to ensure uniform air-frying.",
+    "In a shallow dish, toss the pear pieces with olive oil until well coated.",
+    "Preheat your air fryer to 180°C (350°F).",
+    "Arrange the pear slices in a single layer on the basket of your air fryer.",
+    "Cook for approximately 7-9 minutes, flipping halfway through cooking time.",
+    "Check for doneness by pressing with a fork; they should be golden and crispy but still slightly chewy.",
+    "Remove from air fryer and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pear",
+    "air-fry",
+    "bitter",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 2,
+    "carbs": 18,
+    "fat": 4
+  },
+  "slug": "pear-pearls",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/pear-pearls",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:33:36Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "air-fry",
+    "primaryIngredient": "pears",
+    "diet": "fodmap",
+    "region": null
+  }
+}
