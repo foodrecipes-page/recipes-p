@@ -28,6 +28,19 @@
     "shard": "p"
   },
   {
+    "slug": "panang-spritz",
+    "title": "Panang Spritz",
+    "tags": [
+      "panang-curry-paste",
+      "vegetarian-friendly",
+      "herbal-dish",
+      "crunchy-spritz"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "paneer-date-night-delight",
     "title": "Paneer Date Night Delight",
     "tags": [

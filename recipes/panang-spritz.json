@@ -1,0 +1,90 @@
+{
+  "title": "Panang Spritz",
+  "description": "A refreshing and flavorful herbal dish featuring panang curry paste, blanching vegetables, perfect for a show-off dinner option.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Panang Curry Paste",
+      "amount": "1/4 cup",
+      "notes": "Use vegetarian-friendly panang curry paste if available."
+    },
+    {
+      "name": "Fresh Herbs (e.g., Thai basil, cilantro)",
+      "amount": "2 tbsp",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Vegetables (e.g., baby corns, cherry tomatoes)",
+      "amount": "1 cup each",
+      "notes": "Washed and trimmed"
+    },
+    {
+      "name": "Vegetable Stock or Water",
+      "amount": "3 cups",
+      "notes": "Use low-sodium if needed"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing the vegetables and cooking"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves",
+      "notes": "Chopped finely for flavor enhancement"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "Optional, to taste"
+    },
+    {
+      "name": "Pinch of Black Pepper",
+      "amount": "1 pinch",
+      "notes": "For a little kick in the blend"
+    }
+  ],
+  "instructions": [
+    "In a pan, heat the vegetable oil and add chopped garlic. Sauté for about 30 seconds or until fragrant.",
+    "Add the Panang Curry Paste to the sautéed garlic. Stir well to combine with the oil-paste mixture.",
+    "Pour in the Vegetable Stock or Water, cover, and let it simmer on medium heat for about 10 minutes or until reduced slightly.",
+    "Prepare your vegetables by washing them thoroughly and trimming any excess stems. Place them gently into the curry sauce for a few seconds to soften but not overcook.",
+    "Once all vegetables are blanched, remove from the pot and transfer to a bowl. Leave enough cooking liquid in the pan to keep the curry sauce warm.",
+    "To serve, ladle the hot curry sauce over the veggies. Garnish with fresh herbs for added flavor and presentation.",
+    "Optional: Serve alongside steamed or roasted vegetables or on its own as a light meal.",
+    "For a vegetarian-friendly option, ensure no meat products are used in any preparation steps."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "panang-curry-paste",
+    "vegetarian-friendly",
+    "herbal-dish",
+    "crunchy-spritz"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 6
+  },
+  "slug": "panang-spritz",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/panang-spritz",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:07:27Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "blanch",
+    "primaryIngredient": "panang curry paste",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
