@@ -1,0 +1,92 @@
+{
+  "title": "Peppery Silky Spanish Stir-fry",
+  "description": "A solo-dinner Spanish dish featuring frozen seafood mix in a peppery and silky sauce suitable for nut-free diets.",
+  "cuisine": "Spanish",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Frozen seafood mix",
+      "amount": "1 cup",
+      "notes": "Includes shrimp, mussels, and clams"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "For cooking the frozen seafood mix"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes (to taste)",
+      "amount": "1/2 teaspoon",
+      "notes": "For added flavor and heat"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4, minced",
+      "notes": ""
+    },
+    {
+      "name": "Chili garlic sauce (optional for extra spice)",
+      "amount": "1 tablespoon",
+      "notes": "Can be omitted if not desired"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For stir-frying and coating ingredients"
+    }
+  ],
+  "instructions": [
+    "Prepare the frozen seafood mix according to package instructions. Rinse and pat dry.",
+    "In a large skillet or wok, heat 1 tablespoon of vegetable oil over medium-high heat.",
+    "Add minced garlic and cook for about 30 seconds until fragrant but not browned.",
+    "Gently add the thawed frozen seafood mix (shrimp, mussels, clams) to the skillet. Use tongs or a slotted spoon to prevent overcrowding.",
+    "Sprinkle red pepper flakes evenly over the seafood and stir well to coat them with oil and spices.",
+    "If using chili garlic sauce, pour it in now and stir until fully incorporated into the mixture.",
+    "Pour in 2 cups of water and bring the mixture to a boil. Reduce heat to medium-low and let simmer for about 3-5 minutes or until seafood is cooked through and flavors are well melded.",
+    "Serve hot as a side dish or main course with crusty bread, olives, or a simple green salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "silky",
+    "spanish",
+    "nut-free",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 578,
+    "protein": 32,
+    "carbs": 46,
+    "fat": 20
+  },
+  "slug": "peppery-silky-spanish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-silky-spanish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:59:41Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "temper",
+    "primaryIngredient": "frozen seafood mix",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "seafood",
+    "descriptor": "Peppery Silky",
+    "dishForm": "Stir-fry"
+  }
+}

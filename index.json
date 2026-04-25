@@ -368,6 +368,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-silky-spanish-stir-fry",
+    "title": "Peppery Silky Spanish Stir-fry",
+    "tags": [
+      "peppery",
+      "silky",
+      "spanish",
+      "nut-free",
+      "solo-dinner"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "petit-pois-foldie",
     "title": "Petit Pois Foldie",
     "tags": [
