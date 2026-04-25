@@ -284,6 +284,19 @@
     "shard": "p"
   },
   {
+    "slug": "poppy-smokey",
+    "title": "Poppy Smokey",
+    "tags": [
+      "poppy-seeds",
+      "smoky-syrian-dish",
+      "grilled-appetizer",
+      "low-fat-friendly"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "pork-crispy-temptation",
     "title": "Pork Crispy Temptation",
     "tags": [

@@ -1,0 +1,77 @@
+{
+  "title": "Poppy Smokey",
+  "description": "A romantic Syrian dish featuring ground poppy seeds that are crispy and smoky when grilled, a low-fat-friendly option.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "ground poppy seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "a few sprigs"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup, toasted"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat (around 350°F).",
+    "Mix the ground poppy seeds with olive oil, minced garlic, onion, thyme leaves, and pomegranate molasses. Season with salt and pepper.",
+    "Lightly toast pine nuts in a dry skillet until golden brown, about 2-3 minutes.",
+    "Spread the seed mixture evenly on a baking sheet lined with parchment paper. Grill for 10-15 minutes, or until crispy and fragrant. Keep an eye on it to prevent burning.",
+    "Sprinkle toasted pine nuts over the popped poppy seeds before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "poppy-seeds",
+    "smoky-syrian-dish",
+    "grilled-appetizer",
+    "low-fat-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 5
+  },
+  "slug": "poppy-smokey",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/poppy-smokey",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:23:26Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "grill",
+    "primaryIngredient": "ground poppy seeds",
+    "diet": "low-fat",
+    "region": null
+  }
+}
