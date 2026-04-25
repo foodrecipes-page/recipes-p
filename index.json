@@ -1,5 +1,19 @@
 [
   {
+    "slug": "paneer-date-night-delight",
+    "title": "Paneer Date Night Delight",
+    "tags": [
+      "paneer",
+      "date-night",
+      "russian-dish",
+      "creaminess",
+      "low-carb-friendly"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
     "slug": "pear-melange-grilled-salad",
     "title": "Pear Melange Grilled Salad",
     "tags": [
