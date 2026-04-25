@@ -197,6 +197,19 @@
     "shard": "p"
   },
   {
+    "slug": "pita-fry-tofu-delight",
+    "title": "Pita Fry Tofu Delight",
+    "tags": [
+      "pita",
+      "tofu",
+      "sweet",
+      "fluffy"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "plum-dash-dum",
     "title": "Plum Dash Dum",
     "tags": [

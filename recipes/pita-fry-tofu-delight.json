@@ -1,0 +1,86 @@
+{
+  "title": "Pita Fry Tofu Delight",
+  "description": "A sweet and fluffy Vietnamese dish featuring pita bread fried with high-protein tofu, perfect for meal prepping.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "150g"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "a few tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Minced ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "a few drops"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Crush the garlic and ginger with a mortar and pestle or use a blender.",
+    "In a small bowl, mix together soy sauce, crushed garlic and ginger, sugar, and fish sauce. Set aside.",
+    "Slice pita bread into rounds. Place slices on a baking sheet lined with parchment paper.",
+    "Drizzle each slice with vegetable oil and brush the oil around the edges to prevent burning.",
+    "Pour the marinade over the pita slices. Make sure they are evenly coated.",
+    "Bake for 10 minutes or until golden brown.",
+    "Gently fry the tofu in a non-stick pan using remaining oil, adding a pinch of salt if desired. Fry for about 3-4 minutes each side.",
+    "Assemble by placing pita slices on plates and topping with fried tofu. Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pita",
+    "tofu",
+    "sweet",
+    "fluffy"
+  ],
+  "nutrition": {
+    "calories": 610,
+    "protein": 29,
+    "carbs": 58,
+    "fat": 27
+  },
+  "slug": "pita-fry-tofu-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/pita-fry-tofu-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:46:27Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "fry",
+    "primaryIngredient": "pita bread",
+    "diet": "high-protein",
+    "region": null
+  }
+}
