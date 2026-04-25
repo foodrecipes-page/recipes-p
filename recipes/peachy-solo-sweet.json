@@ -1,0 +1,68 @@
+{
+  "title": "Peachy Solo-Sweet",
+  "description": "A savory and slightly peppery vegan Brazilian dish featuring infused peach juice in a sous-vide setting for an elegant solo dinner experience.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peaches",
+      "amount": "2 medium",
+      "notes": "Use fresh or frozen, thawed if using frozen"
+    },
+    {
+      "name": "Water",
+      "amount": "1 liter",
+      "notes": "Filtered water for sous-vide process"
+    },
+    {
+      "name": "Salt",
+      "amount": "2 tablespoons",
+      "notes": "For the peach filling"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Optional, adds a slight peppery flavor"
+    }
+  ],
+  "instructions": [
+    "Prepare peach filling by peeling and pitting the peaches. Mince finely with salt and paprika (optional).",
+    "Place prepared peaches in a sous-vide bag along with water. Seal tightly.",
+    "Set up your sous-vide machine at an internal temperature of 60°C (140°F) for 3 hours.",
+    "Remove from sous-vide, let cool slightly before using peach mixture as a base for a vegan-friendly dish such as grilled cheese or vegetable skewers.",
+    "Serve the Peachy Solo-Sweet on its own or with a side salad for a complete meal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peachy-solo-sweet",
+    "sous-vide",
+    "vegan-brazilian"
+  ],
+  "nutrition": {
+    "calories": 278,
+    "protein": 6,
+    "carbs": 43,
+    "fat": 12
+  },
+  "slug": "peachy-solo-sweet",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peachy-solo-sweet",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:41:28Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "sous-vide",
+    "primaryIngredient": "peach juice",
+    "diet": "vegan",
+    "region": null
+  }
+}

@@ -68,6 +68,18 @@
     "shard": "p"
   },
   {
+    "slug": "peachy-solo-sweet",
+    "title": "Peachy Solo-Sweet",
+    "tags": [
+      "peachy-solo-sweet",
+      "sous-vide",
+      "vegan-brazilian"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 150,
+    "shard": "p"
+  },
+  {
     "slug": "peanut-butter-grilled-cheesecake",
     "title": "Peanut Butter Grilled Cheesecake",
     "tags": [
