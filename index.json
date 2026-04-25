@@ -27,6 +27,18 @@
     "shard": "p"
   },
   {
+    "slug": "peppercorn-pilaf",
+    "title": "Peppercorn Pilaf",
+    "tags": [
+      "peppercorn",
+      "quinoa",
+      "low-carb"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "plum-pride-filé-filipino-vegetable-dish",
     "title": "Plum Pride Filé Filipino Vegetable Dish",
     "tags": [

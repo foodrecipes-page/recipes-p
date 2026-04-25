@@ -1,0 +1,83 @@
+{
+  "title": "Peppercorn Pilaf",
+  "description": "A low-carb-friendly and nostalgic Australian dish featuring peppercorns for a unique and flavorful twist.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup quinoa",
+      "amount": "cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "2 tablespoons unsalted butter",
+      "amount": "tbsp",
+      "notes": "divided"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "cloves",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup finely chopped fresh parsley",
+      "amount": "cup",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon ground cumin",
+      "amount": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black peppercorns, crushed (about 30-40 whole peppercorns)",
+      "amount": "medium",
+      "notes": "crushed for easier cooking and flavor extraction"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat. Add half of the butter and swirl to coat.",
+    "Add minced garlic, cumin, salt, and crushed peppercorns. Stir until fragrant, about 1 minute.",
+    "Pour in rinsed quinoa and stir well to combine with aromatics. Let cook for 2 minutes, stirring frequently.",
+    "Stir in remaining butter and parsley. Reduce heat to low and cover the skillet. Simmer for 15-20 minutes or until liquid is absorbed and quinoa is tender.",
+    "Fluff the pilaf with a fork before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppercorn",
+    "quinoa",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 156,
+    "protein": 7,
+    "carbs": 8,
+    "fat": 9
+  },
+  "slug": "peppercorn-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppercorn-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:55:52Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "tadka",
+    "primaryIngredient": "peppercorns",
+    "diet": "low-carb",
+    "region": null
+  }
+}
