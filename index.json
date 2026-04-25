@@ -39,6 +39,19 @@
     "shard": "p"
   },
   {
+    "slug": "petit-pois-foldie",
+    "title": "Petit Pois Foldie",
+    "tags": [
+      "petit-pois",
+      "crispy-cozy",
+      "raw-friendly",
+      "easter-morning"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
     "slug": "plum-pride-filé-filipino-vegetable-dish",
     "title": "Plum Pride Filé Filipino Vegetable Dish",
     "tags": [
