@@ -222,6 +222,17 @@
     "shard": "p"
   },
   {
+    "slug": "poached-grape-leaf-delight",
+    "title": "Poached Grape Leaf Delight",
+    "tags": [
+      "poached_grape_leaf_delight",
+      "whole30_friendly_snack"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 10,
+    "shard": "p"
+  },
+  {
     "slug": "poppy-seed-bliss",
     "title": "Poppy Seed Bliss",
     "tags": [

@@ -1,0 +1,69 @@
+{
+  "title": "Poached Grape Leaf Delight",
+  "description": "A salty and crumbly whole30-friendly Filipino dish featuring poached grape leaves that is a crowd-pleaser.",
+  "cuisine": "Filipino",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grape Leaves",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Ground Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Wash grape leaves thoroughly and drain well.",
+    "In a small saucepan, heat olive oil over medium heat.",
+    "Add garlic, sea salt, and ground black pepper. Stir until combined.",
+    "Gently submerge the grape leaves into the heated oil mixture in batches to avoid overcrowding the pan.",
+    "Cook for about 1-2 minutes per side or until fragrant and just slightly crisp.",
+    "Remove from heat and let cool slightly before using as a whole30-friendly snack."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "poached_grape_leaf_delight",
+    "whole30_friendly_snack"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 6
+  },
+  "slug": "poached-grape-leaf-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/poached-grape-leaf-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:51:27Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "poach",
+    "primaryIngredient": "grape leaves",
+    "diet": "whole30",
+    "region": null
+  }
+}
