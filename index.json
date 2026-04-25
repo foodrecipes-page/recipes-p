@@ -29,6 +29,19 @@
     "shard": "p"
   },
   {
+    "slug": "parsnip-jalebi",
+    "title": "Parsnip Jalebi",
+    "tags": [
+      "parsi",
+      "jalebi",
+      "chettinad",
+      "vegan-friendly"
+    ],
+    "cuisine": "Indian (Chettinad)",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "passion-bitter-treat",
     "title": "Passion Bitter Treat",
     "tags": [

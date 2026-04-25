@@ -1,0 +1,75 @@
+{
+  "title": "Parsnip Jalebi",
+  "description": "A nutty and gooey Indian Chettinad dish featuring chopped parsley, a nostalgic twist for those who enjoy the jalebi dessert but with a new flavor profile.",
+  "cuisine": "Indian (Chettinad)",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "parsnip",
+      "amount": "1 medium",
+      "notes": "ensure it is firm and white"
+    },
+    {
+      "name": "sugar syrup",
+      "amount": "as per recipe"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "almond slivers or pistachio nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "a handful, finely chopped"
+    },
+    {
+      "name": "ghee or coconut oil",
+      "amount": "enough for frying"
+    }
+  ],
+  "instructions": [
+    "Wash and peel the parsnip. Cut into thin slices.",
+    "Soak flour in water until it forms a thick batter, adding salt to taste.",
+    "Pour the batter into hot oil prepared for deep-frying or use ghee for shallow-frying, making sure not to overcrowd the pan.",
+    "Fry until golden brown and crisp. Remove from heat and place on paper towels to drain excess oil.",
+    "In a large bowl, mix parsnip slices with sugar syrup, chopped parsley, and almond slivers/pistachio nuts thoroughly.",
+    "Serve warm as a dessert or snack, garnished with additional chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "parsi",
+    "jalebi",
+    "chettinad",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "parsnip-jalebi",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/parsnip-jalebi",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:50:50Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "broil",
+    "primaryIngredient": "chopped parsley",
+    "diet": "jain",
+    "region": "chettinad"
+  }
+}
