@@ -27,6 +27,20 @@
     "shard": "p"
   },
   {
+    "slug": "peeled-pride",
+    "title": "Peeled Pride",
+    "tags": [
+      "peeled-pride",
+      "british-dish",
+      "fluffy",
+      "show-off",
+      "gluten-free"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 55,
+    "shard": "p"
+  },
+  {
     "slug": "peppercorn-pilaf",
     "title": "Peppercorn Pilaf",
     "tags": [

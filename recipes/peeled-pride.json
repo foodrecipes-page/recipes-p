@@ -1,0 +1,74 @@
+{
+  "title": "Peeled Pride",
+  "description": "A unique peppery and fluffy dish featuring mixed peel, perfect for a show-off British breakfast.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Mixed Peel",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Gluten-Free Flour Blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "3 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix the mixed peel, gluten-free flour blend, baking powder, and salt in a large mixing bowl.",
+    "Gradually add water while mixing until you get a stiff dough. Knead the dough for about 2 minutes on a floured surface.",
+    "Place the dough into a lightly oiled pie dish and bake for 30-40 minutes or until golden brown.",
+    "Let it cool before serving with your favorite accompaniments."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "peeled-pride",
+    "british-dish",
+    "fluffy",
+    "show-off",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 27,
+    "fat": 4
+  },
+  "slug": "peeled-pride",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peeled-pride",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:29:04Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "knead",
+    "primaryIngredient": "mixed peel",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
