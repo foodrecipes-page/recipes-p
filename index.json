@@ -25,5 +25,17 @@
     "cuisine": "Mexican",
     "totalTimeMin": 45,
     "shard": "p"
+  },
+  {
+    "slug": "plum-pride-filé-filipino-vegetable-dish",
+    "title": "Plum Pride Filé Filipino Vegetable Dish",
+    "tags": [
+      "plum-joy",
+      "filipino-fiesta",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 60,
+    "shard": "p"
   }
 ]

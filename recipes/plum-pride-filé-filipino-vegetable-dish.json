@@ -1,0 +1,94 @@
+{
+  "title": "Plum Pride Filé Filipino Vegetable Dish",
+  "description": "A buttery and creamy vegetable dish with plum jam as a delightful touch, perfect for vegetarians and vegans.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup of mixed vegetables (e.g., bell peppers, onions, carrots)",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons of vegetable broth or water",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "3 garlic cloves",
+      "amount": "pieces"
+    },
+    {
+      "name": "2 teaspoons of crushed red pepper flakes (optional)",
+      "amount": "teaspoons"
+    },
+    {
+      "name": "1/4 cup of butter",
+      "amount": "cup"
+    },
+    {
+      "name": "1 can of diced tomatoes, 14.5 ounces",
+      "amount": "can"
+    },
+    {
+      "name": "3 tablespoons of all-purpose flour",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "2 cups of chicken or vegetable broth",
+      "amount": "cups"
+    },
+    {
+      "name": "1/2 cup of plum jam",
+      "amount": "cup"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Chives for garnish (optional)",
+      "notes": "to serve"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Sauté garlic in butter until fragrant, about 1 minute. Add mixed vegetables and cook until slightly softened, about 5 minutes.",
+    "Stir in red pepper flakes if using, then add flour and stir well, forming a roux consistency. Gradually pour in broth, stirring continuously to prevent lumps.",
+    "Bring the mixture to a simmer, then reduce heat to low. Stir in plum jam, salt, and pepper, let it thicken for about 5 minutes or until desired thickness is achieved.",
+    "Pour in diced tomatoes, stir well. Place into a baking dish, cover with foil and bake for 20-30 minutes or until heated through.",
+    "Garnish with chives if using before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "plum-joy",
+    "filipino-fiesta",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 315,
+    "protein": 7,
+    "carbs": 29,
+    "fat": 12
+  },
+  "slug": "plum-pride-filé-filipino-vegetable-dish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/plum-pride-filé-filipino-vegetable-dish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:29:20Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "fold",
+    "primaryIngredient": "plum jam",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
