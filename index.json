@@ -397,5 +397,17 @@
     "cuisine": "Syrian",
     "totalTimeMin": 25,
     "shard": "p"
+  },
+  {
+    "slug": "pul-biber-sous-vide-tabbouleh",
+    "title": "Pul Biber Sous-Vide Tabbouleh",
+    "tags": [
+      "pul biber",
+      "sous-vide",
+      "tabbouleh"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 60,
+    "shard": "p"
   }
 ]

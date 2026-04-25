@@ -1,0 +1,90 @@
+{
+  "title": "Pul Biber Sous-Vide Tabbouleh",
+  "description": "A mediterranean-inspired dish featuring pul biber (fermented walnuts) infused with the richness of sous-vide cooking for a unique and flavorful twist on traditional tabbouleh.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "1 cup bulgur",
+      "amount": "cup",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "2 tablespoons fresh parsley",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "2 tablespoons fresh mint leaves",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1/4 teaspoon ground cumin",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/8 teaspoon black pepper",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "3-4 large tomatoes, diced",
+      "amount": "pieces"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "150g (about 6 oz) pul biber (fermented walnuts)",
+      "amount": "grams",
+      "notes": "ensure the texture is smooth and finely chopped"
+    },
+    {
+      "name": "Water for cooking pul biber",
+      "amount": "",
+      "notes": "enough to cover, about 3 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the bulgur under cold water until it stops releasing cloudy liquid. Drain well.",
+    "Mix the washed bulgur with cumin and pepper in a large bowl. Add minced garlic.",
+    "Add diced tomatoes and chopped fresh herbs (parsley, mint).",
+    "In another medium-sized bowl, mix olive oil into finely chopped pul biber until smooth.",
+    "Fold the pul biber mixture into the tabbouleh ingredients gently but thoroughly to distribute evenly.",
+    "Serve chilled as a salad. Optionally, you can add a drizzle of olive oil and squeeze some fresh lemon juice over top for extra freshness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pul biber",
+    "sous-vide",
+    "tabbouleh"
+  ],
+  "nutrition": {
+    "calories": 279,
+    "protein": 10,
+    "carbs": 34,
+    "fat": 14
+  },
+  "slug": "pul-biber-sous-vide-tabbouleh",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/pul-biber-sous-vide-tabbouleh",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:21:35Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "sous-vide",
+    "primaryIngredient": "pul biber",
+    "diet": "mediterranean",
+    "region": null
+  }
+}
