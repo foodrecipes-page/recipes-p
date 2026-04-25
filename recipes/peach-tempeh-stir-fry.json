@@ -1,0 +1,77 @@
+{
+  "title": "Peach Tempeh Stir-Fry",
+  "description": "A garlicky, crispy post-workout meal featuring peach juice tempeh with a pescatarian-friendly twist.",
+  "cuisine": "Dutch",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tempeh",
+      "amount": "200g"
+    },
+    {
+      "name": "Peaches",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soaked Tempeh (as per tempeh package instructions)",
+      "notes": "If not provided, soak tempeh in water for at least 6 hours or overnight."
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "To taste"
+    },
+    {
+      "name": "Peach Juice",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Prepare the soaked tempeh by patting it into a uniform shape if not already done.",
+    "Slice the peaches lengthwise, remove seeds, and slice them thinly. Finely chop the garlic cloves.",
+    "Heat olive oil in a non-stick skillet over medium heat. Add the chopped garlic and cook until fragrant, about 1 minute.",
+    "Add sliced peaches to the skillet along with a pinch of salt and pepper. Cook for another 3-5 minutes or until they start to soften.",
+    "Gently fold the soaked tempeh into the skillet. Pour in peach juice and stir well to ensure all ingredients are evenly coated.",
+    "Cook for an additional 2-4 minutes, stirring occasionally, until the tempeh is cooked through and slightly crispy on the outside."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peach-tempeh-stir-fry",
+    "garlic-pork-stir-fry",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 16,
+    "carbs": 34,
+    "fat": 9
+  },
+  "slug": "peach-tempeh-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peach-tempeh-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:02:03Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "temper",
+    "primaryIngredient": "peach juice",
+    "diet": "pescatarian",
+    "region": null
+  }
+}

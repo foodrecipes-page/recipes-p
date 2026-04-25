@@ -128,6 +128,18 @@
     "shard": "p"
   },
   {
+    "slug": "peach-tempeh-stir-fry",
+    "title": "Peach Tempeh Stir-Fry",
+    "tags": [
+      "peach-tempeh-stir-fry",
+      "garlic-pork-stir-fry",
+      "pescatarian-friendly"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "peachy-solo-sweet",
     "title": "Peachy Solo-Sweet",
     "tags": [
