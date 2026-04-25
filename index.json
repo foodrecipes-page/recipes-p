@@ -91,6 +91,17 @@
     "shard": "p"
   },
   {
+    "slug": "parma-affair",
+    "title": "Parma Affair",
+    "tags": [
+      "parma-affair",
+      "british-dinner"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "parsnip-jalebi",
     "title": "Parsnip Jalebi",
     "tags": [

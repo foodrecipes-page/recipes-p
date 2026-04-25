@@ -1,0 +1,79 @@
+{
+  "title": "Parma Affair",
+  "description": "A savory and comforting dish featuring silky parmesan cheese, perfect for a romantic evening meal.",
+  "cuisine": "British",
+  "diet": [
+    "sour",
+    "silky"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grilled Chicken Breasts",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Melted Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sliced Red Onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "pinch"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "2 tablespoons, grated"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt and Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C). Season the grilled chicken breasts with salt and pepper.",
+    "In a small bowl, mix melted butter, minced garlic, red wine vinegar, grated Parmesan cheese, chopped fresh parsley, and salt and pepper to taste. Mix well.",
+    "Spread the sauce over each piece of chicken evenly.",
+    "Place the chicken in a baking dish and bake for 15 minutes until heated through and golden brown on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "parma-affair",
+    "british-dinner"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 29,
+    "carbs": 16,
+    "fat": 17
+  },
+  "slug": "parma-affair",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/parma-affair",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:40:27Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "simmer",
+    "primaryIngredient": "parmesan cheese",
+    "diet": "fodmap",
+    "region": null
+  }
+}
