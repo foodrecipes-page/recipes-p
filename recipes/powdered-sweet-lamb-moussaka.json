@@ -1,0 +1,74 @@
+{
+  "title": "Powdered Sweet Lamb Moussaka",
+  "description": "A delightful and indulgent low-carb-friendly dessert with a touch of Greek flavor, featuring powdered sugar for an extra sweet finish.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ground lamb",
+      "amount": "100g"
+    },
+    {
+      "name": "Powdered sugar",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "200ml"
+    },
+    {
+      "name": "Egg whites",
+      "amount": "4"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Blend ground lamb, powdered sugar, and vanilla extract until smooth.",
+    "Separate egg whites from yolks. Beat egg whites until stiff peaks form.",
+    "Fold almond flour into the ground lamb mixture gently with a spatula.",
+    "Gently fold the almond flour mixture into the beaten egg whites.",
+    "Pour the mixture onto a greased baking dish and bake for 20 minutes or until golden brown.",
+    "Serve immediately as dessert."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "powdered-sweet-lamb-moussaka",
+    "lazy-sunday-greek-dessert",
+    "blanch-recipe"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 14,
+    "fat": 16
+  },
+  "slug": "powdered-sweet-lamb-moussaka",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/powdered-sweet-lamb-moussaka",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:22:05Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "blanch",
+    "primaryIngredient": "powdered sugar",
+    "diet": "low-carb",
+    "region": null
+  }
+}
