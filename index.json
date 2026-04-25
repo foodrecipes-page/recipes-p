@@ -54,6 +54,19 @@
     "shard": "p"
   },
   {
+    "slug": "pepper-solo",
+    "title": "Pepper Solo",
+    "tags": [
+      "british-dinner",
+      "umami-pepper",
+      "raw-friendly",
+      "silky-sauce"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 10,
+    "shard": "p"
+  },
+  {
     "slug": "peppercorn-pilaf",
     "title": "Peppercorn Pilaf",
     "tags": [
