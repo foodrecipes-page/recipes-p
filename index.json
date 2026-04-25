@@ -222,6 +222,18 @@
     "shard": "p"
   },
   {
+    "slug": "poppy-seed-bliss",
+    "title": "Poppy Seed Bliss",
+    "tags": [
+      "poppy-seeds",
+      "bliss",
+      "croatian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "prawn-broil-medley",
     "title": "Prawn Broil Medley",
     "tags": [

@@ -1,0 +1,90 @@
+{
+  "title": "Poppy Seed Bliss",
+  "description": "A salty and creamy Croatian dish featuring poppy seeds baked into a healthy treat suitable for post-workout meals.",
+  "cuisine": "Croatian",
+  "diet": [
+    "salty",
+    "creamy",
+    "fodmap-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Poppy seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Agave nectar or maple syrup (adjust sweetness to taste)",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Almond milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Ground flaxseed",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cacao powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Pinch of salt",
+      "notes": "for added flavor and texture"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine poppy seeds with almond flour, coconut oil, and vanilla extract.",
+    "Stir in agave nectar or maple syrup until well combined. Add ground flaxseed, cacao powder, and pinch of salt; mix thoroughly.",
+    "Pour mixture into a lined baking dish and bake for 25-30 minutes or until golden brown on top.",
+    "Let cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "poppy-seeds",
+    "bliss",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 318,
+    "protein": 6,
+    "carbs": 52,
+    "fat": 20
+  },
+  "slug": "poppy-seed-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/poppy-seed-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:52:05Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "bake",
+    "primaryIngredient": "poppy seeds",
+    "diet": "fodmap",
+    "region": null
+  }
+}
