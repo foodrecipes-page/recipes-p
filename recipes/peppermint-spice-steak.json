@@ -1,0 +1,90 @@
+{
+  "title": "Peppermint Spice Steak",
+  "description": "A peppery, light, adventurous Saudi Arabian dish featuring beef cooked to perfection with a touch of nut-free-friendly mint and spice blend.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Steak",
+      "amount": "1 lb (450g)",
+      "notes": "Choose a meaty cut of beef like sirloin or ribeye."
+    },
+    {
+      "name": "Peppermint Essence",
+      "amount": "2 tsp (optional but recommended for the mint flavor)",
+      "notes": "For those who prefer a nut-free-friendly option, use this instead of traditional peppermint extract."
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1 tbsp",
+      "notes": "To coat and help with browning."
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking and searing the steak on a pan or grill."
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "1 clove (about 1 tsp)",
+      "notes": "For added depth of flavor."
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1/2 tsp",
+      "notes": "To enhance the meat's natural flavors and provide a warm, earthy note."
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1/4 tsp",
+      "notes": "Another warming spice that complements well with cumin and adds a slight citrusy edge to the dish."
+    },
+    {
+      "name": "Salt and Black Pepper",
+      "amount": "To taste",
+      "notes": "Adjust seasoning based on personal preference for saltiness and spiciness."
+    }
+  ],
+  "instructions": [
+    "Preheat your grill or pan over medium-high heat.",
+    "Season both sides of the steak with a pinch of salt and pepper. If using, mix peppermint essence into flour until fully incorporated.",
+    "Coat the steak evenly with the flour mixture to seal in juices and add texture.",
+    "Heat the oil in a pan or on your grill to medium-high heat (around 375°F). Place the seasoned steak onto the hot surface.",
+    "Sear each side of the steak for about 2-3 minutes per side until golden brown. For grilling, ensure you get good searing time and char marks to enhance the flavor.",
+    "Place the steak back into the pan or grill and cook through (until internal temperature reaches 145°F/65°C for medium-rare). Cooking time will vary based on cut of meat.",
+    "Once cooked, let the steak rest for at least 5 minutes before slicing. This allows the juices to redistribute evenly throughout the meat.",
+    "Serve with a side of your favorite steamed vegetables and garnish with fresh herbs like parsley or mint if using peppermint essence."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peppermint-spice-steak",
+    "saudi-arabian-dish",
+    "beef-cuisine",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "peppermint-spice-steak",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppermint-spice-steak",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:14:33Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "reduce",
+    "primaryIngredient": "beef",
+    "diet": "nut-free",
+    "region": null
+  }
+}

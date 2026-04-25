@@ -184,6 +184,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppermint-spice-steak",
+    "title": "Peppermint Spice Steak",
+    "tags": [
+      "peppermint-spice-steak",
+      "saudi-arabian-dish",
+      "beef-cuisine",
+      "nut-free-friendly"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "petit-pois-foldie",
     "title": "Petit Pois Foldie",
     "tags": [
