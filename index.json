@@ -39,6 +39,18 @@
     "shard": "p"
   },
   {
+    "slug": "peppermint-saute",
+    "title": "Peppermint Saute",
+    "tags": [
+      "peppermint",
+      "saute",
+      "plant-based-friendly"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "petit-pois-foldie",
     "title": "Petit Pois Foldie",
     "tags": [
