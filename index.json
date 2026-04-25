@@ -219,6 +219,19 @@
     "shard": "p"
   },
   {
+    "slug": "pepper-crispini",
+    "title": "Pepper Crispini",
+    "tags": [
+      "pepper",
+      "crispini",
+      "british",
+      "mediterranean"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "pepper-solo",
     "title": "Pepper Solo",
     "tags": [
