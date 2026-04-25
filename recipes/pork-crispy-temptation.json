@@ -1,0 +1,91 @@
+{
+  "title": "Pork Crispy Temptation",
+  "description": "A tangy and crispy gluten-free Ukrainian pork dish perfect for a solo dinner.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork loin",
+      "amount": "250g",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 tbsp",
+      "notes": "For dredging"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tbsp",
+      "notes": "Mix with water to make a slurry for the sauce"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "Dill sprigs",
+      "amount": "2, chopped finely"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Mix cornstarch with water to create a slurry.",
+    "Toss the pork pieces in flour and coat evenly. Shake off excess.",
+    "Fry the coated pork slices until golden brown, about 3 minutes per side on medium-high heat.",
+    "In a small saucepan, combine soy sauce, apple cider vinegar, sugar, minced garlic, and dill sprigs with slurry; bring to boil and reduce by half for the glaze.",
+    "Brush the glazed mixture over the fried pork slices and return to oven until heated through and juices run clear, about 5 minutes more.",
+    "Serve hot as a gluten-free solo dinner dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "pork",
+    "crispy",
+    "tangy",
+    "ukrainian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 25,
+    "carbs": 18,
+    "fat": 26
+  },
+  "slug": "pork-crispy-temptation",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/pork-crispy-temptation",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:44:35Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "fry",
+    "primaryIngredient": "pork",
+    "diet": "gluten-free",
+    "region": null
+  }
+}

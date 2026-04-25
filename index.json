@@ -234,6 +234,20 @@
     "shard": "p"
   },
   {
+    "slug": "pork-crispy-temptation",
+    "title": "Pork Crispy Temptation",
+    "tags": [
+      "pork",
+      "crispy",
+      "tangy",
+      "ukrainian",
+      "gluten-free"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "prawn-broil-medley",
     "title": "Prawn Broil Medley",
     "tags": [
