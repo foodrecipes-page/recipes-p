@@ -103,6 +103,20 @@
     "shard": "p"
   },
   {
+    "slug": "pistachio-monsoon-medley",
+    "title": "Pistachio Monsoon Medley",
+    "tags": [
+      "pistachio",
+      "bhuna",
+      "mediterranean",
+      "monsoon",
+      "kosher-friendly"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "pistaco-tandoori-delight",
     "title": "Pistaco Tandoori Delight",
     "tags": [

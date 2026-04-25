@@ -1,0 +1,94 @@
+{
+  "title": "Pistachio Monsoon Medley",
+  "description": "A peppery, dense mediterranean dish featuring pistachio paste, bhuna spices, and kosher-friendly ingredients to celebrate the monsoon season.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pistachio Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Bhuna Spices Blend (Turmeric, Chili Powder, Cumin)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 large, finely chopped"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Tomatoes (Diced)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "2 tablespoons, chopped"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup, finely ground"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Curry Powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onions and sauté until translucent, about 5 minutes.",
+    "Stir in garlic and cumin seeds until fragrant, about 30 seconds.",
+    "Pour in diced tomatoes, salt, and cook for an additional 10 minutes or until tomatoes soften.",
+    "Combine chopped basil leaves, ground pistachios, curry powder, and bhuna spices blend with the tomato mixture. Mix well to combine.",
+    "Simmer for another 5-7 minutes allowing flavors to meld together.",
+    "Serve hot over rice, naan bread, or as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pistachio",
+    "bhuna",
+    "mediterranean",
+    "monsoon",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "pistachio-monsoon-medley",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/pistachio-monsoon-medley",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:47:09Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "bhuna",
+    "primaryIngredient": "pistachio paste",
+    "diet": "kosher",
+    "region": null
+  }
+}
