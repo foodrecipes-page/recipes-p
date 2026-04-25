@@ -352,6 +352,22 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-french-coconut-crumble",
+    "title": "Peppery French Coconut Crumble",
+    "tags": [
+      "peppery",
+      "crumbly",
+      "energizing",
+      "french",
+      "coconut",
+      "breakfast",
+      "snack"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "petit-pois-foldie",
     "title": "Petit Pois Foldie",
     "tags": [
