@@ -1,0 +1,89 @@
+{
+  "title": "Paleo Monsoon Porridge",
+  "description": "A nutty and dense dish inspired by the flavors of monsoon in Saudi Arabia, made with warm water and paleo-friendly ingredients for a light breakfast.",
+  "cuisine": "Saudi Arabian (Paleo-Inspired)",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Almond Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cacao Powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Dates, Medjool",
+      "amount": "4 dates (soaked)"
+    },
+    {
+      "name": "Cashews, Roasted",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Walnuts, Roasted",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Macadamia Nuts, Roasted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sunflower Seeds, Chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Pinch of Salt",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Toast cashews, walnuts, and macadamia nuts in a dry pan until fragrant.",
+    "In a medium pot or saucepan, heat coconut oil over low heat.",
+    "Add almond milk and cacao powder, stirring continuously to prevent burning. Allow it to simmer for about 5 minutes.",
+    "Remove from heat and fold in the soaked dates, toasted nuts, and sunflower seeds.",
+    "Stir gently until the mixture is thickened slightly but still liquid enough for porridge-like consistency.",
+    "Add a pinch of salt if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paleo",
+    "saudi-arabian",
+    "monsoon",
+    "nutty",
+    "dense",
+    "porridge"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 10,
+    "carbs": 38,
+    "fat": 16
+  },
+  "slug": "paleo-monsoon-porridge",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/paleo-monsoon-porridge",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:26:19Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "steam",
+    "primaryIngredient": "warm water",
+    "diet": "paleo",
+    "region": null
+  }
+}
