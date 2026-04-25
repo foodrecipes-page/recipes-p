@@ -1,0 +1,89 @@
+{
+  "title": "Pear Melange Grilled Salad",
+  "description": "A salty and silky vegetarian-friendly Mexican dish featuring grilled pears in a crowd-pleasing salad.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Grilled Pears",
+      "amount": "4 medium pears",
+      "notes": "Choose ripe but not mushy pears."
+    },
+    {
+      "name": "Coconut Lime Yogurt Dressing",
+      "amount": "1 cup",
+      "notes": "Can be homemade or store-bought."
+    },
+    {
+      "name": "Cilantro-Lime Vinaigrette",
+      "amount": "1/4 cup",
+      "notes": "Mixes well with the coconut lime yogurt dressing."
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "2 cups",
+      "notes": "Any type of mixed greens can be used."
+    },
+    {
+      "name": "Chopped Avocado",
+      "amount": "1 medium avocado",
+      "notes": "For added creaminess and nutrition."
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "few handfuls",
+      "notes": "To add freshness to the dish."
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 small red onion, finely chopped",
+      "notes": "Optional for additional crunch and flavor."
+    },
+    {
+      "name": "Pomegranate Seeds",
+      "amount": "2 tablespoons",
+      "notes": "For a pop of color and sweetness."
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Wash the pears, cut them into chunks, and brush them with oil. Grill for about 10 minutes or until they are tender and charred on some parts.",
+    "In a mixing bowl, combine grilled pears, mixed greens, chopped avocado, mint leaves, red onion (if using), and pomegranate seeds.",
+    "Mix in the coconut lime yogurt dressing and cilantro-lime vinaigrette. Toss gently to combine.",
+    "Divide the salad among plates and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pear",
+    "grilled",
+    "salad",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 3,
+    "carbs": 31,
+    "fat": 9
+  },
+  "slug": "pear-melange-grilled-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/pear-melange-grilled-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:06:15Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "grill",
+    "primaryIngredient": "pears",
+    "diet": "vegetarian",
+    "region": null
+  }
+}

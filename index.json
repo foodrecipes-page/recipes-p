@@ -1,9 +1,15 @@
-{
-  "version": 1,
-  "shard": "p",
-  "description": "Recipe cache shard for foodrecipes.page. Contains recipes whose slug starts with 'the letter 'p''.",
-  "cdn": "https://cdn.jsdelivr.net/gh/foodrecipes-page/recipes-p@main/",
-  "license": "CC-BY-NC-SA-4.0",
-  "generatedAt": null,
-  "count": 0
-}
+[
+  {
+    "slug": "pear-melange-grilled-salad",
+    "title": "Pear Melange Grilled Salad",
+    "tags": [
+      "pear",
+      "grilled",
+      "salad",
+      "vegetarian"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "p"
+  }
+]
