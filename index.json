@@ -322,6 +322,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-chewy-italian-lamb-stir-fry",
+    "title": "Peppery Chewy Italian Lamb Stir-fry",
+    "tags": [
+      "peppery",
+      "chewy",
+      "italian",
+      "lamb",
+      "stir-fry",
+      "nut-free-friendly"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crunchy-vegetarian-cannellini-beans-stir-fry",
     "title": "Peppery Crunchy Vegetarian Cannellini Beans Stir-fry",
     "tags": [

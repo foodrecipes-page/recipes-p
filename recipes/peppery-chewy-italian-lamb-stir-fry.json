@@ -1,0 +1,94 @@
+{
+  "title": "Peppery Chewy Italian Lamb Stir-fry",
+  "description": "This nut-free-friendly peppery and chewy Italian lamb dish is perfect for a sick-day meal. It features aromatic lamb stock and savory stir-fried ingredients.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb mince",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "2-3 teaspoons",
+      "notes": "For added heat"
+    },
+    {
+      "name": "Basil leaves",
+      "amount": "10g",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "50ml",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "To taste",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add chopped onion and minced garlic, sauté for about 3 minutes until softened.",
+    "Gradually add lamb mince to the pan, breaking it up with a wooden spoon.",
+    "Season with red pepper flakes, salt, and freshly ground black pepper as desired. Stir occasionally for about 5-7 minutes or until the mixture turns brown.",
+    "Remove from heat and add chopped basil leaves. Mix well to combine.",
+    "Serve hot over steamed vegetables or rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "chewy",
+    "italian",
+    "lamb",
+    "stir-fry",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 256,
+    "protein": 20.78,
+    "carbs": 4.83,
+    "fat": 10.9
+  },
+  "slug": "peppery-chewy-italian-lamb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-chewy-italian-lamb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:52:09Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "stir-fry",
+    "primaryIngredient": "lamb stock",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "lamb",
+    "descriptor": "Peppery Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
