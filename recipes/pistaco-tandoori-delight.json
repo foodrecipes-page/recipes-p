@@ -1,0 +1,85 @@
+{
+  "title": "Pistaco Tandoori Delight",
+  "description": "A savory, fluffy, indulgent British dish featuring pistachio paste in a low-sodium-friendly recipe prepared in the traditional tandoor style.",
+  "cuisine": "British",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pistachio Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Fresh Herbs (e.g., Basil, Thyme)",
+      "amount": "1 tablespoon each"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": ""
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your tandoor to around 350°F.",
+    "In a small bowl, mix the olive oil with the chopped fresh herbs. Set aside.",
+    "In another bowl, combine the pistachio paste, coconut milk, almond flour, cornstarch, turmeric powder, salt, and ground cumin. Mix well until smooth.",
+    "Pour the mixture into the tandoor and swirl it around to coat evenly with the oil and herbs.",
+    "Close the tandoor and cook for about 20-30 minutes or until the crust is golden brown.",
+    "Serve hot as a dessert."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-dessert",
+    "tandoori-style",
+    "pistachio-dish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "pistaco-tandoori-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/pistaco-tandoori-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:11:23Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "tandoor",
+    "primaryIngredient": "pistachio paste",
+    "diet": "low-sodium",
+    "region": null
+  }
+}

@@ -78,6 +78,18 @@
     "shard": "p"
   },
   {
+    "slug": "pistaco-tandoori-delight",
+    "title": "Pistaco Tandoori Delight",
+    "tags": [
+      "british-dessert",
+      "tandoori-style",
+      "pistachio-dish"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "plum-pride-filé-filipino-vegetable-dish",
     "title": "Plum Pride Filé Filipino Vegetable Dish",
     "tags": [
