@@ -1,0 +1,71 @@
+{
+  "title": "Pine Nut Medley",
+  "description": "A fresh, fluffy, comforting Malaysian dish featuring pine nuts, bhuna spices, and a mediterranean twist for a delightful snack.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped cucumber",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "capers",
+      "amount": "10 pcs"
+    },
+    {
+      "name": "red onion, finely chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "bhuna spice mix (Turmeric, Cumin, and Coriander)",
+      "notes": "about 1 tsp each"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine pine nuts, chopped cucumber, capers, red onion, olive oil, and bhuna spice mix.",
+    "Gently toss until all ingredients are evenly coated with the dressing.",
+    "Serves about 2 people as a snack."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "pine nuts",
+    "bhuna spice",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2,
+    "carbs": 14,
+    "fat": 7
+  },
+  "slug": "pine-nut-medley",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/pine-nut-medley",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:45:22Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "bhuna",
+    "primaryIngredient": "pine nuts",
+    "diet": "mediterranean",
+    "region": null
+  }
+}

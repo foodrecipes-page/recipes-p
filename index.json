@@ -91,6 +91,18 @@
     "shard": "p"
   },
   {
+    "slug": "pine-nut-medley",
+    "title": "Pine Nut Medley",
+    "tags": [
+      "pine nuts",
+      "bhuna spice",
+      "mediterranean"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 5,
+    "shard": "p"
+  },
+  {
     "slug": "pistaco-tandoori-delight",
     "title": "Pistaco Tandoori Delight",
     "tags": [
