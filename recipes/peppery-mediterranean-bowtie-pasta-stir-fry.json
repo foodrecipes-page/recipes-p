@@ -1,0 +1,89 @@
+{
+  "title": "Peppery Mediterranean Bowtie Pasta Stir-fry",
+  "description": "A crispy and peppery mediterranean dish featuring bowtie pasta with a dash-friendly sauce that can be enjoyed as a light lunch or dinner.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bowtie Pasta",
+      "amount": "1 cup dry"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pitted Kalamata olives",
+      "amount": "10 pieces"
+    },
+    {
+      "name": "Capers",
+      "amount": "1 oz, finely chopped"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "Tomato puree (optional)",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Cook the bowtie pasta according to package instructions until al dente.",
+    "In a large skillet or wok, heat olive oil over medium-high heat. Add minced garlic and red pepper flakes; sauté for about 30 seconds until fragrant.",
+    "Add sliced onions and cook until translucent, stirring occasionally.",
+    "Stir in the kalamata olives, tomato puree (if using), and finely chopped capers. Cook for another minute until slightly thickened.",
+    "Toss cooked bowtie pasta with the onion-tomato-caper mixture. If desired, stir in fresh parsley to give it a pop of color and flavor.",
+    "Serve immediately while warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crispy",
+    "light",
+    "mediterranean",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 42,
+    "fat": 9
+  },
+  "slug": "peppery-mediterranean-bowtie-pasta-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-mediterranean-bowtie-pasta-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:01:10Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "simmer",
+    "primaryIngredient": "bowtie pasta",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Bowtie Pasta",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}
