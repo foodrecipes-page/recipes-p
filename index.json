@@ -337,6 +337,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-crispy-pumpkin-croissant",
+    "title": "Peppery Crispy Pumpkin Croissant",
+    "tags": [
+      "peppery",
+      "crispy",
+      "pumpkin",
+      "egg-free"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crunchy-vegetarian-cannellini-beans-stir-fry",
     "title": "Peppery Crunchy Vegetarian Cannellini Beans Stir-fry",
     "tags": [
