@@ -1,0 +1,90 @@
+{
+  "title": "Peppery Tender Dutch Potato Stir-fry",
+  "description": "A spicy and flavorful dish featuring tender potatoes mixed with a tangy green salsa for a low-sodium dinner option.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-calorie",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes, diced",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Green salsa mix (store-bought or homemade)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Bell peppers, sliced",
+      "amount": "1 medium (about 1 cup)"
+    },
+    {
+      "name": "Red onion, thinly sliced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coarse salt and black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add diced potatoes and sauté until slightly golden, about 5 minutes.",
+    "Stir in minced garlic, red onion, and green salsa mix. Cook for an additional minute.",
+    "Add salt and pepper to taste. Mix well.",
+    "Increase heat to high, add sliced bell peppers. Stir-fry for another 2-3 minutes until tender-crisp.",
+    "Serve hot as a side dish or main course with your choice of protein."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "tender",
+    "dutch",
+    "potato",
+    "stir-fry",
+    "green-salsa",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 7,
+    "carbs": 28,
+    "fat": 10
+  },
+  "slug": "peppery-tender-dutch-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-tender-dutch-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:08:38Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "dum",
+    "primaryIngredient": "green salsa",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Potato",
+    "descriptor": "Peppery Tender",
+    "dishForm": "Stir-fry"
+  }
+}
