@@ -478,6 +478,22 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-spanish-oats-stir-fry",
+    "title": "Peppery Spanish Oats Stir-fry",
+    "tags": [
+      "peppery",
+      "fluffy",
+      "energizing",
+      "spanish",
+      "oats",
+      "stir-fry",
+      "high-protein-friendly"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-tender-dutch-potato-stir-fry",
     "title": "Peppery Tender Dutch Potato Stir-fry",
     "tags": [

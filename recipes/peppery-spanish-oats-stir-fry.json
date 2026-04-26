@@ -1,0 +1,80 @@
+{
+  "title": "Peppery Spanish Oats Stir-fry",
+  "description": "A peppery and energizing Spanish dish featuring oat milk, cured meats, and high-protein-friendly elements for a nutritious breakfast.",
+  "cuisine": "Spanish",
+  "diet": [
+    "high-protein",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Oat Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cured Meat (such as chorizo or salami)",
+      "amount": "80g",
+      "notes": "Use thinly sliced for easier cooking."
+    },
+    {
+      "name": "Spanish Oats",
+      "amount": "2 cups",
+      "notes": "Rinsed and drained."
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp ground cumin, 1 tsp chili powder, salt to taste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together the ground cumin, chili powder, and salt.",
+    "Heat vegetable oil in a skillet over medium heat. Add sliced cured meat and cook until browned on all sides.",
+    "Add Spanish Oats to the skillet with the meat, stir-fry for 2-3 minutes, then add oat milk and cooked oats. Stir well to combine.",
+    "Turn down the heat and let it simmer for another 5-7 minutes or until the oats are fully cooked.",
+    "Stir in the mixture of ground cumin, chili powder, and salt into the dish and cook for an additional minute.",
+    "Garnish with fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "fluffy",
+    "energizing",
+    "spanish",
+    "oats",
+    "stir-fry",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 27,
+    "fat": 18
+  },
+  "slug": "peppery-spanish-oats-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-spanish-oats-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:15:00Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "cure",
+    "primaryIngredient": "oat milk",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Oats",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}
