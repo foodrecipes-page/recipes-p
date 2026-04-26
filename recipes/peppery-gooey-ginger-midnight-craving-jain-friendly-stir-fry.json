@@ -1,0 +1,88 @@
+{
+  "title": "Peppery Gooey Ginger Midnight Craving JAIN-FRIENDLY Stir-fry",
+  "description": "A dutch dish featuring cloves and ginger to satisfy midnight cravings with a spicy and gooey texture suitable for those following a jain-friendly diet.",
+  "cuisine": "Dutch",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ginger",
+      "amount": "1 tbsp",
+      "notes": "Fresh or powdered"
+    },
+    {
+      "name": "Clove",
+      "amount": "4-6 cloves",
+      "notes": "Cloves can be ground to a fine powder if using whole cloves for easier blending"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup",
+      "notes": "Regular soy sauce is preferred, but tamari or gluten-free alternative could work as well"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tsp",
+      "notes": "High smoke point for stir-frying and flavor infusion"
+    },
+    {
+      "name": "Green Onions (Scallion)",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Peanuts or Almonds (Optional)",
+      "amount": "3 tbsp crushed",
+      "notes": "For extra crunch and flavor"
+    }
+  ],
+  "instructions": [
+    "Blend ginger, ground cloves, soy sauce, water, and oil in a food processor until smooth.",
+    "Heat oil in a wok over medium-high heat. Add chopped green onions and peanuts/almonds (if using), tossing for about 1 minute to warm them up.",
+    "Pour the blended spice mixture into the hot pan with the vegetables and toss well to coat evenly.",
+    "Stir-fry until most of the liquid evaporates and the dish is thickened, approximately 5-7 minutes. Serve immediately while still gooey."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "goosey",
+    "midnight-craving",
+    "dutch",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 24,
+    "fat": 9
+  },
+  "slug": "peppery-gooey-ginger-midnight-craving-jain-friendly-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-gooey-ginger-midnight-craving-jain-friendly-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:18:19Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "reduce",
+    "primaryIngredient": "cloves",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Ginger",
+    "descriptor": "Peppery Gooey Midnight Craving JAIN-FRIENDLY",
+    "dishForm": "Stir-fry"
+  }
+}
