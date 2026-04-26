@@ -1,0 +1,95 @@
+{
+  "title": "Peppery Greek Paprika Stir-fry",
+  "description": "A crisp and peppery Greek dish featuring red chilli flakes in an air-fried twist, perfect for a lazy Sunday dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "200g",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Red chilli flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "Minced finely"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "200g",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "Chopped into bite-sized pieces"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Minced parsley",
+      "amount": "1/4 cup",
+      "notes": "Freshly chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat your air fryer to 375°F (190°C).",
+    "In a bowl, mix the chicken pieces with minced garlic and olive oil. Toss gently.",
+    "Season the chicken lightly with salt and pepper.",
+    "Place the seasoned chicken on a wire rack in an airtight container for air frying. Cook for about 5 minutes per side until golden brown and fully cooked.",
+    "While the chicken is cooking, prepare the vegetables by sautéing them in the same pan used to cook the chicken (or another pan if needed) with a bit of olive oil. Add minced garlic, chilli flakes, and red onion for a few minutes.",
+    "Add zucchini and red bell pepper to the pan. Cook until veggies are tender but still crisp, about 5-7 minutes.",
+    "Once the chicken is fully cooked and set aside, gently fold in the vegetables into the chicken mixture.",
+    "Top with fresh parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crisp",
+    "lazy-sunday",
+    "greek",
+    "dish"
+  ],
+  "nutrition": {
+    "calories": 369,
+    "protein": 28,
+    "carbs": 16,
+    "fat": 14
+  },
+  "slug": "peppery-greek-paprika-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-greek-paprika-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:31:45Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "air-fry",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Paprika",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}

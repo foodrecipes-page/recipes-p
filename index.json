@@ -368,6 +368,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-greek-paprika-stir-fry",
+    "title": "Peppery Greek Paprika Stir-fry",
+    "tags": [
+      "peppery",
+      "crisp",
+      "lazy-sunday",
+      "greek",
+      "dish"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-silky-spanish-stir-fry",
     "title": "Peppery Silky Spanish Stir-fry",
     "tags": [
