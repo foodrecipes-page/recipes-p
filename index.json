@@ -854,6 +854,19 @@
     "shard": "p"
   },
   {
+    "slug": "poached-almond-irish-stir-fry",
+    "title": "Poached Almond Irish Stir-fry",
+    "tags": [
+      "poached",
+      "stir-fry",
+      "almond-milk",
+      "monsoon"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
     "slug": "poached-chickpea-delight",
     "title": "Poached Chickpea Delight",
     "tags": [

@@ -1,0 +1,82 @@
+{
+  "title": "Poached Almond Irish Stir-fry",
+  "description": "A savory and creamy monsoon-inspired dish featuring almond milk as a dairy-free alternative, perfect for breakfast or snack time.",
+  "cuisine": "Irish",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almond Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Almonds",
+      "amount": "3 tablespoons, chopped"
+    },
+    {
+      "name": "Green Onion",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "Wheatgrass Powder",
+      "amount": "1/4 teaspoon, optional for color and flavor"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat. Add oil and swirl to coat.",
+    "Add almonds, sauté for about 30 seconds until lightly golden.",
+    "Stir in garlic and green onions; cook for about 1 minute until fragrant.",
+    "Pour in almond milk, add tomato paste, and a pinch of wheatgrass powder if using. Stir well to combine.",
+    "Simmer gently on medium-low heat for about 5 minutes allowing flavors to meld together.",
+    "Serve immediately as a creamy almond-based breakfast or snack dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "poached",
+    "stir-fry",
+    "almond-milk",
+    "monsoon"
+  ],
+  "nutrition": {
+    "calories": 265,
+    "protein": 7,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "poached-almond-irish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/poached-almond-irish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:48:45Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "poach",
+    "primaryIngredient": "almond milk",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Almond",
+    "descriptor": "Poached",
+    "dishForm": "Stir-fry"
+  }
+}
