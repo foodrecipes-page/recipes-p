@@ -407,6 +407,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-fluffy-indulgent-norwegian-pork-belly-stir-fry",
+    "title": "Peppery Fluffy Indulgent Norwegian Pork Belly Stir-fry",
+    "tags": [
+      "peppery-fluffy",
+      "indulgent-norwegian",
+      "pork-belly-stir-fry",
+      "diabetic-friendly"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-fluffy-papaya-salad",
     "title": "Peppery Fluffy Papaya Salad",
     "tags": [

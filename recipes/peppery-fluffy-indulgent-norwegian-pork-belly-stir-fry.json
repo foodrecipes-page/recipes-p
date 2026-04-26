@@ -1,0 +1,76 @@
+{
+  "title": "Peppery Fluffy Indulgent Norwegian Pork Belly Stir-fry",
+  "description": "This dish features caramelized pork belly slices with a peppery kick and is designed to be indulgent yet diabetic-friendly.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Belly",
+      "amount": "100g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3-4 cloves"
+    },
+    {
+      "name": "Red Pepper Flakes (Szechuan Peppercorns)",
+      "amount": "a few flakes, optional for spiciness"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and Black Pepper",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Cut the pork belly into bite-sized pieces. Season lightly with salt and pepper.",
+    "In a pan, heat olive oil over medium-high heat. Add onion and garlic; sauté until fragrant and translucent.",
+    "Fold in the seasoned pork belly slices. Sauté for 5 minutes or until they start to brown slightly on all sides.",
+    "Remove from heat and allow to rest while adding red pepper flakes if desired. Reheat gently over low flame just before serving.",
+    "Serve hot as a main dish with steamed vegetables or rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery-fluffy",
+    "indulgent-norwegian",
+    "pork-belly-stir-fry",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 31,
+    "carbs": 14,
+    "fat": 16
+  },
+  "slug": "peppery-fluffy-indulgent-norwegian-pork-belly-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-fluffy-indulgent-norwegian-pork-belly-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:23:46Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "caramelize",
+    "primaryIngredient": "pork belly slices",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "pork belly",
+    "descriptor": "Peppery Fluffy Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
