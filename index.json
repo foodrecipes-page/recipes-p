@@ -452,6 +452,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-japanese-colby-jack-cheese-stir-fry",
+    "title": "Peppery Japanese Colby Jack Cheese Stir-fry",
+    "tags": [
+      "peppery",
+      "japanese",
+      "colby jack cheese",
+      "stir-fry"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 60,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-mediterranean-bowtie-pasta-stir-fry",
     "title": "Peppery Mediterranean Bowtie Pasta Stir-fry",
     "tags": [

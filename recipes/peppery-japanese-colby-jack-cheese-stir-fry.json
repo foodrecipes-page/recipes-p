@@ -1,0 +1,100 @@
+{
+  "title": "Peppery Japanese Colby Jack Cheese Stir-fry",
+  "description": "A spicy and savory dish featuring Japanese-style stir-frying with a blend of colby jack cheese for an adventurous yet high-protein-friendly meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "high-protein",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Colby Jack Cheese",
+      "amount": "1 cup grated"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "4 pieces, sliced thinly"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2, diced"
+    },
+    {
+      "name": "Scallions",
+      "amount": "4, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Oyster Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pepper Flakes (Kabura Pansito)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon, toasted"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cornstarch Water Mixture",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat. Add sesame seeds and cook for about 30 seconds until golden brown.",
+    "Add chicken slices to the heated pan, stirring occasionally until cooked through (about 5-7 minutes).",
+    "Remove chicken from pan and set aside. In the same pan, add oyster sauce, soy sauce, garlic, bell peppers, scallions, and pepper flakes. Stir-fry for about 3 minutes.",
+    "Add rice vinegar to the stir-fried vegetables and cook for another minute until slightly reduced.",
+    "Return chicken to the pan with the vegetable mixture. Mix in grated colby jack cheese and stir quickly to combine (about 1 minute).",
+    "Thicken the sauce by adding cornstarch water mixture, stirring continuously to avoid burning.",
+    "Serve hot over cooked rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "japanese",
+    "colby jack cheese",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 529,
+    "protein": 31,
+    "carbs": 28,
+    "fat": 16
+  },
+  "slug": "peppery-japanese-colby-jack-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-japanese-colby-jack-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:22:44Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "whisk",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Colby Jack Cheese",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}
