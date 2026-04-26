@@ -521,6 +521,18 @@
     "shard": "p"
   },
   {
+    "slug": "poached-pecan-italian-stir-fry",
+    "title": "Poached Pecan Italian Stir-fry",
+    "tags": [
+      "italian",
+      "stir-fry",
+      "sweetened-condensed-milk"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
     "slug": "poppy-seed-bliss",
     "title": "Poppy Seed Bliss",
     "tags": [
