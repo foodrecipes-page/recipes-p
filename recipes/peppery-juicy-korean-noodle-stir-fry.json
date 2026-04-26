@@ -1,0 +1,104 @@
+{
+  "title": "Peppery Juicy Korean Noodle Stir-fry",
+  "description": "A crowd-pleaser korean dish featuring noodles that are poached and served with a spicy kimchi sauce.",
+  "cuisine": "Korean",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Kimchi",
+      "amount": "150g",
+      "notes": "Use whole kimchi for extra crunch."
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tbsp minced"
+    },
+    {
+      "name": "Jalapeno Peppers",
+      "amount": "2 slices or 20g finely chopped"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp liquid soy, 1 tbsp tamari (gluten-free soy sauce)"
+    },
+    {
+      "name": "Korean Chili Paste (Gochujang)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tsp for flavoring"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Sesame Seeds (optional)",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse rice noodles under cold water and soak them in hot water for about 10 minutes.",
+    "In a small saucepan, combine kimchi with a pinch of salt. Let it sit at room temperature for at least 30 minutes or up to overnight.",
+    "Prepare the stir-fry: Heat oil in a wok over medium-high heat. Add sliced jalapenos and sauté until slightly softened but not browned.",
+    "Add minced garlic, ginger, and salt. Stir-fry for about 1 minute.",
+    "Push aside the vegetables to one side of the pan and add kimchi mixture (and its liquid) along with soy sauce, tamari, gochujang, and fish sauce to another part of the wok.",
+    "Combine the stir-fried vegetables and kimchi sauce. Bring it to a simmer, then mix in the cooked rice noodles evenly.",
+    "Stir frequently until everything is coated in the sauce (about 2-3 minutes).",
+    "Garnish with sesame seeds if desired. Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kimchi",
+    "stir-fry",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 387,
+    "protein": 16,
+    "carbs": 59,
+    "fat": 22
+  },
+  "slug": "peppery-juicy-korean-noodle-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-juicy-korean-noodle-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:10:48Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "poach",
+    "primaryIngredient": "noodles",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Noodles",
+    "descriptor": "Peppery Juicy",
+    "dishForm": "Stir-fry"
+  }
+}

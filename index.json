@@ -505,6 +505,18 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-juicy-korean-noodle-stir-fry",
+    "title": "Peppery Juicy Korean Noodle Stir-fry",
+    "tags": [
+      "kimchi",
+      "stir-fry",
+      "whole30-friendly"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-mediterranean-bowtie-pasta-stir-fry",
     "title": "Peppery Mediterranean Bowtie Pasta Stir-fry",
     "tags": [
