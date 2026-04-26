@@ -493,6 +493,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-irish-dates-stir-fry",
+    "title": "Peppery Irish Dates Stir-fry",
+    "tags": [
+      "peppery",
+      "crisp",
+      "irish-dates",
+      "full-fat-sour-cream",
+      "nut-free"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-italian-bread-flour-stir-fry",
     "title": "Peppery Italian Bread Flour Stir-fry",
     "tags": [

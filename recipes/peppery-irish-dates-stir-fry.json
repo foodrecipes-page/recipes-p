@@ -1,0 +1,93 @@
+{
+  "title": "Peppery Irish Dates Stir-fry",
+  "description": "A crisp and peppery Irish dates dish perfect for date nights, featuring full fat sour cream as a creamy topping.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Full Fat Sour Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sour Cherries (Dried)",
+      "amount": "10 oz"
+    },
+    {
+      "name": "Irish Whiskey (Optional, for flavoring)",
+      "notes": "Use 1 oz or less for adults only"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Pepper",
+      "amount": "To taste"
+    },
+    {
+      "name": "Rice Noodles (For serving)",
+      "notes": "Optional, for a more filling dish"
+    },
+    {
+      "name": "Green Onions (Scallions) - For garnish",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Dried Irish Dates",
+      "amount": "10 oz"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "Soak the sour cherries in a cup of water and Irish whiskey for at least an hour.",
+    "After soaking, drain the cherries and place them on a baking sheet with paprika, salt, pepper, and butter. Bake until they are crispy, about 20-30 minutes.",
+    "In another pan, heat the full fat sour cream over medium heat. Once it starts to simmer slightly, add the drained Irish dates into the cream mixture.",
+    "Cook for an additional 5-7 minutes until the dates have softened and the sauce is thick.",
+    "Serve hot with rice noodles or garnished with green onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peppery",
+    "crisp",
+    "irish-dates",
+    "full-fat-sour-cream",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 22
+  },
+  "slug": "peppery-irish-dates-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-irish-dates-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:20:09Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "stir-fry",
+    "primaryIngredient": "full fat sour cream",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Dates",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}
