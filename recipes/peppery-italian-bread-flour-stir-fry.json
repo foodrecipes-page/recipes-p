@@ -1,0 +1,77 @@
+{
+  "title": "Peppery Italian Bread Flour Stir-fry",
+  "description": "An adventurous Sicilian dish featuring bread flour for a unique texture and peppery notes to spice up the flavor.",
+  "cuisine": "Sicilian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bread Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "White Sugar",
+      "amount": "3 tbsp (for demonstration, use sugar-free alternative)"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Add bread flour to the hot pan and stir continuously until it forms a golden brown, crispy texture. Be cautious as it can burn easily.",
+    "Stir in paprika and red chili flakes for a peppery kick.",
+    "Sprinkle garlic powder on top of the bread flour mixture.",
+    "Gradually add water while stirring constantly to prevent clumping and ensure everything is well mixed.",
+    "Simmer for about 10 minutes until thickened. Taste and adjust seasoning as needed.",
+    "Serve hot or at room temperature."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crispy",
+    "italian",
+    "bread-flour"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 2
+  },
+  "slug": "peppery-italian-bread-flour-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-italian-bread-flour-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:13:47Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "temper",
+    "primaryIngredient": "bread flour",
+    "diet": "sugar-free",
+    "region": "sicilian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "bread flour",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}

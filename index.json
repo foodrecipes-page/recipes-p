@@ -439,6 +439,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-italian-bread-flour-stir-fry",
+    "title": "Peppery Italian Bread Flour Stir-fry",
+    "tags": [
+      "peppery",
+      "crispy",
+      "italian",
+      "bread-flour"
+    ],
+    "cuisine": "Sicilian",
+    "totalTimeMin": 15,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-mediterranean-bowtie-pasta-stir-fry",
     "title": "Peppery Mediterranean Bowtie Pasta Stir-fry",
     "tags": [
