@@ -1,0 +1,82 @@
+{
+  "title": "Peppery Spanish Chickpea Stir-fry",
+  "description": "A crunchy, peppery date-night dish featuring cilantro leaves for a flavorful and gluten-free-friendly meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "150g"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "red bell peppers",
+      "amount": "2 large"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or frying pan over medium-high heat.",
+    "Add onions and minced garlic, sauté for about 5 minutes until softened.",
+    "Toss in the chopped red bell peppers, season with salt and pepper. Cook until slightly tender, around 2-3 more minutes.",
+    "Stir in chickpeas and cilantro leaves, tossing well to coat all ingredients evenly.",
+    "Remove from heat once everything is heated through and combined.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery-spanish-chickpea-stir-fry",
+    "crunchy",
+    "date-night-dish",
+    "gluten-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "peppery-spanish-chickpea-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-spanish-chickpea-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:28:45Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "saute",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}
