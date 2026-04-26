@@ -409,6 +409,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-indian-lamb-stir-fry",
+    "title": "Peppery Indian Lamb Stir-Fry",
+    "tags": [
+      "peppery-indian-lamb-stir-fry",
+      "kashmiri-dish",
+      "lamb-mince",
+      "crispy-indian",
+      "pickled-ingredients",
+      "fodmap-friendly"
+    ],
+    "cuisine": "Indian (Kashmiri)",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-silky-spanish-stir-fry",
     "title": "Peppery Silky Spanish Stir-fry",
     "tags": [
