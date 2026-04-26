@@ -1,0 +1,101 @@
+{
+  "title": "Peppery Creamy Japanese Papelon Stir-fry",
+  "description": "A romantic and healthy Japanese dish featuring papelon in a creamy peppery sauce, perfect for a light dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Papelon",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "20 slices"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Pepper Flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cashews",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat.",
+    "Add papelon and cook until it browns slightly, about 3 minutes.",
+    "Add garlic and green onions; sauté for an additional minute.",
+    "Pour in soy sauce, mirin, broth, pepper flakes, and paprika powder. Stir to combine.",
+    "Gradually add water while stirring continuously to prevent burning.",
+    "Simmer until the mixture thickens, about 5 minutes.",
+    "Stir in cashews and cook for another minute until heated through.",
+    "Serve hot with steamed vegetables or sushi rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "creamy",
+    "japanese",
+    "papelon",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 276,
+    "protein": 8,
+    "carbs": 34,
+    "fat": 9
+  },
+  "slug": "peppery-creamy-japanese-papelon-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-creamy-japanese-papelon-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:43:04Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "ferment",
+    "primaryIngredient": "papelon",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "papelon",
+    "descriptor": "Peppery Creamy",
+    "dishForm": "Stir-fry"
+  }
+}

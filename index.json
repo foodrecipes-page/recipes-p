@@ -364,6 +364,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-creamy-japanese-papelon-stir-fry",
+    "title": "Peppery Creamy Japanese Papelon Stir-fry",
+    "tags": [
+      "peppery",
+      "creamy",
+      "japanese",
+      "papelon",
+      "plant-based"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crispy-pumpkin-croissant",
     "title": "Peppery Crispy Pumpkin Croissant",
     "tags": [
