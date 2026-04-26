@@ -550,6 +550,18 @@
     "shard": "p"
   },
   {
+    "slug": "pesto-saudia-olive-stir-fry",
+    "title": "Pesto Saudia Olive Stir-fry",
+    "tags": [
+      "pesto",
+      "stir-fry",
+      "saudi-arabian"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
     "slug": "petit-pois-foldie",
     "title": "Petit Pois Foldie",
     "tags": [

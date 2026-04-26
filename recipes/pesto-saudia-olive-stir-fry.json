@@ -1,0 +1,88 @@
+{
+  "title": "Pesto Saudia Olive Stir-fry",
+  "description": "A savory, chewy quick-fix Saudi Arabian dish featuring pepper and olive oil in a pesto sauce made with low FODMAP-friendly ingredients.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "sauces-and-pastes",
+    "low-carb",
+    "keto-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "aubergine (eggplant)",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 small, sliced thinly"
+    },
+    {
+      "name": "olive pesto sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "4-6 fresh, finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add red pepper flakes and sauté for about 30 seconds until fragrant.",
+    "Add diced aubergine and cook for about 5 minutes, stirring occasionally.",
+    "Add sliced zucchini and continue to cook for another 2-3 minutes until softened but still slightly crunchy.",
+    "Stir in pesto sauce, basil leaves, and minced garlic. Cook for an additional minute, allowing the flavors to meld together.",
+    "Taste and adjust seasoning with salt as needed.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pesto",
+    "stir-fry",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "pesto-saudia-olive-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/pesto-saudia-olive-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:18:49Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "stir-fry",
+    "primaryIngredient": "pepper",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Olive",
+    "descriptor": "Pesto",
+    "dishForm": "Stir-fry"
+  }
+}
