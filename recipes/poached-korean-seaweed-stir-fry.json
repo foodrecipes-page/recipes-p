@@ -1,0 +1,80 @@
+{
+  "title": "Poached Korean Seaweed Stir-fry",
+  "description": "A sweet and crispy solo dinner dish featuring poached seaweed served with a tangy sauce, perfect for a dairy-free friendly option.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "50g Korean Seaweed",
+      "amount": "grams"
+    },
+    {
+      "name": "1 tbsp Sunflower Oil",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1/2 tsp Salt",
+      "amount": "teaspoons"
+    },
+    {
+      "name": "1/4 tsp Black Pepper",
+      "amount": "teaspoons"
+    },
+    {
+      "name": "Juice of 1 Lemon",
+      "amount": "juices of one"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "few",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Chop the Korean Seaweed into small pieces.",
+    "Heat Sunflower Oil in a pan over medium heat. Add chopped seaweed and sprinkle with salt and black pepper.",
+    "Stir occasionally for about 2 minutes until seaweed starts to turn golden brown.",
+    "Add lemon juice and stir well. The seaweed should be moistened evenly, achieving the desired texture of being sweet yet crispy.",
+    "Garnish with fresh mint leaves before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "poached",
+    "korean",
+    "stir-fry",
+    "vegan",
+    "dairy-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 40,
+    "protein": 2,
+    "carbs": 5,
+    "fat": 3
+  },
+  "slug": "poached-korean-seaweed-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/poached-korean-seaweed-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:06:46Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "poach",
+    "primaryIngredient": "sunflower oil",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Seaweed",
+    "descriptor": "Poached",
+    "dishForm": "Stir-fry"
+  }
+}
