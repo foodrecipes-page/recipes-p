@@ -351,6 +351,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-chewy-moroccan-date-stir-fry",
+    "title": "Peppery Chewy Moroccan Date Stir-fry",
+    "tags": [
+      "moroccan",
+      "peppery",
+      "chewy",
+      "diabetic-friendly"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crispy-pumpkin-croissant",
     "title": "Peppery Crispy Pumpkin Croissant",
     "tags": [

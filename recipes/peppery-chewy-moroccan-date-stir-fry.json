@@ -1,0 +1,74 @@
+{
+  "title": "Peppery Chewy Moroccan Date Stir-fry",
+  "description": "This diabetic-friendly Moroccan date stir-fry combines chewy dates with a peppery kick from cayenne pepper, creating a delicious weeknight dish that's easy to prepare and spiced up with vanilla bean paste.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup pitted dates",
+      "amount": "cup",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "1 tablespoon cayenne pepper",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 teaspoon vanilla bean paste",
+      "amount": "tsp"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "medium"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium-high heat.",
+    "Add the cayenne pepper and cook for about 30 seconds until fragrant but not burnt.",
+    "Stir in the sliced dates and vanilla bean paste. Cook, stirring occasionally, until the dates start to soften and release their juices, about 5 minutes.",
+    "Add the finely chopped onion and continue to stir-fry for an additional 2-3 minutes or until the onions are translucent and fragrant.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "peppery",
+    "chewy",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2,
+    "carbs": 27,
+    "fat": 5
+  },
+  "slug": "peppery-chewy-moroccan-date-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-chewy-moroccan-date-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:55:25Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "deglaze",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Date",
+    "descriptor": "Peppery Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
