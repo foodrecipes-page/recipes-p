@@ -1,0 +1,69 @@
+{
+  "title": "Peppery Crunchy Saudia Pepper Crumble",
+  "description": "A meal-prep saudi arabian dish featuring Italian seasoning, spices for a peppery crunch and a light, crumbly texture. This dish is gluten-free and low FODMAP-friendly.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Saudia Pepper",
+      "amount": "10 grams",
+      "notes": "Available in Middle East markets or substitute with cayenne pepper."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Italian Seasoning Blend",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "Almonds, sliced",
+      "amount": "10 grams",
+      "notes": "For crunchiness."
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick skillet over medium heat.",
+    "Add saudi pepper and Italian seasoning blend to the hot oil.",
+    "Stir for about 30 seconds until fragrant, then add sliced almonds.",
+    "Cook until the nuts are golden brown and crispy, stirring occasionally to prevent burning.",
+    "Remove from heat immediately after the last batch of nuts has turned golden and sprinkle evenly over a serving dish or wrap in parchment paper for easy storage."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crunchy",
+    "saudia-pepper-crumble",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 4,
+    "fat": 20
+  },
+  "slug": "peppery-crunchy-saudia-pepper-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crunchy-saudia-pepper-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:42:28Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "rest",
+    "primaryIngredient": "italian seasoning",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "pepper",
+    "descriptor": "Peppery Crunchy",
+    "dishForm": "Crumble"
+  }
+}
