@@ -364,6 +364,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-crumbly-mediterranean-linguine-stir-fry",
+    "title": "Peppery Crumbly Mediterranean Linguine Stir-fry",
+    "tags": [
+      "peppery",
+      "crumbly",
+      "weeknight",
+      "mediterranean",
+      "pasta",
+      "stir-fry"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crunchy-vegetarian-cannellini-beans-stir-fry",
     "title": "Peppery Crunchy Vegetarian Cannellini Beans Stir-fry",
     "tags": [

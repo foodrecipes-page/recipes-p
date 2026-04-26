@@ -1,0 +1,98 @@
+{
+  "title": "Peppery Crumbly Mediterranean Linguine Stir-fry",
+  "description": "A quick and easy weeknight dish featuring linguine pasta with a peppery kick and crumbly texture for a pescatarian-friendly meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup Linguine pasta",
+      "amount": "",
+      "notes": "Choose gluten-free linguine if needed."
+    },
+    {
+      "name": "2 cloves Garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 medium Red onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 bell pepper, any color, diced",
+      "amount": "",
+      "notes": "Use a sweet variety for milder taste."
+    },
+    {
+      "name": "1/4 cup Olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups Water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "Freshly squeezed for the best flavor."
+    },
+    {
+      "name": "1/4 cup Fresh parsley, chopped (for garnish)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add minced garlic and red onion; sauté until soft, about 5 minutes.",
+    "Pour in the lemon juice and bring to a simmer. Cook for an additional minute to reduce slightly.",
+    "Stir in chopped bell pepper and cook until tender, about 3-4 more minutes.",
+    "Taste and adjust seasoning with salt and pepper to your preference.",
+    "Add linguine pasta and enough water to cover the pasta; stir well.",
+    "Simmer for another couple of minutes allowing the pasta to absorb some of the liquid from the lemon sauce.",
+    "Garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crumbly",
+    "weeknight",
+    "mediterranean",
+    "pasta",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 9,
+    "carbs": 28,
+    "fat": 14
+  },
+  "slug": "peppery-crumbly-mediterranean-linguine-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crumbly-mediterranean-linguine-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:48:30Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "whisk",
+    "primaryIngredient": "linguine pasta",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Linguine",
+    "descriptor": "Peppery Crumbly",
+    "dishForm": "Stir-fry"
+  }
+}
