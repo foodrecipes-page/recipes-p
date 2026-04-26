@@ -322,6 +322,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-american-cheddar-cheese-quiche",
+    "title": "Peppery American Cheddar Cheese Quiche",
+    "tags": [
+      "peppery",
+      "dense",
+      "quick-fix",
+      "american-dish",
+      "low-fat-friendly"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-chewy-italian-lamb-stir-fry",
     "title": "Peppery Chewy Italian Lamb Stir-fry",
     "tags": [
