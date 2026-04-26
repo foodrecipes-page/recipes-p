@@ -555,6 +555,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-mexican-cumin-pilaf",
+    "title": "Peppery Mexican Cumin Pilaf",
+    "tags": [
+      "peppery",
+      "mexican",
+      "cinnamon",
+      "gluten-free",
+      "smoke",
+      "dinner"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-silky-spanish-stir-fry",
     "title": "Peppery Silky Spanish Stir-fry",
     "tags": [
