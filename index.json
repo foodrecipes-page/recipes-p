@@ -423,6 +423,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-ukrainian-paprika-crispy-stir-fry",
+    "title": "Peppery Ukrainian Paprika Crispy Stir-fry",
+    "tags": [
+      "peppery",
+      "crispy",
+      "indulgent",
+      "ukrainian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "peppy-mediterranean-leek-soup",
     "title": "Peppy Mediterranean Leek Soup",
     "tags": [

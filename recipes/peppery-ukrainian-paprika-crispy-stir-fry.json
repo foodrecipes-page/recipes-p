@@ -1,0 +1,98 @@
+{
+  "title": "Peppery Ukrainian Paprika Crispy Stir-fry",
+  "description": "A spicy and indulgent Ukrainian dish featuring a blend of paprika, icing sugar, and other Mediterranean-friendly ingredients that are stir-fried to perfection.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": "For frying and sautéing"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": "",
+      "notes": "Provides a mild sweetness that complements the paprika"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": "Adds a savory flavor to balance the spices"
+    },
+    {
+      "name": "200g (7oz) chicken breast, sliced into thin strips",
+      "amount": "",
+      "notes": "Can be substituted with tofu or firm plant-based protein for a vegan option"
+    },
+    {
+      "name": "1 tablespoon ground pepper",
+      "amount": "",
+      "notes": "Provides the peppery kick to this dish"
+    },
+    {
+      "name": "2 tablespoons paprika",
+      "amount": "",
+      "notes": "Enhances the spiciness and adds color to the dish"
+    },
+    {
+      "name": "1 cup boiling water",
+      "amount": "",
+      "notes": "Used in a marinade for tenderizing chicken if needed"
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper (optional)",
+      "amount": "",
+      "notes": "For extra heat, optional"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "Adds brightness and acidity to the dish"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix together chicken strips with boiling water and let soak for at least 30 minutes.",
+    "Meanwhile, heat olive oil in a non-stick skillet over medium-high heat. Add onion and garlic; cook until soft and translucent, about 5 minutes.",
+    "Remove chicken from marinade if using and drain excess liquid. Add to skillet with paprika and cayenne pepper (if using). Stir-fry for another 2-3 minutes until chicken is cooked through but still has a bit of texture.",
+    "Drizzle lemon juice over the chicken to help it crisp up more quickly, and ensure all ingredients are evenly coated with the spice mixture. Cook for about 1-2 more minutes.",
+    "Serve hot as a main course or side dish. You can garnish with fresh herbs like parsley or dill if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crispy",
+    "indulgent",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 31,
+    "carbs": 6,
+    "fat": 9
+  },
+  "slug": "peppery-ukrainian-paprika-crispy-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-ukrainian-paprika-crispy-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:29:53Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "boil",
+    "primaryIngredient": "icing sugar",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Paprika",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}
