@@ -396,6 +396,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppy-mediterranean-leek-soup",
+    "title": "Peppy Mediterranean Leek Soup",
+    "tags": [
+      "peppy",
+      "mediterranean",
+      "lemon-grass",
+      "fluffy",
+      "cozy",
+      "sugar-free-friendly"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "petit-pois-foldie",
     "title": "Petit Pois Foldie",
     "tags": [

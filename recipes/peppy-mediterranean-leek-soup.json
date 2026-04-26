@@ -1,0 +1,98 @@
+{
+  "title": "Peppy Mediterranean Leek Soup",
+  "description": "A fluffy and peppery mediterranean soup featuring lemongrass, infused with citrusy flavors for a sugar-free delight.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup chopped leeks",
+      "amount": "",
+      "notes": "Use the white and light green parts only"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "Minced"
+    },
+    {
+      "name": "1 medium onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 lemon, zest and juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tbsp fresh dill (or 1 tsp dried)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 bay leaf",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups chicken broth or water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup fresh flat-leaf parsley, chopped (optional garnish)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat. Add leeks and garlic, sauté until softened.",
+    "Stir in onion and cook for an additional minute. Mix in lemon zest, juice, dill, and bay leaf. Pour in broth or water.",
+    "Bring to a boil then reduce heat to low. Cover and let simmer for 10-12 minutes, stirring occasionally.",
+    "Use a blender to puree half of the soup until smooth; return to pot if prefer chunky consistency.",
+    "Season with salt and pepper to taste. Reheat gently over medium-low heat. Garnish with parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppy",
+    "mediterranean",
+    "lemon-grass",
+    "fluffy",
+    "cozy",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 7,
+    "fat": 4
+  },
+  "slug": "peppy-mediterranean-leek-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppy-mediterranean-leek-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:58:25Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "pressure-cook",
+    "primaryIngredient": "lemongrass",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Leeks",
+    "descriptor": "Peppery",
+    "dishForm": "Soup"
+  }
+}
