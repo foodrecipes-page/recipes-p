@@ -1,0 +1,82 @@
+{
+  "title": "Poached Norwegian Turnip Stir-Fry",
+  "description": "A bitter and juicy meal-prep Norwegian dish featuring poached turnips with a high-protein twist, ideal for breakfast or lunch.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Turnips",
+      "amount": "1 medium",
+      "notes": "Rinse and slice thinly"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "2 pieces",
+      "notes": "Marinate for at least 30 minutes before poaching"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/4 cup, finely chopped",
+      "notes": "Use scallions or white parts of green onions for added flavor"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Stock",
+      "amount": "6 oz",
+      "notes": "Filtered water can be used if vegetable stock is unavailable"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp",
+      "notes": "For poaching and stir-frying"
+    }
+  ],
+  "instructions": [
+    "Poach the turnips in a mixture of vegetable stock and olive oil until tender, about 10-15 minutes.",
+    "Meanwhile, season the chicken with salt and pepper. Poach the chicken in the same mixture as the turnips for around 8-12 minutes or until cooked through.",
+    "Heat a bit more olive oil in a wok over medium-high heat. Add the chopped onion and garlic, stirring occasionally for about 30 seconds to wilt them slightly.",
+    "Add back the poached turnips and chicken into the wok with their cooking liquid. Stir-fry gently for an additional minute or two until everything is well combined.",
+    "Taste and adjust seasoning if needed. Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "poached-turnip",
+    "norwegian-dish",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 287,
+    "protein": 39,
+    "carbs": 15,
+    "fat": 8
+  },
+  "slug": "poached-norwegian-turnip-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/poached-norwegian-turnip-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:57:56Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "poach",
+    "primaryIngredient": "turnips",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "turnip",
+    "descriptor": "Poached",
+    "dishForm": "Stir-fry"
+  }
+}

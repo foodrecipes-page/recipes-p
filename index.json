@@ -535,6 +535,18 @@
     "shard": "p"
   },
   {
+    "slug": "poached-norwegian-turnip-stir-fry",
+    "title": "Poached Norwegian Turnip Stir-Fry",
+    "tags": [
+      "poached-turnip",
+      "norwegian-dish",
+      "meal-prep"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
     "slug": "poached-pecan-italian-stir-fry",
     "title": "Poached Pecan Italian Stir-fry",
     "tags": [
