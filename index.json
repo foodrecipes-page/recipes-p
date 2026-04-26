@@ -758,6 +758,18 @@
     "shard": "p"
   },
   {
+    "slug": "poached-moroccan-courgette-stir-fry",
+    "title": "Poached Moroccan Courgette Stir-fry",
+    "tags": [
+      "moroccan-dish",
+      "poached-courgette",
+      "vegetarian-protein"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "poached-norwegian-turnip-stir-fry",
     "title": "Poached Norwegian Turnip Stir-Fry",
     "tags": [

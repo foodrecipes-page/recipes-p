@@ -1,0 +1,85 @@
+{
+  "title": "Poached Moroccan Courgette Stir-fry",
+  "description": "A fresh and juicy weeknight dish featuring poached courgettes with a blend of spices for an elevated protein experience.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Courgettes",
+      "amount": "2 medium-sized"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Thyme leaves",
+      "amount": "a few"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add onion and garlic, sauté until softened. Add thyme leaves, cumin seeds, and coriander seeds; cook for another minute.",
+    "Gently add courgettes to the pan and stir-fry for about 5 minutes or until they start to soften slightly.",
+    "Pour in tomato paste and allow it to cook until it thickens slightly. Reduce heat to low and cover the pan with a lid, allowing the courgettes to poach gently for around 10 minutes.",
+    "Serve hot as a light meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan-dish",
+    "poached-courgette",
+    "vegetarian-protein"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "poached-moroccan-courgette-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/poached-moroccan-courgette-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:20:52Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "poach",
+    "primaryIngredient": "courgettes",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Courgette",
+    "descriptor": "Poached",
+    "dishForm": "Stir-fry"
+  }
+}
