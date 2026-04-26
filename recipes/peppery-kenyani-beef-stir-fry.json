@@ -1,0 +1,90 @@
+{
+  "title": "Peppery Kenyani Beef Stir-fry",
+  "description": "A savory one-pot vegetarian-friendly dish featuring peppery flavors and beef stock concentrate for a hearty meal.",
+  "cuisine": "Kenyani",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Stock Concentrate",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "2 teaspoons",
+      "notes": "Add more to taste"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thyme Leaves",
+      "amount": "4-5 leaves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Combine beef stock concentrate with water in a pot and bring to a boil. Reduce heat to low.",
+    "In another pan, sauté garlic and onion until fragrant, about 2 minutes.",
+    "Add red chili flakes and continue cooking for an additional minute.",
+    "Stir in tomato paste and thyme leaves into the beef stock mixture.",
+    "Gradually pour in the contents of the second pan to avoid lumps. Bring back to a simmer.",
+    "Cook until the sauce thickens, about 10 minutes.",
+    "Serve hot over steamed vegetables or rice."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "kenyan",
+    "beef-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 378,
+    "protein": 19,
+    "carbs": 26,
+    "fat": 14
+  },
+  "slug": "peppery-kenyani-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-kenyani-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:04:02Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "simmer",
+    "primaryIngredient": "beef stock concentrate",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyani",
+    "mainIngredient": "beef",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}

@@ -517,6 +517,18 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-kenyani-beef-stir-fry",
+    "title": "Peppery Kenyani Beef Stir-fry",
+    "tags": [
+      "peppery",
+      "kenyan",
+      "beef-stir-fry"
+    ],
+    "cuisine": "Kenyani",
+    "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-mediterranean-bowtie-pasta-stir-fry",
     "title": "Peppery Mediterranean Bowtie Pasta Stir-fry",
     "tags": [
