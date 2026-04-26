@@ -407,6 +407,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-fluffy-papaya-salad",
+    "title": "Peppery Fluffy Papaya Salad",
+    "tags": [
+      "papaya",
+      "peruvian",
+      "fluffy",
+      "peppery",
+      "salty"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 5,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-french-coconut-crumble",
     "title": "Peppery French Coconut Crumble",
     "tags": [

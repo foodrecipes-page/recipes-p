@@ -1,0 +1,81 @@
+{
+  "title": "Peppery Fluffy Papaya Salad",
+  "description": "A tangy and spicy papaya salad with a touch of sweetness that reminds you of nostalgic Peruvian cuisine. This dish is adapted to be fodmap-friendly.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "Papaya",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup thinly sliced"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons fresh squeezed"
+    },
+    {
+      "name": "Fresh Chives",
+      "amount": "1 tablespoon chopped (optional)"
+    },
+    {
+      "name": "Fodmap-Friendly Granulated Sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Cilantro Leaves",
+      "amount": "2 tablespoons fresh, roughly chopped"
+    }
+  ],
+  "instructions": [
+    "Slice the papaya into thin wedges and remove any seeds.",
+    "In a small mixing bowl, whisk together lime juice, chives (if using), sugar, salt, and cilantro leaves until smooth.",
+    "Arrange papaya slices in a serving dish. Drizzle the dressing over the top.",
+    "Garnish with additional chopped cilantro if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "papaya",
+    "peruvian",
+    "fluffy",
+    "peppery",
+    "salty"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 0
+  },
+  "slug": "peppery-fluffy-papaya-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-fluffy-papaya-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:20:35Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "caramelize",
+    "primaryIngredient": "granulated sugar",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Papaya",
+    "descriptor": "peppery fluffy",
+    "dishForm": "Salad"
+  }
+}
