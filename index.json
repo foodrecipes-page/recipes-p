@@ -436,6 +436,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppy-chinese-gelatin-stir-fry",
+    "title": "Peppy Chinese Gelatin Stir-fry",
+    "tags": [
+      "peppy",
+      "crispy",
+      "energizing",
+      "chinese",
+      "gelatin",
+      "keto-friendly"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "peppy-mediterranean-leek-soup",
     "title": "Peppy Mediterranean Leek Soup",
     "tags": [

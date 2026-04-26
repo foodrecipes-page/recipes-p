@@ -1,0 +1,86 @@
+{
+  "title": "Peppy Chinese Gelatin Stir-fry",
+  "description": "A peppery, crispy, energizing chinese dish featuring unflavored gelatin, deglazed with a touch of keto-friendly flavors.",
+  "cuisine": "Chinese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "gelatin sheets",
+      "amount": "2-3 pieces"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-5 pieces, minced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons fresh"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "a small pinch"
+    }
+  ],
+  "instructions": [
+    "Cut the onions and bell peppers into thin strips. Mince the garlic cloves.",
+    "Place the gelatin sheets in a mixing bowl. Sprinkle lime juice over them to help activate. Let sit for about 5 minutes.",
+    "Heat oil in a wok or large skillet over medium-high heat. Add minced garlic, cook until golden brown and fragrant (about 1 minute).",
+    "Add sliced onions and bell peppers to the pan. Stir-fry for approximately 3-4 minutes until slightly softened.",
+    "Fold in the activated gelatin sheets into the vegetables, along with red chili flakes for added heat and zestiness.",
+    "Deglaze the wok with a tablespoon of hot water from time to time to release any stuck-on bits and enhance flavor. Cook until all liquid evaporates.",
+    "Remove from heat when gelatin has fully melted and thickened slightly (around 5-7 minutes).",
+    "Serve immediately while warm, garnished with extra chili flakes if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppy",
+    "crispy",
+    "energizing",
+    "chinese",
+    "gelatin",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 4,
+    "fat": 13
+  },
+  "slug": "peppy-chinese-gelatin-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppy-chinese-gelatin-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:08:41Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "deglaze",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Gelatin",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}
