@@ -493,6 +493,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppy-hummus-crumble",
+    "title": "Peppy Hummus Crumble",
+    "tags": [
+      "hummus",
+      "crumble",
+      "vegan",
+      "peppy"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 15,
+    "shard": "p"
+  },
+  {
     "slug": "peppy-mediterranean-leek-soup",
     "title": "Peppy Mediterranean Leek Soup",
     "tags": [

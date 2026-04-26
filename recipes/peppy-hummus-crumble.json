@@ -1,0 +1,89 @@
+{
+  "title": "Peppy Hummus Crumble",
+  "description": "A light Ukrainian dish featuring tahini paste and other vegan-friendly ingredients for a peppy and crumbly texture.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tahini paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chickpeas (drained and rinsed)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "onion (sliced)",
+      "amount": "1 medium"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ginger (grated)",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Blend tahini paste, chickpeas, minced garlic, onion slices, lemon juice, vinegar, salt, and paprika in a food processor.",
+    "Add grated ginger to the mixture and blend until smooth.",
+    "Transfer the hummus to a bowl and mix well with all ingredients.",
+    "Use hands to knead the crumble for about 2-3 minutes until it's fully combined and has the desired consistency.",
+    "Portion into small bowls or individual containers, garnished with fresh herbs like parsley or cilantro if available."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "hummus",
+    "crumble",
+    "vegan",
+    "peppy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 32,
+    "fat": 18
+  },
+  "slug": "peppy-hummus-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppy-hummus-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:09:05Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "knead",
+    "primaryIngredient": "tahini paste",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Hummus",
+    "descriptor": "Peppery",
+    "dishForm": "Crumble"
+  }
+}
