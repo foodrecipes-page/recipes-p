@@ -1,0 +1,93 @@
+{
+  "title": "Peppery Chewy Middle Eastern Nuts Crumble",
+  "description": "A delicious and show-off middle-eastern dish featuring toasted nuts with a spicy kick, perfect for snacking or as an appetizer.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cashews",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Coarse Salt",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Demerara Sugar",
+      "amount": "3 tablespoons (optional)"
+    },
+    {
+      "name": "Water or Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Coarsely chop the nuts into small pieces.",
+    "In a large bowl, mix together chopped nuts and salt until well combined. Add black pepper and garam masala, then stir in cayenne pepper if using.",
+    "If using sugar, add it to the mixture along with 2 tablespoons of water or olive oil. Mix thoroughly until you achieve your desired consistency.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper. Flatten the mixture slightly using a spatula or spoon.",
+    "Bake in preheated oven for about 10-15 minutes, or until golden brown and crispy on top. Remove from oven and let it cool down before breaking into small pieces for serving.",
+    "Serve as a snack with drinks or alongside salads."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "chewy",
+    "middle-eastern",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 279,
+    "protein": 13.4,
+    "carbs": 8.1,
+    "fat": 15.6
+  },
+  "slug": "peppery-chewy-middle-eastern-nuts-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-chewy-middle-eastern-nuts-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:09:38Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "cure",
+    "primaryIngredient": "toast",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "nuts",
+    "descriptor": "Peppery Chewy",
+    "dishForm": "Crumble"
+  }
+}

@@ -379,6 +379,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-chewy-middle-eastern-nuts-crumble",
+    "title": "Peppery Chewy Middle Eastern Nuts Crumble",
+    "tags": [
+      "peppery",
+      "chewy",
+      "middle-eastern",
+      "snack"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-chewy-moroccan-date-stir-fry",
     "title": "Peppery Chewy Moroccan Date Stir-fry",
     "tags": [
