@@ -1202,6 +1202,19 @@
     "shard": "p"
   },
   {
+    "slug": "poached-british-mozzarella-crumble",
+    "title": "Poached British Mozzarella Crumble",
+    "tags": [
+      "poached",
+      "british",
+      "mozzarella",
+      "paleo"
+    ],
+    "cuisine": "british",
+    "totalTimeMin": 15,
+    "shard": "p"
+  },
+  {
     "slug": "poached-chickpea-delight",
     "title": "Poached Chickpea Delight",
     "tags": [

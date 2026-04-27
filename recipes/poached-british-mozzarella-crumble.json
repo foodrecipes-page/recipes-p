@@ -1,0 +1,79 @@
+{
+  "title": "Poached British Mozzarella Crumble",
+  "description": "A savory, fluffy, nostalgic dish featuring paleo-friendly mozzarella balls poached in a flavorful liquid.",
+  "cuisine": "british",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "paleo-friendly tapioca starch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "paleo-friendly baking powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "canned sweetened coconut milk (optional)",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a medium-sized saucepan, combine almond milk, vanilla extract, and salt.",
+    "Bring the mixture to a boil over medium heat.",
+    "Add paleo-friendly tapioca starch and paleo-friendly baking powder to the hot milk mixture. Stir continuously until it thickens and coats the back of your spoon, about 1-2 minutes.",
+    "If desired, add canned sweetened coconut milk for an extra touch of sweetness. Remove from heat immediately after adding coconut milk.",
+    "In a separate bowl, mix together paleo-friendly mozzarella balls with 3 tablespoons of almond milk. Cover and refrigerate while the poaching mixture thickens.",
+    "Gently lower mozzarella balls into the hot, tapioca starch liquid in batches, ensuring not to overcrowd the pot to prevent breaking them down.",
+    "Poach for about 2-4 minutes or until desired tenderness is achieved, then remove with a slotted spoon. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "poached",
+    "british",
+    "mozzarella",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 6
+  },
+  "slug": "poached-british-mozzarella-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/poached-british-mozzarella-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:01:42Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "poach",
+    "primaryIngredient": "mozzarella balls",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Mozzarella",
+    "descriptor": "Poached",
+    "dishForm": "Stir-fry"
+  }
+}
