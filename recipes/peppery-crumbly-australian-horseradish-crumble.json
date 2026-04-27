@@ -1,0 +1,86 @@
+{
+  "title": "Peppery Crumbly Australian Horseradish Crumble",
+  "description": "A show-off australian dish featuring horseradish with a peppery flavor profile and perfect for adding a unique twist to your meals.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "250g cold butter",
+      "amount": "",
+      "notes": "Cold butter helps with the crumbly texture"
+    },
+    {
+      "name": "150g plain flour",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "80ml milk or cream",
+      "amount": "",
+      "notes": "To help bind ingredients together better"
+    },
+    {
+      "name": "Finely grated horseradish",
+      "amount": "2 teaspoons",
+      "notes": "For the peppery kick"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Optional: A few drops of mustard oil or ghee for added flavor (tadka)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "Gather all ingredients and place them within easy reach.",
+    "In a mixing bowl, combine flour and butter. Use a fork or pastry blender to cut in the cold butter until it resembles coarse crumbs.",
+    "Add grated horseradish and salt/pepper. Mix well; taste for seasoning if needed.",
+    "If you have mustard oil/ghee ready, add few drops now as this will create an instant 'tadka' effect which is a distinctive feature of the dish.",
+    "Gradually pour in milk or cream while mixing to achieve desired consistency - it should be moist but not too wet.",
+    "Transfer mixture into a greased pie tin (or any suitable baking dish).",
+    "Bake for 20-25 minutes until golden brown and crisp on top. Let cool before serving.",
+    "Serve warm with your favorite fruits or dessert as desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peppery",
+    "crumbly",
+    "australian",
+    "horseradish",
+    "tadka"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 8,
+    "carbs": 24,
+    "fat": 16
+  },
+  "slug": "peppery-crumbly-australian-horseradish-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crumbly-australian-horseradish-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:06:10Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "tadka",
+    "primaryIngredient": "horseradish",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Horseradish",
+    "descriptor": "Peppery Crumbly",
+    "dishForm": "Crumble"
+  }
+}
