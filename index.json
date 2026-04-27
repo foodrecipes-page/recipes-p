@@ -648,6 +648,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-irish-glucose-crumble",
+    "title": "Peppery Irish Glucose Crumble",
+    "tags": [
+      "peppery",
+      "crunchy",
+      "irish",
+      "diabetic-friendly"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 15,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-italian-bread-flour-stir-fry",
     "title": "Peppery Italian Bread Flour Stir-fry",
     "tags": [

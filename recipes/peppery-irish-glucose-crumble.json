@@ -1,0 +1,67 @@
+{
+  "title": "Peppery Irish Glucose Crumble",
+  "description": "A light and crunchy diabetic-friendly dessert featuring granulated sugar poached in water to make a simple syrup.",
+  "cuisine": "Irish",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "3 cups"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, finely grated"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat water and sugar in a medium saucepan over medium heat until the sugar is completely dissolved. Stir occasionally.",
+    "Gently add ginger and black pepper to the simmering mixture. Simmer for an additional 5 minutes, stirring occasionally.",
+    "Pour the syrup into individual serving dishes or small ramekins while still warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crunchy",
+    "irish",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 30,
+    "protein": 0,
+    "carbs": 8,
+    "fat": 0
+  },
+  "slug": "peppery-irish-glucose-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-irish-glucose-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:27:27Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "poach",
+    "primaryIngredient": "granulated sugar",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Glucose",
+    "descriptor": "Peppery",
+    "dishForm": "Crumble"
+  }
+}
