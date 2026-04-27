@@ -1,0 +1,103 @@
+{
+  "title": "Peppery Creamy Bhuna Aoli Stir-fry",
+  "description": "A comforting Japanese-inspired dish featuring a smokey, spicy, and creamy aoli sauce over halal-friendly bhuna-style meat stir-fry.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "200g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "Red Chili Peppers",
+      "amount": "4-5"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "30ml"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "15ml"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "20ml"
+    },
+    {
+      "name": "Rice Wine Vinegar",
+      "amount": "15ml"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cream Cheese",
+      "amount": "30g"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cut beef into thin strips.",
+    "Slice onion thinly and mince garlic.",
+    "Finely chop red chili peppers.",
+    "Mix tomato sauce, ketchup, soy sauce, rice wine vinegar in a bowl. Add milk and cream cheese, stir until smooth.",
+    "Heat olive oil in a pan over medium-high heat. Stir-fry beef strips for 5 minutes or until browned.",
+    "Add onion, garlic, chili peppers to the pan with beef. Cook for another minute.",
+    "Pour prepared aoli sauce mixture into the pan and mix well. Simmer for an additional 2-3 minutes.",
+    "Adjust seasoning with salt and pepper if needed. Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peppery",
+    "creamy",
+    "bhuna",
+    "japanese",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 521,
+    "protein": 30,
+    "carbs": 49,
+    "fat": 22
+  },
+  "slug": "peppery-creamy-bhuna-aoli-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-creamy-bhuna-aoli-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:34:57Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "bhuna",
+    "primaryIngredient": "smoky a oli",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Aoli",
+    "descriptor": "Peppery Creamy Bhuna",
+    "dishForm": "Stir-fry"
+  }
+}
