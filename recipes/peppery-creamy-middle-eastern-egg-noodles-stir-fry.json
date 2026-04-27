@@ -1,0 +1,96 @@
+{
+  "title": "Peppery Creamy Middle Eastern Egg Noodles Stir-fry",
+  "description": "A light and flavorful dish featuring egg noodles mixed with a creamy sauce infused with peppercorns, designed to be both comforting and appetizing for vegetarians.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Egg Noodles",
+      "amount": "200g",
+      "notes": "Use any type of egg noodles"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "1 cup",
+      "notes": "Ensure it's cooked and cooled to room temperature"
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "½ cup",
+      "notes": "Full-fat or reduced fat, whichever you prefer"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "amount": "2 tbsp",
+      "notes": "Hulled and Toasted"
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "10g",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Fermented Vegetables (Kvask)",
+      "amount": "20g",
+      "notes": "Can be used in place of regular vegetables, such as carrots and cucumbers"
+    },
+    {
+      "name": "Green Onions (Scallions)",
+      "amount": "10g",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to boil. Add egg noodles and cook according to package instructions, then drain and set aside.",
+    "In a blender or food processor, combine almond milk, sunflower seeds, and fermented vegetables. Blend until smooth.",
+    "Pour the blended mixture into a mixing bowl with the cooked egg noodles and vegetable broth. Stir well.",
+    "Add fresh basil leaves and green onions to the noodle mixture. Mix gently but thoroughly.",
+    "Season with salt and pepper according to taste. Heat up the dish over medium heat, stirring occasionally until warm.",
+    "Serve hot as a side dish or main course. Garnish with more freshly chopped green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peppery",
+    "creamy",
+    "middle-eastern",
+    "egg-noodles",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "peppery-creamy-middle-eastern-egg-noodles-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-creamy-middle-eastern-egg-noodles-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:41:58Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "ferment",
+    "primaryIngredient": "egg noodles",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Egg Noodles",
+    "descriptor": "Peppery Creamy",
+    "dishForm": "Stir-fry"
+  }
+}

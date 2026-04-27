@@ -422,6 +422,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-creamy-middle-eastern-egg-noodles-stir-fry",
+    "title": "Peppery Creamy Middle Eastern Egg Noodles Stir-fry",
+    "tags": [
+      "peppery",
+      "creamy",
+      "middle-eastern",
+      "egg-noodles",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crispy-pumpkin-croissant",
     "title": "Peppery Crispy Pumpkin Croissant",
     "tags": [
