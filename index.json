@@ -336,6 +336,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-argentinian-soybean-wrap",
+    "title": "Peppery Argentinian Soybean Wrap",
+    "tags": [
+      "peppery",
+      "tender",
+      "argentinian",
+      "soybean",
+      "roast",
+      "vegan"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-chewy-cumin-stir-fry",
     "title": "Peppery Chewy Cumin Stir-fry",
     "tags": [

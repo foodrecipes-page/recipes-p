@@ -1,0 +1,91 @@
+{
+  "title": "Peppery Argentinian Soybean Wrap",
+  "description": "This dairy-free and soybean-centric wrap offers a peppery twist with its argentinean flair, perfect for brunch or light meals.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "dairy-free",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Soya beans",
+      "amount": "200g"
+    },
+    {
+      "name": "Lettuce leaves",
+      "amount": "4 medium"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 medium"
+    },
+    {
+      "name": "Cilantro (coriander)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 med-large"
+    },
+    {
+      "name": "Jalapeno peppers",
+      "amount": "2-3 pcs"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Chop the soya beans into small pieces.",
+    "Prepare the red onion and jalapeno peppers, remove seeds for less heat if desired. Finely chop them.",
+    "Blend the chopped soya beans with a quarter cup of soy sauce until smooth. Season with salt to taste.",
+    "Mix in half a tablespoon of olive oil to enhance flavor and texture.",
+    "Toast the lettuce leaves lightly on a baking sheet at 180°C for about 5 minutes or until crisp but not burnt.",
+    "Slice the avocado into rounds, reserve some slices whole for garnish.",
+    "Wrap each lettuce leaf with a generous spoonful of the soya sauce mixture, add some red onion and jalapeno peppers, then top with sliced avocado. Garnish with chopped cilantro leaves.",
+    "Serve immediately while still warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "tender",
+    "argentinian",
+    "soybean",
+    "roast",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "peppery-argentinian-soybean-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-argentinian-soybean-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:45:27Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "roast",
+    "primaryIngredient": "soya bean",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Soybean",
+    "descriptor": "Peppery",
+    "dishForm": "Wrap"
+  }
+}
