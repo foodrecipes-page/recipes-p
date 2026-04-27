@@ -733,6 +733,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-japanese-garlic-stir-fry",
+    "title": "Peppery Japanese Garlic Stir-fry",
+    "tags": [
+      "peppery",
+      "crisp",
+      "japanese",
+      "gluten-free"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-juicy-korean-noodle-stir-fry",
     "title": "Peppery Juicy Korean Noodle Stir-fry",
     "tags": [

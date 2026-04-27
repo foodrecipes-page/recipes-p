@@ -1,0 +1,89 @@
+{
+  "title": "Peppery Japanese Garlic Stir-fry",
+  "description": "A quick and easy weeknight dish featuring peppery flavors with lemongrass stalks, perfect for those looking for a gluten-free Japanese meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Lemon Grass Stalks",
+      "amount": "1 stalk"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "100g"
+    },
+    {
+      "name": "Gluten-Free Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 small bunch, chopped"
+    }
+  ],
+  "instructions": [
+    "Chop the garlic finely.",
+    "Roughly chop the lemongrass stalks and set aside.",
+    "Season chicken with a pinch of salt and pepper.",
+    "Heat olive oil in a wok or large skillet over medium-high heat. Add chicken, cook until golden brown on all sides, about 5 minutes.",
+    "Add chopped garlic to the pan and stir-fry for another minute until fragrant.",
+    "Add lemongrass stalks and green onions to the pan. Stir well with chicken.",
+    "Pour in soy sauce and gluten-free soy sauce, reduce heat to low, cover the pan and simmer for about 2-3 minutes until most of the liquid is absorbed.",
+    "Stir occasionally and adjust seasoning with more pepper if needed.",
+    "Serve hot as a main dish or side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crisp",
+    "japanese",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "peppery-japanese-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-japanese-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:21:17Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "simmer",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "garlic",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}
