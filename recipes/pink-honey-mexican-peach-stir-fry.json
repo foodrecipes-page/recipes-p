@@ -1,0 +1,87 @@
+{
+  "title": "Pink Honey Mexican Peach Stir-fry",
+  "description": "A herbal, juicy, indulgent mexican dish featuring pink food colouring for a bright pop of color, infused with the flavors of tadka and served as an appetizer or snack.",
+  "cuisine": "Mexican",
+  "diet": [
+    "herbal",
+    "juicy",
+    "indulgent",
+    "tadka"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peaches",
+      "amount": "2 medium"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Pink food coloring",
+      "amount": "few drops"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Paprika",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "a few drops"
+    }
+  ],
+  "instructions": [
+    "Prepare the peach slices by removing any pits and trimming the stem.",
+    "In a small bowl, mix together all-purpose flour, pink food coloring, and enough water to create a thin batter for the peaches.",
+    "Heat vegetable oil in a skillet over medium-high heat. Once hot, add peach slices coated with the batter mixture and fry until golden brown on both sides.",
+    "In another pan, toast cumin seeds until they become fragrant, then add chili powder and paprika to create a tadka flavor profile.",
+    "Fold the cooked peaches into the tadka pan along with a few drops of garam masala, ensuring all pieces are coated in the aromatic mix.",
+    "Serve hot as an appetizer or snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "pink-peach",
+    "tadka-mexican-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "pink-honey-mexican-peach-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/pink-honey-mexican-peach-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T23:48:18Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "tadka",
+    "primaryIngredient": "pink food colouring",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "peach",
+    "descriptor": "Pink Honey",
+    "dishForm": "Stir-fry"
+  }
+}

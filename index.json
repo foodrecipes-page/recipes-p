@@ -1319,6 +1319,17 @@
     "shard": "p"
   },
   {
+    "slug": "pink-honey-mexican-peach-stir-fry",
+    "title": "Pink Honey Mexican Peach Stir-fry",
+    "tags": [
+      "pink-peach",
+      "tadka-mexican-stir-fry"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "pistachio-monsoon-medley",
     "title": "Pistachio Monsoon Medley",
     "tags": [
