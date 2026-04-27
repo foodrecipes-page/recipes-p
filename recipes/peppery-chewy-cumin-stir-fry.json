@@ -1,0 +1,85 @@
+{
+  "title": "Peppery Chewy Cumin Stir-fry",
+  "description": "A midnight-craving Polish dish featuring a peppery and chewy texture made with gluten-free friendly cumin spices in a quick stir-fry.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gluten-Free Tofu",
+      "amount": "100g"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Pepper, Black",
+      "amount": "dash"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Mix all-purpose flour with water until you get a smooth batter.",
+    "Add tofu into the batter and mix well to coat evenly.",
+    "In a skillet over medium-high heat, add cumin powder, red pepper flakes, garlic powder, salt, and pepper.",
+    "Once hot, pour in the seasoned mixture and stir-fry for 5 minutes or until golden brown.",
+    "Serve warm as a snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "chewy",
+    "cumin",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 9,
+    "carbs": 6,
+    "fat": 3
+  },
+  "slug": "peppery-chewy-cumin-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-chewy-cumin-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:34:59Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "fry",
+    "primaryIngredient": "cumin",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "cumin",
+    "descriptor": "peppery chewy",
+    "dishForm": "Stir-fry"
+  }
+}

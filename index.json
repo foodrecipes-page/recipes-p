@@ -336,6 +336,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-chewy-cumin-stir-fry",
+    "title": "Peppery Chewy Cumin Stir-fry",
+    "tags": [
+      "peppery",
+      "chewy",
+      "cumin",
+      "stir-fry"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 15,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-chewy-italian-lamb-stir-fry",
     "title": "Peppery Chewy Italian Lamb Stir-fry",
     "tags": [
