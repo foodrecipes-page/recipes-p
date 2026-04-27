@@ -1,0 +1,79 @@
+{
+  "title": "Peppery Crumbly Spanish Rocket Stir-fry",
+  "description": "This adventurous dish features a peppery crumbly texture and combines elements of Spanish cuisine with fresh rocket for an exciting twist on traditional dishes.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rocket",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, sliced thinly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "a pinch"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "for garnish, optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat.",
+    "Add minced garlic and sauté for about 1 minute until fragrant.",
+    "Toss in the rocket leaves and red bell pepper slices, stirring occasionally.",
+    "Sprinkle with salt to taste and add black peppercorns. Stir well.",
+    "If desired, garnish with red chili flakes before serving.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish-rocket-stir-fry",
+    "peppery-crumbly-dish",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 8,
+    "fat": 7
+  },
+  "slug": "peppery-crumbly-spanish-rocket-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crumbly-spanish-rocket-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:27:20Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "tadka",
+    "primaryIngredient": "rocket",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Rocket",
+    "descriptor": "Peppery Crumbly",
+    "dishForm": "Stir-fry"
+  }
+}
