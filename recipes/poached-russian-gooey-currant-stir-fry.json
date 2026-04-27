@@ -1,0 +1,90 @@
+{
+  "title": "Poached Russian Gooey Currant Stir-fry",
+  "description": "A salty, gooey post-workout dish featuring gluten-free-friendly currants poached in a savory sauce and served with a light gluten-free base.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "currants",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "rice wine vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a small bowl, whisk together flour and water until smooth.",
+    "Heat butter in a medium saucepan over medium heat. Add garlic and currants; cook for about 2 minutes.",
+    "Pour in the flour mixture slowly while continuously stirring to avoid lumps.",
+    "Stir in rice wine vinegar, salt, and pepper. Bring to a boil then reduce heat and let simmer until thickened (about 5-7 minutes).",
+    "Remove from heat; stir in additional salt and pepper as desired for flavor balance. Serve with gluten-free base or crackers.",
+    "If you have any leftover sauce, store it in the fridge for up to 3 days for reheating.",
+    "Enjoy your healthy and satisfying post-workout snack!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "poached",
+    "stir-fry",
+    "salty",
+    "gooey",
+    "post-workout",
+    "russian-dish"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 6
+  },
+  "slug": "poached-russian-gooey-currant-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/poached-russian-gooey-currant-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:14:33Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "poach",
+    "primaryIngredient": "currants",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "currants",
+    "descriptor": "Poached",
+    "dishForm": "Stir-fry"
+  }
+}
