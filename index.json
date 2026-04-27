@@ -576,6 +576,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-dutch-duck-stir-fry",
+    "title": "Peppery Dutch Duck Stir-fry",
+    "tags": [
+      "peppery",
+      "dutch",
+      "duck",
+      "stir-fry"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-ethiopian-beef-stir-fry",
     "title": "Peppery Ethiopian Beef Stir-fry",
     "tags": [

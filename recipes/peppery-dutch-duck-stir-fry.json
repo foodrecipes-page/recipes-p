@@ -1,0 +1,94 @@
+{
+  "title": "Peppery Dutch Duck Stir-fry",
+  "description": "A dense and peppery dutch dish featuring duck legs with a paleo-friendly twist.",
+  "cuisine": "Dutch",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "2",
+      "notes": "skin removed"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "1 sprig per duck leg"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Season duck legs with salt and black pepper on both sides.",
+    "Heat olive oil in a large skillet over medium-high heat. Add onion and cook until translucent, about 4 minutes.",
+    "Add minced garlic and cook for another minute, stirring frequently to prevent burning.",
+    "Place the duck legs in the skillet skin-side down. Pour enough water into the pan (about 2 cups) to cover half of the duck legs.",
+    "Bake in the preheated oven for about 30 minutes or until a meat thermometer inserted near the bone registers 165°F (74°C).",
+    "Remove from heat and garnish with fresh thyme leaves and paprika. Serve hot as a main dish.",
+    "prepTimeMin"
+  ],
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peppery",
+    "dutch",
+    "duck",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 321,
+    "protein": 38,
+    "carbs": 16,
+    "fat": 19
+  },
+  "slug": "peppery-dutch-duck-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-dutch-duck-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:50:08Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "fry",
+    "primaryIngredient": "duck legs",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "duck",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}
