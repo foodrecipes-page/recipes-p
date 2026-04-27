@@ -1,0 +1,85 @@
+{
+  "title": "Peppery Slovakian Date Stir-fry",
+  "description": "A crisp and flavorful date-night dish featuring capers, peppers, and dates in a savory sauce, perfect for vegans and vegetarians.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "20 pcs",
+      "notes": "pitted"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 medium, sliced",
+      "notes": "any color"
+    },
+    {
+      "name": "green onions",
+      "amount": "8-10 pcs",
+      "notes": "finely chopped for garnish"
+    },
+    {
+      "name": "dry capers",
+      "amount": "1 tbsp",
+      "notes": "canned or pickled"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "freshly ground if using dried"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low sodium if preferred"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add peppers and red pepper flakes. Stir-fry for about 2 minutes until slightly softened.",
+    "Add dates, soy sauce, and capers to the pan. Stir continuously for another minute.",
+    "Fold in green onions just before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pepper-stir-fry",
+    "slovakian-dish",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 305,
+    "protein": 9,
+    "carbs": 24,
+    "fat": 11
+  },
+  "slug": "peppery-slovakian-date-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-slovakian-date-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:23:59Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "stir-fry",
+    "primaryIngredient": "capers",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Date",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}

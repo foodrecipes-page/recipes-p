@@ -986,6 +986,18 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-slovakian-date-stir-fry",
+    "title": "Peppery Slovakian Date Stir-fry",
+    "tags": [
+      "pepper-stir-fry",
+      "slovakian-dish",
+      "date-night"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 18,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-spanish-chickpea-stir-fry",
     "title": "Peppery Spanish Chickpea Stir-fry",
     "tags": [
