@@ -1,0 +1,82 @@
+{
+  "title": "Peppery Filipino Tapioca Crumble",
+  "description": "A decadent and indulgent dessert featuring caramelized sugar sauce with a peppery twist, served as a dessert.",
+  "cuisine": "Filipino",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup tapioca pearls",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons coconut sugar",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1 tablespoon ground black pepper",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Juice from 1 lemon",
+      "amount": "juice (from one)"
+    },
+    {
+      "name": "Vegetable oil for frying",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Rinse the tapioca pearls in cold water, and soak them in hot water for at least an hour.",
+    "Drain the soaked pearls and rinse again. Heat a bit of vegetable oil in a pot over medium heat.",
+    "Add the pearl to the pot, reduce heat to low, and cook until they are soft but still hold their shape (about 5-7 minutes).",
+    "Meanwhile, combine coconut sugar with ground black pepper and salt in a small bowl. Set aside for later.",
+    "After pearls are cooked, remove them from heat, drain, and stir in the lemon juice.",
+    "Pour the pearl mixture into a shallow dish or mold to cool and set (this step is optional but recommended).",
+    "Once cooled, cut the cooled pearls into small pieces and place on serving plates. Drizzle with the caramel sauce made by heating up the sugar mixture until it turns amber.",
+    "Serve immediately while still warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "filipino",
+    "crumble",
+    "paleo-friendly",
+    "caramelized",
+    "tadka"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 1
+  },
+  "slug": "peppery-filipino-tapioca-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-filipino-tapioca-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:38:02Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "tadka",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Tapioca",
+    "descriptor": "Peppery",
+    "dishForm": "Crumble"
+  }
+}
