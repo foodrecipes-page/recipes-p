@@ -959,6 +959,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-silky-peppers-stir-fry",
+    "title": "Peppery Silky Peppers Stir-fry",
+    "tags": [
+      "peppery",
+      "silky",
+      "argentinean",
+      "vegan-friendly"
+    ],
+    "cuisine": "Argentinean",
+    "totalTimeMin": 12,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-silky-spanish-stir-fry",
     "title": "Peppery Silky Spanish Stir-fry",
     "tags": [

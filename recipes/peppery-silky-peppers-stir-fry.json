@@ -1,0 +1,69 @@
+{
+  "title": "Peppery Silky Peppers Stir-fry",
+  "description": "A vegan-friendly solo-dinner Argentinean dish featuring vegetable shortening for a unique texture and flavor profile.",
+  "cuisine": "Argentinean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "amount": "2 medium"
+    },
+    {
+      "name": "vegetable shortening",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Slice the bell peppers into thin strips and add them to the pan. Cook for about 5 minutes until softened but still slightly crisp.",
+    "Add vegetable shortening to the pan, followed by salt and red pepper flakes. Stir well to combine ingredients.",
+    "Cook for an additional 2-3 minutes until the peppers are evenly coated with the mixture and nicely flavored.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "silky",
+    "argentinean",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 3,
+    "carbs": 7,
+    "fat": 2
+  },
+  "slug": "peppery-silky-peppers-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-silky-peppers-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:59:50Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "slow-cook",
+    "primaryIngredient": "vegetable shortening",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Peppers",
+    "descriptor": "Peppery Silky",
+    "dishForm": "Stir-fry"
+  }
+}
