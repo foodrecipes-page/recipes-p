@@ -792,6 +792,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppy-gooey-filipino-date-stir-fry",
+    "title": "Peppy Gooey Filipino Date Stir-fry",
+    "tags": [
+      "peppy",
+      "goosy",
+      "filipino",
+      "date-night",
+      "chive",
+      "pickle"
+    ],
+    "cuisine": "Philippine",
+    "totalTimeMin": 17,
+    "shard": "p"
+  },
+  {
     "slug": "peppy-hummus-crumble",
     "title": "Peppy Hummus Crumble",
     "tags": [
