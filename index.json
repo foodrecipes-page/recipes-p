@@ -945,6 +945,20 @@
     "shard": "p"
   },
   {
+    "slug": "poached-moroccan-tomato-stir-fry",
+    "title": "Poached Moroccan Tomato Stir-fry",
+    "tags": [
+      "moroccan",
+      "poached",
+      "tomato",
+      "stir-fry",
+      "low-carb"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "poached-norwegian-turnip-stir-fry",
     "title": "Poached Norwegian Turnip Stir-Fry",
     "tags": [

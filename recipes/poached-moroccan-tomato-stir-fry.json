@@ -1,0 +1,84 @@
+{
+  "title": "Poached Moroccan Tomato Stir-fry",
+  "description": "A sweet and juicy one-pot Moroccan dish featuring cilantro leaves, perfect for a low-carb-friendly breakfast or snack.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "Ripe and sweet"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "Chopped for added flavor"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "Minced for added depth of flavor"
+    },
+    {
+      "name": "Cilantro leaves",
+      "amount": "2 tablespoons fresh",
+      "notes": "For garnish and added freshness"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "For poaching and sautéing"
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "1 tablespoon",
+      "notes": "To sweeten the dish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick skillet over medium heat.",
+    "Add onions and garlic, sauté for about 2 minutes until translucent.",
+    "Halve tomatoes lengthwise and place them in the skillet. Sprinkle pomegranate molasses on top of each tomato.",
+    "Cover the skillet with a lid and cook at low-medium heat for approximately 5-7 minutes or until tomatoes are tender but not mushy.",
+    "Stir in cilantro leaves just before serving to preserve color and flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "poached",
+    "tomato",
+    "stir-fry",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 4,
+    "fat": 7
+  },
+  "slug": "poached-moroccan-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/poached-moroccan-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:31:51Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "poach",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Tomato",
+    "descriptor": "Poached",
+    "dishForm": "Stir-fry"
+  }
+}
