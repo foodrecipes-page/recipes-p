@@ -1,0 +1,82 @@
+{
+  "title": "Peppery Russian Ginger Crumble",
+  "description": "A dense and peppery dish featuring ginger paste and other spices to aid in hangover recovery, suitable for egg-free diets.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup whole wheat flour",
+      "amount": "",
+      "notes": "Optional breadcrumbs can be used as a gluten-free alternative."
+    },
+    {
+      "name": "3/4 cup granulated sugar",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons ground ginger paste",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon black pepper",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup unsalted butter, melted",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Mix the whole wheat flour with the sugar until well combined.",
+    "Add in the ground ginger paste and salt, stirring continuously until it forms a dough-like consistency.",
+    "Gradually mix in the melted butter while continuing to stir until fully incorporated.",
+    "Transfer the mixture onto a greased baking sheet or pie dish. Press down evenly using your fingers or a spatula.",
+    "Bake for 20-25 minutes, or until lightly golden brown on top and crisp around the edges.",
+    "Allow it to cool slightly before serving as a snack or dessert."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "dense",
+    "hangover-cure",
+    "russian",
+    "garnet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "peppery-russian-ginger-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-russian-ginger-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:39:03Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "rest",
+    "primaryIngredient": "ginger paste",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "ginger",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}
