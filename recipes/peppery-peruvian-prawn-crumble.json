@@ -1,0 +1,84 @@
+{
+  "title": "Peppery Peruvian Prawn Crumble",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Raw Frozen Prawns",
+      "amount": "100 grams"
+    },
+    {
+      "name": "Red Chili Peppers",
+      "amount": "2-3 pieces",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Raw Potato Cubes",
+      "amount": "30 grams",
+      "notes": "Chopped into small pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "Combine the raw frozen prawns with chopped red chili peppers, minced garlic cloves, cumin seeds, coriander powder, and a pinch of salt in a bowl.",
+    "Add raw potato cubes into the mixture and mix well.",
+    "Shape the mixture into small crumble pieces on a baking sheet lined with parchment paper.",
+    "Bake for about 20-25 minutes or until golden brown and crispy.",
+    "Remove from oven, allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery-peruvian",
+    "crumble",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 8,
+    "fat": 3
+  },
+  "slug": "peppery-peruvian-prawn-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-peruvian-prawn-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:46:04Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "cure",
+    "primaryIngredient": "raw frozen prawns",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Prawns",
+    "descriptor": "Peppery",
+    "dishForm": "Crumble"
+  }
+}

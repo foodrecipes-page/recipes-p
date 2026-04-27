@@ -665,6 +665,18 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-peruvian-prawn-crumble",
+    "title": "Peppery Peruvian Prawn Crumble",
+    "tags": [
+      "peppery-peruvian",
+      "crumble",
+      "hangover-cure"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-russian-ginger-crumble",
     "title": "Peppery Russian Ginger Crumble",
     "tags": [
