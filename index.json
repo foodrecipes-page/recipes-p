@@ -763,6 +763,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-velvety-italian-spinach-stir-fry",
+    "title": "Peppery Velvety Italian Spinach Stir-fry",
+    "tags": [
+      "peppery",
+      "velvety",
+      "italian",
+      "tuscan",
+      "plant-based"
+    ],
+    "cuisine": "tuscan",
+    "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
     "slug": "peppy-chinese-gelatin-stir-fry",
     "title": "Peppy Chinese Gelatin Stir-fry",
     "tags": [
