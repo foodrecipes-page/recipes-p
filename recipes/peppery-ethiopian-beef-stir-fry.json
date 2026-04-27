@@ -1,0 +1,94 @@
+{
+  "title": "Peppery Ethiopian Beef Stir-fry",
+  "description": "A peppery and crispy light Ethiopian dish featuring beef with tomatoes in a flavorful sauce that is low in fodmap-friendly ingredients.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-carb",
+    "keto",
+    "paleo",
+    "gf",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "200g"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can (400g)"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 handful"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 thumb"
+    },
+    {
+      "name": "jalapenos",
+      "amount": "4 (optional)"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Chop the beef into small cubes.",
+    "Peel and chop onions, bell peppers, and cilantro. Squeeze fresh ginger over them to release its flavor.",
+    "Slice jalapenos if using, being careful as they are spicy.",
+    "Heat oil in a wok or large skillet over medium-high heat. Add the beef and fry until browned on all sides.",
+    "Add onions, bell peppers, and cilantro; stir-fry for 2-3 minutes.",
+    "Pour in diced tomatoes with their juice. Lower heat to medium, cover, and simmer for about 5 minutes or until thickened.",
+    "If using jalapenos, remove them from the fire and mix into the dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crispy",
+    "light",
+    "beef",
+    "stir-fry",
+    "ethiopian",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 22,
+    "fat": 18
+  },
+  "slug": "peppery-ethiopian-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-ethiopian-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:22:09Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "reduce",
+    "primaryIngredient": "beef tomatoes",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Beef",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}

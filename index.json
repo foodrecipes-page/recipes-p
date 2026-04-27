@@ -519,6 +519,22 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-ethiopian-beef-stir-fry",
+    "title": "Peppery Ethiopian Beef Stir-fry",
+    "tags": [
+      "peppery",
+      "crispy",
+      "light",
+      "beef",
+      "stir-fry",
+      "ethiopian",
+      "low-carb"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-fluffy-indulgent-norwegian-pork-belly-stir-fry",
     "title": "Peppery Fluffy Indulgent Norwegian Pork Belly Stir-fry",
     "tags": [
