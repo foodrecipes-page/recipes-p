@@ -1,0 +1,88 @@
+{
+  "title": "Peppery Gooey Fish Stir-fry",
+  "description": "A quick and flavorful weeknight dish featuring fish stock, pickled vegetables, and a tangy peppery sauce for added depth of flavor.",
+  "cuisine": "Mediterranean-American Fusion",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pickled Vegetables (e.g. Korean Radish)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Bell Peppers, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fish Fillets or Shreds (optional)",
+      "amount": "6 oz"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Spices (salt, pepper, crushed red pepper flakes)",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coconut Milk or Soy Milk",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium-high heat. Add fish stock and bring to a simmer.",
+    "Add pickled vegetables, diced bell peppers, and finely chopped onion into the skillet with the fish stock. Stir occasionally for about 5 minutes until veggies are tender.",
+    "If using fish fillets or shreds, season them with salt, pepper, and crushed red pepper flakes (to taste). Add to the skillet and cook for another 2-3 minutes until fully cooked through.",
+    "Add soy sauce, garlic powder, and coconut milk. Stir well to combine all ingredients thoroughly.",
+    "Reduce heat to low and simmer for an additional 2 minutes to let flavors meld together. Taste and adjust seasoning if needed.",
+    "Serve hot as a main course or side dish with rice or naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peppery",
+    "goey",
+    "fish-stir-fry",
+    "weeknight-dish"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 6
+  },
+  "slug": "peppery-gooey-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-gooey-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:02:39Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "pickle",
+    "primaryIngredient": "fish stock",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Fish",
+    "descriptor": "Peppery Gooey",
+    "dishForm": "Stir-fry"
+  }
+}

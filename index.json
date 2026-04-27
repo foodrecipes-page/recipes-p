@@ -706,6 +706,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-gooey-fish-stir-fry",
+    "title": "Peppery Gooey Fish Stir-fry",
+    "tags": [
+      "peppery",
+      "goey",
+      "fish-stir-fry",
+      "weeknight-dish"
+    ],
+    "cuisine": "Mediterranean-American Fusion",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-gooey-ginger-midnight-craving-jain-friendly-stir-fry",
     "title": "Peppery Gooey Ginger Midnight Craving JAIN-FRIENDLY Stir-fry",
     "tags": [
