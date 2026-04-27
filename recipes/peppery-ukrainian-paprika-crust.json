@@ -1,0 +1,74 @@
+{
+  "title": "Peppery Ukrainian Paprika Crust",
+  "description": "This adventurous dish features a chewy and peppery crust made with sesame seed oil, tandoor, and is whole30-friendly.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "paprika",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "whole milk or almond milk",
+      "amount": "4 tablespoons (optional, for binding)"
+    },
+    {
+      "name": "tandoori masala powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix paprika, sesame seeds, salt, and tandoori masala powder. Add whole milk or almond milk little by little until the mixture forms a dough.",
+    "Grease a shallow dish with oil and place the dough in it. Press down to create an even layer.",
+    "Preheat your oven to 375°F (190°C). Bake for about 10-12 minutes, or until golden brown.",
+    "Cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "ukrainian",
+    "paprika",
+    "tandoori",
+    "whole30",
+    "adventurous"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "peppery-ukrainian-paprika-crust",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-ukrainian-paprika-crust",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:55:00Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "tandoor",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Paprika",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}
