@@ -1,0 +1,90 @@
+{
+  "title": "Peppery Gooey Dutch Chickpeas Stir-fry",
+  "description": "This comforting dutch dish features crispy chickpeas, a tangy sauce, and a spicy kick from dried chillies, perfect for a warm and filling dinner.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup canned chickpeas",
+      "amount": "can"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "medium"
+    },
+    {
+      "name": "2 garlic cloves",
+      "amount": "cloves"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice"
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "2 dried red chillies",
+      "amount": "pieces"
+    },
+    {
+      "name": "1 tsp sugar",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 cup low-fat mayonnaise or Greek yogurt",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Chop onion and mince garlic. Rinse chickpeas and pat dry.",
+    "Heat olive oil in a pan over medium heat, add onions and garlic, sauté until translucent.",
+    "Stir in dried chillies and sugar, let cook for about 30 seconds to soften.",
+    "Add lemon juice and salt, mix well. Remove from heat and stir in mayonnaise or yogurt until combined.",
+    "Arrange chickpeas in a single layer on a baking sheet lined with parchment paper. Drizzle with some of the dressing mixture.",
+    "Bake for 10 minutes then flip over to coat evenly with remaining dressing and bake another 5-7 minutes until edges are crispy and top is gooey.",
+    "Serve warm or at room temperature as desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "gooey",
+    "dutch",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 197,
+    "protein": 6.2,
+    "carbs": 23.5,
+    "fat": 8.9
+  },
+  "slug": "peppery-gooey-dutch-chickpeas-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-gooey-dutch-chickpeas-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:58:18Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "toast",
+    "primaryIngredient": "dried chillies",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Peppery Gooey",
+    "dishForm": "Stir-fry"
+  }
+}

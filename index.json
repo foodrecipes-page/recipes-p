@@ -624,6 +624,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-gooey-dutch-chickpeas-stir-fry",
+    "title": "Peppery Gooey Dutch Chickpeas Stir-fry",
+    "tags": [
+      "peppery",
+      "gooey",
+      "dutch",
+      "spicy"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-gooey-ginger-midnight-craving-jain-friendly-stir-fry",
     "title": "Peppery Gooey Ginger Midnight Craving JAIN-FRIENDLY Stir-fry",
     "tags": [
