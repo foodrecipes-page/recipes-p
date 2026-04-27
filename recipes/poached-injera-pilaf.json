@@ -1,0 +1,72 @@
+{
+  "title": "Poached Injera Pilaf",
+  "description": "A fresh and tender Ethiopian meal-prep dish featuring injera bread, sour cream, and chive dip, ideal for a healthy, easy-to-make breakfast or snack.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "low-carb",
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Injera bread",
+      "amount": "1 slice"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Chives",
+      "amount": "handful, chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix sour cream with chives and lemon juice. Season with salt.",
+    "Heat a pan over medium heat. Place injera bread in the hot pan and pour the sour cream mixture on top.",
+    "Cover the pan and let it poach for about 5 minutes or until the injera is tender but not falling apart."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 5,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "poached",
+    "injera",
+    "sourcream"
+  ],
+  "nutrition": {
+    "calories": 30,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 1
+  },
+  "slug": "poached-injera-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/poached-injera-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:48:46Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "poach",
+    "primaryIngredient": "soured cream and chive dip",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Injera",
+    "descriptor": "Poached",
+    "dishForm": "Pilaf"
+  }
+}

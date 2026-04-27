@@ -1197,6 +1197,18 @@
     "shard": "p"
   },
   {
+    "slug": "poached-injera-pilaf",
+    "title": "Poached Injera Pilaf",
+    "tags": [
+      "poached",
+      "injera",
+      "sourcream"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 7,
+    "shard": "p"
+  },
+  {
     "slug": "poached-korean-seaweed-stir-fry",
     "title": "Poached Korean Seaweed Stir-fry",
     "tags": [
