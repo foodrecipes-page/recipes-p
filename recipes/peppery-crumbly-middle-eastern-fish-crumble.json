@@ -1,0 +1,94 @@
+{
+  "title": "Peppery Crumbly Middle Eastern Fish Crumble",
+  "description": "A monsoon-inspired crumbly fish casserole with a peppery twist featuring cilantro as the main herb, perfect for pescatarian meals.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "4 canned tuna cans",
+      "amount": "undrained",
+      "notes": "Use water-packed for a saltier flavor"
+    },
+    {
+      "name": "1 cup chopped fresh cilantro",
+      "amount": "fresh",
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "minced",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup lemon juice",
+      "amount": "juice",
+      "notes": "Use bottled for freshness"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch",
+      "notes": "To taste"
+    },
+    {
+      "name": "1 tbsp ground cumin",
+      "amount": "tbsp",
+      "notes": null
+    },
+    {
+      "name": "1 tsp black pepper",
+      "amount": "tsp",
+      "notes": null
+    },
+    {
+      "name": "2 cups bread crumbs",
+      "amount": "undrained",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large bowl, mix tuna, cilantro, garlic, lemon juice, salt, cumin, and black pepper until well combined.",
+    "Fold in bread crumbs gently with your hands or using a spatula.",
+    "Transfer mixture evenly into an oven-safe dish. Spread it out to form a crumbly layer.",
+    "Bake for 25-30 minutes or until golden brown and heated through.",
+    "Serve warm as a side dish or over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crumbly",
+    "middle-eastern",
+    "fish-crumble",
+    "monsoon",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 28,
+    "fat": 9
+  },
+  "slug": "peppery-crumbly-middle-eastern-fish-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crumbly-middle-eastern-fish-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:20:06Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "roast",
+    "primaryIngredient": "cilantro",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "fish",
+    "descriptor": "Peppery Crumbly",
+    "dishForm": "Crumble"
+  }
+}
