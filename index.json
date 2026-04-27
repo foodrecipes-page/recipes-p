@@ -777,6 +777,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppy-canadian-sevaiiya-stir-fry",
+    "title": "Peppy Canadian Sevaiiya Stir-fry",
+    "tags": [
+      "peppy",
+      "canadian",
+      "sevaiiya",
+      "mediterranean-friendly"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "peppy-chinese-gelatin-stir-fry",
     "title": "Peppy Chinese Gelatin Stir-fry",
     "tags": [

@@ -1,0 +1,99 @@
+{
+  "title": "Peppy Canadian Sevaiiya Stir-fry",
+  "description": "A peppery, flaky, energizing Canadian dish featuring sevaiiya, prepared with Mediterranean-friendly ingredients and cooked using the pressure-cooking method for quick meal prep.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "mediterranean"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sevaiiya (Indian vermicelli)",
+      "amount": "2 cups",
+      "notes": "Use gluten-free vermicelli if needed."
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "1 cup",
+      "notes": "Ensure it's fully cooked and not raw."
+    },
+    {
+      "name": "Chickpeas (Garbanzo beans)",
+      "amount": "2 cups",
+      "notes": "Choose canned or soaked overnight for easier cooking."
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 large",
+      "notes": "Optional, use red onion for a better flavor profile."
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "a small spoonful",
+      "notes": "Whole or ground both work well."
+    },
+    {
+      "name": "Fennel seeds (Ajwain)",
+      "amount": "a few",
+      "notes": "For enhancing the flavor, optional."
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, add enough water and sevaiiya, bring to boil, then reduce heat to low and let it simmer for about 10-15 minutes until tender but not mushy.",
+    "Drain the cooked sevaiiya and keep aside. In another pan, lightly sauté garlic and onion (if using), followed by cumin seeds and fennel seeds.",
+    "Add tomato puree to the pan with a pinch of salt, mix well and cook until thickened slightly. If desired, you can add more water for thinning it down or thicken further with cornstarch.",
+    "Fold in the cooked sevaiiya into the tomato sauce, ensuring all pieces are coated evenly. Add turmeric powder to prevent browning and adjust salt if needed.",
+    "Serve hot as a side dish or as an appetizer with dips. Can be prepared ahead and reheated for convenience."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "peppy",
+    "canadian",
+    "sevaiiya",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "peppy-canadian-sevaiiya-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppy-canadian-sevaiiya-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:43:36Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "pressure-cook",
+    "primaryIngredient": "sevaiiya",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "sevaiiya",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}
