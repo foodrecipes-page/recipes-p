@@ -607,6 +607,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-gooey-malaysian-semolina-stir-fry",
+    "title": "Peppery Gooey Malaysian Semolina Stir-fry",
+    "tags": [
+      "malaysian",
+      "peppery",
+      "goey",
+      "kid-friendly",
+      "semolina",
+      "plant-based"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-greek-paprika-stir-fry",
     "title": "Peppery Greek Paprika Stir-fry",
     "tags": [

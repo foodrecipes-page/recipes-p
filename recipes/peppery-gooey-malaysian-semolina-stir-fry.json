@@ -1,0 +1,99 @@
+{
+  "title": "Peppery Gooey Malaysian Semolina Stir-fry",
+  "description": "A kid-friendly and plant-based Malaysian semolina dish that's perfect for a mealtime treat with its peppery kick and gooey texture.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Semolina",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Green Onions (Chives)",
+      "amount": "4-6 pieces",
+      "notes": "finely chopped for garnish"
+    },
+    {
+      "name": "Red Chillies",
+      "amount": "3-4 slices",
+      "notes": "remove seeds and membranes if using fresh chillies"
+    },
+    {
+      "name": "Garlic Cloves (minced)",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Maggi Seasoning or Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper Powder or Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Nutritional Yeast (optional for added flavor)",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring semolina to boil with vegetable broth and water.",
+    "Reduce heat to low, stir occasionally until the mixture thickens slightly. Simmer for about 5-7 minutes or until desired consistency is reached.",
+    "Add tomato paste, finely chopped green onions, red chillies, minced garlic, soy sauce, Maggi seasoning (or salt), pepper powder, and nutritional yeast if using. Stir well to combine all ingredients.",
+    "Simmer the mixture for an additional 2-3 minutes allowing flavors to meld together.",
+    "Turn off heat immediately after it simmers down, serving immediately as a gooey and peppery semolina dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "peppery",
+    "goey",
+    "kid-friendly",
+    "semolina",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 4
+  },
+  "slug": "peppery-gooey-malaysian-semolina-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-gooey-malaysian-semolina-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:51:41Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "simmer",
+    "primaryIngredient": "semolina",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Semolina",
+    "descriptor": "Peppery Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
