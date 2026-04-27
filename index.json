@@ -534,6 +534,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-dense-german-smoked-salmon-stir-fry",
+    "title": "Peppery Dense German Smoked Salmon Stir-fry",
+    "tags": [
+      "peppery",
+      "dense",
+      "german",
+      "smoked salmon",
+      "stir-fry",
+      "gluten-free"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-ethiopian-beef-stir-fry",
     "title": "Peppery Ethiopian Beef Stir-fry",
     "tags": [
