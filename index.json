@@ -532,6 +532,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-indian-carrot-stir-fry",
+    "title": "Peppery Indian Carrot Stir-Fry",
+    "tags": [
+      "peppery",
+      "crisp",
+      "indian-carrot-stir-fry",
+      "jain-friendly"
+    ],
+    "cuisine": "French, Indian",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-indian-lamb-stir-fry",
     "title": "Peppery Indian Lamb Stir-Fry",
     "tags": [

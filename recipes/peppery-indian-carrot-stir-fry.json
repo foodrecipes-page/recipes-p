@@ -1,0 +1,87 @@
+{
+  "title": "Peppery Indian Carrot Stir-Fry",
+  "description": "A vibrant and flavorful meal-prep French dish featuring crispy carrots enhanced with black treacle and garnished with fresh herbs for a jain-friendly twist.",
+  "cuisine": "French, Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "Black Treacle",
+      "amount": "2 tablespoons",
+      "notes": "Toasted and finely grated for added depth of flavor"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "3-4 pieces",
+      "notes": "For a mild to spicy kick, adjust accordingly"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cilantro Leaves",
+      "amount": "1 tablespoon",
+      "notes": "Finely chopped for garnish"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "1 tablespoon",
+      "notes": "For a fresh, minty contrast"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Grate the carrots and set aside.",
+    "To toast black treacle, place it in a small pan over medium heat. Stir frequently until lightly golden, about 2-3 minutes.",
+    "In a large skillet, add olive oil. Sauté minced garlic for about 1 minute or until fragrant.",
+    "Add grated carrots to the skillet and toss with black treacle and red chili flakes. Cook for about 5 minutes on medium-high heat, stirring occasionally, until the carrots are crisp-tender.",
+    "Once fully cooked, remove from heat and allow to cool slightly.",
+    "Combine cooled carrot mixture with chopped cilantro leaves and mint leaves. Mix well to combine.",
+    "Serve immediately as a snack or meal-prep portion."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crisp",
+    "indian-carrot-stir-fry",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "peppery-indian-carrot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-indian-carrot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:44:29Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "poach",
+    "primaryIngredient": "black treacle",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "carrot",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}
