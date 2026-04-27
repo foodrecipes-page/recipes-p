@@ -1,0 +1,82 @@
+{
+  "title": "Peppery Flaky White Asparagus Stir-fry",
+  "description": "A kid-friendly Mediterranean dish featuring peppery white asparagus and a dash of bhuna spices in a flaky texture, perfect for quick meal prep.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "White Asparagus",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Bhuna Spices Blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Wash and peel the white asparagus, cut into small pieces.",
+    "Heat a tablespoon of oil in a pan over medium heat.",
+    "Add garlic and red onion to the pan. Sauté for about 2 minutes until softened.",
+    "Add asparagus and Bhuna spices blend to the pan. Stir fry for another minute.",
+    "Pour tomato sauce evenly on top, add salt and pepper to taste. Stir well.",
+    "Simmer for an additional 5-7 minutes till everything is heated through.",
+    "Serve hot with crusty bread or by itself as a snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "flaky",
+    "kid-friendly",
+    "white asparagus",
+    "bhuna"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "peppery-flaky-white-asparagus-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-flaky-white-asparagus-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:51:28Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "bhuna",
+    "primaryIngredient": "white asparagus",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "White Asparagus",
+    "descriptor": "Peppery Flaky",
+    "dishForm": "Stir-fry"
+  }
+}

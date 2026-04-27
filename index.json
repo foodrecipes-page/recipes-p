@@ -565,6 +565,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-flaky-white-asparagus-stir-fry",
+    "title": "Peppery Flaky White Asparagus Stir-fry",
+    "tags": [
+      "peppery",
+      "flaky",
+      "kid-friendly",
+      "white asparagus",
+      "bhuna"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-fluffy-indulgent-norwegian-pork-belly-stir-fry",
     "title": "Peppery Fluffy Indulgent Norwegian Pork Belly Stir-fry",
     "tags": [
