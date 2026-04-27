@@ -945,6 +945,18 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-peruvian-tortilla-wrap",
+    "title": "Peppery Peruvian Tortilla Wrap",
+    "tags": [
+      "peppery",
+      "peruvian",
+      "low-calorie-friendly"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-russian-ginger-crumble",
     "title": "Peppery Russian Ginger Crumble",
     "tags": [

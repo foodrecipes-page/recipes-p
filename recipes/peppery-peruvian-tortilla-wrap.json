@@ -1,0 +1,73 @@
+{
+  "title": "Peppery Peruvian Tortilla Wrap",
+  "description": "A low-calorie-friendly peppery peruvian dish featuring a tender tortilla wrapped with flavorful peppers and other low-calorie-friendly ingredients.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flour Tortilla",
+      "amount": "2"
+    },
+    {
+      "name": "Bell Peppers, diced",
+      "amount": "4"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium-high heat. Heat olive oil, add chili powder and cumin.",
+    "Add diced bell peppers to the skillet with the spices. Stir occasionally until peppers are tender (about 8 minutes).",
+    "Remove from heat. Lay out tortillas on a clean surface. Spoon the spicy pepper mixture onto one half of each tortilla.",
+    "Fold tortillas in half and wrap like a burrito. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "peruvian",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 106,
+    "protein": 3.9,
+    "carbs": 15.2,
+    "fat": 8.3
+  },
+  "slug": "peppery-peruvian-tortilla-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-peruvian-tortilla-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:45:44Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "grill",
+    "primaryIngredient": "flour tortilla",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "tortilla",
+    "descriptor": "Peppery",
+    "dishForm": "Wrap"
+  }
+}
