@@ -1,0 +1,90 @@
+{
+  "title": "Peppery Tender British Potato Crumble",
+  "description": "This dish features a blend of starch and spices to create a peppery, tender crumb topping over cooked potatoes, reminiscent of classic British comfort food.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 large baking potatoes",
+      "amount": "each",
+      "notes": "preferably old potatoes for their texture"
+    },
+    {
+      "name": "2 tablespoons butter, melted",
+      "amount": "total",
+      "notes": "ensure it is pasteurized or labeled as such to be kosher-friendly"
+    },
+    {
+      "name": "1 teaspoon ground cinnamon",
+      "amount": "total"
+    },
+    {
+      "name": "1/4 teaspoon ground cloves",
+      "amount": "total"
+    },
+    {
+      "name": "1/2 teaspoon freshly grated nutmeg",
+      "amount": "total"
+    },
+    {
+      "name": "1 large egg, lightly beaten",
+      "amount": "total"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "to taste"
+    },
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "total"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C).",
+    "Wash the potatoes thoroughly and prick them with a fork. Place them in a large pot filled with water.",
+    "Bring to a boil and cook for about 10 minutes, then remove from heat and drain well, or use an Instant Pot for quicker cooking.",
+    "While the potatoes are cooking, prepare the crumble topping by mixing melted butter, cinnamon, cloves, nutmeg, egg, salt, pepper, and flour until combined. The mixture should be spreadable but not liquidy when applied to the potatoes.",
+    "Once the potatoes have cooled enough to handle, slice them into quarters lengthwise. Spoon the crumble topping generously over each potato quarter, ensuring it covers at least half of the surface area.",
+    "Place the topped potatoes on a baking sheet lined with parchment paper or sprayed with non-stick spray. Bake for 25-30 minutes or until golden brown and crisp around the edges.",
+    "Serve hot as an accompaniment to your main meal, best enjoyed with a side of gravy or simply seasoned roast beef."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "tender",
+    "british",
+    "nostalgic",
+    "potato",
+    "crumble",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 408,
+    "protein": 12.5,
+    "carbs": 63.9,
+    "fat": 17.5
+  },
+  "slug": "peppery-tender-british-potato-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-tender-british-potato-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:47:56Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "knead",
+    "primaryIngredient": "starch",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Potato",
+    "descriptor": "Peppery Tender",
+    "dishForm": "Crumble"
+  }
+}

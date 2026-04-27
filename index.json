@@ -920,6 +920,22 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-tender-british-potato-crumble",
+    "title": "Peppery Tender British Potato Crumble",
+    "tags": [
+      "peppery",
+      "tender",
+      "british",
+      "nostalgic",
+      "potato",
+      "crumble",
+      "kosher-friendly"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-tender-dutch-potato-stir-fry",
     "title": "Peppery Tender Dutch Potato Stir-fry",
     "tags": [
