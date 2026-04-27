@@ -1,0 +1,94 @@
+{
+  "title": "Peppery Tender Tunisian Haddock Stir-fry",
+  "description": "A delicious and comforting peppery stir-fry featuring tender smoked haddock in a raw-friendly recipe that captures the essence of nostalgic Tunisian cuisine.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "12 oz"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "green onions",
+      "amount": "4-6 green onions, sliced thinly"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup fresh, chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons freshly squeezed"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick skillet over medium-high heat.",
+    "Season haddock fillets with salt and black pepper on both sides.",
+    "Add haddock to the skillet, cooking for about 2 minutes per side or until golden brown and cooked through.",
+    "Remove from heat and set aside.",
+    "In the same skillet, add red bell peppers and sauté for about 3-4 minutes, stirring occasionally.",
+    "Stir in cilantro, green onions, and lemon juice. Cook for an additional minute.",
+    "Add red pepper flakes, dijon mustard, haddock fillets back into the pan, and stir well to combine all ingredients.",
+    "Reduce heat to low, cover, and simmer for about 2-3 minutes or until the flavors are fully integrated.",
+    "Serve hot with a side of garlic naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery-tender",
+    "tunisian-dish",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 296,
+    "protein": 17,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "peppery-tender-tunisian-haddock-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-tender-tunisian-haddock-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:26:54Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "reduce",
+    "primaryIngredient": "smoked haddock",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Haddock",
+    "descriptor": "Peppery Tender",
+    "dishForm": "Stir-fry"
+  }
+}

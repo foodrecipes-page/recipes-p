@@ -750,6 +750,18 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-tender-tunisian-haddock-stir-fry",
+    "title": "Peppery Tender Tunisian Haddock Stir-fry",
+    "tags": [
+      "peppery-tender",
+      "tunisian-dish",
+      "raw-friendly"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-ukrainian-paprika-crispy-stir-fry",
     "title": "Peppery Ukrainian Paprika Crispy Stir-fry",
     "tags": [
