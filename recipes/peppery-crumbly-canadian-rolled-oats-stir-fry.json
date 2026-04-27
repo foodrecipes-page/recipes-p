@@ -1,0 +1,83 @@
+{
+  "title": "Peppery Crumbly Canadian Rolled Oats Stir-fry",
+  "description": "A keto-friendly weeknight meal featuring crunchy rolled oats braised with a peppery sauce, ideal for quick cooking and serving as a main course.",
+  "cuisine": "Canadian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup rolled oats",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "cloves"
+    },
+    {
+      "name": "Juice of half a lemon",
+      "amount": "juice of half a lemon"
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": "onion"
+    },
+    {
+      "name": "2 cups chicken or vegetable broth",
+      "amount": "cups"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Mix the rolled oats, chopped onion, and a pinch of black pepper in a bowl. Drizzle with olive oil.",
+    "Spread the mixture evenly on a baking sheet and bake for about 20 minutes until golden brown.",
+    "In a separate pan, heat chicken or vegetable broth over medium heat. Add finely chopped garlic and lemon juice, stir well.",
+    "Stir the baked oats into the sauce until combined, then simmer for another 5-10 minutes until thickened slightly.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crumbly",
+    "canadian",
+    "rolled oats",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "peppery-crumbly-canadian-rolled-oats-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crumbly-canadian-rolled-oats-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:02:31Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "braise",
+    "primaryIngredient": "rolled oats",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "rolled oats",
+    "descriptor": "Peppery Crumbly",
+    "dishForm": "Stir-fry"
+  }
+}

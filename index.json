@@ -435,6 +435,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-crumbly-canadian-rolled-oats-stir-fry",
+    "title": "Peppery Crumbly Canadian Rolled Oats Stir-fry",
+    "tags": [
+      "peppery",
+      "crumbly",
+      "canadian",
+      "rolled oats",
+      "stir-fry"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crumbly-mediterranean-linguine-stir-fry",
     "title": "Peppery Crumbly Mediterranean Linguine Stir-fry",
     "tags": [
