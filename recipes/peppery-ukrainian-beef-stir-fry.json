@@ -1,0 +1,90 @@
+{
+  "title": "Peppery Ukrainian Beef Stir-fry",
+  "description": "A tender and energizing Ukrainian dish featuring pico de gallo sauce for a spicy kick, perfect as a quick lunch or snack.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin)",
+      "amount": "100g",
+      "notes": "Ensure to select lean beef for this recipe."
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2-3",
+      "notes": "Approximately 1 clove per person"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "Can be substituted with a mix of red and yellow peppers for more color."
+    },
+    {
+      "name": "Green onions (scallions)",
+      "amount": "4-6 stalks",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sunflower oil or avocado oil",
+      "amount": "2 tablespoons",
+      "notes": "Use for stir-frying and as dressing"
+    },
+    {
+      "name": "Pico de gallo sauce (optional)",
+      "amount": "-",
+      "notes": "For added zing to the dish, but can be omitted for egg-free-friendly version."
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer at 200°C.",
+    "Chop the beef into thin slices or use pre-cut strips. Finely chop the garlic cloves and slice the bell pepper thinly.",
+    "In a mixing bowl, combine sunflower oil, chopped green onions, minced garlic, and chopped fresh parsley; mix well.",
+    "Add the beef slices to the marinade mixture and toss gently until all pieces are coated evenly. Let it rest for 10 minutes.",
+    "Divide the seasoned beef into small portions if making individual servings, then place each portion in a single layer on a plate or tray suitable for air frying.",
+    "Drizzle the pico de gallo sauce over the beef slices before air-frying for about 5-7 minutes until golden brown and cooked through. Avoid overcrowding to ensure even cooking.",
+    "Serve hot with steamed vegetables or rice for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "ukrainian",
+    "beef",
+    "stir-fry",
+    "u2013",
+    "energizing"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 28,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "peppery-ukrainian-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-ukrainian-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:09:47Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "air-fry",
+    "primaryIngredient": "pico de gallo sauce",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Beef",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}
