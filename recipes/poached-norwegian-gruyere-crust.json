@@ -1,0 +1,79 @@
+{
+  "title": "Poached Norwegian Gruyère Crust",
+  "description": "A rich and juicy solo dinner dish featuring poached Norwegian Gruyère cheese served as a crust, suitable for paleo-friendly diets.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grilled Salmon fillets",
+      "amount": "6 pieces"
+    },
+    {
+      "name": "Grated Norwegian Gruyère Cheese",
+      "amount": "12 oz",
+      "notes": "Freshly grated for optimal flavor and texture."
+    },
+    {
+      "name": "Vegetable Stock",
+      "amount": "8 cups"
+    },
+    {
+      "name": "Bone Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Prepare the salmon fillets by lightly seasoning them with salt and pepper.",
+    "In a large saucepan, combine the vegetable stock, bone broth, grated Gruyère cheese, lemon zest, and red wine vinegar. Bring to a boil over medium heat.",
+    "Once boiling, reduce heat to low and gently poach the salmon fillets in the mixture for 10-12 minutes per side, until fully cooked but still tender.",
+    "Remove the salmon from the poaching liquid using tongs or a slotted spoon, reserving some of the cooking liquid for serving. Allow the salmon to cool slightly before slicing thin pieces.",
+    "Serve the poached salmon with the reserved poaching liquid drizzled over top and garnished with additional lemon zest if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "gruyère",
+    "poached",
+    "paleo-friendly",
+    "juicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 38,
+    "carbs": 16,
+    "fat": 27
+  },
+  "slug": "poached-norwegian-gruyere-crust",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/poached-norwegian-gruyere-crust",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:00:18Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "poach",
+    "primaryIngredient": "gruy re",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Gruyère",
+    "descriptor": "Poached",
+    "dishForm": "Stir-fry"
+  }
+}
