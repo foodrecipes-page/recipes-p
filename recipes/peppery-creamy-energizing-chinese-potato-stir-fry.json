@@ -1,0 +1,90 @@
+{
+  "title": "Peppery Creamy Energizing Chinese Potato Stir-fry",
+  "description": "This dish combines red potatoes with a peppery sauce and creamy elements for an energizing meal that's dairy-free-friendly.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb (450g) small red potatoes",
+      "amount": "",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": ""
+    },
+    {
+      "name": "4 ounces shiitake mushrooms, chopped",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons nutritional yeast (optional)",
+      "amount": "",
+      "notes": "for added creaminess"
+    },
+    {
+      "name": "1/4 cup unsweetened almond milk or coconut milk",
+      "amount": "",
+      "notes": "dairy-free option"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or large skillet over medium-high heat. Add the diced potatoes and cook until they start to brown, about 5 minutes.",
+    "Remove the potatoes from the pan and set aside. In the same pan, add the minced garlic and cook for an additional minute.",
+    "Add the shiitake mushrooms and black pepper to the pan, stirring occasionally. Cook for another 3-4 minutes until the mushrooms are slightly softened.",
+    "Return the potatoes to the pan with the mushrooms. Add the soy sauce and lemon juice over high heat, stirring well to combine all ingredients.",
+    "If using nutritional yeast or dairy-free milk, mix in now. Stir gently until everything is heated through and the sauce thickens a bit.",
+    "Serve hot as a main dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "creamy",
+    "energizing",
+    "chinese",
+    "potato",
+    "stir-fry",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 6
+  },
+  "slug": "peppery-creamy-energizing-chinese-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-creamy-energizing-chinese-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:41:55Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "temper",
+    "primaryIngredient": "red potatoes",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Potato",
+    "descriptor": "Peppery Creamy Energizing",
+    "dishForm": "Stir-fry"
+  }
+}
