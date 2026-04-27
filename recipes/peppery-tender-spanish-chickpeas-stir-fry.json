@@ -1,0 +1,92 @@
+{
+  "title": "Peppery Tender Spanish Chickpeas Stir-fry",
+  "description": "A vibrant and flavorful weeknight dish featuring tender chickpeas with a peppery kick, served as a vegetarian-friendly main course.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "15 oz canned or dried chickpeas",
+      "amount": "",
+      "notes": "Soak overnight and rinse before cooking if using dried"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": ""
+    },
+    {
+      "name": "3 garlic cloves, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 bell pepper, diced (any color)",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1/2 tsp smoked paprika",
+      "amount": ""
+    },
+    {
+      "name": "1 bay leaf",
+      "amount": ""
+    },
+    {
+      "name": "1 lemon, juiced and zested (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add onions and sauté until translucent.",
+    "Stir in garlic and cook for about 30 seconds.",
+    "Throw in bell peppers, cumin, smoked paprika, and bay leaf. Sauté for another minute.",
+    "Push vegetables to one side of the pan; add chickpeas to the other side.",
+    "Pour in lemon juice and zest if using, tossing gently to coat.",
+    "Stir well to combine all ingredients evenly and cook for about 5-7 minutes more until heated through and slightly crispy on the edges.",
+    "Serve hot over rice or quinoa as a vegetarian main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peppery",
+    "tender",
+    "spanish",
+    "stir-fry",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 39,
+    "fat": 11
+  },
+  "slug": "peppery-tender-spanish-chickpeas-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-tender-spanish-chickpeas-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:47:38Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "braise",
+    "primaryIngredient": "bay leaf",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Peppery Tender",
+    "dishForm": "Stir-fry"
+  }
+}
