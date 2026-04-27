@@ -1,0 +1,92 @@
+{
+  "title": "Peppery Fluffy Croatian Cassava Stir-fry",
+  "description": "A lazy Sunday dish featuring cassava, cooked with sous-vide to perfection and infused with peppery flavor for a high-protein-friendly meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "high-protein",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cassava",
+      "amount": "1 large cassava root",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "neutral-flavored oil for stir-frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4, minced",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a skillet over medium-high heat.",
+    "Add the cubed cassava root and cook until golden brown, about 5 minutes on each side.",
+    "Stir in the chopped onion and minced garlic. Cook for an additional 2-3 minutes until softened.",
+    "Fold in the red pepper flakes and season with salt and ground black pepper to taste.",
+    "Sous-vide the mixture at 140°F (60°C) for about 1 hour or until cassava is tender.",
+    "Remove from sous-vide machine and stir gently. Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 75,
+  "totalTimeMin": 95,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peppery",
+    "fluffy",
+    "lazy-sunday",
+    "croatian",
+    "stir-fry",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "peppery-fluffy-croatian-cassava-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-fluffy-croatian-cassava-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:57:45Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "sous-vide",
+    "primaryIngredient": "cassaba",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Cassava",
+    "descriptor": "Peppery Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}

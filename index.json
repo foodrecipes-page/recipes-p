@@ -648,6 +648,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-fluffy-croatian-cassava-stir-fry",
+    "title": "Peppery Fluffy Croatian Cassava Stir-fry",
+    "tags": [
+      "peppery",
+      "fluffy",
+      "lazy-sunday",
+      "croatian",
+      "stir-fry",
+      "high-protein-friendly"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 95,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-fluffy-indulgent-norwegian-pork-belly-stir-fry",
     "title": "Peppery Fluffy Indulgent Norwegian Pork Belly Stir-fry",
     "tags": [
