@@ -1,0 +1,99 @@
+{
+  "title": "Peppery Argentinian Coconut Stir-fry",
+  "description": "A romantic and tender dish featuring peppery flavors with coconut cream in a whole30-friendly twist, inspired by traditional Argentine cuisine.",
+  "cuisine": "Argentine",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "2 pieces",
+      "notes": "Skewered and marinated"
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "1 cup",
+      "notes": "Organic, unsweetened"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "4-6 small",
+      "notes": "Diced"
+    },
+    {
+      "name": "Green Peppers",
+      "amount": "4-6 small",
+      "notes": "Diced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "5-7 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1/4 cup",
+      "notes": "For marinade and finishing touch"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "Freshly ground to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Marinate the chicken in a mixture of coconut cream, lemon juice, salt, and freshly ground pepper for at least an hour.",
+    "Heat oil in a large skillet over medium-high heat. Add chicken and cook until golden brown on both sides (about 5 minutes per side).",
+    "Remove chicken from pan and set aside. In the same pan, add onions and garlic to sweat until translucent (about 2-3 minutes), then add peppers.",
+    "Sauté for another 2-3 minutes until slightly softened. Add coconut cream and let it simmer until it thickens a bit (about 5 minutes).",
+    "Return chicken to the pan with its juices, stir-fry for an additional minute, allowing flavors to meld together.",
+    "Serve hot as part of your dinner or alongside a whole grain side dish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peppery",
+    "tender",
+    "argentinian",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 428,
+    "protein": 36,
+    "carbs": 15,
+    "fat": 22
+  },
+  "slug": "peppery-argentinian-coconut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-argentinian-coconut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:14:25Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "tandoor",
+    "primaryIngredient": "coconut cream",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Coconut",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}

@@ -336,6 +336,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-argentinian-coconut-stir-fry",
+    "title": "Peppery Argentinian Coconut Stir-fry",
+    "tags": [
+      "peppery",
+      "tender",
+      "argentinian",
+      "whole30-friendly"
+    ],
+    "cuisine": "Argentine",
+    "totalTimeMin": 55,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-argentinian-soybean-wrap",
     "title": "Peppery Argentinian Soybean Wrap",
     "tags": [
