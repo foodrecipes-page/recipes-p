@@ -1191,6 +1191,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-mexican-chicken-stir-fry",
+    "title": "Peppery Mexican Chicken Stir-fry",
+    "tags": [
+      "peppery",
+      "mexican",
+      "stir-fry",
+      "whole30"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-mexican-chile-crumble",
     "title": "Peppery Mexican Chile Crumble",
     "tags": [

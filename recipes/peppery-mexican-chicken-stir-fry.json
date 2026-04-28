@@ -1,0 +1,88 @@
+{
+  "title": "Peppery Mexican Chicken Stir-fry",
+  "description": "A light and spicy whole30-friendly solo-dinner dish featuring a unique combination of mayonnaise for added flavor.",
+  "cuisine": "Mexican",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless Chicken Breast",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Green Onions (scallion)",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Tropical Fruit Salsa (optional)",
+      "notes": "For extra flavor and color"
+    }
+  ],
+  "instructions": [
+    "Slice the chicken into thin strips.",
+    "Peel, wash, and chop green onions into fine pieces.",
+    "Chop garlic cloves finely.",
+    "Combine red chili flakes, Dijon mustard, mayonnaise, and cornstarch in a bowl to make the sauce.",
+    "Heat oil in a wok or large skillet over medium-high heat. Add chicken strips and cook until golden brown on all sides.",
+    "Add green onion pieces and garlic; stir-fry for 2 minutes.",
+    "Pour the sauce into the skillet, stirring well until thickened, about 1 minute.",
+    "If using, add tropical fruit salsa to the dish during the last minute of cooking."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "mexican",
+    "stir-fry",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 317,
+    "protein": 26,
+    "carbs": 9,
+    "fat": 5
+  },
+  "slug": "peppery-mexican-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-mexican-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:13:49Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "stir-fry",
+    "primaryIngredient": "mayonnaise",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}
