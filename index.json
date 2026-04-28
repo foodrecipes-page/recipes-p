@@ -631,6 +631,18 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-egyptian-almond-milk-stir-fry",
+    "title": "Peppery Egyptian Almond Milk Stir-fry",
+    "tags": [
+      "peppery",
+      "crisp",
+      "egyptian-almond-milk-stir-fry"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 22,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-ethiopian-beef-stir-fry",
     "title": "Peppery Ethiopian Beef Stir-fry",
     "tags": [

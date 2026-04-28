@@ -1,0 +1,82 @@
+{
+  "title": "Peppery Egyptian Almond Milk Stir-fry",
+  "description": "A mediterranean-friendly midnight craving dish featuring peppery almond milk in a crisp and flavorful stir-fry.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almond Milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "10g",
+      "notes": "For flavoring"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "50g"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "100g"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "40g"
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium heat.",
+    "Add almond milk, paprika, and green onions to the pan.",
+    "Sauté for about 2 minutes or until fragrant.",
+    "Add sliced red peppers, garlic, zucchini, and tomatoes to the pan.",
+    "Stir-fry for another 5-7 minutes until vegetables are tender and slightly crispy.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crisp",
+    "egyptian-almond-milk-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 13,
+    "fat": 6
+  },
+  "slug": "peppery-egyptian-almond-milk-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-egyptian-almond-milk-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:41:11Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "stir-fry",
+    "primaryIngredient": "almond milk",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "almond milk",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}
