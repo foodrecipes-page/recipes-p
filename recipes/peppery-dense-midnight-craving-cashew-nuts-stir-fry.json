@@ -1,0 +1,82 @@
+{
+  "title": "Peppery Dense Midnight Craving Cashew Nut Stir-Fry",
+  "description": "This peppery and dense midnight craving dish features cashew nuts in a savory sauce that is perfect for snacking or as a light dinner, suitable for pescatarian diets.",
+  "cuisine": "tunisian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cashew nuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chili peppers (diced)",
+      "amount": "2-3 pieces"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 lime"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan over medium heat.",
+    "Add cashew nuts and chili peppers, stir for about 2 minutes until the cashews start to toast lightly.",
+    "Pour tomato paste into the pan, stirring continuously to prevent burning. Add soy sauce and lime juice, continuing to stir well.",
+    "Reduce heat to low and let simmer for another minute or two to allow flavors to meld together.",
+    "Season with salt according to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "dense",
+    "midnight-craving",
+    "tunisian",
+    "cashew-nut-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 14
+  },
+  "slug": "peppery-dense-midnight-craving-cashew-nuts-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-dense-midnight-craving-cashew-nuts-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:33:22Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "temper",
+    "primaryIngredient": "cashew nuts",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "cashew nuts",
+    "descriptor": "peppery dense midnight craving",
+    "dishForm": "Stir-fry"
+  }
+}
