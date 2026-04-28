@@ -492,6 +492,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-crispy-german-potato-stir-fry",
+    "title": "Peppery Crispy German Potato Stir-fry",
+    "tags": [
+      "peppery",
+      "crispy",
+      "german",
+      "brandy",
+      "ferment",
+      "low-carb"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 55,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crispy-pumpkin-croissant",
     "title": "Peppery Crispy Pumpkin Croissant",
     "tags": [

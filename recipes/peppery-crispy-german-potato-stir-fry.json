@@ -1,0 +1,88 @@
+{
+  "title": "Peppery Crispy German Potato Stir-fry",
+  "description": "This dish combines crisp and peppery flavors with a touch of ferment for a romantic twist on traditional German potato dishes.",
+  "cuisine": "German",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "4 medium potatoes"
+    },
+    {
+      "name": "Chopped Onion",
+      "amount": "1"
+    },
+    {
+      "name": "Pepper Corns (Fresh or Dried)",
+      "amount": "A few handfuls"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "White Wine",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water (for boiling potatoes)",
+      "amount": "As needed"
+    }
+  ],
+  "instructions": [
+    "Peel and dice the potatoes into bite-sized pieces. Chop the onion finely.",
+    "Mince garlic cloves and add them to a large skillet with olive oil over medium heat.",
+    "Add chopped onions, pepper corns, and diced potatoes to the skillet, stirring occasionally for about 5 minutes until slightly browned.",
+    "Pour in balsamic vinegar and white wine, reduce heat to low and simmer for another 10-15 minutes or until most of the liquid is absorbed. Taste and adjust seasoning if needed.",
+    "If using brandy, add it now along with any additional fermenting agent like sauerkraut juice, and continue cooking until the mixture thickens and flavors meld together.",
+    "Serve hot, garnished with fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peppery",
+    "crispy",
+    "german",
+    "brandy",
+    "ferment",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 16,
+    "carbs": 34,
+    "fat": 9
+  },
+  "slug": "peppery-crispy-german-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crispy-german-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:26:56Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "ferment",
+    "primaryIngredient": "brandy",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Potato",
+    "descriptor": "Peppery Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
