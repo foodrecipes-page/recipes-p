@@ -1,0 +1,88 @@
+{
+  "title": "Plum Jam-Dotted Greek Citrus Crumble",
+  "description": "A citrusy solo-dinner dish featuring plum jam, greek yogurt, and a crispy crust, perfect for low-sodium meals.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-sodium",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 ripe plums",
+      "amount": "each",
+      "notes": "pitted"
+    },
+    {
+      "name": "1 cup greek yogurt",
+      "amount": "1 cup",
+      "notes": "plain, low-sodium"
+    },
+    {
+      "name": "½ cup orange juice",
+      "amount": "3/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "2 tablespoons honey",
+      "amount": "2 Tbsp",
+      "notes": "low-sugar variety"
+    },
+    {
+      "name": "1 tablespoon lemon zest",
+      "amount": "1 Tbsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch",
+      "notes": "kosher or sea salt"
+    },
+    {
+      "name": "2 tablespoons fresh orange juice",
+      "amount": "2 Tbsp",
+      "notes": "to bind the crumble"
+    }
+  ],
+  "instructions": [
+    "Mix plums, yogurt, orange juice, honey, lemon zest, and pinch of salt in a bowl. Chill for at least an hour.",
+    "Preheat oven to 350°F (175°C). Mix plum mixture with fresh orange juice until smooth.",
+    "Grease a baking dish or place a crumble liner on a sheet pan. Pour the plum yogurt mixture into the prepared dish.",
+    "In another bowl, combine remaining ingredients (2 tablespoons of honey and 2 tablespoons of fresh orange juice) to form a paste. Spread evenly over the yogurt layer in the dish.",
+    "Bake for about 15 minutes until golden brown on top. Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "plum-jam",
+    "greek-yogurt",
+    "orange-juice-crumble"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 13,
+    "carbs": 28,
+    "fat": 4
+  },
+  "slug": "plum-jamded-greek-citrus-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/plum-jamded-greek-citrus-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:34:42Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "simmer",
+    "primaryIngredient": "plum jam",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Citrus",
+    "descriptor": "Plum Jammed",
+    "dishForm": "Crumble"
+  }
+}
