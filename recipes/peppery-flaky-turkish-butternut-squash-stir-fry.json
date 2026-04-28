@@ -1,0 +1,78 @@
+{
+  "title": "Peppery Flaky Turkish Butternut Squash Stir-fry",
+  "description": "This sugar-free-friendly butternut squash dish is a savory and spicy brunch treat, perfect for those looking to spice up their morning meals.",
+  "cuisine": "Turkish",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Butternut Squash",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Thyme Leaves",
+      "amount": "a few"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Butternut squash, peeled and seeded, cut into cubes.",
+    "Dice garlic finely.",
+    "In a pan, heat olive oil over medium-high heat. Add garlic and cook until fragrant, about 1 minute.",
+    "Add butternut squash and red pepper flakes to the pan. Stir well to coat with spices.",
+    "Transfer contents of pan to an oven-proof dish. Drizzle with thyme leaves.",
+    "Bake in preheated oven for about 20 minutes or until tender and lightly golden, stirring halfway through baking.",
+    "Serve warm as a side or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "flaky",
+    "turkish",
+    "butternut-squash",
+    "stir-fry",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2,
+    "carbs": 24,
+    "fat": 6
+  },
+  "slug": "peppery-flaky-turkish-butternut-squash-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-flaky-turkish-butternut-squash-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:57:12Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "simmer",
+    "primaryIngredient": "butternut squash",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Butternut Squash",
+    "descriptor": "Peppery Flaky",
+    "dishForm": "Stir-fry"
+  }
+}
