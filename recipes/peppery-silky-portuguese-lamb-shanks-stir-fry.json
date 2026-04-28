@@ -1,0 +1,106 @@
+{
+  "title": "Peppery Silky Portuguese Lamb Shanks Stir-fry",
+  "description": "A quick-fix portuguese dish featuring lamb shanks in a peppery and silky sauce, suitable for pescatarian diets.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "200g",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1",
+      "notes": "red and yellow"
+    },
+    {
+      "name": "onions",
+      "amount": "3",
+      "notes": "sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "2 tsp",
+      "notes": "for peppery flavor"
+    },
+    {
+      "name": "tahini paste",
+      "amount": "1/4 cup",
+      "notes": "to add a silky texture and umami flavor"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "regular soy sauce for added depth of flavor"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for additional heat and peppery flavor"
+    },
+    {
+      "name": "water or beef broth",
+      "amount": "50ml"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat.",
+    "Add lamb shanks, skin-side down, to the wok. Cook until browned on all sides, about 10 minutes total.",
+    "Remove lamb from wok and set aside. Add onions to the same pan, sauté until soft, then add ginger and garlic; cook for another minute.",
+    "Return the lamb shanks to the wok with their cooking juices. Stir in coriander seeds, add bell peppers, tahini paste, soy sauce, black pepper, water or beef broth, and bring to a simmer.",
+    "Stir-fry until the sauce thickens and lamb is cooked through, about 10 minutes more.",
+    "Serve hot over rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peppery-silk",
+    "portuguese-lamb-shanks-stir-fry",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 40,
+    "carbs": 45,
+    "fat": 25
+  },
+  "slug": "peppery-silky-portuguese-lamb-shanks-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-silky-portuguese-lamb-shanks-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:38:49Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "bhuna",
+    "primaryIngredient": "lamb shanks",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "lamb shanks",
+    "descriptor": "Peppery Silky",
+    "dishForm": "Stir-fry"
+  }
+}
