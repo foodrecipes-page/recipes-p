@@ -1,0 +1,94 @@
+{
+  "title": "Peppery Creamy Vermicelli Stir-Fry",
+  "description": "A spicy and creamy vermicelli pasta dish with a touch of Ethiopian flavor, perfect for those days when you're feeling under the weather or need a quick, paleo-friendly meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup vermicelli pasta",
+      "amount": "",
+      "notes": "Soak in warm water for at least 30 minutes to soften."
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 garlic cloves, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup spinach leaves (fresh or frozen)",
+      "amount": "",
+      "notes": "Chop into bite-sized pieces."
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper",
+      "amount": "",
+      "notes": "To add heat, adjust to taste."
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Grated Parmesan cheese (optional)",
+      "amount": "",
+      "notes": "For added creaminess and texture."
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium-high heat. Add onion, garlic, and cayenne pepper; sauté for about 2 minutes until fragrant.",
+    "Add spinach to the pan, cook until wilted. Season with salt if needed.",
+    "Drain soaked vermicelli pasta and add it into the pan along with any leftover soaking water. Toss well so that no vermicelli is stuck together.",
+    "For a creamy texture, you can stir in a spoonful of sour cream or coconut milk for every cup of pasta. Stir until everything is well combined and slightly thickened.",
+    "If using Parmesan cheese, sprinkle it over the top just before serving for an extra layer of flavor and texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "creamy",
+    "sick-day",
+    "ethiopian",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 36,
+    "fat": 10
+  },
+  "slug": "peppery-creamy-vermicelli-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-creamy-vermicelli-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:33:07Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "toast",
+    "primaryIngredient": "vermicelli pasta",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Vermicelli",
+    "descriptor": "Peppery Creamy",
+    "dishForm": "Stir-fry"
+  }
+}

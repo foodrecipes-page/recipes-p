@@ -518,6 +518,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-creamy-vermicelli-stir-fry",
+    "title": "Peppery Creamy Vermicelli Stir-Fry",
+    "tags": [
+      "peppery",
+      "creamy",
+      "sick-day",
+      "ethiopian",
+      "paleo-friendly"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crispy-german-potato-stir-fry",
     "title": "Peppery Crispy German Potato Stir-fry",
     "tags": [
