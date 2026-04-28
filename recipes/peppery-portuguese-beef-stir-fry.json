@@ -1,0 +1,101 @@
+{
+  "title": "Peppery Portuguese Beef Stir-fry",
+  "description": "A crispy and flavorful one-pot dish featuring beef stock cubes, infused with a peppery kick for a unique twist on traditional Portuguese cuisine.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Stock Cube",
+      "amount": "1 cube"
+    },
+    {
+      "name": "Beef Slices",
+      "amount": "200g",
+      "notes": "Lean beef, preferably sirloin or tenderloin"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 large",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Green Peppers",
+      "amount": "3 small",
+      "notes": "Remove seeds and membranes for a milder flavor, cut into thin slices"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves",
+      "notes": "Finely minced"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "2 cloves",
+      "notes": "For extra flavor, but not necessary for a minimalist approach"
+    },
+    {
+      "name": "Thyme Sprigs",
+      "amount": "A few",
+      "notes": "Fresh or dried, optional for added depth of flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (218°C).",
+    "Season the beef slices with salt and pepper.",
+    "In a large skillet over medium heat, add oil. Sear the seasoned beef until golden brown on all sides, about 3-4 minutes per side.",
+    "Remove the beef from the skillet and set aside to rest while you prepare vegetables.",
+    "Sauté onions in the same pan for 2 minutes until translucent.",
+    "Add bell peppers, green peppers, garlic, and thyme. Stir-fry for another minute until softened but still crisp-tender.",
+    "Return the beef to the skillet along with any accumulated juices. Add red pepper flakes.",
+    "Stir everything together gently. Cook on medium-high heat for 2-3 minutes or until all ingredients are heated through and combined, adjusting seasoning as needed.",
+    "Transfer the dish to a warmed serving plate, garnish with fresh herbs if desired, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peppery-portuguese-beef-stir-fry",
+    "paleo-friendly",
+    "one-pot-dish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 24,
+    "carbs": 9,
+    "fat": 16
+  },
+  "slug": "peppery-portuguese-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-portuguese-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:44:44Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "boil",
+    "primaryIngredient": "beef stock cubes",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Beef",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}

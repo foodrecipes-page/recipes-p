@@ -1174,6 +1174,18 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-portuguese-beef-stir-fry",
+    "title": "Peppery Portuguese Beef Stir-fry",
+    "tags": [
+      "peppery-portuguese-beef-stir-fry",
+      "paleo-friendly",
+      "one-pot-dish"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-russian-ginger-crumble",
     "title": "Peppery Russian Ginger Crumble",
     "tags": [
