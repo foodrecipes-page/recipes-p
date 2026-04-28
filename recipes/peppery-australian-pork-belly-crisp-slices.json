@@ -1,0 +1,78 @@
+{
+  "title": "Peppery Australian Pork Belly Crisp Slices",
+  "description": "A spicy and flavorful dish perfect for a date night featuring crispy pork belly slices drizzled with a peppery glaze.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork Belly",
+      "amount": "200g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cut pork belly into thick slices, about 1cm thick.",
+    "Season both sides of the pork with salt, pepper, smoked paprika, and cayenne pepper. Let it marinate for at least an hour or up to overnight in a plastic bag in the refrigerator.",
+    "Heat vegetable oil in a large skillet over medium heat until shimmering.",
+    "Place pork belly slices in the hot skillet and cook on each side until golden brown, about 2-3 minutes per side. Remove from pan and set aside.",
+    "To make the peppery glaze, mix together salt, pepper, smoked paprika, and a pinch of cayenne pepper in a small bowl. Drizzle over cooked pork belly slices while still warm.",
+    "Serve immediately as a snack or appetizer."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "australian",
+    "pork belly",
+    "crisp",
+    "date night"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 31,
+    "carbs": 9,
+    "fat": 17
+  },
+  "slug": "peppery-australian-pork-belly-crisp-slices",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-australian-pork-belly-crisp-slices",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:33:33Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "cure",
+    "primaryIngredient": "pork belly slices",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "pork belly",
+    "descriptor": "Peppery",
+    "dishForm": "Crisp Slices"
+  }
+}
