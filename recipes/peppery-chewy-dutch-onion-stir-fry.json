@@ -1,0 +1,94 @@
+{
+  "title": "Peppery Chewy Dutch Onion Stir-fry",
+  "description": "A flavorful and hearty dish perfect for a sick-day meal featuring onions cooked to perfection in a spicy sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Water or low-sodium chicken broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cornstarch or corn flour (for thickening)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1-2 teaspoons"
+    },
+    {
+      "name": "Pepper flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Green onions (optional, for garnish)",
+      "amount": "A few"
+    },
+    {
+      "name": "Vegetable oil or low-sodium vegetable broth",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat. Add the vegetable oil and sesame oil.",
+    "When hot, add the onions and cook until they are soft but not mushy, about 5 minutes.",
+    "Add minced garlic and cook for another minute until fragrant.",
+    "Pour in the low-sodium soy sauce, water or broth, pepper flakes, and salt. Stir to combine.",
+    "Reduce heat to medium and stir in the cornstarch mixture until it thickens and coats all of the onions.",
+    "Stir-fry for an additional 2-3 minutes until the sauce is smooth and glossy.",
+    "Serve hot with green onions (if using) on top as a garnish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "chewy",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 6
+  },
+  "slug": "peppery-chewy-dutch-onion-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-chewy-dutch-onion-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:31:47Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "fry",
+    "primaryIngredient": "onions",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Onion",
+    "descriptor": "Peppery Chewy",
+    "dishForm": "Stir-fry"
+  }
+}

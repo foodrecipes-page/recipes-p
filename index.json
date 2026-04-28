@@ -377,6 +377,18 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-chewy-dutch-onion-stir-fry",
+    "title": "Peppery Chewy Dutch Onion Stir-fry",
+    "tags": [
+      "peppery",
+      "chewy",
+      "dutch"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-chewy-italian-lamb-stir-fry",
     "title": "Peppery Chewy Italian Lamb Stir-fry",
     "tags": [
