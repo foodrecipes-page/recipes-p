@@ -1254,6 +1254,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-silky-canadian-chicken-stir-fry",
+    "title": "Peppery Silky Canadian Chicken Stir-fry",
+    "tags": [
+      "canadian",
+      "stir-fry",
+      "pescatarian-friendly",
+      "peppery",
+      "silky"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-silky-peanut-stir-fry",
     "title": "Peppery Silky Peanut Stir-Fry",
     "tags": [

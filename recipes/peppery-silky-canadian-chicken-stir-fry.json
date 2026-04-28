@@ -1,0 +1,92 @@
+{
+  "title": "Peppery Silky Canadian Chicken Stir-fry",
+  "description": "A monsoon-inspired dish featuring poached chicken thighs with a touch of peppery flavors and silky texture, suitable for pescatarian diets.",
+  "cuisine": "Canadian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Thighs",
+      "amount": "200g",
+      "notes": "Bone-in, skin-on"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Pepper Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chili Garlic Paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Shallots",
+      "amount": "2 slices"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a pan over medium heat. Season chicken thighs with salt and pepper.",
+    "Sear chicken on all sides until golden brown, about 3 minutes per side.",
+    "Add garlic, tomato paste, chili garlic paste, and shallots to the pan. Stir-fry for another minute.",
+    "Pour water into the pan, bring to a boil, then reduce heat to simmer.",
+    "Simmer for 10-15 minutes until chicken is cooked through. Add pepper flakes during the last 2-3 minutes of cooking.",
+    "Remove from heat and let cool slightly before slicing or serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "stir-fry",
+    "pescatarian-friendly",
+    "peppery",
+    "silky"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "peppery-silky-canadian-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-silky-canadian-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:53:12Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "poach",
+    "primaryIngredient": "chicken thighs",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chicken",
+    "descriptor": "Peppery Silky",
+    "dishForm": "Stir-fry"
+  }
+}
