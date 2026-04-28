@@ -1,0 +1,75 @@
+{
+  "title": "Peppery Silky Peanut Stir-Fry",
+  "description": "A meal-prep Australian dish featuring a peppery and silky peanut stir-fry made with nutritious ingredients that are suitable for those on specific dietary restrictions.",
+  "cuisine": "Australian",
+  "diet": [
+    "fo-d-mac-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Peanut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "4 pieces, cut into bite-sized pieces",
+      "notes": "ensure to use low-sodium chicken if available"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1 medium each, bell pepper colors (red, green, yellow, and orange), thinly sliced",
+      "notes": "use a variety for color contrast and added nutrition"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup frozen, thawed and rinsed"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Heat the peanut oil in a large wok or skillet over medium-high heat.",
+    "Season the chicken with kosher salt and add to the pan. Stir-fry until golden brown, about 5 minutes.",
+    "Add bell peppers and snow peas to the pan. Stir-fry for another 3-4 minutes until vegetables are tender-crisp.",
+    "Drizzle a bit more peanut oil if needed, then sprinkle with your favorite chili flakes (such as Sichuan peppercorns or red pepper flakes).",
+    "Cook briefly and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "silky",
+    "australian",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 467,
+    "protein": 28,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "peppery-silky-peanut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-silky-peanut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:56:37Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "saute",
+    "primaryIngredient": "peanut oil",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "peanut",
+    "descriptor": "Peppery Silky",
+    "dishForm": "Stir-fry"
+  }
+}
