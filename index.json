@@ -855,6 +855,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-greek-cookies-crumble",
+    "title": "Peppery Greek Cookies Crumble",
+    "tags": [
+      "peppery",
+      "dense",
+      "greek",
+      "midnight-craving",
+      "vegan-friendly"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-greek-paprika-stir-fry",
     "title": "Peppery Greek Paprika Stir-fry",
     "tags": [

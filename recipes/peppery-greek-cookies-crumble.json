@@ -1,0 +1,78 @@
+{
+  "title": "Peppery Greek Cookies Crumble",
+  "description": "A peppery and dense midnight craving dish featuring cookies that are vegan-friendly and perfect for snacking.",
+  "cuisine": "Greek",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups almond flour",
+      "amount": "cups"
+    },
+    {
+      "name": "1/2 cup grated parmesan cheese",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tablespoons ground black pepper",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1/2 cup honey syrup",
+      "amount": "cup"
+    },
+    {
+      "name": "4 oz vegan butter, softened",
+      "amount": "oz"
+    },
+    {
+      "name": "2 teaspoons vanilla extract",
+      "amount": "teaspoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease a cookie sheet.",
+    "In a large mixing bowl, combine almond flour and parmesan cheese. Add ground black pepper and stir well.",
+    "Add softened vegan butter and honey syrup; mix until dough forms. Stir in vanilla extract.",
+    "Drop spoonfuls of the mixture onto the greased cookie sheet. Bake for 12-15 minutes or until golden brown.",
+    "Cool on a wire rack, then break into small crumbles to serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "dense",
+    "greek",
+    "midnight-craving",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "peppery-greek-cookies-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-greek-cookies-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:25:05Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "reduce",
+    "primaryIngredient": "cookies",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "cookies",
+    "descriptor": "Peppery",
+    "dishForm": "Crumble"
+  }
+}
