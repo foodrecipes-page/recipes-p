@@ -1045,6 +1045,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-juicy-light-portuguese-chicken-stir-fry",
+    "title": "Peppery Juicy Light Portuguese Chicken Stir-fry",
+    "tags": [
+      "peppered",
+      "juicy",
+      "light-portuguese",
+      "chicken-stir-fry"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-kenyan-citrus-stir-fry",
     "title": "Peppery Kenyan Citrus Stir-fry",
     "tags": [

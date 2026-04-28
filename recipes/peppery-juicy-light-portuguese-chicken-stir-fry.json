@@ -1,0 +1,95 @@
+{
+  "title": "Peppery Juicy Light Portuguese Chicken Stir-fry",
+  "description": "This dish is a high-protein-friendly meal featuring peppery and juicy chicken stir-fried with red wine vinegar, garlic, and bell peppers.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "high-protein",
+    "alcohol-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast fillets",
+      "amount": "250g"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "green bell pepper",
+      "amount": "1 small, thinly sliced"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pepper flakes",
+      "amount": "a pinch"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "a few drops"
+    }
+  ],
+  "instructions": [
+    "Marinate the chicken in a bowl with soy sauce, red wine vinegar, olive oil, salt, and pepper flakes for at least 30 minutes.",
+    "Heat a wok or large frying pan over high heat. Add olive oil, swirl to coat the bottom of the pan evenly.",
+    "Remove the marinated chicken from the bowl and set aside. In the same pan, add bell peppers and garlic, stir-fry until slightly softened, about 2-3 minutes.",
+    "Add the marinated chicken back into the pan, reduce heat to medium-high, and cook for another 4-5 minutes or until fully cooked through but still juicy.",
+    "Stir in red wine vinegar with sugar and pepper flakes, cooking until reduced by half. Remove from heat immediately to prevent further burning.",
+    "Serve hot with steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peppered",
+    "juicy",
+    "light-portuguese",
+    "chicken-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 28,
+    "carbs": 14,
+    "fat": 9
+  },
+  "slug": "peppery-juicy-light-portuguese-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-juicy-light-portuguese-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:23:20Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "marinate",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Peppery Juicy Light",
+    "dishForm": "Stir-fry"
+  }
+}
