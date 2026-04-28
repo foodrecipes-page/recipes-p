@@ -1,0 +1,80 @@
+{
+  "title": "Peppery Mexican Onion Crisp",
+  "description": "A unique halal-friendly solo-dinner dish featuring caramelized onion rings seasoned with a spicy peppery blend for an unexpected twist on traditional Mexican cuisine.",
+  "cuisine": "Mexican",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "1 medium onion"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Habanero Peppers (or other hot peppers)",
+      "amount": "5-6, finely chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-5, minced"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice the onion into rings, about 1/8 inch thick.",
+    "In a large skillet over medium heat, add oil and chopped peppers. Cook until fragrant and slightly softened, about 2 minutes.",
+    "Add minced garlic and cumin seeds to the skillet; cook for another minute.",
+    "Toss the onion rings into the skillet with the peppers and garlic. Add salt and mix well.",
+    "Reduce heat to low and cover the skillet to allow the onions to sweat until slightly translucent, about 10-15 minutes.",
+    "Increase heat to medium-high and add a bit more oil if needed. Cook the onion slices on both sides for another 5 minutes or until they start caramelizing but are still crisp.",
+    "Turn off the heat and let the onion rings sit in their own juices, slightly cooled down before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crisp",
+    "mexican",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 135,
+    "protein": 2.5,
+    "carbs": 18,
+    "fat": 4
+  },
+  "slug": "peppery-mexican-onion-crisp",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-mexican-onion-crisp",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:53:10Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "caramelize",
+    "primaryIngredient": "onion rings",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Onion",
+    "descriptor": "Peppery",
+    "dishForm": "Crisp"
+  }
+}

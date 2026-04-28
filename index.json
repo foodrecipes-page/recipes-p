@@ -977,6 +977,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-mexican-onion-crisp",
+    "title": "Peppery Mexican Onion Crisp",
+    "tags": [
+      "peppery",
+      "crisp",
+      "mexican",
+      "halal-friendly"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-middle-eastern-potato-crumble",
     "title": "Peppery Middle Eastern Potato Crumble",
     "tags": [
