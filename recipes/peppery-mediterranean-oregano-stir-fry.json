@@ -1,0 +1,97 @@
+{
+  "title": "Peppery Mediterranean Oregano Stir-fry",
+  "description": "A crisp and peppery mediterranean dish featuring dried oregano, perfect for a quick lunch or snack.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup cherry tomatoes",
+      "amount": "",
+      "notes": "diced"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "minced"
+    },
+    {
+      "name": "1/4 red onion",
+      "amount": "",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "10 oz. zucchini",
+      "amount": "",
+      "notes": "sliced into thin rounds"
+    },
+    {
+      "name": "2 tbsp capers",
+      "amount": "",
+      "notes": "undrained"
+    },
+    {
+      "name": "1/4 cup fresh parsley",
+      "amount": "",
+      "notes": "chopped"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "fresh, optional for brightening"
+    },
+    {
+      "name": "2 tbsp dried oregano",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium-high heat.",
+    "Add olive oil, then garlic, onion, zucchini, cherry tomatoes, and capers. Stir-fry for about 5 minutes or until vegetables are tender-crisp.",
+    "Stir in dried oregano, salt, and pepper to taste. Mix well with the vegetables.",
+    "Garnish with fresh parsley if desired.",
+    "Serve hot as a snack or light lunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crisp",
+    "mediterranean",
+    "monsoon",
+    "oyster-plant-dried"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 31,
+    "fat": 8
+  },
+  "slug": "peppery-mediterranean-oregano-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-mediterranean-oregano-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:13:58Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "broil",
+    "primaryIngredient": "dried oregano",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Oregano",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}
