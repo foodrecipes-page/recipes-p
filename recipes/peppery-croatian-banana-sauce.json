@@ -1,0 +1,87 @@
+{
+  "title": "Peppery Croatian Banana Sauce",
+  "description": "A decadent and lazy Sunday dessert featuring a creamy, peppery banana sauce made with sous-vide bananas for an easy and indulgent treat.",
+  "cuisine": "Croatian",
+  "diet": [
+    "peanut-free",
+    "sugar-free",
+    "sodium-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "caster sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "10g"
+    },
+    {
+      "name": "vanilla bean pod",
+      "notes": "split and scraped for seeds"
+    },
+    {
+      "name": "unsweetened coconut flakes",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "sugar-free vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "whole peeled bananas",
+      "amount": "6"
+    },
+    {
+      "name": "sugar-free syrup (for dipping)",
+      "notes": "200ml water, 50g sugar, and a pinch of salt, combined and boiled for 5 minutes to make the syrup."
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 78°C (172°F) and vacuum pack whole bananas. Let them cook for 5 hours.",
+    "Once cooked, transfer the sous-vived bananas into a heatproof bowl, add sugar-free vanilla extract, unsweetened coconut flakes, and scrape in the seeds of a split vanilla bean pod.",
+    "Whisk together caster sugar and butter until smooth, then gradually pour over banana mixture. Continue whisking to combine.",
+    "Stir in cocoa powder, making sure it's well incorporated into the sauce.",
+    "If you want a smoother texture, strain through a fine-mesh sieve.",
+    "To serve, allow your bananas to cool slightly before drizzling with sugar-free syrup."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 300,
+  "totalTimeMin": 305,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday-dessert",
+    "sugar-free-banana-sauce",
+    "cocoa-friendly"
+  ],
+  "nutrition": {
+    "calories": 286,
+    "protein": 3.5,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "peppery-croatian-banana-sauce",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-croatian-banana-sauce",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:45:04Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "sous-vide",
+    "primaryIngredient": "caster sugar",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "banana",
+    "descriptor": "Peppery",
+    "dishForm": "Sauce"
+  }
+}
