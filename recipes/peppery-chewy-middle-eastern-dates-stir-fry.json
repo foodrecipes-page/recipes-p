@@ -1,0 +1,89 @@
+{
+  "title": "Peppery Chewy Middle Eastern Dates Stir-fry",
+  "description": "This hangover-cure dish combines the sweet and fruity flavor of blackcurrant jam with the chewiness of dates and a peppery kick from fresh herbs, served as a light snack or breakfast.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 ripe dates",
+      "amount": "each",
+      "notes": "pitted"
+    },
+    {
+      "name": "1 tbsp blackcurrant jam",
+      "amount": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "each",
+      "notes": "minced"
+    },
+    {
+      "name": "1 tbsp harissa paste (halal-friendly)",
+      "amount": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": "pinch",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine the dates with half of the blackcurrant jam and lemon juice. Mix well.",
+    "Add minced garlic and harissa paste to the mixture. Stir until evenly coated.",
+    "Fold in chopped parsley and add the remaining blackcurrant jam. Gently stir everything together.",
+    "Heat a non-stick pan over medium-high heat, add a drizzle of olive oil if using.",
+    "Pour the prepared date mixture into the hot pan and cook for 2-3 minutes on each side or until the dates are slightly crispy and caramelized, stirring occasionally to prevent sticking.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "chewy",
+    "middle-eastern",
+    "hangover-cure",
+    "blackcurrant-jam",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 3,
+    "carbs": 16,
+    "fat": 2
+  },
+  "slug": "peppery-chewy-middle-eastern-dates-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-chewy-middle-eastern-dates-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:20:18Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "ferment",
+    "primaryIngredient": "blackcurrant jam",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "dates",
+    "descriptor": "Peppery Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
