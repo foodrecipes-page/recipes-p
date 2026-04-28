@@ -1,0 +1,87 @@
+{
+  "title": "Peppery Slovakian Sesame Seed Oil Crisp",
+  "description": "A tender and peppery dish featuring sesame seed oil that's perfect for a lazy Sunday.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-sodium-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "lightly toasted"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "organic, low sodium"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "sesame seed oil",
+      "amount": "3 tablespoons",
+      "notes": "low-sodium variety, at room temperature"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 cup finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "1 tablespoon, finely chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Toast the sesame seeds in a dry skillet over medium heat for about 3 minutes or until golden brown.",
+    "In a pan, sauté minced garlic and onion with ground cumin until fragrant and slightly translucent.",
+    "Add the toasted sesame seeds to the pan, then mix well with the garlic-onion-cumin mixture.",
+    "Gradually drizzle in the sesame seed oil while continuously stirring to prevent burning. Continue cooking for about 2 minutes.",
+    "Season with a pinch of salt to taste. If desired, stir in chopped cilantro leaves.",
+    "Serve immediately as a snack or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "slovakian",
+    "sesame-seed-oil-crisp"
+  ],
+  "nutrition": {
+    "calories": 40,
+    "protein": 1,
+    "carbs": 3,
+    "fat": 2
+  },
+  "slug": "peppery-slovakian-sesame-seed-oil-crisp",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-slovakian-sesame-seed-oil-crisp",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:11:57Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "rest",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "sesame seeds",
+    "descriptor": "peppery",
+    "dishForm": "Stir-fry"
+  }
+}
