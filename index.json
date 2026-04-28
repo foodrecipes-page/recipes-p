@@ -673,6 +673,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-crunchy-irish-english-muffin-braise",
+    "title": "Peppery Crunchy Irish English Muffin Braise",
+    "tags": [
+      "peppery",
+      "crunchy",
+      "irish",
+      "english-muffin",
+      "braise"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crunchy-saudia-pepper-crumble",
     "title": "Peppery Crunchy Saudia Pepper Crumble",
     "tags": [

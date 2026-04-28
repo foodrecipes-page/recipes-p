@@ -1,0 +1,78 @@
+{
+  "title": "Peppery Crunchy Irish English Muffin Braise",
+  "description": "A weeknight dish featuring crispy English muffins tossed in a peppery seasoning blend and braised until tender, egg-free-friendly.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "English Muffins",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Coarse Black Pepper",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Red Chili Flakes (optional)",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion Powder",
+      "amount": "¼ teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Slice English muffins into half rounds. Season both sides with coarse black pepper.",
+    "In a skillet, heat olive oil over medium heat. Add minced garlic and cook until fragrant, about 1 minute.",
+    "Add sliced English muffins to the skillet. Cook for about 2 minutes per side or until golden brown.",
+    "Sprinkle red chili flakes (if using) evenly on top of each slice, then sprinkle with onion powder.",
+    "Transfer to a baking dish and pour over any remaining garlic oil from the skillet. Bake in preheated oven for 15-20 minutes or until muffins are tender and golden brown.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crunchy",
+    "irish",
+    "english-muffin",
+    "braise"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "peppery-crunchy-irish-english-muffin-braise",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crunchy-irish-english-muffin-braise",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:29:37Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "braise",
+    "primaryIngredient": "english muffins",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "English muffin",
+    "descriptor": "Peppery Crunchy",
+    "dishForm": "Braise"
+  }
+}
