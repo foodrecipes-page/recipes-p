@@ -1,0 +1,101 @@
+{
+  "title": "Peppery Vietnamese Coriander Stir-fry",
+  "description": "A dense and indulgent peppery dish featuring ground coriander, perfectly suited for a low-calorie-friendly meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground coriander",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, minced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tapioca starch",
+      "amount": "1 tablespoon, mixed with water to form a slurry"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large skillet over medium-high heat.",
+    "Add ground coriander and chili flakes, cooking for about 2 minutes until fragrant.",
+    "Stir in minced ginger and garlic; cook for an additional minute.",
+    "Add red bell pepper, tomato sauce, lime juice, and salt. Stir well to combine.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for about 5 minutes.",
+    "Thicken with tapioca starch slurry by gradually adding it into the pan while constantly stirring to avoid lumps.",
+    "Serve hot as an indulgent side dish or appetizer."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "dense",
+    "indulgent",
+    "vietnamese",
+    "stir-fry",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 9,
+    "fat": 3
+  },
+  "slug": "peppery-vietnamese-coriander-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-vietnamese-coriander-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:12:42Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "fry",
+    "primaryIngredient": "ground coriander",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Coriander",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}
