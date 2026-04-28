@@ -1,0 +1,91 @@
+{
+  "title": "Peppery Velvety Italian Cornstarch Stir-fry",
+  "description": "A post-workout Ligurian dish featuring a peppery velvety sauce made with cornstarch for low-calorie-friendly cooking.",
+  "cuisine": "Ligurian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "italian herbs (oregano, basil)",
+      "amount": "a pinch"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "green onions",
+      "amount": "2 finely chopped"
+    },
+    {
+      "name": "low-fat soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "a few drops"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 minced"
+    },
+    {
+      "name": "italian parsley",
+      "amount": "handful, chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add minced garlic and sauté for about 1 minute until fragrant.",
+    "Add diced red bell pepper and green onions, cook for an additional 3-4 minutes until softened slightly.",
+    "Stir in cornstarch mixed with a pinch of italian herbs to create a paste. Cook for 1 minute until smooth and thickened.",
+    "Mix in low-fat soy sauce and lemon juice, cook another minute to combine flavors.",
+    "Fold in chopped parsley and serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "velvety",
+    "italian",
+    "ligurian",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 5
+  },
+  "slug": "peppery-velvety-italian-cornstarch-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-velvety-italian-cornstarch-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:02:18Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "cure",
+    "primaryIngredient": "cornstarch",
+    "diet": "low-calorie",
+    "region": "ligurian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "cornstarch",
+    "descriptor": "Peppery Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
