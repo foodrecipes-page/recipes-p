@@ -1,0 +1,79 @@
+{
+  "title": "Peppery Mexican Chile Crumble",
+  "description": "A midnight-craving polish dish featuring diced tomatoes, chile peppers, and a peppery kick. Gluten-free-friendly.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 medium-sized red bell peppers",
+      "amount": "1 each"
+    },
+    {
+      "name": "2 ripe tomatoes",
+      "amount": "1 each"
+    },
+    {
+      "name": "1/4 cup fresh cilantro leaves",
+      "amount": "about 3 tablespoons"
+    },
+    {
+      "name": "1 teaspoon sea salt",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 teaspoon ground cumin",
+      "amount": "tsp"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "juice"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Cut the red bell peppers into small dice and place them in a mixing bowl.",
+    "Dice the tomatoes and add them to the mixing bowl with the peppers.",
+    "Add salt, cumin, and lime juice to taste. Mix well.",
+    "Fold in fresh cilantro leaves until evenly distributed throughout the mixture.",
+    "Transfer the crumble into a baking dish.",
+    "Bake for 20 minutes or until golden brown on top.",
+    "Let it cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "chewy",
+    "midnight-craving",
+    "polish",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 4
+  },
+  "slug": "peppery-mexican-chile-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-mexican-chile-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:14:50Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "temper",
+    "primaryIngredient": "diced tomatoes",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chile",
+    "descriptor": "Peppery",
+    "dishForm": "Crumble"
+  }
+}

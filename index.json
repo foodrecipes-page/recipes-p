@@ -1081,6 +1081,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-mexican-chile-crumble",
+    "title": "Peppery Mexican Chile Crumble",
+    "tags": [
+      "peppery",
+      "chewy",
+      "midnight-craving",
+      "polish",
+      "gluten-free"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-mexican-cumin-pilaf",
     "title": "Peppery Mexican Cumin Pilaf",
     "tags": [
