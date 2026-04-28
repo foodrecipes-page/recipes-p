@@ -1,0 +1,99 @@
+{
+  "title": "Peppery Velvety Garlic Korean Stir-fry",
+  "description": "A dairy-free weeknight-friendly dish featuring a combination of sous-vide garlic and peppery flavors, created for those who enjoy quick and flavorful meals.",
+  "cuisine": "Korean",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy Sauce (Dairy-Free)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Korean Chili Flakes (Gochugaru)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Watermelon Silbets",
+      "amount": "40g"
+    },
+    {
+      "name": "Carrots",
+      "amount": "50g, thinly sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 tbsp, finely chopped"
+    },
+    {
+      "name": "Garlic Cloves (sliced)",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp, freshly ground"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Watermelon Silbets",
+      "amount": "40g"
+    },
+    {
+      "name": "Carrots",
+      "amount": "50g, thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 132°F (56°C).",
+    "Combine Garlic Powder, Soy Sauce, and Korean Chili Flakes in a mixing bowl.",
+    "Add finely chopped onions and finely sliced garlic cloves into the mix with the seasoning mixture. Toss gently.",
+    "In a separate pan over medium heat, add oil and sauté thinly sliced carrots until translucent, about 5 minutes.",
+    "Once fully cooked, add the seasoned vegetables to the pan, then pour in the watermelon silbets (use only half of them).",
+    "Season with freshly ground pepper. Stir fry for another minute or so until everything is warm and well combined.",
+    "Serve hot as a meal accompaniment or on its own as a snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "velvety",
+    "korean-dish",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "peppery-velvety-garlic-korean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-velvety-garlic-korean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:05:05Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "sous-vide",
+    "primaryIngredient": "garlic powder",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Garlic",
+    "descriptor": "Peppery Velvety",
+    "dishForm": "Stir-fry"
+  }
+}

@@ -1313,6 +1313,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-velvety-garlic-korean-stir-fry",
+    "title": "Peppery Velvety Garlic Korean Stir-fry",
+    "tags": [
+      "peppery",
+      "velvety",
+      "korean-dish",
+      "sous-vide"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 18,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-velvety-italian-cornstarch-stir-fry",
     "title": "Peppery Velvety Italian Cornstarch Stir-fry",
     "tags": [
