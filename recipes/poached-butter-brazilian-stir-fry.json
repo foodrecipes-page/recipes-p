@@ -1,0 +1,102 @@
+{
+  "title": "Poached Butter Brazilian Stir-fry",
+  "description": "A creamy and indulgent Brazilian dish featuring tabasco sauce for a spicy kick, served as a light lunch or dinner option.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-sodium-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onions, finely chopped",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3 pieces"
+    },
+    {
+      "name": "bell peppers, sliced",
+      "amount": "1 medium (approx 4 oz)"
+    },
+    {
+      "name": "chicken breast or tofu, cubed",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tabasco sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp (softened)"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley, chopped for garnish",
+      "amount": "a few sprigs"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a small saucepan, combine olive oil with the onions and garlic. Sauté until soft, about 5 minutes.",
+    "Add bell peppers and cubed chicken or tofu; stir for another 3-4 minutes. Season lightly with salt.",
+    "Pour in low-sodium broth and tabasco sauce. Mix well to combine. Bring to a boil over medium heat.",
+    "Reduce heat to low, cover, and simmer until liquid is reduced by half (about 10-15 minutes). Stir occasionally.",
+    "In another pan, melt butter with flour for about 30 seconds, stirring continuously. Slowly pour in the poaching mixture while whisking vigorously to emulsify.",
+    "Return sauce to low heat and simmer until thickened slightly (approx. 2-3 more minutes).",
+    "Strain through a fine mesh sieve into serving dishes or bowls. Garnish with fresh parsley before serving.",
+    "Serve hot as a side dish or main course, optionally with crusty bread for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "poached-butter",
+    "creamy-indulgent",
+    "brazilian-dish",
+    "tabasco-sauce",
+    "low-sodium-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 26,
+    "carbs": 18,
+    "fat": 17
+  },
+  "slug": "poached-butter-brazilian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/poached-butter-brazilian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:57:21Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "poach",
+    "primaryIngredient": "tabasco sauce",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Butter",
+    "descriptor": "Poached",
+    "dishForm": "Stir-fry"
+  }
+}
