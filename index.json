@@ -841,6 +841,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-gooey-middle-eastern-tomato-stir-fry",
+    "title": "Peppery Gooey Middle Eastern Tomato Stir-fry",
+    "tags": [
+      "middle-eastern",
+      "peppery",
+      "gooey",
+      "tomato-stir-fry",
+      "halal-friendly"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-greek-paprika-stir-fry",
     "title": "Peppery Greek Paprika Stir-fry",
     "tags": [

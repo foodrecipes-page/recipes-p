@@ -1,0 +1,93 @@
+{
+  "title": "Peppery Gooey Middle Eastern Tomato Stir-fry",
+  "description": "A savory and spicy dish perfect for a sick day, combining the richness of tomato puree with the bold flavors of Indian spices.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "tablespoon",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "2 medium tomatoes, pureed",
+      "amount": "",
+      "notes": "Use fresh or canned, adjust quantity as needed"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": "",
+      "notes": "Use mild onions like shallots if available"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "teaspoon",
+      "notes": "For enhancing flavors"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "teaspoon",
+      "notes": "To taste, may be omitted for halal-friendly dishes"
+    },
+    {
+      "name": "1/2 cup bhuna spices (coriander powder, turmeric, and other mild spice mix)",
+      "amount": "",
+      "notes": "For a Middle Eastern touch"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat.",
+    "Add onions and garlic, sauté until softened, about 2 minutes.",
+    "Pour in the tomato puree and stir well for an additional minute.",
+    "Season with cumin, black pepper (if using), bhuna spices, and salt. Stir continuously to prevent sticking.",
+    "Simmer for about 5-7 minutes or until the sauce thickens slightly.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "peppery",
+    "gooey",
+    "tomato-stir-fry",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "peppery-gooey-middle-eastern-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-gooey-middle-eastern-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:44:40Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "bhuna",
+    "primaryIngredient": "tomato puree",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "tomato",
+    "descriptor": "peppery gooey",
+    "dishForm": "Stir-fry"
+  }
+}
