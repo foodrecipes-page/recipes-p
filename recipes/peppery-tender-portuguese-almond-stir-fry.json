@@ -1,0 +1,94 @@
+{
+  "title": "Peppery Tender Portuguese Almond Stir-fry",
+  "description": "A delicious and flavorful one-pot dish that combines tender almonds with a peppery kick in a savory sauce. Perfect for those following a low FODMAP diet, this easy recipe is both healthy and satisfying.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "250g almond slices",
+      "amount": "1 cup"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "1"
+    },
+    {
+      "name": "3 garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "1 red bell pepper, sliced",
+      "amount": "1/2"
+    },
+    {
+      "name": "2 eggs (optional)",
+      "amount": "2"
+    },
+    {
+      "name": "2 tbsp soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juiced"
+    },
+    {
+      "name": "1 tsp red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pinch of salt and pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your broiler. Line a baking sheet with parchment paper.",
+    "Spread the almond slices evenly on the prepared pan.",
+    "Broil for about 5 minutes or until they start to get golden brown, shaking the pan occasionally to ensure even cooking.",
+    "In a large skillet, heat 2 tbsp of oil over medium-high heat. Add onion and garlic, cook for 3-4 minutes until softened.",
+    "Add red bell pepper, stir-fry for another 2 minutes.",
+    "Push vegetables to one side of the pan and pour in eggs if using. Scramble eggs until fully cooked but still moist.",
+    "Combine scrambled eggs with vegetables and almond slices. Pour in soy sauce and lemon juice, stir well to coat all ingredients evenly.",
+    "Add red pepper flakes and salt to taste. Mix gently to distribute seasonings.",
+    "Let it cook for a few more minutes so the flavors meld together. Serve hot.",
+    "Serve immediately as the dish can get very warm from broiling."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery-portuguese",
+    "stir-fry",
+    "almond-dish",
+    "one-pot-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 26,
+    "fat": 14
+  },
+  "slug": "peppery-tender-portuguese-almond-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-tender-portuguese-almond-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:42:41Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "broil",
+    "primaryIngredient": "almonds",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "almonds",
+    "descriptor": "Peppery Tender",
+    "dishForm": "Stir-fry"
+  }
+}

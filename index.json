@@ -1325,6 +1325,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-tender-portuguese-almond-stir-fry",
+    "title": "Peppery Tender Portuguese Almond Stir-fry",
+    "tags": [
+      "peppery-portuguese",
+      "stir-fry",
+      "almond-dish",
+      "one-pot-dinner"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-tender-spanish-chickpeas-stir-fry",
     "title": "Peppery Tender Spanish Chickpeas Stir-fry",
     "tags": [
