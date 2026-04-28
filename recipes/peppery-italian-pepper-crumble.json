@@ -1,0 +1,85 @@
+{
+  "title": "Peppery Italian Pepper Crumble",
+  "description": "A vibrant and hearty dish featuring a robust pepper flavor with vegan-friendly elements in a rich tomato sauce base.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomato paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "few"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a medium saucepan over medium heat.",
+    "Add garlic and sauté until fragrant, about 1 minute.",
+    "Stir in tomato paste, red pepper flakes, salt, and thyme leaves. Cook for an additional 2 minutes.",
+    "Pour in vegetable broth and bring to a simmer.",
+    "Simmer the sauce for about 15-20 minutes or until slightly thickened.",
+    "Serve hot over your choice of grains like quinoa or farro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "dense",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 9,
+    "carbs": 38,
+    "fat": 10
+  },
+  "slug": "peppery-italian-pepper-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-italian-pepper-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:03:15Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "tadka",
+    "primaryIngredient": "tomato sauce",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pepper",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}

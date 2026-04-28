@@ -1063,6 +1063,18 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-italian-pepper-crumble",
+    "title": "Peppery Italian Pepper Crumble",
+    "tags": [
+      "peppery",
+      "dense",
+      "italian"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-japanese-colby-jack-cheese-stir-fry",
     "title": "Peppery Japanese Colby Jack Cheese Stir-fry",
     "tags": [
