@@ -961,6 +961,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-kenyan-citrus-stir-fry",
+    "title": "Peppery Kenyan Citrus Stir-fry",
+    "tags": [
+      "pepper",
+      "citrus",
+      "stir-fry",
+      "low-sodium"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-kenyani-beef-stir-fry",
     "title": "Peppery Kenyani Beef Stir-fry",
     "tags": [

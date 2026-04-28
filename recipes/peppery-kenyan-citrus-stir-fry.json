@@ -1,0 +1,91 @@
+{
+  "title": "Peppery Kenyan Citrus Stir-fry",
+  "description": "A citrusy and dense dish featuring peppercorns and other low-sodium-friendly ingredients, perfect for a light dinner.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tender chicken breasts",
+      "amount": "2 pieces",
+      "notes": "skinless"
+    },
+    {
+      "name": "orange segments",
+      "amount": "1 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup",
+      "notes": "fresh, low-sodium"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 handful",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "green bell pepper",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat olive oil over medium-high heat.",
+    "Add chicken and sauté until cooked through, approximately 5 minutes on each side.",
+    "Remove chicken from the pan and set aside. Add bell peppers to the pan and stir-fry for about 2-3 minutes.",
+    "Return chicken to the pan with bell peppers, add orange segments and a squeeze of lemon juice.",
+    "Mix in grated ginger and chopped cilantro until well combined.",
+    "Season with salt to taste and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pepper",
+    "citrus",
+    "stir-fry",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 379,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 14
+  },
+  "slug": "peppery-kenyan-citrus-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-kenyan-citrus-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:08:03Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "knead",
+    "primaryIngredient": "peppercorns",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Citrus",
+    "descriptor": "peppery",
+    "dishForm": "Stir-fry"
+  }
+}
