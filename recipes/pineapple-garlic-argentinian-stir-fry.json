@@ -1,0 +1,96 @@
+{
+  "title": "Pineapple Garlic Argentinian Stir-fry",
+  "description": "A garlicky, chewy dish featuring pineapple and seasoned with a touch of herbs for a hangover-cure twist, served as a light dinner.",
+  "cuisine": "Argentinean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup chunks"
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "A few grinds per person"
+    },
+    {
+      "name": "Kosher Pepper",
+      "amount": "A few grinds per person"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3-4 cloves, minced"
+    },
+    {
+      "name": "Argentinean Picanha Steak",
+      "amount": "10 oz (grilled or pan-seared)"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "A few tablespoons per person"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Oregano",
+      "amount": "A few sprigs per person (optional)"
+    },
+    {
+      "name": "Thyme",
+      "amount": "A few sprigs per person (optional)"
+    }
+  ],
+  "instructions": [
+    "Prepare the steak by lightly dusting it with flour and a pinch of salt. Grill or pan-sear until cooked to your preference.",
+    "In a mixing bowl, combine minced garlic, red wine vinegar, white wine vinegar, lemon juice, chopped pineapple, oregano, thyme (if using), and enough water to create a sauce that coats the steak evenly.",
+    "Serve the stir-fry with grilled or pan-seared picanha steak over a bed of greens like arugula for extra freshness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pork-stir-fry",
+    "hangover-food",
+    "argentinean-dish"
+  ],
+  "nutrition": {
+    "calories": 607,
+    "protein": 31,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "pineapple-garlic-argentinian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/pineapple-garlic-argentinian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:27:27Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "temper",
+    "primaryIngredient": "pineapple",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Pineapple",
+    "dishForm": "Stir-fry"
+  }
+}

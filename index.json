@@ -1764,6 +1764,18 @@
     "shard": "p"
   },
   {
+    "slug": "pineapple-garlic-argentinian-stir-fry",
+    "title": "Pineapple Garlic Argentinian Stir-fry",
+    "tags": [
+      "pork-stir-fry",
+      "hangover-food",
+      "argentinean-dish"
+    ],
+    "cuisine": "Argentinean",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "pineapple-makhani-on-sundays",
     "title": "Pineapple Makhani on Sundays",
     "tags": [
