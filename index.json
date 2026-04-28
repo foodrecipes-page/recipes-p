@@ -788,6 +788,18 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-gooey-german-vegetables-stir-fry",
+    "title": "Peppery Gooey German Vegetables Stir-fry",
+    "tags": [
+      "peppery-german-dish",
+      "stir-fry",
+      "pressure-cook-friendly"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-gooey-ginger-midnight-craving-jain-friendly-stir-fry",
     "title": "Peppery Gooey Ginger Midnight Craving JAIN-FRIENDLY Stir-fry",
     "tags": [

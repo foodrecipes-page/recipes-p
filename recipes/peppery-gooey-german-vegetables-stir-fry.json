@@ -1,0 +1,103 @@
+{
+  "title": "Peppery Gooey German Vegetables Stir-fry",
+  "description": "An energizing German dish featuring sauerkraut and other vegetables cooked in a peppery sauce with a gooey texture for a vegetarian-friendly meal.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onions",
+      "amount": "1 small"
+    },
+    {
+      "name": "peppers",
+      "amount": "1 large (green or red)"
+    },
+    {
+      "name": "ginger",
+      "amount": "a few slices"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "a pinch"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "optional, to enhance the flavor and texture"
+    }
+  ],
+  "instructions": [
+    "Chop sauerkraut into small pieces.",
+    "Peel and dice carrots, onions, and peppers into similar sizes.",
+    "In a large pan or wok, heat olive oil over medium-high heat. Add ginger slices and garlic cloves; cook until fragrant, about 1 minute.",
+    "Add chopped sauerkraut to the pan and stir for 2-3 minutes until slightly softened but still crunchy.",
+    "Add diced carrots, onions, peppers, and a pinch of red pepper flakes into the pan. Cook for another 5-7 minutes until vegetables start to soften.",
+    "In a small bowl, mix soy sauce with a dash of salt and black pepper. Pour this mixture over the vegetables in the pan.",
+    "Stir well to combine all ingredients and ensure they're evenly coated with the sauce. Let it cook for an additional 2-3 minutes until everything is heated through and slightly gooey.",
+    "If desired, sprinkle some nutritional yeast on top before serving for a gooey texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery-german-dish",
+    "stir-fry",
+    "pressure-cook-friendly"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 9,
+    "carbs": 31,
+    "fat": 7
+  },
+  "slug": "peppery-gooey-german-vegetables-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-gooey-german-vegetables-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:09:56Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "pressure-cook",
+    "primaryIngredient": "sauerkraut",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Vegetables",
+    "descriptor": "Peppery Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
