@@ -1,0 +1,95 @@
+{
+  "title": "Peppery Crunchy Greek Olive Spread",
+  "description": "A flavorful spread with a perfect blend of peppery flavors and crunchiness that pairs well with crackers or toast.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups pitted Kalamata olives",
+      "amount": "",
+      "notes": "Use Kalamata olives for their natural brine and flavor."
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon finely chopped garlic",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 tablespoons red wine vinegar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 teaspoons maple syrup",
+      "amount": "",
+      "notes": "To balance the acidity and provide sweetness."
+    },
+    {
+      "name": "1/4 teaspoon ground black pepper",
+      "amount": "",
+      "notes": "For added flavor and to enhance the peppery taste."
+    },
+    {
+      "name": "1 cup chopped walnuts, toasted",
+      "amount": "",
+      "notes": "For a crunchier texture."
+    },
+    {
+      "name": "2 tablespoons capers, rinsed and drained",
+      "amount": "",
+      "notes": "Adds a tangy, salty note to complement the other ingredients."
+    }
+  ],
+  "instructions": [
+    "Mix together pitted Kalamata olives, chopped parsley, garlic, red wine vinegar, maple syrup, black pepper, and toasted walnuts in a large bowl.",
+    "Stir well until all ingredients are evenly distributed and the mixture is homogenous.",
+    "Add drained capers to the mixture and stir gently to incorporate them into the spread.",
+    "Transfer the olive spread to an airtight container for storage. It can be served as a snack or used on crackers, toast, or bagels."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crunchy",
+    "greek",
+    "maple-syrup",
+    "walnuts",
+    "kalamata-olives"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 8
+  },
+  "slug": "peppery-crunchy-greek-olive-spread",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crunchy-greek-olive-spread",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:19:01Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "pickle",
+    "primaryIngredient": "maple syrup",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Olives",
+    "descriptor": "Peppery Crunchy",
+    "dishForm": "Spread"
+  }
+}

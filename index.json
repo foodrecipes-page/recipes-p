@@ -644,6 +644,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-crunchy-greek-olive-spread",
+    "title": "Peppery Crunchy Greek Olive Spread",
+    "tags": [
+      "peppery",
+      "crunchy",
+      "greek",
+      "maple-syrup",
+      "walnuts",
+      "kalamata-olives"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 10,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crunchy-saudia-pepper-crumble",
     "title": "Peppery Crunchy Saudia Pepper Crumble",
     "tags": [
