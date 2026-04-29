@@ -1037,6 +1037,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-indian-cannellini-beans-stir-fry",
+    "title": "Peppery Indian Cannellini Beans Stir-fry",
+    "tags": [
+      "peppery",
+      "creamy",
+      "indian",
+      "kashmiri",
+      "stir-fry"
+    ],
+    "cuisine": "Indian (Kashmiri)",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-indian-carrot-stir-fry",
     "title": "Peppery Indian Carrot Stir-Fry",
     "tags": [
