@@ -1,0 +1,81 @@
+{
+  "title": "Peppery Light Pine Nuts Stir-Fry",
+  "description": "A light and peppery Norwegian dish featuring pine nuts for a lazy Sunday meal, this recipe is kosher-friendly.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pine Nuts",
+      "amount": "2 tablespoons",
+      "notes": "Coarse or unshelled pine nuts work best."
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced finely for a light, peppery flavor."
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "A few twists",
+      "notes": "Use sparingly to keep it light and mild."
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon",
+      "notes": "Freshly squeezed for a bright, zesty kick."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For lightly cooking the pine nuts to enhance their flavor."
+    },
+    {
+      "name": "Chopped Dill (Optional)",
+      "amount": "",
+      "notes": "A touch of freshness and another optional ingredient."
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together the minced garlic, red pepper flakes, lemon juice, and olive oil until well combined.",
+    "In a frying pan or wok set over medium heat, gently toast the pine nuts for about 1-2 minutes, stirring frequently to prevent burning.",
+    "Drizzle in the prepared marinade, tossing rapidly to coat evenly.",
+    "Add any optional dill at this stage for extra freshness and texture.",
+    "Serve immediately while still warm and vibrant with flavor."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "peppery-light",
+    "lazy-sunday",
+    "norwegian-dish",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 1,
+    "carbs": 4,
+    "fat": 3
+  },
+  "slug": "peppery-light-pine-nuts-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-light-pine-nuts-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:20:01Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "rest",
+    "primaryIngredient": "pine nuts",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "pine nuts",
+    "descriptor": "peppery light",
+    "dishForm": "Stir-fry"
+  }
+}

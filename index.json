@@ -1194,6 +1194,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-light-pine-nuts-stir-fry",
+    "title": "Peppery Light Pine Nuts Stir-Fry",
+    "tags": [
+      "peppery-light",
+      "lazy-sunday",
+      "norwegian-dish",
+      "kosher-friendly"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 8,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-mediterranean-bowtie-pasta-stir-fry",
     "title": "Peppery Mediterranean Bowtie Pasta Stir-fry",
     "tags": [
