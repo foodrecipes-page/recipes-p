@@ -1392,6 +1392,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-mexican-sushi-rice-stir-fry",
+    "title": "Peppery Mexican Sushi Rice Stir-fry",
+    "tags": [
+      "peppery-mexican-sushi-rice-stir-fry",
+      "norteño-cuisine",
+      "crisp-texture",
+      "meal-prep-friendly",
+      "fodmap-friendly"
+    ],
+    "cuisine": "Mexican (Norteño)",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-middle-eastern-potato-crumble",
     "title": "Peppery Middle Eastern Potato Crumble",
     "tags": [
