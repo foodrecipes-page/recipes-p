@@ -1,0 +1,95 @@
+{
+  "title": "Peppery Flaky Korean Veal Stir-fry",
+  "description": "A realistic and flavorful dish featuring veal in a peppery sauce that is both delicious and diabetic-friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal cutlets",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece fresh"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 green onions, thinly sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "handful, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C). Season the veal cutlets with salt and pepper.",
+    "Heat vegetable oil in a nonstick skillet over medium-high heat. Add cutlets and cook until golden brown on both sides, about 2-3 minutes per side.",
+    "Transfer cutlets to a plate. Deglaze the pan with soy sauce, mirin, vinegar, sesame oil, and pepper flakes, scraping any bits from the bottom of the pan. Bring to simmer.",
+    "Return veal cutlets to the pan and add sliced scallions and fresh cilantro. Cook for an additional 2-3 minutes or until heated through.",
+    "Serve hot with steamed vegetables on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery-flaky-korean-veal-stir-fry",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 28,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "peppery-flaky-korean-veal-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-flaky-korean-veal-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:22:37Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "deglaze",
+    "primaryIngredient": "veal",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "veal",
+    "descriptor": "Peppery Flaky",
+    "dishForm": "Stir-fry"
+  }
+}

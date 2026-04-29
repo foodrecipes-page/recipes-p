@@ -800,6 +800,17 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-flaky-korean-veal-stir-fry",
+    "title": "Peppery Flaky Korean Veal Stir-fry",
+    "tags": [
+      "peppery-flaky-korean-veal-stir-fry",
+      "diabetic-friendly"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-flaky-turkish-butternut-squash-stir-fry",
     "title": "Peppery Flaky Turkish Butternut Squash Stir-fry",
     "tags": [
