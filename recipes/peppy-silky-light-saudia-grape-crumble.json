@@ -1,0 +1,96 @@
+{
+  "title": "Peppy Silky Light Saudi Grape Crumble",
+  "description": "A mediterranean-friendly dessert featuring a blend of aromatic spices and grapes folded into a light crumb mixture for a delightful twist on traditional Middle Eastern desserts.",
+  "cuisine": "Middle Eastern, Mediterranean",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups fresh or frozen grapes",
+      "amount": "",
+      "notes": "crushed and squeezed to release juices"
+    },
+    {
+      "name": "1/4 cup honey",
+      "amount": "stirred into the grape mixture for sweetness"
+    },
+    {
+      "name": "1/4 teaspoon ground cumin",
+      "amount": "",
+      "notes": "adds a warm, earthy flavor to complement the sweetness of the grapes"
+    },
+    {
+      "name": "1/4 teaspoon ground cardamom",
+      "amount": "",
+      "notes": "aromatic spice that enhances the overall taste profile"
+    },
+    {
+      "name": "2 tablespoons chopped pistachios (optional)",
+      "amount": "",
+      "notes": "for added texture and visual appeal"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": "balances out the sweetness"
+    },
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "",
+      "notes": "used to form the crumble topping"
+    },
+    {
+      "name": "3 tablespoons unsalted butter, melted",
+      "amount": "",
+      "notes": "helps in binding and making it more crumbly"
+    },
+    {
+      "name": "2 tablespoons granulated sugar",
+      "amount": "",
+      "notes": "sweetens the crumble topping"
+    }
+  ],
+  "instructions": [
+    "Combine crushed grapes with honey and spices. Stir until the grapes are evenly coated and most of the juice is released.",
+    "In a separate bowl, mix together flour, melted butter, and sugar. Gradually fold in chopped pistachios if using.",
+    "Fold the crumb mixture over the grape base gently to ensure it's evenly spread throughout the dish but not too mixed.",
+    "Transfer the mixture into an ovenproof serving dish or individual ramekins.",
+    "Preheat your oven to 350°F (175°C). Bake for about 20-25 minutes until golden brown and crisp on top. Serve warm with a scoop of vanilla ice cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "peppy",
+    "silky",
+    "light",
+    "saudi arabian",
+    "grape crumble"
+  ],
+  "nutrition": {
+    "calories": 201,
+    "protein": 4.8,
+    "carbs": 37,
+    "fat": 6.5
+  },
+  "slug": "peppy-silky-light-saudia-grape-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppy-silky-light-saudia-grape-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:53:12Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "fold",
+    "primaryIngredient": "grapes",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "grape",
+    "descriptor": "Peppy Silky Light",
+    "dishForm": "Crumble"
+  }
+}
