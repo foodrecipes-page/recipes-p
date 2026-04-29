@@ -1,0 +1,88 @@
+{
+  "title": "Peppery Croatian Chicken Wings Stir-fry",
+  "description": "This halal-friendly peppery stir-fry features crispy chicken wings with a burst of fresh herbs and spices.",
+  "cuisine": "Croatian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Wings",
+      "amount": "2 lbs (900g)",
+      "notes": "Bone-in, skin-on"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves",
+      "notes": "Mince finely"
+    },
+    {
+      "name": "Lemon Pepper Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh Parsley Leaves",
+      "amount": "2 tablespoons",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Pepper",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "In a shallow dish, mix olive oil, red chili flakes, minced garlic, lemon pepper powder, chopped parsley, salt, and pepper.",
+    "Place chicken wings in the marinade and turn to coat evenly. Let marinate for at least 1 hour or up to overnight in refrigerator.",
+    "Arrange chicken wings on a wire rack placed over baking sheet covered with aluminum foil.",
+    "Bake for 25 minutes then flip wings, drizzle remaining marinade over them, and bake another 10-15 minutes until golden brown and crispy.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "peppery-chicken-wings",
+    "halal-friendly",
+    "adventurous-croatian-dish"
+  ],
+  "nutrition": {
+    "calories": 532,
+    "protein": 40,
+    "carbs": 17,
+    "fat": 29
+  },
+  "slug": "peppery-croatian-chicken-wings-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-croatian-chicken-wings-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T10:17:41Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "stir-fry",
+    "primaryIngredient": "chicken wings",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "chicken wings",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}

@@ -586,6 +586,18 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-croatian-chicken-wings-stir-fry",
+    "title": "Peppery Croatian Chicken Wings Stir-fry",
+    "tags": [
+      "peppery-chicken-wings",
+      "halal-friendly",
+      "adventurous-croatian-dish"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 70,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crumbly-australian-horseradish-crumble",
     "title": "Peppery Crumbly Australian Horseradish Crumble",
     "tags": [
