@@ -1,0 +1,109 @@
+{
+  "title": "Pickled Garlic Mediterranean Stir-fry",
+  "description": "A flavorful and adventurous mediterranean dish infused with the sweetness of garlic, savory bay leaves, and tangy pickle, suitable for whole30 diet.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic cloves",
+      "amount": "4-6",
+      "notes": "cloves are crushed and minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "unrefined for a better taste"
+    },
+    {
+      "name": "onions, thinly sliced",
+      "amount": "1 medium",
+      "notes": "can be finely chopped if preferred"
+    },
+    {
+      "name": "bell peppers, diced",
+      "amount": "200g",
+      "notes": "any color can be used"
+    },
+    {
+      "name": "tomato sauce or paste",
+      "amount": "4 tbsp",
+      "notes": "for added sweetness and umami flavor"
+    },
+    {
+      "name": "pineapple chunks (optional)",
+      "amount": "150g",
+      "notes": "to complement the dish, reduce for a sweeter taste if needed"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2-3",
+      "notes": "fresh or dried, choose fresh for better flavor and aroma"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoky or regular can be used based on taste preference"
+    },
+    {
+      "name": "red pepper flakes (optional)",
+      "amount": "1/2 tsp",
+      "notes": "for a touch of heat, adjust to taste"
+    },
+    {
+      "name": "pickled garlic",
+      "amount": "30g",
+      "notes": "used as a souring agent for the dish"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "to enhance flavors"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic cloves, onions, and diced bell peppers to the hot oil. Stir-fry for about 2-3 minutes until onions become translucent and vegetables are slightly softened.",
+    "Pour tomato sauce into the pan with a pinch of salt and pepper. Mix well and let it simmer for another minute.",
+    "Add pineapple chunks (if using) and bay leaves, stirring occasionally to prevent sticking. Let them cook for about 2-3 minutes more until most of the liquid evaporates.",
+    "Stir in pickled garlic and red pepper flakes (if used). Continue to stir-fry for an additional 1 minute.",
+    "Season with salt and pepper as needed to taste, then remove from heat.",
+    "Serve immediately over cooked rice or noodles for a meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pickled-garlic",
+    "mediterranean-stir-fry",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 286,
+    "protein": 7.9,
+    "carbs": 34.5,
+    "fat": 14.7
+  },
+  "slug": "pickled-garlic-mediterranean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/pickled-garlic-mediterranean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:34:53Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "pickle",
+    "primaryIngredient": "bay leaves",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Garlic",
+    "descriptor": "Pickled",
+    "dishForm": "Stir-fry"
+  }
+}

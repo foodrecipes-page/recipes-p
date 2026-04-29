@@ -1910,6 +1910,18 @@
     "shard": "p"
   },
   {
+    "slug": "pickled-garlic-mediterranean-stir-fry",
+    "title": "Pickled Garlic Mediterranean Stir-fry",
+    "tags": [
+      "pickled-garlic",
+      "mediterranean-stir-fry",
+      "whole30-friendly"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "pine-nut-medley",
     "title": "Pine Nut Medley",
     "tags": [
