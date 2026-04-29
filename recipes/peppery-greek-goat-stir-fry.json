@@ -1,0 +1,74 @@
+{
+  "title": "Peppery Greek Goat Stir-fry",
+  "description": "A dense and peppery greek goat meat dish that is slow-cooked to perfection, making it a romantic and aromatic meal suitable for jain-friendly diets.",
+  "cuisine": "Greek",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Goat meat",
+      "amount": "200g"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium-sized"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "3 tbsp, finely chopped"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Clean and chop the goat meat into bite-sized pieces.",
+    "Finely chop onions and garlic cloves. Add olive oil to a pan, then sauté onion and garlic until translucent.",
+    "Add chopped goat meat to the pan with red pepper flakes and stir-fry for about 10 minutes over medium heat or until no longer pink on the outside.",
+    "Mix finely chopped fresh parsley into the dish and cook for another minute. Reduce heat and serve hot.",
+    "prepTimeMin: 20",
+    "cookTimeMin: 30",
+    "totalTimeMin: 50",
+    "servings: 4",
+    "difficulty: "
+  ],
+  "tags": [
+    "peppery-greek-goat-stir-fry",
+    "jain-friendly-dish"
+  ],
+  "nutrition": {
+    "calories": 361,
+    "protein": 28,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "peppery-greek-goat-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-greek-goat-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:33:03Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "slow-cook",
+    "primaryIngredient": "goat meat",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "goat",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}

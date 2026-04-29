@@ -1023,6 +1023,17 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-greek-goat-stir-fry",
+    "title": "Peppery Greek Goat Stir-fry",
+    "tags": [
+      "peppery-greek-goat-stir-fry",
+      "jain-friendly-dish"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": null,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-greek-paprika-stir-fry",
     "title": "Peppery Greek Paprika Stir-fry",
     "tags": [
