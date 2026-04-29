@@ -1,0 +1,100 @@
+{
+  "title": "Peppery Chinese Ginger Crisp",
+  "description": "A crowd-pleasing gluten-free Chinese dish featuring a peppery ginger cordial, simmered with aromatic herbs and served as a crisp dessert.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ginger root",
+      "amount": "1/2 cup",
+      "notes": "Grated finely"
+    },
+    {
+      "name": "Green onions",
+      "amount": "6-8",
+      "notes": "Chiffonade thinly"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Water chestnuts",
+      "amount": "1 cup",
+      "notes": "Quartered and lightly cooked"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger cordial",
+      "amount": "4 tablespoons",
+      "notes": "Commercial or homemade"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch",
+      "notes": "For seasoning the crisp"
+    }
+  ],
+  "instructions": [
+    "In a saucepan, mix ginger root with water chestnuts and coconut milk. Add chopped green onions, lime juice, tahini, and ginger cordial.",
+    "Simmer over medium heat until thickened, stirring occasionally to prevent sticking. Season with salt.",
+    "Spoon the mixture into individual serving dishes or molds. Chill before serving.",
+    "For the crisp topping, combine sesame oil, ginger root, green onions, salt, and a bit of water chestnut juice in a small bowl.",
+    "Sprinkle over the cooled custard filling to create an attractive and texturally contrasting finish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crisp",
+    "crowd-pleaser",
+    "chinese",
+    "ginger",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "peppery-chinese-ginger-crisp",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-chinese-ginger-crisp",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T11:42:09Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "simmer",
+    "primaryIngredient": "ginger cordial",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "ginger",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}
