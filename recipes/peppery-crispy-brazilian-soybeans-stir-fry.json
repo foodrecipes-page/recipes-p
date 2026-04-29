@@ -1,0 +1,105 @@
+{
+  "title": "Peppery Crispy Brazilian Soybeans Stir-fry",
+  "description": "A dairy-free-friendly post-workout dish featuring crispy soya beans flavored with a spicy kick and a peppery punch to cleanse the palate.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "soybeans",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "1 large",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "ginger",
+      "amount": "a small piece"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "a sprinkle",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Place the soybeans in a pot, cover with water, and pressure-cook according to your appliance's instructions. Let it cool slightly.",
+    "Finely chop the chili peppers, onion, garlic, and ginger. Set aside.",
+    "In a wok or large skillet, heat sesame oil over medium-high heat.",
+    "Add chopped onion, then add garlic and ginger after 1 minute of cooking onions. Stir-fry for about 2 minutes until fragrant.",
+    "Toss in the chili peppers and cook for another minute to release their flavors.",
+    "Drain the cooked soybeans into the wok with its soaking water, adding it all to the mixture.",
+    "Mix in the soy sauce, rice vinegar, salt, and pepper. Stir everything together until well combined.",
+    "Cook for an additional 3-5 minutes until the soybeans are crisp and golden brown. Remove from heat.",
+    "Sprinkle sesame seeds on top for garnish if desired.",
+    "Serve hot as a snack or light meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crispy",
+    "soybeans",
+    "brazilian",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 10,
+    "carbs": 26,
+    "fat": 9
+  },
+  "slug": "peppery-crispy-brazilian-soybeans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crispy-brazilian-soybeans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:09:18Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "pressure-cook",
+    "primaryIngredient": "soya bean",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Soybeans",
+    "descriptor": "Peppery Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
