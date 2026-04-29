@@ -1,0 +1,79 @@
+{
+  "title": "Poached British Butter Sun-Dried Tomato",
+  "description": "This buttery and creamy dish features poached sun-dried tomatoes that are perfect for a cozy, raw-friendly meal.",
+  "cuisine": "British",
+  "diet": [
+    "vegan",
+    "raw"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups of water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "1/4 cup butter, softened",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "15 oz can of sun-dried tomatoes, drained and chopped",
+      "amount": "15 oz"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "2 tbsp fresh basil leaves, finely chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt to taste",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Pour the water into a pot and bring it to a boil.",
+    "Add the softened butter to the boiling water and let it melt gently.",
+    "Gently lower the chopped sun-dried tomatoes, minced garlic, and finely chopped basil leaves into the hot water.",
+    "Reduce heat to low and simmer for about 10 minutes or until the tomatoes are soft and the liquid has reduced slightly.",
+    "Season with salt to taste and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "british-dishes",
+    "sun-dried-tomatoes",
+    "poached-meal",
+    "raw-friendly",
+    "cozy-dinner"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 2.4,
+    "carbs": 6.3,
+    "fat": 0.9
+  },
+  "slug": "poached-british-butter-sun-dried-tomato",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/poached-british-butter-sun-dried-tomato",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:29:31Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "poach",
+    "primaryIngredient": "sun-dried tomatoes",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Butter",
+    "descriptor": "Poached",
+    "dishForm": "Stir-fry"
+  }
+}
