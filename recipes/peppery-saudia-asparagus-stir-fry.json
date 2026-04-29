@@ -1,0 +1,77 @@
+{
+  "title": "Peppery Saudia Asparagus Stir-fry",
+  "description": "A vegan-friendly peppery and crispy monsoon dish from Saudi Arabia featuring asparagus in a savory mix of spices and tadka.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup asparagus",
+      "amount": "pieces"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp red pepper flakes",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp turmeric powder",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup lemon juice",
+      "amount": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add asparagus pieces and sauté for about 2-3 minutes until slightly softened but still crunchy.",
+    "Stir in red pepper flakes, turmeric powder, lemon juice, and salt. Continue stirring for another minute to allow flavors to meld together.",
+    "Serve hot as a light lunch or snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "saudi-arabian",
+    "asparagus",
+    "stir-fry",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 9,
+    "fat": 4
+  },
+  "slug": "peppery-saudia-asparagus-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-saudia-asparagus-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:27:00Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "tadka",
+    "primaryIngredient": "asparagus",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Asparagus",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}

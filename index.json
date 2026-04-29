@@ -1443,6 +1443,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-saudia-asparagus-stir-fry",
+    "title": "Peppery Saudia Asparagus Stir-fry",
+    "tags": [
+      "peppery",
+      "saudi-arabian",
+      "asparagus",
+      "stir-fry",
+      "crispy"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 15,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-silky-canadian-chicken-stir-fry",
     "title": "Peppery Silky Canadian Chicken Stir-fry",
     "tags": [
