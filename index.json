@@ -824,6 +824,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-flaky-lamb-stir-fry",
+    "title": "Peppery Flaky Lamb Stir-fry",
+    "tags": [
+      "peppery",
+      "flaky",
+      "lamb",
+      "stir-fry",
+      "portuguese",
+      "sugar-free"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-flaky-turkish-butternut-squash-stir-fry",
     "title": "Peppery Flaky Turkish Butternut Squash Stir-fry",
     "tags": [

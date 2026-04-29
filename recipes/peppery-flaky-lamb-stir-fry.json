@@ -1,0 +1,79 @@
+{
+  "title": "Peppery Flaky Lamb Stir-fry",
+  "description": "This savory and aromatic dish is a perfect solo dinner option featuring tender lamb mince with hints of pepper for added flavor without the use of sugar.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "250g"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6 cloves",
+      "notes": "minced thinly"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dill (optional)",
+      "amount": "few sprigs"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat a bit of oil over medium-high heat.",
+    "Add the lamb mince and cook until browned on all sides. Remove from pan and set aside.",
+    "In the same pan, add green onions, minced garlic, red pepper flakes, and tomato paste. Stir well to combine.",
+    "Return the cooked lamb mince back into the skillet with the sauce mixture. Add dill if using, and stir until everything is evenly coated and heated through.",
+    "Serve hot as a main course or side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "flaky",
+    "lamb",
+    "stir-fry",
+    "portuguese",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 305,
+    "protein": 24.8,
+    "carbs": 7.9,
+    "fat": 13.6
+  },
+  "slug": "peppery-flaky-lamb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-flaky-lamb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:33:42Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "slow-cook",
+    "primaryIngredient": "lamb mince",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "lamb",
+    "descriptor": "Peppery Flaky",
+    "dishForm": "Stir-fry"
+  }
+}
