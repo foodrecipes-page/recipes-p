@@ -1,0 +1,80 @@
+{
+  "title": "Peppery Syrian Cheese Crumble",
+  "description": "This crumble is a savory and slightly peppery dish featuring liquid cheese, perfect for breakfast or as a snack. It's egg-free-friendly and reminiscent of nostalgic Syrian cuisine.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup ricotta cheese",
+      "amount": "cup",
+      "notes": "can also use similar cheeses like feta or paneer"
+    },
+    {
+      "name": "2 tablespoons fresh lemon juice",
+      "amount": "tbsp",
+      "notes": "ensure it's freshly squeezed for best flavor"
+    },
+    {
+      "name": "2 teaspoons ground cumin",
+      "amount": "tsp",
+      "notes": "optional, adds a warm, earthy note"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "3 tablespoons finely chopped fresh parsley",
+      "amount": "tbsp",
+      "notes": "for garnish, can be omitted if not preferred"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional, add a pinch for seasoning"
+    }
+  ],
+  "instructions": [
+    "Combine ricotta cheese with lemon juice, cumin (if using), and salt in a mixing bowl until well combined.",
+    "Fold in the finely chopped parsley gently to avoid breaking up the cheese too much.",
+    "Shape into small crumbles and place on a baking sheet lined with parchment paper or non-stick mat.",
+    "Preheat oven to 200°C (392°F). Bake for about 15-20 minutes, until golden brown and crisp on the edges.",
+    "Serve warm as a snack or appetizer. Can be stored in an airtight container for up to 4 days."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crumble",
+    "syracuse"
+  ],
+  "nutrition": {
+    "calories": 89,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 3
+  },
+  "slug": "peppery-syrian-cheese-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-syrian-cheese-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:01:35Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "deglaze",
+    "primaryIngredient": "liquid cheese",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Peppery",
+    "dishForm": "Crumble"
+  }
+}

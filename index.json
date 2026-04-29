@@ -1484,6 +1484,18 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-syrian-cheese-crumble",
+    "title": "Peppery Syrian Cheese Crumble",
+    "tags": [
+      "peppery",
+      "crumble",
+      "syracuse"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-tender-british-potato-crumble",
     "title": "Peppery Tender British Potato Crumble",
     "tags": [
