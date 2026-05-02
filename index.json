@@ -1799,6 +1799,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-velvety-turkish-onion-stir-fry",
+    "title": "Peppery Velvety Turkish Onion Stir-fry",
+    "tags": [
+      "pepper",
+      "velvety",
+      "turkish",
+      "onion",
+      "stir-fry",
+      "keto-friendly"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-vietnamese-coriander-stir-fry",
     "title": "Peppery Vietnamese Coriander Stir-fry",
     "tags": [

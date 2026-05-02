@@ -1,0 +1,85 @@
+{
+  "title": "Peppery Velvety Turkish Onion Stir-fry",
+  "description": "A solo-dinner turkish dish featuring onions in a peppery and velvety sauce, perfect for a keto-friendly meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6, minced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Turkish yogurt or sour cream (plain)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add onion and sauté until translucent, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Stir in red pepper flakes and cumin seeds. Cook for another minute.",
+    "Pour in Turkish yogurt or sour cream, reduce to thicken the sauce.",
+    "Drizzle with lemon juice and stir gently until combined.",
+    "Serve hot as a side dish or over keto-friendly proteins like chicken breast."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pepper",
+    "velvety",
+    "turkish",
+    "onion",
+    "stir-fry",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 5,
+    "fat": 7
+  },
+  "slug": "peppery-velvety-turkish-onion-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-velvety-turkish-onion-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-02T20:54:58Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "tadka",
+    "primaryIngredient": "onions",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Onion",
+    "descriptor": "Peppery Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
