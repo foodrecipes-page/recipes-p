@@ -1,0 +1,106 @@
+{
+  "title": "Peppery Crisp Egyptian Kidney Beans Bake",
+  "description": "A fragrant, peppery baked kidney bean dish with a crisp pistachio topping, inspired by Egyptian flavors and designed for a paleo-friendly dinner.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Spice blend (cumin, coriander, smoked paprika)",
+      "amount": "1 tsp each"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red bell pepper, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Cooked kidney beans",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Crushed pistachios",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Heat the olive oil in a skillet over medium heat. Add the diced onion and red bell pepper, sautéing until softened, about 5 minutes.",
+    "Add minced garlic and the spice blend; cook for 1 minute until fragrant.",
+    "Stir in the cooked kidney beans, lemon juice, sea salt, black pepper, and cayenne pepper. Simmer for 5 minutes to let the flavors meld.",
+    "Transfer the bean mixture to a lightly greased baking dish.",
+    "Sprinkle the crushed pistachios evenly over the top.",
+    "Bake in the preheated oven for 15–20 minutes, or until the pistachio topping is golden and crisp.",
+    "Remove from oven, garnish with fresh parsley, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paleo-friendly",
+    "kidney-beans",
+    "bake",
+    "egyptian",
+    "peppery",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 32,
+    "carbs": 98,
+    "fat": 24
+  },
+  "slug": "peppery-crisp-egyptian-kidney-beans-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crisp-egyptian-kidney-beans-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:06:11Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "bake",
+    "primaryIngredient": "kidney beans",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Kidney Beans",
+    "descriptor": "Peppery Crisp",
+    "dishForm": "Bake"
+  }
+}
