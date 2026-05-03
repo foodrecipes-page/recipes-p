@@ -1,0 +1,80 @@
+{
+  "title": "Peppery Creamy Pesto",
+  "description": "A luxurious and indulgent Norwegian dish featuring goats cheese in a peppery and creamy sauce, perfect for a light meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-fat-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "goats cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "sauce base (almond milk or cream)",
+      "amount": "250ml"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "3-4 cloves"
+    },
+    {
+      "name": "pepper flakes",
+      "amount": "1 tsp finely ground"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "juice of 1 lemon"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tbsp for a cheesy flavor (optional)"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat sous-vide to 60°C.",
+    "Combine goats cheese, almond milk or cream, fresh basil leaves, pepper flakes, lemon juice, and nutritional yeast in a mixing bowl. Mix until smooth and creamy.",
+    "Transfer the mixture into a sous-vide bag with an airtight seal. Seal the vacuum and cook for about 30 minutes at 60°C.",
+    "Once cooked, remove from the bag and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "creamy",
+    "goats cheese",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 7,
+    "carbs": 6,
+    "fat": 8
+  },
+  "slug": "peppery-creamy-pesto",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-creamy-pesto",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T10:08:00Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "sous-vide",
+    "primaryIngredient": "goats cheese",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "goats cheese",
+    "descriptor": "Peppery Creamy",
+    "dishForm": "Pesto"
+  }
+}

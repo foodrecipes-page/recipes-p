@@ -548,6 +548,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-creamy-pesto",
+    "title": "Peppery Creamy Pesto",
+    "tags": [
+      "peppery",
+      "creamy",
+      "goats cheese",
+      "norwegian"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-creamy-vermicelli-stir-fry",
     "title": "Peppery Creamy Vermicelli Stir-Fry",
     "tags": [
