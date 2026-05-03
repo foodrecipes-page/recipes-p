@@ -2464,6 +2464,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-polish-buckwheat-noodles",
+    "title": "Peppery Polish Buckwheat Noodles",
+    "tags": [
+      "gluten-free",
+      "vegetarian",
+      "quick",
+      "peppery",
+      "buckwheat",
+      "traditional"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 18,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-portuguese-beef-stir-fry",
     "title": "Peppery Portuguese Beef Stir-fry",
     "tags": [
