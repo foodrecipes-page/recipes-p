@@ -1,0 +1,122 @@
+{
+  "title": "Argentinian Beef Asado with Dried Apricots",
+  "description": "A flavorful, peppery, and gooey Argentinian beef roast featuring dried apricots. Perfect for a festive gathering.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank steak",
+      "amount": "1.5 pounds",
+      "notes": "Choose a grass-fed, high-quality beef"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Chimichurri sauce",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "2 sprigs",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Crushed black pepper",
+      "amount": "2 teaspoons",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Unrefined"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "High-quality"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "In a small bowl, mix together chopped fresh oregano, thyme, garlic, salt, and crushed black pepper.",
+    "Rub the spice mixture all over the flank steak, making sure to coat it evenly.",
+    "Heat 1 tablespoon of olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the flank steak for 2-3 minutes per side, or until a nice crust forms.",
+    "Transfer the skillet to the preheated oven and roast for 15 minutes.",
+    "After 15 minutes, reduce the oven temperature to 300°F (150°C) and continue roasting for an additional 20-25 minutes, or until the internal temperature reaches 130°F (54°C) for medium-rare.",
+    "While the steak is roasting, prepare the chimichurri sauce according to the package instructions or your own recipe.",
+    "Remove the steak from the oven and let it rest for 5-10 minutes before slicing it thinly against the grain.",
+    "Serve the sliced steak with a spoonful of chimichurri sauce, garnished with chopped fresh rosemary and sliced red bell peppers.",
+    "Optional: drizzle with red wine vinegar for added flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "roast",
+    "dried-apricots",
+    "festive",
+    "holiday"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "10g",
+    "fat": "36g"
+  },
+  "slug": "peppery-gooey-festive-argentinian-beef-roast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-gooey-festive-argentinian-beef-roast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:38:41Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "roast",
+    "primaryIngredient": "dried apricots",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "peppery, gooey, festive",
+    "dishForm": "Roast"
+  }
+}

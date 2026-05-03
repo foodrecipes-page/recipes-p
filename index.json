@@ -1241,6 +1241,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-gooey-festive-argentinian-beef-roast",
+    "title": "Argentinian Beef Asado with Dried Apricots",
+    "tags": [
+      "argentinian",
+      "beef",
+      "roast",
+      "dried-apricots",
+      "festive",
+      "holiday"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-gooey-fish-stir-fry",
     "title": "Peppery Gooey Fish Stir-fry",
     "tags": [
