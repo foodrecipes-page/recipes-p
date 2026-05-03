@@ -1,0 +1,129 @@
+{
+  "title": "Peppery Fluffy Mediterranean Lettuce Salad",
+  "description": "A light, peppery salad featuring airy lettuce, chickpeas, and a zesty olive oil dressing, perfect for a quick halal-friendly solo dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Romaine lettuce",
+      "amount": "4 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Canned chickpeas",
+      "amount": "1/2 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "2 oz",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "10 small",
+      "notes": "sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra‑virgin"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tbsp",
+      "notes": "from 1 lemon"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Wash and dry the romaine lettuce, then shred it into bite‑size pieces and place in a large bowl.",
+    "Add the diced cucumber, halved cherry tomatoes, and sliced red onion to the lettuce.",
+    "Pour in the rinsed chickpeas, crumbled feta, and sliced olives.",
+    "In a small bowl whisk together the olive oil, lemon juice, minced garlic, red pepper flakes, black pepper, and sea salt until the dressing is emulsified.",
+    "Pour the dressing over the salad and toss gently so all ingredients are evenly coated.",
+    "Taste and adjust seasoning with extra salt or pepper if needed.",
+    "Serve immediately on a chilled plate or bowl for a refreshing, fluffy salad.",
+    "Optional: garnish with a sprinkle of chopped parsley or a drizzle of extra olive oil for extra aroma."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "fluffy",
+    "mediterranean",
+    "salad",
+    "halal-friendly",
+    "vegetarian",
+    "quick",
+    "easy",
+    "solo-dinner",
+    "lettuce",
+    "chickpeas",
+    "feta"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 10,
+    "carbs": 22,
+    "fat": 8
+  },
+  "slug": "peppery-fluffy-mediterranean-lettuce-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-fluffy-mediterranean-lettuce-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:03:40Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "marinate",
+    "primaryIngredient": "lettuce",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Lettuce",
+    "descriptor": "Peppery Fluffy",
+    "dishForm": "Salad"
+  }
+}

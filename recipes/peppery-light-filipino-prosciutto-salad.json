@@ -1,0 +1,104 @@
+{
+  "title": "Peppery Light Filipino Prosciutto Salad",
+  "description": "A refreshing and light Filipino-inspired salad featuring crispy prosciutto, crunchy fried onions, and a tangy tamarind dressing.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Prosciutto",
+      "amount": "6 slices",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Fried onions",
+      "amount": "1/2 cup",
+      "notes": "Crispy"
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "Lightly drizzled"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "Fresh"
+    }
+  ],
+  "instructions": [
+    "In a pan, heat 1 tablespoon of olive oil over medium heat. Fry the onions until crispy.",
+    "Set the fried onions aside on a paper towel-lined plate.",
+    "In a blender or food processor, combine the tamarind paste, fish sauce, lime juice, salt, and pepper. Blend until smooth.",
+    "In a large bowl, combine the mixed greens and crispy fried onions.",
+    "Slice the prosciutto into thin strips.",
+    "Add the sliced prosciutto to the bowl and toss to combine.",
+    "Drizzle the tamarind dressing over the salad and toss again.",
+    "Garnish with chopped cilantro.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "light",
+    "low-fat",
+    "prosciutto",
+    "tamarind",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 12
+  },
+  "slug": "peppery-light-filipino-prosciutto-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-light-filipino-prosciutto-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:03:08Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "light",
+    "mood": "light",
+    "technique": "tadka",
+    "primaryIngredient": "prosciutto",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Prosciutto",
+    "descriptor": "Peppery Light",
+    "dishForm": "Salad"
+  }
+}

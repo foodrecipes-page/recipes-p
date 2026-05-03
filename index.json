@@ -1223,6 +1223,27 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-fluffy-mediterranean-lettuce-salad",
+    "title": "Peppery Fluffy Mediterranean Lettuce Salad",
+    "tags": [
+      "peppery",
+      "fluffy",
+      "mediterranean",
+      "salad",
+      "halal-friendly",
+      "vegetarian",
+      "quick",
+      "easy",
+      "solo-dinner",
+      "lettuce",
+      "chickpeas",
+      "feta"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-fluffy-papaya-salad",
     "title": "Peppery Fluffy Papaya Salad",
     "tags": [
@@ -1709,6 +1730,21 @@
       "beef-stir-fry"
     ],
     "cuisine": "Kenyani",
+    "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-light-filipino-prosciutto-salad",
+    "title": "Peppery Light Filipino Prosciutto Salad",
+    "tags": [
+      "filipino",
+      "light",
+      "low-fat",
+      "prosciutto",
+      "tamarind",
+      "salad"
+    ],
+    "cuisine": "Filipino",
     "totalTimeMin": 20,
     "shard": "p"
   },
