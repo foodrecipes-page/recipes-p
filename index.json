@@ -704,6 +704,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-crispy-japanese-seafood-bowl",
+    "title": "Peppery Crispy Japanese Seafood Bowl",
+    "tags": [
+      "quick-fix",
+      "seafood",
+      "kosher-friendly",
+      "peppery",
+      "crispy",
+      "bowl"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crispy-kenyan-haddock-skewers",
     "title": "Peppery Crispy Kenyan Haddock Skewers",
     "tags": [

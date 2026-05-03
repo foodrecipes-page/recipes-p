@@ -1,0 +1,118 @@
+{
+  "title": "Peppery Crispy Japanese Seafood Bowl",
+  "description": "A quick, peppery bowl featuring pan‑seared frozen seafood, fresh cucumber, and a sweet‑spicy sauce, all served over fluffy rice.",
+  "cuisine": "Japanese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frozen seafood mix (shrimp, scallop, squid)",
+      "amount": "200g",
+      "notes": "thawed and drained"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp",
+      "notes": "for pan‑frying"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "sriracha or chili paste",
+      "amount": "1 tsp",
+      "notes": "adjust to heat preference"
+    },
+    {
+      "name": "kosher soy sauce",
+      "amount": "1 tbsp",
+      "notes": "low‑sodium if desired"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp",
+      "notes": "adds brightness"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "balances heat"
+    },
+    {
+      "name": "cooked jasmine rice",
+      "amount": "1 cup",
+      "notes": "steamed or microwaveable"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "pickled ginger or pickled cucumber",
+      "amount": "1 tbsp",
+      "notes": "adds tang"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Thaw the frozen seafood by running it under cold water for 5 minutes and pat dry.",
+    "Heat 1 tbsp of vegetable oil in a large skillet over medium‑high heat.",
+    "Add the seafood to the skillet and cook for 3–4 minutes until it turns opaque and slightly golden.",
+    "Stir in sesame oil, sriracha, soy sauce, rice vinegar, and honey; cook for an additional minute so the sauce coats the seafood.",
+    "While the seafood cooks, warm 1 cup of jasmine rice according to package instructions.",
+    "Dice cucumber and mix it with pickled ginger and chopped scallions in a serving bowl.",
+    "Transfer the cooked rice to the bowl, top with the seared seafood and its sauce, then sprinkle toasted sesame seeds.",
+    "Serve immediately, allowing the crisp flavor of the seafood to mingle with the fresh cucumber and spicy sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "quick-fix",
+    "seafood",
+    "kosher-friendly",
+    "peppery",
+    "crispy",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 24,
+    "carbs": 45,
+    "fat": 11
+  },
+  "slug": "peppery-crispy-japanese-seafood-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crispy-japanese-seafood-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:18:43Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "pickle",
+    "primaryIngredient": "frozen seafood mix",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "seafood",
+    "descriptor": "Peppery Crispy",
+    "dishForm": "Bowl"
+  }
+}
