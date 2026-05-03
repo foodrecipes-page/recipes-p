@@ -1,0 +1,113 @@
+{
+  "title": "Peppery Silky Saudi Arabian Beans Dal",
+  "description": "A fragrant, caramelized bean dal that blends peppery spices with silky texture, perfect for a romantic low‑fat dinner.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1, diced",
+      "notes": "finely diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "for caramelizing"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp",
+      "notes": "for depth and color"
+    },
+    {
+      "name": "water or low‑sodium vegetable broth",
+      "amount": "4 cups",
+      "notes": "for cooking lentils"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp",
+      "notes": "to toast"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1 pinch",
+      "notes": "soaked in 1 tbsp hot water"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils under cold water until the water runs clear.",
+    "Heat a non‑stick pot over medium heat and add the olive oil. Toss in the cumin seeds and let them sizzle for about 30 seconds until fragrant.",
+    "Add the diced onion and cook, stirring frequently, until the onions caramelize and turn golden brown, about 8–10 minutes.",
+    "Add the minced garlic and sauté for 1 minute until aromatic, being careful not to burn it.",
+    "Stir in the tomato paste and cook for 2 minutes to blend the flavors.",
+    "Add the rinsed lentils and mix well to coat them in the onion‑garlic‑tomato mixture.",
+    "Pour in the water or broth, bring to a gentle boil, then reduce the heat to low and cover. Simmer for 18–20 minutes, or until the lentils are tender and the mixture has thickened to a silky consistency.",
+    "Stir in the soaked saffron water, ground coriander, turmeric, cinnamon, black pepper, and garam masala. Let the dal cook for another 5 minutes to allow the spices to meld.",
+    "Season with salt to taste, then stir in the fresh lemon juice. Taste and adjust seasoning if needed.",
+    "Serve hot, garnished with chopped fresh cilantro. Pair with warm flatbread or a side of steamed rice for a complete meal."
+  ],
+  "slug": "peppery-silky-saudi-arabian-beans-dal",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-silky-saudi-arabian-beans-dal",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:28:51Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "caramelize",
+    "primaryIngredient": "beans",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "Beans",
+    "descriptor": "Peppery Silky",
+    "dishForm": "Dal"
+  }
+}
