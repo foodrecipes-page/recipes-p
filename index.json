@@ -2432,6 +2432,23 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-tender-greek-lamb-stew",
+    "title": "Peppery Tender Greek Lamb Stew",
+    "tags": [
+      "peppery",
+      "tender",
+      "cozy",
+      "greek",
+      "low-sodium",
+      "lamb",
+      "sherry",
+      "stew"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 105,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-tender-portuguese-almond-stir-fry",
     "title": "Peppery Tender Portuguese Almond Stir-fry",
     "tags": [

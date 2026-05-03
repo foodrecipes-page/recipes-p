@@ -1,0 +1,115 @@
+{
+  "title": "Peppery Tender Greek Lamb Stew",
+  "description": "A cozy, low-sodium Greek lamb stew infused with dry sherry and a subtle pepper kick, finished with a splash of lemon.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lb (680 g)",
+      "notes": "cut into 1.5-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dry sherry",
+      "amount": "1 cup (240 ml)"
+    },
+    {
+      "name": "Low-sodium chicken broth",
+      "amount": "3 cups (720 ml)"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "14 oz (400 g)",
+      "notes": "no salt added"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup (240 g)",
+      "notes": "low-sodium, plain"
+    },
+    {
+      "name": "Lemon zest & juice",
+      "amount": "1 whole lemon",
+      "notes": "zest and 2 tbsp juice"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat until shimmering.",
+    "Add the cubed lamb and sear on all sides until browned, about 5 minutes. Remove the lamb and set aside.",
+    "In the same pot, add the diced onion and cook until translucent, about 3 minutes.",
+    "Stir in the minced garlic, red pepper flakes, and dried oregano; cook for 1 minute until fragrant.",
+    "Return the lamb to the pot and pour in the dry sherry, scraping up any brown bits from the bottom. Let the sherry reduce for 2 minutes.",
+    "Add the canned tomatoes and low-sodium chicken broth. Bring to a gentle simmer, then reduce heat to low and cover. Cook for 1 hour, stirring occasionally.",
+    "After the hour, stir in the Greek yogurt, lemon zest, and lemon juice. Simmer uncovered for an additional 15 minutes so the flavors meld.",
+    "Season with black pepper, adjust seasoning if needed, and serve hot over a bed of steamed rice or crusty bread.",
+    "Remove the pot from heat and let the stew rest for 5 minutes before ladling into bowls. Enjoy the tender lamb and peppery warmth of this traditional Greek favorite!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "peppery",
+    "tender",
+    "cozy",
+    "greek",
+    "low-sodium",
+    "lamb",
+    "sherry",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 32,
+    "carbs": 4,
+    "fat": 20
+  },
+  "slug": "peppery-tender-greek-lamb-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-tender-greek-lamb-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:39:04Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "ferment",
+    "primaryIngredient": "dry sherry",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Lamb",
+    "descriptor": "Peppery Tender",
+    "dishForm": "Stew"
+  }
+}
