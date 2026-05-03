@@ -1,0 +1,106 @@
+{
+  "title": "Peppery Filipino Chicken Breast Bowl",
+  "description": "A bright, energizing bowl featuring tender chicken breast sizzled in a peppery bhuna, topped with crunchy toasted sesame seeds and fresh raw veggies over fragrant jasmine rice.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless skinless chicken breasts",
+      "amount": "500g"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Calamansi or lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "Bhuna spice mix",
+      "amount": "1 tsp each",
+      "notes": "Chili flakes, smoked paprika, ground cumin, ground coriander"
+    },
+    {
+      "name": "Jasmine rice",
+      "amount": "1 cup, cooked"
+    },
+    {
+      "name": "Mixed raw veggies",
+      "amount": "1 cup shredded lettuce, 1/2 cup sliced cucumber, 1/2 cup shredded carrot, 1/4 cup chopped scallions"
+    },
+    {
+      "name": "Crumbly topping",
+      "amount": "1 tbsp toasted sesame seeds"
+    }
+  ],
+  "instructions": [
+    "Prepare the bhuna: In a small skillet, heat 1 tbsp oil over medium heat. Add minced garlic, ginger, and diced onion; sauté until translucent (~3 minutes). Stir in the bhuna spice mix and cook for another minute until fragrant.",
+    "Season the chicken: Pat the chicken breasts dry. Sprinkle with salt and pepper, then coat each piece with the bhuna mixture, ensuring an even coating.",
+    "Sauté the chicken: Add the remaining 1 tbsp oil to a skillet over medium‑high heat. Add the chicken and cook for about 5–6 minutes per side, or until the internal temperature reaches 165°F (74°C). Remove from heat, let rest 5 minutes, then slice into strips.",
+    "Assemble the bowl base: Place the cooked jasmine rice at the bottom of a bowl.",
+    "Add the raw veggies: Arrange shredded lettuce, sliced cucumber, shredded carrot, and scallions over the rice. Toss lightly with a pinch of salt.",
+    "Add the chicken: Spoon the sliced chicken breast over the veggies.",
+    "Finish with toppings: Sprinkle toasted sesame seeds over the bowl for crunch. Drizzle with a splash of soy sauce, fish sauce, and a squeeze of calamansi or lime juice for brightness.",
+    "Serve immediately: Garnish with chopped cilantro if desired, serve with lime wedges on the side. The bowl can be eaten warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "healthy",
+    "no-cook",
+    "crisp",
+    "chicken",
+    "rice",
+    "bowls"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 27,
+    "carbs": 57,
+    "fat": 33
+  },
+  "slug": "peppery-filipino-chicken-breast-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-filipino-chicken-breast-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:56:26Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "bhuna",
+    "primaryIngredient": "chicken breast",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Chicken Breast",
+    "descriptor": "Peppery",
+    "dishForm": "Bowl"
+  }
+}
