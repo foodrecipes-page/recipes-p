@@ -2354,6 +2354,18 @@
     "shard": "p"
   },
   {
+    "slug": "poached-herbal-herbs-soup",
+    "title": "Poached Herbal Herbs Soup",
+    "tags": [
+      "poached-herb-soup",
+      "mediterranean-dish",
+      "sugar-free-friendly"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "poached-injera-pilaf",
     "title": "Poached Injera Pilaf",
     "tags": [

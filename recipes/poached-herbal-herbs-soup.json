@@ -1,0 +1,90 @@
+{
+  "title": "Poached Herbal Herbs Soup",
+  "description": "This herbal, crunchy, cozy Mediterranean dish features treacle for sweetness without added sugar and is perfect as a light lunch or snack.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup chopped fresh herbs (thyme, parsley, dill)",
+      "amount": "",
+      "notes": "Choose your favorite herbs for this dish."
+    },
+    {
+      "name": "2 cups vegetable broth",
+      "amount": "",
+      "notes": "Use low-sodium or make it from scratch if preferred."
+    },
+    {
+      "name": "1/4 cup treacle (unrefined molasses, can substitute with honey)",
+      "amount": "1/4 cup",
+      "notes": "Choose a sugar-free version of treacle for the sugar-free-friendly option."
+    },
+    {
+      "name": "Pinch salt and freshly ground black pepper",
+      "amount": "",
+      "notes": "Adjust to taste."
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": "Enhances the flavor without making it overpowering."
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "",
+      "notes": "Adds a savory note to the soup."
+    },
+    {
+      "name": "2 cups water or low-sodium vegetable broth",
+      "amount": "",
+      "notes": "Provides the liquid base for poaching the herbs and treacle."
+    },
+    {
+      "name": "Vegetable stock cube (optional)",
+      "amount": "1",
+      "notes": "For a richer, more complex flavor."
+    }
+  ],
+  "instructions": [
+    "Combine water or vegetable broth with chopped fresh herbs, minced garlic, finely chopped onion, salt, pepper, and treacle in a pot.",
+    "Bring to a boil over medium-high heat. Reduce the heat to low and let simmer for about 20 minutes, ensuring the herbs are tender but still slightly crunchy.",
+    "If desired, use a vegetable stock cube for extra depth of flavor.",
+    "Strain the soup through a fine mesh strainer into a bowl, discarding solids. If you prefer your soup smoother, blend with an immersion blender or transfer to a blender and puree until smooth.",
+    "Serve hot as a light lunch or snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "poached-herb-soup",
+    "mediterranean-dish",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 0.5
+  },
+  "slug": "poached-herbal-herbs-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/poached-herbal-herbs-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T16:07:30Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "poach",
+    "primaryIngredient": "treacle",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Herbs",
+    "descriptor": "Poached",
+    "dishForm": "Soup"
+  }
+}
