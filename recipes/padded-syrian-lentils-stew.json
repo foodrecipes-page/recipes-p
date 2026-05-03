@@ -1,0 +1,108 @@
+{
+  "title": "Padded Syrian Lentils Stew",
+  "description": "Buttery, dense brunch-mood stew made with lentils, yogurt and a pressure-cook twist.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Dried brown lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Carrots, chopped",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Low-sodium vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Plain Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils until the water runs clear.",
+    "In the pressure cooker, heat the olive oil and butter over medium heat until the butter melts.",
+    "Add the diced onion and sauté until it becomes translucent.",
+    "Stir in the minced garlic and cook for 30 seconds until fragrant.",
+    "Add the chopped carrots, ground cumin, and paprika; cook for 2 minutes, stirring occasionally.",
+    "Pour in the rinsed lentils and vegetable broth, then stir to combine.",
+    "Seal the pressure cooker and cook on high pressure for 15 minutes.",
+    "Quick-release the pressure and open the lid carefully.",
+    "Stir in the plain Greek yogurt and lemon juice until the mixture is creamy and fully incorporated.",
+    "Season with salt to taste and garnish with chopped fresh parsley.",
+    "Serve hot, optionally accompanied by flatbread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "easy",
+    "one-pot",
+    "pressure-cook",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 223,
+    "protein": 7,
+    "carbs": 16,
+    "fat": 14
+  },
+  "slug": "padded-syrian-lentils-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/padded-syrian-lentils-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:45:41Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "pressure-cook",
+    "primaryIngredient": "natural yoghurt",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Lentils",
+    "descriptor": "Padded",
+    "dishForm": "Stew"
+  }
+}
