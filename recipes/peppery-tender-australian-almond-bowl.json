@@ -1,0 +1,113 @@
+{
+  "title": "Peppery Tender Australian Almond Bowl",
+  "description": "A vibrant, pepper‑laden bowl featuring tandoor‑roasted chickpeas, tender quinoa, crisp greens, and a crunchy ground almond topping for an energising Australian twist.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quinoa, dry",
+      "amount": "1 cup (200g)",
+      "notes": "cooked"
+    },
+    {
+      "name": "Cooked chickpeas",
+      "amount": "1 cup (170g)"
+    },
+    {
+      "name": "Ground almonds",
+      "amount": "2 tbsp (30g)"
+    },
+    {
+      "name": "Coconut yogurt",
+      "amount": "2 tbsp (30g)"
+    },
+    {
+      "name": "Tandoori spice mix",
+      "amount": "1 tsp (5g)"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp (15ml)"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp (5ml)"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium (200g)"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium (120g)"
+    },
+    {
+      "name": "Spinach, fresh",
+      "amount": "2 cups (60g)"
+    },
+    {
+      "name": "Carrots, julienned",
+      "amount": "1 medium (60g)"
+    },
+    {
+      "name": "Cucumber, sliced",
+      "amount": "½ cup (50g)"
+    }
+  ],
+  "instructions": [
+    "Preheat your tandoor or oven to 200 °C (390 °F).",
+    "Toss the chickpeas with 1 tsp olive oil, 1 tsp tandoori spice mix, and a pinch of salt; spread them on a baking sheet.",
+    "Roast the chickpeas in the tandoor for 15 minutes, turning once, until golden and slightly crispy.",
+    "While the chickpeas roast, rinse the quinoa and cook it according to package instructions (about 15 minutes).",
+    "Peel and slice the avocado, dice the bell pepper, and prep spinach, carrots, and cucumber.",
+    "Transfer cooked quinoa to a large bowl; top with roasted chickpeas, avocado, bell pepper, spinach, carrots, and cucumber.",
+    "Squeeze lemon juice over the bowl, drizzle with coconut yogurt, and season with a pinch of extra tandoori mix if desired.",
+    "Sprinkle ground almonds evenly over the bowl for crunch and a nutty finish.",
+    "Gently toss all ingredients together to combine flavours.",
+    "Serve immediately, enjoying the peppery zest and tender textures."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "tandoori",
+    "almond",
+    "peppery",
+    "raw-friendly",
+    "energetic",
+    "bowl",
+    "quick",
+    "healthy",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 713,
+    "protein": 17,
+    "carbs": 58,
+    "fat": 29
+  },
+  "slug": "peppery-tender-australian-almond-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-tender-australian-almond-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:10:05Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "tandoor",
+    "primaryIngredient": "ground almonds",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "almonds",
+    "descriptor": "Peppery Tender",
+    "dishForm": "Bowl"
+  }
+}
