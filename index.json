@@ -942,6 +942,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-crunchy-ukrainian-fish-skillet",
+    "title": "Peppery Crunchy Ukrainian Fish Skillet",
+    "tags": [
+      "fish",
+      "ukrainian",
+      "peppery",
+      "crunchy",
+      "skillet"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crunchy-uruguayan-pork-tenderloin-salad",
     "title": "Peppery Crunchy Uruguayan Pork Tenderloin Salad",
     "tags": [],

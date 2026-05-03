@@ -1,0 +1,115 @@
+{
+  "title": "Peppery Crunchy Ukrainian Fish Skillet",
+  "description": "A comforting and flavorful Ukrainian dish featuring birds-eye chillies, sautéed fish, and crunchy vegetables. This pescatarian-friendly recipe is perfect for a hearty dinner.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 (6 oz each)",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "birds-eye chillies",
+      "amount": "2-3",
+      "notes": "depending on desired heat level"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dredging"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "dill",
+      "amount": "chopped fresh",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Dredge the cod fillets in flour, shaking off excess.",
+    "Add the cod fillets to the skillet and cook for 3-4 minutes per side, or until cooked through.",
+    "Remove the fish from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the grated carrots and sliced zucchini to the skillet, cooking until they start to soften, about 3-4 minutes.",
+    "Add the birds-eye chillies to the skillet and cook for an additional minute.",
+    "Return the cod fillets to the skillet and stir to combine with the vegetables and chillies.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "ukrainian",
+    "peppery",
+    "crunchy",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "peppery-crunchy-ukrainian-fish-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crunchy-ukrainian-fish-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:36:41Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "saute",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "fish",
+    "descriptor": "peppery crunchy",
+    "dishForm": "Skillet"
+  }
+}
