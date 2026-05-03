@@ -2618,6 +2618,24 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-velvety-irish-shiitake-stew",
+    "title": "Peppery Velvety Irish Shiitake Stew",
+    "tags": [
+      "peppery",
+      "velvety",
+      "stew",
+      "irish",
+      "gluten-free",
+      "weeknight",
+      "shiitake",
+      "creamy",
+      "savory"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 75,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-velvety-italian-cornstarch-stir-fry",
     "title": "Peppery Velvety Italian Cornstarch Stir-fry",
     "tags": [

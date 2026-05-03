@@ -1,0 +1,128 @@
+{
+  "title": "Peppery Velvety Irish Shiitake Stew",
+  "description": "A comforting, pepper‑laden Irish stew with silky shiitake mushrooms and a creamy finish.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "400g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Celery stalks",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "Irish brown ale (gluten‑free)",
+      "amount": "250ml",
+      "notes": "deglaze"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "200ml"
+    },
+    {
+      "name": "Irish butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat. Add the diced onion and sauté until translucent, about 5 minutes.",
+    "Add the sliced shiitake mushrooms and cook until they release moisture and start to brown, about 7-8 minutes.",
+    "Stir in the minced garlic, thyme, and rosemary, cooking for another 1 minute until fragrant.",
+    "Pour in the Irish brown ale, scraping up any browned bits from the bottom of the pot; let it reduce by half, about 5 minutes.",
+    "Add the vegetable broth, diced carrots, and celery; bring to a gentle simmer.",
+    "Cover and let the stew simmer for 30 minutes, then uncover and continue cooking for another 15 minutes until the vegetables are tender.",
+    "Stir in the heavy cream and butter, allowing the butter to melt fully, and simmer for an additional 5 minutes to achieve a velvety texture.",
+    "Season with salt and freshly ground black pepper to taste; serve hot over a bed of crusty gluten‑free bread or with boiled potatoes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peppery",
+    "velvety",
+    "stew",
+    "irish",
+    "gluten-free",
+    "weeknight",
+    "shiitake",
+    "creamy",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 18,
+    "fat": 22
+  },
+  "slug": "peppery-velvety-irish-shiitake-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-velvety-irish-shiitake-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:47:24Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "simmer",
+    "primaryIngredient": "shiitake mushrooms",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "shiitake",
+    "descriptor": "Peppery Velvety",
+    "dishForm": "Stew"
+  }
+}
