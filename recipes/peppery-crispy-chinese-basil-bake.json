@@ -1,0 +1,110 @@
+{
+  "title": "Peppery Crispy Chinese Basil Bake",
+  "description": "A festive and flavorful vegan dish featuring crispy Chinese basil, this bake is perfect for any occasion. It combines the peppery taste of basil with crunchy textures and savory spices.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese basil",
+      "amount": "1 cup fresh leaves",
+      "notes": "Choose fresh and fragrant leaves"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block, drained and cubed",
+      "notes": "Extra-firm tofu works best"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "Use gluten-free soy sauce for gluten-free diet"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground pepper is best"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "Gluten-free breadcrumbs for gluten-free diet"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup, chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, whisk together rice vinegar, sesame oil, soy sauce, and cornstarch until smooth.",
+    "Add the cubed tofu to the bowl and toss to coat evenly with the marinade.",
+    "Let the tofu marinate for at least 15 minutes, flipping halfway through.",
+    "In a separate bowl, mix together Panko breadcrumbs, black pepper, and salt.",
+    "Remove the tofu from the marinade, allowing any excess to drip off.",
+    "Coat each piece of tofu in the breadcrumb mixture, pressing gently to adhere.",
+    "Place the coated tofu on a baking sheet lined with parchment paper.",
+    "Bake the tofu in the preheated oven for 20-25 minutes, or until crispy and golden brown.",
+    "While the tofu is baking, prepare the Chinese basil by washing and drying the leaves.",
+    "Once the tofu is done, remove it from the oven and top with Chinese basil leaves.",
+    "Return the baking sheet to the oven and bake for an additional 2-3 minutes, or until the basil is crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "chinese",
+    "basil",
+    "bake",
+    "crispy",
+    "peppery"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "peppery-crispy-chinese-basil-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crispy-chinese-basil-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:37:42Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "bake",
+    "primaryIngredient": "basil",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "basil",
+    "descriptor": "peppery crispy",
+    "dishForm": "Bake"
+  }
+}

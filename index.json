@@ -689,6 +689,22 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-crispy-chinese-basil-bake",
+    "title": "Peppery Crispy Chinese Basil Bake",
+    "tags": [
+      "vegan",
+      "gluten-free",
+      "chinese",
+      "basil",
+      "bake",
+      "crispy",
+      "peppery"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crispy-german-potato-stir-fry",
     "title": "Peppery Crispy German Potato Stir-fry",
     "tags": [
@@ -1448,6 +1464,19 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-gooey-brazilian-pretzels-gratin",
+    "title": "Peppery Gooey Brazilian Pretzels Gratin",
+    "tags": [
+      "brunch",
+      "vegetarian",
+      "cheesy",
+      "quick"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {

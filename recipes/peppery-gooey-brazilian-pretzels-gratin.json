@@ -1,0 +1,98 @@
+{
+  "title": "Peppery Gooey Brazilian Pretzels Gratin",
+  "description": "A savory brunch delight that marries the buttery crunch of Brazilian-style pretzels with a molten, pepper-infused cheese sauce, finished under a broiler for a caramelized top.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Brazilian-style pretzel sticks",
+      "amount": "12 sticks",
+      "notes": "if unavailable, use regular pretzel sticks"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "200g",
+      "notes": "shredded"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "100g",
+      "notes": "shredded"
+    },
+    {
+      "name": "Cream cheese",
+      "amount": "100g",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Onion powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F) and set the top rack 3 inches from the heat source for broiling.",
+    "Arrange the pretzel sticks in a single layer on a baking sheet lined with parchment paper.",
+    "In a bowl, combine shredded mozzarella, cheddar, and cream cheese. Add garlic powder, onion powder, smoked paprika, and black pepper; mix until well blended.",
+    "Spread the cheese mixture evenly over the pretzel sticks, ensuring each stick is generously covered.",
+    "Drizzle the melted butter over the cheese-coated pretzels for a glossy finish.",
+    "Bake in the preheated oven for 10 minutes, or until the cheese is bubbling and the pretzels are lightly golden.",
+    "Switch the oven to broil, broiling for 2–3 minutes until the top turns a golden brown and slightly crisp. Watch closely to avoid burning.",
+    "Remove from the oven, let cool for 2 minutes, then serve immediately while gooey."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "vegetarian",
+    "cheesy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 32,
+    "fat": 20
+  },
+  "slug": "peppery-gooey-brazilian-pretzels-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-gooey-brazilian-pretzels-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:37:46Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "broil",
+    "primaryIngredient": "pretzels",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "pretzels",
+    "descriptor": "Peppery Gooey",
+    "dishForm": "Gratin"
+  }
+}
