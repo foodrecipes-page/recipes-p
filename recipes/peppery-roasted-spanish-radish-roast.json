@@ -1,0 +1,89 @@
+{
+  "title": "Peppery Roasted Spanish Radish Roast",
+  "description": "A vibrant, low‑calorie Spanish-inspired dish featuring peppery roasted radishes that are rich in flavor yet easy on the waistline.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "radishes",
+      "amount": "2 lb (900 g)",
+      "notes": "sliced ½ inch thick"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp",
+      "notes": "adds depth"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 tsp",
+      "notes": "adjust for heat level"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "for aroma"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": "earthy flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "½ tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp",
+      "notes": "fresh brightness"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "optional, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Wash and trim radishes, then slice each into ½‑inch thick rounds.",
+    "In a large bowl, whisk together olive oil, smoked paprika, cayenne pepper, garlic powder, dried oregano, and salt. Toss radish slices until evenly coated.",
+    "Spread radish slices in a single layer on a parchment‑lined baking sheet, leaving space between each slice.",
+    "Roast in the preheated oven for 25 minutes, flipping halfway through until edges are crisp and radishes are tender.",
+    "Remove the sheet from the oven and let the radishes cool for a few minutes. Sprinkle lemon zest, chopped parsley, and cilantro over the top.",
+    "Serve warm as a side dish or light main course. Optional: drizzle with a squeeze of fresh lemon juice before serving."
+  ],
+  "slug": "peppery-roasted-spanish-radish-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-roasted-spanish-radish-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:25:41Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "roast",
+    "primaryIngredient": "radish",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Radish",
+    "descriptor": "Peppery Roasted",
+    "dishForm": "Roast"
+  }
+}
