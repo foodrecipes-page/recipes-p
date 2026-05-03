@@ -1,0 +1,109 @@
+{
+  "title": "Peppery Crispy Saudi Arabian Haddock Kebabs",
+  "description": "A lazy-Sunday Saudi Arabian dish featuring haddock, cooked to perfection using sous-vide for a low-fat and delicious meal. This recipe combines the freshness of the sea with the warmth of Saudi spices.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "4 (6 oz each)",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp",
+      "notes": "Middle Eastern spice"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "or 2 cloves, minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "4-6",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130°F (54°C).",
+    "In a small bowl, mix together black pepper, sumac, paprika, garlic powder, salt, and lemon juice.",
+    "Place each haddock fillet in a separate sous-vide bag and brush the spice mixture evenly over both sides of the fish.",
+    "Seal the bags and cook in the sous-vide machine for 30-40 minutes or until the fish reaches an internal temperature of 120°F (49°C).",
+    "While the fish is cooking, preheat a non-stick skillet or griddle over medium-high heat.",
+    "Remove the fish from the sous-vide bags and place on the preheated skillet or griddle.",
+    "Brush the fish with olive oil and cook for 2-3 minutes on each side or until crispy and golden brown.",
+    "Thread the cooked fish onto the bamboo skewers, leaving a small space between each piece.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi-arabian",
+    "haddock",
+    "sous-vide",
+    "low-fat",
+    "gluten-free",
+    "kebabs",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 10
+  },
+  "slug": "peppery-crispy-saudi-arabian-haddock-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crispy-saudi-arabian-haddock-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:58:25Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "sous-vide",
+    "primaryIngredient": "haddock",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "haddock",
+    "descriptor": "peppery crispy",
+    "dishForm": "Kebabs"
+  }
+}
