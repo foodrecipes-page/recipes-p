@@ -3515,6 +3515,21 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-thai-fish-noodles",
+    "title": "Piquant Thai Fish Noodles",
+    "tags": [
+      "flambe",
+      "no-bread",
+      "paleo-friendly",
+      "quick",
+      "seafood",
+      "spicy"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-turkish-cauliflower-flatbread",
     "title": "Piquant Turkish Cauliflower Flatbread",
     "tags": [

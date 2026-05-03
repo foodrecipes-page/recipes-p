@@ -1,0 +1,112 @@
+{
+  "title": "Piquant Thai Fish Noodles",
+  "description": "A fresh, aerated, adventurous Thai dish featuring fish with a flambé finish, crafted with paleo-friendly ingredients.",
+  "cuisine": "Thai",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "halibut fillets",
+      "amount": "200g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "shirataki noodle ribbons",
+      "amount": "150g",
+      "notes": "rinse and soak"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "red chili, sliced",
+      "amount": "1"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "dark rum",
+      "amount": "1 tbsp",
+      "notes": "for flambé"
+    },
+    {
+      "name": "chili paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "optional, for garnish"
+    },
+    {
+      "name": "cilantro, chopped",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the shirataki noodle ribbons and pat dry, then soak them in hot water for five minutes to remove the odor.",
+    "Whisk the fish sauce, lime juice, grated ginger, chili paste and a pinch of salt to create the marinating sauce.",
+    "Toss the halibut pieces in the sauce and let them marinate for ten minutes.",
+    "Heat a wok over medium-high heat and add coconut oil, swirling to coat the surface.",
+    "Add minced garlic and sliced chili to the wok, stir-frying for thirty seconds until fragrant.",
+    "Place the marinated fish into the wok, cooking for two minutes on each side until the flesh turns opaque.",
+    "Add the soaked noodles to the wok, stir-frying for one minute, then pour the remaining sauce over the noodles and toss to coat evenly.",
+    "Return the cooked fish to the wok, drizzle the dark rum, ignite carefully, and allow the flame to subside before serving.",
+    "Garnish with fresh cilantro and toasted sesame seeds before plating."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "flambe",
+    "no-bread",
+    "paleo-friendly",
+    "quick",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 470,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "piquant-thai-fish-noodles",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-thai-fish-noodles",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:39:41Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "flambe",
+    "primaryIngredient": "fish",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Fish",
+    "descriptor": "Piquant",
+    "dishForm": "Noodles"
+  }
+}
