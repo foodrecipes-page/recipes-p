@@ -1,0 +1,82 @@
+{
+  "title": "Peppery Irish Cheese Flatbread",
+  "description": "A dense, high-protein flatbread made with Irish cheese, smoked paprika, and tandoor oven technique for a peppery, indulgent bite.",
+  "cuisine": "irish",
+  "diet": [
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "irish cheese (cheddar)",
+      "amount": "150g",
+      "notes": "firm, high-moisture cheddar-style cheese"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "100g",
+      "notes": "for structure"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "10g",
+      "notes": "for peppery flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "5g",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "2g",
+      "notes": "freshly cracked"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix flour, smoked paprika, salt, and pepper until combined.",
+    "Add 150g Irish cheese and mix gently until no lumps form.",
+    "Shape into a ball and divide into 4 equal portions.",
+    "Preheat tandoor oven to 220°C (425°F).",
+    "Place dough balls on tandoor tray and bake for 5-7 minutes until golden and crisp.",
+    "Remove from oven and serve warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "cheese",
+    "flatbread",
+    "tandoor",
+    "peppery",
+    "highprotein"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 22,
+    "fat": 12
+  },
+  "slug": "peppery-irish-cheese-flatbread",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-irish-cheese-flatbread",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T02:10:02Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "tandoor",
+    "primaryIngredient": "cheese",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "cheese",
+    "descriptor": "Peppery",
+    "dishForm": "Flatbread"
+  }
+}

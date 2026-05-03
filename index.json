@@ -1201,6 +1201,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-irish-cheese-flatbread",
+    "title": "Peppery Irish Cheese Flatbread",
+    "tags": [
+      "irish",
+      "cheese",
+      "flatbread",
+      "tandoor",
+      "peppery",
+      "highprotein"
+    ],
+    "cuisine": "irish",
+    "totalTimeMin": 12,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-irish-dates-stir-fry",
     "title": "Peppery Irish Dates Stir-fry",
     "tags": [
