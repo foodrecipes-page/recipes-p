@@ -1,0 +1,116 @@
+{
+  "title": "Peppery Velvety Norwegian Cod Salad",
+  "description": "A refreshing, protein-packed cod salad with a creamy avocado base, peppery dressing, and a velvety texture perfect for post-workout nourishment.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian cod fillet, skinless",
+      "amount": "200 g",
+      "notes": "seasoned with salt and pepper before steaming"
+    },
+    {
+      "name": "Ripe avocado",
+      "amount": "1 medium",
+      "notes": "diced into bite-sized cubes"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "seeds removed, diced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "¼ medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sunflower seeds",
+      "amount": "2 tbsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "for vinaigrette"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": "for vinaigrette"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": "for vinaigrette"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a steamer or bring a pot of water to a gentle boil.",
+    "Season the cod fillet with sea salt and freshly ground black pepper.",
+    "Steam the cod for 4–5 minutes, until it flakes easily with a fork.",
+    "Remove the cod from the steamer and allow it to cool slightly, then flake into bite-sized pieces.",
+    "In a large bowl, combine the diced avocado, cucumber, red onion, chopped dill, and toasted sunflower seeds.",
+    "Add the flaked cod to the bowl and gently toss to mix.",
+    "In a small jar, whisk together the olive oil, apple cider vinegar, lemon juice, sea salt, and black pepper until emulsified.",
+    "Drizzle the vinaigrette over the salad and toss carefully to coat everything evenly.",
+    "Garnish with additional chopped dill or a sprinkle of sunflower seeds if desired.",
+    "Serve immediately at room temperature or slightly chilled for a refreshing post‑workout meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "whole30",
+    "post-workout",
+    "salad",
+    "cod",
+    "velvety",
+    "peppery",
+    "quick",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 373,
+    "protein": 35,
+    "carbs": 22,
+    "fat": 57
+  },
+  "slug": "peppery-velvety-norwegian-cod-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-velvety-norwegian-cod-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:54:05Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "steam",
+    "primaryIngredient": "vinaigrette dressing",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cod",
+    "descriptor": "Peppery Velvety",
+    "dishForm": "Salad"
+  }
+}
