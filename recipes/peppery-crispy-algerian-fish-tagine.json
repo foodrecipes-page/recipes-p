@@ -1,0 +1,97 @@
+{
+  "title": "Peppery Crispy Algerian Fish Tagine",
+  "description": "A smoky, peppery tagine featuring pan‑fried fish fillets, toasted coconut flakes, and a tangy pickle garnish—perfect for a romantic night in.",
+  "cuisine": "Algerian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 (6 oz each)",
+      "notes": "skin removed, pat dry"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for searing"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 tsp",
+      "notes": "adjust to heat preference"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1 cup (toasted)",
+      "notes": "toast in a dry skillet until golden"
+    },
+    {
+      "name": "pickled turnips",
+      "amount": "½ cup (chopped)",
+      "notes": "use sour pickles for brightness"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp (chopped)",
+      "notes": "for garnish"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tbsp (chopped)",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    }
+  ],
+  "instructions": [
+    "Season cod fillets with salt, black pepper, smoked paprika, cayenne pepper, lemon zest, and lemon juice, letting marinate for 5 minutes.",
+    "Heat 1 tbsp olive oil in a cast‑iron skillet over medium‑high heat until shimmering.",
+    "Place fillets skin‑side up and sear for 4–5 minutes, then flip and sear the other side for another 4–5 minutes until golden and cooked through.",
+    "Remove fillets and set aside to rest for 2 minutes.",
+    "Add remaining 1 tbsp olive oil to the skillet and toss toasted coconut flakes until lightly toasted, about 1 minute.",
+    "Add chopped pickled turnips to the skillet and sauté for 2 minutes to warm through.",
+    "Return fish to the skillet, spoon some coconut and pickle mixture over each fillet, and cook for an additional minute to meld flavors.",
+    "Transfer to plates, sprinkle with fresh cilantro and mint, and serve immediately."
+  ],
+  "slug": "peppery-crispy-algerian-fish-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crispy-algerian-fish-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:13:06Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "pickle",
+    "primaryIngredient": "coconut flakes",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Fish",
+    "descriptor": "Peppery Crispy",
+    "dishForm": "Tagine"
+  }
+}
