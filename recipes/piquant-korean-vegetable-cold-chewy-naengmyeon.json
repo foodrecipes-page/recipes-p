@@ -1,0 +1,101 @@
+{
+  "title": "Piquant Korean Vegetable Cold Naengmyeon",
+  "description": "A refreshing, lacto-vegetarian cold naengmyeon dish featuring tomato juice and lacquer glaze.",
+  "cuisine": "Korean",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Naengmyeon (cold noodle) made from starch and water",
+      "amount": "200g"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "1L"
+    },
+    {
+      "name": "Tomato juice",
+      "amount": "120ml"
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lacquer glaze (optional)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Green onion",
+      "amount": "1/2 bunch"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2"
+    }
+  ],
+  "instructions": [
+    "Combine vegetable stock, tomato juice, gochujang, soy sauce, rice vinegar, and sugar in a large bowl.",
+    "Add naengmyeon to the bowl and toss to coat the noodles with the sauce.",
+    "Refrigerate for at least 2 hours to allow the flavors to meld.",
+    "Just before serving, drizzle lacquer glaze over the noodles if using.",
+    "Sprinkle sesame seeds and chopped green onion over the noodles.",
+    "Slice cucumber into thin rounds and serve alongside the noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cold",
+    "gluten-free",
+    "korean",
+    "lacto-vegetarian",
+    "naengmyeon",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "piquant-korean-vegetable-cold-chewy-naengmyeon",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-korean-vegetable-cold-chewy-naengmyeon",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:23:25Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "tomato juice",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "vegetable",
+    "descriptor": "Piquant",
+    "dishForm": "Cold-Chewy Naengmyeon"
+  }
+}
