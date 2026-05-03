@@ -1303,6 +1303,24 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-gooey-indian-baby-new-potatoes-curry",
+    "title": "Baby New Potato Curry with Garam Masala",
+    "tags": [
+      "indian-cuisine",
+      "curry",
+      "vegetarian-curry",
+      "vegan-curry",
+      "gluten-free-curry",
+      "new-potatoes",
+      "baby-potatoes",
+      "comfort-food",
+      "homestyle-curry"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-gooey-kenyan-fish-toast",
     "title": "Peppery Gooey Kenyan Fish Toast",
     "tags": [
