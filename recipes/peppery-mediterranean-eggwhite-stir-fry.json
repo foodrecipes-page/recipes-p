@@ -1,0 +1,89 @@
+{
+  "title": "Peppery Mediterranean Eggwhite Stir‑fry",
+  "description": "A quick, peppery, keto‑friendly dish that blends fresh veggies, zesty oregano, and gooey egg whites for a festive Mediterranean breakfast.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "egg whites",
+      "amount": "1 cup (approx. 2 large eggs)",
+      "notes": "whipped lightly with pinch of salt and pepper"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 teaspoon",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1/2 cup diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "2 tablespoons thinly sliced"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup raw"
+    },
+    {
+      "name": "sun‑dried tomatoes",
+      "amount": "2 tablespoons chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 tablespoon crumbled"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup sliced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a non‑stick skillet over medium heat.",
+    "Add the diced bell pepper and sliced onion; sauté 2–3 minutes until slightly softened.",
+    "Stir in the spinach and sun‑dried tomatoes; cook until the spinach wilts, about 1–2 minutes.",
+    "Whisk the egg whites together with a pinch of salt, pepper, oregano, and lemon zest.",
+    "Pour the whisked whites over the vegetables, allowing them to set on the skillet for 30 seconds.",
+    "Gently stir and fold the mixture, letting the whites cook until just set but still slightly gooey, about 2–3 minutes.",
+    "Remove from heat, sprinkle with crumbled feta and sliced olives, and serve immediately."
+  ],
+  "slug": "peppery-mediterranean-eggwhite-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-mediterranean-eggwhite-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:55:43Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "stir-fry",
+    "primaryIngredient": "egg white",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Eggwhite",
+    "descriptor": "Peppery",
+    "dishForm": "Stir-fry"
+  }
+}
