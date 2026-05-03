@@ -1,0 +1,89 @@
+{
+  "title": "Peppery Jamaican Chicken Stew",
+  "description": "A cozy, peppery stew featuring tender chicken, toasted pecans, and a vibrant deglaze, all crafted to be low-sodium-friendly.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs, bone-in, skinless",
+      "amount": "800 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Yellow onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red bell pepper, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fresh ginger, minced",
+      "amount": "1 inch"
+    },
+    {
+      "name": "Jamaican seasoning blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Low-sodium chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Pecan nuts, toasted",
+      "amount": "1/2 cup",
+      "notes": "toast in a dry pan until fragrant"
+    },
+    {
+      "name": "Thyme leaves",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh cilantro, chopped for garnish",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Marinate the chicken thighs with the Jamaican seasoning blend and lime juice for 10 minutes.",
+    "Heat olive oil in an oven-safe skillet or Dutch oven over medium-high heat and sear the chicken until browned on both sides, about 3-4 minutes per side; remove and set aside.",
+    "Add diced onion, bell pepper, minced garlic, and ginger to the same skillet; sauté until softened, about 5 minutes.",
+    "Deglaze with a splash of low-sodium chicken broth, scraping up browned bits; add the remaining broth and bring to a gentle simmer.",
+    "Return the chicken to the skillet, cover, and transfer to the preheated oven; bake for 25 minutes until the chicken is fully cooked.",
+    "Meanwhile, toast the pecan nuts in a dry pan until fragrant, about 3-4 minutes; add them to the stew during the last 5 minutes of baking.",
+    "Remove the stew from the oven, sprinkle with thyme leaves, and stir.",
+    "Serve hot over coconut rice or cassava mash, garnished with fresh cilantro; adjust seasoning with pepper or lime as desired."
+  ],
+  "slug": "peppery-jamaican-chicken-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-jamaican-chicken-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:08:59Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "deglaze",
+    "primaryIngredient": "pecan nuts",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Peppery",
+    "dishForm": "Stew"
+  }
+}
