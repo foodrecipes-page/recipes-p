@@ -1415,6 +1415,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-mediterranean-peppery-potatoes-bake",
+    "title": "Peppery Mediterranean Potatoes Bake",
+    "tags": [
+      "peppery",
+      "potato",
+      "bake",
+      "mediterranean",
+      "date-night",
+      "low-sodium"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-mexican-beef-stir-fry",
     "title": "Peppery Mexican Beef Stir-fry",
     "tags": [

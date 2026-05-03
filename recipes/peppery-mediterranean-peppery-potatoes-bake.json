@@ -1,0 +1,96 @@
+{
+  "title": "Peppery Mediterranean Potatoes Bake",
+  "description": "A flaky, peppery potato bake with fresh Mediterranean flavors, perfect for a low-sodium date-night dinner.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yukon gold potatoes",
+      "amount": "2 large (about 500g)",
+      "notes": "Rinse and peel"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red pepper",
+      "amount": "1 small (about 50g)",
+      "notes": "Diced"
+    },
+    {
+      "name": "Capers",
+      "amount": "2 tbsp",
+      ": ": "",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp",
+      "notes": "Fresh oregano can be used instead"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "For flavor; low-sodium salt optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Cut potatoes into 1.5cm cubes and toss with 1 tbsp olive oil, garlic, red pepper, and dried oregano.",
+    "Season with salt and black pepper to taste.",
+    "Spread potatoes in a single layer in a baking dish and bake for 30 minutes until tender and golden.",
+    "Serve warm with a sprinkle of capers."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "potato",
+    "bake",
+    "mediterranean",
+    "date-night",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "peppery-mediterranean-peppery-potatoes-bake",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-mediterranean-peppery-potatoes-bake",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T06:15:38Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "bake",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "potatoes",
+    "descriptor": "Peppery",
+    "dishForm": "Bake"
+  }
+}
