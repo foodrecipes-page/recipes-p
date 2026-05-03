@@ -1,0 +1,139 @@
+{
+  "title": "Peppery Crispy Brazilian Beans Stew",
+  "description": "A comforting, peppery stew of black beans simmered with aromatic spices and topped with a crispy chickpea and cashew garnish for an extra crunch.",
+  "cuisine": "brazilian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "black beans, cooked",
+      "amount": "400g (1.5 cups)",
+      "notes": "use canned or pre-cooked beans"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium",
+      "notes": "roughly 115g"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3",
+      "notes": "about 9g"
+    },
+    {
+      "name": "red bell pepper, diced",
+      "amount": "1 medium",
+      "notes": "about 120g"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "for depth of flavor"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "400g (14 oz)",
+      "notes": "with juice"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup (240ml)",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "soy sauce or tamari",
+      "amount": "1 tbsp",
+      "notes": "adds umami"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper, freshly ground",
+      "amount": "1 tsp",
+      "notes": "peppery kick"
+    },
+    {
+      "name": "star anise, whole",
+      "amount": "2",
+      "notes": "infuse aroma"
+    },
+    {
+      "name": "cooked chickpeas, drained",
+      "amount": "1/2 cup (90g)",
+      "notes": "to be toasted"
+    },
+    {
+      "name": "cashews, toasted",
+      "amount": "2 tbsp (15g)",
+      "notes": "for crunch"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp olive oil in a large pot over medium heat. Add diced onion and garlic, sauté until fragrant and translucent, about 3 minutes.",
+    "Stir in diced red bell pepper, tomato paste, and smoked paprika, cooking for another 2 minutes.",
+    "Add the black beans, canned diced tomatoes with their juices, vegetable broth, soy sauce, cumin, coriander, black pepper, and star anise. Bring to a gentle simmer.",
+    "Reduce heat to low, cover, and let the stew simmer for 15 minutes to meld flavors.",
+    "While the stew simmers, toast the chickpeas in a dry skillet over medium heat with 1 tsp olive oil, salt, and a pinch of cayenne until golden and crisp, about 5-7 minutes.",
+    "In a small bowl, toss the cashews with 1 tsp olive oil and a pinch of salt. Toast in the skillet until fragrant, about 3 minutes.",
+    "Once the stew is hot and the flavors are well blended, remove the star anise and adjust seasoning with salt if needed.",
+    "Serve the stew in bowls, topping each serving with toasted chickpeas and cashews for a satisfying crunch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "brazilian",
+    "beans",
+    "stew",
+    "lazy-sunday",
+    "peppery",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 1065,
+    "protein": 33,
+    "carbs": 96,
+    "fat": 35
+  },
+  "slug": "peppery-crispy-brazilian-beans-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crispy-brazilian-beans-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:18:45Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "simmer",
+    "primaryIngredient": "star anise",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "beans",
+    "descriptor": "Peppery Crispy",
+    "dishForm": "Stew"
+  }
+}

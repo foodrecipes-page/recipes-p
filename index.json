@@ -683,6 +683,22 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-crispy-brazilian-beans-stew",
+    "title": "Peppery Crispy Brazilian Beans Stew",
+    "tags": [
+      "vegan",
+      "brazilian",
+      "beans",
+      "stew",
+      "lazy-sunday",
+      "peppery",
+      "crispy"
+    ],
+    "cuisine": "brazilian",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crispy-brazilian-soybeans-stir-fry",
     "title": "Peppery Crispy Brazilian Soybeans Stir-fry",
     "tags": [
