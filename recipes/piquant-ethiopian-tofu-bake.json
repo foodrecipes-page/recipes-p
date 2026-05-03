@@ -1,0 +1,107 @@
+{
+  "title": "Piquant Ethiopian Tofu Bake",
+  "description": "A resinous, springy Ethiopian dish featuring silken tofu, bake, and a hint of spice, perfect for a morning pick-me-up or a weeknight meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "fodmap-friendly",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "400g",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "berbere spice mix",
+      "amount": "2 tablespoons",
+      "notes": " store-bought or homemade"
+    },
+    {
+      "name": "niter kibbeh",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian clarified butter or substitute with neutral oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a blender or food processor, combine onion, garlic, ginger, and red bell pepper, and blend until smooth.",
+    "In a large skillet, heat the niter kibbeh over medium heat.",
+    "Add the blended mixture and cook, stirring occasionally, until the vegetables are softened and the mixture is fragrant, about 5 minutes.",
+    "Add the berbere spice mix and cook for 1 minute, stirring constantly.",
+    "Add the crumbled tofu and cook, stirring occasionally, until the tofu is coated in the spice mixture and lightly browned, about 5 minutes.",
+    "Transfer the mixture to a 9x13-inch baking dish.",
+    "Sprinkle salt to taste, and garnish with chopped cilantro if desired.",
+    "Bake for 25 minutes, or until the top is lightly browned and the tofu is set.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian-cuisine",
+    "fodmap-friendly",
+    "high-protein",
+    "one-pan",
+    "vegetarian-options",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 16,
+    "fat": 14
+  },
+  "slug": "piquant-ethiopian-tofu-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-ethiopian-tofu-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:19:36Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "hangover-cure",
+    "technique": "bake",
+    "primaryIngredient": "silken tofu",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Piquant",
+    "dishForm": "Bake"
+  }
+}

@@ -3453,6 +3453,21 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-ethiopian-tofu-bake",
+    "title": "Piquant Ethiopian Tofu Bake",
+    "tags": [
+      "ethiopian-cuisine",
+      "fodmap-friendly",
+      "high-protein",
+      "one-pan",
+      "vegetarian-options",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-turkish-cauliflower-flatbread",
     "title": "Piquant Turkish Cauliflower Flatbread",
     "tags": [
@@ -3553,6 +3568,19 @@
     ],
     "cuisine": "Philippine",
     "totalTimeMin": null,
+    "shard": "p"
+  },
+  {
+    "slug": "plush-vietnamese-stilton-pho",
+    "title": "Plush Vietnamese Stilton Pho",
+    "tags": [
+      "date-night",
+      "easy",
+      "lacto-vegetarian",
+      "pho"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 15,
     "shard": "p"
   },
   {

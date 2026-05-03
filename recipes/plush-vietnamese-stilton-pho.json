@@ -1,0 +1,114 @@
+{
+  "title": "Plush Vietnamese Stilton Pho",
+  "description": "A velvety, sweet Vietnamese pho infused with creamy Stilton and wok‑hei aromatics, perfect for a romantic date night.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegetable broth",
+      "amount": "1200ml",
+      "notes": "use low sodium"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "30ml",
+      "notes": "prefer Asian-style"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "10g",
+      "notes": "adjust sweetness"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "200g",
+      "notes": "pre‑boil before adding"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "100g",
+      "notes": "use fresh or dried"
+    },
+    {
+      "name": "bok choy",
+      "amount": "150g",
+      "notes": "use baby bok choy for tenderness"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "100g",
+      "notes": "fresh, rinse well"
+    },
+    {
+      "name": "stilton cheese",
+      "amount": "50g",
+      "notes": "shred or crumble"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "2",
+      "notes": "for serving"
+    },
+    {
+      "name": "cilantro",
+      "amount": "15g",
+      "notes": "roughly chopped"
+    },
+    {
+      "name": "star anise",
+      "amount": "1",
+      "notes": "adds aroma"
+    },
+    {
+      "name": "ginger",
+      "amount": "10g",
+      "notes": "grated or sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable broth in a large pot until it simmers.",
+    "Add soy sauce, tamarind paste, sliced shiitake mushrooms, star anise, ginger, and a pinch of sugar; let the aromatics infuse for 5 minutes, creating wok‑hei.",
+    "Stir in sliced bok choy and cook until just wilted, about 2 minutes.",
+    "Add rice noodles and simmer until tender, about 3 minutes.",
+    "During the last minute, add fresh bean sprouts and stir in shredded stilton cheese until it melts into the broth.",
+    "Turn off the heat, ladle the pho into bowls, and garnish with lime wedges and chopped cilantro."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "easy",
+    "lacto-vegetarian",
+    "pho"
+  ],
+  "nutrition": {
+    "calories": 1120,
+    "protein": 34,
+    "carbs": 170,
+    "fat": 19
+  },
+  "slug": "plush-vietnamese-stilton-pho",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/plush-vietnamese-stilton-pho",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:20:13Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "wok-hei",
+    "primaryIngredient": "stilton cheese",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Stilton",
+    "descriptor": "Plush",
+    "dishForm": "Pho"
+  }
+}
