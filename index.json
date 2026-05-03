@@ -826,6 +826,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-dense-german-pork-stew",
+    "title": "Peppery Dense German Pork Stew",
+    "tags": [
+      "german-cuisine",
+      "pork-recipes",
+      "comfort-food",
+      "winter-dishes",
+      "stew-recipes"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 110,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-dense-german-smoked-salmon-stir-fry",
     "title": "Peppery Dense German Smoked Salmon Stir-fry",
     "tags": [
