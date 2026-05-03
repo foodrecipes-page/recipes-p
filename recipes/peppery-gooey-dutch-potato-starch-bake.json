@@ -1,0 +1,83 @@
+{
+  "title": "Peppery Gooey Dutch Potato Starch Bake",
+  "description": "An energizing dutch dish featuring potato starch with a peppery twist for a keto-friendly option.",
+  "cuisine": "dutch",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 tablespoons coconut oil",
+      "amount": "tbsp",
+      "notes": "for greasing and browning"
+    },
+    {
+      "name": "1 cup finely grated Dutch potato starch",
+      "amount": "cup",
+      "notes": "ensure it's the starchy variety, not flour"
+    },
+    {
+      "name": "1/2 teaspoon cayenne pepper",
+      "amount": "",
+      "notes": "adjust to taste for heat level"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup finely chopped fresh herbs (like parsley or cilantro)",
+      "amount": "cup",
+      "notes": "for extra flavor and color"
+    },
+    {
+      "name": "2 eggs, beaten",
+      "amount": "",
+      "notes": "binds ingredients together for a gooey texture"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Grease a baking dish with coconut oil.",
+    "Combine potato starch, cayenne pepper, and black pepper in a mixing bowl. Add the beaten eggs and chopped herbs. Mix well until fully incorporated.",
+    "Pour the mixture into the greased baking dish. Smooth out to create an even layer. Bake for 20 minutes or until golden brown on top.",
+    "Remove from oven and let it cool slightly before serving. Serve warm with a side of guacamole or salsa as desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "goozy",
+    "dutch",
+    "potato-starch",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 2.5,
+    "carbs": 6,
+    "fat": 4
+  },
+  "slug": "peppery-gooey-dutch-potato-starch-bake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-gooey-dutch-potato-starch-bake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T17:25:19Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "bake",
+    "primaryIngredient": "potato starch",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "potato starch",
+    "descriptor": "peppery gooey",
+    "dishForm": "Bake"
+  }
+}

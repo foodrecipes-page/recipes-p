@@ -1,0 +1,120 @@
+{
+  "title": "Peppery Flaky Kenyan Shrimp Biryani",
+  "description": "A flavorful and aromatic Kenyan dish featuring succulent shrimp, caramelized onions, and a hint of pepper, perfect for a cozy dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": "long-grain rice"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-inch piece",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion, ginger, and garlic; sauté until onion is caramelized.",
+    "Add cumin powder, coriander powder, turmeric powder, and red chili powder; sauté for 1 minute.",
+    "Add shrimp; cook until pink, about 2-3 minutes per side.",
+    "Add Basmati rice; stir to coat with spices and oil.",
+    "Add 2 cups water; bring to a boil.",
+    "Reduce heat to low; cover and simmer for 18-20 minutes.",
+    "Fluff with a fork; garnish with cilantro and black pepper.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "biryani",
+    "shrimp",
+    "peppery",
+    "flaky",
+    "cozy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "peppery-flaky-kenyan-shrimp-biryani",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-flaky-kenyan-shrimp-biryani",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:24:36Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "caramelize",
+    "primaryIngredient": "shrimp",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "shrimp",
+    "descriptor": "peppery flaky",
+    "dishForm": "Biryani"
+  }
+}

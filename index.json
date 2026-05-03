@@ -1006,6 +1006,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-flaky-kenyan-shrimp-biryani",
+    "title": "Peppery Flaky Kenyan Shrimp Biryani",
+    "tags": [
+      "kenyan",
+      "biryani",
+      "shrimp",
+      "peppery",
+      "flaky",
+      "cozy"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-flaky-korean-veal-stir-fry",
     "title": "Peppery Flaky Korean Veal Stir-fry",
     "tags": [
@@ -1159,6 +1174,20 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-gooey-dutch-potato-starch-bake",
+    "title": "Peppery Gooey Dutch Potato Starch Bake",
+    "tags": [
+      "peppery",
+      "goozy",
+      "dutch",
+      "potato-starch",
+      "bake"
+    ],
+    "cuisine": "dutch",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
