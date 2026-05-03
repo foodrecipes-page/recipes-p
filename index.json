@@ -832,6 +832,23 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-crispy-polish-potato-salad",
+    "title": "Peppery Crispy Polish Potato Salad",
+    "tags": [
+      "peppery",
+      "crispy",
+      "festive",
+      "polish",
+      "low-fat",
+      "stilton",
+      "bhuna",
+      "potato-salad"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crispy-pumpkin-croissant",
     "title": "Peppery Crispy Pumpkin Croissant",
     "tags": [

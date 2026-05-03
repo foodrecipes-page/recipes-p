@@ -1,0 +1,122 @@
+{
+  "title": "Peppery Crispy Polish Potato Salad",
+  "description": "A festive, low‑fat Polish potato salad with a peppery bhuna kick and creamy Stilton dressing, perfect for holidays or gatherings.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "800 g",
+      "notes": "peeled, diced"
+    },
+    {
+      "name": "Low‑fat Stilton cheese",
+      "amount": "100 g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Low‑fat Greek yogurt",
+      "amount": "150 g",
+      "notes": "unsweetened, plain"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Black pepper, freshly ground",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Red onion, finely diced",
+      "amount": "1 small"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt, low‑sodium",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Mustard, Dijon",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Place diced potatoes in a large pot and cover with cold water.",
+    "2. Bring to a boil, then reduce heat and simmer for 10 minutes until tender but not mushy.",
+    "3. Drain the potatoes and transfer them to a bowl of ice water to stop cooking; let them cool.",
+    "4. While the potatoes cool, heat 1 tbsp olive oil in a small pan over medium heat.",
+    "5. Add black pepper, smoked paprika, cumin, and oregano to the oil; sauté for 1–2 minutes until fragrant (bhuna style).",
+    "6. Remove the pepper mixture from heat and let it cool slightly.",
+    "7. In a large mixing bowl, combine low‑fat yogurt, Dijon mustard, lemon juice, and a pinch of salt.",
+    "8. Add the cooled potatoes, sautéed pepper mixture, chopped parsley, and diced red onion to the bowl.",
+    "9. Gently fold in crumbled low‑fat Stilton cheese until evenly distributed.",
+    "10. Taste the salad and adjust seasoning if needed; refrigerate 30 minutes before serving to allow flavors to meld."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crispy",
+    "festive",
+    "polish",
+    "low-fat",
+    "stilton",
+    "bhuna",
+    "potato-salad"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "peppery-crispy-polish-potato-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crispy-polish-potato-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:26:29Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "bhuna",
+    "primaryIngredient": "stilton cheese",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "potato",
+    "descriptor": "Peppery Crispy",
+    "dishForm": "Salad"
+  }
+}
