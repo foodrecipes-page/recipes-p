@@ -1172,6 +1172,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-dense-moroccan-corn-tagine",
+    "title": "Peppery Dense Moroccan Corn Tagine",
+    "tags": [
+      "moroccan",
+      "cornmeal",
+      "tagine",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 55,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-dutch-cheese-flatbread",
     "title": "Peppery Dutch Cheese Flatbread",
     "tags": [
