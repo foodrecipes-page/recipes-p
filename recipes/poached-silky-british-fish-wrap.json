@@ -1,0 +1,99 @@
+{
+  "title": "Poached Silky British Fish Wrap",
+  "description": "Buttery, silky poached cod rolled in egg‑free puff pastry for a quick, British‑style wrap that’s both indulgent and easy to make.",
+  "cuisine": "British",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fillets (lean white fish)",
+      "amount": "200g"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Egg‑free puff pastry sheets",
+      "amount": "2 squares",
+      "notes": "Use a vegan pastry to keep the dish egg‑free"
+    },
+    {
+      "name": "Fresh dill, chopped",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Capers",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegan cream cheese",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Prepare the poaching liquid by combining water, butter, lemon juice, and a pinch of salt in a shallow pan; bring to a gentle simmer.",
+    "Place the cod fillet in the liquid, cover, and let it poach for 4–5 minutes until opaque.",
+    "While the fish poaches, preheat the oven to 200 °C (400 °F). Cut puff pastry squares, brush lightly with olive oil, and bake for 8–10 minutes until puffed and golden.",
+    "Remove the fish from the liquid with a slotted spoon, press gently to remove excess liquid, and allow to cool slightly.",
+    "Flake the poached fish with a fork, discarding skin and bones.",
+    "In a bowl, mix the flaked fish, vegan cream cheese, dill, capers, and a splash of lemon juice; season to taste.",
+    "Lay a puff pastry square on a flat surface and spoon a generous amount of the fish mixture into the center.",
+    "Fold the corners over to seal the roll, using a little water at the edges if needed to help it stick.",
+    "Place the wrapped fish on a baking sheet and bake for 4–5 minutes until the pastry is crisp; let cool for a minute before slicing in half to serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "fish-wrapped",
+    "poached",
+    "egg-free-friendly",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 1005,
+    "protein": 47,
+    "carbs": 41,
+    "fat": 63
+  },
+  "slug": "poached-silky-british-fish-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/poached-silky-british-fish-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:22:38Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "poach",
+    "primaryIngredient": "egg rolls",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Fish",
+    "descriptor": "Poached Silky",
+    "dishForm": "Wrap"
+  }
+}
