@@ -1,0 +1,124 @@
+{
+  "title": "Peppery Gooey Thai Skirt Steak Skillet",
+  "description": "A juicy, pepper‑laden skirt steak seared in a creamy coconut‑soy glaze, finished with a splash of lime and fresh herbs for a brunch‑ready skillet dish.",
+  "cuisine": "Thai",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "skirt steak",
+      "amount": "500 g",
+      "notes": "cut into 2‑cm slices"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "crushed black peppercorns",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tamari (gluten‑free soy sauce)",
+      "amount": "1/4 cup (60 ml)",
+      "notes": "use halal‑certified"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "halal‑approved"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup (120 ml)"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 tbsp (for slurry)",
+      "notes": "to mix with cornstarch"
+    },
+    {
+      "name": "Thai basil, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cilantro, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Season the steak slices with salt and crushed peppercorns.",
+    "Heat a large skillet over medium‑high heat and add the vegetable oil.",
+    "Sear the steak for 2‑3 minutes per side until a dark crust forms; remove and set aside.",
+    "In the same skillet, add garlic, ginger, and a pinch of chili flakes, sauté for 30 seconds until fragrant.",
+    "Pour in tamari, fish sauce, lime juice, and brown sugar; stir and let it simmer for 1 minute to deglaze the pan.",
+    "Add coconut milk and bring to a gentle simmer.",
+    "Whisk the cornstarch with water to create a slurry, then pour it into the skillet, stirring until the sauce thickens and becomes glossy (about 2 minutes).",
+    "Return the steak to the skillet, tossing to coat in the sauce; cook for an additional 2‑3 minutes until the steak reaches your desired doneness (recommended 140‑150°F for medium‑rare).",
+    "Stir in chopped basil and cilantro, removing from heat.",
+    "Serve hot, garnished with extra basil, on toasted bread or over steamed jasmine rice. Enjoy a peppery, gooey brunch dish!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "skillet",
+    "brunch",
+    "halal-friendly",
+    "peppery",
+    "gourmet"
+  ],
+  "nutrition": {
+    "calories": 1080,
+    "protein": 65,
+    "carbs": 12,
+    "fat": 72
+  },
+  "slug": "peppery-gooey-thai-skirt-steak-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-gooey-thai-skirt-steak-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:12:22Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "deglaze",
+    "primaryIngredient": "skirty steak",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "skirt steak",
+    "descriptor": "Peppery Gooey",
+    "dishForm": "Skillet"
+  }
+}
