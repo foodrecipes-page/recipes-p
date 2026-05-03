@@ -1,0 +1,112 @@
+{
+  "title": "Pillowy Turkish Iceberg Lettuce Kuru Fasulye",
+  "description": "A romantic, umami-packed keto twist on traditional Turkish bean stew, served in crisp iceberg lettuce cups for a pillowy, low-carb experience.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "iceberg lettuce heads",
+      "amount": "200g",
+      "notes": "washed and separated into leaves"
+    },
+    {
+      "name": "dried black beans (kuru fasulye)",
+      "amount": "100g",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely diced"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable broth, low sodium",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse and separate iceberg lettuce leaves, set aside.",
+    "Drain soaked black beans and transfer to a saucepan.",
+    "Heat olive oil over medium heat, sauté onion and garlic until translucent.",
+    "Stir in tomato paste, paprika, cumin, and oregano, cooking for 2 minutes until fragrant.",
+    "Add beans and vegetable broth, bring to a simmer, cover, and let bubble for 40 minutes, stirring occasionally.",
+    "After beans reach a soft, creamy consistency, season with salt, pepper, and lemon juice.",
+    "Fold in butter until melted and the sauce thickens to a bhuna-like depth.",
+    "Spoon the warm bean mixture into iceberg lettuce cups, ensuring each leaf is generously filled.",
+    "Garnish with chopped parsley, serve immediately, and enjoy the romantic Turkish flare."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bhuna",
+    "keto-friendly",
+    "lettuce",
+    "low-carb",
+    "romantic",
+    "stew",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 16,
+    "carbs": 12,
+    "fat": 12
+  },
+  "slug": "pillowy-turkish-iceberg-lettuce-kuru-fasulye",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-turkish-iceberg-lettuce-kuru-fasulye",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:42:30Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "bhuna",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Iceberg Lettuce",
+    "descriptor": "Pillowy",
+    "dishForm": "Kuru Fasulye"
+  }
+}
