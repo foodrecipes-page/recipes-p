@@ -1691,6 +1691,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-indulgent-jamaican-pork-stew",
+    "title": "Peppery Indulgent Jamaican Pork Stew",
+    "tags": [
+      "jamaican",
+      "paleo-friendly",
+      "indulgent",
+      "peppery",
+      "stew"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 105,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-irish-cheese-flatbread",
     "title": "Peppery Irish Cheese Flatbread",
     "tags": [

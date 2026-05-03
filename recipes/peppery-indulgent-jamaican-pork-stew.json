@@ -1,0 +1,107 @@
+{
+  "title": "Peppery Indulgent Jamaican Pork Stew",
+  "description": "A rich, pepper‑laden stew featuring whole black peppercorns, sweet coconut milk, and tender pork shoulder.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "paleo",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder, bone‑in, diced",
+      "amount": "1.5 lb (680 g)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "yellow onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "4"
+    },
+    {
+      "name": "scotch bonnet pepper, seeded and diced",
+      "amount": "1"
+    },
+    {
+      "name": "fresh thyme, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "allspice berries, crushed",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk, full‑fat",
+      "amount": "1 cup (240 ml)"
+    },
+    {
+      "name": "paleo chicken broth",
+      "amount": "2 cups (480 ml)"
+    },
+    {
+      "name": "whole black peppercorns",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a heavy‑bottom pot over medium heat.",
+    "Brown the diced pork shoulder in batches for 2‑3 minutes per side, then transfer to a plate.",
+    "Add the diced onion, minced garlic, and diced scotch bonnet pepper to the pot and sauté until the onion turns translucent.",
+    "Stir in the chopped thyme, crushed allspice, palm sugar, and tomato paste, cooking for 1 minute to bloom the spices.",
+    "Pour in the coconut milk, chicken broth, and whole black peppercorns; whisk gently to combine.",
+    "Return the browned pork to the pot, bring the mixture to a gentle boil, then reduce the heat to low and simmer, partially covered, for 90 minutes or until the pork is fork‑tender.",
+    "Remove the lid in the final 10‑15 minutes to reduce the liquid to a thick, velvety consistency.",
+    "Taste and season with salt to your preference; serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "paleo-friendly",
+    "indulgent",
+    "peppery",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 283,
+    "protein": 13,
+    "carbs": 9,
+    "fat": 21
+  },
+  "slug": "peppery-indulgent-jamaican-pork-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-indulgent-jamaican-pork-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:44:56Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "whisk",
+    "primaryIngredient": "whole black peppercorns",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Pork",
+    "descriptor": "Peppery Indulgent",
+    "dishForm": "Stew"
+  }
+}
