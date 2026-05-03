@@ -1,0 +1,102 @@
+{
+  "title": "Peppery Croatian Spinach Pancakes",
+  "description": "Fluffy, pepper‑infused pancakes stuffed with sautéed spinach and herbs, a low‑calorie Croatian‑inspired date‑night dish.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup (120 g)",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "low‑fat milk",
+      "amount": "1 cup (240 ml)",
+      "notes": ""
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon (13.5 g)",
+      "notes": "plus extra for cooking"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "200 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "2 tablespoons (20 g)",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine flour, baking powder, and salt in a medium bowl.",
+    "Whisk milk, egg, and 1 tablespoon olive oil together, then pour into the dry ingredients; stir until just combined.",
+    "Heat a non‑stick skillet over medium heat and lightly brush with olive oil.",
+    "Add chopped spinach, garlic, paprika, chili flakes, and oregano to the skillet; sauté 2–3 minutes until wilted, then set aside.",
+    "Pour 1/4 cup of batter onto the skillet for each pancake, then spoon a tablespoon of the sautéed spinach mixture onto the center of each.",
+    "Fold the edges of the pancake over the filling and press gently to seal.",
+    "Cook until bubbles form on the surface, about 2–3 minutes, then flip and cook the other side until golden, about 1–2 minutes.",
+    "Sprinkle grated Parmesan over the pancakes before the final flip, if using.",
+    "Serve hot, optionally drizzled with a light squeeze of lemon or a drizzle of olive oil.",
+    "Repeat with remaining batter and filling until all are cooked."
+  ],
+  "slug": "peppery-croatian-spinach-pancakes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-croatian-spinach-pancakes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:29:37Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "fold",
+    "primaryIngredient": "seasoning",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "spinach",
+    "descriptor": "Peppery",
+    "dishForm": "Pancakes"
+  }
+}
