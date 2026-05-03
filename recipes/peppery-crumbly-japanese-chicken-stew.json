@@ -1,0 +1,114 @@
+{
+  "title": "Peppery Crumbly Japanese Chicken Stew",
+  "description": "A hearty slow‑cooked chicken stew with a peppery kick and a crumbly texture from toasted sesame seeds and miso.",
+  "cuisine": "Japanese",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "500 g"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "fresh grated"
+    },
+    {
+      "name": "white miso paste",
+      "amount": "1 tbsp",
+      "notes": "milder flavor"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "low‑sodium"
+    },
+    {
+      "name": "sriracha",
+      "amount": "1 tsp",
+      "notes": "adjust for heat"
+    },
+    {
+      "name": "dashi stock",
+      "amount": "300 ml"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a heavy‑bottom pot over medium heat.",
+    "Add sliced onion and sauté until translucent, about 5 minutes.",
+    "Stir in minced garlic and grated ginger, cooking for 1 minute until fragrant.",
+    "Add cubed chicken breast, seasoning with a pinch of salt, and cook until lightly browned on all sides.",
+    "Stir in miso paste, soy sauce, and sriracha, coating the chicken and aromatics.",
+    "Pour in dashi stock and bring to a gentle simmer.",
+    "Reduce heat to low, cover, and let the stew slow cook for 90 minutes, stirring occasionally.",
+    "After cooking, stir in rice vinegar and sprinkle toasted sesame seeds.",
+    "Taste and adjust seasoning with salt if needed.",
+    "Serve hot, optionally over steamed rice or with miso ramen noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "peppery",
+    "crumbly",
+    "slow-cook",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 308,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 8
+  },
+  "slug": "peppery-crumbly-japanese-chicken-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crumbly-japanese-chicken-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:37:10Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "slow-cook",
+    "primaryIngredient": "chicken breast",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "Peppery Crumbly",
+    "dishForm": "Stew"
+  }
+}

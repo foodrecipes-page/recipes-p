@@ -892,6 +892,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-crumbly-japanese-chicken-stew",
+    "title": "Peppery Crumbly Japanese Chicken Stew",
+    "tags": [
+      "japanese",
+      "peppery",
+      "crumbly",
+      "slow-cook",
+      "lazy-sunday"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 105,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crumbly-mediterranean-linguine-stir-fry",
     "title": "Peppery Crumbly Mediterranean Linguine Stir-fry",
     "tags": [
