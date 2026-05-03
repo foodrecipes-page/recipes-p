@@ -1,0 +1,106 @@
+{
+  "title": "Peppery Gooey Mediterranean Feta Dumplings",
+  "description": "Hearty, veggie‑friendly dumplings bursting with peppery roasted red pepper, creamy feta, and a hint of sweet dark brown sugar, perfect for meal prep.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all‑purpose flour",
+      "amount": "250 g",
+      "notes": "sifted"
+    },
+    {
+      "name": "warm water",
+      "amount": "150 ml",
+      "notes": "around 40 °C"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "7 g (1 packet)",
+      "notes": "proofed in warm water with 1 tsp sugar"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "dark brown sugar",
+      "amount": "1 tbsp",
+      "notes": "for the sauce"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing and coating"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "200 g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "100 g",
+      "notes": "washed, roughly chopped"
+    },
+    {
+      "name": "roasted red pepper",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "pinch",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine warm water, yeast and 1 tsp sugar; let sit 5 minutes until foamy.",
+    "Whisk flour and salt in a large mixing bowl; create a well in the center and pour in the yeast mixture.",
+    "Knead by hand or using a stand mixer with dough hook for 8–10 minutes until smooth and elastic.",
+    "Cover the dough with a clean towel and let rise in a warm spot for 1 hour or until doubled in size.",
+    "While the dough rises, heat 1 tbsp olive oil in a skillet over medium heat; sauté minced garlic until fragrant (about 30 seconds).",
+    "Add diced roasted pepper, chopped spinach, and oregano; cook until spinach wilts, about 3 minutes.",
+    "Fold in crumbled feta and season with salt and pepper; cook for another minute, then remove from heat.",
+    "Turn the risen dough onto a lightly floured surface; divide into 8 equal portions and roll each into a ball.",
+    "Place the dough balls into a large pot of simmering salted water; cook for 20 minutes or until they float and are cooked through.",
+    "Drain the dumplings and transfer to a serving dish; drizzle with the remaining 1 tbsp olive oil, dark brown sugar, lemon juice, and a pinch of red pepper flakes for a sweet‑spicy finish. Serve warm or store in the fridge for meal prep."
+  ],
+  "slug": "peppery-gooey-mediterranean-feta-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-gooey-mediterranean-feta-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:24:43Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "dum",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Feta",
+    "descriptor": "Peppery Gooey",
+    "dishForm": "Dumplings"
+  }
+}
