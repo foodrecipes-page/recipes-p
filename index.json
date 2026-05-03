@@ -1805,6 +1805,22 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-turkish-pepper-biryani",
+    "title": "Peppery Turkish Pepper Biryani",
+    "tags": [
+      "turkish",
+      "peppery",
+      "biryani",
+      "vegan",
+      "pescatarian",
+      "fluffy",
+      "nostalgic"
+    ],
+    "cuisine": "turkish",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-ukrainian-beef-stir-fry",
     "title": "Peppery Ukrainian Beef Stir-fry",
     "tags": [

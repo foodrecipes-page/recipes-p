@@ -1,0 +1,91 @@
+{
+  "title": "Peppery Turkish Pepper Biryani",
+  "description": "A nostalgic Turkish dish featuring fluffy rice, peppery peppers, and a tangy white wine vinegar kick, perfect for pescatarian diets.",
+  "cuisine": "turkish",
+  "diet": [
+    "pescatarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "rinse thoroughly"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tbsp",
+      "notes": "for tang"
+    },
+    {
+      "name": "turkish pepper",
+      "amount": "1 tsp",
+      "notes": "freshly cracked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      ": ": "",
+      "notes": "for cooking"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "5 threads",
+      "notes": "steeped in warm water"
+    }
+  ],
+  "instructions": [
+    "Rinse 2 cups basmati rice under cold water until water runs clear.",
+    "Heat 2 tbsp olive oil in a medium pan over medium heat.",
+    "Add 1 tsp turkish pepper and sauté for 30 seconds until fragrant.",
+    "Toss in 1 medium red bell pepper (thinly sliced) and cook for 5 minutes.",
+    "Stir in 2 tbsp white wine vinegar and 5 saffron threads steeped in warm water.",
+    "Add rinsed rice and mix gently to coat with the sauce.",
+    "Cover with a tight-fitting lid and cook on low heat for 15 minutes.",
+    "Remove from heat, let sit for 5 minutes, then fluff with a fork."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "peppery",
+    "biryani",
+    "vegan",
+    "pescatarian",
+    "fluffy",
+    "nostalgic"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 5,
+    "carbs": 42,
+    "fat": 10
+  },
+  "slug": "peppery-turkish-pepper-biryani",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-turkish-pepper-biryani",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T06:40:30Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "temper",
+    "primaryIngredient": "white wine vinegar",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "pepper",
+    "descriptor": "peppery",
+    "dishForm": "Biryani"
+  }
+}
