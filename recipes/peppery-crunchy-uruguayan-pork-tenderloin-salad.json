@@ -1,0 +1,127 @@
+{
+  "title": "Peppery Crunchy Uruguayan Pork Tenderloin Salad",
+  "description": "A light, peppery salad featuring seared pork tenderloin, crisp veggies, and a zesty citrus dressing, inspired by Uruguayan flavors.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "500 g",
+      "notes": "trimmed and sliced into 1 cm strips"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "oregano",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red onion",
+      "amount": "¼ small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "julienned"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "½ large",
+      "notes": "sliced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "10",
+      "notes": "halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "½ large",
+      "notes": "sliced"
+    },
+    {
+      "name": "parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "¼ tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Season the pork strips with salt, pepper, smoked paprika, cumin, and oregano.",
+    "Heat 1 tbsp olive oil in a large skillet over medium-high heat and sear the pork for 2‑3 minutes per side until browned.",
+    "Add the remaining 1 tbsp olive oil, lemon zest, and a splash of lemon juice to the skillet, then pour in ½ cup water or broth.",
+    "Simmer the pork, covered, for 10–12 minutes or until the internal temperature reaches 145°F (63°C).",
+    "Remove the pork from the pan and let it rest for 5 minutes before slicing it into thin strips.",
+    "In a large bowl combine the sliced pork, red onion, carrot, bell pepper, tomatoes, cucumber, parsley, and cilantro.",
+    "Whisk together the dressing: 3 tbsp olive oil, 1 tbsp red wine vinegar, 1 tsp honey, lemon juice, salt, pepper, and optional crushed red pepper flakes.",
+    "Pour the dressing over the salad and toss gently to coat.",
+    "Taste and adjust seasoning if needed.",
+    "Serve immediately on a bed of mixed greens or with crusty bread if desired."
+  ],
+  "slug": "peppery-crunchy-uruguayan-pork-tenderloin-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crunchy-uruguayan-pork-tenderloin-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:26:48Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "simmer",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Pork Tenderloin",
+    "descriptor": "Peppery Crunchy",
+    "dishForm": "Salad"
+  }
+}
