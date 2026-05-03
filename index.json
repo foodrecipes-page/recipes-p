@@ -758,6 +758,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-croatian-pork-crustacean",
+    "title": "Peppery Croatian Pork Crustacean",
+    "tags": [
+      "peppery",
+      "crumbly",
+      "energizing",
+      "croatian",
+      "pescatarian-friendly"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crumbly-australian-horseradish-crumble",
     "title": "Peppery Crumbly Australian Horseradish Crumble",
     "tags": [

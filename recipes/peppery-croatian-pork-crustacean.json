@@ -1,0 +1,93 @@
+{
+  "title": "Peppery Croatian Pork Crustacean",
+  "description": "This energizing croatian dish combines white wine vinegar with pork and crustacean alternatives for a savory and tangy twist.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork loin",
+      "amount": "100g",
+      "notes": "chopped into small cubes"
+    },
+    {
+      "name": "crustacean alternative (such as mushrooms or tofu)",
+      "amount": "200g",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": "to add a tangy flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons",
+      "notes": "for cooking and dressing"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 pieces",
+      "notes": "minced for flavor"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "to add a peppery kick"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "handful",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat.",
+    "Add minced garlic and cook until fragrant, about 1 minute.",
+    "Add pork cubes and crustacean slices to the pan. Cook until they start to brown, around 5 minutes.",
+    "Pour in white wine vinegar and red pepper flakes. Stir well to combine with the ingredients, reducing heat if needed to prevent burning.",
+    "Season with salt according to taste, then cook for an additional minute or two until everything is heated through.",
+    "Remove from heat and garnish with fresh parsley before serving as a snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crumbly",
+    "energizing",
+    "croatian",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "peppery-croatian-pork-crustacean",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-croatian-pork-crustacean",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T18:14:15Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "fold",
+    "primaryIngredient": "white wine vinegar",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork",
+    "descriptor": "Peppery",
+    "dishForm": "Crustacean"
+  }
+}
