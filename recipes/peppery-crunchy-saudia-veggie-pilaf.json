@@ -1,0 +1,64 @@
+{
+  "title": "Peppery Crunchy Saudia Veggie Pilaf",
+  "description": "A lazy-sunday dish featuring chopped chive, a peppery and crunchy mix that's perfect for snacking or as a side dish.",
+  "cuisine": "Saudia (Middle Eastern)",
+  "diet": [
+    "vegetarian",
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chopped chive",
+      "amount": "1 cup",
+      "notes": "use fresh, raw"
+    },
+    {
+      "name": "raw-friendly herbs (cilantro or parsley)",
+      "amount": "1 tablespoon",
+      "notes": "dried if necessary"
+    }
+  ],
+  "instructions": [
+    "Rinse and chop the chive into fine pieces.",
+    "Add chopped chive to a mixing bowl, then add the raw-friendly herbs, mix well until evenly distributed.",
+    "Season with black pepper to taste.",
+    "Serve immediately or store in an air-tight container for up to 2 days."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "saudia",
+    "veggie",
+    "pilaf",
+    "peppery",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 30,
+    "protein": 2,
+    "carbs": 7,
+    "fat": 0
+  },
+  "slug": "peppery-crunchy-saudia-veggie-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crunchy-saudia-veggie-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T17:05:49Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "knead",
+    "primaryIngredient": "chopped chive",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "veggie",
+    "descriptor": "Peppery Crunchy Lazy-Sunday",
+    "dishForm": "Pilaf"
+  }
+}

@@ -825,6 +825,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-crunchy-saudia-veggie-pilaf",
+    "title": "Peppery Crunchy Saudia Veggie Pilaf",
+    "tags": [
+      "saudia",
+      "veggie",
+      "pilaf",
+      "peppery",
+      "crunchy"
+    ],
+    "cuisine": "Saudia (Middle Eastern)",
+    "totalTimeMin": 5,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crunchy-vegetarian-cannellini-beans-stir-fry",
     "title": "Peppery Crunchy Vegetarian Cannellini Beans Stir-fry",
     "tags": [
