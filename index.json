@@ -869,6 +869,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-filipino-yoghurt-bowl",
+    "title": "Peppery Filipino Yoghurt Bowl",
+    "tags": [
+      "filipino",
+      "yoghurt",
+      "peppery",
+      "crumbly",
+      "solo",
+      "dinner"
+    ],
+    "cuisine": "filipino",
+    "totalTimeMin": 5,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-flaky-korean-veal-stir-fry",
     "title": "Peppery Flaky Korean Veal Stir-fry",
     "tags": [

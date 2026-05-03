@@ -1,0 +1,75 @@
+{
+  "title": "Peppery Filipino Yoghurt Bowl",
+  "description": "A simple, peppery Filipino-inspired dish featuring natural yoghurt with a crumbly texture, perfect for a sugar-free solo dinner.",
+  "cuisine": "filipino",
+  "diet": [
+    "sugar-free",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "natural yoghurt",
+      "amount": "200g",
+      "notes": "unsweetened, full-fat"
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "30g",
+      "notes": "finely sliced"
+    },
+    {
+      "name": "peppery chili paste",
+      "amount": "1 tsp",
+      "notes": "mild to medium heat, e.g., sambal oelek"
+    },
+    {
+      "name": "crumbled dried shrimp",
+      "amount": "10g",
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix natural yoghurt and chopped green onions until combined.",
+    "Add peppery chili paste and stir gently to distribute.",
+    "Top with crumbled dried shrimp for a salty, crumbly texture.",
+    "Serve immediately for best texture and flavor."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "yoghurt",
+    "peppery",
+    "crumbly",
+    "solo",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 12,
+    "fat": 5
+  },
+  "slug": "peppery-filipino-yoghurt-bowl",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-filipino-yoghurt-bowl",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T05:29:28Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "knead",
+    "primaryIngredient": "natural yoghurt",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "yoghurt",
+    "descriptor": "Peppery",
+    "dishForm": "Bowl"
+  }
+}
