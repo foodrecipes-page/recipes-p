@@ -1,0 +1,123 @@
+{
+  "title": "Peppery Norwegian Salmon Salad",
+  "description": "A dense, peppery salmon salad with vine leaves, cured salmon, and a zesty mustard dressing that’s sweet‑free and crowd‑pleasing.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "low-carb",
+    "sugar-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Salmon fillet (skin removed)",
+      "amount": "400 g",
+      "notes": "cut into 1 cm cubes"
+    },
+    {
+      "name": "Vine leaves (blanched)",
+      "amount": "10 leaves",
+      "notes": "trim stems"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Capers",
+      "amount": "30 g",
+      "notes": "rinsed"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "30 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra‑virgin"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "½ tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "¼ tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a bowl, whisk together olive oil, Dijon mustard, lemon juice, zest, sea salt, black pepper, and cayenne pepper to make the dressing.",
+    "2. Toss the cucumber, red onion, capers, dill, and vine leaves with the dressing until everything is evenly coated.",
+    "3. Gently fold in the salmon cubes, reserving a small handful for garnish.",
+    "4. Plate the salad on a chilled plate, garnish with the reserved salmon and extra dill if desired, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "salmon",
+    "vine-leaf",
+    "peppery",
+    "cured",
+    "sugar-free",
+    "dense",
+    "crowd-pleaser"
+  ],
+  "nutrition": {
+    "calories": 814,
+    "protein": 71,
+    "carbs": 3,
+    "fat": 55
+  },
+  "slug": "peppery-norwegian-salmon-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-norwegian-salmon-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:46:14Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "cure",
+    "primaryIngredient": "vine leaves",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "salmon",
+    "descriptor": "peppery",
+    "dishForm": "Salad"
+  }
+}
