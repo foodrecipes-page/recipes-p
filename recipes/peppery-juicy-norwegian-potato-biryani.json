@@ -1,0 +1,110 @@
+{
+  "title": "Peppery Juicy Norwegian Potato Biryani",
+  "description": "A hearty, peppery twist on classic biryani using Norwegian potatoes and dairy‑free ingredients, perfect for a lazy Sunday dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "500 g",
+      "notes": "peeled and diced into 1/2 inch cubes"
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "200 g",
+      "notes": "rinsed until water runs clear"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Biryani masala",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "400 ml",
+      "notes": "low‑sodium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat. Add the sliced onion and sauté until golden brown, about 5 minutes.",
+    "Stir in the minced garlic and grated ginger, cooking for 1 minute until fragrant.",
+    "Add the diced potatoes, biryani masala, and a pinch of salt; toss to coat the potatoes evenly.",
+    "Pour in the vegetable broth, bring to a gentle boil, then reduce to a simmer and cover. Cook the potatoes until just tender, about 10 minutes.",
+    "Meanwhile, rinse the basmati rice until the water runs clear. In a separate pot, bring 400 ml of water to a boil, add the rice, cover, and simmer for 12 minutes until cooked. Drain any excess water.",
+    "When the potatoes are tender, fluff them with a fork and stir in the cooked rice, mixing thoroughly.",
+    "Add the lemon juice and chopped cilantro, stirring to combine. Adjust seasoning with salt if needed.",
+    "Transfer the biryani to a serving dish and let it sit, covered, for 5 minutes to allow the flavors to meld.",
+    "Serve hot, optionally garnished with extra cilantro or a squeeze of lemon.",
+    "Enjoy a comforting, peppery Norwegian take on biryani!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "potato",
+    "biryani",
+    "vegan",
+    "dairy-free",
+    "comfort-food",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 1300,
+    "protein": 25,
+    "carbs": 240,
+    "fat": 15
+  },
+  "slug": "peppery-juicy-norwegian-potato-biryani",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-juicy-norwegian-potato-biryani",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:47:22Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "temper",
+    "primaryIngredient": "biryani masala",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Potato",
+    "descriptor": "Peppery Juicy",
+    "dishForm": "Biryani"
+  }
+}
