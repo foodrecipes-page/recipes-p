@@ -1,0 +1,116 @@
+{
+  "title": "Peppery Mediterranean Runner Bean Salad",
+  "description": "A quick, peppery, and tender runner bean salad that’s perfect for a weeknight Mediterranean dinner, made vegan and ready in an air fryer.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "runner beans",
+      "amount": "400 g",
+      "notes": "trimmed and washed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "200 g",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "50 g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1 tbsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tbsp",
+      "notes": "for dressing"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 200 °C (400 °F).",
+    "Pat the runner beans dry, trim the ends, and toss them in 1 tbsp olive oil, 1/2 tsp sea salt, 1/4 tsp black pepper, and 1 tsp red pepper flakes.",
+    "Place the seasoned beans in the air fryer basket in a single layer. Air‑fry for 10–12 minutes, shaking the basket halfway through, until tender and slightly crispy.",
+    "While the beans are cooking, combine the halved cherry tomatoes, sliced red onion, chopped parsley, and mint in a large bowl.",
+    "Drizzle 1 tbsp lemon juice and 1 tbsp extra virgin olive oil over the tomato mixture, toss gently, and season with a pinch of salt if desired.",
+    "When the beans are done, let them cool for a minute, then add them to the salad.",
+    "Add toasted pine nuts, stir everything gently to combine.",
+    "Taste and adjust seasoning with more salt, pepper, or lemon juice if needed.",
+    "Serve the salad warm, at room temperature, or chilled for a refreshing bite."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "air-fry",
+    "mediterranean",
+    "salad",
+    "weeknight",
+    "peppery",
+    "runner-bean",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 24,
+    "carbs": 69,
+    "fat": 7
+  },
+  "slug": "peppery-mediterranean-runner-bean-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-mediterranean-runner-bean-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:15:32Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "air-fry",
+    "primaryIngredient": "runner beans",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "runner beans",
+    "descriptor": "Peppery",
+    "dishForm": "Salad"
+  }
+}
