@@ -1132,6 +1132,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-greek-peaches-dish",
+    "title": "Peppery Greek Peach Salad",
+    "tags": [
+      "greek",
+      "peach",
+      "salad",
+      "peppery",
+      "vegan",
+      "dessert"
+    ],
+    "cuisine": "greek",
+    "totalTimeMin": 15,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-indian-cannellini-beans-stir-fry",
     "title": "Peppery Indian Cannellini Beans Stir-fry",
     "tags": [

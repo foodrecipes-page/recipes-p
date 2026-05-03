@@ -1,0 +1,83 @@
+{
+  "title": "Peppery Greek Peach Salad",
+  "description": "A vibrant, peppery salad featuring ripe peaches marinated in a tangy Greek dressing, perfect for a date-night dish that's vegan-friendly and velvety in texture.",
+  "cuisine": "greek",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peaches",
+      "amount": "1 cup (150g)",
+      "notes": "ripe, flesh is soft"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "for peppery kick"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "Wash and slice peaches into thin wedges.",
+    "In a bowl, combine olive oil, lemon juice, red pepper flakes, and mint.",
+    "Toss peaches with the dressing until evenly coated.",
+    "Let sit for 10 minutes to allow flavors to meld."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "peach",
+    "salad",
+    "peppery",
+    "vegan",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 195,
+    "protein": 1,
+    "carbs": 30,
+    "fat": 14
+  },
+  "slug": "peppery-greek-peaches-dish",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-greek-peaches-dish",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T01:14:04Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "marinate",
+    "primaryIngredient": "peaches",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "peaches",
+    "descriptor": "peppery",
+    "dishForm": "Dish"
+  }
+}
