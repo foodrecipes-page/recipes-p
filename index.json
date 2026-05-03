@@ -1709,6 +1709,23 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-juicy-slovakian-kielbasa-pierogi",
+    "title": "Peppery Juicy Slovakian Kielbasa Pierogi",
+    "tags": [
+      "low-carb",
+      "gluten-free",
+      "slovakian",
+      "kiebasa",
+      "pierogi",
+      "vanilla-custard",
+      "date-night",
+      "bacon"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-kenyan-citrus-stir-fry",
     "title": "Peppery Kenyan Citrus Stir-fry",
     "tags": [

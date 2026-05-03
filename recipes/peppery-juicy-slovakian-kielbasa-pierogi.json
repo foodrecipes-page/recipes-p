@@ -1,0 +1,115 @@
+{
+  "title": "Peppery Juicy Slovakian Kielbasa Pierogi",
+  "description": "Date-night Slovakian dish featuring juicy kielbasa, vanilla custard, and a hint of pepper. Perfect for low-carb diets.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kielbasa",
+      "amount": "1 pound",
+      "notes": "Polish-style, sliced"
+    },
+    {
+      "name": "Vanilla Custard",
+      "amount": "1 1/2 cups",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Pierogi Dough",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/4 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "2 tablespoons",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 teaspoon",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Carmelized Onions",
+      "amount": "1/4 cup",
+      "notes": "Homemade, for serving"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "For serving"
+    },
+    {
+      "name": "Ghee or Butter",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pierogi according to package instructions or until they float.",
+    "In a large skillet, cook the kielbasa over medium-high heat, browning on both sides and crisping the skin.",
+    "In a separate saucepan, heat the carmelized onions and sliced bacon over low heat until crispy.",
+    "Assemble the pierogi by placing a spoonful of the filling mixture onto a piece of dough, then sealing and boiling.",
+    "In a separate pan, melt the butter over medium heat and sauté the chopped fresh parsley until wilted.",
+    "Serve the pierogi hot, topped with vanilla custard, sour cream, carmelized onions, and crispy bacon.",
+    "Garnish with chopped fresh parsley and freshly ground black pepper, and serve immediately.",
+    "Prepare the ghee or butter for cooking, keeping it warm and ready to use.",
+    "Cook the pierogi dough according to package instructions and let it rest before assembling the pierogi.",
+    "Prepare the carmelized onions and sliced bacon in advance, letting them cool before storing them in an airtight container.",
+    "Prepare the vanilla custard according to package instructions, keeping it refrigerated until serving.",
+    "Prepare the pierogi filling mixture with kielbasa, carmelized onions, and sliced bacon before assembling the pierogi."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "low-carb",
+    "gluten-free",
+    "slovakian",
+    "kiebasa",
+    "pierogi",
+    "vanilla-custard",
+    "date-night",
+    "bacon"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 34,
+    "carbs": 25,
+    "fat": 64
+  },
+  "slug": "peppery-juicy-slovakian-kielbasa-pierogi",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-juicy-slovakian-kielbasa-pierogi",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:04:48Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "knead",
+    "primaryIngredient": "vanilla custard",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Kielbasa",
+    "descriptor": "Peppery Juicy",
+    "dishForm": "Pierogi"
+  }
+}
