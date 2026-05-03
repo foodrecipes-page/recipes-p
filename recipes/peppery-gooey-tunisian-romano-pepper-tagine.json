@@ -6,7 +6,7 @@
     "FODMAP-friendly",
     "gluten-free"
   ],
-  "meal": "brunch",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "Romano peppers",
@@ -53,7 +53,7 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 300°F (150°C).",
+    "Preheat the oven to 300\u00b0F (150\u00b0C).",
     "Cut the tops off the Romano peppers and remove the seeds and membranes.",
     "In a large bowl, whisk together olive oil, garlic-infused oil, cumin, smoked paprika, cayenne pepper, salt, and black pepper.",
     "Add the peppers to the bowl and toss to coat with the spice mixture.",

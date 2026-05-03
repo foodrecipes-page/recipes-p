@@ -48,7 +48,7 @@
   ],
   "instructions": [
     "Heat olive oil in a pan over medium heat.",
-    "Add chopped onion and minced garlic, sauté for about 3 minutes until softened.",
+    "Add chopped onion and minced garlic, saut\u00e9 for about 3 minutes until softened.",
     "Gradually add lamb mince to the pan, breaking it up with a wooden spoon.",
     "Season with red pepper flakes, salt, and freshly ground black pepper as desired. Stir occasionally for about 5-7 minutes or until the mixture turns brown.",
     "Remove from heat and add chopped basil leaves. Mix well to combine.",
@@ -69,9 +69,9 @@
   ],
   "nutrition": {
     "calories": 256,
-    "protein": 20.78,
-    "carbs": 4.83,
-    "fat": 10.9
+    "protein": 21,
+    "carbs": 5,
+    "fat": 11
   },
   "slug": "peppery-chewy-italian-lamb-stir-fry",
   "source": "ollama-qwen2.5:3b",

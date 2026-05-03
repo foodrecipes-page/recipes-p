@@ -1,6 +1,6 @@
 {
   "title": "Peppery Juicy Croatian Farfalle Pasta",
-  "description": "A vibrant, pepper-forward pasta dish packed with roasted tomatoes and garlic, perfect for a soothing meal when you’re feeling under the weather.",
+  "description": "A vibrant, pepper-forward pasta dish packed with roasted tomatoes and garlic, perfect for a soothing meal when youre feeling under the weather.",
   "cuisine": "Croatian",
   "diet": [
     "low-carb-friendly"
@@ -10,12 +10,12 @@
     {
       "name": "farfalle pasta (low-carb)",
       "amount": "200g",
-      "notes": "use shirataki or coconut‑based pasta to keep carbs low"
+      "notes": "use shirataki or coconut\u2011based pasta to keep carbs low"
     },
     {
       "name": "skinless chicken breast",
       "amount": "200g",
-      "notes": "cut into bite‑sized strips"
+      "notes": "cut into bite\u2011sized strips"
     },
     {
       "name": "cherry tomatoes",
@@ -53,11 +53,11 @@
       "amount": "to taste"
     },
     {
-      "name": "low‑sodium chicken broth",
+      "name": "low\u2011sodium chicken broth",
       "amount": "1/2 cup"
     },
     {
-      "name": "tomato purée",
+      "name": "tomato pur\u00e9e",
       "amount": "2 tbsp"
     },
     {
@@ -67,16 +67,16 @@
     }
   ],
   "instructions": [
-    "Heat 1 tbsp of olive oil in a large skillet over medium‑high heat.",
-    "Add the sliced chicken and season with salt, pepper, smoked paprika, and oregano; cook for 5–6 minutes until lightly browned and cooked through.",
+    "Heat 1 tbsp of olive oil in a large skillet over medium\u2011high heat.",
+    "Add the sliced chicken and season with salt, pepper, smoked paprika, and oregano; cook for 5\u20136 minutes until lightly browned and cooked through.",
     "Remove the chicken from the skillet and set aside.",
-    "In the same skillet, add the minced garlic and sliced bell pepper; sauté for 2 minutes until fragrant and peppers start to soften.",
-    "Add the halved cherry tomatoes and cook for another 3–4 minutes until they burst and release juices.",
-    "Return the chicken to the skillet, pour in the chicken broth and tomato purée, and stir to combine.",
+    "In the same skillet, add the minced garlic and sliced bell pepper; saut\u00e9 for 2 minutes until fragrant and peppers start to soften.",
+    "Add the halved cherry tomatoes and cook for another 3\u20134 minutes until they burst and release juices.",
+    "Return the chicken to the skillet, pour in the chicken broth and tomato pur\u00e9e, and stir to combine.",
     "Bring the mixture to a gentle simmer, then reduce heat to low and let it cook for 5 minutes so flavors meld.",
     "Meanwhile, cook the farfalle pasta according to the package instructions until al dente; drain and reserve a little pasta water.",
-    "Add the cooked pasta to the skillet, tossing to coat with the tomato‑pepper sauce; add a splash of reserved pasta water if needed to loosen the sauce.",
-    "Serve hot, garnished with chopped fresh parsley. Enjoy a comforting, peppery dish that’s gentle on the stomach."
+    "Add the cooked pasta to the skillet, tossing to coat with the tomato\u2011pepper sauce; add a splash of reserved pasta water if needed to loosen the sauce.",
+    "Serve hot, garnished with chopped fresh parsley. Enjoy a comforting, peppery dish that\u2019s gentle on the stomach."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,

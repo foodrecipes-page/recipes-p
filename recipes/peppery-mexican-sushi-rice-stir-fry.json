@@ -1,7 +1,7 @@
 {
   "title": "Peppery Mexican Sushi Rice Stir-fry",
   "description": "This dish combines the savory flavors of Norteno cuisine with crisp textures and a peppery kick to create a meal-prep friendly rice stir-fry, perfect for breakfast or lunch.",
-  "cuisine": "Mexican (Norteño)",
+  "cuisine": "Mexican (Norteno)",
   "diet": [
     "fodmap-friendly"
   ],
@@ -64,7 +64,7 @@
   "difficulty": "easy",
   "tags": [
     "peppery-mexican-sushi-rice-stir-fry",
-    "norteño-cuisine",
+    "norteno-cuisine",
     "crisp-texture",
     "meal-prep-friendly",
     "fodmap-friendly"
@@ -87,7 +87,7 @@
     "technique": "boil",
     "primaryIngredient": "sushi rice",
     "diet": "fodmap",
-    "region": "norteño",
+    "region": "norte\u00f1o",
     "cuisineAdjective": "Mexican",
     "mainIngredient": "Sushi Rice",
     "descriptor": "Peppery",

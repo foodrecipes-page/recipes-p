@@ -1,6 +1,6 @@
 {
   "title": "Peppery Crispy Slovakian Cod Stir-fry",
-  "description": "A light, peppery stir-fry featuring flaky cod fillets and sweet sultanas, perfect for a low‑calorie Slovakian-inspired dinner.",
+  "description": "A light, peppery stir-fry featuring flaky cod fillets and sweet sultanas, perfect for a lowcalorie Slovakian-inspired dinner.",
   "cuisine": "Slovak",
   "diet": [
     "pescatarian"
@@ -15,10 +15,10 @@
     {
       "name": "olive oil",
       "amount": "1 tbsp",
-      "notes": "for sautéing"
+      "notes": "for saut\u00e9ing"
     },
     {
-      "name": "low‑sodium soy sauce",
+      "name": "low\u2011sodium soy sauce",
       "amount": "1 tbsp",
       "notes": "adds umami"
     },
@@ -64,10 +64,10 @@
     }
   ],
   "instructions": [
-    "Wash the cod fillets and pat them dry. Cut into bite‑sized cubes.",
-    "Heat the olive oil in a large non‑stick skillet over medium heat.",
-    "Add the sliced onion, bell pepper, and minced garlic; sauté for 3‑4 minutes until softened.",
-    "Increase the heat to high and add the cod cubes, seasoning with smoked paprika, chili flakes, salt, and pepper. Stir‑fry for 5‑6 minutes, turning occasionally, until the fish is opaque and flaky.",
+    "Wash the cod fillets and pat them dry. Cut into bite\u2011sized cubes.",
+    "Heat the olive oil in a large non\u2011stick skillet over medium heat.",
+    "Add the sliced onion, bell pepper, and minced garlic; saut\u00e9 for 3\u20114 minutes until softened.",
+    "Increase the heat to high and add the cod cubes, seasoning with smoked paprika, chili flakes, salt, and pepper. Stir\u2011fry for 5\u20116 minutes, turning occasionally, until the fish is opaque and flaky.",
     "Pour in the soy sauce and quickly toss to coat the cod and vegetables evenly.",
     "Add the sultanas and cook for another minute, just long enough to warm them through.",
     "Finish by squeezing the lemon juice over the dish and stirring in chopped parsley.",
@@ -90,5 +90,20 @@
     "mainIngredient": "cod",
     "descriptor": "Peppery Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "slovak",
+    "dinner"
+  ]
 }

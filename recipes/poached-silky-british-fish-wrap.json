@@ -1,6 +1,6 @@
 {
   "title": "Poached Silky British Fish Wrap",
-  "description": "Buttery, silky poached cod rolled in egg‑free puff pastry for a quick, British‑style wrap that’s both indulgent and easy to make.",
+  "description": "Buttery, silky poached cod rolled in eggfree puff pastry for a quick, Britishstyle wrap thats both indulgent and easy to make.",
   "cuisine": "British",
   "diet": [
     "pescatarian"
@@ -32,9 +32,9 @@
       "amount": "1 tbsp"
     },
     {
-      "name": "Egg‑free puff pastry sheets",
+      "name": "Egg\u2011free puff pastry sheets",
       "amount": "2 squares",
-      "notes": "Use a vegan pastry to keep the dish egg‑free"
+      "notes": "Use a vegan pastry to keep the dish egg\u2011free"
     },
     {
       "name": "Fresh dill, chopped",
@@ -51,14 +51,14 @@
   ],
   "instructions": [
     "Prepare the poaching liquid by combining water, butter, lemon juice, and a pinch of salt in a shallow pan; bring to a gentle simmer.",
-    "Place the cod fillet in the liquid, cover, and let it poach for 4–5 minutes until opaque.",
-    "While the fish poaches, preheat the oven to 200 °C (400 °F). Cut puff pastry squares, brush lightly with olive oil, and bake for 8–10 minutes until puffed and golden.",
+    "Place the cod fillet in the liquid, cover, and let it poach for 4\u20135 minutes until opaque.",
+    "While the fish poaches, preheat the oven to 200\u202f\u00b0C (400\u202f\u00b0F). Cut puff pastry squares, brush lightly with olive oil, and bake for 8\u201310 minutes until puffed and golden.",
     "Remove the fish from the liquid with a slotted spoon, press gently to remove excess liquid, and allow to cool slightly.",
     "Flake the poached fish with a fork, discarding skin and bones.",
     "In a bowl, mix the flaked fish, vegan cream cheese, dill, capers, and a splash of lemon juice; season to taste.",
     "Lay a puff pastry square on a flat surface and spoon a generous amount of the fish mixture into the center.",
     "Fold the corners over to seal the roll, using a little water at the edges if needed to help it stick.",
-    "Place the wrapped fish on a baking sheet and bake for 4–5 minutes until the pastry is crisp; let cool for a minute before slicing in half to serve."
+    "Place the wrapped fish on a baking sheet and bake for 4\u20135 minutes until the pastry is crisp; let cool for a minute before slicing in half to serve."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,

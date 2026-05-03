@@ -3,7 +3,7 @@
   "description": "A mediterranean-inspired dish featuring pul biber (fermented walnuts) infused with the richness of sous-vide cooking for a unique and flavorful twist on traditional tabbouleh.",
   "cuisine": "Turkish",
   "diet": null,
-  "meal": "salad",
+  "meal": "lunch",
   "ingredients": [
     {
       "name": "1 cup bulgur",
@@ -63,7 +63,7 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "pul biber",
+    "pul-biber",
     "sous-vide",
     "tabbouleh"
   ],

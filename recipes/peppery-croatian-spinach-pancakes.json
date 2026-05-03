@@ -1,6 +1,6 @@
 {
   "title": "Peppery Croatian Spinach Pancakes",
-  "description": "Fluffy, pepper‑infused pancakes stuffed with sautéed spinach and herbs, a low‑calorie Croatian‑inspired date‑night dish.",
+  "description": "Fluffy, pepperinfused pancakes stuffed with sauteed spinach and herbs, a lowcalorie Croatianinspired datenight dish.",
   "cuisine": "Croatian",
   "diet": [
     "vegetarian",
@@ -24,7 +24,7 @@
       "notes": "optional"
     },
     {
-      "name": "low‑fat milk",
+      "name": "low\u2011fat milk",
       "amount": "1 cup (240 ml)",
       "notes": ""
     },
@@ -72,11 +72,11 @@
   "instructions": [
     "Combine flour, baking powder, and salt in a medium bowl.",
     "Whisk milk, egg, and 1 tablespoon olive oil together, then pour into the dry ingredients; stir until just combined.",
-    "Heat a non‑stick skillet over medium heat and lightly brush with olive oil.",
-    "Add chopped spinach, garlic, paprika, chili flakes, and oregano to the skillet; sauté 2–3 minutes until wilted, then set aside.",
-    "Pour 1/4 cup of batter onto the skillet for each pancake, then spoon a tablespoon of the sautéed spinach mixture onto the center of each.",
+    "Heat a non\u2011stick skillet over medium heat and lightly brush with olive oil.",
+    "Add chopped spinach, garlic, paprika, chili flakes, and oregano to the skillet; saut\u00e9 2\u20133 minutes until wilted, then set aside.",
+    "Pour 1/4 cup of batter onto the skillet for each pancake, then spoon a tablespoon of the saut\u00e9ed spinach mixture onto the center of each.",
     "Fold the edges of the pancake over the filling and press gently to seal.",
-    "Cook until bubbles form on the surface, about 2–3 minutes, then flip and cook the other side until golden, about 1–2 minutes.",
+    "Cook until bubbles form on the surface, about 2\u20133 minutes, then flip and cook the other side until golden, about 1\u20132 minutes.",
     "Sprinkle grated Parmesan over the pancakes before the final flip, if using.",
     "Serve hot, optionally drizzled with a light squeeze of lemon or a drizzle of olive oil.",
     "Repeat with remaining batter and filling until all are cooked."
@@ -98,5 +98,20 @@
     "mainIngredient": "spinach",
     "descriptor": "Peppery",
     "dishForm": "Pancakes"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "croatian",
+    "dinner"
+  ]
 }

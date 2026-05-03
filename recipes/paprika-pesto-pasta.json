@@ -39,11 +39,11 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 180°C (350°F).",
+    "Preheat oven to 180\u00b0C (350\u00b0F).",
     "Bring a large pot of salted water to boil.",
     "Cook pappardelle pasta according to package instructions until al dente.",
-    "Meanwhile, finely chop garlic and onion. Sauté in olive oil for about 2 minutes.",
-    "Add chopped parsley to the sautéed vegetables, along with paprika powder, salt, and pepper. Mix well.",
+    "Meanwhile, finely chop garlic and onion. Saut\u00e9 in olive oil for about 2 minutes.",
+    "Add chopped parsley to the saut\u00e9ed vegetables, along with paprika powder, salt, and pepper. Mix well.",
     "Drain pasta and add it to the vegetable mixture. Toss until everything is evenly coated with the pesto sauce.",
     "Transfer pasta to a serving dish and serve hot."
   ],
@@ -53,9 +53,9 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "paprika pesto",
-    "italian pasta",
-    "slovakian cuisine"
+    "paprika-pesto",
+    "italian-pasta",
+    "slovakian-cuisine"
   ],
   "nutrition": {
     "calories": 410,

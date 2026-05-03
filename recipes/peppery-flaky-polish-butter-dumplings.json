@@ -1,6 +1,6 @@
 {
   "title": "Peppery Flaky Polish Butter Dumplings",
-  "description": "A lazy‑Sunday Polish comfort dish with soft, pepper‑tinged dumplings that puff up into flaky, buttery delights.",
+  "description": "A lazySunday Polish comfort dish with soft, peppertinged dumplings that puff up into flaky, buttery delights.",
   "cuisine": "Polish",
   "diet": [
     "vegetarian",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Water",
-      "amount": "240 ml (1 cup)",
+      "amount": "240\u202fml (1 cup)",
       "notes": "cold"
     },
     {
@@ -43,16 +43,16 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375 °F (190 °C).",
+    "Preheat oven to 375\u202f\u00b0F (190\u202f\u00b0C).",
     "Line a baking sheet with parchment paper or lightly grease it.",
     "In a large mixing bowl, whisk together the flour, salt, pepper, and baking powder (if using).",
     "Add the softened butter to the dry ingredients. Use your fingertips or a pastry cutter to rub the butter into the flour until the mixture resembles coarse crumbs.",
     "Gradually pour in the cold water, stirring with a fork until a dough forms. The dough should be slightly sticky but hold together when pressed.",
-    "Turn the dough out onto a lightly floured surface and knead gently, just until smooth. Do not over‑knead.",
-    "Divide the dough into 12 equal portions (~30 g each). On the floured surface, roll each portion into a small round (about 3–4 inches in diameter).",
-    "Place the dumplings on the prepared baking sheet, spacing them about 2 inches apart. If desired, lightly brush each dumpling with a little melted butter for extra shine.",
-    "Bake for 12–15 minutes, or until the tops are golden brown and the dumplings have puffed up into flaky layers. They should feel slightly firm but still tender inside.",
-    "Remove from the oven and let them rest for 1–2 minutes before serving.",
+    "Turn the dough out onto a lightly floured surface and knead gently, just until smooth. Do not over\u2011knead.",
+    "Divide the dough into 12 equal portions (~30\u202fg each). On the floured surface, roll each portion into a small round (about 3\u20134\u202finches in diameter).",
+    "Place the dumplings on the prepared baking sheet, spacing them about 2\u202finches apart. If desired, lightly brush each dumpling with a little melted butter for extra shine.",
+    "Bake for 12\u201315\u202fminutes, or until the tops are golden brown and the dumplings have puffed up into flaky layers. They should feel slightly firm but still tender inside.",
+    "Remove from the oven and let them rest for 1\u20132\u202fminutes before serving.",
     "Serve warm, optionally with a drizzle of melted butter or a light broth. Enjoy the peppery, buttery crispness of each flaky dumpling."
   ],
   "prepTimeMin": 10,

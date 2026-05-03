@@ -70,13 +70,13 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 400°F (200°C).",
+    "Preheat your oven to 400\u00b0F (200\u00b0C).",
     "In a small bowl, mix together chopped fresh oregano, thyme, garlic, salt, and crushed black pepper.",
     "Rub the spice mixture all over the flank steak, making sure to coat it evenly.",
     "Heat 1 tablespoon of olive oil in a large oven-safe skillet over medium-high heat.",
     "Sear the flank steak for 2-3 minutes per side, or until a nice crust forms.",
     "Transfer the skillet to the preheated oven and roast for 15 minutes.",
-    "After 15 minutes, reduce the oven temperature to 300°F (150°C) and continue roasting for an additional 20-25 minutes, or until the internal temperature reaches 130°F (54°C) for medium-rare.",
+    "After 15 minutes, reduce the oven temperature to 300\u00b0F (150\u00b0C) and continue roasting for an additional 20-25 minutes, or until the internal temperature reaches 130\u00b0F (54\u00b0C) for medium-rare.",
     "While the steak is roasting, prepare the chimichurri sauce according to the package instructions or your own recipe.",
     "Remove the steak from the oven and let it rest for 5-10 minutes before slicing it thinly against the grain.",
     "Serve the sliced steak with a spoonful of chimichurri sauce, garnished with chopped fresh rosemary and sliced red bell peppers.",
@@ -85,7 +85,7 @@
   "prepTimeMin": 15,
   "cookTimeMin": 35,
   "totalTimeMin": 50,
-  "servings": "4-6",
+  "servings": 5,
   "difficulty": "medium",
   "tags": [
     "argentinian",
@@ -97,9 +97,9 @@
   ],
   "nutrition": {
     "calories": 540,
-    "protein": "43g",
-    "carbs": "10g",
-    "fat": "36g"
+    "protein": 43,
+    "carbs": 10,
+    "fat": 36
   },
   "slug": "peppery-gooey-festive-argentinian-beef-roast",
   "source": "groq-llama-3.1-8b-instant",

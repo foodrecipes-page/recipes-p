@@ -6,7 +6,7 @@
     "high-protein",
     "low-carb"
   ],
-  "meal": "appetizer",
+  "meal": "snack",
   "ingredients": [
     {
       "name": "Protein of your choice (e.g., chicken, beef)",
@@ -41,7 +41,7 @@
   ],
   "instructions": [
     "Preheat grill to medium-high heat.",
-    "Prepare protein by lightly seasoning with salt, pepper, and a touch of olive oil. Grill until fully cooked through but not overcooked (internal temperature should be around 65-70°C).",
+    "Prepare protein by lightly seasoning with salt, pepper, and a touch of olive oil. Grill until fully cooked through but not overcooked (internal temperature should be around 65-70\u00b0C).",
     "Grate or thinly slice the cheddar cheese.",
     "In a large skillet, melt butter over medium heat. Add grated cheddar cheese and stir continuously to prevent burning. Cook for about 1 minute until cheese is melted but still slightly firm. Remove from heat immediately to avoid it becoming too soft or burnt.",
     "Once your protein is ready, place each piece on skewers. Drizzle olive oil over the top of each skewer to help keep them moist during grilling.",

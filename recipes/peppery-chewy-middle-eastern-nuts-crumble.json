@@ -47,7 +47,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350°F (175°C).",
+    "Preheat your oven to 350\u00b0F (175\u00b0C).",
     "Coarsely chop the nuts into small pieces.",
     "In a large bowl, mix together chopped nuts and salt until well combined. Add black pepper and garam masala, then stir in cayenne pepper if using.",
     "If using sugar, add it to the mixture along with 2 tablespoons of water or olive oil. Mix thoroughly until you achieve your desired consistency.",
@@ -68,9 +68,9 @@
   ],
   "nutrition": {
     "calories": 279,
-    "protein": 13.4,
-    "carbs": 8.1,
-    "fat": 15.6
+    "protein": 13,
+    "carbs": 8,
+    "fat": 16
   },
   "slug": "peppery-chewy-middle-eastern-nuts-crumble",
   "source": "ollama-qwen2.5:3b",

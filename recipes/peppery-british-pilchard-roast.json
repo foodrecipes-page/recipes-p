@@ -1,6 +1,6 @@
 {
   "title": "Peppery British Pilchard Roast",
-  "description": "A quick, peppery roast featuring whole pilchards, seasoned with black pepper and herbs, served with a splash of lemon‑mustard sauce.",
+  "description": "A quick, peppery roast featuring whole pilchards, seasoned with black pepper and herbs, served with a splash of lemonmustard sauce.",
   "cuisine": "British",
   "diet": [
     "kosher"
@@ -42,7 +42,7 @@
     },
     {
       "name": "salt",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "fresh parsley, chopped (optional garnish)",
@@ -50,12 +50,12 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 200°C (400°F) and line a roasting tray with parchment paper.",
+    "Preheat the oven to 200\u00b0C (400\u00b0F) and line a roasting tray with parchment paper.",
     "Drain the pilchards and set aside the reserved can oil.",
-    "Whisk together olive oil, reserved can oil, lemon juice, Dijon mustard, minced garlic, chopped thyme, black pepper, and salt to make the mustard‑lemon glaze.",
+    "Whisk together olive oil, reserved can oil, lemon juice, Dijon mustard, minced garlic, chopped thyme, black pepper, and salt to make the mustard\u2011lemon glaze.",
     "Pat the pilchards dry with paper towels and arrange them fillet side down on the tray.",
-    "Brush each pilchard fillet with the mustard‑lemon glaze and place a small knob of butter on top of each.",
-    "Roast in the preheated oven for 10–12 minutes, or until the tops are golden and the fish flakes easily.",
+    "Brush each pilchard fillet with the mustard\u2011lemon glaze and place a small knob of butter on top of each.",
+    "Roast in the preheated oven for 10\u201312 minutes, or until the tops are golden and the fish flakes easily.",
     "Remove from the oven, squeeze a little extra lemon juice over the fillets, and garnish with chopped parsley.",
     "Serve immediately, accompanied by a side of crisp roasted potatoes or a fresh green salad."
   ],
@@ -76,5 +76,20 @@
     "mainIngredient": "pilchard",
     "descriptor": "peppery",
     "dishForm": "roast"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "british",
+    "dinner"
+  ]
 }

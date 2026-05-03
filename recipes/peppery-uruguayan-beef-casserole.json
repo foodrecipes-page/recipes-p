@@ -1,6 +1,6 @@
 {
   "title": "Peppery Uruguayan Beef Casserole",
-  "description": "A hearty one‑pot casserole featuring tender beef slow‑cooked via sous‑vide, finished in the oven for a caramelized crust, and accented with peppery spices and a touch of white flour for thickening.",
+  "description": "A hearty onepot casserole featuring tender beef slowcooked via sousvide, finished in the oven for a caramelized crust, and accented with peppery spices and a touch of white flour for thickening.",
   "cuisine": "Uruguayan",
   "diet": null,
   "meal": "dinner",
@@ -8,7 +8,7 @@
     {
       "name": "beef chuck",
       "amount": "1.5 lb (680 g)",
-      "notes": "cut into 1‑inch cubes"
+      "notes": "cut into 1\u2011inch cubes"
     },
     {
       "name": "olive oil",
@@ -45,7 +45,7 @@
     },
     {
       "name": "white flour",
-      "amount": "¼ cup (32 g)",
+      "amount": "\u00bc cup (32 g)",
       "notes": "strong, for thickening"
     },
     {
@@ -87,15 +87,15 @@
     }
   ],
   "instructions": [
-    "Set your sous‑vide circulator to 135°F (57°C) and preheat.",
+    "Set your sous\u2011vide circulator to 135\u00b0F (57\u00b0C) and preheat.",
     "Season the beef cubes generously with salt and pepper.",
-    "Heat 2 tbsp olive oil in a large skillet over medium‑high heat and sear the beef in batches until browned on all sides; set aside.",
-    "In the same skillet, sauté onion, carrot, celery, and garlic until softened, about 5 minutes.",
-    "Transfer the browned beef, sautéed vegetables, diced tomato, beef broth, flour, cumin, paprika, oregano, bay leaves, vinegar, and Worcestershire sauce into a vacuum‑seal bag. Seal tightly.",
-    "Place the bag in the preheated sous‑vide bath and cook for 24 hours.",
+    "Heat 2 tbsp olive oil in a large skillet over medium\u2011high heat and sear the beef in batches until browned on all sides; set aside.",
+    "In the same skillet, saut\u00e9 onion, carrot, celery, and garlic until softened, about 5 minutes.",
+    "Transfer the browned beef, saut\u00e9ed vegetables, diced tomato, beef broth, flour, cumin, paprika, oregano, bay leaves, vinegar, and Worcestershire sauce into a vacuum\u2011seal bag. Seal tightly.",
+    "Place the bag in the preheated sous\u2011vide bath and cook for 24 hours.",
     "After 24 hours, remove the bag and carefully cut it open. Drain excess liquid, then pat the beef dry with paper towels.",
-    "Transfer the beef and vegetables to a large oven‑safe casserole dish, spreading them evenly.",
-    "Bake at 375°F (190°C) for 20 minutes, or until the top has caramelized and the liquid has thickened into a glaze.",
+    "Transfer the beef and vegetables to a large oven\u2011safe casserole dish, spreading them evenly.",
+    "Bake at 375\u00b0F (190\u00b0C) for 20 minutes, or until the top has caramelized and the liquid has thickened into a glaze.",
     "Remove from oven, sprinkle chopped parsley over the top, let rest 5 minutes, then serve hot."
   ],
   "prepTimeMin": 15,

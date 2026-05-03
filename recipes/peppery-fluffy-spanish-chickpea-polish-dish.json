@@ -43,7 +43,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 375°F (190°C).",
+    "Preheat your oven to 375\u00b0F (190\u00b0C).",
     "In a large mixing bowl, combine chicken stock and chickpeas.",
     "Add sweet smoked paprika, minced garlic, salt, black pepper, olive oil, sour cream, and fresh parsley. Mix well until all ingredients are evenly distributed.",
     "Transfer the mixture into an oven-safe baking dish. Bake for 30 minutes or until golden brown on top and heated through. Stir occasionally to ensure even cooking.",
@@ -65,9 +65,9 @@
   ],
   "nutrition": {
     "calories": 587,
-    "protein": 14.9,
-    "carbs": 30.8,
-    "fat": 26.2
+    "protein": 15,
+    "carbs": 31,
+    "fat": 26
   },
   "slug": "peppery-fluffy-spanish-chickpea-polish-dish",
   "source": "ollama-qwen2.5:3b",

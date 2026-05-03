@@ -84,9 +84,9 @@
   ],
   "nutrition": {
     "calories": 286,
-    "protein": 7.9,
-    "carbs": 34.5,
-    "fat": 14.7
+    "protein": 8,
+    "carbs": 34,
+    "fat": 15
   },
   "slug": "pickled-garlic-mediterranean-stir-fry",
   "source": "ollama-qwen2.5:3b",

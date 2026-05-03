@@ -5,7 +5,7 @@
   "diet": [
     "whole30"
   ],
-  "meal": "brunch",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "Ground Cinnamon",
@@ -14,7 +14,7 @@
     {
       "name": "Chicken Breast",
       "amount": "4 pieces",
-      "notes": "Thoroughly cooked to an internal temperature of at least 165°F (74°C)"
+      "notes": "Thoroughly cooked to an internal temperature of at least 165\u00b0F (74\u00b0C)"
     },
     {
       "name": "Avocado Oil",

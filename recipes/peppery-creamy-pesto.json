@@ -37,9 +37,9 @@
     }
   ],
   "instructions": [
-    "Preheat sous-vide to 60°C.",
+    "Preheat sous-vide to 60\u00b0C.",
     "Combine goats cheese, almond milk or cream, fresh basil leaves, pepper flakes, lemon juice, and nutritional yeast in a mixing bowl. Mix until smooth and creamy.",
-    "Transfer the mixture into a sous-vide bag with an airtight seal. Seal the vacuum and cook for about 30 minutes at 60°C.",
+    "Transfer the mixture into a sous-vide bag with an airtight seal. Seal the vacuum and cook for about 30 minutes at 60\u00b0C.",
     "Once cooked, remove from the bag and let it cool slightly before serving."
   ],
   "prepTimeMin": 15,
@@ -50,7 +50,7 @@
   "tags": [
     "peppery",
     "creamy",
-    "goats cheese",
+    "goats-cheese",
     "norwegian"
   ],
   "nutrition": {

@@ -97,9 +97,9 @@
   ],
   "nutrition": {
     "calories": 540,
-    "protein": "43g",
-    "carbs": "60g",
-    "fat": "22g"
+    "protein": 43,
+    "carbs": 60,
+    "fat": 22
   },
   "slug": "peppery-flaky-spanish-chicken-paella",
   "source": "groq-llama-3.1-8b-instant",

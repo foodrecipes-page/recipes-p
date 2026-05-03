@@ -48,12 +48,12 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "Season duck legs with salt and black pepper on both sides.",
     "Heat olive oil in a large skillet over medium-high heat. Add onion and cook until translucent, about 4 minutes.",
     "Add minced garlic and cook for another minute, stirring frequently to prevent burning.",
     "Place the duck legs in the skillet skin-side down. Pour enough water into the pan (about 2 cups) to cover half of the duck legs.",
-    "Bake in the preheated oven for about 30 minutes or until a meat thermometer inserted near the bone registers 165°F (74°C).",
+    "Bake in the preheated oven for about 30 minutes or until a meat thermometer inserted near the bone registers 165\u00b0F (74\u00b0C).",
     "Remove from heat and garnish with fresh thyme leaves and paprika. Serve hot as a main dish.",
     "prepTimeMin"
   ],
@@ -90,5 +90,6 @@
     "mainIngredient": "duck",
     "descriptor": "Peppery",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15
 }

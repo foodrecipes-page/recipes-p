@@ -30,7 +30,7 @@
   ],
   "instructions": [
     "Wash the plum tomatoes thoroughly and chop them into small pieces.",
-    "In a pan, heat the olive oil over medium heat. Add chopped plum tomatoes and sauté until they start to soften.",
+    "In a pan, heat the olive oil over medium heat. Add chopped plum tomatoes and saut\u00e9 until they start to soften.",
     "Pour in heavy cream and bring it to a simmer. Stir occasionally until the mixture reduces and thickens slightly.",
     "Season with salt if desired and remove from heat. Garnish with fresh basil leaves before serving.",
     "prepTimeMin: 10",
@@ -63,5 +63,10 @@
     "primaryIngredient": "plum tomatoes",
     "diet": "high-protein",
     "region": null
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium"
 }

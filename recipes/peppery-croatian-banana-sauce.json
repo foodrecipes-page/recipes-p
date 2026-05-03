@@ -43,7 +43,7 @@
     }
   ],
   "instructions": [
-    "Preheat your sous-vide machine to 78°C (172°F) and vacuum pack whole bananas. Let them cook for 5 hours.",
+    "Preheat your sous-vide machine to 78\u00b0C (172\u00b0F) and vacuum pack whole bananas. Let them cook for 5 hours.",
     "Once cooked, transfer the sous-vived bananas into a heatproof bowl, add sugar-free vanilla extract, unsweetened coconut flakes, and scrape in the seeds of a split vanilla bean pod.",
     "Whisk together caster sugar and butter until smooth, then gradually pour over banana mixture. Continue whisking to combine.",
     "Stir in cocoa powder, making sure it's well incorporated into the sauce.",
@@ -62,7 +62,7 @@
   ],
   "nutrition": {
     "calories": 286,
-    "protein": 3.5,
+    "protein": 4,
     "carbs": 40,
     "fat": 12
   },

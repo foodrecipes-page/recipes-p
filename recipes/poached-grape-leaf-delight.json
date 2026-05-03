@@ -29,7 +29,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "Wash grape leaves thoroughly and drain well.",
     "In a small saucepan, heat olive oil over medium heat.",
     "Add garlic, sea salt, and ground black pepper. Stir until combined.",
@@ -43,8 +43,8 @@
   "servings": 2,
   "difficulty": "easy",
   "tags": [
-    "poached_grape_leaf_delight",
-    "whole30_friendly_snack"
+    "poached-grape-leaf-delight",
+    "whole30-friendly-snack"
   ],
   "nutrition": {
     "calories": 75,

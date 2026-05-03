@@ -1,6 +1,6 @@
 {
   "title": "Peppery Tender Australian Almond Bowl",
-  "description": "A vibrant, pepper‑laden bowl featuring tandoor‑roasted chickpeas, tender quinoa, crisp greens, and a crunchy ground almond topping for an energising Australian twist.",
+  "description": "A vibrant, pepperladen bowl featuring tandoorroasted chickpeas, tender quinoa, crisp greens, and a crunchy ground almond topping for an energising Australian twist.",
   "cuisine": "Australian",
   "diet": [
     "vegetarian"
@@ -54,11 +54,11 @@
     },
     {
       "name": "Cucumber, sliced",
-      "amount": "½ cup (50g)"
+      "amount": "\u00bd cup (50g)"
     }
   ],
   "instructions": [
-    "Preheat your tandoor or oven to 200 °C (390 °F).",
+    "Preheat your tandoor or oven to 200\u202f\u00b0C (390\u202f\u00b0F).",
     "Toss the chickpeas with 1 tsp olive oil, 1 tsp tandoori spice mix, and a pinch of salt; spread them on a baking sheet.",
     "Roast the chickpeas in the tandoor for 15 minutes, turning once, until golden and slightly crispy.",
     "While the chickpeas roast, rinse the quinoa and cook it according to package instructions (about 15 minutes).",

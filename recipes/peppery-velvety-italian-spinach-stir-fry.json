@@ -3,7 +3,7 @@
   "description": "A hearty brunch dish with a tussan flair featuring coriander for added depth and freshness, ideal as an appetizer or side dish.",
   "cuisine": "tuscan",
   "diet": null,
-  "meal": "brunch",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "1 cup fresh spinach leaves",
@@ -36,7 +36,7 @@
   ],
   "instructions": [
     "Heat olive oil in a large skillet over medium-high heat.",
-    "Add minced garlic and sauté for about 1 minute until fragrant.",
+    "Add minced garlic and saut\u00e9 for about 1 minute until fragrant.",
     "Add spinach leaves, red pepper flakes, lemon juice, salt, and black pepper. Stir-fry for about 2-3 minutes or until the spinach is wilted but still slightly crisp.",
     "Stir in chopped cilantro and toss well to combine.",
     "Serve hot as a side dish or appetizer."

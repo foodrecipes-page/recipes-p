@@ -6,7 +6,7 @@
     "gluten-free",
     "fodmap-friendly"
   ],
-  "meal": "brunch",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "Duck legs",
@@ -62,7 +62,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 300°F (150°C).",
+    "Preheat oven to 300\u00b0F (150\u00b0C).",
     "Rinse the duck legs and pat them dry with paper towels.",
     "In a small bowl, mix together coriander seeds, cumin seeds, black peppercorns, and salt.",
     "Rub the spice mixture all over the duck legs, making sure to coat them evenly.",

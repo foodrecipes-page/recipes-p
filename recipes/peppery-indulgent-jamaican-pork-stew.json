@@ -1,6 +1,6 @@
 {
   "title": "Peppery Indulgent Jamaican Pork Stew",
-  "description": "A rich, pepper‑laden stew featuring whole black peppercorns, sweet coconut milk, and tender pork shoulder.",
+  "description": "A rich, pepperladen stew featuring whole black peppercorns, sweet coconut milk, and tender pork shoulder.",
   "cuisine": "Jamaican",
   "diet": [
     "paleo",
@@ -10,7 +10,7 @@
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "pork shoulder, bone‑in, diced",
+      "name": "pork shoulder, bone\u2011in, diced",
       "amount": "1.5 lb (680 g)"
     },
     {
@@ -46,7 +46,7 @@
       "amount": "2 tbsp"
     },
     {
-      "name": "coconut milk, full‑fat",
+      "name": "coconut milk, full\u2011fat",
       "amount": "1 cup (240 ml)"
     },
     {
@@ -59,13 +59,13 @@
     }
   ],
   "instructions": [
-    "Heat the olive oil in a heavy‑bottom pot over medium heat.",
-    "Brown the diced pork shoulder in batches for 2‑3 minutes per side, then transfer to a plate.",
-    "Add the diced onion, minced garlic, and diced scotch bonnet pepper to the pot and sauté until the onion turns translucent.",
+    "Heat the olive oil in a heavy\u2011bottom pot over medium heat.",
+    "Brown the diced pork shoulder in batches for 2\u20113 minutes per side, then transfer to a plate.",
+    "Add the diced onion, minced garlic, and diced scotch bonnet pepper to the pot and saut\u00e9 until the onion turns translucent.",
     "Stir in the chopped thyme, crushed allspice, palm sugar, and tomato paste, cooking for 1 minute to bloom the spices.",
     "Pour in the coconut milk, chicken broth, and whole black peppercorns; whisk gently to combine.",
-    "Return the browned pork to the pot, bring the mixture to a gentle boil, then reduce the heat to low and simmer, partially covered, for 90 minutes or until the pork is fork‑tender.",
-    "Remove the lid in the final 10‑15 minutes to reduce the liquid to a thick, velvety consistency.",
+    "Return the browned pork to the pot, bring the mixture to a gentle boil, then reduce the heat to low and simmer, partially covered, for 90 minutes or until the pork is fork\u2011tender.",
+    "Remove the lid in the final 10\u201115 minutes to reduce the liquid to a thick, velvety consistency.",
     "Taste and season with salt to your preference; serve hot."
   ],
   "prepTimeMin": 15,

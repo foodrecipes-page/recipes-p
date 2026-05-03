@@ -1,6 +1,6 @@
 {
   "title": "Peppery Gooey Portuguese Eggplant Casserole",
-  "description": "A comforting, protein-packed eggplant casserole with smoky peppers, chickpeas, and a luscious gooey cheese topping—perfect for a lazy Sunday.",
+  "description": "A comforting, protein-packed eggplant casserole with smoky peppers, chickpeas, and a luscious gooey cheese topping-perfect for a lazy Sunday.",
   "cuisine": "Portuguese",
   "diet": [
     "gluten-free"
@@ -48,7 +48,7 @@
       "amount": "1 tsp each"
     },
     {
-      "name": "Low‑fat milk",
+      "name": "Low\u2011fat milk",
       "amount": "200ml"
     },
     {
@@ -57,13 +57,13 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 190°C (375°F) and lightly grease a 23x33 cm baking dish with a splash of olive oil.",
+    "Preheat the oven to 190\u00b0C (375\u00b0F) and lightly grease a 23x33 cm baking dish with a splash of olive oil.",
     "In a large bowl, combine the diced eggplant, chopped bell peppers, diced onion, minced garlic, chickpeas, olive oil, tomato paste, and the seasoning mix. Toss until the vegetables are evenly coated.",
     "Spread the vegetable mixture in an even layer in the prepared baking dish.",
-    "In a small saucepan, gently warm the low‑fat milk, then stir in the shredded mozzarella and grated Parmesan until the mixture becomes smooth and creamy.",
+    "In a small saucepan, gently warm the low\u2011fat milk, then stir in the shredded mozzarella and grated Parmesan until the mixture becomes smooth and creamy.",
     "Pour the cheese sauce over the vegetable layer, spreading it evenly to cover the top.",
-    "Bake uncovered for 25–30 minutes, or until the top is golden brown and the vegetables are tender.",
-    "Remove from the oven and let rest for 5 minutes. Sprinkle with chopped parsley before serving."
+    "Bake uncovered for 25\u201330\u202fminutes, or until the top is golden brown and the vegetables are tender.",
+    "Remove from the oven and let rest for 5\u202fminutes. Sprinkle with chopped parsley before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,

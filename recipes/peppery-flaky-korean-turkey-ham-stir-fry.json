@@ -1,6 +1,6 @@
 {
-  "title": "Peppery Flaky Korean Turkey Ham Stir‑fry",
-  "description": "A quick, flavor-packed stir‑fry featuring tender turkey ham slices sautéed with soy, gochujang, and fresh veggies. The dish delivers a peppery kick and a satisfying flaky texture that showcases Korean cuisine in a kosher-friendly way.",
+  "title": "Peppery Flaky Korean Turkey Ham Stirfry",
+  "description": "A quick, flavor-packed stirfry featuring tender turkey ham slices sauteed with soy, gochujang, and fresh veggies. The dish delivers a peppery kick and a satisfying flaky texture that showcases Korean cuisine in a kosher-friendly way.",
   "cuisine": "Korean",
   "diet": [
     "kosher"
@@ -55,14 +55,14 @@
   ],
   "instructions": [
     "Heat a large skillet or wok over medium-high heat and add the sesame oil.",
-    "Add the minced garlic and sauté for 30 seconds until fragrant.",
+    "Add the minced garlic and saut\u00e9 for 30 seconds until fragrant.",
     "Introduce the turkey ham slices, spreading them in a single layer; let them sear for 2 minutes, then flip to create a flaky, slightly caramelized texture.",
     "Pour in the soy sauce, gochujang, and a splash of water, stirring to coat the ham and create a glossy sauce.",
-    "Add the sliced onion and bell pepper, cooking for another 3–4 minutes until the vegetables are tender but still crisp.",
+    "Add the sliced onion and bell pepper, cooking for another 3\u20134 minutes until the vegetables are tender but still crisp.",
     "Stir in the brown sugar to balance the heat, and adjust seasoning with extra soy sauce if needed.",
     "Fold in the chopped green onions, reserving a few for garnish.",
     "Remove the pan from heat, sprinkle with toasted sesame seeds, and give a final gentle toss.",
-    "Serve immediately over steamed rice or cauliflower rice for a low‑carb option."
+    "Serve immediately over steamed rice or cauliflower rice for a low\u2011carb option."
   ],
   "slug": "peppery-flaky-korean-turkey-ham-stir-fry",
   "source": "ocloud-gpt-oss:20b",
@@ -81,5 +81,20 @@
     "mainIngredient": "turkey ham",
     "descriptor": "Peppery Flaky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "korean",
+    "dinner"
+  ]
 }

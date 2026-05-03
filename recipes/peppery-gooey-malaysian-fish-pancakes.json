@@ -1,6 +1,6 @@
 {
   "title": "Peppery Gooey Malaysian Fish Pancakes",
-  "description": "A savory brunch‑mood fish pancake with rye flour, peppery broth, and a gooey cheese crust, diabetic‑friendly with low sugar and high fiber.",
+  "description": "A savory brunchmood fish pancake with rye flour, peppery broth, and a gooey cheese crust, diabeticfriendly with low sugar and high fiber.",
   "cuisine": "Malaysian",
   "diet": [
     "low-carb",
@@ -22,7 +22,7 @@
     },
     {
       "name": "Unsweetened almond milk",
-      "amount": "½ cup (120 ml)"
+      "amount": "\u00bd cup (120 ml)"
     },
     {
       "name": "Fresh tilapia fillets",
@@ -42,16 +42,16 @@
     },
     {
       "name": "Garlic powder",
-      "amount": "½ tsp (2.5 g)"
+      "amount": "\u00bd tsp (2.5 g)"
     },
     {
       "name": "Smoked paprika",
-      "amount": "½ tsp (2.5 g)"
+      "amount": "\u00bd tsp (2.5 g)"
     },
     {
       "name": "Reduced-fat cheddar cheese",
       "amount": "50 g, shredded",
-      "notes": "Use full‑fat for richer flavor"
+      "notes": "Use full\u2011fat for richer flavor"
     },
     {
       "name": "Butter",
@@ -63,12 +63,12 @@
     "In a medium bowl, whisk together rye flour, oat flour, ground black pepper, garlic powder, and smoked paprika until well combined.",
     "Add water and almond milk gradually, whisking until a smooth, pourable batter forms.",
     "Stir in the diced tilapia, fish sauce, lime juice, and half of the shredded cheese; let the mixture rest for 5 minutes.",
-    "Heat a non‑stick skillet over medium heat and lightly brush with butter.",
-    "Pour a ¼ cup of batter into the skillet, spreading it into a circle about 4 inches in diameter.",
-    "Sprinkle the remaining cheese evenly over the pancake and cook until the edges lift, about 2–3 minutes.",
+    "Heat a non\u2011stick skillet over medium heat and lightly brush with butter.",
+    "Pour a \u00bc cup of batter into the skillet, spreading it into a circle about 4 inches in diameter.",
+    "Sprinkle the remaining cheese evenly over the pancake and cook until the edges lift, about 2\u20133 minutes.",
     "Flip gently and cook the other side until golden and the cheese melts, another 2 minutes.",
     "Repeat with the remaining batter, adjusting heat as needed to avoid burning.",
-    "Serve hot, garnished with fresh cilantro if desired, with a side of low‑sugar lime dipping sauce."
+    "Serve hot, garnished with fresh cilantro if desired, with a side of low\u2011sugar lime dipping sauce."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,

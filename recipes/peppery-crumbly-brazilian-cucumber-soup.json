@@ -1,6 +1,6 @@
 {
   "title": "Peppery Crumbly Brazilian Cucumber Soup",
-  "description": "A smoky, peppered cucumber soup with a crumbly feta topping, simmered in a one‑pot Brazilian style.",
+  "description": "A smoky, peppered cucumber soup with a crumbly feta topping, simmered in a onepot Brazilian style.",
   "cuisine": "Brazilian",
   "diet": [
     "gluten-free"
@@ -31,11 +31,11 @@
     },
     {
       "name": "Cumin",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "Smoked paprika",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "Lime juice",
@@ -48,7 +48,7 @@
     },
     {
       "name": "Crumbled feta cheese",
-      "amount": "½ cup",
+      "amount": "\u00bd cup",
       "notes": "optional topping"
     },
     {
@@ -58,7 +58,7 @@
   ],
   "instructions": [
     "Heat olive oil in a large pot over medium heat.",
-    "Add sliced cucumber and sauté for 3–4 minutes until slightly softened.",
+    "Add sliced cucumber and saut\u00e9 for 3\u20134 minutes until slightly softened.",
     "Stir in cumin, smoked paprika, and black pepper; cook for 1 minute until fragrant.",
     "Pour in coconut milk and chicken broth; bring to a gentle simmer.",
     "Reduce heat to low, cover, and let soup simmer for 15 minutes to blend flavors.",
@@ -66,7 +66,7 @@
     "Return soup to the pot, add lime juice and season with salt to taste; warm through for 2 minutes.",
     "Ladle soup into bowls, then generously sprinkle crumbled feta cheese over the top.",
     "Garnish each bowl with chopped fresh cilantro.",
-    "Serve immediately with crusty gluten‑free bread or as a light lunch."
+    "Serve immediately with crusty gluten\u2011free bread or as a light lunch."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,

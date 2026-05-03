@@ -5,7 +5,7 @@
   "diet": [
     "paleo"
   ],
-  "meal": "appetizer",
+  "meal": "snack",
   "ingredients": [
     {
       "name": "King Prawns",
@@ -32,7 +32,7 @@
     "Clean and devein the prawns thoroughly.",
     "In a bowl, mix the lemon zest, saffron threads, fresh parsley, and avocado oil. Add prawns to the marinade and ensure they are well coated.",
     "Let it marinate for at least 30 minutes in the refrigerator.",
-    "Preheat your grill or frying pan to medium-high heat (around 165°F - 200°F).",
+    "Preheat your grill or frying pan to medium-high heat (around 165\u00b0F - 200\u00b0F).",
     "Gently place the prawns on the heated surface and cook for about 30 seconds per side, until golden brown.",
     "Serve immediately with a squeeze of fresh lemon juice."
   ],
@@ -44,7 +44,7 @@
   "tags": [
     "paleo",
     "citrus",
-    "king prawn",
+    "king-prawn",
     "appetizer"
   ],
   "nutrition": {

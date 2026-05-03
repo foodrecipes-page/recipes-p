@@ -55,7 +55,7 @@
   ],
   "instructions": [
     "Blend onion, garlic, capsicum, tomato into a smooth puree in a food processor.",
-    "In a pan, heat oil over medium-high heat. Add onion and sauté until translucent.",
+    "In a pan, heat oil over medium-high heat. Add onion and saut\u00e9 until translucent.",
     "Add the blended mixture to the pan with salt, red chili powder, and curry leaves. Mix well for 2-3 minutes.",
     "Fold in sliced capsicum into the gravy.",
     "Add fresh basil leaves along with a little water. Cover and let simmer for another 5 minutes.",
@@ -69,13 +69,13 @@
   "difficulty": "easy",
   "tags": [
     "paneer",
-    "taj mahal",
+    "taj-mahal",
     "vegetarian"
   ],
   "nutrition": {
     "calories": 298,
-    "protein": 14.6,
-    "carbs": 35.4,
+    "protein": 15,
+    "carbs": 35,
     "fat": 7
   },
   "slug": "paneer-blanched-taj-mahal",

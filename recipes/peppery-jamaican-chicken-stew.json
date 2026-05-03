@@ -58,10 +58,10 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 375°F (190°C).",
+    "Preheat the oven to 375\u00b0F (190\u00b0C).",
     "Marinate the chicken thighs with the Jamaican seasoning blend and lime juice for 10 minutes.",
     "Heat olive oil in an oven-safe skillet or Dutch oven over medium-high heat and sear the chicken until browned on both sides, about 3-4 minutes per side; remove and set aside.",
-    "Add diced onion, bell pepper, minced garlic, and ginger to the same skillet; sauté until softened, about 5 minutes.",
+    "Add diced onion, bell pepper, minced garlic, and ginger to the same skillet; saut\u00e9 until softened, about 5 minutes.",
     "Deglaze with a splash of low-sodium chicken broth, scraping up browned bits; add the remaining broth and bring to a gentle simmer.",
     "Return the chicken to the skillet, cover, and transfer to the preheated oven; bake for 25 minutes until the chicken is fully cooked.",
     "Meanwhile, toast the pecan nuts in a dry pan until fragrant, about 3-4 minutes; add them to the stew during the last 5 minutes of baking.",
@@ -85,5 +85,20 @@
     "mainIngredient": "chicken",
     "descriptor": "Peppery",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "jamaican",
+    "dinner"
+  ]
 }

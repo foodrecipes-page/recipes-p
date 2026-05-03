@@ -1,51 +1,51 @@
 {
-  "title": "Peppery Nutmeg Turkish Cod Stir‑fry",
-  "description": "A bright, pepper‑and‑nutmeg‑infused cod dish with a splash of Turkish flavor, perfect for a quick kid‑friendly dinner.",
+  "title": "Peppery Nutmeg Turkish Cod Stirfry",
+  "description": "A bright, pepperandnutmeginfused cod dish with a splash of Turkish flavor, perfect for a quick kidfriendly dinner.",
   "cuisine": "Turkish",
   "diet": [
     "pescatarian",
-    "gluten‑free"
+    "gluten\u2011free"
   ],
   "meal": "dinner",
   "ingredients": [
     {
       "name": "cod fillets",
-      "amount": "800 g",
+      "amount": "800\u202fg",
       "notes": "fresh, skin removed"
     },
     {
       "name": "olive oil",
-      "amount": "2 tbsp",
+      "amount": "2\u202ftbsp",
       "notes": "room temperature"
     },
     {
       "name": "black pepper",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": "freshly cracked"
     },
     {
       "name": "ground nutmeg",
-      "amount": "¼ tsp",
+      "amount": "\u00bc\u202ftsp",
       "notes": "freshly grated"
     },
     {
       "name": "sumac",
-      "amount": "½ tsp",
+      "amount": "\u00bd\u202ftsp",
       "notes": "light dusting"
     },
     {
       "name": "dried dill",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": "crushed"
     },
     {
       "name": "capers",
-      "amount": "1 tbsp",
+      "amount": "1\u202ftbsp",
       "notes": "drained"
     },
     {
       "name": "fresh parsley",
-      "amount": "1 tbsp",
+      "amount": "1\u202ftbsp",
       "notes": "finely chopped"
     },
     {
@@ -55,29 +55,29 @@
     },
     {
       "name": "honey",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": "optional, for slight sweetness"
     },
     {
       "name": "fresh coriander",
-      "amount": "2 tbsp",
+      "amount": "2\u202ftbsp",
       "notes": "chopped"
     },
     {
       "name": "sesame seeds",
-      "amount": "2 tsp",
+      "amount": "2\u202ftsp",
       "notes": "to toast and garnish"
     }
   ],
   "instructions": [
-    "Set a large non‑stick skillet over medium heat and add 1 tbsp olive oil.",
-    "Slice the cod into bite‑size cubes, season lightly with salt and ½ tsp pepper.",
-    "Add the cod to the skillet, cook for 3 min, then flip and cook another 2 min until just opaque.",
-    "Remove cod and set aside; add remaining 1 tbsp oil to the skillet.",
-    "Sauté the sumac, dill, capers, parsley, coriander, and a splash of lemon juice for 30 sec until fragrant.",
+    "Set a large non\u2011stick skillet over medium heat and add 1\u202ftbsp olive oil.",
+    "Slice the cod into bite\u2011size cubes, season lightly with salt and \u00bd\u202ftsp pepper.",
+    "Add the cod to the skillet, cook for 3\u202fmin, then flip and cook another 2\u202fmin until just opaque.",
+    "Remove cod and set aside; add remaining 1\u202ftbsp oil to the skillet.",
+    "Saut\u00e9 the sumac, dill, capers, parsley, coriander, and a splash of lemon juice for 30\u202fsec until fragrant.",
     "Return the cod to the pan, pour in the honey, then sprinkle nutmeg and remaining pepper, tossing gently to coat.",
-    "Cook for an additional 2 min, allowing flavors to meld and the cod to finish cooking.",
-    "Remove from heat, drizzle with the remaining 1 tbsp olive oil, and toast sesame seeds in a dry skillet for 1 min before sprinkling on top.",
+    "Cook for an additional 2\u202fmin, allowing flavors to meld and the cod to finish cooking.",
+    "Remove from heat, drizzle with the remaining 1\u202ftbsp olive oil, and toast sesame seeds in a dry skillet for 1\u202fmin before sprinkling on top.",
     "Serve hot with a side of steamed vegetables or a light salad.",
     ""
   ],

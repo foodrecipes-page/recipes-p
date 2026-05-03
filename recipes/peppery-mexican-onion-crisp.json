@@ -33,7 +33,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
+    "Preheat oven to 375\u00b0F (190\u00b0C).",
     "Slice the onion into rings, about 1/8 inch thick.",
     "In a large skillet over medium heat, add oil and chopped peppers. Cook until fragrant and slightly softened, about 2 minutes.",
     "Add minced garlic and cumin seeds to the skillet; cook for another minute.",
@@ -55,7 +55,7 @@
   ],
   "nutrition": {
     "calories": 135,
-    "protein": 2.5,
+    "protein": 2,
     "carbs": 18,
     "fat": 4
   },

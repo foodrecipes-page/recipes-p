@@ -1,6 +1,6 @@
 {
   "title": "Peppery Crunchy Argentinian Courgette Skewers",
-  "description": "A quick, kid‑friendly Argentinian-inspired skewer featuring pepper‑kissed courgettes, crunchy bell pepper, and a zesty broil finish.",
+  "description": "A quick, kidfriendly Argentinian-inspired skewer featuring pepperkissed courgettes, crunchy bell pepper, and a zesty broil finish.",
   "cuisine": "Argentinian",
   "diet": [
     "vegetarian",
@@ -11,17 +11,17 @@
     {
       "name": "Courgettes (zucchini)",
       "amount": "2 medium",
-      "notes": "cut into 1 cm thick rounds"
+      "notes": "cut into 1\u202fcm thick rounds"
     },
     {
       "name": "Red bell pepper",
       "amount": "1 medium",
-      "notes": "cut into 1 cm pieces"
+      "notes": "cut into 1\u202fcm pieces"
     },
     {
       "name": "Yellow bell pepper",
       "amount": "1 medium",
-      "notes": "cut into 1 cm pieces"
+      "notes": "cut into 1\u202fcm pieces"
     },
     {
       "name": "Red onion",
@@ -30,32 +30,32 @@
     },
     {
       "name": "Olive oil",
-      "amount": "2 tbsp",
-      "notes": "about 30 ml"
+      "amount": "2\u202ftbsp",
+      "notes": "about 30\u202fml"
     },
     {
       "name": "Fresh lemon juice",
-      "amount": "1 tbsp",
-      "notes": "about 15 ml"
+      "amount": "1\u202ftbsp",
+      "notes": "about 15\u202fml"
     },
     {
       "name": "Smoked paprika",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": "ground"
     },
     {
       "name": "Ground cumin",
-      "amount": "½ tsp",
+      "amount": "\u00bd\u202ftsp",
       "notes": "ground"
     },
     {
       "name": "Sea salt",
-      "amount": "½ tsp",
+      "amount": "\u00bd\u202ftsp",
       "notes": "to taste"
     },
     {
       "name": "Freshly cracked black pepper",
-      "amount": "¼ tsp",
+      "amount": "\u00bc\u202ftsp",
       "notes": "to taste"
     }
   ],
@@ -64,9 +64,9 @@
     "In a small bowl whisk together olive oil, lemon juice, paprika, cumin, salt, and pepper to make a glaze.",
     "Thread the courgette rounds, bell pepper pieces, and onion wedges onto skewers, alternating colors for a vibrant look.",
     "Brush each skewer generously with the glaze, making sure all sides are coated.",
-    "Place the skewers on the prepared baking sheet and broil for 4–5 minutes, turning halfway through, until the vegetables are tender and slightly charred.",
-    "Remove from the broiler and let sit for 2 minutes before serving.",
-    "Serve warm or at room temperature as a kid‑friendly snack or side.",
+    "Place the skewers on the prepared baking sheet and broil for 4\u20135\u202fminutes, turning halfway through, until the vegetables are tender and slightly charred.",
+    "Remove from the broiler and let sit for 2\u202fminutes before serving.",
+    "Serve warm or at room temperature as a kid\u2011friendly snack or side.",
     "Enjoy the peppery crunch of these fresh, Argentinian-inspired skewers!"
   ],
   "prepTimeMin": 10,
@@ -88,9 +88,9 @@
   ],
   "nutrition": {
     "calories": 107,
-    "protein": 1.8,
+    "protein": 2,
     "carbs": 9,
-    "fat": 7.6
+    "fat": 8
   },
   "slug": "peppery-crunchy-argentinian-courgettes-skewers",
   "source": "ocloud-gpt-oss:20b",

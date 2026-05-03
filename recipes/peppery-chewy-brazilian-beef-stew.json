@@ -1,6 +1,6 @@
 {
   "title": "Peppery Chewy Brazilian Beef Stew",
-  "description": "A hearty, slow‑cooked stew loaded with bold pepper flavors, tender beef cubes, and a comforting ketchup‑based sauce that’s as energizing as it is satisfying.",
+  "description": "A hearty, slowcooked stew loaded with bold pepper flavors, tender beef cubes, and a comforting ketchupbased sauce thats as energizing as it is satisfying.",
   "cuisine": "Brazilian",
   "diet": [
     "gluten-free"
@@ -10,7 +10,7 @@
     {
       "name": "beef chuck",
       "amount": "2 lbs (900 g)",
-      "notes": "cut into 1‑inch cubes"
+      "notes": "cut into 1\u2011inch cubes"
     },
     {
       "name": "olive oil",
@@ -41,7 +41,7 @@
       "amount": "1 cup"
     },
     {
-      "name": "tamari (gluten‑free soy sauce)",
+      "name": "tamari (gluten\u2011free soy sauce)",
       "amount": "2 tbsp"
     },
     {
@@ -55,7 +55,7 @@
     {
       "name": "beef broth",
       "amount": "2 cups",
-      "notes": "gluten‑free"
+      "notes": "gluten\u2011free"
     },
     {
       "name": "bay leaf",
@@ -63,13 +63,13 @@
     }
   ],
   "instructions": [
-    "Heat the olive oil in a large skillet over medium‑high heat.",
+    "Heat the olive oil in a large skillet over medium\u2011high heat.",
     "Add the beef cubes and sear on all sides until a brown crust forms, about 5 minutes.",
     "Transfer the seared beef to a slow cooker or Dutch oven.",
-    "In the same skillet, sauté the onion, garlic, and bell peppers until softened, about 3 minutes.",
-    "Pour the sautéed vegetables over the beef and stir in ketchup, tamari, smoked paprika, and cayenne pepper.",
+    "In the same skillet, saut\u00e9 the onion, garlic, and bell peppers until softened, about 3 minutes.",
+    "Pour the saut\u00e9ed vegetables over the beef and stir in ketchup, tamari, smoked paprika, and cayenne pepper.",
     "Add the beef broth and bay leaf, and bring the mixture to a gentle simmer.",
-    "Cover and cook on low for 4 hours (or on high for 2 hours) until the beef is melt‑in‑your‑mouth tender.",
+    "Cover and cook on low for 4 hours (or on high for 2 hours) until the beef is melt\u2011in\u2011your\u2011mouth tender.",
     "Remove the bay leaf, taste, and season with salt and pepper as needed.",
     "Serve hot over rice, polenta, or crusty bread, and enjoy the bold, peppery flavors."
   ],

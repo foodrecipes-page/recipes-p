@@ -41,7 +41,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 425°F (220°C).",
+    "Preheat your oven to 425\u00b0F (220\u00b0C).",
     "Wash the potatoes thoroughly and prick them with a fork. Place them in a large pot filled with water.",
     "Bring to a boil and cook for about 10 minutes, then remove from heat and drain well, or use an Instant Pot for quicker cooking.",
     "While the potatoes are cooking, prepare the crumble topping by mixing melted butter, cinnamon, cloves, nutmeg, egg, salt, pepper, and flour until combined. The mixture should be spreadable but not liquidy when applied to the potatoes.",
@@ -65,9 +65,9 @@
   ],
   "nutrition": {
     "calories": 408,
-    "protein": 12.5,
-    "carbs": 63.9,
-    "fat": 17.5
+    "protein": 12,
+    "carbs": 64,
+    "fat": 18
   },
   "slug": "peppery-tender-british-potato-crumble",
   "source": "ollama-qwen2.5:3b",

@@ -54,9 +54,9 @@
   ],
   "nutrition": {
     "calories": 75,
-    "protein": 2.4,
-    "carbs": 6.3,
-    "fat": 0.9
+    "protein": 2,
+    "carbs": 6,
+    "fat": 1
   },
   "slug": "poached-british-butter-sun-dried-tomato",
   "source": "ollama-qwen2.5:3b",

@@ -1,6 +1,6 @@
 {
   "title": "Peppery Crispy Algerian Fish Tagine",
-  "description": "A smoky, peppery tagine featuring pan‑fried fish fillets, toasted coconut flakes, and a tangy pickle garnish—perfect for a romantic night in.",
+  "description": "A smoky, peppery tagine featuring panfried fish fillets, toasted coconut flakes, and a tangy pickle garnish-perfect for a romantic night in.",
   "cuisine": "Algerian",
   "diet": [
     "pescatarian",
@@ -44,7 +44,7 @@
     },
     {
       "name": "pickled turnips",
-      "amount": "½ cup (chopped)",
+      "amount": "\u00bd cup (chopped)",
       "notes": "use sour pickles for brightness"
     },
     {
@@ -63,16 +63,16 @@
     },
     {
       "name": "black pepper",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     }
   ],
   "instructions": [
     "Season cod fillets with salt, black pepper, smoked paprika, cayenne pepper, lemon zest, and lemon juice, letting marinate for 5 minutes.",
-    "Heat 1 tbsp olive oil in a cast‑iron skillet over medium‑high heat until shimmering.",
-    "Place fillets skin‑side up and sear for 4–5 minutes, then flip and sear the other side for another 4–5 minutes until golden and cooked through.",
+    "Heat 1 tbsp olive oil in a cast\u2011iron skillet over medium\u2011high heat until shimmering.",
+    "Place fillets skin\u2011side up and sear for 4\u20135 minutes, then flip and sear the other side for another 4\u20135 minutes until golden and cooked through.",
     "Remove fillets and set aside to rest for 2 minutes.",
     "Add remaining 1 tbsp olive oil to the skillet and toss toasted coconut flakes until lightly toasted, about 1 minute.",
-    "Add chopped pickled turnips to the skillet and sauté for 2 minutes to warm through.",
+    "Add chopped pickled turnips to the skillet and saut\u00e9 for 2 minutes to warm through.",
     "Return fish to the skillet, spoon some coconut and pickle mixture over each fillet, and cook for an additional minute to meld flavors.",
     "Transfer to plates, sprinkle with fresh cilantro and mint, and serve immediately."
   ],
@@ -93,5 +93,20 @@
     "mainIngredient": "Fish",
     "descriptor": "Peppery Crispy",
     "dishForm": "Tagine"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "algerian",
+    "dinner"
+  ]
 }

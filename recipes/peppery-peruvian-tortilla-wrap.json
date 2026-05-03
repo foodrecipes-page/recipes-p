@@ -48,9 +48,9 @@
   ],
   "nutrition": {
     "calories": 106,
-    "protein": 3.9,
-    "carbs": 15.2,
-    "fat": 8.3
+    "protein": 4,
+    "carbs": 15,
+    "fat": 8
   },
   "slug": "peppery-peruvian-tortilla-wrap",
   "source": "ollama-qwen2.5:3b",

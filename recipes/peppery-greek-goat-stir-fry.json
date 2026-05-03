@@ -34,7 +34,7 @@
   ],
   "instructions": [
     "Clean and chop the goat meat into bite-sized pieces.",
-    "Finely chop onions and garlic cloves. Add olive oil to a pan, then sauté onion and garlic until translucent.",
+    "Finely chop onions and garlic cloves. Add olive oil to a pan, then saut\u00e9 onion and garlic until translucent.",
     "Add chopped goat meat to the pan with red pepper flakes and stir-fry for about 10 minutes over medium heat or until no longer pink on the outside.",
     "Mix finely chopped fresh parsley into the dish and cook for another minute. Reduce heat and serve hot.",
     "prepTimeMin: 20",
@@ -70,5 +70,10 @@
     "mainIngredient": "goat",
     "descriptor": "Peppery",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium"
 }

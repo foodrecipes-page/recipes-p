@@ -1,6 +1,6 @@
 {
   "title": "Peppery Chewy Syrian Kielbasa Casserole",
-  "description": "A vibrant one‑pot casserole featuring smoky salmon strips, chickpeas, and bell peppers, finished with a quick broil for a peppery, chewy bite.",
+  "description": "A vibrant onepot casserole featuring smoky salmon strips, chickpeas, and bell peppers, finished with a quick broil for a peppery, chewy bite.",
   "cuisine": "Syrian",
   "diet": [
     "pescatarian"
@@ -10,7 +10,7 @@
     {
       "name": "Smoked salmon strips",
       "amount": "200 g",
-      "notes": "use plant‑based kielbasa for vegetarian option"
+      "notes": "use plant\u2011based kielbasa for vegetarian option"
     },
     {
       "name": "Olive oil",
@@ -41,7 +41,7 @@
       "amount": "2 tbsp"
     },
     {
-      "name": "Low‑sodium vegetable broth",
+      "name": "Low\u2011sodium vegetable broth",
       "amount": "250 ml"
     },
     {
@@ -62,13 +62,13 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 200°C (400°F) and lightly grease a 9×9‑inch baking dish or heavy skillet.",
-    "Heat olive oil over medium heat. Add diced onion and sauté until translucent, about 3–4 minutes.",
+    "Preheat oven to 200\u00b0C (400\u00b0F) and lightly grease a 9\u00d79\u2011inch baking dish or heavy skillet.",
+    "Heat olive oil over medium heat. Add diced onion and saut\u00e9 until translucent, about 3\u20134 minutes.",
     "Add sliced bell peppers and cook until slightly softened, 5 minutes.",
     "Stir in minced garlic, crushed red pepper flakes, and dried oregano; cook for 1 minute until fragrant.",
     "Fold in tomato paste and cook for 2 minutes to deepen the flavor.",
-    "Add salmon strips, cooked chickpeas, and vegetable broth. Bring to a gentle simmer, season with salt and pepper, and cook for 6–8 minutes until flavors meld.",
-    "Transfer the mixture to the prepared dish, cover with parchment or foil, and place in the oven. Broil uncovered for 3–4 minutes until the top is lightly browned and bubbly.",
+    "Add salmon strips, cooked chickpeas, and vegetable broth. Bring to a gentle simmer, season with salt and pepper, and cook for 6\u20138 minutes until flavors meld.",
+    "Transfer the mixture to the prepared dish, cover with parchment or foil, and place in the oven. Broil uncovered for 3\u20134 minutes until the top is lightly browned and bubbly.",
     "Remove from oven, let stand for 5 minutes, then sprinkle with chopped parsley before serving."
   ],
   "prepTimeMin": 10,

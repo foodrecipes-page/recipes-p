@@ -15,11 +15,11 @@
     {
       "name": "3 cloves garlic",
       "amount": "",
-      "notes": "Chopped finely and sautéed to infuse the dish with a subtle flavor."
+      "notes": "Chopped finely and saut\u00e9ed to infuse the dish with a subtle flavor."
     }
   ],
   "instructions": [
-    "Heat oil in a pan over medium heat. Add chopped garlic and sauté until fragrant.",
+    "Heat oil in a pan over medium heat. Add chopped garlic and saut\u00e9 until fragrant.",
     "Add papaya, salt (to taste), cayenne pepper, and lemon juice to the pan. Stir gently.",
     "Cover and cook for about 10-15 minutes or until papaya is tender but still chewy."
   ],
@@ -36,8 +36,8 @@
   ],
   "nutrition": {
     "calories": 105,
-    "protein": 2.8,
-    "carbs": 6.9,
+    "protein": 3,
+    "carbs": 7,
     "fat": 3
   },
   "slug": "peppery-malayan-papaya-pilaf",

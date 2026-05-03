@@ -54,9 +54,9 @@
   ],
   "nutrition": {
     "calories": 305,
-    "protein": 24.8,
-    "carbs": 7.9,
-    "fat": 13.6
+    "protein": 25,
+    "carbs": 8,
+    "fat": 14
   },
   "slug": "peppery-flaky-lamb-stir-fry",
   "source": "ollama-qwen2.5:3b",

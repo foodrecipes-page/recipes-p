@@ -55,7 +55,7 @@
     "In a separate bowl, mix together flour, melted butter, and sugar. Gradually fold in chopped pistachios if using.",
     "Fold the crumb mixture over the grape base gently to ensure it's evenly spread throughout the dish but not too mixed.",
     "Transfer the mixture into an ovenproof serving dish or individual ramekins.",
-    "Preheat your oven to 350°F (175°C). Bake for about 20-25 minutes until golden brown and crisp on top. Serve warm with a scoop of vanilla ice cream if desired."
+    "Preheat your oven to 350\u00b0F (175\u00b0C). Bake for about 20-25 minutes until golden brown and crisp on top. Serve warm with a scoop of vanilla ice cream if desired."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -66,14 +66,14 @@
     "peppy",
     "silky",
     "light",
-    "saudi arabian",
-    "grape crumble"
+    "saudi-arabian",
+    "grape-crumble"
   ],
   "nutrition": {
     "calories": 201,
-    "protein": 4.8,
+    "protein": 5,
     "carbs": 37,
-    "fat": 6.5
+    "fat": 6
   },
   "slug": "peppy-silky-light-saudia-grape-crumble",
   "source": "ollama-qwen2.5:3b",

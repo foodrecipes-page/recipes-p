@@ -79,7 +79,7 @@
   "prepTimeMin": 30,
   "cookTimeMin": 30,
   "totalTimeMin": 60,
-  "servings": "4-6",
+  "servings": 5,
   "difficulty": "medium",
   "tags": [
     "korean",
@@ -91,9 +91,9 @@
   ],
   "nutrition": {
     "calories": 320,
-    "protein": "12g",
-    "carbs": "40g",
-    "fat": "15g"
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
   },
   "slug": "peppery-velvety-korean-cabbage-stew",
   "source": "groq-llama-3.1-8b-instant",

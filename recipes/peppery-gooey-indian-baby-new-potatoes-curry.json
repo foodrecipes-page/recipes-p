@@ -17,7 +17,7 @@
     {
       "name": "ghee or vegan butter",
       "amount": "20g",
-      "notes": "use for sautéing"
+      "notes": "use for saut\u00e9ing"
     },
     {
       "name": "onion, diced",
@@ -101,9 +101,9 @@
   ],
   "nutrition": {
     "calories": 320,
-    "protein": "4g",
-    "carbs": "60g",
-    "fat": "10g"
+    "protein": 4,
+    "carbs": 60,
+    "fat": 10
   },
   "slug": "peppery-gooey-indian-baby-new-potatoes-curry",
   "source": "groq-llama-3.1-8b-instant",

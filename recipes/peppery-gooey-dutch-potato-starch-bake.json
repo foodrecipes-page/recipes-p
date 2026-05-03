@@ -39,7 +39,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C). Grease a baking dish with coconut oil.",
+    "Preheat oven to 375\u00b0F (190\u00b0C). Grease a baking dish with coconut oil.",
     "Combine potato starch, cayenne pepper, and black pepper in a mixing bowl. Add the beaten eggs and chopped herbs. Mix well until fully incorporated.",
     "Pour the mixture into the greased baking dish. Smooth out to create an even layer. Bake for 20 minutes or until golden brown on top.",
     "Remove from oven and let it cool slightly before serving. Serve warm with a side of guacamole or salsa as desired."
@@ -58,7 +58,7 @@
   ],
   "nutrition": {
     "calories": 80,
-    "protein": 2.5,
+    "protein": 2,
     "carbs": 6,
     "fat": 4
   },

@@ -1,6 +1,6 @@
 {
   "title": "Peppery Norwegian Salmon Salad",
-  "description": "A dense, peppery salmon salad with vine leaves, cured salmon, and a zesty mustard dressing that’s sweet‑free and crowd‑pleasing.",
+  "description": "A dense, peppery salmon salad with vine leaves, cured salmon, and a zesty mustard dressing thats sweetfree and crowdpleasing.",
   "cuisine": "Norwegian",
   "diet": [
     "gluten-free",
@@ -52,7 +52,7 @@
     {
       "name": "Olive oil",
       "amount": "2 tbsp",
-      "notes": "extra‑virgin"
+      "notes": "extra\u2011virgin"
     },
     {
       "name": "Dijon mustard",
@@ -66,12 +66,12 @@
     },
     {
       "name": "Freshly ground black pepper",
-      "amount": "½ tsp",
+      "amount": "\u00bd tsp",
       "notes": ""
     },
     {
       "name": "Cayenne pepper",
-      "amount": "¼ tsp",
+      "amount": "\u00bc tsp",
       "notes": ""
     }
   ],

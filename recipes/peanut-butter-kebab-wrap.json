@@ -35,10 +35,10 @@
   ],
   "instructions": [
     "Preheat a skillet over medium-high heat. Season the ground meat with salt and pepper.",
-    "Sauté the seasoned meat in the skillet until browned, about 5-7 minutes.",
+    "Saut\u00e9 the seasoned meat in the skillet until browned, about 5-7 minutes.",
     "While the meat is cooking, soften the peanut butter in warm water for 20 seconds to blend it better.",
     "Add the softened peanut butter, hummus, ketchup, and mayonnaise to the skillet with the ground meat. Mix well.",
-    "Toast a whole wheat tortilla by wrapping it in aluminum foil and heating it in the oven at 350°F (175°C) for about 2 minutes until slightly crispy on both sides.",
+    "Toast a whole wheat tortilla by wrapping it in aluminum foil and heating it in the oven at 350\u00b0F (175\u00b0C) for about 2 minutes until slightly crispy on both sides.",
     "Place a spoonful of the peanut butter mixture onto one side of each tortilla, then fold the top half over to enclose the filling. Serve immediately."
   ],
   "prepTimeMin": 30,
@@ -53,9 +53,9 @@
   ],
   "nutrition": {
     "calories": 369,
-    "protein": 18.8,
-    "carbs": 47.5,
-    "fat": 12.3
+    "protein": 19,
+    "carbs": 48,
+    "fat": 12
   },
   "slug": "peanut-butter-kebab-wrap",
   "source": "ollama-qwen2.5:3b",

@@ -1,6 +1,6 @@
 {
   "title": "Peppery Juicy Argentinian Hazelnuts Burger",
-  "description": "A vibrant, peppery vegan burger packed with hazelnuts, quinoa, and black beans, finished under a broiler for a crisp, juicy bite—perfect for a quick weeknight dinner.",
+  "description": "A vibrant, peppery vegan burger packed with hazelnuts, quinoa, and black beans, finished under a broiler for a crisp, juicy bite-perfect for a quick weeknight dinner.",
   "cuisine": "Argentinian",
   "diet": [
     "vegan"
@@ -72,9 +72,9 @@
     "Toast hazelnuts in a dry skillet over medium heat until fragrant, about 5 minutes, then set aside.",
     "In a food processor, combine the cooked black beans, quinoa, toasted hazelnuts, chopped onion, chickpea flour, flax egg, olive oil, paprika, cumin, pepper, and a pinch of salt. Pulse until the mixture holds together but remains slightly chunky.",
     "Transfer the mixture to a bowl and shape into four equal patties, pressing gently to flatten.",
-    "Preheat the oven broiler and a cast‑iron skillet over medium‑high heat. Drizzle a tiny bit of oil into the skillet.",
-    "Place the patties in the skillet and broil each side for 3–4 minutes, or until the edges are crisp and juices begin to bubble—about 6–8 minutes total.",
-    "While the patties cook, place the buns on a baking sheet and broil for 1–2 minutes, watching closely, until lightly browned.",
+    "Preheat the oven broiler and a cast\u2011iron skillet over medium\u2011high heat. Drizzle a tiny bit of oil into the skillet.",
+    "Place the patties in the skillet and broil each side for 3\u20134 minutes, or until the edges are crisp and juices begin to bubble\u2014about 6\u20138 minutes total.",
+    "While the patties cook, place the buns on a baking sheet and broil for 1\u20132 minutes, watching closely, until lightly browned.",
     "To assemble, spread a spoonful of chimichurri on each bun, place a patty on the bottom half, top with a lettuce leaf and tomato slice if desired, add more chimichurri, then cap with the top bun. Serve hot."
   ],
   "slug": "peppery-juicy-argentinian-hazelnuts-burger",
@@ -94,5 +94,20 @@
     "mainIngredient": "hazelnuts",
     "descriptor": "peppery juicy",
     "dishForm": "Burger"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "argentinian",
+    "dinner"
+  ]
 }

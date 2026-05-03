@@ -67,7 +67,7 @@
     "calories": 100,
     "protein": 3,
     "carbs": 20,
-    "fat": 0.5
+    "fat": 0
   },
   "slug": "poached-herbal-herbs-soup",
   "source": "ollama-qwen2.5:3b",

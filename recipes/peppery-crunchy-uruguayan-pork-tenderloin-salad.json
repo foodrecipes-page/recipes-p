@@ -31,11 +31,11 @@
     },
     {
       "name": "cumin",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "oregano",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "lemon zest",
@@ -47,7 +47,7 @@
     },
     {
       "name": "red onion",
-      "amount": "¼ small",
+      "amount": "\u00bc small",
       "notes": "thinly sliced"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "name": "red bell pepper",
-      "amount": "½ large",
+      "amount": "\u00bd large",
       "notes": "sliced"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "name": "cucumber",
-      "amount": "½ large",
+      "amount": "\u00bd large",
       "notes": "sliced"
     },
     {
@@ -90,15 +90,15 @@
     },
     {
       "name": "crushed red pepper flakes",
-      "amount": "¼ tsp",
+      "amount": "\u00bc tsp",
       "notes": "optional"
     }
   ],
   "instructions": [
     "Season the pork strips with salt, pepper, smoked paprika, cumin, and oregano.",
-    "Heat 1 tbsp olive oil in a large skillet over medium-high heat and sear the pork for 2‑3 minutes per side until browned.",
-    "Add the remaining 1 tbsp olive oil, lemon zest, and a splash of lemon juice to the skillet, then pour in ½ cup water or broth.",
-    "Simmer the pork, covered, for 10–12 minutes or until the internal temperature reaches 145°F (63°C).",
+    "Heat 1 tbsp olive oil in a large skillet over medium-high heat and sear the pork for 2\u20113 minutes per side until browned.",
+    "Add the remaining 1 tbsp olive oil, lemon zest, and a splash of lemon juice to the skillet, then pour in \u00bd cup water or broth.",
+    "Simmer the pork, covered, for 10\u201312 minutes or until the internal temperature reaches 145\u00b0F (63\u00b0C).",
     "Remove the pork from the pan and let it rest for 5 minutes before slicing it into thin strips.",
     "In a large bowl combine the sliced pork, red onion, carrot, bell pepper, tomatoes, cucumber, parsley, and cilantro.",
     "Whisk together the dressing: 3 tbsp olive oil, 1 tbsp red wine vinegar, 1 tsp honey, lemon juice, salt, pepper, and optional crushed red pepper flakes.",
@@ -123,5 +123,20 @@
     "mainIngredient": "Pork Tenderloin",
     "descriptor": "Peppery Crunchy",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "uruguayan",
+    "lunch"
+  ]
 }

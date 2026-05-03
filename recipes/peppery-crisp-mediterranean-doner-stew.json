@@ -1,6 +1,6 @@
 {
   "title": "Peppery Crisp Mediterranean Doner Stew",
-  "description": "A midnight‑craving stew that blends smoky vegan doner with crisp bell peppers, sun‑roasted tomatoes, and a peppery spice mix, all cooked in a pressure cooker for a quick, vegetarian Mediterranean feast.",
+  "description": "A midnightcraving stew that blends smoky vegan doner with crisp bell peppers, sunroasted tomatoes, and a peppery spice mix, all cooked in a pressure cooker for a quick, vegetarian Mediterranean feast.",
   "cuisine": "Mediterranean",
   "diet": [
     "vegetarian",
@@ -40,7 +40,7 @@
     {
       "name": "Spice blend",
       "amount": "1 tbsp",
-      "notes": "Combine 1 tsp smoked paprika, ½ tsp cayenne, 1 tsp ground cumin"
+      "notes": "Combine 1 tsp smoked paprika, \u00bd tsp cayenne, 1 tsp ground cumin"
     },
     {
       "name": "Vegetable broth",
@@ -60,14 +60,14 @@
     }
   ],
   "instructions": [
-    "Heat the pressure cooker on sauté mode and add olive oil.",
-    "Add onion and garlic, sauté until translucent, about 2 minutes.",
+    "Heat the pressure cooker on saut\u00e9 mode and add olive oil.",
+    "Add onion and garlic, saut\u00e9 until translucent, about 2 minutes.",
     "Add the sliced bell peppers and zucchini, stirring for another 2 minutes.",
     "Add the vegan doner meat substitute and cook until lightly browned, about 3 minutes.",
     "Stir in the cherry tomatoes and the spice blend until everything is well coated.",
     "Pour in the vegetable broth and add oregano and parsley, mixing thoroughly.",
     "Seal the pressure cooker lid and cook on high pressure for 10 minutes.",
-    "Quick‑release the pressure, stir in lemon juice, and adjust seasoning with salt and pepper as needed.",
+    "Quick\u2011release the pressure, stir in lemon juice, and adjust seasoning with salt and pepper as needed.",
     "Serve hot, garnished with extra parsley if desired."
   ],
   "slug": "peppery-crisp-mediterranean-doner-stew",
@@ -87,5 +87,20 @@
     "mainIngredient": "Doner",
     "descriptor": "Peppery Crisp",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mediterranean",
+    "dinner"
+  ]
 }

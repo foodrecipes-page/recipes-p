@@ -5,7 +5,7 @@
   "diet": [
     "low-fat"
   ],
-  "meal": "appetizer",
+  "meal": "snack",
   "ingredients": [
     {
       "name": "ground poppy seeds",
@@ -37,7 +37,7 @@
     }
   ],
   "instructions": [
-    "Preheat your grill to medium-high heat (around 350°F).",
+    "Preheat your grill to medium-high heat (around 350\u00b0F).",
     "Mix the ground poppy seeds with olive oil, minced garlic, onion, thyme leaves, and pomegranate molasses. Season with salt and pepper.",
     "Lightly toast pine nuts in a dry skillet until golden brown, about 2-3 minutes.",
     "Spread the seed mixture evenly on a baking sheet lined with parchment paper. Grill for 10-15 minutes, or until crispy and fragrant. Keep an eye on it to prevent burning.",

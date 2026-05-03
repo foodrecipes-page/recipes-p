@@ -31,7 +31,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "Cut pork belly into thick slices, about 1cm thick.",
     "Season both sides of the pork with salt, pepper, smoked paprika, and cayenne pepper. Let it marinate for at least an hour or up to overnight in a plastic bag in the refrigerator.",
     "Heat vegetable oil in a large skillet over medium heat until shimmering.",
@@ -47,9 +47,9 @@
   "tags": [
     "peppery",
     "australian",
-    "pork belly",
+    "pork-belly",
     "crisp",
-    "date night"
+    "date-night"
   ],
   "nutrition": {
     "calories": 260,

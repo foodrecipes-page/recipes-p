@@ -1,6 +1,6 @@
 {
-  "title": "Poached Norwegian Gruyère Crust",
-  "description": "A rich and juicy solo dinner dish featuring poached Norwegian Gruyère cheese served as a crust, suitable for paleo-friendly diets.",
+  "title": "Poached Norwegian Gruyere Crust",
+  "description": "A rich and juicy solo dinner dish featuring poached Norwegian Gruyere cheese served as a crust, suitable for paleo-friendly diets.",
   "cuisine": "Norwegian",
   "diet": [
     "paleo"
@@ -12,7 +12,7 @@
       "amount": "6 pieces"
     },
     {
-      "name": "Grated Norwegian Gruyère Cheese",
+      "name": "Grated Norwegian Gruy\u00e8re Cheese",
       "amount": "12 oz",
       "notes": "Freshly grated for optimal flavor and texture."
     },
@@ -35,7 +35,7 @@
   ],
   "instructions": [
     "Prepare the salmon fillets by lightly seasoning them with salt and pepper.",
-    "In a large saucepan, combine the vegetable stock, bone broth, grated Gruyère cheese, lemon zest, and red wine vinegar. Bring to a boil over medium heat.",
+    "In a large saucepan, combine the vegetable stock, bone broth, grated Gruy\u00e8re cheese, lemon zest, and red wine vinegar. Bring to a boil over medium heat.",
     "Once boiling, reduce heat to low and gently poach the salmon fillets in the mixture for 10-12 minutes per side, until fully cooked but still tender.",
     "Remove the salmon from the poaching liquid using tongs or a slotted spoon, reserving some of the cooking liquid for serving. Allow the salmon to cool slightly before slicing thin pieces.",
     "Serve the poached salmon with the reserved poaching liquid drizzled over top and garnished with additional lemon zest if desired."
@@ -47,7 +47,7 @@
   "difficulty": "medium",
   "tags": [
     "norwegian",
-    "gruyère",
+    "gruyere",
     "poached",
     "paleo-friendly",
     "juicy"
@@ -72,7 +72,7 @@
     "diet": "paleo",
     "region": null,
     "cuisineAdjective": "Norwegian",
-    "mainIngredient": "Gruyère",
+    "mainIngredient": "Gruy\u00e8re",
     "descriptor": "Poached",
     "dishForm": "Stir-fry"
   }
