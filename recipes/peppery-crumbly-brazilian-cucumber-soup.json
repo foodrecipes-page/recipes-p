@@ -1,0 +1,107 @@
+{
+  "title": "Peppery Crumbly Brazilian Cucumber Soup",
+  "description": "A smoky, peppered cucumber soup with a crumbly feta topping, simmered in a one‑pot Brazilian style.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Persian cucumber",
+      "amount": "2 medium",
+      "notes": "peeled, sliced"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "400 ml"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "400 ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Cumin",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "3 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Crumbled feta cheese",
+      "amount": "½ cup",
+      "notes": "optional topping"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add sliced cucumber and sauté for 3–4 minutes until slightly softened.",
+    "Stir in cumin, smoked paprika, and black pepper; cook for 1 minute until fragrant.",
+    "Pour in coconut milk and chicken broth; bring to a gentle simmer.",
+    "Reduce heat to low, cover, and let soup simmer for 15 minutes to blend flavors.",
+    "Using an immersion blender, puree the soup until smooth (or transfer in batches to a blender).",
+    "Return soup to the pot, add lime juice and season with salt to taste; warm through for 2 minutes.",
+    "Ladle soup into bowls, then generously sprinkle crumbled feta cheese over the top.",
+    "Garnish each bowl with chopped fresh cilantro.",
+    "Serve immediately with crusty gluten‑free bread or as a light lunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "cucumber-soup",
+    "gluten-free",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 16
+  },
+  "slug": "peppery-crumbly-brazilian-cucumber-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crumbly-brazilian-cucumber-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:40:28Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "simmer",
+    "primaryIngredient": "persian cucumber",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cucumber",
+    "descriptor": "Peppery Crumbly",
+    "dishForm": "Soup"
+  }
+}
