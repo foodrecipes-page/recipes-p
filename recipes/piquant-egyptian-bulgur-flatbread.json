@@ -1,0 +1,107 @@
+{
+  "title": "Piquant Egyptian Bulgur Flatbread",
+  "description": "A tangy, flaky flatbread made from mixed grains, perfect for midnight cravings. It is pure vegetarian, unleavened, and offers a bright, citrusy flavor punch.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bulgur wheat",
+      "amount": "2 cups",
+      "notes": "dry"
+    },
+    {
+      "name": "water",
+      "amount": "3 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a heavy skillet over medium heat and lightly coat with a teaspoon of olive oil.",
+    "Add the minced garlic to the skillet and sauté until fragrant, about 1 minute.",
+    "Stir in the tomato paste, cumin, coriander, salt, and pepper, cooking for 2 minutes to bloom the spices.",
+    "Pour in the bulgur and water, bring the mixture to a boil, then reduce heat to low and cover.",
+    "Simmer for 15 minutes until the bulgur absorbs the liquid and becomes tender.",
+    "Remove the skillet from heat and stir in the remaining olive oil and lemon juice, then let the dough cool for 5 minutes.",
+    "Transfer the dough onto a clean surface dusted with a little flour and divide it into 4 equal portions.",
+    "Roll each portion into a thin, flat disk, about 1/8 inch thick.",
+    "Place the flatbreads on the preheated skillet and cook for 3-4 minutes on each side until they develop golden brown spots and puff slightly.",
+    "Remove from skillet, brush with a tiny amount of olive oil, and sprinkle with chopped parsley before serving.",
+    "Repeat with remaining dough portions, keeping cooked flatbreads warm in a low oven if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bulgur",
+    "egyptian",
+    "flatbread",
+    "quick",
+    "sour",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 8,
+    "carbs": 55,
+    "fat": 8
+  },
+  "slug": "piquant-egyptian-bulgur-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-egyptian-bulgur-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:38:23Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "cure",
+    "primaryIngredient": "mixed grain",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Bulgur",
+    "descriptor": "Piquant",
+    "dishForm": "Flatbread"
+  }
+}

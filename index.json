@@ -3424,6 +3424,21 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-egyptian-bulgur-flatbread",
+    "title": "Piquant Egyptian Bulgur Flatbread",
+    "tags": [
+      "bulgur",
+      "egyptian",
+      "flatbread",
+      "quick",
+      "sour",
+      "vegan"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "pistachio-monsoon-medley",
     "title": "Pistachio Monsoon Medley",
     "tags": [
