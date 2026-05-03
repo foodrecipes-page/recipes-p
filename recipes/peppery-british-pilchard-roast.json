@@ -1,0 +1,80 @@
+{
+  "title": "Peppery British Pilchard Roast",
+  "description": "A quick, peppery roast featuring whole pilchards, seasoned with black pepper and herbs, served with a splash of lemon‑mustard sauce.",
+  "cuisine": "British",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned whole pilchards in oil",
+      "amount": "400g (1 can)",
+      "notes": "Drain, reserve 1 tbsp of can oil for roasting"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "lemon, juiced",
+      "amount": "1"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh thyme, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "butter, unsalted",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "fresh parsley, chopped (optional garnish)",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F) and line a roasting tray with parchment paper.",
+    "Drain the pilchards and set aside the reserved can oil.",
+    "Whisk together olive oil, reserved can oil, lemon juice, Dijon mustard, minced garlic, chopped thyme, black pepper, and salt to make the mustard‑lemon glaze.",
+    "Pat the pilchards dry with paper towels and arrange them fillet side down on the tray.",
+    "Brush each pilchard fillet with the mustard‑lemon glaze and place a small knob of butter on top of each.",
+    "Roast in the preheated oven for 10–12 minutes, or until the tops are golden and the fish flakes easily.",
+    "Remove from the oven, squeeze a little extra lemon juice over the fillets, and garnish with chopped parsley.",
+    "Serve immediately, accompanied by a side of crisp roasted potatoes or a fresh green salad."
+  ],
+  "slug": "peppery-british-pilchard-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-british-pilchard-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:11:56Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "roast",
+    "primaryIngredient": "pilchards",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "pilchard",
+    "descriptor": "peppery",
+    "dishForm": "roast"
+  }
+}
