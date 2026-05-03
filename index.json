@@ -2387,6 +2387,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-mediterranean-tomato-soup",
+    "title": "Peppery Mediterranean Tomato Soup",
+    "tags": [
+      "peppery",
+      "mediterranean",
+      "low-fat",
+      "soup",
+      "vegan",
+      "gelatin"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-mexican-beef-stir-fry",
     "title": "Peppery Mexican Beef Stir-fry",
     "tags": [

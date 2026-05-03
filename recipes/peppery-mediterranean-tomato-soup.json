@@ -1,0 +1,77 @@
+{
+  "title": "Peppery Mediterranean Tomato Soup",
+  "description": "A velvety, low‑fat Mediterranean tomato soup with a bold pepper kick, finished with delicate gelatin leafs for silky texture.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-fat",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh tomatoes",
+      "amount": "1.5 kg",
+      "notes": "rinsed, peeled, and chopped"
+    },
+    "{\"name\":\"red bell pepper\",\"amount\":\"1 medium\",\"notes\":\"seeded and diced\"}",
+    "{\"name\":\"yellow onion\",\"amount\":\"1 medium\",\"notes\":\"finely chopped\"}",
+    "{\"name\":\"garlic cloves\",\"amount\":\"2\",\"notes\":\"minced\"}",
+    "{\"name\":\"olive oil\",\"amount\":\"1 tsp\",\"notes\":\"optional, for sautéing\"}",
+    "{\"name\":\"low‑fat vegetable broth\",\"amount\":\"4 cups (960 ml)\"}",
+    "{\"name\":\"fresh basil leaves\",\"amount\":\"1 cup (100 g)\"}",
+    "{\"name\":\"salt\",\"amount\":\"1 tsp\"}",
+    "{\"name\":\"black pepper\",\"amount\":\"½ tsp\"}",
+    "{\"name\":\"lemon juice\",\"amount\":\"1 tbsp\"}",
+    "{\"name\":\"gelatine leafs\",\"amount\":\"10 leaves\"}",
+    "{\"name\":\"water\",\"amount\":\"1 cup (240 ml) for dissolving gelatin\"}"
+  ],
+  "instructions": [
+    "Wash the tomatoes, peel them by blanching in boiling water for 30 seconds, then plunge into ice water and dice.",
+    "Dice the red bell pepper, onion, and mince the garlic.",
+    "Heat a non‑stick pot over medium heat and add the olive oil (if using). Sauté the onion and garlic until translucent, about 4 minutes.",
+    "Add the diced pepper and tomatoes, cooking for another 5 minutes until the tomatoes soften.",
+    "Pour in the low‑fat vegetable broth, bring to a gentle boil, then reduce heat and simmer for 15 minutes to meld flavors.",
+    "While the soup simmers, soak gelatin leafs in 1 cup of cold water for 5 minutes, then gently melt in a small saucepan over low heat.",
+    "After the soup has simmered, use an immersion blender to puree until smooth; alternatively, transfer in batches to a blender.",
+    "Stir the melted gelatin into the hot soup until fully incorporated, ensuring the soup thickens slightly and gains a velvety mouthfeel.",
+    "Season with salt, black pepper, and lemon juice; adjust seasoning to taste.",
+    "Fold in fresh basil leaves, garnish with a drizzle of olive oil if desired, and serve immediately while warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peppery",
+    "mediterranean",
+    "low-fat",
+    "soup",
+    "vegan",
+    "gelatin"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "peppery-mediterranean-tomato-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-mediterranean-tomato-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:24:24Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "blanch",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Tomato",
+    "descriptor": "Peppery",
+    "dishForm": "Soup"
+  }
+}
