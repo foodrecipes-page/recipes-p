@@ -1,0 +1,116 @@
+{
+  "title": "Peppery Fluffy Argentinian Haddock Soup",
+  "description": "A light, peppery soup featuring flaky haddock and tender vegetables, finished with a splash of lemon for brightness.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "400g",
+      "notes": "skinless, boneless, cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "200g",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "kosher vegetable broth",
+      "amount": "1 litre"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper, freshly ground",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juiced"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add onion, carrots, celery, and potatoes; sauté until softened, about 5 minutes.",
+    "Stir in smoked paprika, black pepper, and salt; cook for 30 seconds to bloom the spices.",
+    "Pour in vegetable broth, add the bay leaf, and bring to a gentle boil.",
+    "Reduce heat and simmer until potatoes are tender, about 15 minutes.",
+    "Add the haddock pieces, cover, and simmer until the fish is opaque and flakes easily, about 5-6 minutes.",
+    "Remove the bay leaf, stir in lemon juice, and adjust seasoning if needed.",
+    "Serve hot, garnished with chopped parsley.",
+    ""
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "seafood",
+    "kosher",
+    "soup",
+    "peppery"
+  ],
+  "nutrition": {
+    "calories": 219,
+    "protein": 22,
+    "carbs": 18,
+    "fat": 8
+  },
+  "slug": "peppery-fluffy-argentinian-haddock-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-fluffy-argentinian-haddock-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:57:06Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "reduce",
+    "primaryIngredient": "haddock",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "haddock",
+    "descriptor": "Peppery Fluffy",
+    "dishForm": "Soup"
+  }
+}

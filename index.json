@@ -1478,6 +1478,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-fluffy-argentinian-haddock-soup",
+    "title": "Peppery Fluffy Argentinian Haddock Soup",
+    "tags": [
+      "argentinian",
+      "seafood",
+      "kosher",
+      "soup",
+      "peppery"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-fluffy-croatian-cassava-stir-fry",
     "title": "Peppery Fluffy Croatian Cassava Stir-fry",
     "tags": [
