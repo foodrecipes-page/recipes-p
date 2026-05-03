@@ -1,0 +1,106 @@
+{
+  "title": "Peppery Juicy Chinese Pork Dumplings",
+  "description": "Peppery and juicy pork dumplings bursting with aromatic onion and pepper, a nostalgic comfort dish that’s dairy‑free and perfect for any meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground pork",
+      "amount": "400g",
+      "notes": "80% lean"
+    },
+    {
+      "name": "Napa cabbage",
+      "amount": "200g",
+      "notes": "finely shredded"
+    },
+    {
+      "name": "Green onions (scallions)",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "Fresh garlic",
+      "amount": "1 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce (low sodium)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Shaoxing wine or dry sherry",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper (freshly ground)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Dumpling wrappers",
+      "amount": "20 pieces",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl combine ground pork, shredded cabbage, diced scallions, minced garlic and ginger, soy sauce, Shaoxing wine, sesame oil, black pepper, and salt; mix thoroughly until the filling is well incorporated and a sticky consistency forms.",
+    "Lay a dumpling wrapper flat on a clean surface. Spoon about 1 tablespoon of the pork mixture into the center of the wrapper. Fold the wrapper in half, pinch the edges together, and crimp to seal. Repeat with remaining wrappers and filling.",
+    "Bring a large pot of salted water to a rolling boil. Carefully drop dumplings in batches, stirring gently to prevent sticking. Cook for 6-8 minutes, or until the wrappers turn translucent and the pork is cooked through.",
+    "Remove dumplings with a slotted spoon and set aside on a parchment-lined plate. Serve hot, accompanied by a dipping sauce of soy sauce, rice vinegar, minced garlic, and a sprinkle of extra black pepper."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian",
+    "dairy-free",
+    "pork",
+    "dumplings",
+    "comfort",
+    "nostalgic",
+    "peppery",
+    "juicy"
+  ],
+  "nutrition": {
+    "calories": 526,
+    "protein": 25,
+    "carbs": 48,
+    "fat": 21
+  },
+  "slug": "peppery-juicy-chinese-pork-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-juicy-chinese-pork-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:38:32Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "knead",
+    "primaryIngredient": "onion",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Peppery Juicy",
+    "dishForm": "Dumplings"
+  }
+}
