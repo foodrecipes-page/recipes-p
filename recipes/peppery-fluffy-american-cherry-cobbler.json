@@ -1,0 +1,98 @@
+{
+  "title": "Peppery Fluffy American Cherry Cobbler",
+  "description": "A classic American dessert featuring sweet and tart cherries, a hint of peppery spice, and a fluffy sugar-free biscuit topping. Perfect for warm weather and outdoor gatherings.",
+  "cuisine": "American",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fresh or frozen cherries",
+      "amount": "2 cups",
+      "notes": "pitted"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/2 cup",
+      "notes": "such as Swerve or Erythritol"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together cherries, granulated sweetener, and vanilla extract.",
+    "In a separate bowl, whisk together almond flour, coconut flour, and salt.",
+    "Add melted butter, eggs, and ground black pepper to the dry ingredients and mix until a smooth batter forms.",
+    "Pour the cherry mixture into a 9x9-inch baking dish.",
+    "Drop the batter by spoonfuls onto the cherry mixture, spreading slightly to cover the top.",
+    "Bake for 40-45 minutes, or until the topping is golden brown and the filling is bubbly.",
+    "Remove from the oven and let cool for 10-15 minutes before serving.",
+    "Serve warm, topped with whipped cream or vanilla ice cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cherry-cobbler",
+    "american-desserts",
+    "sugar-free",
+    "low-carb",
+    "peppery",
+    "fluffy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "peppery-fluffy-american-cherry-cobbler",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-fluffy-american-cherry-cobbler",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:08:28Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "boil",
+    "primaryIngredient": "cherry",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "cherry",
+    "descriptor": "peppery fluffy",
+    "dishForm": "Cobbler"
+  }
+}

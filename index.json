@@ -1478,6 +1478,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-fluffy-american-cherry-cobbler",
+    "title": "Peppery Fluffy American Cherry Cobbler",
+    "tags": [
+      "cherry-cobbler",
+      "american-desserts",
+      "sugar-free",
+      "low-carb",
+      "peppery",
+      "fluffy"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 60,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-fluffy-argentinian-haddock-soup",
     "title": "Peppery Fluffy Argentinian Haddock Soup",
     "tags": [
