@@ -1,0 +1,109 @@
+{
+  "title": "Peppery Silky Italian Peanut Cookies Pasta",
+  "description": "A kid-friendly, plant‑based pasta dish that blends silky peanut‑butter sauce with crushed peanut cookies for a peppery twist. Perfect for a quick, comforting dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "plant-based",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat spaghetti",
+      "amount": "200g",
+      "notes": "plant-based"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1 cup",
+      "notes": "smooth, unsalted"
+    },
+    {
+      "name": "soy milk",
+      "amount": "1/4 cup",
+      "notes": "to thin sauce"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp",
+      "notes": "sweetener"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "mild heat"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "dry roasted"
+    },
+    {
+      "name": "crushed peanut cookies",
+      "amount": "1/2 cup",
+      "notes": "store‑bought or homemade"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tbsp",
+      "notes": "optional, cheesy flavor"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Add spaghetti and cook until al dente (about 9 minutes). Drain and reserve 1 cup of pasta water.",
+    "WHISK peanut butter, soy milk, maple syrup, salt, black pepper, red pepper flakes, and garlic powder in a saucepan over medium‑low heat until smooth.",
+    "ADD the cooked spaghetti to the saucepan, tossing to coat. If the sauce is too thick, gradually stir in reserved pasta water until silky.",
+    "Stir in crushed peanut cookies and nutritional yeast until evenly distributed.",
+    "SIMMER the mixture on low for 2 minutes to meld flavors.",
+    "REMOVE from heat, let sit 2 minutes; sauce will thicken slightly.",
+    "Serve warm, optionally garnishing with extra crushed peanut cookies or fresh herbs.",
+    "LET cool a few minutes before serving to children to ensure safe temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "peppery",
+    "silky",
+    "kid-friendly",
+    "peanut-cookies",
+    "pasta",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "peppery-silky-italian-peanut-cookies-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-silky-italian-peanut-cookies-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:06:35Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "boil",
+    "primaryIngredient": "peanut cookies",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Peanut Cookies",
+    "descriptor": "Peppery Silky",
+    "dishForm": "Pasta"
+  }
+}
