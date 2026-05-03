@@ -1,6 +1,6 @@
 {
   "title": "Peppery Tender French Turnip Hash",
-  "description": "A monsoon‑inspired, peppery French hash featuring tender turnips sautéed with smoky paprika, fresh herbs, and a zing of lemon—paleo‑friendly and perfect for a quick lunch.",
+  "description": "A monsooninspired, peppery French hash featuring tender turnips sauteed with smoky paprika, fresh herbs, and a zing of lemon-paleofriendly and perfect for a quick lunch.",
   "cuisine": "French",
   "diet": [
     "paleo"
@@ -10,12 +10,12 @@
     {
       "name": "medium turnips",
       "amount": "5 (about 590 g)",
-      "notes": "peeled, diced into 1/2‑inch cubes"
+      "notes": "peeled, diced into 1/2\u2011inch cubes"
     },
     {
       "name": "olive oil",
       "amount": "1 tbsp",
-      "notes": "for sautéing"
+      "notes": "for saut\u00e9ing"
     },
     {
       "name": "yellow onion",
@@ -60,11 +60,11 @@
   ],
   "instructions": [
     "Heat olive oil in a large skillet over medium heat until shimmering.",
-    "Add diced turnips and cook, stirring occasionally, for 8‑10 minutes until they start to brown and become tender.",
-    "Add sliced onion and bell pepper to the skillet; sauté 3‑4 minutes until the vegetables soften.",
+    "Add diced turnips and cook, stirring occasionally, for 8\u201110 minutes until they start to brown and become tender.",
+    "Add sliced onion and bell pepper to the skillet; saut\u00e9 3\u20114 minutes until the vegetables soften.",
     "Stir in minced garlic and cook for 30 seconds until fragrant.",
     "Season the mixture with sea salt, black pepper, and smoked paprika; stir to coat evenly.",
-    "Continue cooking for another 2‑3 minutes, allowing the spices to bloom.",
+    "Continue cooking for another 2\u20113 minutes, allowing the spices to bloom.",
     "Remove the skillet from heat and squeeze fresh lemon juice over the hash.",
     "Stir in chopped parsley, adjust seasoning if needed, and serve immediately."
   ],
@@ -79,7 +79,7 @@
     "french",
     "turnip-hash",
     "monsoon",
-    "sauté",
+    "saute",
     "quick-lunch"
   ],
   "nutrition": {

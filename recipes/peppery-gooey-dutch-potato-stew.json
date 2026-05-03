@@ -79,7 +79,7 @@
     }
   ],
   "instructions": [
-    "Heat olive oil in a large pot over medium heat. Add onion, garlic, bell pepper, and mushrooms; sauté until softened, about 5 minutes."
+    "Heat olive oil in a large pot over medium heat. Add onion, garlic, bell pepper, and mushrooms; saut\u00e9 until softened, about 5 minutes."
   ],
   "preparation_time_min": 10,
   "cook_time_min": 20,
@@ -120,5 +120,8 @@
     "mainIngredient": "potato",
     "descriptor": "Peppery Gooey",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40
 }

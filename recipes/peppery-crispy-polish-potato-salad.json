@@ -1,6 +1,6 @@
 {
   "title": "Peppery Crispy Polish Potato Salad",
-  "description": "A festive, low‑fat Polish potato salad with a peppery bhuna kick and creamy Stilton dressing, perfect for holidays or gatherings.",
+  "description": "A festive, lowfat Polish potato salad with a peppery bhuna kick and creamy Stilton dressing, perfect for holidays or gatherings.",
   "cuisine": "Polish",
   "diet": [
     "vegetarian",
@@ -14,12 +14,12 @@
       "notes": "peeled, diced"
     },
     {
-      "name": "Low‑fat Stilton cheese",
+      "name": "Low\u2011fat Stilton cheese",
       "amount": "100 g",
       "notes": "crumbled"
     },
     {
-      "name": "Low‑fat Greek yogurt",
+      "name": "Low\u2011fat Greek yogurt",
       "amount": "150 g",
       "notes": "unsweetened, plain"
     },
@@ -60,7 +60,7 @@
       "amount": "1 tbsp"
     },
     {
-      "name": "Salt, low‑sodium",
+      "name": "Salt, low\u2011sodium",
       "amount": "1 tsp"
     },
     {
@@ -73,11 +73,11 @@
     "2. Bring to a boil, then reduce heat and simmer for 10 minutes until tender but not mushy.",
     "3. Drain the potatoes and transfer them to a bowl of ice water to stop cooking; let them cool.",
     "4. While the potatoes cool, heat 1 tbsp olive oil in a small pan over medium heat.",
-    "5. Add black pepper, smoked paprika, cumin, and oregano to the oil; sauté for 1–2 minutes until fragrant (bhuna style).",
+    "5. Add black pepper, smoked paprika, cumin, and oregano to the oil; saut\u00e9 for 1\u20132 minutes until fragrant (bhuna style).",
     "6. Remove the pepper mixture from heat and let it cool slightly.",
-    "7. In a large mixing bowl, combine low‑fat yogurt, Dijon mustard, lemon juice, and a pinch of salt.",
-    "8. Add the cooled potatoes, sautéed pepper mixture, chopped parsley, and diced red onion to the bowl.",
-    "9. Gently fold in crumbled low‑fat Stilton cheese until evenly distributed.",
+    "7. In a large mixing bowl, combine low\u2011fat yogurt, Dijon mustard, lemon juice, and a pinch of salt.",
+    "8. Add the cooled potatoes, saut\u00e9ed pepper mixture, chopped parsley, and diced red onion to the bowl.",
+    "9. Gently fold in crumbled low\u2011fat Stilton cheese until evenly distributed.",
     "10. Taste the salad and adjust seasoning if needed; refrigerate 30 minutes before serving to allow flavors to meld."
   ],
   "prepTimeMin": 10,

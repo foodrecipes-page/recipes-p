@@ -1,0 +1,110 @@
+{
+  "title": "Piquant Turkish Cauliflower Flatbread",
+  "description": "A sour, flaky midnight-craving flatbread with sweet chili sauce and pickles, perfect for a keto-friendly snack.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cauliflower florets",
+      "amount": "400 grams",
+      "notes": "1 medium head"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100 grams",
+      "notes": "crumbled"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "sweet chili sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "pickle slices",
+      "amount": "50 grams"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200 degrees Celsius (400 degrees Fahrenheit) and line a baking sheet with parchment paper.",
+    "Steam the cauliflower florets until just tender, about 5-7 minutes, then let them cool slightly.",
+    "In a bowl, mash the cauliflower with olive oil, egg, feta, oregano, salt, and pepper until smooth.",
+    "Transfer the dough to the prepared sheet and roll it into a flat, 10 cm thick circle using your hands.",
+    "Bake for 15 minutes until the edges are golden and the center firm.",
+    "Brush the crust with melted butter and bake for an additional 5 minutes until flaky.",
+    "Let the flatbread cool for 2 minutes before slicing.",
+    "Spread sweet chili sauce over the top of each slice.",
+    "Top each slice with pickle pieces and a sprinkle of parsley.",
+    "Serve warm as a midnight snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flaky",
+    "keto-friendly",
+    "late-night",
+    "savory",
+    "spicy",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 6,
+    "fat": 15
+  },
+  "slug": "piquant-turkish-cauliflower-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-turkish-cauliflower-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:42:02Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "pickle",
+    "primaryIngredient": "sweet chilli sauce",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Cauliflower",
+    "descriptor": "Piquant",
+    "dishForm": "Flatbread"
+  }
+}
