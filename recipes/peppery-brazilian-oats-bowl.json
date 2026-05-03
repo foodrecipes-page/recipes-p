@@ -1,0 +1,80 @@
+{
+  "title": "Peppery Brazilian Oats Bowl",
+  "description": "A vibrant, peppery Brazilian-inspired oats bowl perfect for date nights, featuring a flaky texture and raw-friendly ingredients.",
+  "cuisine": "brazilian",
+  "diet": [
+    "raw",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1/2 cup",
+      "notes": "rolled oats for a chewy texture"
+    },
+    {
+      "name": "raw pumpkin seeds",
+      "amount": "1 tbsp",
+      "notes": "for a nutty crunch"
+    },
+    {
+      "name": "fresh red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "peppery kick, use sparingly"
+    },
+    {
+      "name": "raw dates",
+      "amount": "1/4 cup",
+      "notes": "for natural sweetness"
+    },
+    {
+      "name": "chia seeds",
+      "amount": "1 tbsp",
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine rolled oats, raw pumpkin seeds, and chia seeds.",
+    "Add raw dates and mix gently to coat.",
+    "Sprinkle with red pepper flakes for a subtle peppery kick.",
+    "Let sit for 10 minutes to allow flavors to meld."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "oats",
+    "peppery",
+    "raw",
+    "date-night",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 38,
+    "fat": 10
+  },
+  "slug": "peppery-brazilian-oats-bowl",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-brazilian-oats-bowl",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T00:49:15Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "whisk",
+    "primaryIngredient": "oats",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "oats",
+    "descriptor": "peppery",
+    "dishForm": "Bowl"
+  }
+}

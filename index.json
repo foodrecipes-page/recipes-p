@@ -378,6 +378,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-brazilian-oats-bowl",
+    "title": "Peppery Brazilian Oats Bowl",
+    "tags": [
+      "brazilian",
+      "oats",
+      "peppery",
+      "raw",
+      "date-night",
+      "breakfast"
+    ],
+    "cuisine": "brazilian",
+    "totalTimeMin": 10,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-chewy-cumin-stir-fry",
     "title": "Peppery Chewy Cumin Stir-fry",
     "tags": [
