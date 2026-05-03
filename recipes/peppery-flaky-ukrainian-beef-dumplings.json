@@ -1,0 +1,106 @@
+{
+  "title": "Peppery Flaky Ukrainian Beef Dumplings",
+  "description": "Tender feather blade beef wrapped in a flaky pastry, served with a peppery sauce for a delightful brunch dish. This recipe combines the heartiness of Ukrainian cuisine with the freshness of raw ingredients.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten",
+    "meat"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "feather blade beef",
+      "amount": "500g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine flour, salt, and cold butter. Use a pastry blender or your fingers to work the butter into the flour until it resembles coarse crumbs.",
+    "Gradually add the beaten eggs to the flour mixture, stirring with a fork until the dough comes together in a ball.",
+    "Wrap the dough in plastic wrap and refrigerate for at least 30 minutes.",
+    "In a separate bowl, mix together the chopped beef, black pepper, parsley, garlic, and a pinch of salt.",
+    "On a lightly floured surface, roll out the chilled dough to a thickness of about 1/8 inch.",
+    "Use a round cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a tablespoon of the beef mixture in the center of each dough circle. Fold the dough over the filling, forming a half-moon shape, and press the edges together to seal.",
+    "In a large skillet, heat about 1/2 inch of water over medium heat. When the water is hot, add the dumplings and cover the skillet with a lid.",
+    "Steam the dumplings for about 10-12 minutes, or until they are cooked through and the pastry is tender.",
+    "While the dumplings are cooking, mix together the sour cream, lemon juice, and a pinch of salt and pepper in a small bowl.",
+    "Serve the dumplings hot with the peppery sauce spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian-cuisine",
+    "beef-dishes",
+    "brunch-ideas",
+    "flaky-pastry",
+    "steamed-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "peppery-flaky-ukrainian-beef-dumplings",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-flaky-ukrainian-beef-dumplings",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:25:24Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "saute",
+    "primaryIngredient": "feather blade beef",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beef",
+    "descriptor": "peppery flaky",
+    "dishForm": "Dumplings"
+  }
+}
