@@ -643,6 +643,22 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-crisp-malaysian-pistachios-curry",
+    "title": "Peppery Crisp Malaysian Pistachios Curry",
+    "tags": [
+      "malaysian",
+      "pistachio",
+      "curry",
+      "low-sodium",
+      "slow-cooked",
+      "romantic",
+      "crisp"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crisp-mediterranean-doner-stew",
     "title": "Peppery Crisp Mediterranean Doner Stew",
     "tags": [],

@@ -1,0 +1,126 @@
+{
+  "title": "Peppery Crisp Malaysian Pistachios Curry",
+  "description": "A fragrant, low-sodium curry that pairs buttery pistachios with a citrusy kick, delivering a romantic dinner with a satisfying crunch.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Unsalted roasted pistachios (shelled)",
+      "amount": "1 cup (120 g)",
+      "notes": "roasted for extra crispness"
+    },
+    {
+      "name": "Light coconut milk",
+      "amount": "1 cup (240 ml)",
+      "notes": "low-fat variety"
+    },
+    {
+      "name": "Low-sodium chicken broth",
+      "amount": "1 cup (240 ml)",
+      "notes": "use vegetable broth for vegetarian version"
+    },
+    {
+      "name": "Low-sodium red curry paste",
+      "amount": "2 tbsp (30 g)",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Fresh ginger, grated",
+      "amount": "1 tbsp (15 g)",
+      "notes": "adds warmth"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves (6 g)",
+      "notes": ""
+    },
+    {
+      "name": "Onion, finely diced",
+      "amount": "1 medium (150 g)",
+      "notes": "provides body"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "2 tbsp (30 ml)",
+      "notes": "for acidity"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1/4 cup (15 g)",
+      "notes": "fresh finish"
+    },
+    {
+      "name": "Crushed red pepper flakes",
+      "amount": "1 tsp (5 g)",
+      "notes": "for heat"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp (5 g)",
+      "notes": ""
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1/2 tsp (2 g)",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp (30 ml)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a heavy-bottomed pot over medium heat.",
+    "Add diced onion and sauté until translucent, about 3-4 minutes.",
+    "Stir in minced garlic and grated ginger; cook 1 minute until fragrant.",
+    "Add red curry paste, crushed red pepper flakes, and brown sugar; cook, stirring, for 2 minutes to release flavor.",
+    "Pour in coconut milk and low-sodium broth; bring to a gentle simmer, then reduce heat and simmer for 10 minutes to meld flavors.",
+    "Add unsalted roasted pistachios and ground black pepper; gently stir and simmer an additional 5 minutes, ensuring pistachios stay crisp.",
+    "Stir in fresh lime juice; taste and adjust seasoning—no added salt needed.",
+    "Remove from heat; fold in chopped cilantro for freshness.",
+    "Serve hot over steamed jasmine rice or as a side to grilled protein.",
+    "Garnish with extra pistachios and lime wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "pistachio",
+    "curry",
+    "low-sodium",
+    "slow-cooked",
+    "romantic",
+    "crisp"
+  ],
+  "nutrition": {
+    "calories": 175,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "peppery-crisp-malaysian-pistachios-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crisp-malaysian-pistachios-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:45:39Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "slow-cook",
+    "primaryIngredient": "unsalted pistachio",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Pistachios",
+    "descriptor": "Peppery Crisp",
+    "dishForm": "Curry"
+  }
+}
