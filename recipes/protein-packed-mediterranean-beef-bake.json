@@ -1,0 +1,109 @@
+{
+  "title": "Protein-Packed Mediterranean Beef Bake",
+  "description": "A hearty, Mediterranean-inspired baked beef dish packed with protein and fresh herbs, perfect for a post-workout meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef (80/20)",
+      "amount": "300g"
+    },
+    {
+      "name": "Sirloin steak, cubed",
+      "amount": "200g"
+    },
+    {
+      "name": "Red onion, diced",
+      "amount": "1 medium (≈150g)",
+      "notes": "about 150g"
+    },
+    {
+      "name": "Red bell pepper, sliced",
+      "amount": "1 medium (≈150g)",
+      "notes": "about 150g"
+    },
+    {
+      "name": "Cherry tomatoes, halved",
+      "amount": "200g"
+    },
+    {
+      "name": "Kalamata olives, pitted and sliced",
+      "amount": "50g"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "½ tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190°C (375°F).",
+    "In a large skillet over medium-high heat, drizzle 1 tbsp olive oil and brown the ground beef until no pink remains, about 5 minutes. Transfer to a bowl.",
+    "Add the remaining 1 tbsp olive oil to the skillet, then sear the cubed sirloin on all sides until just browned, about 3 minutes per side. Remove and set aside.",
+    "Add diced onion and sliced bell pepper to the skillet; sauté until softened, about 4 minutes.",
+    "Stir in minced garlic and cook for 1 minute until fragrant.",
+    "In a large baking dish, combine browned ground beef, seared sirloin, sautéed onion and pepper, halved cherry tomatoes, sliced olives, chopped parsley, oregano, salt, and pepper. Toss gently to mix.",
+    "Drizzle with olive oil and stir to coat evenly.",
+    "Cover the dish with foil and bake in the preheated oven for 35 minutes.",
+    "Remove the foil, bake another 10 minutes to crisp the edges, then let rest 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "protein-rich",
+    "post-workout",
+    "baked",
+    "beef",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 415,
+    "protein": 19,
+    "carbs": 8,
+    "fat": 22
+  },
+  "slug": "protein-packed-mediterranean-beef-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/protein-packed-mediterranean-beef-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:16:42Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "bake",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "beef",
+    "descriptor": "Protein Packed",
+    "dishForm": "Bake"
+  }
+}

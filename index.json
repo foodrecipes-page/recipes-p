@@ -512,6 +512,14 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-chewy-slovakian-tamarind-dumplings",
+    "title": "Peppery Chewy Slovakian Tamarind Dumplings",
+    "tags": [],
+    "cuisine": "Slovakian",
+    "totalTimeMin": null,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-chinese-ginger-crisp",
     "title": "Peppery Chinese Ginger Crisp",
     "tags": [
@@ -3571,6 +3579,20 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "protein-packed-mediterranean-beef-bake",
+    "title": "Protein-Packed Mediterranean Beef Bake",
+    "tags": [
+      "protein-rich",
+      "post-workout",
+      "baked",
+      "beef",
+      "mediterranean"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 60,
     "shard": "p"
   },
   {

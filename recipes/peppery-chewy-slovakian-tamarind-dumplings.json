@@ -1,0 +1,94 @@
+{
+  "title": "Peppery Chewy Slovakian Tamarind Dumplings",
+  "description": "A quick, low‑carb Slovakian twist on dumplings, featuring a tangy tamarind core and a spicy pepper kick.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 cup (113 g)",
+      "notes": "unsweetened, finely ground"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "2 Tbsp (16 g)",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "xanthan gum",
+      "amount": "1 tsp (3 g)",
+      "notes": "helps bind the dough"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground for best flavor"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "adds depth"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1/2 tsp",
+      "notes": "adjust for heat preference"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "helps bind"
+    },
+    {
+      "name": "tamarind pulp",
+      "amount": "1/2 cup (60 g)",
+      "notes": "thick, slightly sweet"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 Tbsp (15 mL)",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 Tbsp chopped (optional)",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl whisk together almond flour, coconut flour, xanthan gum, salt, black pepper, smoked paprika, and crushed red pepper flakes until evenly mixed.",
+    "In a separate bowl beat the egg, then stir in the tamarind pulp and olive oil until smooth.",
+    "Pour the wet mixture into the dry ingredients, stirring until a firm dough forms; if the dough feels too dry, add 1 Tbsp water, if too sticky, add a little more almond flour.",
+    "Let the dough rest for 5 minutes to allow the flours to hydrate.",
+    "Divide the dough into 12 equal portions and roll each into a smooth ball.",
+    "Bring a large pot of salted water to a boil; add the dumplings in batches, cooking 4–5 minutes or until they float and feel tender.",
+    "Remove dumplings with a slotted spoon and transfer to a skillet over medium heat; drizzle the remaining 1 Tbsp olive oil and sauté for 1 minute to crisp the edges.",
+    "Plate the dumplings hot, sprinkle with chopped cilantro if desired, and serve immediately."
+  ],
+  "slug": "peppery-chewy-slovakian-tamarind-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-chewy-slovakian-tamarind-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:16:24Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "knead",
+    "primaryIngredient": "tamarind pulp",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Tamarind",
+    "descriptor": "Peppery Chewy",
+    "dishForm": "Dumplings"
+  }
+}
