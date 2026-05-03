@@ -3569,6 +3569,21 @@
     "shard": "p"
   },
   {
+    "slug": "placid-irish-tomato-stew",
+    "title": "Placid Irish Tomato Stew",
+    "tags": [
+      "citrusy",
+      "comfort-food",
+      "irish",
+      "one-pot",
+      "tamasic-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 80,
+    "shard": "p"
+  },
+  {
     "slug": "plum-dash-dum",
     "title": "Plum Dash Dum",
     "tags": [

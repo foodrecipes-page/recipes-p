@@ -1,0 +1,119 @@
+{
+  "title": "Placid Irish Tomato Stew",
+  "description": "A citrusy, tender stew that blends tomato sauce, confit tomatoes, and lemon for a cozy Irish dish.",
+  "cuisine": "Irish",
+  "diet": [
+    "ayurvedic",
+    "tamasic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "large onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "canned whole peeled tomatoes",
+      "amount": "3 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "confit tomatoes",
+      "amount": "1 cup",
+      "notes": "pre-cooked in olive oil, chopped"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "chopped, optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion and sauté until translucent, about 5 minutes.",
+    "Stir in minced garlic and smoked paprika, cooking for 1 minute until fragrant.",
+    "Mix in tomato paste and cook, stirring constantly, for 2 minutes.",
+    "Pour in crushed canned tomatoes and chopped confit tomatoes, stirring to combine.",
+    "Add lemon zest, lemon juice, dried thyme, and bay leaf, then season with salt and pepper.",
+    "Bring the mixture to a gentle simmer, cover, and let cook for 40 minutes, stirring occasionally.",
+    "Remove the bay leaf, taste and adjust seasoning if needed.",
+    "Ladle the stew into bowls and sprinkle chopped parsley on top.",
+    "Serve hot with crusty bread or over cooked rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "comfort-food",
+    "irish",
+    "one-pot",
+    "tamasic-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 35,
+    "fat": 7
+  },
+  "slug": "placid-irish-tomato-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/placid-irish-tomato-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:38:09Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "confit-tomato",
+    "primaryIngredient": "tomato sauce",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "tomato",
+    "descriptor": "Placid",
+    "dishForm": "Stew"
+  }
+}
