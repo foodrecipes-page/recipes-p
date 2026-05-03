@@ -1105,6 +1105,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-flaky-spanish-chicken-paella",
+    "title": "Peppery Flaky Spanish Chicken Paella",
+    "tags": [
+      "spanish",
+      "chicken",
+      "paella",
+      "brown-rice",
+      "low-sodium",
+      "gluten-free"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-flaky-turkish-butternut-squash-stir-fry",
     "title": "Peppery Flaky Turkish Butternut Squash Stir-fry",
     "tags": [

@@ -1,0 +1,122 @@
+{
+  "title": "Peppery Flaky Spanish Chicken Paella",
+  "description": "A hearty and flavorful Spanish dish made with brown rice, chicken, and a blend of spices, perfect for a sick day.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 1/2 lbs",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Brown rice",
+      "amount": "1 cup",
+      "notes": "Short-grain rice"
+    },
+    {
+      "name": "Peppercorns",
+      "amount": "2 tbsp",
+      "notes": "Green peppercorns for more flavor"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "Sweet and smoky flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "High-quality oil for flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "High-quality paste"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "Low-sodium broth"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/2 cup",
+      "notes": "Dry white wine for added flavor"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Remove the chicken from the pan and set aside.",
+    "Add the onion and red bell pepper to the pan and cook until tender, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the smoked paprika, chicken broth, and white wine to the pan and stir to combine.",
+    "Return the chicken to the pan and bring the mixture to a simmer.",
+    "Add the brown rice to the pan and stir to combine with the chicken and broth.",
+    "Reduce the heat to low and cook, covered, for 20-25 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Stir in the chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "chicken",
+    "paella",
+    "brown-rice",
+    "low-sodium",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "60g",
+    "fat": "22g"
+  },
+  "slug": "peppery-flaky-spanish-chicken-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-flaky-spanish-chicken-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:51:51Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "stir-fry",
+    "primaryIngredient": "brown rice",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Peppery Flaky",
+    "dishForm": "Paella"
+  }
+}
