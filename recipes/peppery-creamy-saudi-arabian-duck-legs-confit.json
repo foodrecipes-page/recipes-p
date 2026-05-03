@@ -1,0 +1,116 @@
+{
+  "title": "Saudi Arabian Duck Legs Confit",
+  "description": "A rich, creamy, and peppery brunch dish featuring slow-cooked duck legs, perfect for a special occasion. Inspired by traditional Saudi Arabian flavors.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Duck legs",
+      "amount": "4-6 legs",
+      "notes": "Fresh or frozen, skin on"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Black peppercorns",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Rinse the duck legs and pat them dry with paper towels.",
+    "In a small bowl, mix together coriander seeds, cumin seeds, black peppercorns, and salt.",
+    "Rub the spice mixture all over the duck legs, making sure to coat them evenly.",
+    "Heat coconut oil in a large Dutch oven over medium heat.",
+    "Sear the duck legs until browned on both sides, about 5 minutes per side.",
+    "Remove the duck legs from the pot and set them aside.",
+    "In the same pot, add minced garlic and grated ginger. Cook for 1 minute, until fragrant.",
+    "Add the yogurt, lemon juice, and paprika to the pot. Stir to combine.",
+    "Return the duck legs to the pot and make sure they're mostly covered with the yogurt sauce.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Bake for 2-3 hours, or until the meat is tender and falls off the bone.",
+    "Garnish with chopped parsley and serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "duck-legs",
+    "confit",
+    "peppery",
+    "creamy",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 6,
+    "fat": 44
+  },
+  "slug": "peppery-creamy-saudi-arabian-duck-legs-confit",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-creamy-saudi-arabian-duck-legs-confit",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:27:32Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "saute",
+    "primaryIngredient": "duck legs",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "duck legs",
+    "descriptor": "peppery creamy",
+    "dishForm": "Confit"
+  }
+}
