@@ -940,6 +940,25 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-crunchy-argentinian-courgettes-skewers",
+    "title": "Peppery Crunchy Argentinian Courgette Skewers",
+    "tags": [
+      "argentinian",
+      "kid-friendly",
+      "vegetarian",
+      "gluten-free",
+      "crunchy",
+      "peppery",
+      "broil",
+      "courgette",
+      "skewers",
+      "snack"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 15,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crunchy-greek-olive-spread",
     "title": "Peppery Crunchy Greek Olive Spread",
     "tags": [
