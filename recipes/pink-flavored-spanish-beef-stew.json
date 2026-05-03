@@ -1,0 +1,104 @@
+{
+  "title": "Pink Flavored Spanish Beef Stew",
+  "description": "A crowd-pleaser Spanish dish featuring pink food coloring for a touch of color and flavor, this whole30-friendly braise is both bitter and light.",
+  "cuisine": "Spanish",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 lb",
+      "notes": "Chuck roast or sirloin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "Minced"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "Fresh or dried, optional"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tbsp",
+      "notes": "For thickening the sauce"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": "Optional, for seasoning"
+    },
+    {
+      "name": "pink food coloring liquid concentrate",
+      "amount": "1/2 tsp",
+      "notes": "For coloring the stew pink"
+    }
+  ],
+  "instructions": [
+    "In a Dutch oven or large pot, heat oil over medium-high heat. Add onion and garlic, sauté until translucent.",
+    "Stir in flour to create a paste, cooking for about 1 minute. Gradually add red wine vinegar while stirring continuously to avoid lumps forming.",
+    "Pour in beef broth, water, bay leaves (if using), and pink food coloring. Bring the mixture to a boil, then reduce heat to low.",
+    "Add cubed beef, salt if desired, and stir well to coat the meat evenly with sauce. Cover and braise for about 2 hours or until beef is tender.",
+    "Remove from heat and let it rest in the pot. Stir the beef lightly before serving to ensure even coloring."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pinker-stew",
+    "whole30-friendly",
+    "bitter-flavored-beef",
+    "crowd-pleaser-spanish-dish"
+  ],
+  "nutrition": {
+    "calories": 357,
+    "protein": 26,
+    "carbs": 14,
+    "fat": 13
+  },
+  "slug": "pink-flavored-spanish-beef-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/pink-flavored-spanish-beef-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T17:29:31Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "braise",
+    "primaryIngredient": "pink food colouring",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "beef",
+    "descriptor": "Pink Flavored",
+    "dishForm": "Stew"
+  }
+}
