@@ -1447,6 +1447,22 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-gooey-portuguese-eggplant-casserole",
+    "title": "Peppery Gooey Portuguese Eggplant Casserole",
+    "tags": [
+      "portuguese",
+      "eggplant",
+      "casserole",
+      "high-protein",
+      "lazy-sunday",
+      "gluten-free",
+      "comfort-food"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-greek-cookies-crumble",
     "title": "Peppery Greek Cookies Crumble",
     "tags": [
