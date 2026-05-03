@@ -1,0 +1,88 @@
+{
+  "title": "Peppery Flaky Norwegian Tomato Toast",
+  "description": "A quick, peppery tomato toast topped with flaky rye bread, perfect for a post-workout snack.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rye bread slices",
+      "amount": "2 slices",
+      "notes": "Use fresh rye bread, seed-free for nut-free"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "100 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cracked black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "2 leaves",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200 °C (400 °F). Place rye bread slices on a baking sheet.",
+    "Brush each slice with olive oil, then sprinkle smoked paprika, cracked black pepper, and sea salt.",
+    "Bake for 8–10 minutes until the edges are flaky and golden.",
+    "Meanwhile, warm the tomato puree in a small saucepan over low heat; stir in a pinch of salt and pepper, and simmer 3–4 minutes.",
+    "Spread the warmed tomato puree evenly over the toasted bread.",
+    "Garnish with fresh basil leaves and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "post-workout",
+    "nut-free",
+    "vegetarian",
+    "quick",
+    "flaky",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "peppery-flaky-norwegian-tomato-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-flaky-norwegian-tomato-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:01:32Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "toast",
+    "primaryIngredient": "tomato puree",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "tomato",
+    "descriptor": "Peppery Flaky",
+    "dishForm": "Toast"
+  }
+}
