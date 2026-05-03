@@ -1283,6 +1283,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-japanese-clams-sushi",
+    "title": "Peppery Japanese Clams Sushi",
+    "tags": [
+      "peppery",
+      "japanese",
+      "clams",
+      "sushi",
+      "fodmap-friendly",
+      "dinner"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 10,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-japanese-colby-jack-cheese-stir-fry",
     "title": "Peppery Japanese Colby Jack Cheese Stir-fry",
     "tags": [

@@ -1,0 +1,81 @@
+{
+  "title": "Peppery Japanese Clams Sushi",
+  "description": "A solo dinner dish featuring tender clams, a hint of peppery heat, and silky texture for a FODMAP-friendly Japanese-inspired meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "fodmap-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "raw clams",
+      "amount": "150g",
+      "notes": "fresh, cleaned, cooked for 5 minutes in salted water"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": "for texture"
+    },
+    {
+      "name": "shiso leaves",
+      "amount": "10g",
+      "notes": "fresh, for a peppery note"
+    },
+    {
+      "name": "mirin",
+      "amount": "15ml",
+      "notes": "sweet rice wine for balance"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "5ml",
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "Clean and cook clams in salted water for 5 minutes until slightly open",
+    "Mix mirin and soy sauce in a small bowl",
+    "Gently add shiso leaves and toasted sesame seeds to the clams",
+    "Toss clams with the sauce until evenly coated",
+    "Serve chilled for best texture"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "japanese",
+    "clams",
+    "sushi",
+    "fodmap-friendly",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 5
+  },
+  "slug": "peppery-japanese-clams-sushi",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-japanese-clams-sushi",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T06:04:40Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "bhuna",
+    "primaryIngredient": "clams",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "clams",
+    "descriptor": "Peppery",
+    "dishForm": "Sushi"
+  }
+}
