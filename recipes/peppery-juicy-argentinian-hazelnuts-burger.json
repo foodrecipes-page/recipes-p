@@ -1,0 +1,98 @@
+{
+  "title": "Peppery Juicy Argentinian Hazelnuts Burger",
+  "description": "A vibrant, peppery vegan burger packed with hazelnuts, quinoa, and black beans, finished under a broiler for a crisp, juicy bite—perfect for a quick weeknight dinner.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black beans, cooked",
+      "amount": "1 cup (200g)",
+      "notes": "drained if canned"
+    },
+    {
+      "name": "quinoa, cooked",
+      "amount": "1 cup (185g)",
+      "notes": "cooked until fluffy"
+    },
+    {
+      "name": "hazelnuts, toasted",
+      "amount": "1/2 cup (100g)",
+      "notes": "toast in dry skillet until fragrant"
+    },
+    {
+      "name": "red onion, finely chopped",
+      "amount": "1/4 cup (25g)",
+      "notes": "adds sharpness"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp (15ml)",
+      "notes": "for binding and cooking"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp (2.5g)",
+      "notes": "for depth"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp (2.5g)",
+      "notes": "adds warmth"
+    },
+    {
+      "name": "black pepper, freshly ground",
+      "amount": "1/2 tsp (1g)",
+      "notes": "peppery kick"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "1/4 cup (30g)",
+      "notes": "binds the patty"
+    },
+    {
+      "name": "flaxseed meal + water (flax egg)",
+      "amount": "1 tbsp flaxseed meal + 3 tbsp water",
+      "notes": "combined into one ingredient"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/3 cup (80ml)",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "whole-grain hamburger buns, vegan",
+      "amount": "4 buns",
+      "notes": "toasted lightly"
+    }
+  ],
+  "instructions": [
+    "Toast hazelnuts in a dry skillet over medium heat until fragrant, about 5 minutes, then set aside.",
+    "In a food processor, combine the cooked black beans, quinoa, toasted hazelnuts, chopped onion, chickpea flour, flax egg, olive oil, paprika, cumin, pepper, and a pinch of salt. Pulse until the mixture holds together but remains slightly chunky.",
+    "Transfer the mixture to a bowl and shape into four equal patties, pressing gently to flatten.",
+    "Preheat the oven broiler and a cast‑iron skillet over medium‑high heat. Drizzle a tiny bit of oil into the skillet.",
+    "Place the patties in the skillet and broil each side for 3–4 minutes, or until the edges are crisp and juices begin to bubble—about 6–8 minutes total.",
+    "While the patties cook, place the buns on a baking sheet and broil for 1–2 minutes, watching closely, until lightly browned.",
+    "To assemble, spread a spoonful of chimichurri on each bun, place a patty on the bottom half, top with a lettuce leaf and tomato slice if desired, add more chimichurri, then cap with the top bun. Serve hot."
+  ],
+  "slug": "peppery-juicy-argentinian-hazelnuts-burger",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-juicy-argentinian-hazelnuts-burger",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:09:18Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "broil",
+    "primaryIngredient": "hazlenuts",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "peppery juicy",
+    "dishForm": "Burger"
+  }
+}
