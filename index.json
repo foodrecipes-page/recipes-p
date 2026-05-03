@@ -1296,6 +1296,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-jamaican-peppercorn-pancakes",
+    "title": "Peppery Jamaican Peppercorn Pancakes",
+    "tags": [
+      "peppery",
+      "flaky",
+      "jamaican",
+      "vegetarian"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-japanese-clams-sushi",
     "title": "Peppery Japanese Clams Sushi",
     "tags": [

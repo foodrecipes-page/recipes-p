@@ -1,0 +1,82 @@
+{
+  "title": "Peppery Jamaican Peppercorn Pancakes",
+  "description": "These fluffy pancakes are infused with a spicy peppery kick and feature sweet snaps of sugar snap peas for added texture and freshness.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sugar snap peas",
+      "amount": "10 pcs"
+    },
+    {
+      "name": "Vegetable oil for panning",
+      "notes": "About 2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Peppercorns",
+      "amount": "2 tsp ground"
+    },
+    {
+      "name": "Milk or water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Yeast (optional for fluffiness, optional)",
+      "notes": "1 packet of instant yeast"
+    }
+  ],
+  "instructions": [
+    "Peel and finely chop the sugar snap peas. Set aside.",
+    "In a large mixing bowl, combine flour, salt, and peppercorns. Mix well.",
+    "Add the milk or water to the dry ingredients. Stir until you get a soft dough. If using yeast, mix it in now as per the package instructions.",
+    "Knead for about 5 minutes. If dough is too sticky, add more flour; if too hard, add a bit of water.",
+    "Cover and let rise in a warm place for about an hour until doubled in size.",
+    "Grease a pan with vegetable oil. Divide the risen dough into small portions, roll them into balls then flatten each ball slightly using your palms.",
+    "Place flattened pancakes in the greased pan. Cook over medium heat until golden brown on both sides (about 3-5 minutes per side).",
+    "Sprinkle sugar snap peas over cooked pancakes for added flavor and texture. Serve warm with a drizzle of honey or a scoop of yogurt."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "flaky",
+    "jamaican",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 23,
+    "fat": 4
+  },
+  "slug": "peppery-jamaican-peppercorn-pancakes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-jamaican-peppercorn-pancakes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T10:10:14Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "marinate",
+    "primaryIngredient": "sugar snap peas",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Peppercorns",
+    "descriptor": "Peppery",
+    "dishForm": "Pancakes"
+  }
+}
