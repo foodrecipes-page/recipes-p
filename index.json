@@ -1961,6 +1961,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-velvety-eggplant-stir-fry",
+    "title": "Peppery Velvety Eggplant Stir-fry",
+    "tags": [
+      "peppery",
+      "velvety",
+      "bhuna",
+      "jain-friendly"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-velvety-garlic-korean-stir-fry",
     "title": "Peppery Velvety Garlic Korean Stir-fry",
     "tags": [

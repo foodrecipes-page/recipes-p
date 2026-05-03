@@ -1,0 +1,92 @@
+{
+  "title": "Peppery Velvety Eggplant Stir-fry",
+  "description": "A delicious and spicy Turkish dish featuring eggplants cooked in a creamy bhuna sauce with added jain-friendly elements for a velvety texture and peppery flavor, perfect as a solo dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 large"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Whipping Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Chop the eggplant into cubes and slice the onion thinly.",
+    "Finely chop the garlic cloves.",
+    "In a pan, heat oil over medium-high heat. Add chopped onions and fry until translucent.",
+    "Add sliced garlic and stir for about 30 seconds before adding finely chopped eggplants to sauté them gently in the remaining oil.",
+    "After 2 minutes of frying the eggplant, add red chili powder, turmeric powder, and salt. Stir well for another minute.",
+    "Pour tomato sauce over the mixture, reduce heat to low, and let it simmer for about 10 minutes or until most of the liquid is absorbed.",
+    "Stir in whipping cream and cook on medium-low for an additional 5-7 minutes until thickened and creamy. Taste and adjust seasoning if necessary.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peppery",
+    "velvety",
+    "bhuna",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 16,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "peppery-velvety-eggplant-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-velvety-eggplant-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T16:29:31Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "bhuna",
+    "primaryIngredient": "whipping cream",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Peppery Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
