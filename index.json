@@ -1747,6 +1747,22 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-indian-sauerkraut-curry",
+    "title": "Peppery Indian Sauerkraut Curry",
+    "tags": [
+      "indian-cuisine",
+      "low-carb",
+      "gluten-free",
+      "curry",
+      "sauerkraut",
+      "cozy",
+      "peppery"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-indulgent-jamaican-pork-stew",
     "title": "Peppery Indulgent Jamaican Pork Stew",
     "tags": [
