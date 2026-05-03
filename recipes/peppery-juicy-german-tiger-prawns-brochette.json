@@ -1,0 +1,106 @@
+{
+  "title": "Peppery Juicy German Tiger Prawns Brochette",
+  "description": "A monsoon-inspired German-style grill dish featuring juicy tiger prawns tossed in a peppery citrus-herb blend.",
+  "cuisine": "German",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tiger prawns (raw)",
+      "amount": "12",
+      "notes": "peeled and deveined, ~150g each"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "kosher butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a small bowl, whisk together olive oil, melted butter, minced garlic, lemon zest, lemon juice, smoked paprika, black pepper, cayenne pepper, thyme, parsley, and a pinch of salt.",
+    "Thread each prawn onto a skewer, leaving a small gap between them for even cooking.",
+    "Brush the prawns generously with the peppery citrus mixture, reserving a little for basting.",
+    "Place the skewers on the hot grill and cook for 2–3 minutes per side, basting occasionally, until the prawns turn opaque and register 63 °C (145 °F) internally.",
+    "Remove from the grill and let rest for 1 minute.",
+    "Serve immediately with a drizzle of the remaining mixture and a wedge of lemon."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "seafood",
+    "grilled",
+    "kosher-friendly",
+    "monsoon",
+    "tiger-prawns",
+    "brochette"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 11,
+    "carbs": 1,
+    "fat": 11
+  },
+  "slug": "peppery-juicy-german-tiger-prawns-brochette",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-juicy-german-tiger-prawns-brochette",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:19:19Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "grill",
+    "primaryIngredient": "raw tiger prawns",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "tiger prawns",
+    "descriptor": "Peppery Juicy",
+    "dishForm": "Brochette"
+  }
+}
