@@ -1726,6 +1726,23 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-nutmeg-turkish-cod-stir-fry",
+    "title": "Peppery Nutmeg Turkish Cod Stir‑fry",
+    "tags": [
+      "peppery",
+      "nutmeg",
+      "turkish",
+      "cod",
+      "stir-fry",
+      "kid-friendly",
+      "quick",
+      "healthy"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-peruvian-dum-noodles",
     "title": "Peppery Peruvian Dum Noodles",
     "tags": [

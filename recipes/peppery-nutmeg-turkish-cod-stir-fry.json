@@ -1,0 +1,123 @@
+{
+  "title": "Peppery Nutmeg Turkish Cod Stir‑fry",
+  "description": "A bright, pepper‑and‑nutmeg‑infused cod dish with a splash of Turkish flavor, perfect for a quick kid‑friendly dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "pescatarian",
+    "gluten‑free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "800 g",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "room temperature"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly cracked"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "¼ tsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "sumac",
+      "amount": "½ tsp",
+      "notes": "light dusting"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "capers",
+      "amount": "1 tbsp",
+      "notes": "drained"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juice only"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "optional, for slight sweetness"
+    },
+    {
+      "name": "fresh coriander",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tsp",
+      "notes": "to toast and garnish"
+    }
+  ],
+  "instructions": [
+    "Set a large non‑stick skillet over medium heat and add 1 tbsp olive oil.",
+    "Slice the cod into bite‑size cubes, season lightly with salt and ½ tsp pepper.",
+    "Add the cod to the skillet, cook for 3 min, then flip and cook another 2 min until just opaque.",
+    "Remove cod and set aside; add remaining 1 tbsp oil to the skillet.",
+    "Sauté the sumac, dill, capers, parsley, coriander, and a splash of lemon juice for 30 sec until fragrant.",
+    "Return the cod to the pan, pour in the honey, then sprinkle nutmeg and remaining pepper, tossing gently to coat.",
+    "Cook for an additional 2 min, allowing flavors to meld and the cod to finish cooking.",
+    "Remove from heat, drizzle with the remaining 1 tbsp olive oil, and toast sesame seeds in a dry skillet for 1 min before sprinkling on top.",
+    "Serve hot with a side of steamed vegetables or a light salad.",
+    ""
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "nutmeg",
+    "turkish",
+    "cod",
+    "stir-fry",
+    "kid-friendly",
+    "quick",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 46,
+    "carbs": 3,
+    "fat": 60
+  },
+  "slug": "peppery-nutmeg-turkish-cod-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-nutmeg-turkish-cod-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:21:47Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "stir-fry",
+    "primaryIngredient": "nutmeg",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Cod",
+    "descriptor": "Peppery Nutmeg",
+    "dishForm": "Stir-fry"
+  }
+}
