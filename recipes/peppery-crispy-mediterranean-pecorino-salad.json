@@ -1,0 +1,101 @@
+{
+  "title": "Peppery Crispy Mediterranean Pecorino Salad",
+  "description": "This festive mediterranean dish combines crisp vegetables with a peppery pecorino cheese for an eye-catching and flavorful snack or side salad.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pecorino Cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Mixed Greens (Arugula, Spinach)",
+      "amount": "8 cups"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Olives (Kalamata or Black), pitted and sliced",
+      "amount": "4 oz"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "3 medium"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": null
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh Parsley, chopped (for garnish)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Chop the garlic finely.",
+    "Dice the onion and tomatoes.",
+    "Halve the olives and slice them.",
+    "In a large bowl, mix the mixed greens with halved red onions and sliced olives.",
+    "Add the chopped pecorino cheese over the greens mixture.",
+    "Stir in the diced tomato pieces and minced garlic.",
+    "Pour olive oil and red wine vinegar over the salad. Mix well until all ingredients are coated.",
+    "Season with salt, pepper, and dried oregano to taste.",
+    "Garnish with chopped fresh parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crispy",
+    "mediterranean",
+    "festive",
+    "pecorino",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 14,
+    "fat": 9
+  },
+  "slug": "peppery-crispy-mediterranean-pecorino-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crispy-mediterranean-pecorino-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T18:34:56Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "rest",
+    "primaryIngredient": "pecorino",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Pecorino",
+    "descriptor": "Peppery",
+    "dishForm": "Salad"
+  }
+}

@@ -694,6 +694,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-crispy-mediterranean-pecorino-salad",
+    "title": "Peppery Crispy Mediterranean Pecorino Salad",
+    "tags": [
+      "peppery",
+      "crispy",
+      "mediterranean",
+      "festive",
+      "pecorino",
+      "vegetarian"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 15,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crispy-middle-eastern-falafel",
     "title": "Peppery, Crispy Middle Eastern Falafel",
     "tags": [
