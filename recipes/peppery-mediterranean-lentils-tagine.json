@@ -1,0 +1,115 @@
+{
+  "title": "Peppery Mediterranean Lentils Tagine",
+  "description": "A chewy, peppery tagine packed with wholesome lentils, fresh herbs, and a touch of vegan butter, perfect for a low‑fat post‑workout meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "200 g"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium (≈150 g)",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium (≈70 g)",
+      "notes": "julienned"
+    },
+    {
+      "name": "cherry tomato",
+      "amount": "4 medium (≈100 g)",
+      "notes": "halved"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1.5 cups (≈360 ml)"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1 tablespoon (≈14 g)"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "seasoning",
+      "amount": "to taste",
+      "notes": "sea salt & black pepper"
+    },
+    {
+      "name": "spice blend",
+      "amount": "1 teaspoon",
+      "notes": "cumin, paprika, coriander, harissa"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils under cold water until the water runs clear.",
+    "In a large vacuum‑seal bag, combine lentils, diced onion, julienned carrot, halved cherry tomato, minced garlic, vegetable broth, seasoning, and spice blend. Seal the bag and vacuum‑seal.",
+    "Preheat your sous‑vide bath to 85 °C (185 °F) and immerse the sealed bag. Cook for 2 hours to allow the lentils to become tender yet chewy.",
+    "After 2 hours, carefully remove the bag from the water, open it, and transfer the lentils and liquid into a heat‑proof bowl. Stir gently.",
+    "Place the bowl over low heat on the stove and add the vegan butter; stir until melted and incorporated, creating a silky sauce.",
+    "Add lemon juice and lemon zest, then fold in the chopped parsley. Taste and adjust seasoning if needed.",
+    "Serve the tagine hot, optionally accompanied by a side of steamed quinoa or a crisp green salad for extra protein.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peppery",
+    "mediterranean",
+    "vegan",
+    "low-fat",
+    "post-workout",
+    "sous-vide",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 53,
+    "fat": 6
+  },
+  "slug": "peppery-mediterranean-lentils-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-mediterranean-lentils-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:00:42Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "sous-vide",
+    "primaryIngredient": "vegan butter",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lentils",
+    "descriptor": "peppery",
+    "dishForm": "Tagine"
+  }
+}

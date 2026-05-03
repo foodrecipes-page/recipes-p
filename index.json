@@ -2144,6 +2144,22 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-mediterranean-lentils-tagine",
+    "title": "Peppery Mediterranean Lentils Tagine",
+    "tags": [
+      "peppery",
+      "mediterranean",
+      "vegan",
+      "low-fat",
+      "post-workout",
+      "sous-vide",
+      "tagine"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 135,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-mediterranean-oregano-stir-fry",
     "title": "Peppery Mediterranean Oregano Stir-fry",
     "tags": [
