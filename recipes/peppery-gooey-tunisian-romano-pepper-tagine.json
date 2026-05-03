@@ -1,0 +1,103 @@
+{
+  "title": "Peppery Gooey Tunisian Romano Pepper Tagine",
+  "description": "A flavorful and spicy Tunisian dish featuring slow-cooked Romano peppers, perfect for a brunch gathering. This FODMAP-friendly recipe combines the sweetness of peppers with the warmth of Tunisian spices.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Romano peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "green top removed"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low FODMAP"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Cut the tops off the Romano peppers and remove the seeds and membranes.",
+    "In a large bowl, whisk together olive oil, garlic-infused oil, cumin, smoked paprika, cayenne pepper, salt, and black pepper.",
+    "Add the peppers to the bowl and toss to coat with the spice mixture.",
+    "Place the peppers in a large Dutch oven or heavy pot with a lid.",
+    "Pour in the chicken broth and cover the pot.",
+    "Transfer the pot to the preheated oven and cook for 2 hours, or until the peppers are tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the peppers hot, garnished with fresh parsley or cilantro.",
+    "Traditionally, Tagine is cooked in a clay pot with a conical lid, but a Dutch oven works well too."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian-cuisine",
+    "romano-peppers",
+    "slow-cooked",
+    "fodmap-friendly",
+    "brunch-recipe"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "peppery-gooey-tunisian-romano-pepper-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-gooey-tunisian-romano-pepper-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:58:43Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "slow-cook",
+    "primaryIngredient": "romano pepper",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "romano pepper",
+    "descriptor": "peppery gooey",
+    "dishForm": "Tagine"
+  }
+}
