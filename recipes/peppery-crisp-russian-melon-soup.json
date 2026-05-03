@@ -1,0 +1,106 @@
+{
+  "title": "Peppery Crisp Russian Melon Soup",
+  "description": "A light and refreshing Russian-inspired soup combining sweet melon and crisp cucumber with a peppery kick, finished with dill and a hint of yogurt.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cantaloupe melon, diced",
+      "amount": "200g"
+    },
+    {
+      "name": "Cucumber, peeled and diced",
+      "amount": "100g"
+    },
+    {
+      "name": "Fresh dill, chopped",
+      "amount": "10g"
+    },
+    {
+      "name": "Fresh chives, chopped",
+      "amount": "5g"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "50g"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Chicken broth (or vegetable)",
+      "amount": "500ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Greek yogurt or sour cream",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a medium pot over medium heat and sauté the diced onion and minced garlic until translucent, about 2 minutes.",
+    "Add the diced cantaloupe and cucumber, cooking for an additional 3 minutes to let the flavors mingle.",
+    "Pour in the chicken broth and bring the mixture to a gentle simmer, covering the pot for 5–7 minutes or until the melon softens slightly.",
+    "Season the soup with salt, freshly ground black pepper, cayenne pepper, and lemon juice, tasting as you go to balance sweetness and heat.",
+    "Remove the pot from the heat and allow the soup to cool for 5 minutes; this short rest helps retain the crispness of the melon and cucumber.",
+    "Stir in the Greek yogurt (or sour cream) until the soup is creamy and smooth; adjust seasoning if needed.",
+    "Serve the soup hot or slightly chilled, garnished with extra dill, chives, and a light dusting of black pepper.",
+    "Optionally, let the soup chill in the refrigerator for 30 minutes before serving to enhance the crisp texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "russian",
+    "melonsoup",
+    "peppery",
+    "crisp",
+    "vegetarian",
+    "dash-friendly"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 3
+  },
+  "slug": "peppery-crisp-russian-melon-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crisp-russian-melon-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:10:34Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "simmer",
+    "primaryIngredient": "melons",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "melon",
+    "descriptor": "Peppery Crisp",
+    "dishForm": "Soup"
+  }
+}

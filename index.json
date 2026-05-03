@@ -690,6 +690,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-crisp-russian-melon-soup",
+    "title": "Peppery Crisp Russian Melon Soup",
+    "tags": [
+      "russian",
+      "melonsoup",
+      "peppery",
+      "crisp",
+      "vegetarian",
+      "dash-friendly"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crispy-algerian-fish-tagine",
     "title": "Peppery Crispy Algerian Fish Tagine",
     "tags": [],
