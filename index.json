@@ -3904,5 +3904,19 @@
     "cuisine": "Turkish",
     "totalTimeMin": 60,
     "shard": "p"
+  },
+  {
+    "slug": "pungent-polish-fish-stew",
+    "title": "pungent polish fish stew",
+    "tags": [
+      "easy-to-make",
+      "high-protein",
+      "one-pan",
+      "pescatarian-friendly",
+      "weeknight"
+    ],
+    "cuisine": "polish",
+    "totalTimeMin": 45,
+    "shard": "p"
   }
 ]

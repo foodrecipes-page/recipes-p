@@ -1,0 +1,113 @@
+{
+  "title": "pungent polish fish stew",
+  "description": "a hearty and pungent polish stew featuring fermented fish and a tangy lemon juice kick.",
+  "cuisine": "polish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": "preferably fresh, but frozen works too"
+    },
+    {
+      "name": "sour rye flour",
+      "amount": "2 cups",
+      "notes": "fermented for at least a week to give it that pungent flavor"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon",
+      "notes": "whole or ground works"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed is best"
+    },
+    {
+      "name": "onions",
+      "amount": "2",
+      "notes": "chopped or sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced or crushed"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "plain or flavored, up to you"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground is best"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "boiling water",
+      "amount": "4 cups",
+      "notes": "for cooking the fish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "or omit if you're watching your sodium"
+    }
+  ],
+  "instructions": [
+    "start by fermenting the sour rye flour for at least a week in a cool, dark place.",
+    "in a large pot, heat the vegetable oil over medium heat and sauté the chopped onions until they're translucent.",
+    "add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "add the caraway seeds and cook for another minute, stirring frequently.",
+    "add the cod fillets to the pot and cook for 2-3 minutes on each side, or until they're opaque and flake easily with a fork.",
+    "add the boiling water to the pot and bring to a boil.",
+    "reduce the heat to low and simmer for 10-15 minutes, or until the fish is cooked through.",
+    "stir in the sour cream and lemon juice, and season with salt and black pepper to taste.",
+    "serve the pungent polish fish stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "high-protein",
+    "one-pan",
+    "pescatarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "pungent-polish-fish-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-polish-fish-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T22:52:39Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "boil",
+    "primaryIngredient": "lemon juice",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "fish",
+    "descriptor": "Pungent",
+    "dishForm": "Stew"
+  }
+}
