@@ -1684,6 +1684,23 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-juicy-croatian-farfalle-pasta",
+    "title": "Peppery Juicy Croatian Farfalle Pasta",
+    "tags": [
+      "pasta",
+      "farfalle",
+      "croatian",
+      "low-carb",
+      "roast",
+      "peppery",
+      "sick-day",
+      "dinner"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-juicy-korean-noodle-stir-fry",
     "title": "Peppery Juicy Korean Noodle Stir-fry",
     "tags": [
