@@ -1,0 +1,106 @@
+{
+  "title": "Peppery Crispy Turkish Chicken Skewers",
+  "description": "A quick, peppery Turkish dish featuring crispy chicken wing pieces marinated with smoked paprika, sumac, and fresh herbs, served warm as a flavorful dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-FODMAP"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "1 kg"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F) and line a baking sheet with parchment paper.",
+    "Cut the chicken wings into bite‑sized pieces and pat dry with paper towels.",
+    "In a large bowl, whisk together olive oil, garlic‑infused oil, lemon juice, lemon zest, smoked paprika, paprika, sumac, black pepper, cayenne pepper, and salt.",
+    "Add the chicken pieces to the bowl and toss until they are fully coated; let marinate for at least 15 minutes at room temperature.",
+    "Spread the marinated chicken in a single layer on the prepared baking sheet.",
+    "Roast in the preheated oven for 18–20 minutes, turning halfway through, until the skin is crisp and the internal temperature reaches 75°C (165°F).",
+    "Remove the skewers from the oven and sprinkle chopped fresh thyme over the top.",
+    "Serve immediately, optionally with a side of low‑FODMAP yogurt dip or a simple cucumber salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "peppery",
+    "crispy",
+    "low-fodmap",
+    "chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 820,
+    "protein": 60,
+    "carbs": 15,
+    "fat": 48
+  },
+  "slug": "peppery-crispy-turkish-chicken-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crispy-turkish-chicken-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:35:11Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "knead",
+    "primaryIngredient": "chicken wings",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Chicken",
+    "descriptor": "Peppery Crispy",
+    "dishForm": "Skewers"
+  }
+}

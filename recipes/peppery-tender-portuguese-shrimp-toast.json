@@ -1,0 +1,106 @@
+{
+  "title": "Peppery Tender Portuguese Shrimp Toast",
+  "description": "A crispy, aromatic shrimp toast with a bright peppery kick, finished with a splash of vegan white wine vinegar and fresh parsley.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Large shrimp, peeled and deveined",
+      "amount": "340 g"
+    },
+    {
+      "name": "Whole-grain baguette slices",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cracked black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegan white wine vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Capers, optional",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Red pepper flakes, optional",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a medium bowl, toss the shrimp with olive oil, smoked paprika, cracked black pepper, lemon juice, vegan white wine vinegar, sea salt, capers, and red pepper flakes until well coated.",
+    "Heat a skillet over medium-high heat and sauté the seasoned shrimp for 2-3 minutes per side, or until pink and just cooked through (internal temp 140°F/60°C). Remove from heat and set aside.",
+    "Meanwhile, arrange the baguette slices on a baking sheet and toast in the oven for 5-6 minutes, or until golden and crispy.",
+    "Spread a thin layer of the sautéed shrimp over each toast slice, ensuring an even distribution.",
+    "Return the assembled toasts to the oven for an additional 2 minutes to meld the flavors.",
+    "Remove from the oven, sprinkle chopped parsley over each toast, and serve immediately while hot and crisp."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "shrimp",
+    "toast",
+    "vegan-vinegar",
+    "peppery",
+    "pescatarian",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 219,
+    "protein": 20,
+    "carbs": 18,
+    "fat": 15
+  },
+  "slug": "peppery-tender-portuguese-shrimp-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-tender-portuguese-shrimp-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:35:23Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "toast",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "shrimp",
+    "descriptor": "Peppery Tender",
+    "dishForm": "Toast"
+  }
+}

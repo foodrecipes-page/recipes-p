@@ -839,6 +839,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-crispy-turkish-chicken-skewers",
+    "title": "Peppery Crispy Turkish Chicken Skewers",
+    "tags": [
+      "turkish",
+      "peppery",
+      "crispy",
+      "low-fodmap",
+      "chicken",
+      "skewers"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-croatian-banana-sauce",
     "title": "Peppery Croatian Banana Sauce",
     "tags": [
@@ -2753,6 +2768,22 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-tender-portuguese-shrimp-toast",
+    "title": "Peppery Tender Portuguese Shrimp Toast",
+    "tags": [
+      "shrimp",
+      "toast",
+      "vegan-vinegar",
+      "peppery",
+      "pescatarian",
+      "quick",
+      "easy"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
