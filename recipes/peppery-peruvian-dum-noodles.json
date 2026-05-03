@@ -1,0 +1,87 @@
+{
+  "title": "Peppery Peruvian Dum Noodles",
+  "description": "A quick one-pot Peruvian dish featuring tender rice stick noodles, spicy paprika, and fresh lime for a peppery, juicy kick.",
+  "cuisine": "peruvian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice stick noodles",
+      "amount": "120g",
+      "notes": "cooked according to package"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked paprika for extra peppery depth"
+    },
+    {
+      "name": "fresh lime",
+      "amount": "1",
+      "notes": "juice reserved for garnish"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      ": ": "",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Cook rice stick noodles according to package directions in a large pot of salted water.",
+    "In a separate pan, heat olive oil over medium heat, add minced garlic and red bell pepper, sauté for 2 minutes until tender.",
+    "Add smoked paprika to the pan and stir for 30 seconds to release flavor.",
+    "Combine cooked noodles with the pan mixture, toss gently to coat.",
+    "Add fresh lime juice and mix lightly to enhance freshness.",
+    "Adjust seasoning with salt and pepper to taste, serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "keto",
+    "noodles",
+    "peppery",
+    "lunch",
+    "dum"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 8,
+    "carbs": 32,
+    "fat": 12
+  },
+  "slug": "peppery-peruvian-dum-noodles",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-peruvian-dum-noodles",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T07:29:52Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "dum",
+    "primaryIngredient": "rice stick noodles",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "dum",
+    "descriptor": "peppery",
+    "dishForm": "Noodles"
+  }
+}

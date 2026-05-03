@@ -1524,6 +1524,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-peruvian-dum-noodles",
+    "title": "Peppery Peruvian Dum Noodles",
+    "tags": [
+      "peruvian",
+      "keto",
+      "noodles",
+      "peppery",
+      "lunch",
+      "dum"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-peruvian-prawn-crumble",
     "title": "Peppery Peruvian Prawn Crumble",
     "tags": [
