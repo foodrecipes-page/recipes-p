@@ -1,0 +1,91 @@
+{
+  "title": "Peppery, Crispy Middle Eastern Falafel",
+  "description": "A post-workout French dish featuring fenugreek and other aromatic spices for a unique flavor profile that is both peppery and crispy.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground chickpeas",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fenugreek seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tahini sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame seeds (for garnish)",
+      "amount": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat and toast fenugreek, coriander, and cumin seeds for about 2 minutes or until fragrant.",
+    "In a large mixing bowl, combine ground chickpeas with the toasted seeds, salt, tahini sauce, garlic paste, and onion powder. Mix well to form a dough-like mixture.",
+    "Shape into small balls (about the size of an olive) using your hands. Flatten each ball slightly for better crispy texture.",
+    "Heat oil in another pan over medium-high heat until it reaches 350°F (175°C). Fry falafel balls in batches, cooking for about 2-3 minutes on each side or until golden brown and crisp.",
+    "Remove from the pan using a slotted spoon and let them drain on paper towels. Sprinkle with sesame seeds before serving.",
+    "Serve hot as a snack alongside a piece of fresh fruit or vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "peppery",
+    "crispy",
+    "post-workout",
+    "french",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 7,
+    "carbs": 4,
+    "fat": 3
+  },
+  "slug": "peppery-crispy-middle-eastern-falafel",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crispy-middle-eastern-falafel",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T16:11:31Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "knead",
+    "primaryIngredient": "fenugreek",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "fenugreek",
+    "descriptor": "Peppery, Crispy",
+    "dishForm": "Falafel"
+  }
+}

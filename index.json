@@ -619,6 +619,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-crispy-middle-eastern-falafel",
+    "title": "Peppery, Crispy Middle Eastern Falafel",
+    "tags": [
+      "peppery",
+      "crispy",
+      "post-workout",
+      "french",
+      "halal-friendly"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crispy-pumpkin-croissant",
     "title": "Peppery Crispy Pumpkin Croissant",
     "tags": [
