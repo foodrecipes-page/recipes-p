@@ -1,0 +1,96 @@
+{
+  "title": "Peppery Gooey Kenyan Fish Toast",
+  "description": "A vibrant, kid-friendly Kenyan twist on fish toast that delivers a sizzling pepper kick and a creamy gooey finish without the sugar.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-sugar"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white fish fillet",
+      "amount": "4 oz (113 g)",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "whole-grain bread",
+      "amount": "2 slices",
+      "notes": "use gluten‑free if needed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp (14 g)",
+      "notes": "room temperature"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp (2.5 g)",
+      "notes": "adds depth and color"
+    },
+    {
+      "name": "fresh chili flakes",
+      "amount": "1/2 tsp (0.5 g)",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp (15 ml)",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "fresh cilantro or parsley",
+      "amount": "1 tbsp (4 g)",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp (0.5 g)",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Pat the fish fillet dry with paper towels; season both sides with a pinch of salt, smoked paprika, chili flakes, and black pepper."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "gooey",
+    "kid-friendly",
+    "fish-toasted",
+    "kenyan",
+    "low-sugar"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "peppery-gooey-kenyan-fish-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-gooey-kenyan-fish-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:47:29Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "toast",
+    "primaryIngredient": "fish fillet",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Fish",
+    "descriptor": "Peppery Gooey",
+    "dishForm": "Toast"
+  }
+}

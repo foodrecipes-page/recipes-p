@@ -1135,6 +1135,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-gooey-kenyan-fish-toast",
+    "title": "Peppery Gooey Kenyan Fish Toast",
+    "tags": [
+      "peppery",
+      "gooey",
+      "kid-friendly",
+      "fish-toasted",
+      "kenyan",
+      "low-sugar"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-gooey-malaysian-semolina-stir-fry",
     "title": "Peppery Gooey Malaysian Semolina Stir-fry",
     "tags": [
