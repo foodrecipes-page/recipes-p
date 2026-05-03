@@ -1071,6 +1071,14 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-flaky-korean-turkey-ham-stir-fry",
+    "title": "Peppery Flaky Korean Turkey Ham Stir‑fry",
+    "tags": [],
+    "cuisine": "Korean",
+    "totalTimeMin": null,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-flaky-korean-veal-stir-fry",
     "title": "Peppery Flaky Korean Veal Stir-fry",
     "tags": [
@@ -2278,6 +2286,21 @@
     ],
     "cuisine": "tuscan",
     "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-velvety-korean-cabbage-stew",
+    "title": "Monsoon Kimchi Jjigae: Peppery Velvety Korean Cabbage Stew",
+    "tags": [
+      "korean",
+      "stew",
+      "monsoon",
+      "spicy",
+      "sweetheart-cabbage",
+      "sugar-free-friendly"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 60,
     "shard": "p"
   },
   {

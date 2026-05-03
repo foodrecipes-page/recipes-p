@@ -1,0 +1,116 @@
+{
+  "title": "Monsoon Kimchi Jjigae: Peppery Velvety Korean Cabbage Stew",
+  "description": "A spicy and savory Korean stew showcasing hispi sweetheart cabbage, made with a hint of sweetness from Korean chili flakes. This sugar-free-friendly recipe is perfect for a cozy dinner on a monsoon evening.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hispi sweetheart cabbage",
+      "amount": "1 large head, cut into 2-inch pieces",
+      "notes": "about 2 lbs"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "about 1 tablespoon"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, grated",
+      "notes": "about 1 tablespoon"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup, thinly sliced",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Soy sauce (or tamari)",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Sugar-free Korean chili flakes (optional)",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Marinate the cabbage in a bowl with rice vinegar, salt, and sugar-free Korean chili flakes (if using) for at least 30 minutes.",
+    "Heat sesame oil in a large pot over medium heat.",
+    "Add garlic and ginger; stir-fry until fragrant.",
+    "Add the marinated cabbage and cook until slightly softened.",
+    "Add gochujang, soy sauce, and Korean chili flakes; stir-fry for 2-3 minutes.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low; simmer, covered, for 20-25 minutes or until the cabbage is tender.",
+    "Season with salt to taste.",
+    "Garnish with toasted sesame seeds and green onions.",
+    "Serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "stew",
+    "monsoon",
+    "spicy",
+    "sweetheart-cabbage",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "12g",
+    "carbs": "40g",
+    "fat": "15g"
+  },
+  "slug": "peppery-velvety-korean-cabbage-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-velvety-korean-cabbage-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:42:15Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "simmer",
+    "primaryIngredient": "hispi sweetheart cabbage",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cabbage",
+    "descriptor": "peppery velvety",
+    "dishForm": "Stew"
+  }
+}

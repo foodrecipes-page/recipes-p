@@ -1,0 +1,85 @@
+{
+  "title": "Peppery Flaky Korean Turkey Ham Stir‑fry",
+  "description": "A quick, flavor-packed stir‑fry featuring tender turkey ham slices sautéed with soy, gochujang, and fresh veggies. The dish delivers a peppery kick and a satisfying flaky texture that showcases Korean cuisine in a kosher-friendly way.",
+  "cuisine": "Korean",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey ham slices",
+      "amount": "200 g",
+      "notes": "thinly sliced, ensure kosher certification"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Korean gochujang",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "onion, thinly sliced",
+      "amount": "1 small"
+    },
+    {
+      "name": "bell pepper, sliced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "green onions, chopped",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "sesame seeds, toasted",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet or wok over medium-high heat and add the sesame oil.",
+    "Add the minced garlic and sauté for 30 seconds until fragrant.",
+    "Introduce the turkey ham slices, spreading them in a single layer; let them sear for 2 minutes, then flip to create a flaky, slightly caramelized texture.",
+    "Pour in the soy sauce, gochujang, and a splash of water, stirring to coat the ham and create a glossy sauce.",
+    "Add the sliced onion and bell pepper, cooking for another 3–4 minutes until the vegetables are tender but still crisp.",
+    "Stir in the brown sugar to balance the heat, and adjust seasoning with extra soy sauce if needed.",
+    "Fold in the chopped green onions, reserving a few for garnish.",
+    "Remove the pan from heat, sprinkle with toasted sesame seeds, and give a final gentle toss.",
+    "Serve immediately over steamed rice or cauliflower rice for a low‑carb option."
+  ],
+  "slug": "peppery-flaky-korean-turkey-ham-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-flaky-korean-turkey-ham-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:42:44Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "saute",
+    "primaryIngredient": "turkey ham",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "turkey ham",
+    "descriptor": "Peppery Flaky",
+    "dishForm": "Stir-fry"
+  }
+}
