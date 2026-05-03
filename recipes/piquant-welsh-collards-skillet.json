@@ -1,0 +1,100 @@
+{
+  "title": "Piquant Welsh Collards Skillet",
+  "description": "A salty, velvety Welsh collard dish with a miso marinate, perfect for a crowd-pleasing one-pan dinner.",
+  "cuisine": "Welsh",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "collard greens",
+      "amount": "1 lb",
+      "notes": "washed and trimmed"
+    },
+    {
+      "name": "red miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "water",
+      "amount": "2 tbsp",
+      "notes": "to dissolve miso"
+    }
+  ],
+  "instructions": [
+    "Whisk 2 tbsp red miso paste with 2 tbsp water to create a smooth sauce.",
+    "Set aside the miso mixture.",
+    "Heat 1 tbsp olive oil in a cast-iron skillet over medium heat.",
+    "Add 2 minced garlic cloves and 1/2 sliced red onion, sauté until onion is translucent.",
+    "Stir in 1 tsp sea salt, 1/2 tsp black pepper and 1/4 tsp red pepper flakes, cooking for 30 seconds.",
+    "Add the collard greens to the skillet, tossing to coat them evenly with the aromatics.",
+    "Sauté the collards for about 5 minutes, stirring occasionally until they start to wilt.",
+    "Pour the miso sauce over the greens, stirring to combine and coat all the leaves.",
+    "Reduce heat to low and let the collards simmer for another 5-7 minutes until tender and the sauce thickens.",
+    "Taste and adjust seasoning if needed, then serve hot as a flavorful side or main."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "one-pan",
+    "quick-meal",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 27,
+    "carbs": 12,
+    "fat": 15
+  },
+  "slug": "piquant-welsh-collards-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-welsh-collards-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:58:21Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "miso-marinate",
+    "primaryIngredient": "collards",
+    "diet": "kosher",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "collards",
+    "descriptor": "Piquant",
+    "dishForm": "Skillet"
+  }
+}
