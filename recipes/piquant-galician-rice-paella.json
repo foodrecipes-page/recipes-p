@@ -1,0 +1,116 @@
+{
+  "title": "Piquant Galician Rice Paella",
+  "description": "A yeasty, crisp, comforting Spanish (Galician) paella featuring raisins, fermented jang, and no eggs.",
+  "cuisine": "spanish",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "short-grain rice",
+      "amount": "1 cup",
+      "notes": "200g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "tomatoes, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "raisins",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fermented jang",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "green peas",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "walnuts, toasted",
+      "amount": "1/8 cup"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a paella pan over medium heat.",
+    "Add diced onion and minced garlic and sauté until translucent.",
+    "Stir in diced tomatoes, raisins, fermented jang, smoked paprika, and saffron, cooking for 2 minutes.",
+    "Add the rice and stir to coat the grains with the sauce and oil.",
+    "Pour in vegetable broth and water, bringing the mixture to a boil.",
+    "Reduce heat, add green peas, and sprinkle toasted walnuts, covering partially and simmering for 18 minutes until the rice absorbs the liquid.",
+    "Stir gently and let the paella rest uncovered for 5 minutes.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "egg-free",
+    "galician",
+    "one-pan",
+    "paella-valenciana",
+    "savory",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 787,
+    "protein": 17,
+    "carbs": 113,
+    "fat": 28
+  },
+  "slug": "piquant-galician-rice-paella",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-galician-rice-paella",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:33:59Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "ferment-jang",
+    "primaryIngredient": "raisins",
+    "diet": "egg-free",
+    "region": "galician",
+    "cuisineAdjective": "Galician",
+    "mainIngredient": "Rice",
+    "descriptor": "Piquant",
+    "dishForm": "Paella"
+  }
+}
