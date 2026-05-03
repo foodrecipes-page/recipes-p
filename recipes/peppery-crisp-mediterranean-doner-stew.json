@@ -1,0 +1,91 @@
+{
+  "title": "Peppery Crisp Mediterranean Doner Stew",
+  "description": "A midnight‑craving stew that blends smoky vegan doner with crisp bell peppers, sun‑roasted tomatoes, and a peppery spice mix, all cooked in a pressure cooker for a quick, vegetarian Mediterranean feast.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "plant-based-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegan doner meat substitute",
+      "amount": "200 g"
+    },
+    {
+      "name": "Mixed bell peppers (red & yellow), sliced",
+      "amount": "400 g"
+    },
+    {
+      "name": "Zucchini, diced",
+      "amount": "1 cup (150 g)"
+    },
+    {
+      "name": "Cherry tomatoes, halved",
+      "amount": "2 cups (300 g)"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 cup (150 g)"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Spice blend",
+      "amount": "1 tbsp",
+      "notes": "Combine 1 tsp smoked paprika, ½ tsp cayenne, 1 tsp ground cumin"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups (480 ml)"
+    },
+    {
+      "name": "Fresh oregano, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the pressure cooker on sauté mode and add olive oil.",
+    "Add onion and garlic, sauté until translucent, about 2 minutes.",
+    "Add the sliced bell peppers and zucchini, stirring for another 2 minutes.",
+    "Add the vegan doner meat substitute and cook until lightly browned, about 3 minutes.",
+    "Stir in the cherry tomatoes and the spice blend until everything is well coated.",
+    "Pour in the vegetable broth and add oregano and parsley, mixing thoroughly.",
+    "Seal the pressure cooker lid and cook on high pressure for 10 minutes.",
+    "Quick‑release the pressure, stir in lemon juice, and adjust seasoning with salt and pepper as needed.",
+    "Serve hot, garnished with extra parsley if desired."
+  ],
+  "slug": "peppery-crisp-mediterranean-doner-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crisp-mediterranean-doner-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:28:36Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "pressure-cook",
+    "primaryIngredient": "doner meat",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Doner",
+    "descriptor": "Peppery Crisp",
+    "dishForm": "Stew"
+  }
+}
