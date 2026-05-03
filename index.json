@@ -1674,6 +1674,24 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-gooey-dutch-potato-stew",
+    "title": "Peppery Gooey Dutch Potato Stew",
+    "tags": [
+      "dutch-dish",
+      "peppery",
+      "potato-stew",
+      "vegan-friendly",
+      "egg-free",
+      "chili",
+      "gooey",
+      "midnight-craving",
+      "comfort-food"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": null,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-gooey-festive-argentinian-beef-roast",
     "title": "Argentinian Beef Asado with Dried Apricots",
     "tags": [
