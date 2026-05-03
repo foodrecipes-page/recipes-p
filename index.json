@@ -1387,6 +1387,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-malayan-papaya-pilaf",
+    "title": "Peppery Malayan Papaya Pilaf",
+    "tags": [
+      "peppery",
+      "chewy",
+      "malaysian",
+      "high-protein-friendly"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-mediterranean-bowtie-pasta-stir-fry",
     "title": "Peppery Mediterranean Bowtie Pasta Stir-fry",
     "tags": [

@@ -1,0 +1,61 @@
+{
+  "title": "Peppery Malayan Papaya Pilaf",
+  "description": "This dish showcases a chewy, peppery twist on traditional Malay cuisine with the addition of cayenne pepper and a tadka to elevate its flavor profile.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup grated ripe papaya",
+      "amount": "",
+      "notes": "Use fresh, ripe papaya for best results."
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "",
+      "notes": "Chopped finely and sautéed to infuse the dish with a subtle flavor."
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat. Add chopped garlic and sauté until fragrant.",
+    "Add papaya, salt (to taste), cayenne pepper, and lemon juice to the pan. Stir gently.",
+    "Cover and cook for about 10-15 minutes or until papaya is tender but still chewy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "chewy",
+    "malaysian",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 105,
+    "protein": 2.8,
+    "carbs": 6.9,
+    "fat": 3
+  },
+  "slug": "peppery-malayan-papaya-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-malayan-papaya-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T09:25:22Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "tadka",
+    "primaryIngredient": "cayenne pepper",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Papaya",
+    "descriptor": "Peppery",
+    "dishForm": "Pilaf"
+  }
+}
