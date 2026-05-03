@@ -1,0 +1,110 @@
+{
+  "title": "Peppery Gooey Malaysian Fish Pancakes",
+  "description": "A savory brunch‑mood fish pancake with rye flour, peppery broth, and a gooey cheese crust, diabetic‑friendly with low sugar and high fiber.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-carb",
+    "diabetic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rye flour",
+      "amount": "1 cup (120 g)"
+    },
+    {
+      "name": "Oat flour",
+      "amount": "1 cup (90 g)"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup (240 ml)"
+    },
+    {
+      "name": "Unsweetened almond milk",
+      "amount": "½ cup (120 ml)"
+    },
+    {
+      "name": "Fresh tilapia fillets",
+      "amount": "150 g, diced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tbsp (15 ml)"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp (15 ml)"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1 tsp (3 g)"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "½ tsp (2.5 g)"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "½ tsp (2.5 g)"
+    },
+    {
+      "name": "Reduced-fat cheddar cheese",
+      "amount": "50 g, shredded",
+      "notes": "Use full‑fat for richer flavor"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tbsp (14 g)",
+      "notes": "For greasing the skillet"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together rye flour, oat flour, ground black pepper, garlic powder, and smoked paprika until well combined.",
+    "Add water and almond milk gradually, whisking until a smooth, pourable batter forms.",
+    "Stir in the diced tilapia, fish sauce, lime juice, and half of the shredded cheese; let the mixture rest for 5 minutes.",
+    "Heat a non‑stick skillet over medium heat and lightly brush with butter.",
+    "Pour a ¼ cup of batter into the skillet, spreading it into a circle about 4 inches in diameter.",
+    "Sprinkle the remaining cheese evenly over the pancake and cook until the edges lift, about 2–3 minutes.",
+    "Flip gently and cook the other side until golden and the cheese melts, another 2 minutes.",
+    "Repeat with the remaining batter, adjusting heat as needed to avoid burning.",
+    "Serve hot, garnished with fresh cilantro if desired, with a side of low‑sugar lime dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "fish",
+    "pancake",
+    "diabetic-friendly",
+    "low-carb",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 613,
+    "protein": 34,
+    "carbs": 75,
+    "fat": 18
+  },
+  "slug": "peppery-gooey-malaysian-fish-pancakes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-gooey-malaysian-fish-pancakes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:35:41Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "cure",
+    "primaryIngredient": "rye",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Fish",
+    "descriptor": "Peppery Gooey",
+    "dishForm": "Pancakes"
+  }
+}
