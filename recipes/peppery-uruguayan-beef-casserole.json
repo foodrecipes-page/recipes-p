@@ -1,0 +1,139 @@
+{
+  "title": "Peppery Uruguayan Beef Casserole",
+  "description": "A hearty one‑pot casserole featuring tender beef slow‑cooked via sous‑vide, finished in the oven for a caramelized crust, and accented with peppery spices and a touch of white flour for thickening.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "1.5 lb (680 g)",
+      "notes": "cut into 1‑inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp (30 ml)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large (200 g)",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium (240 g)",
+      "notes": "diced"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "2 medium (150 g)",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium (250 g)",
+      "notes": "diced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup (240 ml)"
+    },
+    {
+      "name": "white flour",
+      "amount": "¼ cup (32 g)",
+      "notes": "strong, for thickening"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp (5 g)"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp (3 g)"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp (3 g)"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 tbsp (15 ml)"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "1 tbsp (15 ml)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp (10 g)",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Set your sous‑vide circulator to 135°F (57°C) and preheat.",
+    "Season the beef cubes generously with salt and pepper.",
+    "Heat 2 tbsp olive oil in a large skillet over medium‑high heat and sear the beef in batches until browned on all sides; set aside.",
+    "In the same skillet, sauté onion, carrot, celery, and garlic until softened, about 5 minutes.",
+    "Transfer the browned beef, sautéed vegetables, diced tomato, beef broth, flour, cumin, paprika, oregano, bay leaves, vinegar, and Worcestershire sauce into a vacuum‑seal bag. Seal tightly.",
+    "Place the bag in the preheated sous‑vide bath and cook for 24 hours.",
+    "After 24 hours, remove the bag and carefully cut it open. Drain excess liquid, then pat the beef dry with paper towels.",
+    "Transfer the beef and vegetables to a large oven‑safe casserole dish, spreading them evenly.",
+    "Bake at 375°F (190°C) for 20 minutes, or until the top has caramelized and the liquid has thickened into a glaze.",
+    "Remove from oven, sprinkle chopped parsley over the top, let rest 5 minutes, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 1440,
+  "totalTimeMin": 1455,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "beef",
+    "casserole",
+    "sous-vide",
+    "one-pot",
+    "peppery",
+    "tender"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 70,
+    "carbs": 80,
+    "fat": 45
+  },
+  "slug": "peppery-uruguayan-beef-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-uruguayan-beef-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:58:29Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "sous-vide",
+    "primaryIngredient": "strong white flour",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Peppery",
+    "dishForm": "Casserole"
+  }
+}
