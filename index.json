@@ -416,6 +416,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-chewy-brazilian-beef-stew",
+    "title": "Peppery Chewy Brazilian Beef Stew",
+    "tags": [
+      "slow-cook",
+      "peppery",
+      "gluten-free",
+      "beef",
+      "ketchup",
+      "brazilian"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 255,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-chewy-cumin-stir-fry",
     "title": "Peppery Chewy Cumin Stir-fry",
     "tags": [

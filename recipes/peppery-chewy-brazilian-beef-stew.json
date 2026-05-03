@@ -1,0 +1,113 @@
+{
+  "title": "Peppery Chewy Brazilian Beef Stew",
+  "description": "A hearty, slow‑cooked stew loaded with bold pepper flavors, tender beef cubes, and a comforting ketchup‑based sauce that’s as energizing as it is satisfying.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "2 lbs (900 g)",
+      "notes": "cut into 1‑inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "green bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "ketchup",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tamari (gluten‑free soy sauce)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "gluten‑free"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium‑high heat.",
+    "Add the beef cubes and sear on all sides until a brown crust forms, about 5 minutes.",
+    "Transfer the seared beef to a slow cooker or Dutch oven.",
+    "In the same skillet, sauté the onion, garlic, and bell peppers until softened, about 3 minutes.",
+    "Pour the sautéed vegetables over the beef and stir in ketchup, tamari, smoked paprika, and cayenne pepper.",
+    "Add the beef broth and bay leaf, and bring the mixture to a gentle simmer.",
+    "Cover and cook on low for 4 hours (or on high for 2 hours) until the beef is melt‑in‑your‑mouth tender.",
+    "Remove the bay leaf, taste, and season with salt and pepper as needed.",
+    "Serve hot over rice, polenta, or crusty bread, and enjoy the bold, peppery flavors."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 240,
+  "totalTimeMin": 255,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slow-cook",
+    "peppery",
+    "gluten-free",
+    "beef",
+    "ketchup",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 42,
+    "carbs": 38,
+    "fat": 26
+  },
+  "slug": "peppery-chewy-brazilian-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-chewy-brazilian-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:13:58Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "slow-cook",
+    "primaryIngredient": "ketchup",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "beef",
+    "descriptor": "Peppery Chewy",
+    "dishForm": "Stew"
+  }
+}
