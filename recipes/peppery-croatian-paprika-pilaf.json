@@ -1,0 +1,84 @@
+{
+  "title": "Peppery Croatian Paprika Pilaf",
+  "description": "This savory paprika pilaf combines the zing of fresh cilantro with a touch of sweetness and hints of spice to make a perfect hangover cure.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup basmati rice",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 teaspoon ground pepper",
+      "amount": "tsp"
+    },
+    {
+      "name": "3 tablespoons olive oil",
+      "amount": "tbls"
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "1/2 cup fresh cilantro leaves",
+      "amount": "cup"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Pinch of sugar (optional)",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice under cold water and drain. Pat dry with paper towels.",
+    "In a medium saucepan, heat olive oil over medium heat. Add minced garlic and onion; sauté for about 3 minutes or until softened.",
+    "Stir in rinsed basmati rice and cook for another minute. Gradually add the cooked rice to a bowl of boiling water, stirring continuously to prevent clumping.",
+    "In a skillet, mix ground pepper with the squeezed lime juice. If using sugar, combine it into the spicy-pepper mixture as well.",
+    "Pour the seasoned peppercorn-lime mixture over the rice and stir until heated through. Mix in cilantro leaves. Serve immediately for best texture and flavor.",
+    "Enjoy this light snack that can be prepared ahead of time. Refrigerate leftovers for up to 2 days, but do not reheat or cook after opening."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery-croatian-paprika-pilaf",
+    "hangover-cure",
+    "cilantro-leaves",
+    "crisp"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 8
+  },
+  "slug": "peppery-croatian-paprika-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-croatian-paprika-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T17:31:34Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "pickle",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "paprika",
+    "descriptor": "Peppery",
+    "dishForm": "Pilaf"
+  }
+}
