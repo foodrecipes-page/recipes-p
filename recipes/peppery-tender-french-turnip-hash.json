@@ -1,0 +1,109 @@
+{
+  "title": "Peppery Tender French Turnip Hash",
+  "description": "A monsoon‑inspired, peppery French hash featuring tender turnips sautéed with smoky paprika, fresh herbs, and a zing of lemon—paleo‑friendly and perfect for a quick lunch.",
+  "cuisine": "French",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "medium turnips",
+      "amount": "5 (about 590 g)",
+      "notes": "peeled, diced into 1/2‑inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium (110 g)",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium (120 g)",
+      "notes": "julienned"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "1 (3 g)",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "adds depth"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat until shimmering.",
+    "Add diced turnips and cook, stirring occasionally, for 8‑10 minutes until they start to brown and become tender.",
+    "Add sliced onion and bell pepper to the skillet; sauté 3‑4 minutes until the vegetables soften.",
+    "Stir in minced garlic and cook for 30 seconds until fragrant.",
+    "Season the mixture with sea salt, black pepper, and smoked paprika; stir to coat evenly.",
+    "Continue cooking for another 2‑3 minutes, allowing the spices to bloom.",
+    "Remove the skillet from heat and squeeze fresh lemon juice over the hash.",
+    "Stir in chopped parsley, adjust seasoning if needed, and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "paleo",
+    "french",
+    "turnip-hash",
+    "monsoon",
+    "sauté",
+    "quick-lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 80,
+    "fat": 14
+  },
+  "slug": "peppery-tender-french-turnip-hash",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-tender-french-turnip-hash",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:29:56Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "saute",
+    "primaryIngredient": "turnips",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "turnip",
+    "descriptor": "Peppery Tender",
+    "dishForm": "Hash"
+  }
+}
