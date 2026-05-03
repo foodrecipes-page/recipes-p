@@ -619,6 +619,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-crispy-kenyan-haddock-skewers",
+    "title": "Peppery Crispy Kenyan Haddock Skewers",
+    "tags": [
+      "kenyan-cuisine",
+      "low-carb",
+      "gluten-free",
+      "seafood",
+      "fermented-food"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crispy-middle-eastern-falafel",
     "title": "Peppery, Crispy Middle Eastern Falafel",
     "tags": [
