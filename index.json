@@ -393,6 +393,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-chewy-apple-pilaf",
+    "title": "Peppery Chewy Apple Pilaf",
+    "tags": [
+      "peppery",
+      "chewy",
+      "apple",
+      "pilaf",
+      "quick-fix",
+      "whole30-friendly"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-chewy-cumin-stir-fry",
     "title": "Peppery Chewy Cumin Stir-fry",
     "tags": [

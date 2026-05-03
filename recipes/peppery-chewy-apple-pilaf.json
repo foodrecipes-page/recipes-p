@@ -1,0 +1,92 @@
+{
+  "title": "Peppery Chewy Apple Pilaf",
+  "description": "A quick-fix Chinese dish featuring apples and pickled vegetables in a peppery sauce, suitable for whole30 diet with minimal added sugars.",
+  "cuisine": "Chinese",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup thinly sliced apple",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup pickled vegetable",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons chopped fresh ginger",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon minced garlic",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of red pepper flakes",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice from 1 lemon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons tamari sauce or soy sauce (adjust to taste)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Wash and dry the apple slices, set aside.",
+    "Cut pickled vegetables into thin strips, set aside.",
+    "In a large skillet, heat a drizzle of olive oil over medium-high heat. Add ginger and garlic, sauté for about 2 minutes until fragrant.",
+    "Add sliced apples to the skillet with the ginger and garlic, cook for another minute until lightly browned.",
+    "Mix in pickled vegetables, red pepper flakes, lemon juice, and tamari sauce. Stir well to combine all ingredients.",
+    "Reduce heat to medium, simmer for 5-7 minutes or until apple slices are tender but not mushy.",
+    "Garnish with fresh cilantro leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "chewy",
+    "apple",
+    "pilaf",
+    "quick-fix",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 28,
+    "fat": 3
+  },
+  "slug": "peppery-chewy-apple-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-chewy-apple-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T10:27:27Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "pickle",
+    "primaryIngredient": "apples",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "apple",
+    "descriptor": "Peppery Chewy",
+    "dishForm": "Pilaf"
+  }
+}
