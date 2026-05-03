@@ -1,0 +1,112 @@
+{
+  "title": "Peppery Flaky German Whole Wheat Tart",
+  "description": "A cozy German tart featuring a buttery, flaky whole wheat crust studded with caramelized pepper and a peppery finish, perfect for a comforting lunch or brunch.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Whole wheat flour",
+      "amount": "250 g"
+    },
+    {
+      "name": "Fine sea salt",
+      "amount": "2 g"
+    },
+    {
+      "name": "Baking powder (non-iodized)",
+      "amount": "3 g"
+    },
+    {
+      "name": "Unsalted butter (cold, cubed)",
+      "amount": "125 g"
+    },
+    {
+      "name": "Cold water",
+      "amount": "60 ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "15 ml"
+    },
+    {
+      "name": "Red bell pepper (thinly sliced)",
+      "amount": "150 g"
+    },
+    {
+      "name": "Fresh thyme leaves",
+      "amount": "5 g"
+    },
+    {
+      "name": "Black pepper (freshly ground)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar (white)",
+      "amount": "15 g"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F). Grease a 9‑inch tart pan with a small amount of olive oil.",
+    "In a large bowl, whisk together whole wheat flour, sea salt, baking powder, and black pepper until combined.",
+    "Add cold butter pieces to the dry ingredients. Using a pastry cutter or fingertips, cut the butter into the flour until the mixture resembles coarse crumbs, leaving small pea‑size butter pieces.",
+    "Stir in cold water and olive oil until dough just comes together; it should be slightly sticky but hold its shape.",
+    "Press the dough into the prepared tart pan, covering the bottom and sides. Trim excess dough from the edges with a knife.",
+    "Prick the crust all over with a fork to prevent bubbling, then chill the crust in the refrigerator for 10 minutes.",
+    "Heat a large skillet over medium heat. Add a splash of olive oil, then the sliced bell pepper, sugar, and a pinch of salt. Sauté until the pepper is softened and the sugar has caramelized, about 8‑10 minutes, stirring occasionally.",
+    "Spread the caramelized pepper mixture evenly over the chilled crust and sprinkle fresh thyme leaves on top.",
+    "Bake the tart in the preheated oven for 25‑30 minutes, until the crust is golden brown and the filling is heated through.",
+    "While the tart is baking, whisk the egg with lemon juice for the egg wash. Brush the crust with the egg wash and return it to the oven for an additional 2 minutes to give a shiny finish.",
+    "Remove the tart from the oven and allow it to cool in the pan for 5 minutes, then transfer to a wire rack to cool completely.",
+    "Slice and serve warm or at room temperature, optionally garnished with extra thyme."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "flaky",
+    "peppery",
+    "fodmap-friendly",
+    "vegetarian",
+    "tart",
+    "caramelized"
+  ],
+  "nutrition": {
+    "calories": 269,
+    "protein": 5,
+    "carbs": 19,
+    "fat": 16
+  },
+  "slug": "peppery-flaky-german-whole-wheat-tart",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-flaky-german-whole-wheat-tart",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:55:25Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "caramelize",
+    "primaryIngredient": "whole wheat",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Whole Wheat",
+    "descriptor": "Peppery Flaky",
+    "dishForm": "Tart"
+  }
+}
