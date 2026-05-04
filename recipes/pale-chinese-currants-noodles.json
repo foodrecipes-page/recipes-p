@@ -1,0 +1,95 @@
+{
+  "title": "Pale Chinese Currants Noodles",
+  "description": "A light and refreshing Chinese dish featuring currants and a winey, glassy-jelly sauce, perfect for a keto-friendly meal. This dish is made with a delicate balance of flavors and textures.",
+  "cuisine": "Chinese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shirataki noodles",
+      "amount": "8 oz",
+      "notes": "keto-friendly"
+    },
+    {
+      "name": "currants",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grape wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "xanthan gum",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the shirataki noodles according to the package instructions.",
+    "In a small saucepan, combine the grape wine, xanthan gum, and grated ginger, and whisk until the xanthan gum is dissolved.",
+    "Add the sesame oil to the saucepan and whisk until well combined.",
+    "Bring the sauce mixture to a simmer over medium heat and cook until it has thickened into a glassy-jelly sauce.",
+    "In a large skillet or wok, combine the cooked noodles, currants, and minced garlic, and stir to combine.",
+    "Pour the glassy-jelly sauce over the noodle mixture and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the sauce has been fully absorbed.",
+    "Stir in the chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "quick-meal",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "pale-chinese-currants-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pale-chinese-currants-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:28:05Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "fold",
+    "primaryIngredient": "currants",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "currants",
+    "descriptor": "Pale delicate",
+    "dishForm": "Noodles"
+  }
+}
