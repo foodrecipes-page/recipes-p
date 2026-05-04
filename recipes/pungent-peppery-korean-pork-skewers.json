@@ -1,0 +1,92 @@
+{
+  "title": "Pungent Peppery Korean Pork Skewers",
+  "description": "A citrusy and adventurous Korean dish featuring rapeseed oil and a mortar-pestle-pound technique, these skewers are perfect for those who love spicy and snappy flavors. The combination of garlic, ginger, and Korean chili flakes creates a truly unique taste experience.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "rapeseed oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mortar, pound the garlic and ginger until well combined and fragrant.",
+    "Add the Korean chili flakes, brown sugar, soy sauce, and black pepper to the mortar and pound until a smooth paste forms.",
+    "In a large bowl, whisk together the rapeseed oil and the paste from the mortar.",
+    "Add the sliced pork to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated pork onto skewers, leaving a small space between each piece.",
+    "Preheat a grill or grill pan to medium-high heat and cook the skewers for 5-7 minutes per side, or until cooked through.",
+    "Serve the skewers hot, garnished with sliced green onions and a sprinkle of toasted sesame seeds.",
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute.",
+    "Serve with a side of kimchi or pickled vegetables for a truly authentic Korean experience."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "grilled-meat",
+    "korean-bbq",
+    "spicy-food",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "pungent-peppery-korean-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-peppery-korean-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:52:22Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "rapeseed oil",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "pungent peppery",
+    "dishForm": "Skewers"
+  }
+}
