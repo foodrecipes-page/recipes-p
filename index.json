@@ -5815,6 +5815,20 @@
     "shard": "p"
   },
   {
+    "slug": "purely-creamy-dutch-vegetable-stew",
+    "title": "Purely Creamy Dutch Vegetable Stew",
+    "tags": [
+      "comfort-food",
+      "dutch-cuisine",
+      "gluten-free",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
     "slug": "purely-crisp-japanese-tofu-noodles",
     "title": "Purely Crisp Japanese Tofu Noodles",
     "tags": [
