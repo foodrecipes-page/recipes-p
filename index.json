@@ -96,6 +96,21 @@
     "shard": "p"
   },
   {
+    "slug": "pan-seared-american-gruy-roast",
+    "title": "Pan-Seared American Gruy\u00059 Roast",
+    "tags": [
+      "american",
+      "gruyere",
+      "high-protein",
+      "one-pan",
+      "roast",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 135,
+    "shard": "p"
+  },
+  {
     "slug": "pan-seared-crispy-canadian-lentil-skillet",
     "title": "Pan Seared Crispy Canadian Lentil Skillet",
     "tags": [

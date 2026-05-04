@@ -1,0 +1,65 @@
+{
+  "title": "Pan-Seared American Gruy\u00059 Roast",
+  "description": "A silky, mustardy solo-dinner featuring a tender gruy\u00059 roast, perfect for the American palate. Serve immediately, garnished with fresh herbs.",
+  "cuisine": "American",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gruy\u00059 Roast",
+      "amount": "1 (6-8 pound)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400\u00185F (200\u00185C).",
+    "Season the gruy\u00059 roast with salt, black pepper, garlic powder, and a pinch of mustard seeds, and place it on the roasting pan with rack.",
+    "Heat the olive oil in the ceramic tagine over medium-high heat, then sear the gruy\u00059 roast on all sides until browned, about 5 minutes total.",
+    "Transfer the tagine to the preheated oven and roast the gruy\u00059 for 20 minutes per pound, or until it reaches an internal temperature of 135\u00185F (57\u00185C) for medium-rare.",
+    "While the roast is cooking, mix the Dijon mustard, thyme, and rosemary in a small bowl to make the crust.",
+    "After the roast has cooked for 20-25 minutes, brush the crust mixture evenly over the top of the gruy\u00059, and continue cooking for another 10-15 minutes.",
+    "Remove the tagine from the oven and let the gruy\u00059 rest for 10-15 minutes before slicing it thinly and serving it hot.",
+    "To serve, garnish with fresh thyme and rosemary, and spoon the gravy browning sauce over the top of the gruy\u00059.",
+    "Serve immediately and enjoy!",
+    "For an extra-glazed crust, increase the oven temperature to broil (high) and cook for an additional 2-3 minutes, watching closely to avoid burning the crust.",
+    "Discard the pan drippings and serve with your choice of sides, such as roasted vegetables or creamy mashed potatoes.",
+    "Note: If using a meat thermometer, insert it into the thickest part of the gruy\u00059 roast, avoiding any fat or bone.",
+    "As always, let the meat rest for a few minutes before slicing to allow the juices to redistribute and the meat to retain its tenderness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "gruyere",
+    "high-protein",
+    "one-pan",
+    "roast",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 67,
+    "carbs": 4,
+    "fat": 32
+  },
+  "slug": "pan-seared-american-gruy-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-american-gruy-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:39Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "roast",
+    "primaryIngredient": "gruy re",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Gruy",
+    "descriptor": "Pan-Seared",
+    "dishForm": "Roast"
+  }
+}
