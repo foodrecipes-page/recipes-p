@@ -1,0 +1,124 @@
+{
+  "title": "Pyre-Smoked Mediterranean Lamb Casserole",
+  "description": "Charred, juicy, hangover-cure Mediterranean dish featuring white wine vinegar and a flambe finish.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless leg of lamb",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C) and heat a grill or grill pan to medium-high.",
+    "Season the lamb with salt, black pepper, and oregano.",
+    "In a large bowl, whisk together olive oil, lemon juice, white wine vinegar, and garlic.",
+    "Add the sliced onion and red bell pepper to the bowl and toss to coat.",
+    "Place the lamb on a baking sheet or grill and cook for 10 minutes on each side, or until browned and charred.",
+    "Transfer the lamb to a cutting board and let rest for 5 minutes.",
+    "Meanwhile, broil the red bell pepper for 2-3 minutes on each side, or until charred and blistered.",
+    "Slice the lamb and layer it in a baking dish with the cooked vegetables and feta cheese.",
+    "Drizzle the sauce from the grill over the lamb and top with kalamata olives.",
+    "Return the baking dish to the oven and cook for an additional 10 minutes, or until the cheese is melted and bubbly.",
+    "Remove the dish from the oven and sprinkle with fresh oregano.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "casserole",
+    "flambe",
+    "grilled",
+    "lamb",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 34
+  },
+  "slug": "pyre-smoked-mediterranean-lamb-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pyre-smoked-mediterranean-lamb-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:45Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "flambe",
+    "primaryIngredient": "white wine vinegar",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Pyre-smoked",
+    "dishForm": "Casserole"
+  }
+}

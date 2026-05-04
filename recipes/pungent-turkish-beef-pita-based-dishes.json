@@ -1,0 +1,116 @@
+{
+  "title": "Pungent Turkish Beef Pita-Based Dishes (Iskender Form)",
+  "description": "A tangy, crunchy monsoon dish featuring filo pastry and bhuna, inspired by Turkish flavors. Serve hot, garnished with parsley and lemon wedges.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-sodium",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Filo Pastry Sheets",
+      "amount": "1 package (usually around 20 sheets)",
+      "notes": "Thaw according to package instructions"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bhuna Curry Paste",
+      "amount": "2 tbsp",
+      "notes": "use store-bought or homemade"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "use low-sodium salt alternative"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Chopped Parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Pita Bread",
+      "amount": "4-6 pitas",
+      "notes": "preferably day-old"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut filo pastry sheets into 4 equal pieces.",
+    "Layer 2-3 sheets of filo pastry in the bottom of a 9x13 inch baking dish, brushing with melted butter.",
+    "Repeat layering process until all filo pastry is used, ending with a layer of butter on top.",
+    "In a large pan, cook ground beef over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Once beef is browned, add chopped onion, minced garlic, and bhuna curry paste. Cook until onion is translucent and fragrant.",
+    "Add salt, black pepper, and lemon juice to the pan, stirring to combine. Cook for an additional 2-3 minutes.",
+    "Pour the beef mixture over the top of the filo pastry, spreading it evenly.",
+    "Cut pita bread into quarters and pile on top of the beef mixture, creating a stack.",
+    "Bake in preheated oven for 25-30 minutes, or until filo pastry is golden brown and pita bread is crispy.",
+    "Remove from oven and garnish with chopped parsley. Serve hot, with lemon wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "low-sodium",
+    "one-pan",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 30
+  },
+  "slug": "pungent-turkish-beef-pita-based-dishes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-turkish-beef-pita-based-dishes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:14Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "bhuna",
+    "primaryIngredient": "filo pastry",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "beef",
+    "descriptor": "pungent",
+    "dishForm": "Pita-Based Dishes"
+  }
+}

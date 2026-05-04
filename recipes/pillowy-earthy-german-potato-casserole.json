@@ -1,0 +1,120 @@
+{
+  "title": "Pillowy Earthy German Potato Casserole",
+  "description": "A hearty, comforting German dish featuring earthy flavors and a pillowy texture, perfect for a sick day.",
+  "cuisine": "german",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "4-5 medium",
+      "notes": ""
+    },
+    {
+      "name": "paleo-friendly sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "canned salsa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "brine-dried mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paleo-friendly breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "grass-fed butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "almond milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and dice the sweet potatoes and cook them in boiling water until tender.",
+    "Meanwhile, cook the paleo-friendly sausage in a pan over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Add the onion and garlic to the pan and cook until the onion is translucent.",
+    "Stir in the canned salsa, brine-dried mushrooms, salt, and black pepper.",
+    "In a large bowl, combine the cooked sweet potatoes, sausage mixture, and chopped fresh parsley.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with paleo-friendly breadcrumbs and grass-fed butter.",
+    "Drizzle the almond milk over the top of the casserole and bake for 25-30 minutes, or until the top is golden brown.",
+    "Let the casserole rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german",
+    "gluten-free",
+    "one-pan",
+    "paleo",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "pillowy-earthy-german-potato-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-earthy-german-potato-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:45:48Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "brine-dry",
+    "primaryIngredient": "salsa",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "potato",
+    "descriptor": "pillowy earthy",
+    "dishForm": "casserole"
+  }
+}

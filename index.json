@@ -4035,6 +4035,21 @@
     "shard": "p"
   },
   {
+    "slug": "pillowy-earthy-german-potato-casserole",
+    "title": "Pillowy Earthy German Potato Casserole",
+    "tags": [
+      "comfort-food",
+      "german",
+      "gluten-free",
+      "one-pan",
+      "paleo",
+      "sick-day"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
+    "shard": "p"
+  },
+  {
     "slug": "pillowy-french-almonds-tart",
     "title": "Pillowy French Almond Tart",
     "tags": [
@@ -6204,6 +6219,20 @@
     "shard": "p"
   },
   {
+    "slug": "pungent-turkish-beef-pita-based-dishes",
+    "title": "Pungent Turkish Beef Pita-Based Dishes (Iskender Form)",
+    "tags": [
+      "beef",
+      "low-sodium",
+      "one-pan",
+      "turkish",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "pungent-turkish-figs-tagine",
     "title": "pungent turkish figs tagine",
     "tags": [
@@ -6410,6 +6439,22 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 55,
+    "shard": "p"
+  },
+  {
+    "slug": "pyre-smoked-mediterranean-lamb-casserole",
+    "title": "Pyre-Smoked Mediterranean Lamb Casserole",
+    "tags": [
+      "casserole",
+      "flambe",
+      "grilled",
+      "lamb",
+      "mediterranean",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 60,
     "shard": "p"
   }
 ]
