@@ -1,0 +1,103 @@
+{
+  "title": "Piquant Roasted Ethiopian Lentil Stew",
+  "description": "A tangy and savory Ethiopian lentil stew with a cheese-pull twist, featuring Nutella and roasted to perfection in a kazan cauldron, dairy-free friendly.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Nutella",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dairy-free cheese shreds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the kazan cauldron over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the berbere spice and cook for 1 minute.",
+    "Add the red lentils, vegetable broth, tomato paste, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the lentils are tender.",
+    "Stir in the Nutella and cook for an additional 2 minutes.",
+    "Add the dairy-free cheese shreds and stir until melted and well combined.",
+    "Serve the stew hot, garnished with additional dairy-free cheese shreds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "piquant-roasted-ethiopian-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-roasted-ethiopian-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:41:17Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "roast",
+    "primaryIngredient": "nutella",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "Piquant Roasted",
+    "dishForm": "Stew"
+  }
+}

@@ -4306,6 +4306,21 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-roasted-ethiopian-lentil-stew",
+    "title": "Piquant Roasted Ethiopian Lentil Stew",
+    "tags": [
+      "african-cuisine",
+      "dairy-free",
+      "gluten-free",
+      "high-protein",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-saudi-barley-pie",
     "title": "Piquant Saudi Barley Pie",
     "tags": [
