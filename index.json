@@ -2359,6 +2359,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-kenyan-potato-wrap",
+    "title": "Peppery Kenyan Potato Wrap",
+    "tags": [
+      "comfort-food",
+      "kenyan-cuisine",
+      "lacto-vegetarian",
+      "pandan-leaf",
+      "potato-dish"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-kenyani-beef-stir-fry",
     "title": "Peppery Kenyani Beef Stir-fry",
     "tags": [
@@ -3420,6 +3434,22 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
+    "slug": "pickled-crunchy-slovakian-grape-leaves-wrap",
+    "title": "Pickled Crunchy Slovakian Grape Leaves Wrap",
+    "tags": [
+      "gluten-free",
+      "healthy",
+      "kosher",
+      "one-pan",
+      "slovakian",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {

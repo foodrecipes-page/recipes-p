@@ -1,0 +1,97 @@
+{
+  "title": "Peppery Kenyan Potato Wrap",
+  "description": "A peppery, crispy, and comforting Kenyan dish featuring cider vinegar, boiled potatoes, and a lacto-vegetarian friendly filling, all wrapped in a pandan leaf.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Boil the diced potatoes in salted water until they are tender, then drain and set aside.",
+    "Heat the vegetable oil in a pan over medium heat and saute the chopped onion until it is translucent.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the boiled potatoes, cider vinegar, black pepper, and salt to the pan and stir to combine.",
+    "Reduce heat to low and simmer the mixture for 5 minutes, stirring occasionally.",
+    "Meanwhile, prepare the pandan leaves by washing and drying them with a paper towel.",
+    "Spoon the potato mixture onto the center of each pandan leaf, leaving a 1-inch border around the edges.",
+    "Fold the pandan leaves over the filling to form a wrap, and secure with a toothpick if needed.",
+    "Serve the wraps warm, with a side of yogurt for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "kenyan-cuisine",
+    "lacto-vegetarian",
+    "pandan-leaf",
+    "potato-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "peppery-kenyan-potato-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-kenyan-potato-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:53:14Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "boil",
+    "primaryIngredient": "cider vinegar",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "potatoes",
+    "descriptor": "peppery crispy",
+    "dishForm": "Wrap"
+  }
+}

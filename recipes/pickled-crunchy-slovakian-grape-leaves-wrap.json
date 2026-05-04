@@ -1,0 +1,87 @@
+{
+  "title": "Pickled Crunchy Slovakian Grape Leaves Wrap",
+  "description": "A tangy and crunchy Slovakian dish featuring grape leaves, pickled in a kosher-friendly nuka-pickle and wrapped in a corn husk.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Corn husks",
+      "amount": "12",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Grape leaves",
+      "amount": "12",
+      "notes": "fresh or frozen, preferably from the Slovakian region"
+    },
+    {
+      "name": "Nuka-pickle brine",
+      "amount": "1 cup",
+      "notes": "kosher-friendly, see below for recipe"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing corn husks"
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "kosher salt, for taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and blanch the grape leaves for 30 seconds to remove bitterness. Drain and set aside.",
+    "Cut the corn husks in half lengthwise and brush with vegetable oil to prevent sticking.",
+    "In a separate pot, make the nuka-pickle brine by combining 1 cup of water, 1 cup of white vinegar, and 1 tsp of kosher salt. Bring to a boil, then reduce heat and simmer for 5 minutes.",
+    "Pack the grape leaves into the corn husk halves, overlapping them slightly to create a tight fit. Brush with the nuka-pickle brine and sprinkle with salt.",
+    "Roll the grape leaf and corn husk bundle into a tight cylinder and secure with a toothpick. Repeat with remaining grape leaves and corn husks.",
+    "Place the bundles seam-side down on a baking sheet lined with parchment paper. Cover with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "To serve, remove the toothpicks and garnish with chopped fresh dill. Serve chilled or at room temperature.",
+    "Note: Nuka-pickle brine recipe: In a large jar, combine 1 cup of water, 1 cup of white vinegar, and 1 tsp of kosher salt. Add 1 tsp of sugar and 1 tsp of black peppercorns. Stir to combine and refrigerate for at least 24 hours before using."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "kosher",
+    "one-pan",
+    "slovakian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "pickled-crunchy-slovakian-grape-leaves-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/pickled-crunchy-slovakian-grape-leaves-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:52:55Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "grape leaves",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Grape Leaves",
+    "descriptor": "Pickled Crunchy",
+    "dishForm": "Wrap"
+  }
+}
