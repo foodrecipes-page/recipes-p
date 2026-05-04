@@ -1,0 +1,114 @@
+{
+  "title": "Puffed Zanzibari Coconut Empanadas",
+  "description": "A spicy, fluffy Kenyan snack featuring lamination puff and sattvic-friendly coconut filling, perfect for kids.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "50g",
+      "notes": "cold"
+    },
+    {
+      "name": "Cold water",
+      "amount": "80ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "for dough"
+    },
+    {
+      "name": "Unsweetened coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "Unsweetened coconut flesh",
+      "amount": "50g",
+      "notes": "shredded"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Cayenne powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "for filling"
+    },
+    {
+      "name": "Fresh ginger paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Carrot",
+      "amount": "100g",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine flour and 1 tsp salt for dough.",
+    "Add cold butter pieces and cut into flour until mixture resembles coarse crumbs.",
+    "Gradually pour cold water, mixing until dough just comes together; wrap and chill 30 min.",
+    "In a separate bowl, whisk coconut milk, shredded coconut, cumin, coriander, cayenne, salt, ginger, and shredded carrot until smooth.",
+    "Heat a non-stick skillet over medium, pour filling liquid, and simmer until it thickens, about 8 minutes.",
+    "Remove skillet from heat and let filling cool slightly.",
+    "Divide chilled dough into 12 equal portions, each about 25g, and roll into circles about 8cm diameter.",
+    "Spoon 1-2 tbsp of filling onto each dough circle, fold into half, seal edges with a fork.",
+    "Preheat oven to 200°C and brush empanadas lightly with melted coconut oil.",
+    "Bake empanadas for 15 minutes until puffed and golden."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "coconut",
+    "fluffy",
+    "kid-friendly",
+    "no-sweetener",
+    "sattvic",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 24,
+    "carbs": 8,
+    "fat": 8
+  },
+  "slug": "puffed-zanzibari-coconut-empanadas",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/puffed-zanzibari-coconut-empanadas",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:17:46Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "lamination-puff",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Coconut",
+    "descriptor": "Puffed",
+    "dishForm": "Empanadas"
+  }
+}
