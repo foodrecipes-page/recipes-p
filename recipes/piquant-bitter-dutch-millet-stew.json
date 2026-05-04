@@ -1,0 +1,113 @@
+{
+  "title": "Piquant Bitter Dutch Millet Stew",
+  "description": "A slow cooked spicy Dutch millet stew with a bitter citrus twist, perfect for a romantic date night.",
+  "cuisine": "Dutch",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "millet",
+      "amount": "200g"
+    },
+    {
+      "name": "bone broth",
+      "amount": "600ml"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "150g"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "10g"
+    },
+    {
+      "name": "carrot, diced",
+      "amount": "120g"
+    },
+    {
+      "name": "celery stalk, diced",
+      "amount": "30g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "5g"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1g"
+    },
+    {
+      "name": "fresh thyme, chopped",
+      "amount": "1g"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2g"
+    },
+    {
+      "name": "almonds, chopped",
+      "amount": "30g"
+    },
+    {
+      "name": "spinach",
+      "amount": "100g"
+    }
+  ],
+  "instructions": [
+    "Rinse the millet under cold water until the water runs clear.",
+    "Heat the olive oil in a Dutch oven over medium heat and sauté the diced onion and minced garlic until translucent.",
+    "Add the diced carrot and celery to the pot and cook for another 5 minutes, stirring occasionally.",
+    "Stir in the smoked paprika, cayenne pepper, and chopped thyme, letting the spices bloom for 1 minute.",
+    "Add the rinsed millet to the pot, tossing to coat it in the aromatic mixture.",
+    "Pour in the bone broth, stirring to combine all ingredients, then bring to a gentle simmer.",
+    "Cover the pot, reduce the heat to low, and slow cook the stew for 150 minutes, stirring occasionally.",
+    "After 150 minutes, stir in the lemon zest, sea salt, and black pepper, adjusting seasoning to taste.",
+    "Fold in the chopped almonds and fresh spinach, allowing the spinach to wilt for 2 minutes.",
+    "Remove the pot from the heat, let the stew rest for 5 minutes, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "date-night",
+    "dutch",
+    "millet",
+    "paleo-friendly",
+    "slow-cook",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 382,
+    "protein": 9,
+    "carbs": 46,
+    "fat": 13
+  },
+  "slug": "piquant-bitter-dutch-millet-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-bitter-dutch-millet-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:50:51Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "slow-cook",
+    "primaryIngredient": "millet",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "millet",
+    "descriptor": "Piquant Bitter",
+    "dishForm": "Stew"
+  }
+}
