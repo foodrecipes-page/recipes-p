@@ -723,6 +723,22 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-chewy-german-pappardelle-pasta-pasta",
+    "title": "Peppery Chewy German Pappardelle Pasta",
+    "tags": [
+      "chewy",
+      "german-cuisine",
+      "gluten-free-friendly",
+      "high-protein",
+      "one-pan",
+      "peppery",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 28,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-chewy-italian-lamb-stir-fry",
     "title": "Peppery Chewy Italian Lamb Stir-fry",
     "tags": [
@@ -945,6 +961,21 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-crisp-kenyan-sherry-vinegar-bonito-slaw",
+    "title": "Peppery, Crisp Kenyan Sherry Vinegar, Bonito Slaw",
+    "tags": [
+      "healthy",
+      "kenyan",
+      "low-calorie",
+      "quick",
+      "summer",
+      "vegan-friendly"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 10,
     "shard": "p"
   },
   {
@@ -4642,6 +4673,21 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-spicy-malaysian-turkey-satay",
+    "title": "Piquant Spicy Malaysian Turkey Satay",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "malaysian",
+      "snack",
+      "turkey",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 36,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-spicy-norteno-chicken-torta-de-jugo",
     "title": "piquant spicy norteño chicken torta de jugo",
     "tags": [
@@ -5405,6 +5451,19 @@
     "shard": "p"
   },
   {
+    "slug": "powdered-sugar-moroccan-vegetables-tagine",
+    "title": "Powdered Sugar Moroccan Vegetables Tagine",
+    "tags": [
+      "air-fryer",
+      "meal-prep",
+      "moroccan",
+      "vegetarian"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 27,
+    "shard": "p"
+  },
+  {
     "slug": "powdered-sweet-lamb-moussaka",
     "title": "Powdered Sweet Lamb Moussaka",
     "tags": [
@@ -5585,6 +5644,21 @@
     "shard": "p"
   },
   {
+    "slug": "pungent-and-pillowy-moroccan-tomato-tagine",
+    "title": "Pungent and Pillowy Moroccan Tomato Tagine",
+    "tags": [
+      "moroccan",
+      "one-pan",
+      "tagine",
+      "tomato",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "pungent-australian-pork-bao",
     "title": "Pungent Australian Pork Bao",
     "tags": [
@@ -5757,6 +5831,21 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-pan-seared-russian-beef-casserole",
+    "title": "Pungent Pan-Seared Russian Beef Casserole",
+    "tags": [
+      "beef",
+      "casserole",
+      "high-protein",
+      "main-course",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {

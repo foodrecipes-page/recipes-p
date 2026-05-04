@@ -1,0 +1,112 @@
+{
+  "title": "Peppery, Crisp Kenyan Sherry Vinegar, Bonito Slaw",
+  "description": "A refreshing and energizing Kenyan dish that combines peppery flavors of cress with the crunch of julienne carrots and a tangy slaw made with Kenyan sherry vinegar and shaved bonito.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "red cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "julienne carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "cress",
+      "amount": "1 bunch",
+      "notes": "peppery leaves only"
+    },
+    {
+      "name": "Kenyan sherry vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the shredded red cabbage and julienne carrots.",
+    "In a blender or food processor, combine the Kenyan sherry vinegar, olive oil, honey, bonito flakes, salt, and black pepper, and blend until smooth.",
+    "In a small bowl, whisk together the lemon juice and water to make a dressing.",
+    "Pour the dressing over the cabbage mixture and toss to combine.",
+    "Add the peppery cress leaves to the bowl and toss to combine.",
+    "Season with additional salt and black pepper if needed.",
+    "Serve immediately, garnished with additional cress leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "kenyan",
+    "low-calorie",
+    "quick",
+    "summer",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "slug": "peppery-crisp-kenyan-sherry-vinegar-bonito-slaw",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crisp-kenyan-sherry-vinegar-bonito-slaw",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:12Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "bonito-shave",
+    "primaryIngredient": "sherry vinegar",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "kenyan",
+    "mainIngredient": "sherry vinegar, bonito",
+    "descriptor": "peppery, crisp",
+    "dishForm": "slaw"
+  }
+}

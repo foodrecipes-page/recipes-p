@@ -1,0 +1,104 @@
+{
+  "title": "Pungent and Pillowy Moroccan Tomato Tagine",
+  "description": "A traditional Moroccan dish featuring tomato puree, pillowy couscous, and a flavorful blend of spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Couscous",
+      "amount": "2 cups",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "Tomato Puree",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "for saut\u000170ing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Coriander",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Saut\u000170 the onion, garlic, and ginger until fragrant.",
+    "Add the coriander, cumin, and cayenne pepper; saut\u000170 for 1 minute.",
+    "Add the tomato puree and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, stirring occasionally.",
+    "While the sauce is cooking, prepare the couscous according to package instructions.",
+    "To assemble the tagine, place a scoop of couscous in a bowl, followed by a spoonful of the tomato sauce.",
+    "Garnish with chopped fresh herbs, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "one-pan",
+    "tagine",
+    "tomato",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "pungent-and-pillowy-moroccan-tomato-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-and-pillowy-moroccan-tomato-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:20Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "tomato puree",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "tomato",
+    "descriptor": "pungent and pillowy",
+    "dishForm": "Tagine"
+  }
+}

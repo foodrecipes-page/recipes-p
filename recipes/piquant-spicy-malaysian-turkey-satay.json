@@ -1,0 +1,116 @@
+{
+  "title": "Piquant Spicy Malaysian Turkey Satay",
+  "description": "A spicy and flavorful satay dish featuring juicy turkey, inspired by Malaysian cuisine. Serve with a side of peanut sauce for an authentic experience.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "omnivore",
+    "gluten-free",
+    "vegan-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Turkey breast",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "60ml",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "30ml",
+      "notes": "use gluten-free soy sauce if necessary"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "20ml",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together coconut milk, soy sauce, brown sugar, and chili flakes.",
+    "Add the turkey breast to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated turkey onto skewers, leaving a small space between each piece.",
+    "Grill the satay for 8-10 minutes per side, or until cooked through.",
+    "Transfer the satay to a plate and sprinkle with chopped cilantro.",
+    "Serve the satay hot with a side of peanut sauce and steamed vegetables.",
+    "Garnish with lime wedges and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "malaysian",
+    "snack",
+    "turkey",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "piquant-spicy-malaysian-turkey-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-spicy-malaysian-turkey-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:52Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "rest",
+    "primaryIngredient": "turkey",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Turkey",
+    "descriptor": "Piquant Spicy",
+    "dishForm": "Satay"
+  }
+}

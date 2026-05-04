@@ -1,0 +1,133 @@
+{
+  "title": "Peppery Chewy German Pappardelle Pasta",
+  "description": "A hearty German-inspired dish featuring chewy pappardelle pasta, infused with a spicy peppery flavor. Perfect for a quick and energizing lunch or dinner.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "grapeseed oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coarse black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "whey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground mustard",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the grapeseed oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the freshly ground black pepper, coarse black pepper, and cayenne pepper, and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth and bring the mixture to a simmer.",
+    "Add the pappardelle pasta and cook, stirring frequently, until the pasta is al dente, about 8-10 minutes.",
+    "Add the whey, unsalted butter, and salt to the pasta and stir until the butter has melted and the pasta is coated in the sauce.",
+    "Stir in the ground mustard and cook for an additional 1-2 minutes, until the sauce has thickened slightly.",
+    "Stir in the fresh parsley and parmesan cheese, and cook until the cheese has melted and the pasta is coated in the sauce.",
+    "Serve the pappardelle pasta hot, garnished with additional parsley and parmesan cheese if desired.",
+    "Let the dish rest for 2-3 minutes before serving.",
+    "Slice the dish into 4-6 portions, depending on serving size.",
+    "Serve the dish hot, garnished with additional parsley and parmesan cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "german-cuisine",
+    "gluten-free-friendly",
+    "high-protein",
+    "one-pan",
+    "peppery",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 34,
+    "carbs": 70,
+    "fat": 32
+  },
+  "slug": "peppery-chewy-german-pappardelle-pasta-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-chewy-german-pappardelle-pasta-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:10Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "pappardelle pasta",
+    "descriptor": "peppery chewy",
+    "dishForm": "pasta"
+  }
+}
