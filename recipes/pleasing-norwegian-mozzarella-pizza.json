@@ -1,0 +1,101 @@
+{
+  "title": "Pleasing Norwegian Mozzarella Pizza",
+  "description": "A fresh, dense pizza infused with shio‑koji and creamy mozzarella, perfect for a comforting Norwegian dinner without onion or garlic.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pizza dough",
+      "amount": "200 g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "200 g",
+      "notes": "fresh, sliced"
+    },
+    {
+      "name": "shio‑koji",
+      "amount": "10 g",
+      "notes": "lightly sprinkle over dough"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15 ml",
+      "notes": "brush on dough"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "20 g",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "100 g",
+      "notes": "no added salt"
+    },
+    {
+      "name": "arugula",
+      "amount": "30 g",
+      "notes": "topped after baking"
+    },
+    {
+      "name": "edible seaweed",
+      "amount": "5 g",
+      "notes": "flaked"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 250°C and place a pizza stone or baking sheet inside.",
+    "Roll out dough on a lightly floured surface to a 25 cm diameter circle.",
+    "Brush dough with olive oil and evenly spread tomato sauce across the base.",
+    "Sprinkle shio‑koji over the sauce, then layer sliced mozzarella and grated parmesan.",
+    "Bake on the preheated stone for 12 minutes until crust is golden and cheese bubbly.",
+    "Remove pizza, sprinkle fresh black pepper, then add flaked seaweed and arugula.",
+    "Slice into wedges and serve immediately while hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "dense",
+    "no-garlic",
+    "no-onion",
+    "norwegian",
+    "pizza",
+    "shio-koji"
+  ],
+  "nutrition": {
+    "calories": 575,
+    "protein": 25,
+    "carbs": 80,
+    "fat": 49
+  },
+  "slug": "pleasing-norwegian-mozzarella-pizza",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/pleasing-norwegian-mozzarella-pizza",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:17:17Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "mozzarella",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Mozzarella",
+    "descriptor": "Pleasing",
+    "dishForm": "Pizza"
+  }
+}
