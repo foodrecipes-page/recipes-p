@@ -1,0 +1,96 @@
+{
+  "title": "Puffed Vietnamese Bread Pudding",
+  "description": "A sweet, chewy, comforting Vietnamese dish featuring ground sugar and double-rise bread, cooked in a cataplana for a smooth, custard-like texture.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "double-rise bread loaf",
+      "amount": "500g"
+    },
+    {
+      "name": "ground sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "whole milk",
+      "amount": "250ml"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "200ml"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "3"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "30g",
+      "notes": "for greasing cataplana"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C and grease a cataplana with melted butter.",
+    "Slice the loaf into cubes and place them in the cataplana.",
+    "Whisk whole milk, heavy cream, egg yolks, vanilla extract, ground ginger, salt, and ground sugar until sugar dissolves.",
+    "Pour the custard mixture over the bread cubes, ensuring the bread absorbs the liquid.",
+    "Cover the cataplana with its lid and place it in a larger baking dish filled with hot water (water bath).",
+    "Bake for 45 minutes until the custard is set and the top is lightly golden.",
+    "Remove the cataplana from the oven and let it cool for 10 minutes before slicing.",
+    "Serve warm with a drizzle of condensed milk or fresh fruit if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bread-pudding",
+    "cataplana",
+    "comfort-food",
+    "dessert",
+    "ovo-vegetarian",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "puffed-vietnamese-bread-pudding",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/puffed-vietnamese-bread-pudding",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:17:42Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "ground sugar",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "bread",
+    "descriptor": "Puffed",
+    "dishForm": "Pudding"
+  }
+}

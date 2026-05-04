@@ -4701,6 +4701,21 @@
     "shard": "p"
   },
   {
+    "slug": "puffed-vietnamese-bread-pudding",
+    "title": "Puffed Vietnamese Bread Pudding",
+    "tags": [
+      "bread-pudding",
+      "cataplana",
+      "comfort-food",
+      "dessert",
+      "ovo-vegetarian",
+      "sweet"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 55,
+    "shard": "p"
+  },
+  {
     "slug": "pul-biber-sous-vide-tabbouleh",
     "title": "Pul Biber Sous-Vide Tabbouleh",
     "tags": [
