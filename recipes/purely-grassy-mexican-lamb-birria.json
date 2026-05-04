@@ -1,0 +1,103 @@
+{
+  "title": "Purely Grassy Mexican Lamb Birria",
+  "description": "A traditional Chiapan dish featuring lamb, arabic rice, and a blend of spices, served in a dolsot stone bowl. This recipe is ayurvedic sattvic friendly and has a cure.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "arabic rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium high heat.",
+    "Add the lamb pieces and cook until browned on all sides.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the cumin, coriander, paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the arabic rice and cook for 2 minutes, stirring constantly.",
+    "Add the lamb broth and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Serve the birria in a dolsot stone bowl."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "lamb-recipes",
+    "mexican-food",
+    "one-pot",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "purely-grassy-mexican-lamb-birria",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-grassy-mexican-lamb-birria",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:23:42Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "cure",
+    "primaryIngredient": "arabic rice",
+    "diet": "ayurvedic-sattvic",
+    "region": "chiapan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "lamb",
+    "descriptor": "Purely Grassy",
+    "dishForm": "Birria"
+  }
+}

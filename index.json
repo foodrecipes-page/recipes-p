@@ -4367,5 +4367,20 @@
     "cuisine": "Algerian",
     "totalTimeMin": 25,
     "shard": "p"
+  },
+  {
+    "slug": "purely-grassy-mexican-lamb-birria",
+    "title": "Purely Grassy Mexican Lamb Birria",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "lamb-recipes",
+      "mexican-food",
+      "one-pot",
+      "stone-bowl"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 110,
+    "shard": "p"
   }
 ]
