@@ -1,0 +1,104 @@
+{
+  "title": "Piquant Lazy Middle Eastern Chicken Skewers",
+  "description": "A zesty, umami-packed chicken dish that pairs light, fresh green salsa with air-fried skewers, perfect for a quick hangover cure and Mediterranean-friendly meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "450g",
+      "notes": "diced into 1.5 inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Green salsa",
+      "amount": "1 cup",
+      "notes": "mix of chopped cilantro, parsley, green onions, cucumber, lemon juice, olive oil, pinch of salt"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk together olive oil, lemon juice, smoked paprika, ground cumin, garlic powder, dried oregano, sea salt, and black pepper until a smooth paste forms.",
+    "Toss the diced chicken in the paste until all pieces are well coated and let it rest for 15 minutes at room temperature.",
+    "While the chicken marinates, combine chopped cilantro, parsley, sliced green onions, diced cucumber, lemon juice, olive oil, and a pinch of sea salt in a small bowl to make the green salsa.",
+    "Thread four chicken cubes onto each skewer, leaving a small space between pieces.",
+    "Preheat the Lazy Susan spinner air fryer to 200°C and lightly spray the basket with cooking spray.",
+    "Place the skewers in the air fryer basket and cook for 10 minutes, flipping halfway, until the chicken is cooked through and slightly charred.",
+    "Warm the green salsa in a microwave for 30 seconds or serve it chilled.",
+    "Serve the hot chicken skewers topped with a generous spoonful of green salsa and a squeeze of fresh lemon juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fry",
+    "easy",
+    "green-salsa",
+    "hangover-cure",
+    "lazy-susan-spinner",
+    "middle-eastern",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 32,
+    "carbs": 3,
+    "fat": 8
+  },
+  "slug": "piquant-lazy-middle-eastern-chicken-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-lazy-middle-eastern-chicken-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:11:05Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "air-fry",
+    "primaryIngredient": "green salsa",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chicken",
+    "descriptor": "Piquant Lazy",
+    "dishForm": "Skewers"
+  }
+}
