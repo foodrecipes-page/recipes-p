@@ -141,6 +141,20 @@
     "shard": "p"
   },
   {
+    "slug": "pan-seared-pull-uruguayan-cheese-wok-fried",
+    "title": "Pan-Seared Pull Uruguayan Cheese Wok-Fried",
+    "tags": [
+      "high-protein",
+      "latin-american",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "panang-curry-brise-ferment",
     "title": "Panang Curry Brise Ferment",
     "tags": [

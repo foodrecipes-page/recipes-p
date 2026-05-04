@@ -1,0 +1,98 @@
+{
+  "title": "Pan-Seared Pull Uruguayan Cheese Wok-Fried",
+  "description": "Citrusy, cheese-pull Uruguayan dish featuring dried cherries, ice-bath-shock, and wok-fried goodness.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wok oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Dried cherries",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh orange zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Queso fresco",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of wok oil over medium-high heat in a wok.",
+    "Add 1 tablespoon of butter and let melt.",
+    "Add chopped dried cherries, minced garlic, and cook for 2 minutes.",
+    "Add chopped fresh mint and cook for 1 minute.",
+    "Add shredded Parmesan cheese and crumbled Queso fresco, stir until combined.",
+    "Push the mixture to the side of the wok.",
+    "Crack 2 eggs into the empty side of the wok and scramble them.",
+    "Mix the eggs with the cheese mixture.",
+    "Transfer the wok mixture to a plate and chill in an ice bath for 10 minutes.",
+    "Reheat the wok over medium heat and add the chilled mixture.",
+    "Stir-fry for 2-3 minutes until the cheese is melted and the mixture is heated through.",
+    "Season with salt and orange zest."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "latin-american",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "pan-seared-pull-uruguayan-cheese-wok-fried",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-pull-uruguayan-cheese-wok-fried",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T07:25:38Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "dried cherries",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Cheese",
+    "descriptor": "Pan-Seared Pull",
+    "dishForm": "Wok-Fried"
+  }
+}
