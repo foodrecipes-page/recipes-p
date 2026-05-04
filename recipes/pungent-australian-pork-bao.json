@@ -1,0 +1,95 @@
+{
+  "title": "Pungent Australian Pork Bao",
+  "description": "A fermented and gooey Australian dish featuring pork buns and a sweet glaze, perfect for those who dislike onion and garlic.",
+  "cuisine": "Australian",
+  "diet": [
+    "no onion",
+    "no garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "fermented soybean paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bun dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the chopped pork, fermented soybean paste, honey, rice vinegar, salt, and black pepper, and mix well.",
+    "Divide the bun dough into 8 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk and place a tablespoon of the pork mixture in the center of each disk.",
+    "Fold the dough over the filling and press the edges together to seal the bun.",
+    "Place the buns on a baking sheet lined with parchment paper and brush with sesame oil.",
+    "Bake the buns for 15 minutes, or until golden brown.",
+    "While the buns are baking, prepare the glaze by whisking together the honey and rice vinegar in a small bowl.",
+    "Remove the buns from the oven and brush with the glaze.",
+    "Return the buns to the oven and bake for an additional 2 minutes, or until the glaze is caramelized."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "fermented-foods",
+    "no-garlic",
+    "no-onion",
+    "pork-recipes",
+    "sweet-glaze"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "pungent-australian-pork-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-australian-pork-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:46:31Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "glaze",
+    "primaryIngredient": "buns",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "pork",
+    "descriptor": "Pungent",
+    "dishForm": "Bao"
+  }
+}
