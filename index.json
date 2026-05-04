@@ -3471,6 +3471,21 @@
     "shard": "p"
   },
   {
+    "slug": "perfectly-smoked-egyptian-lamb-tagine",
+    "title": "Smoked Egyptian Lamb Tagine",
+    "tags": [
+      "comfort-food",
+      "lamb-based",
+      "middle-eastern",
+      "slow-cooked",
+      "smoky",
+      "spicy"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "pesto-saudia-olive-stir-fry",
     "title": "Pesto Saudia Olive Stir-fry",
     "tags": [

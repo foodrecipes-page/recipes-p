@@ -1,0 +1,97 @@
+{
+  "title": "Smoked Egyptian Lamb Tagine",
+  "description": "A hearty and flavorful Egyptian dish featuring tender lamb, sweet smoked paprika, and a blend of aromatic spices, perfect for a hangover cure.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "fatty cut"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130 degrees Fahrenheit.",
+    "Season the lamb shoulder with smoked paprika, cumin, coriander, salt, and black pepper.",
+    "Heat the olive oil in a skillet over medium-high heat and sear the lamb shoulder until browned on all sides.",
+    "Place the lamb shoulder in a sous-vide bag with the garlic and ginger, and seal the bag.",
+    "Cook the lamb shoulder in the sous-vide machine for 48 hours.",
+    "Remove the lamb shoulder from the bag and slice it into thin strips.",
+    "Serve the lamb shoulder on a slate tile, garnished with fresh parsley and a side of steamed vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "lamb-based",
+    "middle-eastern",
+    "slow-cooked",
+    "smoky",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 80
+  },
+  "slug": "perfectly-smoked-egyptian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/perfectly-smoked-egyptian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:16:55Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "hangover-cure",
+    "technique": "sous-vide",
+    "primaryIngredient": "sweet smoked paprika",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Perfectly smoked",
+    "dishForm": "Tagine"
+  }
+}
