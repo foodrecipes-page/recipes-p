@@ -1,0 +1,91 @@
+{
+  "title": "Peppery French Rhubarb Souffle",
+  "description": "A kid-friendly French dessert featuring rhubarb, with a peppery and crunchy texture, made in an earthenware bowl and suitable for halal diets.",
+  "cuisine": "French",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rhubarb",
+      "amount": "2 cups",
+      "notes": "fresh, cut into 1 inch pieces"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the rhubarb, granulated sugar, flour, and black pepper.",
+    "In a separate bowl, whisk together the eggs, milk, and melted butter.",
+    "Add the egg mixture to the rhubarb mixture and whisk until well combined.",
+    "Pour the mixture into a buttered earthenware bowl.",
+    "Bake for 35 minutes or until the souffle is puffed and golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm, garnished with additional sugar and pepper if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french-dessert",
+    "halal-friendly",
+    "kid-friendly",
+    "rhubarb-recipe",
+    "souffle-dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "peppery-french-rhubarb-souffle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-french-rhubarb-souffle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:49:17Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "whisk",
+    "primaryIngredient": "rhubarb",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "rhubarb",
+    "descriptor": "Peppery Crunchy",
+    "dishForm": "Souffle"
+  }
+}

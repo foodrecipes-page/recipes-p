@@ -1900,6 +1900,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-french-rhubarb-souffle",
+    "title": "Peppery French Rhubarb Souffle",
+    "tags": [
+      "french-dessert",
+      "halal-friendly",
+      "kid-friendly",
+      "rhubarb-recipe",
+      "souffle-dish"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-gooey-brazilian-pretzels-gratin",
     "title": "Peppery Gooey Brazilian Pretzels Gratin",
     "tags": [
@@ -5321,6 +5335,20 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-light-indian-pork-back-ribs-curry",
+    "title": "Pungent Light Indian Pork Back Ribs Curry",
+    "tags": [
+      "brunch-ideas",
+      "curry-dishes",
+      "indian-cuisine",
+      "pork-recipes",
+      "shojin-friendly"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 70,
     "shard": "p"
   },
   {
