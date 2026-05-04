@@ -1,0 +1,105 @@
+{
+  "title": "Pungent Creamy Russian Buckwheat Pilaf",
+  "description": "A savory Russian dish featuring buckwheat, crispy fried chicken, and a creamy sauce, perfect for a midnight craving. This sugar-free friendly recipe is a great option for a satisfying meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and crispy, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until softened, about 3 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the buckwheat to the skillet and cook, stirring constantly, for 2 minutes.",
+    "Add the smoked paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Add the cooked chicken back to the skillet and stir to combine with the buckwheat mixture.",
+    "Reduce heat to low and stir in the sour cream.",
+    "Cook for an additional 2 minutes, or until the sauce has thickened slightly.",
+    "Stir in the chopped fresh dill and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 32
+  },
+  "slug": "pungent-creamy-russian-buckwheat-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-creamy-russian-buckwheat-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:59:14Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "buckwheat",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "buckwheat",
+    "descriptor": "Pungent creamy",
+    "dishForm": "Pilaf"
+  }
+}
