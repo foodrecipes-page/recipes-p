@@ -1,0 +1,109 @@
+{
+  "title": "Pleasantly Gooey Vietnamese Red Bean Paste Bun Bo Hue",
+  "description": "A malty and gooey solo dinner Vietnamese dish featuring anko red bean paste, this recipe is a FODMAP friendly version of the classic Bun Bo Hue, adapted to be safe for sensitive stomachs.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red bean paste",
+      "amount": "1 cup",
+      "notes": "anko style"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "pork sausage",
+      "amount": "1/2 pound",
+      "notes": "slice into thin rounds"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly slice"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 tablespoon",
+      "notes": "FODMAP friendly substitute for garlic"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly slice"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions and set aside.",
+    "In a large pan, heat the vegetable oil over medium heat and add the sliced onion, cooking until translucent.",
+    "Add the pork sausage to the pan and cook until browned, breaking up with a spoon as it cooks.",
+    "Add the garlic-infused oil, fish sauce, and lime juice to the pan, stirring to combine.",
+    "Stir in the red bean paste and cook for 2-3 minutes, until the mixture is heated through and starting to caramelize.",
+    "Add the cooked noodles to the pan, tossing to combine with the sauce and sausage mixture.",
+    "Top the noodles with bean sprouts, scallions, and a sprinkle of salt.",
+    "Serve immediately, garnished with additional scallions and lime wedges if desired.",
+    "To achieve the pleasantly gooey texture, cook the red bean paste mixture over low heat for an additional 5 minutes, stirring constantly, before adding the noodles to the pan."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "noodle-dish",
+    "one-pot",
+    "pork-sausage",
+    "red-bean-paste",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 35,
+    "carbs": 70,
+    "fat": 25
+  },
+  "slug": "pleasantly-gooey-vietnamese-red-bean-paste-bun-bo-hue",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pleasantly-gooey-vietnamese-red-bean-paste-bun-bo-hue",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:28:16Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "saute",
+    "primaryIngredient": "anko-red-bean-paste",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "red bean paste",
+    "descriptor": "Pleasantly gooey",
+    "dishForm": "Bun Bo Hue"
+  }
+}
