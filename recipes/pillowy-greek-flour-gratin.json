@@ -1,0 +1,112 @@
+{
+  "title": "Greeks' Secret Pillowy Gratin",
+  "description": "A flower-scented, hangover-fighting gratin that pairs unexpectedly well with crispy fried eggs or creamy tzatziki. Rich, pillowy Greek flour puffed to perfection within ttukbaegi's earthenware heart.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup self-raising Greek flour",
+      "amount": "all-purpose",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "mild",
+      "notes": ""
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "",
+      "notes": "any color, but white for a more neutral flavor"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "1 cup grated kefalograviera cheese",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup grated parmesan cheese",
+      "amount": "",
+      "notes": "optional, for a richer flavor"
+    },
+    {
+      "name": "2 tablespoons chopped fresh dill",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon dried oregano",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "",
+      "notes": "or to taste"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "",
+      "notes": "freshly ground, or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Prepare ttukbaegi by applying a thin layer of olive oil to the interior.",
+    "In a mixing bowl, combine self-raising flour, grated kefalograviera cheese, parmesan cheese, chopped fresh dill, dried oregano, salt, and black pepper. Mix until well combined.",
+    "Add chopped onion and mix until evenly distributed throughout the flour mixture.",
+    "Pour in the desired amount of olive oil and mix until the dough forms a uniform ball.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Wrap the dough in plastic wrap and refrigerate for 30 minutes to allow the flour to hydrate.",
+    "Divide the dough into 4 equal pieces and shape each piece into a ball. Flatten each ball into a disk using your palms. Place the disks into the prepared ttukbaegi, leaving about 1 inch of space between each disk.",
+    "Bake in the preheated oven for 20-25 minutes or until the edges are golden brown and the centers are set.",
+    "Remove from oven and let cool for 5 minutes before serving.",
+    "Serve warm, garnished with additional fresh dill if desired.",
+    "Store leftovers in an airtight container at room temperature for up to 3 days or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "greek",
+    "one-pan",
+    "pillowy",
+    "sunday-brunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "pillowy-greek-flour-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-greek-flour-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:36Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "self-raising flour",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "flour",
+    "descriptor": "pillowy",
+    "dishForm": "Gratin"
+  }
+}
