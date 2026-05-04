@@ -1,0 +1,111 @@
+{
+  "title": "Piquant Perfumed Moroccan Chicken Tagine",
+  "description": "A citrusy and nostalgic Moroccan dish featuring cinnamon and confit tomato, served on a bamboo tray. This low glycemic friendly recipe is perfect for a special occasion.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low glycemic",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, cinnamon, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Heat a large Dutch oven over medium high heat and brown the chicken on all sides.",
+    "Add the onion to the pot and cook until it is translucent.",
+    "Add the confit tomato, lemon juice, and chicken broth to the pot and stir to combine.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 30 minutes or until the chicken is cooked through.",
+    "Remove the pot from the oven and stir in the chopped parsley.",
+    "Serve the tagine hot on a bamboo tray."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-tray",
+    "chicken",
+    "gluten-free",
+    "low-glycemic",
+    "moroccan",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "piquant-perfumed-moroccan-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-perfumed-moroccan-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:21:39Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "confit-tomato",
+    "primaryIngredient": "cinnamon",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "Piquant Perfumed",
+    "dishForm": "Tagine"
+  }
+}
