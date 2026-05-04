@@ -1,0 +1,118 @@
+{
+  "title": "Piquant Portuguese Orange Casserole",
+  "description": "A citrusy, gooey dessert that blends the rich sweetness of black treacle with bright orange flavors, spiced with cinnamon, nutmeg, turmeric, and ginger for a Portuguese-inspired treat.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "anti-inflammatory"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "oranges",
+      "amount": "4 medium",
+      "notes": "tangerines preferred, use zest and juice"
+    },
+    {
+      "name": "black treacle",
+      "amount": "200 g"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "50 g"
+    },
+    {
+      "name": "eggs",
+      "amount": "3 large"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "150 ml",
+      "notes": "full-fat for richness"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50 g",
+      "notes": "melted"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground cloves",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh grated ginger",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "25 g",
+      "notes": "optional topping"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C and line a 20x20 cm baking dish with parchment.",
+    "Zest one orange and squeeze juice from all four oranges into a bowl.",
+    "Whisk together eggs, coconut milk, melted butter, vanilla, cinnamon, nutmeg, cloves, ginger, and turmeric until smooth.",
+    "Stir in black treacle, brown sugar, orange zest, and orange juice, mixing until well combined.",
+    "Pour mixture into prepared dish and spread evenly.",
+    "Bake for 35 minutes until the top is set and lightly browned.",
+    "Remove from oven and let cool for 10 minutes before sprinkling toasted almonds on top.",
+    "Slice and serve warm, optionally with a dollop of Greek yogurt or a drizzle of honey.",
+    "Store leftovers in an airtight container in the fridge for up to 3 days.",
+    "Reheat slices in a microwave for 30 to 45 seconds before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "antioxidant-rich",
+    "citrus",
+    "comfort-food",
+    "dessert",
+    "easy",
+    "gluten-free",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 55,
+    "fat": 13
+  },
+  "slug": "piquant-portuguese-orange-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-portuguese-orange-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:40:23Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "braise",
+    "primaryIngredient": "black treacle",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "oranges",
+    "descriptor": "Piquant",
+    "dishForm": "Casserole"
+  }
+}
