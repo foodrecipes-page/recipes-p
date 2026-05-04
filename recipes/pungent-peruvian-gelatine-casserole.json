@@ -1,0 +1,112 @@
+{
+  "title": "Pungent Peruvian Gelatine Casserole",
+  "description": "A low-fat, bitter and crumbly casserole that uses gelatin leaves to create a firm, flavorful base in a stone bowl.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "200 g",
+      "notes": "peeled and boiled until soft"
+    },
+    {
+      "name": "Gelatin leaves",
+      "amount": "50 g",
+      "notes": "soaked in cold water for 15 minutes"
+    },
+    {
+      "name": "Low-sodium vegetable broth",
+      "amount": "120 ml",
+      "notes": "heated"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh tomato",
+      "amount": "1 medium",
+      "notes": "crushed"
+    },
+    {
+      "name": "Peruvian adobo sauce",
+      "amount": "50 g",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "30 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": "for sauté"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes until tender, then mash them with a fork and set aside.",
+    "While the potatoes cook, soak the gelatin leaves in cold water for 15 minutes.",
+    "Drain the gelatin leaves, tear them into small pieces, and fold them into the warm broth until dissolved.",
+    "In a skillet, heat the olive oil over medium heat and sauté the sliced onion until translucent.",
+    "Add the crushed tomato and adobo sauce to the skillet, cooking until the mixture thickens slightly.",
+    "Stir in the cilantro, lime juice, salt, and pepper, letting the flavors meld for one minute.",
+    "Remove the skillet from the heat and let the sauce cool to room temperature.",
+    "In a dolsot stone bowl, spread the mashed potatoes evenly, creating a smooth base.",
+    "Pour the cooled sauce over the potato layer, ensuring it covers the entire surface.",
+    "Fold the soaked gelatin leaves into the sauce, mixing well to distribute the texture.",
+    "Cover the dolsot with a lid and refrigerate for at least 3 hours, allowing the gelatine to set firmly.",
+    "Before serving, garnish with a drizzle of olive oil and a sprinkle of fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gelatine",
+    "low-fat",
+    "one-pot",
+    "quick",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 9,
+    "carbs": 56,
+    "fat": 12
+  },
+  "slug": "pungent-peruvian-gelatine-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-peruvian-gelatine-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:34:07Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "reduce",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "gelatine",
+    "descriptor": "Pungent",
+    "dishForm": "Casserole"
+  }
+}
