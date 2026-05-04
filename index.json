@@ -5235,6 +5235,21 @@
     "shard": "p"
   },
   {
+    "slug": "pungent-garlicky-canadian-lentil-stew",
+    "title": "Pungent Garlicky Canadian Lentil Stew",
+    "tags": [
+      "canadian-cuisine",
+      "garlicky",
+      "hearty-stew",
+      "lacto-vegetarian",
+      "one-pot",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "pungent-herbal-tunisian-lamb-tagine",
     "title": "Pungent Herbal Tunisian Lamb Tagine",
     "tags": [

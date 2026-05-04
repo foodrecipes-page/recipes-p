@@ -1,0 +1,104 @@
+{
+  "title": "Pungent Garlicky Canadian Lentil Stew",
+  "description": "A hearty and flavorful lacto-vegetarian stew featuring red chilli and garlic, cooked in a molcajete vessel and finished with a mushimono-steam technique.",
+  "cuisine": "Canadian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red chilli",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup",
+      "notes": "plain lacto-vegetarian"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a molcajete vessel over medium heat.",
+    "Add the minced garlic and cook until fragrant, about 1 minute.",
+    "Add the diced red chilli and cook for an additional 2 minutes.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the peeled and chopped carrots and cook for an additional 2 minutes.",
+    "Add the rinsed and drained red lentils, vegetable broth, and dried thyme, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the lentils are tender.",
+    "Stir in the plain lacto-vegetarian yogurt and season with salt and pepper to taste.",
+    "Finish the stew with a mushimono-steam technique by covering the molcajete vessel with a lid and steaming for 5 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "garlicky",
+    "hearty-stew",
+    "lacto-vegetarian",
+    "one-pot",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "pungent-garlicky-canadian-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-garlicky-canadian-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:39:06Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "glassy-jelly",
+    "mood": "monsoon",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "red chilli",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "lentils",
+    "descriptor": "pungent garlicky",
+    "dishForm": "Stew"
+  }
+}
