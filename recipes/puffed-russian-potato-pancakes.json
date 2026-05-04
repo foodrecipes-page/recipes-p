@@ -1,0 +1,104 @@
+{
+  "title": "Puffed Russian Potato Pancakes",
+  "description": "Savory, aerated and nostalgic Russian potato pancakes infused with sweet Mars bar and served in scallop-shell vessels.",
+  "cuisine": "Russian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "300g",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "potato starch",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "cold water",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mars bar",
+      "amount": "50g",
+      "notes": "melted into batter"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium-high heat and lightly oil it with olive oil.",
+    "In a large bowl, combine grated potatoes, potato starch, baking powder, salt, pepper, and dill, mixing until well incorporated.",
+    "Beat the egg and stir it into the potato mixture until a cohesive batter forms.",
+    "Add cold water gradually, whisking until the batter reaches a pourable yet thick consistency.",
+    "Gently fold in melted Mars bar, ensuring small chocolate pockets remain within the batter.",
+    "Spoon the batter into individual scallop-shell-shaped molds or fill rinsed scallop shells with batter, smoothing the top with a spatula.",
+    "Place the scallop shells on the preheated skillet, cover partially with a lid, and cook for 4 minutes until the edges begin to puff and brown.",
+    "Flip the scallop shells carefully and cook the other side for an additional 3 minutes, allowing the pancakes to puff fully.",
+    "Remove from heat and let them sit for 1 minute before serving inside the scallop shells to retain shape.",
+    "Optionally, drizzle leftover melted Mars bar over the pancakes and sprinkle fresh dill for garnish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chewy-chocolate",
+    "comfort-food",
+    "fodmap-friendly",
+    "nostalgic",
+    "puffed",
+    "savory",
+    "scallop-shell"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "puffed-russian-potato-pancakes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/puffed-russian-potato-pancakes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:11:55Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "salt-bake",
+    "primaryIngredient": "mars bar",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "potato",
+    "descriptor": "Puffed",
+    "dishForm": "Pancakes"
+  }
+}
