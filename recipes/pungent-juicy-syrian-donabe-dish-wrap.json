@@ -1,0 +1,115 @@
+{
+  "title": "Pungent Juicy Syrian Donabe Dish Wrap",
+  "description": "A pungent and juicy Syrian-inspired dish featuring a soured cream and chive dip, served in a ssam-wrap and cooked in a donabe. Perfect for a sick-day meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless chicken thighs",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Donabe",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "60ml",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fermented chili paste",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Chopped chives",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Soured cream",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the donabe to 210°C over medium heat.",
+    "Add the ghee, grated ginger, and garlic to the donabe and cook for 3 minutes, stirring occasionally.",
+    "Add the boneless chicken thighs to the donabe and cook for 15 minutes, or until browned and cooked through.",
+    "Add the fermented chili paste to the donabe and stir to combine.",
+    "In a separate bowl, mix the soured cream and chopped chives.",
+    "To assemble the wrap, place a portion of the chicken mixture onto a pita bread, followed by a dollop of the soured cream mixture, and finally a handful of mixed greens.",
+    "Wrap the pita bread tightly and serve with a lemon wedge on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 23,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "sick-day",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 44,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "pungent-juicy-syrian-donabe-dish-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-juicy-syrian-donabe-dish-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:37:46Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "soured cream and chive dip",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Syrian dish",
+    "descriptor": "Pungent Juicy",
+    "dishForm": "Wrap"
+  }
+}

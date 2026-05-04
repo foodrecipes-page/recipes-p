@@ -604,6 +604,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-american-cocoa-beverage",
+    "title": "Peppery American Cocoa Beverage",
+    "tags": [
+      "breakfast",
+      "hot-chocolate",
+      "low-fat",
+      "one-pan",
+      "peppery",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-american-falafel-wrap",
     "title": "Peppery American Falafel Wrap",
     "tags": [
@@ -5954,6 +5969,20 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-juicy-syrian-donabe-dish-wrap",
+    "title": "Pungent Juicy Syrian Donabe Dish Wrap",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "sick-day",
+      "weeknight",
+      "whole30"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 38,
     "shard": "p"
   },
   {

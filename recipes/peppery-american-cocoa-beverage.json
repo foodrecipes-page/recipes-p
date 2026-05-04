@@ -1,0 +1,118 @@
+{
+  "title": "Peppery American Cocoa Beverage",
+  "description": "A rich and energizing hot drink, perfect for a cold winter morning. This recipe is a twist on traditional hot chocolate, with a spicy kick from cayenne pepper.",
+  "cuisine": "American",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "dark cocoa powder",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 pinch",
+      "notes": ""
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "whole nutmeg",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine the cocoa powder, water, and milk in a ttukbaegi earthenware pot.",
+    "Whisk the mixture until the cocoa powder is dissolved.",
+    "Add the honey, cayenne pepper, salt, black pepper, vanilla extract, and nutmeg to the pot.",
+    "Whisk until well combined.",
+    "Place the pot over medium heat and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook for 5 minutes, or until the flavors have melded together.",
+    "Remove the pot from the heat and add the butter.",
+    "Whisk until the butter is melted.",
+    "Taste and adjust the seasoning as needed.",
+    "Pour the hot cocoa into mugs and serve immediately.",
+    "Garnish with a sprinkle of nutmeg, if desired.",
+    "Serve immediately, while the drink is still hot.",
+    "Store any leftovers in the refrigerator for up to 3 days.",
+    "Reheat the leftovers by placing the pot over low heat and whisking until hot and steaming.",
+    "Serve the peppery American cocoa beverage in a large mug.",
+    "Garnish with a sprinkle of cocoa powder or a cinnamon stick, if desired.",
+    "Serve as a pick-me-up after a long day.",
+    "Enjoy the warm and comforting flavors of this peppery drink."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "hot-chocolate",
+    "low-fat",
+    "one-pan",
+    "peppery",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "peppery-american-cocoa-beverage",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-american-cocoa-beverage",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:37:26Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "cocoa",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "cocoa",
+    "descriptor": "peppery",
+    "dishForm": "Beverage"
+  }
+}
