@@ -1,0 +1,89 @@
+{
+  "title": "Pungent Quick-Fix Oaxacan Bay Leaves Fried Dough Balls",
+  "description": "Crunchy fried dough balls infused with the earthy flavor of bay leaves, a snappy twist on traditional Mexican churros.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 teaspoons dried",
+      "notes": "crushed"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together flour, sugar, crushed bay leaves, nutmeg, and baking powder.",
+    "In a separate bowl, whisk together eggs and 1/4 cup of vegetable oil.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Heat about 2-3 inches of vegetable oil in a deep frying pan to 375 degrees Fahrenheit.",
+    "Using a piping bag or a plastic bag with a corner cut off, pipe the dough into 4-6 inch pieces.",
+    "Fry the dough balls for 2-3 minutes on each side, or until they are golden brown and puffed up.",
+    "Using a slotted spoon, remove the fried dough balls from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve warm and dust with cinnamon.",
+    "Optional: Drizzle with honey or syrup for added sweetness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "snack-attack",
+    "sweet-and-savory",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "pungent-quick-fix-oaxacan-bay-leaves-fried-dough-balls",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-quick-fix-oaxacan-bay-leaves-fried-dough-balls",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:16Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "saute",
+    "primaryIngredient": "bay leaves",
+    "diet": "lacto-vegetarian",
+    "region": "oaxacan",
+    "cuisineAdjective": "oaxacan",
+    "mainIngredient": "bay leaves",
+    "descriptor": "pungent quick-fix",
+    "dishForm": "Fried Dough Balls"
+  }
+}
