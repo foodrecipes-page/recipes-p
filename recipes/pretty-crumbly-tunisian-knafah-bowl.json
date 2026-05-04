@@ -1,0 +1,93 @@
+{
+  "title": "Tunisian Knafeh Bowl",
+  "description": "A crumbly and light Tunisian dessert featuring knafeh, served in a stone bowl, with umami flavors and a dash of friendly spices, traditionally served in a copper mug.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "knafeh dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped pistachios",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shredded phyllo dough",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees.",
+    "Prepare the knafeh dough according to package instructions.",
+    "Mix the sugar, rose water, and orange blossom water in a bowl.",
+    "Layer the knafeh dough, sugar mixture, and shredded phyllo dough in a copper mug.",
+    "Drizzle the melted butter over the layers.",
+    "Sprinkle the chopped pistachios over the top.",
+    "Bake for 25 minutes or until golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Drizzle the heavy cream over the top and serve in a stone bowl."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "copper-mug-cooking",
+    "crumbly-texture",
+    "middle-eastern-desserts",
+    "stone-bowl-recipes",
+    "tunisian-dishes",
+    "umami-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "pretty-crumbly-tunisian-knafah-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pretty-crumbly-tunisian-knafah-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:41:51Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "knafeh",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "knafah",
+    "descriptor": "pretty crumbly",
+    "dishForm": "Bowl"
+  }
+}
