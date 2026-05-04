@@ -1,0 +1,97 @@
+{
+  "title": "pungent flaky filipino foie-gras pancit",
+  "description": "a vegetarian-friendly, kid-friendly filipino dish featuring foie-gras and shio-koji-cure, perfect for a weeknight dinner. briny, flaky, and indulgent.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "foie-gras",
+      "amount": "8 oz",
+      "notes": "cured in shio-koji"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "1 cup",
+      "notes": "for curing foie-gras"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 cup",
+      "notes": "for pancit noodles"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "kalamansi juice",
+      "amount": "2 tbsp",
+      "notes": "philippine lime juice"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "sliced green onions",
+      "amount": "",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "cure the foie-gras in shio-koji refrigerated for at least 2 days.",
+    "mix rice flour and water to make pancit noodles; knead for 10 minutes; rest for 30 minutes.",
+    "heat vegetable oil in a pan over medium heat; add cured foie-gras; cook for 3 minutes per side.",
+    "cook pancit noodles in boiling vegetable broth for 5-7 minutes or until tender.",
+    "add kalamansi juice and black pepper to the noodles; toss to combine.",
+    "serve the noodles with the pan-fried foie-gras on top; garnish with sliced green onions."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 25,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "foie-gras",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 36,
+    "carbs": 60,
+    "fat": 26
+  },
+  "slug": "pungent-flaky-filipino-foie-gras-pancit",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-flaky-filipino-foie-gras-pancit",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:55:03Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "foie-gras",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "foie-gras",
+    "descriptor": "pungent flaky",
+    "dishForm": "Pancit"
+  }
+}
