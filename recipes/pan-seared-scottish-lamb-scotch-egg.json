@@ -1,0 +1,97 @@
+{
+  "title": "Pan Seared Scottish Lamb Scotch Egg",
+  "description": "A twist on the classic Scotch egg, this dish features lamb kidney and a double fry method for a crispy exterior, served with a side of umami rich flavors, perfect for a cozy British inspired meal.",
+  "cuisine": "Scottish",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lamb kidney",
+      "amount": "4",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "lamb sausage meat",
+      "amount": "1 pound",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "spices",
+      "amount": "1 teaspoon",
+      "notes": "paprika, garlic powder, salt, and pepper"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for double frying"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Prepare the lamb kidney slices by seasoning with spices and letting them sit at room temperature for 30 minutes.",
+    "Wrap each lamb kidney slice with a layer of lamb sausage meat, making sure to seal the edges well.",
+    "Dip each sausage wrapped kidney slice in the flour, then the egg wash, and finally the cornstarch, pressing the cornstarch gently onto the sausage to adhere.",
+    "Heat 1 cup of vegetable oil in a deep frying pan to 350 degrees and fry the coated kidney slices for 2-3 minutes on each side, until golden brown.",
+    "Remove the fried slices from the oil and let them cool on a paper towel lined plate for 5 minutes.",
+    "Increase the oil temperature to 375 degrees and fry the slices again for an additional 2 minutes, until crispy and golden brown.",
+    "Remove the double fried slices from the oil and place them on a paper towel lined plate to drain excess oil.",
+    "Pan sear the slices in a hot skillet with a small amount of oil until browned on all sides.",
+    "Serve the pan seared Scottish lamb Scotch eggs hot, garnished with fresh herbs and your choice of dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy-meals",
+    "double-fry",
+    "lamb-recipes",
+    "scottish-cuisine",
+    "snack-food",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "pan-seared-scottish-lamb-scotch-egg",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-scottish-lamb-scotch-egg",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:11:50Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "lamb kidney",
+    "diet": "dairy-free",
+    "region": "scottish",
+    "cuisineAdjective": "Scottish",
+    "mainIngredient": "lamb",
+    "descriptor": "Pan seared",
+    "dishForm": "Scotch Egg"
+  }
+}

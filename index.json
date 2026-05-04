@@ -184,6 +184,21 @@
     "shard": "p"
   },
   {
+    "slug": "pan-seared-scottish-lamb-scotch-egg",
+    "title": "Pan Seared Scottish Lamb Scotch Egg",
+    "tags": [
+      "cozy-meals",
+      "double-fry",
+      "lamb-recipes",
+      "scottish-cuisine",
+      "snack-food",
+      "umami-rich"
+    ],
+    "cuisine": "Scottish",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
     "slug": "pan-seared-venezuelan-fish-skewers",
     "title": "Pan Seared Venezuelan Fish Skewers",
     "tags": [
