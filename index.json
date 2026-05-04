@@ -97,6 +97,21 @@
     "shard": "p"
   },
   {
+    "slug": "pan-seared-japanese-pork-dumplings",
+    "title": "Pan Seared Japanese Pork Dumplings",
+    "tags": [
+      "dumplings",
+      "japanese-cuisine",
+      "pan-seared",
+      "pork-dishes",
+      "steamed-food",
+      "tohoku-specialties"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
     "slug": "panang-curry-brise-ferment",
     "title": "Panang Curry Brise Ferment",
     "tags": [
