@@ -5640,6 +5640,19 @@
     "shard": "p"
   },
   {
+    "slug": "pungent-indian-kale-hyderabadi-pakora",
+    "title": "Pungent Indian Kale Hyderabadi Pakora",
+    "tags": [
+      "indian",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "pungent-japanese-cheese-tamagoyaki",
     "title": "Pungent Japanese Cheese Tamagoyaki",
     "tags": [
@@ -5768,6 +5781,21 @@
     ],
     "cuisine": "Indian Korean",
     "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-syrian-lamb-tagine",
+    "title": "Syrian Lamb Tagine",
+    "tags": [
+      "adventurous",
+      "high-protein",
+      "one-pan",
+      "spicy",
+      "syrian",
+      "weekday"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 150,
     "shard": "p"
   },
   {

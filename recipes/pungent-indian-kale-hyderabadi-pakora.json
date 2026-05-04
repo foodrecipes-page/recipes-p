@@ -1,0 +1,93 @@
+{
+  "title": "Pungent Indian Kale Hyderabadi Pakora",
+  "description": "A flavorful and nutritious Indian dish made with kale, perfect as a solo dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "2 cups, stems removed and discarded, leaves torn into bite-sized pieces"
+    },
+    {
+      "name": "Gram Flour",
+      "amount": "1 cup",
+      "notes": "also known as chickpea flour"
+    },
+    {
+      "name": "Spices and Herbs",
+      "amount": "2 teaspoons",
+      "notes": "cumin seeds, coriander powder, turmeric, red chili powder, garam masala, amchur powder, salt"
+    },
+    {
+      "name": "Ginger Paste",
+      "amount": "1 teaspoon",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Garlic Paste",
+      "amount": "1 teaspoon",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": "for soaking the batter"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Soak the gram flour in 1/2 cup of water for 30 minutes.",
+    "Squeeze the water from the soaked gram flour and mix it with spices and herbs, ginger paste, garlic paste, lemon juice.",
+    "Add the torn kale leaves to the batter and mix well.",
+    "Heat oil in a deep frying pan over medium heat.",
+    "Using a spoon, drop small balls of the kale batter into the hot oil and fry until golden brown.",
+    "Drain the pakora on paper towels and serve hot with a side of chutney or raita."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 8
+  },
+  "slug": "pungent-indian-kale-hyderabadi-pakora",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-indian-kale-hyderabadi-pakora",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:40Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "dehydrate",
+    "primaryIngredient": "kale",
+    "diet": "halal",
+    "region": "hyderabadi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "kale",
+    "descriptor": "pungent",
+    "dishForm": "Hyderabadi Pakora"
+  }
+}
