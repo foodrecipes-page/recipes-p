@@ -1,0 +1,113 @@
+{
+  "title": "Piquant Irish Rocket Salad",
+  "description": "A citrusy, silky salad of rocket, smoked salmon, and kombu-infused vinaigrette, energizing and pescatarian-friendly.",
+  "cuisine": "Irish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rocket leaves",
+      "amount": "200g",
+      "notes": "fresh"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "75g",
+      "notes": "diced"
+    },
+    {
+      "name": "orange",
+      "amount": "1 small",
+      "notes": "segmented"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "capers",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "toasted walnuts",
+      "amount": "1 tsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Wash and dry the rocket leaves, placing them in a large bowl.",
+    "Add the diced smoked salmon and orange segments to the bowl.",
+    "In a small jar, whisk together lemon juice, orange juice, honey, Dijon mustard, olive oil, kombu cold extract, and a pinch of sea salt until emulsified.",
+    "Pour the vinaigrette over the salad and gently toss to coat all ingredients.",
+    "Scatter the capers and crushed toasted walnuts on top.",
+    "Let the salad rest for 5 minutes to allow flavors to meld.",
+    "Serve the salad immediately on a chilled plate.",
+    "Optionally, drizzle a light drizzle of extra virgin olive oil before serving.",
+    "Enjoy the bright citrus notes and subtle umami of kombu.",
+    "Store any leftovers in an airtight container in the refrigerator."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "energizing",
+    "irish",
+    "kombu",
+    "pescatarian",
+    "rocket",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "piquant-irish-rocket-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-irish-rocket-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:08:52Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "rocket",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "rocket",
+    "descriptor": "Piquant",
+    "dishForm": "Salad"
+  }
+}

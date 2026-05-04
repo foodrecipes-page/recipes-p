@@ -3784,6 +3784,22 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-irish-rocket-salad",
+    "title": "Piquant Irish Rocket Salad",
+    "tags": [
+      "citrusy",
+      "energizing",
+      "irish",
+      "kombu",
+      "pescatarian",
+      "rocket",
+      "salad"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 15,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-italian-spaghetti-cacio-e-pepe",
     "title": "Piquant Italian Spaghetti Cacio e Pepe",
     "tags": [
