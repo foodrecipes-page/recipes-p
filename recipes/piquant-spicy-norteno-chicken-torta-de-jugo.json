@@ -1,0 +1,107 @@
+{
+  "title": "piquant spicy norteño chicken torta de jugo",
+  "description": "this umami-filled dish combines the richness of chicken with the spicy kick of norteño peppers, all wrapped up in a weeknight-friendly torta. enjoy with a glass of horchata!",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "norteño peppers",
+      "amount": "2",
+      "notes": "seeds and membranes removed, sliced"
+    },
+    {
+      "name": "shallots",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "fines herbes",
+      "amount": "1 tablespoon",
+      "notes": "chopped (such as parsley, chives, and cilantro)"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "remove the chicken from the skillet and set aside.",
+    "reduce the heat to medium and add the sliced norteño peppers to the skillet.",
+    "cook the peppers for 2-3 minutes, until they start to soften.",
+    "add the sliced shallots and minced garlic to the skillet and cook for 1 minute, until the shallots are translucent.",
+    "add the cumin, chili powder, salt, and black pepper to the skillet and cook for 1 minute, until the spices are fragrant.",
+    "return the chicken to the skillet and stir to coat with the spice mixture.",
+    "reduce the heat to low and simmer the chicken and pepper mixture for 5-7 minutes, until the chicken is cooked through.",
+    "warm 4 tortas on a baking sheet in the oven for 2-3 minutes.",
+    "assemble the tortas by placing a portion of the chicken and pepper mixture on each torta, followed by a sprinkle of chopped fines herbes.",
+    "serve immediately, with a glass of horchata on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mexican",
+    "norte-o",
+    "one-pan",
+    "spicy",
+    "tortas",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 34,
+    "fat": 28
+  },
+  "slug": "piquant-spicy-norteno-chicken-torta-de-jugo",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-spicy-norteno-chicken-torta-de-jugo",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:13:04Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "molten",
+    "mood": "weeknight",
+    "technique": "whisk",
+    "primaryIngredient": "fines-herbes",
+    "diet": "sugar-free",
+    "region": "norteño",
+    "cuisineAdjective": "Norteño",
+    "mainIngredient": "Chicken",
+    "descriptor": "Piquant, Spicy",
+    "dishForm": "Torta de Jugo"
+  }
+}

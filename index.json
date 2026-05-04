@@ -3561,6 +3561,23 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-spicy-norteno-chicken-torta-de-jugo",
+    "title": "piquant spicy norteño chicken torta de jugo",
+    "tags": [
+      "high-protein",
+      "mexican",
+      "norte-o",
+      "one-pan",
+      "spicy",
+      "tortas",
+      "umami",
+      "weeknight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-thai-fish-noodles",
     "title": "Piquant Thai Fish Noodles",
     "tags": [
