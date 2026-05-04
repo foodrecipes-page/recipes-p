@@ -1,0 +1,113 @@
+{
+  "title": "Peppery Russian Carrot Soup",
+  "description": "A warm, peppered carrot soup inspired by Russian comfort food, aerated with muscovado sugar and seasoned with namul-blanch-season for depth.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "macrobiotic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "250 g",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "1.5 l"
+    },
+    {
+      "name": "muscovado sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "namul-blanch-season",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Stir in the minced garlic and grated ginger, cooking for 1 minute until fragrant.",
+    "Add the sliced carrots, black pepper, smoked paprika, and namul-blanch-season, stirring to coat.",
+    "Pour in the vegetable stock and bring the mixture to a boil.",
+    "Reduce the heat to low, cover, and simmer until carrots are tender, about 20 minutes.",
+    "Blend the soup with an immersion blender until smooth, then return to the pot.",
+    "Stir in the muscovado sugar and salt, adjusting seasoning as needed.",
+    "Serve hot, garnished with fresh dill."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy",
+    "macrobiotic",
+    "one-pot",
+    "vegan",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 4,
+    "carbs": 36,
+    "fat": 14
+  },
+  "slug": "peppery-russian-carrot-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-russian-carrot-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:24:57Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Carrot",
+    "descriptor": "Peppery",
+    "dishForm": "Soup"
+  }
+}

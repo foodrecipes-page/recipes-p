@@ -2963,6 +2963,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-russian-carrot-soup",
+    "title": "Peppery Russian Carrot Soup",
+    "tags": [
+      "comfort-food",
+      "easy",
+      "macrobiotic",
+      "one-pot",
+      "vegan",
+      "winter"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-russian-ginger-crumble",
     "title": "Peppery Russian Ginger Crumble",
     "tags": [
@@ -4668,6 +4683,20 @@
       "dash-friendly"
     ],
     "cuisine": "Ethiopian",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
+    "slug": "plum-jam-infused-french-burgundy-eclair",
+    "title": "plum jam infused french burgundy eclair",
+    "tags": [
+      "dessert",
+      "french",
+      "gluten-free",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "french",
     "totalTimeMin": 50,
     "shard": "p"
   },
