@@ -1,0 +1,106 @@
+{
+  "title": "Piquant Charred Mediterranean Zucchini Kebabs",
+  "description": "Spicy, charred zucchini skewers with Mediterranean spices, perfect for a low-carb, sugar‑free dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "4 medium",
+      "notes": "sliced into 1-inch thick rounds"
+    },
+    {
+      "name": "skewers",
+      "amount": "8 wooden",
+      "notes": "soaked in water 30 minutes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "from 1 lemon"
+    },
+    {
+      "name": "capers",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to high heat (around 450°F) and brush the grates with oil.",
+    "Slice zucchini into 1-inch thick rounds and set aside.",
+    "Whisk together olive oil, smoked paprika, oregano, garlic powder, cumin, salt, pepper, and lemon juice to make a rub.",
+    "Thread two slices of zucchini onto each skewer, alternating with a slice of red bell pepper if desired.",
+    "Brush the zucchini skewers generously with the spice rub, ensuring each piece is coated.",
+    "Place the skewers on the preheated grill and cook, turning every 2-3 minutes, until the zucchini shows bright char marks and is tender, about 8-10 minutes total.",
+    "Remove kebabs from heat, drizzle with a few capers for briny contrast, and let rest 2 minutes.",
+    "Serve immediately with a small side of tzatziki or a squeeze of fresh lemon."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "kebab",
+    "low-carb",
+    "mediterranean",
+    "quick",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 4,
+    "carbs": 15,
+    "fat": 12
+  },
+  "slug": "piquant-charred-mediterranean-zucchini-kebabs",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-charred-mediterranean-zucchini-kebabs",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:32:56Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "rest-meat",
+    "primaryIngredient": "zucchini",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Zucchini",
+    "descriptor": "Piquant Charred",
+    "dishForm": "Kebabs"
+  }
+}
