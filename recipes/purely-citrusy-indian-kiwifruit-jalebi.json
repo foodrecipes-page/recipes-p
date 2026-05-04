@@ -1,0 +1,93 @@
+{
+  "title": "Purely Citrusy Indian Kiwifruit Jalebi",
+  "description": "A pescatarian-friendly Indian dish featuring kiwifruit, with a citrusy and molten twist, served as a solo dinner option. This Andhra-style jalebi is steamed in a leaf wrap for a unique flavor.",
+  "cuisine": "Indian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kiwifruit",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large",
+      "notes": "for steaming"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, ghee, orange juice, lemon juice, turmeric, and salt to form a smooth batter.",
+    "Add the chopped kiwifruit to the batter and mix well.",
+    "Heat a non-stick pan over medium heat and pour a small amount of the batter to form a jalebi shape.",
+    "Cook the jalebi for 2-3 minutes on each side, until golden brown.",
+    "Place a cooked jalebi on a banana leaf and fold the leaf to form a packet.",
+    "Steam the jalebi packets for 5 minutes, until the leaf is tender.",
+    "Serve the jalebi hot with a sprinkle of salt and a squeeze of lemon juice.",
+    "Repeat the process with the remaining batter and kiwifruit.",
+    "Garnish with additional kiwifruit slices, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "andhra-style",
+    "citrusy-flavors",
+    "indian-cuisine",
+    "kiwifruit-recipes",
+    "pescatarian-friendly",
+    "steamed-dishes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "purely-citrusy-indian-kiwifruit-jalebi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-citrusy-indian-kiwifruit-jalebi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:59:40Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "kiwifruit",
+    "diet": "pescatarian",
+    "region": "andhra",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "kiwifruit",
+    "descriptor": "Purely Citrusy",
+    "dishForm": "Jalebi"
+  }
+}
