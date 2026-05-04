@@ -1,0 +1,101 @@
+{
+  "title": "Plush Turkish Stilton Pide",
+  "description": "A buttery, bouncy pide topped with creamy vegan Stilton and zesty nuka-pickle for a satisfying solo dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250 g"
+    },
+    {
+      "name": "warm water",
+      "amount": "150 ml"
+    },
+    {
+      "name": "instant dry yeast",
+      "amount": "5 g"
+    },
+    {
+      "name": "salt",
+      "amount": "5 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30 ml"
+    },
+    {
+      "name": "vegan Stilton cheese",
+      "amount": "150 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "50 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 Tbsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl mix the flour, yeast, and salt.",
+    "Add the warm water and olive oil and stir until a sticky dough forms.",
+    "Knead the dough on a floured surface for 5 minutes until smooth.",
+    "Cover the dough with a damp cloth and let it rise in a warm place for 30 minutes.",
+    "Preheat the oven to 220 °C (428 °F).",
+    "Roll the dough into a 25 cm round and transfer it to a parchment-lined baking sheet.",
+    "Spread tomato paste over the dough, then arrange the vegan Stilton slices and chopped nuka-pickle on top. Sprinkle oregano, paprika, and a pinch of salt.",
+    "Bake for 15 minutes until the edges are golden and the cheese is melted.",
+    "Allow the pide to cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "one-pan",
+    "plant-based-friendly",
+    "savory",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 35,
+    "carbs": 180,
+    "fat": 65
+  },
+  "slug": "plush-turkish-stilton-pide",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/plush-turkish-stilton-pide",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:18:08Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "stilton cheese",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Stilton",
+    "descriptor": "Plush",
+    "dishForm": "Pide"
+  }
+}
