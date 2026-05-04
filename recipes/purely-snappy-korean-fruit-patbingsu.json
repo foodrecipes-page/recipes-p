@@ -1,0 +1,95 @@
+{
+  "title": "Purely Snappy Korean Fruit Patbingsu",
+  "description": "A light and refreshing Korean dessert featuring charred fruit and a touch of yuzu, perfect for warm weather. This macrobiotic-friendly dish is made with kosher salt and a variety of fruits.",
+  "cuisine": "Korean",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "shaved ice",
+      "amount": "2 cups",
+      "notes": "preferably made from filtered water"
+    },
+    {
+      "name": "mixed berries",
+      "amount": "1 cup",
+      "notes": "such as strawberries, blueberries, and raspberries"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sliced mango",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sliced pineapple",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the shaved ice, mixed berries, and sliced mango.",
+    "Drizzle the yuzu juice over the top of the ice mixture and sprinkle with kosher salt.",
+    "Arrange the sliced pineapple on top of the ice mixture.",
+    "In a small bowl, mix together the coconut milk and toasted coconut flakes.",
+    "Pour the coconut milk mixture over the top of the pineapple.",
+    "Use a kitchen torch to carefully char the fruit, if desired.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional toasted coconut flakes, if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "fruit-based",
+    "healthy",
+    "korean-dish",
+    "light",
+    "macrobiotic",
+    "refreshing"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "purely-snappy-korean-fruit-patbingsu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-snappy-korean-fruit-patbingsu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:59:58Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "kosher salt",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "fruit",
+    "descriptor": "purely snappy",
+    "dishForm": "Patbingsu"
+  }
+}
