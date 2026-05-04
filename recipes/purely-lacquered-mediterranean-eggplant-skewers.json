@@ -1,0 +1,95 @@
+{
+  "title": "Purely Lacquered Mediterranean Eggplant Skewers",
+  "description": "A nutty and tender Mediterranean dish featuring eggplant, perfect for a monsoon evening, this recipe is macrobiotic-friendly and cooked to perfection in a bamboo steamer. The lacquer glaze adds a rich and savory flavor to the dish.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "macrobiotic",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the bamboo steamer by filling it with water and bringing it to a boil.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, lacquer glaze, salt, and black pepper.",
+    "Add the eggplant cubes to the bowl and toss to coat with the lacquer glaze mixture.",
+    "Thread the eggplant cubes onto skewers, leaving a small space between each cube.",
+    "Place the skewers in the bamboo steamer and steam for 15 minutes, or until the eggplant is tender.",
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Serve immediately and enjoy.",
+    "You can also serve with a side of quinoa or brown rice for a filling meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy-eating",
+    "macrobiotic-diet",
+    "mediterranean-diet",
+    "monsoon-recipes",
+    "vegan-friendly",
+    "vegetarian-recipe"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "purely-lacquered-mediterranean-eggplant-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-lacquered-mediterranean-eggplant-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:12:51Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "eggplant",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "eggplant",
+    "descriptor": "Purely lacquered",
+    "dishForm": "Skewers"
+  }
+}
