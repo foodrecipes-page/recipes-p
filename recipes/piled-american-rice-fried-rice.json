@@ -1,0 +1,110 @@
+{
+  "title": "Piled American Rice Fried-Rice",
+  "description": "Dense, comforting vegan fried rice with creamy mayo, stacked in a tandoor clay pot for a smoky finish.",
+  "cuisine": "American",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked jasmine rice",
+      "amount": "3 cups",
+      "notes": ""
+    },
+    {
+      "name": "frozen peas and carrots, thawed",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "medium onion, diced",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vegan mayonnaise",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "green onions, sliced (optional garnish)",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot on medium heat for 5 minutes.",
+    "Heat vegetable oil in the pot until shimmering.",
+    "Add diced onion and minced garlic, sauté until onions are translucent.",
+    "Stir in frozen peas and carrots, cook for 3 minutes until heated through.",
+    "Add the cold jasmine rice, break up clumps, stir for 4 minutes, letting rice crisp slightly.",
+    "Drizzle soy sauce, sprinkle salt and pepper, and mix thoroughly to coat the rice.",
+    "Fold in vegan mayonnaise, stirring until the rice is evenly coated and creamy.",
+    "Cover the pot, reduce heat to low, and cook for 5 minutes to allow flavors to meld.",
+    "Garnish with sliced green onions before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dense",
+    "fried-rice",
+    "one-pot",
+    "smoky",
+    "tandoor",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 5,
+    "carbs": 42,
+    "fat": 13
+  },
+  "slug": "piled-american-rice-fried-rice",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piled-american-rice-fried-rice",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:49:12Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "mayonnaise",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "rice",
+    "descriptor": "Piled",
+    "dishForm": "Fried-Rice"
+  }
+}

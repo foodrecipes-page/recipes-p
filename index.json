@@ -3791,6 +3791,22 @@
     "shard": "p"
   },
   {
+    "slug": "piled-american-rice-fried-rice",
+    "title": "Piled American Rice Fried-Rice",
+    "tags": [
+      "comfort-food",
+      "dense",
+      "fried-rice",
+      "one-pot",
+      "smoky",
+      "tandoor",
+      "vegan"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
     "slug": "pillowy-moroccan-lamb-tagine-bowl",
     "title": "Pillowy Moroccan Lamb Tagine Bowl",
     "tags": [
