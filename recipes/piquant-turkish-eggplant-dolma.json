@@ -1,0 +1,123 @@
+{
+  "title": "Piquant Turkish Eggplant Dolma",
+  "description": "A chewy, low‑carb Turkish dish featuring spiced eggplant stuffed with cauliflower rice and lean lamb, served in a stone‑pot for a smoky finish.",
+  "cuisine": "turkish",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "4 medium",
+      "notes": "peeled"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "200g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground lamb",
+      "amount": "200g"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried mint",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 190°C and soak a stone pot in warm water for 10 minutes.",
+    "Cut a slit into the top of each eggplant and carefully scoop out the flesh to create a hollow shell, reserving the flesh for the filling.",
+    "In a skillet, cook the ground lamb over medium heat until browned, then add the onion and garlic and sauté until translucent.",
+    "Stir in the reserved eggplant flesh, cauliflower rice, tomato paste, cumin, paprika, dried mint, salt, and pepper; cook for 5 minutes.",
+    "Remove the skillet from heat and fold in the lemon juice and chopped parsley.",
+    "Fill each eggplant shell with the mixture, pressing gently to pack the stuffing.",
+    "Arrange the stuffed eggplants upright in the preheated stone pot.",
+    "Pour 1 cup of water around the eggplants, ensuring the water covers the base of the pot but not the tops of the eggplants.",
+    "Place the pot on a low‑heat burner until the water simmers, then cover and continue cooking for 30 minutes.",
+    "After cooking, remove the pot from heat and allow the dolmas to cool slightly before serving.",
+    "Serve the dolmas hot, spooning some of the cooking liquid over each eggplant for extra moisture.",
+    "Optionally garnish with a sprinkle of fresh mint or parsley before plating."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "dinner",
+    "eggplant",
+    "low-carb",
+    "one-pot",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 58,
+    "carbs": 32,
+    "fat": 25
+  },
+  "slug": "piquant-turkish-eggplant-dolma",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-turkish-eggplant-dolma",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:54:27Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "salt",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "eggplant",
+    "descriptor": "Piquant",
+    "dishForm": "Dolma"
+  }
+}
