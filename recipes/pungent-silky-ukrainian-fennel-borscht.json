@@ -1,0 +1,102 @@
+{
+  "title": "Pungent Silky Ukrainian Fennel Borscht",
+  "description": "A hearty, comforting Ukrainian soup that showcases the unique flavors of fennel and ferments, perfect for a cozy evening meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fennel bulb",
+      "amount": "2 medium bulbs",
+      "notes": "any color fennel works"
+    },
+    {
+      "name": "beetroot",
+      "amount": "2 medium beets",
+      "notes": "cooked and peeled"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium carrots",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "1 large sweet potato",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "any water will do"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for saut\u00057ng"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the coconut oil over medium heat.",
+    "S\u00052t\u00057e the grated carrot and diced sweet potato until softened, about 5 minutes.",
+    "Add the cooked and peeled beets, chopped fennel bulb, and ferment-jang to the pot.",
+    "Pour in the apple cider vinegar and water, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Blend the soup in batches until smooth using an immersion blender or regular blender.",
+    "Return the soup to the pot and add salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "cozy",
+    "low-carb",
+    "silky",
+    "soup",
+    "ukrainian",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "pungent-silky-ukrainian-fennel-borscht",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-silky-ukrainian-fennel-borscht",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:28Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "ferment-jang",
+    "primaryIngredient": "fennel",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "fennel",
+    "descriptor": "pungent silky",
+    "dishForm": "Borscht"
+  }
+}

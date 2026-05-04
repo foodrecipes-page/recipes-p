@@ -1,0 +1,123 @@
+{
+  "title": "Pungent Sour Russian Chives Borscht",
+  "description": "A hearty, flexitarian-friendly twist on the traditional Russian beet soup, featuring the bold flavor of chives and a tangy kick.",
+  "cuisine": "russian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "3",
+      "notes": "large, peeled and grated"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "large, diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "large, diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2",
+      "notes": "large, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3",
+      "notes": "cloves, minced"
+    },
+    {
+      "name": "chives",
+      "amount": "1",
+      "notes": "large, chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4",
+      "notes": "cups"
+    },
+    {
+      "name": "vinegar",
+      "amount": "2",
+      "notes": "tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1",
+      "notes": "teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2",
+      "notes": "tablespoons"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2",
+      "notes": "cups, diced"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1",
+      "notes": "cup,"
+    },
+    {
+      "name": "salt",
+      "amount": "1",
+      "notes": "teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine beets, onions, carrots, and celery in a copper pot and saut\u00079 until the vegetables are tender.",
+    "Add garlic and cook until fragrant.",
+    "Add chives and cook for 1 minute.",
+    "Add vegetable broth, vinegar, sugar, tomato paste, and tomatoes. Bring to a boil, then reduce heat and simmer for 15 minutes.",
+    "Stir in sour cream and season with salt.",
+    "Serve hot, garnished with additional chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beet-based",
+    "chive-lovers",
+    "comfort-food",
+    "flexitarian",
+    "lunch",
+    "russian",
+    "soup",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "pungent-sour-russian-chives-borscht",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-sour-russian-chives-borscht",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:53Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "chives",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "russian",
+    "mainIngredient": "chives",
+    "descriptor": "pungent sour",
+    "dishForm": "borscht"
+  }
+}

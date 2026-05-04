@@ -4097,6 +4097,21 @@
     "shard": "p"
   },
   {
+    "slug": "pillowy-norwegian-sour-cream-flatbread",
+    "title": "Pillowy Norwegian Sour Cream Flatbread",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "flatbread",
+      "flexitarian",
+      "norwegian",
+      "sour-cream"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "pillowy-nutty-applesauce-bake",
     "title": "pillowy nutty applesauce bake",
     "tags": [
@@ -5616,6 +5631,20 @@
     "shard": "p"
   },
   {
+    "slug": "post-workout-roasted-vietnamese-quinoa-bowl",
+    "title": "post-workout roasted Vietnamese quinoa bowl",
+    "tags": [
+      "post-workout",
+      "quinoa",
+      "snack",
+      "vegan",
+      "vietnamese"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "post-workout-shattering-kenyan-jerusalem-artichokes-gratin",
     "title": "post-workout shattering kenyan jerusalem artichokes gratin",
     "tags": [
@@ -5969,6 +5998,22 @@
     "shard": "p"
   },
   {
+    "slug": "pungent-fluffy-indian-chicken-drumsticks-masala",
+    "title": "Pungent Fluffy Indian Chicken Drumsticks Masala",
+    "tags": [
+      "chicken",
+      "indian",
+      "low-calorie",
+      "masala",
+      "one-pan",
+      "south-indian",
+      "weeknight"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
     "slug": "pungent-garlicky-canadian-lentil-stew",
     "title": "Pungent Garlicky Canadian Lentil Stew",
     "tags": [
@@ -6188,6 +6233,23 @@
     "shard": "p"
   },
   {
+    "slug": "pungent-silky-ukrainian-fennel-borscht",
+    "title": "Pungent Silky Ukrainian Fennel Borscht",
+    "tags": [
+      "comfort-food",
+      "cozy",
+      "low-carb",
+      "silky",
+      "soup",
+      "ukrainian",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "pungent-smoky-greek-bryndza-cheese-pilaf",
     "title": "Pungent Smoky Greek Bryndza Cheese Pilaf",
     "tags": [
@@ -6215,6 +6277,23 @@
     ],
     "cuisine": "Indian Korean",
     "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-sour-russian-chives-borscht",
+    "title": "Pungent Sour Russian Chives Borscht",
+    "tags": [
+      "beet-based",
+      "chive-lovers",
+      "comfort-food",
+      "flexitarian",
+      "lunch",
+      "russian",
+      "soup",
+      "weeknight"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
