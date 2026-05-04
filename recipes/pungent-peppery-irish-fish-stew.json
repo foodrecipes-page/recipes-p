@@ -1,0 +1,99 @@
+{
+  "title": "Pungent Peppery Irish Fish Stew",
+  "description": "A spicy and festive Irish dish featuring fish and boiled in an agave leaf vessel, perfect for a spring evening.",
+  "cuisine": "Irish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "fresh and skinless"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "agave leaf",
+      "amount": "1 large",
+      "notes": "fresh and cleaned"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil.",
+    "Add the diced potatoes and sliced carrots to the pot and cook for 10 minutes.",
+    "Add the chopped onions and minced garlic to the pot and cook for an additional 5 minutes.",
+    "Add the cod fillets to the pot and cook for 5 minutes or until cooked through.",
+    "Stir in the black pepper and cayenne pepper.",
+    "Carefully place the agave leaf in a large serving bowl.",
+    "Fold the edges of the agave leaf over the stew to create a seal.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired.",
+    "Discard the agave leaf after serving.",
+    "Refrigerate any leftovers promptly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-stew",
+    "irish-cuisine",
+    "pescatarian-friendly",
+    "spicy-food",
+    "spring-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "pungent-peppery-irish-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-peppery-irish-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:11:36Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "fold",
+    "primaryIngredient": "boiling water",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "fish",
+    "descriptor": "pungent peppery",
+    "dishForm": "Stew"
+  }
+}

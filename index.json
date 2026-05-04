@@ -4890,6 +4890,20 @@
     "shard": "p"
   },
   {
+    "slug": "pungent-peppery-irish-fish-stew",
+    "title": "Pungent Peppery Irish Fish Stew",
+    "tags": [
+      "fish-stew",
+      "irish-cuisine",
+      "pescatarian-friendly",
+      "spicy-food",
+      "spring-recipes"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "pungent-polish-fish-stew",
     "title": "pungent polish fish stew",
     "tags": [
