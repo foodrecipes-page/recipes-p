@@ -214,6 +214,21 @@
     "shard": "p"
   },
   {
+    "slug": "pan-seared-thai-cod-curry",
+    "title": "Pan-seared Thai Cod Curry",
+    "tags": [
+      "high-protein",
+      "low-sodium",
+      "one-pan",
+      "pescatarian",
+      "quick-fix",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 22,
+    "shard": "p"
+  },
+  {
     "slug": "pan-seared-venezuelan-fish-skewers",
     "title": "Pan Seared Venezuelan Fish Skewers",
     "tags": [

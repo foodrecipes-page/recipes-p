@@ -1,0 +1,106 @@
+{
+  "title": "Pan-seared Thai Cod Curry",
+  "description": "Quick-fix Thai curry with pan-seared cod, featuring low-sodium-friendly ingredients.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-sodium",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup",
+      "notes": "use high-heat oil"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "green chilies",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of coconut oil in a large skillet over medium-high heat.",
+    "Season the cod fillets with salt and cook for 3-4 minutes per side, until opaque and cooked through.",
+    "Transfer the cooked cod to a plate and cover with foil to keep warm.",
+    "In the same skillet, add the remaining 2 tbsp of coconut oil and sauté the curry paste for 1 minute.",
+    "Pour in the coconut milk and stir to combine with the curry paste.",
+    "Add the fish sauce, brown sugar, and lemon juice to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, until slightly thickened.",
+    "Stir in the chopped green chilies and cook for an additional minute.",
+    "Serve the curry sauce over the cooked cod and garnish with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-sodium",
+    "one-pan",
+    "pescatarian",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 12,
+    "fat": 16
+  },
+  "slug": "pan-seared-thai-cod-curry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-thai-cod-curry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T15:15:10Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "slow-cook",
+    "primaryIngredient": "cod",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "cod",
+    "descriptor": "Pan-seared",
+    "dishForm": "Curry"
+  }
+}
