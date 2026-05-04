@@ -1,0 +1,112 @@
+{
+  "title": "Piquant Korean Fish Jjigae",
+  "description": "A spicy, cheese‑pull Korean stew featuring tender white fish fillets and tandoori‑spiced broth, FODMAP‑friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillets",
+      "amount": "400g",
+      "notes": "cut into bite‑size pieces"
+    },
+    {
+      "name": "low‑FODMAP vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic‑infused olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tandoori spice mix",
+      "amount": "1 tsp",
+      "notes": "adds smoky depth"
+    },
+    {
+      "name": "grated fresh ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "low‑sodium soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "carrot, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "zucchini, sliced",
+      "amount": "1 small"
+    },
+    {
+      "name": "cheddar cheese, shredded",
+      "amount": "½ block (120g)",
+      "notes": "shredded for melt"
+    }
+  ],
+  "instructions": [
+    "Heat garlic‑infused oil in a pot over medium heat until fragrant.",
+    "Add the tandoori spice mix, grated ginger, and black pepper, stirring for 30 seconds.",
+    "Pour in the vegetable broth and bring to a gentle simmer.",
+    "Stir in gochujang, soy sauce, and fish sauce until fully blended.",
+    "Add sliced carrot and zucchini, cooking for 3 minutes until they soften slightly.",
+    "Gently fold in the fish fillet pieces, ensuring they are submerged in the broth.",
+    "Cover and simmer for 6 minutes until the fish is opaque and cooked through.",
+    "Sprinkle the shredded cheddar cheese over the stew, letting it melt into a gooey layer.",
+    "Remove from heat, garnish with chopped green onion tops, and give a quick stir.",
+    "Serve hot, spooning the cheese‑rich broth with the fish into bowls."
+  ],
+  "prepTimeMin": 12,
+  "cookTimeMin": 10,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "fodmap-friendly",
+    "korean",
+    "one-pot",
+    "quick",
+    "spicy",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "piquant-korean-fish-jjigae",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-korean-fish-jjigae",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:50:41Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "tandoor",
+    "primaryIngredient": "white fish fillets",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Fish",
+    "descriptor": "Piquant",
+    "dishForm": "Jjigae"
+  }
+}
