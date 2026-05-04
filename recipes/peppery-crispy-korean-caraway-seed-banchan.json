@@ -1,0 +1,126 @@
+{
+  "title": "peppery crispy korean caraway seed banchan",
+  "description": "a crunchy, aromatic side dish featuring caraway seed and gochujang. great for meal prep or a quick weeknight snack.",
+  "cuisine": "korean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "caraway seed",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "mix gochujang, soy sauce, sesame oil, brown sugar, rice vinegar, korean chili flakes, salt, and black pepper in a small bowl.",
+    "add toasted sesame seeds and chopped scallions to the bowl and stir to combine.",
+    "in a separate bowl, whisk together cornstarch and water until smooth.",
+    "add the cornstarch mixture to the gochujang mixture and stir until a smooth paste forms.",
+    "heat a small skillet over medium-high heat and add 1-2 teaspoons of oil.",
+    "when the oil is hot, add a single layer of the caraway seed mixture to the skillet and press down to form a flat layer.",
+    "cook for 2-3 minutes, until the caraway seed mixture is crispy and golden brown.",
+    "flip the caraway seed mixture and cook for an additional 1-2 minutes, until crispy and golden brown.",
+    "repeat the process with the remaining caraway seed mixture, adjusting the heat as needed.",
+    "serve the crispy caraway seed banchan hot, garnished with additional toasted sesame seeds and chopped scallions if desired.",
+    "cool completely before storing in an airtight container in the refrigerator for up to 3 days.",
+    "reheat in the microwave or oven before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "caraway-seed",
+    "gluten-free",
+    "high-protein",
+    "korean-side-dish",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "peppery-crispy-korean-caraway-seed-banchan",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crispy-korean-caraway-seed-banchan",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:10Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "rest",
+    "primaryIngredient": "caraway seed",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "caraway seed",
+    "descriptor": "peppery crispy",
+    "dishForm": "Banchan"
+  }
+}
