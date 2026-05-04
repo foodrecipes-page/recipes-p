@@ -1,0 +1,107 @@
+{
+  "title": "Piquant Mexican Monterey Jack Huaraches",
+  "description": "A fermented, aerated brunch dish featuring shredded Monterey Jack cheese and fermented salsa, wrapped in dry‑brined corn tortillas. These piquant huaraches deliver heat and tang in every bite.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "shredded Monterey Jack cheese",
+      "amount": "2 cups",
+      "notes": "freshly shredded"
+    },
+    {
+      "name": "fermented tomato salsa",
+      "amount": "1 cup",
+      "notes": "store‑bought or homemade"
+    },
+    {
+      "name": "fermented jalapeño slices",
+      "amount": "1 cup",
+      "notes": "pickled for a punch"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "4",
+      "notes": "medium‑size"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": "for dry brine"
+    }
+  ],
+  "instructions": [
+    "Dry brine the corn tortillas by sprinkling sea salt on each side and letting them rest at room temperature for 30 minutes to enhance flavor and texture.",
+    "Warm a skillet over medium heat, add olive oil, and lightly toast the brine‑brined tortillas until they puff slightly, about 1–2 minutes per side.",
+    "In a small bowl, mix shredded Monterey Jack cheese with ground cumin and smoked paprika to season the cheese.",
+    "Warm the shredded cheese in the skillet for 1 minute so it melts slightly, then remove from heat.",
+    "Spread a thin layer of fermented tomato salsa onto each toasted tortilla.",
+    "Spoon the warm, spiced cheese over the salsa, covering the tortilla evenly.",
+    "Top with fermented jalapeño slices for a kick of heat and a pop of fermented flavor.",
+    "Drizzle lime juice over the assembled huaraches and sprinkle chopped cilantro for freshness.",
+    "Serve immediately, optionally adding a side of sliced avocado for creaminess and extra nutrients.",
+    "Enjoy the piquant, fermented Mexican Monterey Jack huaraches as a brunch‑style dish."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 5,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "fermented",
+    "mexican",
+    "no-garlic",
+    "no-onion",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 425,
+    "protein": 18,
+    "carbs": 32,
+    "fat": 24
+  },
+  "slug": "piquant-mexican-monterey-jack-huaraches",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-mexican-monterey-jack-huaraches",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:09:17Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "brine-dry",
+    "primaryIngredient": "shredded monterey jack cheese",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Monterey Jack",
+    "descriptor": "Piquant",
+    "dishForm": "Huaraches"
+  }
+}

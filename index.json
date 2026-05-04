@@ -3951,6 +3951,22 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-mexican-monterey-jack-huaraches",
+    "title": "Piquant Mexican Monterey Jack Huaraches",
+    "tags": [
+      "breakfast",
+      "fermented",
+      "mexican",
+      "no-garlic",
+      "no-onion",
+      "quick",
+      "vegetarian"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-molten-norwegian-trout-roast",
     "title": "Piquant Molten Norwegian Trout Roast",
     "tags": [
