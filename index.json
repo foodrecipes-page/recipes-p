@@ -4621,6 +4621,20 @@
     "shard": "p"
   },
   {
+    "slug": "plump-dutch-uni-pancakes",
+    "title": "Plump Dutch Uni Pancakes",
+    "tags": [
+      "dutch-pancakes",
+      "quick-fix",
+      "render-fat-cooking",
+      "uni-recipes",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "plump-saudi-sausage-flatbread",
     "title": "Plump Saudi Sausage Flatbread",
     "tags": [
