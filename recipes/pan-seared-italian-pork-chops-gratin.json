@@ -1,0 +1,108 @@
+{
+  "title": "Pan Seared Italian Pork Chops Gratin",
+  "description": "A hearty Italian dish featuring pan seared pork chops, confit tomato, and a glassy jelly sauce, served in a cozy ramekin.",
+  "cuisine": "Italian",
+  "diet": [
+    "high protein",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4 1-inch thick chops",
+      "notes": "preferably boneless"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 large tomatoes",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the pork chops with salt and pepper.",
+    "Heat the olive oil in a large skillet over medium high heat and sear the pork chops for 2-3 minutes per side.",
+    "Transfer the pork chops to a plate and set aside.",
+    "Reduce the heat to medium and add the chopped onion to the skillet, cooking until softened.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the white wine and chicken broth to the skillet, scraping up any browned bits from the bottom.",
+    "Bring the liquid to a simmer and cook until reduced by half.",
+    "Stir in the confit tomato and cook for an additional 2-3 minutes.",
+    "Transfer the pork chops to a ramekin and spoon the tomato sauce over the top.",
+    "Sprinkle the shaved grana padano cheese over the top of the pork chops and bake in the preheated oven for 15-20 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "italian",
+    "one-pan",
+    "pork-chops",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "pan-seared-italian-pork-chops-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-italian-pork-chops-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:30:50Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "glassy-jelly",
+    "mood": "cozy",
+    "technique": "confit-tomato",
+    "primaryIngredient": "pork chops",
+    "diet": "high-protein",
+    "region": "piedmontese",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pork chops",
+    "descriptor": "pan seared",
+    "dishForm": "Gratin"
+  }
+}

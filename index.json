@@ -97,6 +97,21 @@
     "shard": "p"
   },
   {
+    "slug": "pan-seared-italian-pork-chops-gratin",
+    "title": "Pan Seared Italian Pork Chops Gratin",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "italian",
+      "one-pan",
+      "pork-chops",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
     "slug": "pan-seared-japanese-pork-dumplings",
     "title": "Pan Seared Japanese Pork Dumplings",
     "tags": [
