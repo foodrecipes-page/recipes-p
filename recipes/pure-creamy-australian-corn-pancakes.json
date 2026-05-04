@@ -1,0 +1,101 @@
+{
+  "title": "Pure Creamy Australian Corn Pancakes",
+  "description": "Sweet and creamy corn pancakes with a hint of bhuna spice, perfect for a halal-friendly brunch",
+  "cuisine": "Australian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cornstarch",
+      "amount": "1 cup",
+      "notes": "fine texture"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "corn kernels",
+      "amount": "1 cup",
+      "notes": "fresh or canned"
+    }
+  ],
+  "instructions": [
+    "In a large bowl whisk together cornstarch, flour, bhuna spice mix, salt, and sugar",
+    "In a separate bowl whisk together eggs, milk, and melted butter",
+    "Add the wet ingredients to the dry ingredients and stir until just combined",
+    "Fold in the heavy cream and corn kernels",
+    "Heat a non stick pan over medium heat and brush with a small amount of oil",
+    "Using a 1/4 cup measuring cup scoop the batter into the pan",
+    "Cook the pancakes for 2-3 minutes or until bubbles appear on the surface",
+    "Flip the pancakes and cook for an additional 1-2 minutes or until golden brown",
+    "Serve the pancakes hot with your favorite toppings such as syrup, honey, or fresh fruit"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "australian-cuisine",
+    "breakfast-ideas",
+    "brunch-ideas",
+    "corn-recipes",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "pure-creamy-australian-corn-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pure-creamy-australian-corn-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:14:56Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "bhuna",
+    "primaryIngredient": "cornstarch",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "corn",
+    "descriptor": "pure creamy",
+    "dishForm": "Pancakes"
+  }
+}

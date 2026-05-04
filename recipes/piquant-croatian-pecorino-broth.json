@@ -1,0 +1,112 @@
+{
+  "title": "Piquant Croatian Pecorino Broth",
+  "description": "A savory, fermented broth with a glassy jelly consistency, highlighted by sharp pecorino and aromatic herbs, perfect for a quick weeknight meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pecorino cheese",
+      "amount": "30 g",
+      "notes": "grated"
+    },
+    {
+      "name": "Fermented vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 small",
+      "notes": "julienned"
+    },
+    {
+      "name": "Celery stalk",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "5"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a medium pot over medium heat.",
+    "Add diced onion and minced garlic, saute until translucent.",
+    "Stir in julienned carrot and sliced celery, cooking for two minutes.",
+    "Pour in fermented vegetable broth and water, bringing to a gentle boil.",
+    "Add red pepper flakes, black pepper, and sea salt, then reduce heat and simmer for ten minutes.",
+    "Remove the pot from heat and let the broth cool to room temperature, allowing it to thicken into a glassy jelly.",
+    "Grate pecorino cheese over the cooled broth, stirring until it melts into the liquid.",
+    "Garnish with fresh basil leaves just before serving.",
+    "Serve hot or at room temperature, enjoying the fermented depth and pecorino sparkle."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "easy",
+    "fermented",
+    "glass-jelly",
+    "weeknight",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 5,
+    "fat": 12
+  },
+  "slug": "piquant-croatian-pecorino-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-croatian-pecorino-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:14:13Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "steam",
+    "primaryIngredient": "pecorino",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Pecorino",
+    "descriptor": "Piquant",
+    "dishForm": "Broth"
+  }
+}

@@ -3499,6 +3499,21 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-croatian-pecorino-broth",
+    "title": "Piquant Croatian Pecorino Broth",
+    "tags": [
+      "croatian",
+      "easy",
+      "fermented",
+      "glass-jelly",
+      "weeknight",
+      "whole30-friendly"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-egyptian-bulgur-flatbread",
     "title": "Piquant Egyptian Bulgur Flatbread",
     "tags": [
@@ -4129,6 +4144,20 @@
     ],
     "cuisine": "polish",
     "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
+    "slug": "pure-creamy-australian-corn-pancakes",
+    "title": "Pure Creamy Australian Corn Pancakes",
+    "tags": [
+      "australian-cuisine",
+      "breakfast-ideas",
+      "brunch-ideas",
+      "corn-recipes",
+      "halal-friendly"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
     "shard": "p"
   }
 ]
