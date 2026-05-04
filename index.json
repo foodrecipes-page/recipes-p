@@ -3829,6 +3829,21 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-italian-haggis-vitello-tonnato",
+    "title": "Piquant Italian Haggis Vitello Tonnato",
+    "tags": [
+      "bouncy-qq",
+      "fusion",
+      "garlic-licious",
+      "lazy-sunday",
+      "low-glycemic",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-italian-spaghetti-cacio-e-pepe",
     "title": "Piquant Italian Spaghetti Cacio e Pepe",
     "tags": [

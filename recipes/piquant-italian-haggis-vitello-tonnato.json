@@ -1,0 +1,120 @@
+{
+  "title": "Piquant Italian Haggis Vitello Tonnato",
+  "description": "A garlicky, bouncy-qq fusion of roasted veal, pre-cooked haggis, and a tangy tuna‑kimchi sauce, perfect for a lazy Sunday meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal tenderloin",
+      "amount": "200g",
+      "notes": "trimmed"
+    },
+    {
+      "name": "haggis",
+      "amount": "50g",
+      "notes": "pre-cooked"
+    },
+    {
+      "name": "fresh tuna",
+      "amount": "50g",
+      "notes": "canned in oil"
+    },
+    {
+      "name": "kimchi",
+      "amount": "20g",
+      "notes": "fermented"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "12ml",
+      "notes": "for roasting"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "15ml",
+      "notes": "from one lemon"
+    },
+    {
+      "name": "capers",
+      "amount": "5g",
+      "notes": "rinsed"
+    },
+    {
+      "name": "anchovy fillets",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "egg yolk",
+      "amount": "1",
+      "notes": "for sauce thickening"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "5g",
+      "notes": "optional"
+    },
+    {
+      "name": "sea salt",
+      "amount": "2g",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C and drizzle the veal with olive oil, then season with salt.",
+    "Roast the veal for 15 minutes, then lower the temperature to 180C and cook another 12 minutes until medium-rare.",
+    "While the veal cooks, heat a small pan over medium heat and sauté minced garlic in a teaspoon of olive oil until fragrant.",
+    "Add the chopped kimchi and cook for 3 minutes to release its flavors.",
+    "Transfer the kimchi mixture to a bowl and blend with fresh tuna, capers, anchovy fillets, lemon juice, mustard, and egg yolk.",
+    "Blend until smooth, adding a splash of water if the sauce is too thick.",
+    "Once the veal reaches the desired doneness, remove it from the oven and let it rest for 5 minutes.",
+    "Slice the veal into thin medallions and arrange them on a plate.",
+    "Spoon the tuna‑kimchi sauce over the veal slices, ensuring each piece is coated.",
+    "Garnish with a drizzle of olive oil and a sprinkle of sea salt, then serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "bouncy-qq",
+    "fusion",
+    "garlic-licious",
+    "lazy-sunday",
+    "low-glycemic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 815,
+    "protein": 63,
+    "carbs": 12,
+    "fat": 35
+  },
+  "slug": "piquant-italian-haggis-vitello-tonnato",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-italian-haggis-vitello-tonnato",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:38:44Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "bouncy-qq",
+    "mood": "lazy-sunday",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "haggis",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Haggis",
+    "descriptor": "Piquant",
+    "dishForm": "Vitello Tonnato"
+  }
+}
