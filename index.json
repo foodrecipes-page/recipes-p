@@ -3589,6 +3589,20 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-brazilian-cheese-croquette",
+    "title": "Piquant Brazilian Cheese Croquette",
+    "tags": [
+      "brazilian",
+      "cheese",
+      "deep-fry",
+      "ovo-vegetarian",
+      "snack"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 27,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-charred-mediterranean-zucchini-kebabs",
     "title": "Piquant Charred Mediterranean Zucchini Kebabs",
     "tags": [

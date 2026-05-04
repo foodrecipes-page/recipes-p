@@ -1,0 +1,94 @@
+{
+  "title": "Piquant Brazilian Cheese Croquette",
+  "description": "Resinous, cheese-pull croquettes with scallions and deep-fried to crispy perfection, a nostalgic Brazilian snack.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "50g"
+    },
+    {
+      "name": "whole milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "butter",
+      "amount": "30g",
+      "notes": "softened"
+    },
+    {
+      "name": "Gruyere cheese",
+      "amount": "120g",
+      "notes": "grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "3",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Melt butter in a saucepan over medium heat until foamy.",
+    "Whisk in flour and cook for 2 minutes until a smooth roux forms.",
+    "Gradually whisk in milk, stirring constantly until the mixture thickens to a pastry consistency.",
+    "Remove the pan from heat and stir in grated Gruyere, chopped scallions, salt, and pepper until the cheese melts and the dough is glossy.",
+    "Transfer the dough to a bowl, cover with plastic wrap, and chill in the refrigerator for 30 minutes.",
+    "Heat oil in a deep pan to 180°C.",
+    "Shape chilled dough into 1 tablespoon-sized oblong rolls.",
+    "Fry rolls in batches for 3 to 4 minutes, turning once, until golden brown.",
+    "Remove croquettes with a slotted spoon and drain on paper towels.",
+    "Serve hot, optionally with spicy tomato sauce and a sprinkle of fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "cheese",
+    "deep-fry",
+    "ovo-vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 235,
+    "protein": 4,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "piquant-brazilian-cheese-croquette",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-brazilian-cheese-croquette",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:13:55Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "scallions",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Piquant",
+    "dishForm": "Croquette"
+  }
+}
