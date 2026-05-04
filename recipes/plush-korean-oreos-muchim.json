@@ -1,0 +1,99 @@
+{
+  "title": "Plush Korean Oreos Muchim",
+  "description": "A jammy, shaggy Korean dessert that mixes crushed Oreos with cream cheese into a crispy muchim, served straight from a paella pan.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "oreo biscuits",
+      "amount": "200g",
+      "notes": "crushed"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "100g",
+      "notes": "softened"
+    },
+    {
+      "name": "honey",
+      "amount": "30g"
+    },
+    {
+      "name": "egg yolk",
+      "amount": "1"
+    },
+    {
+      "name": "water",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "gochugaru",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the paella pan over medium heat and heat sesame oil until shimmering.",
+    "In a bowl, mix softened cream cheese, honey, egg yolk, water, vanilla until smooth.",
+    "Stir in crushed oreo biscuits, gochugaru, and sesame seeds until a thick, even batter forms.",
+    "Spoon the batter into the hot pan, spreading it into a flat, even layer.",
+    "Cook the batter for 4-5 minutes until the edges begin to brown and the center sets.",
+    "Flip the batter carefully using a spatula and cook the other side for an additional 4 minutes until golden.",
+    "Once cooked, transfer the muchim onto a cutting board and let it cool for 2 minutes.",
+    "Slice the dish into bite-sized squares and garnish with chopped scallions.",
+    "Serve warm; it pairs well with a glass of cold milk or tea."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "korean-dessert",
+    "nostalgic",
+    "one-pan",
+    "shaggy",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 12,
+    "carbs": 98,
+    "fat": 40
+  },
+  "slug": "plush-korean-oreos-muchim",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/plush-korean-oreos-muchim",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:52:40Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "oreo cream biscuits",
+    "diet": "raw",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Oreos",
+    "descriptor": "Plush",
+    "dishForm": "Muchim"
+  }
+}
