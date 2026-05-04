@@ -1,0 +1,102 @@
+{
+  "title": "Purely Crisp Japanese Tofu Noodles",
+  "description": "A tangy and crisp Japanese dish from Kyushu, featuring herbes-de-provence and kombu-cold-extract, perfect for a post-workout meal. This ovo-vegetarian-friendly recipe is a great way to refuel and recharge.",
+  "cuisine": "Japanese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese noodles",
+      "amount": "8 oz",
+      "notes": "preferably soba or udon noodles"
+    },
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "herbes-de-provence",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the Japanese noodles according to the package instructions.",
+    "In a large skillet, heat the sesame oil over medium-high heat and add the cubed tofu, cooking until golden brown on all sides.",
+    "In a small bowl, whisk together the soy sauce, rice vinegar, and kombu-cold-extract.",
+    "Add the herbes-de-provence to the skillet with the tofu and stir to combine.",
+    "Pour the soy sauce mixture over the tofu and herbes-de-provence, stirring to coat.",
+    "Add the cooked noodles to the skillet and toss to combine with the tofu and sauce.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the noodles to a serving dish and garnish with thinly sliced green onions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy-recipe",
+    "japanese-cuisine",
+    "noodle-dish",
+    "ovo-vegetarian",
+    "post-workout",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "purely-crisp-japanese-tofu-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-crisp-japanese-tofu-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:19:28Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "herbes-de-provence",
+    "diet": "ovo-vegetarian",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "Purely Crisp",
+    "dishForm": "Noodles"
+  }
+}

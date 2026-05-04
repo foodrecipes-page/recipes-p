@@ -4306,6 +4306,22 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-pungent-thai-brown-lentils-green-curry",
+    "title": "Piquant Pungent Thai Brown Lentils Green Curry",
+    "tags": [
+      "curry",
+      "easydinner",
+      "glutenfree",
+      "lentils",
+      "onepan",
+      "thaifood",
+      "vegetarian"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-resinous-indian-shrimp-chaat",
     "title": "Piquant Resinous Indian Shrimp Chaat",
     "tags": [
@@ -5556,6 +5572,21 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "purely-crisp-japanese-tofu-noodles",
+    "title": "Purely Crisp Japanese Tofu Noodles",
+    "tags": [
+      "healthy-recipe",
+      "japanese-cuisine",
+      "noodle-dish",
+      "ovo-vegetarian",
+      "post-workout",
+      "quick-meal"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
