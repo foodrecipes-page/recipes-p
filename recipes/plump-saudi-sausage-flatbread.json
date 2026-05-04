@@ -1,0 +1,112 @@
+{
+  "title": "Plump Saudi Sausage Flatbread",
+  "description": "A pillowy flatbread topped with savory German sausages, spiced rest-meat, and aromatic herbs, perfect for a romantic Saudi-inspired feast.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "3 cups",
+      "notes": "for flatbread dough"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 packet (7g)",
+      "notes": "for dough"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "for dough"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for dough & cooking"
+    },
+    {
+      "name": "German bratwurst sausages",
+      "amount": "4",
+      "notes": "sliced"
+    },
+    {
+      "name": "Rest-meat mixture (ground beef or lamb with spices)",
+      "amount": "200g",
+      "notes": "seasoned with cumin, coriander, paprika"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "50g",
+      "notes": "optional, crumbled"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine flour, yeast, salt, and warm water, stirring until a rough dough forms.",
+    "Knead dough on floured surface for 8 minutes until smooth; add olive oil in last 2 minutes.",
+    "Place dough in oiled bowl, cover, and let rise in a warm spot for 60 minutes until doubled.",
+    "Preheat oven to 220 degrees Celsius.",
+    "While dough rises, sauté diced onion in 1 tbsp olive oil until translucent, then add seasoned ground meat and cook until browned.",
+    "Slice bratwurst sausages into 1 cm thick rounds.",
+    "Punch down risen dough, divide into 4 equal portions, and roll each into a 25 cm diameter circle.",
+    "Spread tomato sauce over each flatbread, then top with cooked rest-meat, sliced sausages, and sprinkle chopped parsley.",
+    "Bake flatbreads for 12 minutes until edges are golden and cheese (if using) is melted.",
+    "Remove from oven, let cool 2 minutes, then slice and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 95,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "flexitarian",
+    "middle-eastern",
+    "one-pan",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 14,
+    "carbs": 78,
+    "fat": 22
+  },
+  "slug": "plump-saudi-sausage-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/plump-saudi-sausage-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:19:41Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "rest-meat",
+    "primaryIngredient": "german sausages",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "Sausage",
+    "descriptor": "Plump",
+    "dishForm": "Flatbread"
+  }
+}
