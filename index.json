@@ -5309,6 +5309,21 @@
     "shard": "p"
   },
   {
+    "slug": "pure-gooey-middle-eastern-scamorza-labneh",
+    "title": "Gooey Middle Eastern Scamorza Labneh",
+    "tags": [
+      "appetizer",
+      "cheese",
+      "gluten-free",
+      "middle-eastern",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 32,
+    "shard": "p"
+  },
+  {
     "slug": "purely-buttery-brazilian-seafood-paella",
     "title": "Buttery Brazilian Seafood Paella",
     "tags": [

@@ -1,0 +1,98 @@
+{
+  "title": "Gooey Middle Eastern Scamorza Labneh",
+  "description": "A nutty and gooey Middle Eastern dish featuring scamorza cheese, served in a scallop shell and made with ayurvedic-sattvic-friendly ingredients, this labneh is a show-off dish for any occasion.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "scamorza cheese",
+      "amount": "1 cup",
+      "notes": "smoked or regular"
+    },
+    {
+      "name": "labneh cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pistachio meal",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "scallop shells",
+      "amount": "4-6",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a blender or food processor, combine labneh cheese, pistachio meal, olive oil, garlic, sumac, salt, and black pepper, and blend until smooth.",
+    "Cut the scamorza cheese into small pieces and add to the blender or food processor, blending until well combined and gooey.",
+    "Spoon the mixture into the scallop shells, filling them about 3/4 of the way full.",
+    "Place the filled scallop shells on a baking sheet lined with parchment paper.",
+    "Bake for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "Remove the scallop shells from the oven and let cool for a few minutes.",
+    "Serve the gooey Middle Eastern scamorza labneh hot, garnished with additional sumac and pistachio meal if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "cheese",
+    "gluten-free",
+    "middle-eastern",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "pure-gooey-middle-eastern-scamorza-labneh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pure-gooey-middle-eastern-scamorza-labneh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:01:47Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "whisk",
+    "primaryIngredient": "scamorza",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "scamorza",
+    "descriptor": "pure gooey",
+    "dishForm": "Labneh"
+  }
+}
