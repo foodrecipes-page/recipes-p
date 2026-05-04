@@ -1,0 +1,94 @@
+{
+  "title": "Pillowy Portuguese Tofu Dumplings",
+  "description": "Indulgent Portuguese dish featuring marinated tofu and dumplings, made with ayurvedic-tamasic-friendly ingredients for a unique cultural twist.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "portuguese spice blend",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, salt, and black pepper.",
+    "Add the cubed tofu to the bowl and toss to coat with the flour mixture.",
+    "In a large skillet, heat the olive oil over medium heat and saute the tofu until golden brown.",
+    "In a separate pot, bring the vegetable broth to a boil and then reduce the heat to low.",
+    "Add the sauteed tofu to the pot and simmer for 10 minutes.",
+    "Using a spoon, drop small balls of the tofu mixture into the pot and cook for an additional 5 minutes.",
+    "Stir in the portuguese spice blend and cook for 1 minute.",
+    "Serve the dumplings hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cultural-twist",
+    "dumplings",
+    "indulgent-meals",
+    "portuguese-cuisine",
+    "tofu-recipes",
+    "vegetarian-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "pillowy-portuguese-tofu-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-portuguese-tofu-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:13:40Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "dum",
+    "primaryIngredient": "marinated tofu",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "tofu",
+    "descriptor": "pillowy indulgent",
+    "dishForm": "Dumplings"
+  }
+}
