@@ -1,0 +1,104 @@
+{
+  "title": "Piquant Venezuelan tofu curry",
+  "description": "A fermented, creamy, comforting Venezuelan curry featuring mirin-hon and fermented kimchi.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "jain-friendly",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200 g",
+      "notes": "cubed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml",
+      "notes": "full fat"
+    },
+    {
+      "name": "fermented kimchi",
+      "amount": "50 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "mirin-hon",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut butter",
+      "amount": "1 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Press tofu for 15 minutes to remove excess moisture, then cube it.",
+    "Heat vegetable oil in a large skillet over medium heat and add cumin and coriander, sauté for 30 seconds until fragrant.",
+    "Add cubed tofu to the skillet, stir to coat with spices, cook until lightly browned on all sides, about 5 minutes.",
+    "Pour in coconut milk and stir in mirin-hon, coconut butter, and tamarind paste, bring to a gentle simmer.",
+    "Add chopped fermented kimchi, reduce heat to low, cover, and simmer for 10 minutes so flavors meld.",
+    "Season the curry with salt, stirring well, and adjust consistency with a splash of water if too thick.",
+    "Remove from heat, let the dish rest for 2 minutes so it thickens slightly.",
+    "Garnish with freshly chopped cilantro before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "fermented",
+    "one-pot",
+    "quick",
+    "spicy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 760,
+    "protein": 23,
+    "carbs": 18,
+    "fat": 69
+  },
+  "slug": "piquant-venezuelan-tofu-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-venezuelan-tofu-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:12:35Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "mirin-hon",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "tofu",
+    "descriptor": "Piquant",
+    "dishForm": "Curry"
+  }
+}
