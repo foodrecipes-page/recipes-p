@@ -1,0 +1,93 @@
+{
+  "title": "Pan Seared Korean Perilla Seeds Flatbread",
+  "description": "A floral and savory flatbread featuring perilla seeds, perfect for a midnight craving, with a Mediterranean twist and low fat content.",
+  "cuisine": "Korean Mediterranean",
+  "diet": [
+    "low fat",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "perilla seeds",
+      "amount": "1/4 cup",
+      "notes": "also known as deulkkae"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine yeast, sugar, and warm water in a bowl and let it sit for 5 minutes.",
+    "Add flour, miso paste, perilla seeds, salt, and olive oil to the bowl and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rest for 1 hour in a warm place until it has doubled in size.",
+    "Preheat a comal or a non stick pan over medium heat.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place it on the preheated comal.",
+    "Cook the flatbread for 2 minutes on each side until it is golden brown and crispy.",
+    "Repeat the process with the remaining dough pieces."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "korean-fusion",
+    "low-fat",
+    "mediterranean-twist",
+    "midnight-craving",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "pan-seared-korean-perilla-seeds-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-korean-perilla-seeds-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:47:39Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "miso-marinate",
+    "primaryIngredient": "perilla-seed-deulkkae",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "perilla seeds",
+    "descriptor": "Pan seared",
+    "dishForm": "Flatbread"
+  }
+}
