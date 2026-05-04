@@ -3469,6 +3469,21 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-algerian-barley-tagine",
+    "title": "Piquant Algerian Barley Tagine",
+    "tags": [
+      "cedar-plank",
+      "flambe",
+      "gluten-free",
+      "jain-friendly",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 60,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-egyptian-bulgur-flatbread",
     "title": "Piquant Egyptian Bulgur Flatbread",
     "tags": [
