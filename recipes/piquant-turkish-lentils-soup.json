@@ -1,0 +1,126 @@
+{
+  "title": "Piquant Turkish Lentil Soup",
+  "description": "A bright, herbaceous lentil soup with a creamy hummus swirl, baked al fresco for a touch of smokiness and served in a bento box for a convenient, plant-based lunch.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "sattvic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "hummus",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add onion, carrot, celery, and garlic; sauté until softened, about 5 minutes.",
+    "Stir in diced tomatoes, red lentils, and smoked paprika; cook for 2 minutes.",
+    "Pour in vegetable broth and water; bring to a boil, then reduce heat and simmer for 20 minutes until lentils are tender.",
+    "Use an immersion blender to partially blend the soup, creating a creamy texture, or transfer to a blender for a smoother consistency.",
+    "Stir in hummus until fully incorporated and heated through.",
+    "Season with salt, pepper, and lemon juice to taste.",
+    "Transfer the soup to a preheated, wood-fired oven tray and bake at 180°C for 10 minutes to develop a subtle smokiness; drizzle with a drizzle of olive oil before serving.",
+    "Garnish with chopped parsley and serve in a bento box."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box-friendly",
+    "hummus",
+    "lentils",
+    "sattvic-friendly",
+    "turkish",
+    "vegetarian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 7,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "piquant-turkish-lentils-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-turkish-lentils-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:28:53Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "hummus",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lentils",
+    "descriptor": "Piquant",
+    "dishForm": "Soup"
+  }
+}

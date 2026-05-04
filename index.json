@@ -4263,6 +4263,22 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-turkish-lentils-soup",
+    "title": "Piquant Turkish Lentil Soup",
+    "tags": [
+      "bento-box-friendly",
+      "hummus",
+      "lentils",
+      "sattvic-friendly",
+      "turkish",
+      "vegetarian",
+      "wood-fired"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-ukrainian-narutomaki-pasta",
     "title": "Piquant Ukrainian Narutomaki Pasta",
     "tags": [
