@@ -3576,6 +3576,20 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-peruvian-pollo-a-la-brasa",
+    "title": "Piquant Peruvian Pollo a la Brasa",
+    "tags": [
+      "easy",
+      "low-glycemic",
+      "peruvian",
+      "pollo-a-la-brasa",
+      "quick"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-spicy-norteno-chicken-torta-de-jugo",
     "title": "piquant spicy norteño chicken torta de jugo",
     "tags": [

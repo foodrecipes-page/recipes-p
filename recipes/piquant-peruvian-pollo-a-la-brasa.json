@@ -1,0 +1,102 @@
+{
+  "title": "Piquant Peruvian Pollo a la Brasa",
+  "description": "A resinous, molten Peruvian chicken dish with a sweet icing sugar glaze and savory dashi‑infused sauce, perfect for a low‑glycemic dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bone-in chicken thighs",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dashi powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "icing sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 minced",
+      "notes": "freshly minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine olive oil, dashi powder, icing sugar, soy sauce, lime juice, minced garlic, ground cumin, paprika, salt, and pepper in a bowl to make the marinating sauce.",
+    "Pat the chicken thighs dry and place them in a shallow dish, pouring the sauce over the meat and turning to coat evenly.",
+    "Cover the dish with plastic wrap and refrigerate for at least 30 minutes, or up to 4 hours, to allow the flavors to meld.",
+    "Preheat a grill or grill pan over medium-high heat until it reaches 375°F (190°C) for an even char.",
+    "Remove the chicken from the refrigerator and let it sit at room temperature for 10 minutes before grilling.",
+    "Grill the thighs for about 6 to 7 minutes per side, basting with leftover sauce, until the internal temperature reaches 165°F (74°C) and the surface is charred.",
+    "Transfer the cooked chicken to a platter and let it rest for 5 minutes to retain juices.",
+    "Serve the pollo a la brasa hot, optionally garnished with a sprinkle of fresh cilantro or a squeeze of lime."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "low-glycemic",
+    "peruvian",
+    "pollo-a-la-brasa",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 16,
+    "fat": 7
+  },
+  "slug": "piquant-peruvian-pollo-a-la-brasa",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-peruvian-pollo-a-la-brasa",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:18:43Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "dashi-extract",
+    "primaryIngredient": "icing sugar",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Pollo",
+    "descriptor": "Piquant",
+    "dishForm": "Pollo A La Brasa"
+  }
+}
