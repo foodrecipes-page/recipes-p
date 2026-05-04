@@ -4997,6 +4997,20 @@
     "shard": "p"
   },
   {
+    "slug": "potent-umami-russian-beef-stew",
+    "title": "Potent Umami Russian Beef Stew",
+    "tags": [
+      "high-protein",
+      "one-pot",
+      "russian-cuisine",
+      "sous-vide",
+      "umami-rich"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "powdered-sweet-lamb-moussaka",
     "title": "Powdered Sweet Lamb Moussaka",
     "tags": [

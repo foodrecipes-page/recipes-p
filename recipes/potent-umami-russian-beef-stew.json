@@ -1,0 +1,104 @@
+{
+  "title": "Potent Umami Russian Beef Stew",
+  "description": "A rich and savory one-pot Russian dish featuring tender beef and a depth of umami flavor, achieved through the use of mushrooms, soy sauce, and beef broth, all slow-cooked to perfection using sous-vide techniques.",
+  "cuisine": "Russian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "2 pounds",
+      "notes": "bone-in, cut into 2-inch pieces"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button, sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide water bath to 130 degrees Fahrenheit.",
+    "Season the beef short ribs with salt, black pepper, and dried thyme.",
+    "Sear the beef short ribs in a hot skillet until browned on all sides.",
+    "Add the sliced mushrooms, chopped onion, and minced garlic to the skillet and cook until the vegetables are tender.",
+    "Add the soy sauce, beef broth, and tomato paste to the skillet, stirring to combine.",
+    "Transfer the mixture to a large sous-vide bag or a heavy-duty zip-top plastic bag.",
+    "Seal the bag and place it in the preheated water bath.",
+    "Cook the stew for 48 hours, or until the beef is tender and falling off the bone.",
+    "Remove the bag from the water bath and let it cool to room temperature.",
+    "Strain the sauce through a fine-mesh sieve into a clean saucepan, discarding the solids.",
+    "Bring the sauce to a simmer over medium heat and cook until it has thickened slightly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "one-pot",
+    "russian-cuisine",
+    "sous-vide",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "potent-umami-russian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/potent-umami-russian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:44:53Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "sous-vide",
+    "primaryIngredient": "sauce",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Potent Umami",
+    "dishForm": "Stew"
+  }
+}
