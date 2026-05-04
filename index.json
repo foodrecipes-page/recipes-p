@@ -5121,6 +5121,20 @@
     "shard": "p"
   },
   {
+    "slug": "polished-polish-salmon-pudding",
+    "title": "Polished Polish Salmon Pudding",
+    "tags": [
+      "baked",
+      "dessert",
+      "high-protein",
+      "pescatarian",
+      "quick"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "poppy-seed-bliss",
     "title": "Poppy Seed Bliss",
     "tags": [

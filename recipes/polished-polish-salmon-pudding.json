@@ -1,0 +1,99 @@
+{
+  "title": "Polished Polish Salmon Pudding",
+  "description": "A sweet, tender salmon pudding that showcases Polish flavors with a biscuit base and infused oil. It is a pescatarian-friendly dessert that balances savory and sweet.",
+  "cuisine": "Polish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Digestive biscuits",
+      "amount": "200g"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "20g"
+    },
+    {
+      "name": "Olive oil (infused with dill)",
+      "amount": "30ml"
+    },
+    {
+      "name": "Fresh salmon fillet",
+      "amount": "200g"
+    },
+    {
+      "name": "Plain Greek yogurt",
+      "amount": "100g"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh dill, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180 degrees Celsius.",
+    "Crush the biscuits into fine crumbs and mix with melted butter.",
+    "Press the crumb mixture into the bottom of 12 silicone muffin cups and bake for 10 minutes until set.",
+    "Heat 1 tbsp oil in a skillet over medium heat.",
+    "Add the salmon fillet and cook gently, flipping once, for about 8 minutes until opaque.",
+    "Transfer the cooked salmon to a blender, then add yogurt, honey, lemon zest, dill, salt, pepper, and the infused olive oil.",
+    "Blend until smooth and airy.",
+    "Spoon the salmon mixture into the cooled biscuit cups, filling each halfway.",
+    "Chill the pudding in the refrigerator for 30 minutes to set.",
+    "Serve chilled, garnished with a sprig of dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "dessert",
+    "high-protein",
+    "pescatarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 6,
+    "carbs": 9,
+    "fat": 9
+  },
+  "slug": "polished-polish-salmon-pudding",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/polished-polish-salmon-pudding",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:11:59Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "infuse-oil",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Salmon",
+    "descriptor": "Polished",
+    "dishForm": "Pudding"
+  }
+}
