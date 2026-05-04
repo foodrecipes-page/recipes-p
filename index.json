@@ -82,6 +82,20 @@
     "shard": "p"
   },
   {
+    "slug": "pan-seared-dutch-mussels-paella",
+    "title": "Pan Seared Dutch Mussels Paella",
+    "tags": [
+      "comfort-food",
+      "dutch-cuisine",
+      "family-friendly",
+      "one-pan",
+      "seafood"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "pan-seared-greek-sea-bass-pastitsio",
     "title": "Pan Seared Greek Sea Bass Pastitsio",
     "tags": [

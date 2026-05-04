@@ -1,0 +1,102 @@
+{
+  "title": "Pan Seared Dutch Mussels Paella",
+  "description": "A savory and creamy Dutch dish featuring mussels, perfect for a family dinner",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mussels",
+      "amount": "2 pounds",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 ounce",
+      "notes": "grated"
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large hot stone plate over medium high heat",
+    "Add the chopped onion and cook until translucent, about 5 minutes",
+    "Add the minced garlic and cook for 1 minute, until fragrant",
+    "Add the mussels, smoked paprika, salt, and pepper, and cook until the mussels start to open",
+    "Add the paella rice and cook for 1 minute, stirring constantly",
+    "Add the vegetable broth and bring to a boil",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the rice is tender and the liquid has been absorbed",
+    "Stir in the grated tempering chocolate until melted and well combined",
+    "Serve hot, garnished with chopped fresh parsley if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "family-friendly",
+    "one-pan",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "pan-seared-dutch-mussels-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-dutch-mussels-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:38:29Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "mussels",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "mussels",
+    "descriptor": "Pan seared",
+    "dishForm": "Paella"
+  }
+}
