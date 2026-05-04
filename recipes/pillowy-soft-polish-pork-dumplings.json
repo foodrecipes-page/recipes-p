@@ -1,0 +1,98 @@
+{
+  "title": "Pillowy Soft Polish Pork Dumplings",
+  "description": "Savory Polish dish featuring vanilla bean paste and sous-vide cooking, perfect for a lazy Sunday, this recipe is low in fat and rich in flavor. The dumplings are pillowy soft and full of tender pork.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "lean cut"
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, vanilla bean paste, chopped onion, and minced garlic.",
+    "In a separate bowl, whisk together the flour, egg, salt, and black pepper.",
+    "Add the dry ingredients to the pork mixture and mix until just combined.",
+    "Cover the mixture and refrigerate for 30 minutes to allow the flavors to meld.",
+    "Divide the mixture into 8 equal pieces and shape each into a ball.",
+    "Place the dumplings in a single layer in a sous-vide bag and add the chicken broth.",
+    "Seal the bag and cook in a water bath at 180 degrees Fahrenheit for 2 hours.",
+    "Remove the dumplings from the bag and serve hot.",
+    "Garnish with chopped fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "delicious",
+    "homemade",
+    "low-fat",
+    "polish-cuisine",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "pillowy-soft-polish-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-soft-polish-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:34:46Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "sous-vide",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "Pillowy Soft",
+    "dishForm": "Dumplings"
+  }
+}
