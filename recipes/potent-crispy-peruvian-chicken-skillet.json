@@ -1,0 +1,106 @@
+{
+  "title": "Potent Crispy Peruvian Chicken Skillet",
+  "description": "A flavorful and crispy Peruvian chicken dish made in one pot, featuring cilantro and a touch of sweetness, suitable for all diets including Buddhist temple friendly, this recipe is free from any animal derived ingredients except for the chicken.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "potatoes",
+      "amount": "1 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat.",
+    "Add the chicken to the skillet and cook until browned on all sides and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional 1 minute.",
+    "Add the chopped cilantro, lime juice, and honey to the skillet and stir to combine.",
+    "Add the chopped potatoes to the skillet and cook until they start to brown, about 5 minutes.",
+    "Return the chicken to the skillet and stir to combine with the potatoes and sauce.",
+    "Season the mixture with salt and pepper to taste.",
+    "Continue to cook the mixture for an additional 2-3 minutes, until the potatoes are tender and the chicken is coated in the sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "dairy-free",
+    "gluten-free",
+    "one-pot",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "potent-crispy-peruvian-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/potent-crispy-peruvian-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:06:32Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "candy",
+    "primaryIngredient": "cilantro",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Potent Crispy",
+    "dishForm": "Skillet"
+  }
+}
