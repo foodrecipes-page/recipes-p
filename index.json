@@ -2976,6 +2976,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-norwegian-dutch-stroop-pancakes",
+    "title": "Peppery Norwegian Dutch Stroop Pancakes",
+    "tags": [
+      "breakfast",
+      "comfort-food",
+      "dutch",
+      "norwegian",
+      "peppery",
+      "stroop"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-norwegian-salmon-salad",
     "title": "Peppery Norwegian Salmon Salad",
     "tags": [
@@ -3973,6 +3988,21 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 210,
+    "shard": "p"
+  },
+  {
+    "slug": "pillowy-nutty-applesauce-bake",
+    "title": "pillowy nutty applesauce bake",
+    "tags": [
+      "applesauce",
+      "breakfast",
+      "brunch",
+      "low-fat",
+      "polish",
+      "pressure-cooker"
+    ],
+    "cuisine": "polish",
+    "totalTimeMin": 24,
     "shard": "p"
   },
   {

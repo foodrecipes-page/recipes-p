@@ -1,0 +1,62 @@
+{
+  "title": "pillowy nutty applesauce bake",
+  "description": "nutty, pillowy brunch-mood polish dish featuring applesauce, pressure-cooker and low-fat-friendly ingredients",
+  "cuisine": "polish",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "preheat the pressure-cooker to 10 psi",
+    "mix together 2 cups whole wheat flour, 1 cup oats, 1 tsp baking powder, 0.5 tsp salt, and 1 tsp vanilla extract",
+    "add 1 cup applesauce, 1/2 cup low-fat milk, and 1 large egg to the dry ingredients",
+    "stir until combined, do not overmix",
+    "pour batter into a greased 6-inch round cake pan",
+    "place the cake pan in the pressure-cooker and cook for 12 minutes",
+    "let the pressure release naturally for 5 minutes",
+    "remove the cake pan from the pressure-cooker and let it cool for 2 minutes",
+    "serve warm and enjoy",
+    "optional: top with a dollop of whipped cream or a sprinkle of cinnamon"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 24,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "applesauce",
+    "breakfast",
+    "brunch",
+    "low-fat",
+    "polish",
+    "pressure-cooker"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "slug": "pillowy-nutty-applesauce-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-nutty-applesauce-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:45Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "pillowy",
+    "mood": "brunch-mood",
+    "technique": "pressure-cook",
+    "primaryIngredient": "applesauce",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "nutty",
+    "mainIngredient": "applesauce",
+    "descriptor": "pillowy",
+    "dishForm": "bake"
+  }
+}
