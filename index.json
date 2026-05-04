@@ -155,6 +155,21 @@
     "shard": "p"
   },
   {
+    "slug": "pan-seared-venezuelan-fish-skewers",
+    "title": "Pan Seared Venezuelan Fish Skewers",
+    "tags": [
+      "fish-based",
+      "high-protein",
+      "latin-american",
+      "one-pan",
+      "romantic-dinner",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "panang-curry-brise-ferment",
     "title": "Panang Curry Brise Ferment",
     "tags": [

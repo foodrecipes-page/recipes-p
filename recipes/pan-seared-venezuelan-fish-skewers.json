@@ -1,0 +1,93 @@
+{
+  "title": "Pan Seared Venezuelan Fish Skewers",
+  "description": "Savory Venezuelan dish featuring fish, shredded cheese, and spices, served in a copper mug, pescatarian friendly and romantic",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish",
+      "amount": "1 pound",
+      "notes": "any white fish"
+    },
+    {
+      "name": "Mexican Cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Tandoor Spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees",
+    "Thread fish and cheese onto skewers",
+    "Mix tandoor spice, olive oil, lime juice, garlic, salt, and pepper in a bowl",
+    "Brush the mixture onto the fish and cheese",
+    "Heat a skillet over medium high heat",
+    "Add the skewers to the skillet and sear for 2 minutes on each side",
+    "Finish cooking the skewers in the oven for 10 minutes",
+    "Serve the skewers in a copper mug"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-based",
+    "high-protein",
+    "latin-american",
+    "one-pan",
+    "romantic-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "pan-seared-venezuelan-fish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-venezuelan-fish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:31:07Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "tandoor",
+    "primaryIngredient": "shredded mexican cheese",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "fish",
+    "descriptor": "Pan seared",
+    "dishForm": "Skewers"
+  }
+}
