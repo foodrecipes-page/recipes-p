@@ -1,0 +1,133 @@
+{
+  "title": "Peruvian-Style Pan-Seared Peruvian Beef Saltado",
+  "description": "This dish features tender Peruvian beef, onions, tomatoes, and french fries in a spicy and savory sauce, served over rice. It's a classic Peruvian recipe that's sure to please.",
+  "cuisine": "Peruvian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 pound beef strips (such as sirloin or ribeye)",
+      "amount": "1",
+      "notes": "Slice beef into thin strips and season with salt and pepper."
+    },
+    {
+      "name": "1 large onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 cup beef broth",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon Szechuan peppercorns",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 large tomatoes",
+      "amount": "2",
+      "notes": "Core and chop tomatoes."
+    },
+    {
+      "name": "2 cups frozen french fries",
+      "amount": "2",
+      "notes": "Thaw french fries according to package instructions."
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon vinegar",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon sugar",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes. Remove from heat and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet and cook the onion until softened, about 3-4 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the beef broth and bring to a boil, scraping up any browned bits from the bottom of the pan.",
+    "Add the cooked beef back into the skillet, along with the cumin, paprika, salt, black pepper, and Szechuan peppercorns. Stir to combine.",
+    "Add the chopped tomatoes and french fries to the skillet and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened and the fries are coated.",
+    "Stir in the soy sauce, vinegar, and sugar. Cook for an additional minute, until heated through.",
+    "Serve hot over rice, garnished with green onions and sesame seeds if desired.",
+    "Cook the rice according to package instructions and set aside."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "one-pan",
+    "peruvian",
+    "sugar-free",
+    "szechuan-peppercorns"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "peruvian-style-pan-seared-peruvian-beef-saltado",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peruvian-style-pan-seared-peruvian-beef-saltado",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:27:58Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "brine-dry",
+    "primaryIngredient": "szechuan peppercorns",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "Peruvian-Style Pan-Seared",
+    "dishForm": "Saltado"
+  }
+}
