@@ -311,6 +311,22 @@
     "shard": "p"
   },
   {
+    "slug": "peppered-american-chocolate-stew",
+    "title": "Peppered American Chocolate Stew",
+    "tags": [
+      "american",
+      "dark-chocolate",
+      "dense",
+      "halal-friendly",
+      "peppery",
+      "romantic",
+      "stew"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 110,
+    "shard": "p"
+  },
+  {
     "slug": "peppered-italian-lasagne-orecchiette-alla-griglia",
     "title": "Grilled Italian Orecchiette alla Griglia",
     "tags": [
@@ -3496,6 +3512,21 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 60,
+    "shard": "p"
+  },
+  {
+    "slug": "piquant-crispy-peruvian-udon-noodles-ceviche-clasico",
+    "title": "Piquant Crispy Peruvian Udon Noodles Ceviche Clasico",
+    "tags": [
+      "crispy-bread",
+      "monsoon-meals",
+      "noodle-dishes",
+      "peruvian-cuisine",
+      "seafood-recipes",
+      "sugar-free-friendly"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {

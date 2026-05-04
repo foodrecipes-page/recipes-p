@@ -1,0 +1,107 @@
+{
+  "title": "Piquant Crispy Peruvian Udon Noodles Ceviche Clasico",
+  "description": "A salty and crispy Peruvian dish featuring udon noodles and double-rise-bread, sugar-free-friendly, in the form of ceviche clasico, perfect for a monsoon day.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "8 oz",
+      "notes": "Japanese-style"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "crusty outside, soft inside"
+    },
+    {
+      "name": "fresh seafood mix",
+      "amount": "1 lb",
+      "notes": "shrimp, scallops, fish"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "peruvian aji amarillo peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Slice the double-rise-bread into 1-inch cubes and bake for 10 minutes, or until crispy.",
+    "Cook the udon noodles according to package instructions and set aside.",
+    "In a large bowl, combine the fresh seafood mix, lime juice, peruvian aji amarillo peppers, red onion, cilantro, garlic, salt, and black pepper.",
+    "Marinate the seafood mixture in the refrigerator for at least 30 minutes.",
+    "In a large serving dish, combine the cooked udon noodles, crispy bread cubes, and marinated seafood mixture.",
+    "Toss gently to combine and serve immediately.",
+    "Garnish with additional cilantro and lime wedges, if desired.",
+    "Serve with a side of your favorite Peruvian sauce, such as aji amarillo or huancaina."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-bread",
+    "monsoon-meals",
+    "noodle-dishes",
+    "peruvian-cuisine",
+    "seafood-recipes",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "piquant-crispy-peruvian-udon-noodles-ceviche-clasico",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-crispy-peruvian-udon-noodles-ceviche-clasico",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:28:54Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "udon noodles",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "udon noodles",
+    "descriptor": "Piquant Crispy",
+    "dishForm": "Ceviche Clasico"
+  }
+}
