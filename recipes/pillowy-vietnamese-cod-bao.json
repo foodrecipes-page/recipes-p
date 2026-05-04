@@ -1,0 +1,132 @@
+{
+  "title": "pillowy vietnamese cod bao",
+  "description": "briny, pillowy, kid-friendly vietnamese dish featuring cod, nigiri-shaping, ayurvedic-tamasic-friendly",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "sweet rice flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "pickled carrots and daikon",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine sweet rice flour and warm water in a large mixing bowl to form a dough.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Use a rolling pin to flatten each ball into a thin circle.",
+    "Heat 1/4 cup of coconut oil in a large skillet over medium heat.",
+    "Add 2 cod fillets to the skillet and cook for 3-4 minutes on each side, until cooked through.",
+    "Transfer the cooked cod to a plate and set aside.",
+    "Add 1/4 cup of coconut oil to the skillet and cook for 1 minute, until melted.",
+    "Brush the melted coconut oil onto each bao dough circle.",
+    "Place a cooked cod fillet in the center of each bao dough circle.",
+    "Fold the dough over the cod to form a half-moon shape and press the edges together to seal the bao.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Cook the bao for 2-3 minutes on each side, until golden brown.",
+    "Serve the bao hot with pickled carrots and daikon, scallions, and sesame seeds.",
+    "Garnish with cilantro.",
+    "Serve immediately.",
+    "Serve with fish sauce and sugar for dipping.",
+    "Serve with black pepper for added flavor."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-tamasic-friendly",
+    "fish",
+    "fish-sauce",
+    "kid-friendly",
+    "one-pan",
+    "snack",
+    "vegetarian",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "pillowy-vietnamese-cod-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-vietnamese-cod-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:59Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "pillowy",
+    "mood": "kid-friendly",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "cod",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "cod",
+    "descriptor": "pillowy",
+    "dishForm": "Bao"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Pungent Molten Croatian Sumac Toast",
+  "description": "A hearty and comforting Croatian dish featuring a rich, pungent sumac-spiced cheese mixture atop toasted bread.",
+  "cuisine": "croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Whole wheat bread",
+      "amount": "1 loaf",
+      "notes": "Cut into 1-inch thick slices"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit (190 degrees Celsius).",
+    "Spread the sumac-spiced cheese mixture evenly over each bread slice.",
+    "Transfer the bread slices to a baking sheet and bake for 10-12 minutes or until the cheese is melted and bubbly.",
+    "Remove the toast from the oven and sprinkle with chopped parsley and walnuts.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "comforting",
+    "croatian",
+    "easy-to-make",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "pungent-molten-croatian-sumac-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-molten-croatian-sumac-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:46Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "toast",
+    "primaryIngredient": "sumac",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "sumac",
+    "descriptor": "pungent molten",
+    "dishForm": "toast"
+  }
+}

@@ -3928,6 +3928,23 @@
     "shard": "p"
   },
   {
+    "slug": "pillowy-vietnamese-cod-bao",
+    "title": "pillowy vietnamese cod bao",
+    "tags": [
+      "ayurvedic-tamasic-friendly",
+      "fish",
+      "fish-sauce",
+      "kid-friendly",
+      "one-pan",
+      "snack",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "pine-nut-medley",
     "title": "Pine Nut Medley",
     "tags": [
@@ -4259,6 +4276,20 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
+    "slug": "piquant-french-pork-shoulder-quiche",
+    "title": "puignant french pork shoulder quiche",
+    "tags": [
+      "breakfast",
+      "french",
+      "kid-friendly",
+      "quiche",
+      "weeknight"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 75,
     "shard": "p"
   },
   {
@@ -5679,6 +5710,20 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 70,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-molten-croatian-sumac-toast",
+    "title": "Pungent Molten Croatian Sumac Toast",
+    "tags": [
+      "breakfast",
+      "comforting",
+      "croatian",
+      "easy-to-make",
+      "weeknight"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 22,
     "shard": "p"
   },
   {

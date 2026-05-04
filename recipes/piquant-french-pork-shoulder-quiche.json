@@ -1,0 +1,121 @@
+{
+  "title": "puignant french pork shoulder quiche",
+  "description": "a crispy savory quiche filled with pork shoulder, onions, and beurre-monte, perfect for kids and adults alike, with a flaky crust that shines like a glassy-jelly",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pork shoulder steaks",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for the crust"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "for the crust"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "large eggs",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated gruyère cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375 degrees fahrenheit",
+    "roll out the dough to fit a 9-inch tart pan with a removable bottom",
+    "trim the edges of the dough and press it into the pan",
+    "bake the crust for 15 minutes",
+    "in a large skillet, cook the pork shoulder steaks over medium-high heat until browned on both sides, about 5 minutes per side",
+    "add the chopped onion to the skillet and cook until softened, about 3-4 minutes",
+    "add the flour to the skillet and cook for 1 minute, stirring constantly",
+    "add the beurre-monte and cook until the mixture is smooth and slightly thickened, stirring constantly",
+    "in a separate bowl, whisk together the eggs, heavy cream, grated cheese, salt, and pepper",
+    "pour the egg mixture over the cooked pork and onion mixture in the skillet",
+    "spread the chopped thyme over the top of the egg mixture",
+    "pour the egg mixture into the baked tart crust",
+    "bake the quiche for 35-40 minutes, or until the edges are golden brown and the center is set",
+    "remove the quiche from the oven and let it cool for 10 minutes before serving"
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 50,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "french",
+    "kid-friendly",
+    "quiche",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 35,
+    "carbs": 32,
+    "fat": 24
+  },
+  "slug": "piquant-french-pork-shoulder-quiche",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-french-pork-shoulder-quiche",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:30Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "beurre-monte",
+    "primaryIngredient": "pork shoulder steaks",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Pork shoulder",
+    "descriptor": "Piquant",
+    "dishForm": "Quiche"
+  }
+}
