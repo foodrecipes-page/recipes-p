@@ -1,0 +1,103 @@
+{
+  "title": "Peppery Creamy Argentinian Figs Stew",
+  "description": "A fragrant, peppery stew of fresh figs in a creamy yogurt sauce, cooked in a clay comal for a brunch‑style Argentinian treat.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fresh figs",
+      "amount": "500 g",
+      "notes": "hulled and halved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "low‑fat Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the comal over medium heat until shimmering.",
+    "Add the olive oil and swirl to coat the surface.",
+    "Sauté the diced onion until translucent, about 3 minutes.",
+    "Stir in the minced garlic and cook for 1 minute until fragrant.",
+    "Toss in the smoked paprika, cumin, cayenne, and a pinch of salt, cooking for another minute to bloom the spices.",
+    "Add the sliced figs and a splash of water, covering them lightly and letting them simmer for about 15 minutes, stirring occasionally.",
+    "Reduce heat to low and stir in the Greek yogurt, lemon juice, and adjust seasoning with salt and pepper.",
+    "Cook gently for an additional 5 minutes, allowing the yogurt to thicken and coat the figs.",
+    "Transfer the stew to a serving dish, garnishing with fresh herbs if desired.",
+    "Serve hot with crusty bread or warm tortillas for a brunch‑style meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "breakfast",
+    "clay-pot",
+    "creamy",
+    "halal-friendly",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "peppery-creamy-argentinian-figs-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-creamy-argentinian-figs-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:24:15Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "figs",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "figs",
+    "descriptor": "Peppery Creamy",
+    "dishForm": "Stew"
+  }
+}
