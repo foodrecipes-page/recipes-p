@@ -1,0 +1,115 @@
+{
+  "title": "Pungent Greek Buckwheat Flour Tzatziki",
+  "description": "A light and refreshing greek dish featuring buckwheat flour, perfect for a warm spring evening. This jain-friendly recipe combines the tangy flavors of yogurt and cucumber with the nutty taste of buckwheat flour, all while being easy to make and requiring minimal cooking time.",
+  "cuisine": "greek",
+  "diet": [
+    "jain",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cucumber",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Buckwheat flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Flame-free flamb\u000452 substitute",
+      "amount": "1",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine the cucumber, garlic, and red onion in a colander and season with salt. Let it sit for at least 10 minutes to allow the water to be drawn out of the vegetables.",
+    "After 10 minutes, squeeze out as much water as possible from the vegetables using a paper towel.",
+    "In a blender or food processor, combine the drained vegetables, Greek yogurt, buckwheat flour, fresh dill, lemon juice, olive oil, salt, and black pepper, and blend until smooth.",
+    "Taste and adjust the seasoning as needed. If using a flame-free flamb\u000452 substitute, carefully add it to the mixture and stir to combine.",
+    "Cover the mixture and refrigerate for at least 30 minutes to allow the flavors to meld together and the mixture to chill.",
+    "When ready to serve, give the mixture a good stir and scoop it into individual serving cups or a large serving bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buckwheat-flour",
+    "greek",
+    "high-protein",
+    "jain-friendly",
+    "one-pan",
+    "spring",
+    "tzatziki",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 5
+  },
+  "slug": "pungent-greek-buckwheat-flour-tzatziki",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-greek-buckwheat-flour-tzatziki",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:21Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "springy",
+    "mood": "light",
+    "technique": "flambe",
+    "primaryIngredient": "buckwheat flour",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "buckwheat flour",
+    "descriptor": "Pungent",
+    "dishForm": "Tzatziki"
+  }
+}

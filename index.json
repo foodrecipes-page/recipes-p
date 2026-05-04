@@ -660,6 +660,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-british-pepper-pilaf",
+    "title": "Peppery British Pepper Pilaf",
+    "tags": [
+      "british",
+      "comfort-food",
+      "low-sodium",
+      "meal-prep",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-british-pilchard-roast",
     "title": "Peppery British Pilchard Roast",
     "tags": [],
@@ -2117,6 +2131,22 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-gooey-japanese-hummus-sushi",
+    "title": "Peppery Gooey Japanese Hummus Sushi",
+    "tags": [
+      "date-night",
+      "high-protein",
+      "japanese",
+      "lacto-vegetarian",
+      "sushi",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 50,
     "shard": "p"
   },
   {
@@ -5744,6 +5774,23 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-greek-buckwheat-flour-tzatziki",
+    "title": "Pungent Greek Buckwheat Flour Tzatziki",
+    "tags": [
+      "buckwheat-flour",
+      "greek",
+      "high-protein",
+      "jain-friendly",
+      "one-pan",
+      "spring",
+      "tzatziki",
+      "weeknight"
+    ],
+    "cuisine": "greek",
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {

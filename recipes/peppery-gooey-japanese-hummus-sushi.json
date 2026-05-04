@@ -1,0 +1,70 @@
+{
+  "title": "Peppery Gooey Japanese Hummus Sushi",
+  "description": "A date-night Japanese dish featuring hummus, infused oil, and sushi elements. This lacto-vegetarian-friendly recipe combines spicy and savory flavors.",
+  "cuisine": "Japanese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Edamame Hummus",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kombu seaweed",
+      "amount": "1 piece (about 2 inches long)",
+      "notes": ""
+    },
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "1 cup",
+      "notes": "preferably Koshihikari or Akita Komachi"
+    }
+  ],
+  "instructions": [
+    "Combine edamame hummus, sesame oil, and grated ginger in a bowl, whisking until smooth.",
+    "Heat the kombu seaweed in a dry pan over medium heat, until crispy and fragrant.",
+    "Prepare sushi rice according to package instructions, using 1 cup of Japanese short-grain rice and 1 3/4 cups of water.",
+    "In a small saucepan, heat the infused oil over low heat until warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "japanese",
+    "lacto-vegetarian",
+    "sushi",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 26,
+    "carbs": 66,
+    "fat": 24
+  },
+  "slug": "peppery-gooey-japanese-hummus-sushi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-gooey-japanese-hummus-sushi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:05Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "infuse-oil",
+    "primaryIngredient": "hummus",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "japanese",
+    "mainIngredient": "hummus",
+    "descriptor": "peppery gooey",
+    "dishForm": "sushi"
+  }
+}
