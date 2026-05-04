@@ -1,0 +1,112 @@
+{
+  "title": "Piquant Fermented Egyptian Prosciutto Skillet",
+  "description": "A cozy Egyptian dish featuring prosciutto, with a floral flavor and a cheese-pull effect, made in an iron teppan skillet. This recipe is Buddhist-temple-friendly and perfect for a dinner gathering.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prosciutto",
+      "amount": "12 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kombu",
+      "amount": "2 sheets",
+      "notes": "dried"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rose petals",
+      "amount": "1/4 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan skillet over medium heat.",
+    "Add the olive oil and swirl it around to coat the skillet.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the prosciutto slices and cook for 2 minutes on each side until crispy.",
+    "Add the kombu sheets and cook for 1 minute on each side until fragrant.",
+    "Add the cooked jasmine rice and stir to combine with the prosciutto and kombu.",
+    "Add the crumbly feta cheese and stir to combine.",
+    "Add the dried rose petals and stir to combine.",
+    "Squeeze the freshly squeezed lemon juice over the top and stir to combine.",
+    "Season with kosher salt and freshly ground black pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy-dinner",
+    "egyptian-cuisine",
+    "fermented-food",
+    "gluten-free",
+    "one-pan",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "piquant-fermented-egyptian-prosciutto-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-fermented-egyptian-prosciutto-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:59:22Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "ferment",
+    "primaryIngredient": "prosciutto",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "prosciutto",
+    "descriptor": "Piquant Fermented",
+    "dishForm": "Skillet"
+  }
+}
