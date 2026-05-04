@@ -1,0 +1,108 @@
+{
+  "title": "Peppery Crispy Algerian Yautia Bowl",
+  "description": "A spicy, crispy bowl featuring spherified yautia with a peppery spice blend, finished on an iron teppan for a crunchy finish.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yautia tuber",
+      "amount": "300g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "2g"
+    },
+    {
+      "name": "calcium lactate",
+      "amount": "1g"
+    },
+    {
+      "name": "water",
+      "amount": "300ml"
+    }
+  ],
+  "instructions": [
+    "Preheat an iron teppan over medium-high heat until hot.",
+    "Peel, grate, and squeeze out excess moisture from the yautia tuber, collecting 300g of puree.",
+    "In a mixing bowl, combine the yautia puree with salt, cumin, coriander, paprika, black pepper, lemon zest, and parsley.",
+    "Dissolve the sodium alginate in 100ml of water to form a smooth solution, then whisk it into the yautia mixture until fully blended.",
+    "Prepare a calcium bath by dissolving calcium lactate in the remaining 200ml of water.",
+    "Using a spoon or syringe, drop small spoonfuls of the yautia mixture into the calcium bath; let them sit for two minutes before transferring to cold water to halt the reaction.",
+    "Drain the spheres and pat them dry with a paper towel, then lightly brush each sphere with olive oil.",
+    "Place the spheres on the preheated teppan; sear each side for about one minute until they develop a crisp golden crust.",
+    "Arrange the crispy spheres in a bowl, drizzle with any remaining olive oil, and scatter chopped parsley over the top.",
+    "Serve immediately, optionally squeezing a little fresh lemon juice over the bowl for extra brightness."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "crowd-pleaser",
+    "one-pan",
+    "spicy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 28
+  },
+  "slug": "peppery-crispy-algerian-yautia-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crispy-algerian-yautia-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:12:40Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "spherify",
+    "primaryIngredient": "yautia",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "yautia",
+    "descriptor": "Peppery Crispy",
+    "dishForm": "Bowl"
+  }
+}
