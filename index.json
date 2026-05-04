@@ -4184,6 +4184,22 @@
     "shard": "p"
   },
   {
+    "slug": "plush-thai-tomato-curry",
+    "title": "Plush Thai Tomato Curry",
+    "tags": [
+      "coconut-rich",
+      "comfort-food",
+      "easy-dinner",
+      "one-pot",
+      "thai-cuisine",
+      "tomato-based",
+      "vegan"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "plush-vietnamese-stilton-pho",
     "title": "Plush Vietnamese Stilton Pho",
     "tags": [

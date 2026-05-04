@@ -1,0 +1,107 @@
+{
+  "title": "Plush Thai Tomato Curry",
+  "description": "A malty, juicy Thai tomato curry that emulsifies with mantecare for a silky texture, shojin-friendly and perfect for a comforting dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "red bell pepper, chopped",
+      "amount": "1"
+    },
+    {
+      "name": "tomatoes, chopped",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Thai red curry paste (vegan)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pot over medium heat until shimmering.",
+    "Add diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in minced garlic, grated ginger, and chopped bell pepper, cooking until fragrant, about 2 minutes.",
+    "Pour in chopped tomatoes, tomato puree, and Thai red curry paste, stirring to combine and cook for 5 minutes until tomatoes soften.",
+    "Add coconut milk, soy sauce, maple syrup, and a pinch of salt, then bring to a gentle simmer, stirring occasionally.",
+    "Reduce heat to low and let the curry simmer, allowing flavors to meld and the sauce to thicken, 10 minutes.",
+    "Taste and adjust seasoning, adding more salt or maple syrup if desired, then remove from heat.",
+    "Serve hot over steamed jasmine rice or cauliflower rice, garnished with chopped cilantro and a squeeze of lime."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-rich",
+    "comfort-food",
+    "easy-dinner",
+    "one-pot",
+    "thai-cuisine",
+    "tomato-based",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "plush-thai-tomato-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/plush-thai-tomato-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:27:52Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "chopped tomatoes",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tomato",
+    "descriptor": "Plush",
+    "dishForm": "Curry"
+  }
+}
