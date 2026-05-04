@@ -1,0 +1,96 @@
+{
+  "title": "Piquant Spicy Indian Rice Dosa",
+  "description": "A quick-fix South Indian dish featuring a spicy rice and lentil crepe, served in a lacquerware bowl. This sugar-free-friendly recipe combines Indian and Cajun flavors.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "idli rice",
+      "amount": "2 cups",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "split black lentils",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "cajun spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "green chili",
+      "amount": "2",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Grind the soaked idli rice and split black lentils into a smooth batter using a blender or food processor.",
+    "Heat the ghee or oil in a small pan over medium heat and saute the chopped onion and green chili until the onion is translucent.",
+    "Add the cajun spice blend and salt to the pan and stir for 1 minute.",
+    "Combine the sauteed mixture with the ground batter and mix well.",
+    "Add water to the batter to achieve a thick but pourable consistency.",
+    "Heat a non-stick skillet or dosa pan over medium heat and pour a small amount of the batter onto the pan.",
+    "Spread the batter evenly to form a thin crepe and cook for 2 minutes or until the bottom is golden brown.",
+    "Flip the dosa over and cook for another minute or until the other side is also golden brown.",
+    "Serve the piquant spicy Indian rice dosa hot in a lacquerware bowl."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "cajun-inspired",
+    "gluten-free",
+    "quick-fix",
+    "south-indian",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "piquant-spicy-indian-rice-dosa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-spicy-indian-rice-dosa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:35:19Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "quick-fix",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "cajun",
+    "diet": "sugar-free",
+    "region": "south",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "rice",
+    "descriptor": "Piquant Spicy",
+    "dishForm": "Dosa"
+  }
+}
