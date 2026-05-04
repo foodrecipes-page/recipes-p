@@ -1,0 +1,111 @@
+{
+  "title": "Grilled Italian Orecchiette alla Griglia",
+  "description": "A nutty, crisp, and energizing Italian dish featuring lasagna sheets, grilled to perfection and served with a vibrant mix of vegetables.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gluten-free lasagna sheets",
+      "amount": "8-10 sheets"
+    },
+    {
+      "name": "Grilled zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Grilled bell peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Grilled eggplant",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Grilled cherry tomatoes",
+      "amount": "1 pint"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh mozzarella cheese",
+      "amount": "8 ounces"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill to medium-high heat.",
+    "Grill the zucchini, bell peppers, and eggplant until tender and lightly charred.",
+    "Grill the cherry tomatoes until they start to release their juices.",
+    "Cut the grilled vegetables into bite-sized pieces.",
+    "Cook the gluten-free lasagna sheets according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the cooked lasagna sheets to the skillet and toss with the garlic and oil.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the lasagna sheets to a serving dish.",
+    "Top with the grilled vegetables, basil, Parmesan cheese, and mozzarella cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free-friendly",
+    "grilled",
+    "italian",
+    "one-pan",
+    "veggie-packed",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "peppered-italian-lasagne-orecchiette-alla-griglia",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/peppered-italian-lasagne-orecchiette-alla-griglia",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:06:49Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "grill",
+    "primaryIngredient": "lasagne sheets",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "lasagne",
+    "descriptor": "peppered",
+    "dishForm": "Orecchiette alla Griglia"
+  }
+}

@@ -311,6 +311,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppered-italian-lasagne-orecchiette-alla-griglia",
+    "title": "Grilled Italian Orecchiette alla Griglia",
+    "tags": [
+      "gluten-free-friendly",
+      "grilled",
+      "italian",
+      "one-pan",
+      "veggie-packed",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "peppermint-saute",
     "title": "Peppermint Saute",
     "tags": [
