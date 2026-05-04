@@ -1,0 +1,106 @@
+{
+  "title": "Pastoral Croatian Rice Flour Bake",
+  "description": "A creamy, grassy brunch dish with fluffy rice flour pancakes baked to a golden finish, perfect for a low‑carb morning.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "150g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "200ml",
+      "notes": "low sodium"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "120g"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "80g",
+      "notes": "softened"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "100g",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh herbs (parsley, dill)",
+      "amount": "2 tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "30g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C and grease a 20cm square baking dish with olive oil.",
+    "Whisk the rice flour, vegetable broth, eggs, yogurt, and cream cheese until smooth and pour into the prepared dish.",
+    "Fold in spinach, herbs, salt, and pepper, then drizzle with the remaining olive oil and sprinkle parmesan on top.",
+    "Bake for 20 minutes until the top is golden and the center is set.",
+    "Remove from oven and let rest for 5 minutes before slicing.",
+    "Serve warm with a side of fresh tomato salsa or a light cucumber salad.",
+    "Enjoy the soft, creamy texture and the gentle grassy flavor reminiscent of Croatian pastures.",
+    "Keep leftovers refrigerated and reheat gently in the microwave."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "low-carb",
+    "one-pot",
+    "savory",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "pastoral-croatian-rice-flour-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/pastoral-croatian-rice-flour-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:04:22Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "bake",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Rice Flour",
+    "descriptor": "Pastoral",
+    "dishForm": "Bake"
+  }
+}

@@ -288,6 +288,20 @@
     "shard": "p"
   },
   {
+    "slug": "pastoral-croatian-rice-flour-bake",
+    "title": "Pastoral Croatian Rice Flour Bake",
+    "tags": [
+      "brunch",
+      "low-carb",
+      "one-pot",
+      "savory",
+      "vegetarian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "peach-tempeh-stir-fry",
     "title": "Peach Tempeh Stir-Fry",
     "tags": [
@@ -5100,6 +5114,21 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 110,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-japanese-cheese-tamagoyaki",
+    "title": "Pungent Japanese Cheese Tamagoyaki",
+    "tags": [
+      "bread-based",
+      "cheesy",
+      "flexitarian",
+      "japanese-inspired",
+      "midnight-cravings",
+      "snack-ideas"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
