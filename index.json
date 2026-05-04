@@ -3903,6 +3903,17 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-saudi-barley-pie",
+    "title": "Piquant Saudi Barley Pie",
+    "tags": [
+      "saudi-arabian",
+      "lunch"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-spicy-norteno-chicken-torta-de-jugo",
     "title": "piquant spicy norteño chicken torta de jugo",
     "tags": [

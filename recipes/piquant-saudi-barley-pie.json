@@ -1,0 +1,122 @@
+{
+  "title": "Piquant Saudi Barley Pie",
+  "description": "A spicy, juicy barley pie folded into ready rolled shortcrust pastry, served with a fragrant tomato‑barley emulsion, dairy‑free and perfect for a monsoon lunch.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ready rolled shortcrust pastry",
+      "amount": "1 sheet",
+      "notes": "pre‑rolled, store‑bought"
+    },
+    {
+      "name": "brown barley",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1/2 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a saucepan, heat olive oil over medium heat and sauté onion and garlic until translucent.",
+    "Add barley to the pan and stir for 2 minutes, letting it toast lightly.",
+    "Pour in vegetable broth and tomato puree, then add cumin, coriander, cardamom, and salt; bring to a simmer.",
+    "Cover and cook the barley mixture for 25 minutes, stirring occasionally, until barley is tender and liquid is absorbed.",
+    "Remove from heat, stir in lemon juice, and allow the porridge to cool slightly.",
+    "Roll out the shortcrust pastry to fit a 9-inch pie dish.",
+    "Place the pastry in the dish, pressing gently to seal the edges.",
+    "Divide the barley mixture into the pastry-lined dish, smoothing the top.",
+    "Bake the pie for 20 minutes, or until the pastry edges are golden brown.",
+    "Let the pie rest for 5 minutes, then garnish with fresh parsley before slicing."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "saudi-arabian",
+    "lunch"
+  ],
+  "slug": "piquant-saudi-barley-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-saudi-barley-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:42:45Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "ready rolled shortcrust pastry",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "Barley",
+    "descriptor": "Piquant",
+    "dishForm": "Pie"
+  }
+}
