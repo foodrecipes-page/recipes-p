@@ -1,0 +1,93 @@
+{
+  "title": "Pillowy Sweet Indian Rice Dosa",
+  "description": "A sweet and comforting Mangalorean dish featuring sugar and dashi extract, perfect for a sick day. This plant-based friendly recipe is a unique twist on traditional dosa.",
+  "cuisine": "Indian",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rice flour",
+      "amount": "2 cups",
+      "notes": "preferably idli rice or dosa rice"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Ghee or oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine rice flour, sugar, and salt.",
+    "Gradually add coconut milk, water, and dashi extract to the dry ingredients and mix until smooth.",
+    "Add ghee or oil and mix well.",
+    "Cover the mixture and let it rest in a warm place for 2 hours to allow fermentation.",
+    "Once fermented, add active dry yeast and mix gently.",
+    "Heat a non-stick skillet or dosa pan over medium heat.",
+    "Pour a small amount of the batter onto the skillet and spread it evenly to form a thin circle.",
+    "Cook the dosa for 1-2 minutes, until the bottom is golden brown, then flip and cook for another minute.",
+    "Serve the pillowy sweet Indian rice dosa hot with your favorite filling or chutney."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-idea",
+    "indian-recipe",
+    "plant-based",
+    "sweet-dosa",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "pillowy-sweet-indian-rice-dosa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-sweet-indian-rice-dosa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:21:26Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "dashi-extract",
+    "primaryIngredient": "sugar",
+    "diet": "plant-based",
+    "region": "mangalorean",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "rice",
+    "descriptor": "pillowy sweet",
+    "dishForm": "Dosa"
+  }
+}
