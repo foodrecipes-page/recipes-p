@@ -4603,5 +4603,20 @@
     "cuisine": "Mexican",
     "totalTimeMin": 110,
     "shard": "p"
+  },
+  {
+    "slug": "purely-velvety-turkish-pecan-su-boregi",
+    "title": "Purely Velvety Turkish Pecan Su Boregi",
+    "tags": [
+      "kid-friendly",
+      "no-onion-no-garlic",
+      "snack",
+      "tandoor",
+      "turkish",
+      "vegetarian"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 55,
+    "shard": "p"
   }
 ]

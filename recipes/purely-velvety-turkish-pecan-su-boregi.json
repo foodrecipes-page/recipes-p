@@ -1,0 +1,100 @@
+{
+  "title": "Purely Velvety Turkish Pecan Su Boregi",
+  "description": "A kid-friendly Turkish dish featuring pecan nuts, made in a tandoor clay pot, with a velvety texture and umami flavor, perfect for a snack or light meal, onion and garlic free.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "kid-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pecan nuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "warm"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 375 degrees Fahrenheit.",
+    "In a bowl, mix together the chopped pecan nuts, crumbly feta cheese, and a pinch of salt and pepper.",
+    "Layer the phyllo dough in the tandoor clay pot, brushing each layer with melted butter.",
+    "Add the pecan and feta mixture to the phyllo dough layers.",
+    "In a separate bowl, whisk together the beaten eggs and warm milk.",
+    "Pour the egg and milk mixture over the pecan and feta layers.",
+    "Cover the tandoor clay pot with a lid and bake for 25 minutes.",
+    "Remove the lid and bake for an additional 10 minutes, or until the top is golden brown.",
+    "Remove from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "no-onion-no-garlic",
+    "snack",
+    "tandoor",
+    "turkish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "purely-velvety-turkish-pecan-su-boregi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-velvety-turkish-pecan-su-boregi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:24:38Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "tandoor",
+    "primaryIngredient": "pecan nuts",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "pecan nuts",
+    "descriptor": "Purely Velvety",
+    "dishForm": "Su Boregi"
+  }
+}
