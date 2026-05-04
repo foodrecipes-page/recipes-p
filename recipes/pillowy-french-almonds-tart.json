@@ -1,0 +1,85 @@
+{
+  "title": "Pillowy French Almond Tart",
+  "description": "Jammy, pillowy French dessert featuring ground almonds in a crowd-pleasing papillote. Perfect for a weeknight treat.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ground almonds",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg whites",
+      "amount": "3 large"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Almond extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Make a 12-inch paper or parchment papillote by tracing a circle on the center, with an X for the corners.",
+    "In a bowl, combine the ground almonds, granulated sugar, and salt.",
+    "In a separate bowl, whip the egg whites until frothy, then fold into the almond mixture.",
+    "Pour the butter and almond extract into the bowl and mix until smooth.",
+    "Transfer the almond paste to the center of the papillote, spreading it evenly.",
+    "Fold the bottom of the papillote up over the filling, then fold in the sides and the top.",
+    "Bake the tart for 15 minutes, and reduce heat to 375°F (190°C).",
+    "Bake for 20-25 minutes or until the pastry is golden brown.",
+    "Let it cool for 5 minutes before serving.",
+    "Unfold the papillote to reveal the jammy, pillowy tart."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "almond",
+    "baking",
+    "crowd-pleaser",
+    "dessert",
+    "easy-to-make",
+    "french",
+    "nut-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "pillowy-french-almonds-tart",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-french-almonds-tart",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T14:09:23Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "papillote",
+    "primaryIngredient": "ground almonds",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "almonds",
+    "descriptor": "pillowy",
+    "dishForm": "Tart"
+  }
+}
