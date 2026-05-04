@@ -1,0 +1,114 @@
+{
+  "title": "Piquant Italian Spaghetti Cacio e Pepe",
+  "description": "A charred, gooey twist on classic Cacio e Pepe, packed with sesame seed oil tadka and served in a mason jar for meal prep.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "200g"
+    },
+    {
+      "name": "Pecorino Romano cheese",
+      "amount": "30g",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame seed oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 tablespoon",
+      "notes": "low sodium"
+    },
+    {
+      "name": "water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of salted water to a boil and cook the spaghetti until al dente (about 8-10 minutes).",
+    "While pasta cooks, heat the sesame seed oil in a small skillet over medium-high heat.",
+    "Add cumin seeds and chili flakes to the oil; fry until fragrant and slightly browned, about 30 seconds.",
+    "Stir in fresh ground black pepper and garlic powder, cooking for another 30 seconds to release aroma.",
+    "Remove the skillet from heat and let the tadka cool for a minute; this preserves the black pepper's charred flavor.",
+    "Drain the spaghetti and reserve 1 cup of pasta water.",
+    "Toss the hot spaghetti with the tadka, grated cheese, lemon zest, and a splash of reserved pasta water until the cheese melts and forms a creamy sauce.",
+    "Transfer the creamy pasta into a clean mason jar, sealing it tightly.",
+    "Refrigerate the jar for at least 30 minutes to allow flavors to meld and the sauce to thicken.",
+    "Before serving, stir the pasta well; if too thick, add a tablespoon of pasta water to loosen.",
+    "Garnish with a sprinkle of toasted sesame seeds and extra black pepper.",
+    "Serve chilled or at room temperature for a satisfying low-calorie meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "black-pepper",
+    "chili-flakes",
+    "italian",
+    "low-calorie",
+    "mason-jar",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 17,
+    "carbs": 42,
+    "fat": 23
+  },
+  "slug": "piquant-italian-spaghetti-cacio-e-pepe",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-italian-spaghetti-cacio-e-pepe",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:49:34Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "tadka",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Spaghetti",
+    "descriptor": "Piquant",
+    "dishForm": "Cacio E Pepe"
+  }
+}

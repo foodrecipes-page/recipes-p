@@ -3769,6 +3769,21 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-italian-spaghetti-cacio-e-pepe",
+    "title": "Piquant Italian Spaghetti Cacio e Pepe",
+    "tags": [
+      "black-pepper",
+      "chili-flakes",
+      "italian",
+      "low-calorie",
+      "mason-jar",
+      "quick-meal"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-korean-vegetable-cold-chewy-naengmyeon",
     "title": "Piquant Korean Vegetable Cold Naengmyeon",
     "tags": [
