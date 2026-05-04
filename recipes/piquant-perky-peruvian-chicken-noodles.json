@@ -1,0 +1,112 @@
+{
+  "title": "piquant perky peruvian chicken noodles",
+  "description": "energizing peruvian dish with peppery, silky flavors and a sweet praline-french finish. fodmap-friendly.",
+  "cuisine": "peruvian",
+  "diet": [
+    "fodmap-friendly",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa noodles",
+      "amount": "8 oz",
+      "notes": "fodmap-friendly"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "red onion",
+      "amount": "1"
+    },
+    {
+      "name": "achiote paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "crushed pecans",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "cook the quinoa noodles according to package instructions.",
+    "in a large skillet, heat the peanut oil over medium-high heat.",
+    "add the chicken breast and cook until browned, about 5 minutes.",
+    "add the diced red onion and cook until translucent, about 3 minutes.",
+    "add the achiote paste, chili flakes, and cumin. stir to combine.",
+    "add the cooked quinoa noodles and stir to combine.",
+    "season with salt to taste.",
+    "in a small saucepan, melt the dark chocolate chips over low heat.",
+    "add the honey and stir to combine.",
+    "add the crushed pecans and stir to combine.",
+    "pour the chocolate sauce over the noodle mixture and toss to combine.",
+    "top with chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "high-protein",
+    "one-pan",
+    "silky-sauce",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "piquant-perky-peruvian-chicken-noodles",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-perky-peruvian-chicken-noodles",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T02:10:23Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "praline-french",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Piquant Perky",
+    "dishForm": "Noodles"
+  }
+}
