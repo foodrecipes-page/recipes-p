@@ -1,0 +1,94 @@
+{
+  "title": "Pleasingly Garlicky Chinese Egg Yolk Char Siu Bao",
+  "description": "A garlicky and comforting Chinese dish featuring egg yolks, this char siu bao is perfect for a snack or dinner. The combination of egg yolks and garlic creates a rich and savory flavor.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for dough"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "4 large",
+      "notes": "for filling"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "char siu sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, salt, and sugar to make the dough.",
+    "Gradually add in water to form a shaggy dough, then knead for 10 minutes until smooth.",
+    "Let the dough rest for 1 hour, or until it has doubled in size.",
+    "In a separate bowl, whisk together egg yolks, garlic, char siu sauce, and sesame oil to make the filling.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Use a rolling pin to flatten each ball into a disk shape.",
+    "Place a tablespoon of the egg yolk filling in the center of each disk.",
+    "Fold the dough over the filling to form a bun shape and seal the edges.",
+    "Place the buns in a steamer lined with parchment paper and steam for 12 minutes.",
+    "After steaming, immediately submerge the buns in an ice bath to stop the cooking process."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 52,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "comfort-food",
+    "garlicky",
+    "steamed-buns",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "pleasingly-garlicky-chinese-egg-yolk-char-siu-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pleasingly-garlicky-chinese-egg-yolk-char-siu-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:03:09Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "egg yolks",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "egg yolks",
+    "descriptor": "Pleasingly Garlicky",
+    "dishForm": "Char Siu Bao"
+  }
+}
