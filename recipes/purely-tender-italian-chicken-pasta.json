@@ -1,0 +1,98 @@
+{
+  "title": "Purely Tender Italian Chicken Pasta",
+  "description": "A cultured and tender Italian dish featuring sesame butter and coconut cream, with an ayurvedic tamasic friendly twist",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "sesame butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "basil",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions",
+    "In a large skillet, heat the olive oil over medium heat and add the garlic, cooking for 1 minute",
+    "Add the chicken breast to the skillet and cook until browned on both sides and cooked through",
+    "In a small bowl, whisk together the sesame butter and coconut cream",
+    "Add the sesame butter and coconut cream mixture to the skillet with the chicken and stir to combine",
+    "Stir in the chopped basil and season with salt and black pepper",
+    "Drain the cooked pasta and add it to the skillet, tossing to combine with the chicken and sauce",
+    "Serve the pasta hot, garnished with additional basil if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "chicken-recipes",
+    "dairy-free",
+    "gluten-free",
+    "italian-food",
+    "pasta-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "purely-tender-italian-chicken-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-tender-italian-chicken-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:51:54Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "sesame butter",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chicken",
+    "descriptor": "Purely Tender",
+    "dishForm": "Pasta"
+  }
+}
