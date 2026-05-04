@@ -1,0 +1,106 @@
+{
+  "title": "Pungent Pan-Seared Croatian Seafood Mix Lasagna",
+  "description": "A flavorful and satvik-friendly dinner dish featuring frozen seafood mix, lamination puff, and a twist of Croatian spices.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frozen seafood mix",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "lamination puff",
+      "amount": "1 package",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Croatian paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the lamination puff according to package instructions.",
+    "In a large pan, heat olive oil over medium-high heat.",
+    "Add chopped onion and sauté until translucent.",
+    "Add minced garlic and sauté for 1 minute.",
+    "Add frozen seafood mix and cook until thawed.",
+    "Season with Croatian paprika, salt, and black pepper.",
+    "Add lemon juice and stir to combine.",
+    "To assemble the lasagna, layer cooked lamination puff, seafood mixture, and repeat.",
+    "Top with additional lamination puff and bake in the oven for 20-25 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "lasagna",
+    "one-pan",
+    "seafood",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "pungent-pan-seared-croatian-seafood-mix-lasagna",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-pan-seared-croatian-seafood-mix-lasagna",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T11:22:38Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shaggy",
+    "mood": "solo-dinner",
+    "technique": "lamination-puff",
+    "primaryIngredient": "frozen seafood mix",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "seafood mix",
+    "descriptor": "Pungent Pan-Seared",
+    "dishForm": "Lasagna"
+  }
+}
