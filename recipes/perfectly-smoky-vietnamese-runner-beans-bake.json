@@ -1,0 +1,100 @@
+{
+  "title": "Perfectly Smoky Vietnamese Runner Beans Bake",
+  "description": "A romantic Vietnamese dish featuring smoky runner beans, baked to perfection in a wood-fired oven, and is FODMAP-friendly. This recipe combines the natural sweetness of runner beans with the depth of smoky flavors.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "runner beans",
+      "amount": "1 pound",
+      "notes": "trimmed and cut into 1-inch pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "2 tablespoons",
+      "notes": "make sure it is FODMAP-friendly"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "make sure it is gluten-free"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together smoked paprika, olive oil, garlic-infused oil, salt, and black pepper.",
+    "Add the runner beans to the bowl and toss to coat with the smoky mixture.",
+    "Line a baking sheet with parchment paper and arrange the coated runner beans in a single layer.",
+    "Bake the runner beans in the preheated oven for 20 minutes, or until they start to brown.",
+    "Remove the baking sheet from the oven and brush the runner beans with fish sauce and lime juice.",
+    "Return the baking sheet to the oven and continue baking for an additional 10 minutes, or until the runner beans are tender and caramelized.",
+    "Remove the baking sheet from the oven and garnish with chopped fresh cilantro.",
+    "Serve the smoky runner beans hot, straight from the oven."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "smoky",
+    "vegetarian",
+    "vietnamese",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "perfectly-smoky-vietnamese-runner-beans-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/perfectly-smoky-vietnamese-runner-beans-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:56:49Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "runner beans",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "runner beans",
+    "descriptor": "perfectly smoky",
+    "dishForm": "Bake"
+  }
+}
