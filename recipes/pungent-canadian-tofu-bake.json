@@ -1,0 +1,109 @@
+{
+  "title": "Pungent Canadian Tofu Bake",
+  "description": "A flavorful and aromatic Canadian dish featuring marinated tofu, deglazed fond, and a hint of maple syrup.",
+  "cuisine": "Canadian",
+  "diet": [
+    "halal",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block (250g)",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "or gluten-free alternative"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Canola oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Rosemary",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a shallow dish, mix together flour, panko breadcrumbs, and a pinch of salt.",
+    "Cut the tofu into 1-inch (2.5 cm) cubes and coat with the flour mixture, shaking off excess.",
+    "Heat 1 tablespoon of canola oil in a large oven-safe skillet over medium-high heat.",
+    "Add the tofu and cook until golden brown on all sides, about 5 minutes. Transfer to a plate.",
+    "In the same skillet, add the remaining 1 tablespoon of canola oil.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly.",
+    "Stir in the apple cider vinegar, maple syrup, thyme, and rosemary.",
+    "Return the tofu to the skillet and spoon some of the sauce over the top.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the sauce is bubbly and the tofu is cooked through.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "halal-friendly",
+    "one-pan",
+    "tofu",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "pungent-canadian-tofu-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-canadian-tofu-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:00:48Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shaggy",
+    "mood": "date-night",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "marinated tofu",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "tofu",
+    "descriptor": "Pungent",
+    "dishForm": "Bake"
+  }
+}
