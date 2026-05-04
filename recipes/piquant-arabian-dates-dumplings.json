@@ -1,0 +1,87 @@
+{
+  "title": "Piquant Arabian Dates Dumplings",
+  "description": "Malty, dense, date-night Saudi Arabian dumplings made with puff pastry and aromatic spices, served wrapped in an elegant ti-leaf-wrap.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "puff pastry sheets",
+      "amount": "2 sheets"
+    },
+    {
+      "name": "pitted dates",
+      "amount": "24 pieces"
+    },
+    {
+      "name": "ground allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Line a baking sheet with parchment paper and lay the two sheets of puff pastry flat.",
+    "Cut each sheet into 6 equal squares to make a total of 12 squares.",
+    "Mash the pitted dates with a fork until they form a sticky paste.",
+    "Stir the date paste with allspice, cinnamon, cardamom, salt, and olive oil until fully blended.",
+    "Place a teaspoon of the spice‑date mixture onto the center of each pastry square.",
+    "Fold the squares into triangles, pressing the edges together and sealing them with a fork.",
+    "Bake the dumplings for 15 minutes, or until they are golden and puffed.",
+    "Remove from the oven, let them cool slightly, and then wrap each dumpling in a ti‑leaf wrap before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "dessert",
+    "malty-dense",
+    "nut-free",
+    "puff-pastry",
+    "ti-leaf-wrap"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 4
+  },
+  "slug": "piquant-arabian-dates-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-arabian-dates-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:37:49Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "dum",
+    "primaryIngredient": "puff pastry",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Arabian",
+    "mainIngredient": "Dates",
+    "descriptor": "Piquant",
+    "dishForm": "Dumplings"
+  }
+}
