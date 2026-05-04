@@ -1,0 +1,110 @@
+{
+  "title": "Plush Floral Venezuelan Pecorino Stew",
+  "description": "A comforting, floral stew that combines Venezuelan flavors with gooey pecorino, perfect for a sick day.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk, diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "pecorino cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "parsley",
+      "amount": "2 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat until shimmering.",
+    "Add diced onion and sauté until translucent, about 5 minutes.",
+    "Stir in minced garlic, carrot, celery, and bell pepper; cook for another 4 minutes.",
+    "Pour in tomato puree and vegetable broth, and add bay leaf.",
+    "Bring mixture to a gentle boil, then reduce heat to low and simmer uncovered for 30 minutes, stirring occasionally.",
+    "Remove bay leaf and season with salt and pepper to taste.",
+    "Sprinkle chopped parsley and cilantro over the stew, stirring to combine.",
+    "Gradually fold in grated pecorino cheese until it melts and thickens the broth into a gooey texture.",
+    "Let the stew rest for 5 minutes to allow the flavors to meld.",
+    "Serve hot, garnished with a few extra parsley leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "egg-free",
+    "floral",
+    "slow-cook",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 6,
+    "carbs": 14,
+    "fat": 14
+  },
+  "slug": "plush-floral-venezuelan-pecorino-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/plush-floral-venezuelan-pecorino-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:32:44Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "slow-cook",
+    "primaryIngredient": "pecorino",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "pecorino",
+    "descriptor": "Plush Floral",
+    "dishForm": "Stew"
+  }
+}

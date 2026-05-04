@@ -1,0 +1,111 @@
+{
+  "title": "Peppery Norwegian Coconut Curry",
+  "description": "A creamy, peppery Norwegian-inspired coconut curry with fermented coconut milk spheres, bright citrus, and a splash of soy sauce for a satvik-friendly monsoon twist. The dish balances heat and chill, giving it a shattering flavor profile.",
+  "cuisine": "Norwegian-inspired",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "400 ml"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "homemade red curry paste",
+      "amount": "2 tbsp",
+      "notes": "ginger 1 tsp, cumin 1 tsp, coriander 1 tsp, dried chili 1 tsp"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "2 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "1 stalk",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "diced red bell pepper",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced carrot",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced zucchini",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh pepper crystals",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp oil in a large saucepan over medium heat until shimmering.",
+    "Add the ginger, lemongrass, and pepper crystals; sauté for 2 minutes until fragrant.",
+    "Stir in the homemade curry paste and cook for another minute to release its flavors.",
+    "Pour in 400 ml coconut milk and 1 tbsp soy sauce, then bring to a gentle simmer.",
+    "Add diced bell pepper, carrot, and zucchini; simmer for 10 minutes until vegetables are tender.",
+    "Stir in lime juice and adjust seasoning with additional soy sauce if needed, then remove from heat.",
+    "While the curry rests, prepare coconut milk spheres by mixing 200 ml coconut milk with 1 tsp calcium lactate and 1 tsp sodium alginate, then use a syringe to drop the mixture into 1% calcium chloride bath for 90 seconds.",
+    "Gently lift the spheres with a slotted spoon, rinse briefly in cold water, and set aside.",
+    "Serve the curry in bowls, spoon a few coconut milk spheres on top, and garnish with chopped cilantro.",
+    "Enjoy the peppery, creamy, and refreshing Norwegian-inspired coconut curry."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-curry",
+    "norwegian-inspired",
+    "satvik-friendly",
+    "spherification",
+    "vegan-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 31
+  },
+  "slug": "peppery-norwegian-coconut-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-norwegian-coconut-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:32:29Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "spherify",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "coconut",
+    "descriptor": "Peppery",
+    "dishForm": "Curry"
+  }
+}

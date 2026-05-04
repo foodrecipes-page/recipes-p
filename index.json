@@ -2870,6 +2870,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-norwegian-coconut-curry",
+    "title": "Peppery Norwegian Coconut Curry",
+    "tags": [
+      "coconut-curry",
+      "norwegian-inspired",
+      "satvik-friendly",
+      "spherification",
+      "vegan-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "Norwegian-inspired",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-norwegian-salmon-salad",
     "title": "Peppery Norwegian Salmon Salad",
     "tags": [
@@ -4793,6 +4808,20 @@
     ],
     "cuisine": "Philippine",
     "totalTimeMin": null,
+    "shard": "p"
+  },
+  {
+    "slug": "plush-floral-venezuelan-pecorino-stew",
+    "title": "Plush Floral Venezuelan Pecorino Stew",
+    "tags": [
+      "comfort-food",
+      "egg-free",
+      "floral",
+      "slow-cook",
+      "venezuelan"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
