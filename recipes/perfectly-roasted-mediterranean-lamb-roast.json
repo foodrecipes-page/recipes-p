@@ -1,0 +1,98 @@
+{
+  "title": "Perfectly Roasted Mediterranean Lamb Roast",
+  "description": "A funky and crisp Mediterranean dish featuring lamb roast, dashi, and a blend of festive spices, cooked to perfection in a terracotta dish. This nut-free-friendly recipe is perfect for special occasions.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb roast",
+      "amount": "2 pounds",
+      "notes": "boneless leg of lamb"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "2 teaspoons",
+      "notes": "dried"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a small bowl, whisk together dashi broth, olive oil, lemon juice, garlic, oregano, thyme, salt, and black pepper.",
+    "Place the lamb roast in a terracotta dish and brush the dashi mixture evenly over the lamb.",
+    "Roast the lamb in the preheated oven for 20 minutes per pound, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Let the lamb rest for 10 minutes before slicing and serving.",
+    "Garnish with fresh herbs, if desired.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 80,
+  "totalTimeMin": 100,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "lamb-recipes",
+    "mediterranean-cuisine",
+    "one-pan",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "perfectly-roasted-mediterranean-lamb-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/perfectly-roasted-mediterranean-lamb-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:22:32Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "roast",
+    "primaryIngredient": "dashi",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Perfectly Roasted",
+    "dishForm": "Roast"
+  }
+}
