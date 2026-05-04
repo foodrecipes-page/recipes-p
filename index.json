@@ -4220,5 +4220,20 @@
     "cuisine": "Australian",
     "totalTimeMin": 35,
     "shard": "p"
+  },
+  {
+    "slug": "purely-char-grilled-algerian-samphire-skewers",
+    "title": "Char Grilled Algerian Samphire Skewers",
+    "tags": [
+      "algerian-cuisine",
+      "copper-mug",
+      "grilled",
+      "low-carb",
+      "seafood",
+      "whole30"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 25,
+    "shard": "p"
   }
 ]
