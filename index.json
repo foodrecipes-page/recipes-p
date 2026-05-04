@@ -4252,6 +4252,20 @@
     "shard": "p"
   },
   {
+    "slug": "pungent-smoky-greek-bryndza-cheese-pilaf",
+    "title": "Pungent Smoky Greek Bryndza Cheese Pilaf",
+    "tags": [
+      "comfort-food",
+      "greek",
+      "monsoon-friendly",
+      "one-pot",
+      "smoky"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "pure-creamy-australian-corn-pancakes",
     "title": "Pure Creamy Australian Corn Pancakes",
     "tags": [
