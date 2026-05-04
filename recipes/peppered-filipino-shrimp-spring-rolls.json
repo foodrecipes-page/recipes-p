@@ -1,0 +1,102 @@
+{
+  "title": "Peppered Filipino Shrimp Spring-Rolls",
+  "description": "Peppery, tender shrimp spring rolls infused with clotted cream and dashi, packed with energy and low-carb friendliness.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "200g"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lumpia wrappers",
+      "amount": "8 wrappers"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, julienned"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 small, sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Peel and devein 200g shrimp, then simmer in 1 tsp dashi extract, 1 tsp soy sauce, 1 tsp vinegar, and cracked black pepper for 3 minutes.",
+    "Drain shrimp and let cool, then mix with 2 tbsp clotted cream until well coated.",
+    "Place a thin layer of the shrimp mixture in the center of each lumpia wrapper.",
+    "Add a few julienned carrots and sliced red bell pepper for crunch and color.",
+    "Roll wrappers tightly, sealing the edges with a dab of water.",
+    "Heat 2 tbsp oil in a skillet over medium heat.",
+    "Fry the spring rolls until golden brown on all sides, about 3 minutes per side.",
+    "Remove from skillet and drain on paper towels.",
+    "Slice each roll in half for a better bite.",
+    "Serve with a dipping sauce of soy sauce, lime juice, and a pinch of pepper."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clotted-cream",
+    "dashi",
+    "filipino",
+    "low-carb-friendly",
+    "lumpia",
+    "peppery",
+    "shrimp",
+    "spring-rolls"
+  ],
+  "nutrition": {
+    "calories": 142,
+    "protein": 13,
+    "carbs": 6,
+    "fat": 8
+  },
+  "slug": "peppered-filipino-shrimp-spring-rolls",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppered-filipino-shrimp-spring-rolls",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:32:40Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "dashi-extract",
+    "primaryIngredient": "clotted-cream-extra",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Peppered",
+    "dishForm": "Spring-Rolls"
+  }
+}

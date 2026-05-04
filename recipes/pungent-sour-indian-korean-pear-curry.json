@@ -1,0 +1,105 @@
+{
+  "title": "Pungent Sour Indian Korean Pear Curry",
+  "description": "A sour and fluffy one-pot Indian dish featuring Korean pear, miso marinate, and is dairy-free friendly.",
+  "cuisine": "Indian Korean",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean pear",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the curry powder and garam masala and cook for 1 minute.",
+    "Add the miso paste and cook for 1 minute.",
+    "Add the diced Korean pear and cook for 2 minutes.",
+    "Add the lime juice and vegetable broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Season with salt to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "fluffy",
+    "indian-korean",
+    "one-pot",
+    "sour",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "pungent-sour-indian-korean-pear-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-sour-indian-korean-pear-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:33:17Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "miso-marinate",
+    "primaryIngredient": "korean-pear",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "korean pear",
+    "descriptor": "pungent sour",
+    "dishForm": "Curry"
+  }
+}

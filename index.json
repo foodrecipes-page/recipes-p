@@ -430,6 +430,23 @@
     "shard": "p"
   },
   {
+    "slug": "peppered-filipino-shrimp-spring-rolls",
+    "title": "Peppered Filipino Shrimp Spring-Rolls",
+    "tags": [
+      "clotted-cream",
+      "dashi",
+      "filipino",
+      "low-carb-friendly",
+      "lumpia",
+      "peppery",
+      "shrimp",
+      "spring-rolls"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppered-italian-lasagne-orecchiette-alla-griglia",
     "title": "Grilled Italian Orecchiette alla Griglia",
     "tags": [
@@ -3915,6 +3932,21 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-flaky-italian-chicken-thighs-casseroles",
+    "title": "Piquant Flaky Italian Chicken Thighs Casserole",
+    "tags": [
+      "casserole-dishes",
+      "chicken-recipes",
+      "comfort-food",
+      "italian-cuisine",
+      "low-sodium",
+      "weeknight-meals"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-galician-rice-paella",
     "title": "Piquant Galician Rice Paella",
     "tags": [
@@ -4987,6 +5019,22 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-sour-indian-korean-pear-curry",
+    "title": "Pungent Sour Indian Korean Pear Curry",
+    "tags": [
+      "dairy-free",
+      "fluffy",
+      "indian-korean",
+      "one-pot",
+      "sour",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Indian Korean",
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {

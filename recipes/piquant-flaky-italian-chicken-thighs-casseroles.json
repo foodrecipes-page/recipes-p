@@ -1,0 +1,97 @@
+{
+  "title": "Piquant Flaky Italian Chicken Thighs Casserole",
+  "description": "A sour and cozy Italian dish featuring chicken thighs, inspired by Ligurian cuisine, with a double-fry method similar to KFC, and low-sodium friendly ingredients.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "8 pieces",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the flour, cornstarch, and a pinch of salt-free seasoning blend.",
+    "Dredge the chicken thighs in the flour mixture, shaking off excess.",
+    "Heat the olive oil in a large skillet over medium-high heat and fry the chicken thighs until golden brown, about 5 minutes per side.",
+    "Transfer the fried chicken thighs to a baking dish and set aside.",
+    "In the same skillet, add the grated Parmesan cheese and cook until melted and slightly browned.",
+    "Pour the melted cheese over the fried chicken thighs and sprinkle with garlic powder and dried oregano.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the chicken is cooked through and the top is golden brown.",
+    "Remove from the oven and drizzle with lemon juice.",
+    "Let it rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casserole-dishes",
+    "chicken-recipes",
+    "comfort-food",
+    "italian-cuisine",
+    "low-sodium",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "piquant-flaky-italian-chicken-thighs-casseroles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-flaky-italian-chicken-thighs-casseroles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:33:01Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "chicken thighs",
+    "diet": "low-sodium",
+    "region": "ligurian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chicken thighs",
+    "descriptor": "Piquant flaky",
+    "dishForm": "Casseroles"
+  }
+}
