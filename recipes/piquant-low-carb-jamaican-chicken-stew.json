@@ -1,0 +1,104 @@
+{
+  "title": "Piquant Low-Carb Jamaican Chicken Stew",
+  "description": "A floral, cheese-pull comforting Jamaican stew with a subtle sweetness and a rich, emulsified sauce made low-carb friendly.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "red bell pepper, diced",
+      "amount": "1"
+    },
+    {
+      "name": "allspice, ground",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "thyme, dried",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut milk, unsweetened",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cilantro, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a kazan cauldron over medium heat until shimmering.",
+    "Add diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in minced garlic and cook for 30 seconds until fragrant.",
+    "Toss in chicken cubes, season with allspice, thyme, paprika, and a pinch of salt, and brown for 5 minutes.",
+    "Add diced bell pepper and cook for an additional 2 minutes, stirring frequently.",
+    "Pour in coconut milk and lime juice, bring to a gentle simmer, and reduce heat to low.",
+    "Cook uncovered for 25 minutes, stirring occasionally, until chicken is tender and sauce thickens.",
+    "Remove from heat, stir in chopped cilantro, and adjust seasoning if needed.",
+    "Serve hot, optionally garnished with extra cilantro or lime wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "jamaican",
+    "low-carb",
+    "one-pot",
+    "spicy",
+    "vegetable-rich"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "piquant-low-carb-jamaican-chicken-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-low-carb-jamaican-chicken-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:23:42Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "sugars",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Chicken",
+    "descriptor": "Piquant Low-Carb",
+    "dishForm": "Stew"
+  }
+}
