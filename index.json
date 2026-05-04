@@ -82,6 +82,21 @@
     "shard": "p"
   },
   {
+    "slug": "pan-seared-greek-sea-bass-pastitsio",
+    "title": "Pan Seared Greek Sea Bass Pastitsio",
+    "tags": [
+      "gluten-free",
+      "greek-cuisine",
+      "high-protein",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 32,
+    "shard": "p"
+  },
+  {
     "slug": "panang-curry-brise-ferment",
     "title": "Panang Curry Brise Ferment",
     "tags": [

@@ -1,0 +1,106 @@
+{
+  "title": "Pan Seared Greek Sea Bass Pastitsio",
+  "description": "A buttery and velvety Greek dish featuring sea bass, made in a pastitsio form and cooked to perfection in a papillote, perfect for a weeknight dinner",
+  "cuisine": "Greek",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sea bass fillets",
+      "amount": "4 fillets",
+      "notes": "Fresh and skin removed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Season the sea bass fillets with salt and black pepper",
+    "Heat the olive oil in a large skillet over medium heat",
+    "Add the chopped onion and cook until translucent",
+    "Add the minced garlic and cook for an additional minute",
+    "Add the tomato paste and cook for 2 minutes, stirring constantly",
+    "Add the butter and stir until melted",
+    "Place a sea bass fillet in the center of a piece of parchment paper, spoon some of the tomato mixture over the fish, and fold the paper to create a papillote",
+    "Repeat with the remaining fillets and place the papillotes on a baking sheet",
+    "Bake for 12 minutes or until the fish is cooked through",
+    "Serve the sea bass pastitsio hot, garnished with chopped parsley and a squeeze of lemon juice"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "greek-cuisine",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "pan-seared-greek-sea-bass-pastitsio",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-greek-sea-bass-pastitsio",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:03:15Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "papillote",
+    "primaryIngredient": "sea bass",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "sea bass",
+    "descriptor": "pan seared",
+    "dishForm": "Pastitsio"
+  }
+}
