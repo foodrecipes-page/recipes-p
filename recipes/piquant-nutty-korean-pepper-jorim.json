@@ -1,0 +1,101 @@
+{
+  "title": "Piquant Nutty Korean Pepper Jorim",
+  "description": "A bold, nutty Korean jorim featuring roasted red pepper and almonds, finished with a spicy sweet sauce.",
+  "cuisine": "korean",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "large roasted red bell pepper",
+      "amount": "1 large"
+    },
+    {
+      "name": "almond slices",
+      "amount": "50g"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "minced ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sliced green onions",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Roast halved bell pepper in oven at 400F for 20 minutes until charred, then peel and seed.",
+    "Whisk coconut aminos, honey, gochujang, minced garlic, and ginger until smooth.",
+    "Heat sesame oil in a skillet over medium heat and add roasted pepper, stirring for 1 minute.",
+    "Pour the sauce mixture into the skillet, add water, and bring to a gentle simmer.",
+    "Add roasted almond slices to the skillet and cook for 3 minutes, allowing the sauce to thicken.",
+    "Sprinkle sliced green onions and toasted sesame seeds over the dish.",
+    "Cook for an additional 2 minutes, then remove from heat.",
+    "Serve hot over cauliflower rice or as a side dish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jorim",
+    "korean",
+    "nutty",
+    "paleo-friendly",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 663,
+    "protein": 14,
+    "carbs": 35,
+    "fat": 39
+  },
+  "slug": "piquant-nutty-korean-pepper-jorim",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-nutty-korean-pepper-jorim",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:58:21Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "roasted pepper",
+    "diet": "paleo",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pepper",
+    "descriptor": "Piquant Nutty",
+    "dishForm": "Jorim"
+  }
+}
