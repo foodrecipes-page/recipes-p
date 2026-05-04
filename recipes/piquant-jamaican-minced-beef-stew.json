@@ -1,0 +1,114 @@
+{
+  "title": "Piquant Jamaican Minced Beef Stew",
+  "description": "A briny, glassy‑jelly lazy‑Sunday Jamaican stew that infuses coconut oil with spices, delivering a whole30‑friendly comfort dish.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "80% lean"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pot over medium heat.",
+    "Add ginger and garlic, sauté until fragrant.",
+    "Add onion and red bell pepper, cook until softened.",
+    "Stir in ground beef, breaking it apart, and cook until browned.",
+    "Sprinkle allspice and thyme, stirring to coat the meat.",
+    "Mix in tomato paste and coconut aminos, cook for 2 minutes.",
+    "Pour in beef broth and bring to a simmer.",
+    "Reduce heat, cover, and simmer for 30 minutes.",
+    "Stir in lime juice and adjust seasoning with salt if needed.",
+    "Remove from heat, let rest 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "jamaican",
+    "lazy-sunday",
+    "minced-beef",
+    "one-pot",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "piquant-jamaican-minced-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-jamaican-minced-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:29:38Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "infuse-oil",
+    "primaryIngredient": "minced beef",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "minced beef",
+    "descriptor": "Piquant",
+    "dishForm": "Stew"
+  }
+}

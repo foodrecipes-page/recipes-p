@@ -4201,6 +4201,21 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-jamaican-minced-beef-stew",
+    "title": "Piquant Jamaican Minced Beef Stew",
+    "tags": [
+      "comfort-food",
+      "jamaican",
+      "lazy-sunday",
+      "minced-beef",
+      "one-pot",
+      "whole30-friendly"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-korean-fish-jjigae",
     "title": "Piquant Korean Fish Jjigae",
     "tags": [
