@@ -1,0 +1,100 @@
+{
+  "title": "Piquant Umami Greek Lamb Keftedes",
+  "description": "A crowd-pleasing Greek dish featuring lamb keftedes with a blend of umami flavors and a hint of biryani masala, served in a donabe vessel.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground lamb",
+      "amount": "1 pound",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "Biryani masala",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ferment-jang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Gluten-free breadcrumbs",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the ground lamb, biryani masala, ferment-jang, onion, garlic, parsley, lemon zest, salt, and black pepper.",
+    "Mix the ingredients together with your hands or a wooden spoon until just combined.",
+    "Gradually add the gluten-free breadcrumbs and mix until the mixture is cohesive but not overmixed.",
+    "Use your hands to shape the mixture into small keftedes, about 1 1/2 inches in diameter.",
+    "Place the keftedes in a single layer in a donabe vessel or a large baking dish.",
+    "Drizzle the keftedes with a little bit of oil and gently roll them to coat evenly.",
+    "Bake the keftedes in the preheated oven for 18-20 minutes, or until cooked through and lightly browned on the outside.",
+    "Remove the keftedes from the oven and let them rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleasers",
+    "donabe-recipes",
+    "gluten-free",
+    "greek-cuisine",
+    "lamb-recipes",
+    "umami-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "piquant-umami-greek-lamb-keftedes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-umami-greek-lamb-keftedes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:31:16Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "ferment-jang",
+    "primaryIngredient": "biryani masala",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Piquant Umami",
+    "dishForm": "Keftedes"
+  }
+}
