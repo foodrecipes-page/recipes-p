@@ -1,0 +1,90 @@
+{
+  "title": "post-workout shattering kenyan jerusalem artichokes gratin",
+  "description": "a flavorful and refreshing post-workout dish from kenya that shatters the expectations of traditional artichoke recipes",
+  "cuisine": "kenyan",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "jerusalem artichokes",
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "crusty and slightly sweet"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400°f (200°c).",
+    "in a large bowl, toss the jerusalem artichokes with 1 tablespoon of the softened butter, garlic, salt, and pepper until they are evenly coated.",
+    "transfer the artichokes to a baking dish and set it aside.",
+    "in a separate bowl, mix the chopped cilantro, lemon juice, and remaining 1 tablespoon of butter until well combined."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "post-workout-shattering-kenyan-jerusalem-artichokes-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/post-workout-shattering-kenyan-jerusalem-artichokes-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:57Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Jerusalem Artichokes",
+    "descriptor": "Post-workout Shattering",
+    "dishForm": "Gratin"
+  }
+}

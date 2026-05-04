@@ -1,0 +1,118 @@
+{
+  "title": "peppery crispy algerian udon noodles",
+  "description": "a flavorful and crunchy kid-friendly dish from algeria featuring udon noodles and a variety of spices. serve with a side of steamed vegetables for a well-rounded meal.",
+  "cuisine": "algerian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "bhuna spice blend",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium-high heat.",
+    "add the onion and cook until translucent, about 3 minutes.",
+    "add the garlic and cook for 1 minute, until fragrant.",
+    "add the ground cumin, ground coriander, ground black pepper, and red pepper flakes. cook for 1 minute, until the spices are fragrant.",
+    "add the udon noodles and chicken broth to the skillet. cook, stirring occasionally, until the noodles are slightly undercooked, about 3-4 minutes.",
+    "add the crushed red pepper and stir to combine.",
+    "cook the noodles until they are al dente, about 2-3 minutes more.",
+    "remove the skillet from the heat and stir in the chopped parsley and bhuna spice blend.",
+    "season with salt to taste.",
+    "serve the peppery crispy algerian udon noodles hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "easy-to-make",
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "peppery-crispy-algerian-udon-noodles-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crispy-algerian-udon-noodles-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:40Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "bhuna",
+    "primaryIngredient": "udon noodles",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Udon noodles",
+    "descriptor": "Peppery crispy",
+    "dishForm": "Noodles"
+  }
+}

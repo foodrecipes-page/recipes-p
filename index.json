@@ -1100,6 +1100,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-crispy-algerian-udon-noodles-noodles",
+    "title": "peppery crispy algerian udon noodles",
+    "tags": [
+      "algerian",
+      "easy-to-make",
+      "high-protein",
+      "kid-friendly",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crispy-algerian-yautia-bowl",
     "title": "Peppery Crispy Algerian Yautia Bowl",
     "tags": [
@@ -1157,6 +1172,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-crispy-croatian-rice-flour-bake",
+    "title": "Peppery Croatian Rice-Flour Bake",
+    "tags": [
+      "breakfast",
+      "croatian",
+      "hangover-cure",
+      "one-pan",
+      "savory",
+      "weeknight"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -5568,6 +5598,19 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
+    "slug": "post-workout-shattering-kenyan-jerusalem-artichokes-gratin",
+    "title": "post-workout shattering kenyan jerusalem artichokes gratin",
+    "tags": [
+      "high-fiber",
+      "one-pan",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 55,
     "shard": "p"
   },
   {

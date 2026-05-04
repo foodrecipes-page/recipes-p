@@ -1,0 +1,108 @@
+{
+  "title": "Peppery Croatian Rice-Flour Bake",
+  "description": "A crispy, savory dish from Croatia to cure hangovers. It's dairy-free friendly and made in a traditional kazan cauldron.",
+  "cuisine": "croatian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rice flour chapssalgaru",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "2 teaspoons",
+      "notes": "Freshly ground."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Feta cheese (optional)",
+      "amount": "",
+      "notes": "Dairy is optional here."
+    },
+    {
+      "name": "Sour cream (optional)",
+      "amount": "",
+      "notes": "Dairy is optional here."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Sweet paprika."
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large kazan over medium-high heat.",
+    "Add the minced garlic and sauté until fragrant, about 1 minute.",
+    "Add the rice flour chapssalgaru and cook for 2 minutes, stirring constantly.",
+    "Add the water and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and cover the kazan with a lid.",
+    "Cook for 15 minutes, or until the mixture is dry and the rice is cooked.",
+    "Stir in the black pepper, salt, and sweet paprika.",
+    "Transfer the mixture to a serving dish and top with chopped fresh parsley.",
+    "If using, crumble the feta cheese and dollop the sour cream on top.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "croatian",
+    "hangover-cure",
+    "one-pan",
+    "savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "peppery-crispy-croatian-rice-flour-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crispy-croatian-rice-flour-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:00Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "saute",
+    "primaryIngredient": "sweet-rice-flour-chapssalgaru",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "rice-flour",
+    "descriptor": "peppery, crispy",
+    "dishForm": "Bake"
+  }
+}
