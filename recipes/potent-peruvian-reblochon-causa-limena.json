@@ -1,0 +1,101 @@
+{
+  "title": "Potent Peruvian Reblochon Causa Limena",
+  "description": "A cultured and creamy one-pot Peruvian dish featuring reblochon, this causa limena is a unique and delicious meal, made in a fondue pot for a fun and interactive experience.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Reblochon cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Yellow potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Aji amarillo peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the fondue pot to 375 degrees Fahrenheit.",
+    "Add the olive oil to the fondue pot and saute the diced onion until translucent.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the diced aji amarillo peppers and cook for 2 minutes, until tender.",
+    "Add the diced yellow potatoes to the fondue pot and cook for 10 minutes, until they start to break down.",
+    "Stir in the crumbly reblochon cheese until melted and well combined.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the causa limena to a serving dish and garnish with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "causa-limena",
+    "fondue-pot",
+    "gluten-free",
+    "one-pot",
+    "peruvian-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "potent-peruvian-reblochon-causa-limena",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/potent-peruvian-reblochon-causa-limena",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:09:29Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "saute",
+    "primaryIngredient": "reblochon",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Reblochon",
+    "descriptor": "Potent Creamy",
+    "dishForm": "Causa Limena"
+  }
+}
