@@ -1,0 +1,107 @@
+{
+  "title": "Piquant Flaky Argentinian Naan Flatbread",
+  "description": "Citrusy and flaky, this post-workout flatbread blends Argentinian flavors with whole30-friendly ingredients for a quick, satisfying meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "200g"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and line a baking sheet with parchment.",
+    "Whisk almond flour, baking soda, salt, smoked paprika, cumin and cayenne pepper in a bowl.",
+    "Add warm water, olive oil, lemon zest and lemon juice and stir until dough forms.",
+    "Knead dough on a floured surface until smooth, about 2 minutes.",
+    "Divide dough into 4 equal portions and roll each into a 6-inch circle.",
+    "Brush each flatbread lightly with olive oil and sprinkle parsley and cilantro on top.",
+    "Bake on the prepared sheet for 12 minutes until golden and flaky.",
+    "Remove from oven and let cool for 3 minutes.",
+    "Slice into squares and serve warm with your choice of protein."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "flaky",
+    "low-carb",
+    "post-workout",
+    "vegan",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 7,
+    "carbs": 12,
+    "fat": 12
+  },
+  "slug": "piquant-flaky-argentinian-naan-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-flaky-argentinian-naan-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:00:02Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "salt-bake",
+    "primaryIngredient": "naan bread",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "naan",
+    "descriptor": "Piquant Flaky",
+    "dishForm": "Flatbread"
+  }
+}
