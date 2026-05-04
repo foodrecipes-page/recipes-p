@@ -1,0 +1,101 @@
+{
+  "title": "Purely Roasted Peruvian Pineapple Tiradito",
+  "description": "A roasted and tender Peruvian dish featuring pineapple and tempering chocolate, low in sodium and served as a tiradito. This dish is a comforting and unique dessert option.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pineapple",
+      "amount": "1 cup",
+      "notes": "fresh, diced"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "1/2 cup",
+      "notes": "tempering, low-sodium"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 teaspoon",
+      "notes": "pure"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut milk, lime juice, ginger, cinnamon, and salt.",
+    "Add the diced pineapple to the bowl and toss to coat with the coconut milk mixture.",
+    "Spread the pineapple mixture on a baking sheet lined with parchment paper.",
+    "Roast the pineapple in the preheated oven for 20 minutes, or until tender and lightly caramelized.",
+    "Melt the dark chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Temper the melted chocolate by cooling it to around 82 degrees Fahrenheit.",
+    "To assemble the tiradito, place a portion of the roasted pineapple on a plate and drizzle with the tempered chocolate.",
+    "Sprinkle a pinch of cinnamon and a few drops of vanilla extract over the top of the pineapple and chocolate.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "gluten-free",
+    "low-sodium",
+    "peruvian-cuisine",
+    "roasted-fruit",
+    "tempering-chocolate"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "purely-roasted-peruvian-pineapple-tiradito",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-roasted-peruvian-pineapple-tiradito",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:41:05Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "pineapple",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "pineapple",
+    "descriptor": "Purely Roasted",
+    "dishForm": "Tiradito"
+  }
+}
