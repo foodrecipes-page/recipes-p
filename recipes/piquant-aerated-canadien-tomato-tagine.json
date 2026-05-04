@@ -1,0 +1,112 @@
+{
+  "title": "Piquant Aerated Canadien Tomato Tagine",
+  "description": "A refreshing and light Canadian dish featuring aerated tomatoes in a confit sauce, perfect for a monsoon evening. This recipe is low in calories and features canola oil for a healthier twist.",
+  "cuisine": "Canadian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canola oil",
+      "amount": "3 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Diced fresh tomatoes",
+      "amount": "1 pint",
+      "notes": "canned or fresh, but avoid cherry tomatoes."
+    },
+    {
+      "name": "Confited tomato puree",
+      "amount": "1 can",
+      "notes": "homemade or store-bought, preferably without added salt."
+    },
+    {
+      "name": "Fennel seeds",
+      "amount": "1 tsp",
+      "notes": "adjust according to your taste."
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": "adjust according to your taste."
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1 cup",
+      "notes": "optional garnish."
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp",
+      "notes:": "",
+      "1 tsp of sugar or honey can be added as a sweetener.": "},{"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional, for some heat."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the canola oil in a large saucepan over medium heat.",
+    "Add the diced fresh tomatoes and cook until they start to release their juices, about 5 minutes.",
+    "Add the confited tomato puree, fennel seeds, cumin, red pepper flakes, salt, and pepper. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, stirring occasionally.",
+    "While the sauce simmers, prepare an ice bath by filling a large bowl with ice and water.",
+    "Strain the sauce through a fine-mesh sieve into the ice bath, and let it cool to room temperature.",
+    "Once the sauce has cooled, use a hand blender or a regular blender to puree it until smooth.",
+    "Return the sauce to the saucepan and reheat it over low heat, stirring occasionally, until it's warm and bubbly.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the Piquant Aerated Canadien Tomato Tagine over cooked basmati rice or with some crusty bread, garnished with chopped fresh parsley if desired.",
+    "Garnish with edible flowers or microgreens if you like a pop of color.",
+    "Let the tagine sit at room temperature for at least 30 minutes before refrigerating or freezing it for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated-tomato",
+    "canadian",
+    "canola-oil",
+    "low-calorie",
+    "monsoon",
+    "tomato-tagine",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "piquant-aerated-canadien-tomato-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-aerated-canadien-tomato-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:09:31Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "confit-tomato",
+    "primaryIngredient": "canola oil",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Canadien",
+    "mainIngredient": "Tomato",
+    "descriptor": "Piquant Aerated",
+    "dishForm": "Tagine"
+  }
+}
