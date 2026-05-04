@@ -1,0 +1,123 @@
+{
+  "title": "Pillowy Moroccan Lamb Tagine Bowl",
+  "description": "A fresh, pillowy Moroccan dish featuring English mustard, an en-croute pastry top, and no refined sugar.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless and fat-trimmed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "2 teaspoons",
+      "notes": "preferably freshly toasted and ground"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 teaspoon",
+      "notes": "preferably freshly toasted and ground"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "English mustard",
+      "amount": "2 teaspoons",
+      "notes": "preferably whole-grain mustard"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "preferably flaky sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "preferably freshly ground"
+    },
+    {
+      "name": "Flour",
+      "amount": "2 cups",
+      "notes": "preferably whole-grain"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for the pastry"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Rinse the lamb shoulder and pat it dry with paper towels. Season it with salt, black pepper, cumin, coriander, and smoked paprika.",
+    "In a large Dutch oven, heat the olive oil over medium heat. Sear the lamb shoulder until browned on all sides, about 5 minutes per side.",
+    "Remove the lamb from the pot and set it aside. Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the pot and cook for another minute.",
+    "Return the lamb shoulder to the pot and add enough chicken broth to cover it. Bring the mixture to a simmer.",
+    "Cover the pot with a lid and transfer it to the preheated oven. Braise the lamb for 2 1/2 to 3 hours, or until tender and easily shredded with a fork.",
+    "While the lamb is cooking, make the pastry. In a bowl, whisk together the flour and salt.",
+    "Gradually add the water to the bowl and mix until a dough forms. Turn the dough out onto a floured surface and knead for 5-7 minutes, until smooth and elastic.",
+    "Wrap the dough in plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough in half and roll out each half into a thin sheet. Place the sheet over the pot, trimming any excess dough from the edges.",
+    "Cut a few slits in the top of the pastry to allow steam to escape and brush the pastry with a little water."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lamb",
+    "moroccan",
+    "one-pan",
+    "pastry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "pillowy-moroccan-lamb-tagine-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-moroccan-lamb-tagine-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:35:07Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "en-croute",
+    "primaryIngredient": "english mustard",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Lamb",
+    "descriptor": "Pillowy, Fragrant",
+    "dishForm": "Tagine"
+  }
+}
