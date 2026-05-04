@@ -1,0 +1,98 @@
+{
+  "title": "Piquant Chewy German Beef Tagine",
+  "description": "A mustardy, orange-infused beef tagine that feels like a nostalgic German comfort dish, yet simmered in a tagine pot for a chewy, savory bite.",
+  "cuisine": "German",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "1 lb",
+      "notes": "cubed"
+    },
+    {
+      "name": "yellow mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh orange",
+      "amount": "1 medium",
+      "notes": "juiced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": ".5 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the slate tile over medium heat until hot.",
+    "Add the cubed beef to the stone, searing each side until browned, about 3 minutes per side.",
+    "Sprinkle the mustard over the beef, rubbing it in until coated.",
+    "Stir in minced garlic, oregano, and rosemary, cooking for 1 minute until fragrant.",
+    "Pour in the orange juice and beef broth, bringing the mixture to a gentle simmer.",
+    "Cover the tile with a lid or foil, reduce heat to low, and let the tagine cook for 60 minutes, stirring occasionally.",
+    "After cooking, check the beef tenderness; if not chewy enough, cook an extra 15 minutes.",
+    "Season with salt and pepper, serve hot directly from the slate tile."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "comfort-food",
+    "german",
+    "mustard-ginger",
+    "paleo",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 23,
+    "carbs": 4,
+    "fat": 13
+  },
+  "slug": "piquant-chewy-german-beef-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-chewy-german-beef-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:35:34Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "tagine-cook",
+    "primaryIngredient": "orange juice",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Beef",
+    "descriptor": "Piquant Chewy",
+    "dishForm": "Tagine"
+  }
+}
