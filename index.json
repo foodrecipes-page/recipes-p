@@ -3935,6 +3935,21 @@
     "shard": "p"
   },
   {
+    "slug": "plump-british-potato-pudding",
+    "title": "Plump British Potato Pudding",
+    "tags": [
+      "british",
+      "chewy",
+      "comfort-food",
+      "flexitarian",
+      "malt",
+      "pressure-cooker"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "plumpride-tomateux",
     "title": "PlumPride Tomateux",
     "tags": [
