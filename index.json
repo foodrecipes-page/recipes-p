@@ -3989,6 +3989,22 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-smoky-greek-feta-tiropita",
+    "title": "Piquant Smoky Greek Feta Tiropita",
+    "tags": [
+      "filo-dough",
+      "greek-food",
+      "jain-friendly",
+      "smoky",
+      "snack-time",
+      "spicy",
+      "vegetarian"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-spicy-norteno-chicken-torta-de-jugo",
     "title": "piquant spicy norteño chicken torta de jugo",
     "tags": [

@@ -1,0 +1,97 @@
+{
+  "title": "Piquant Smoky Greek Feta Tiropita",
+  "description": "A spicy and creamy Greek dish featuring oat milk and smoked feta, perfect for a show-stopping snack or appetizer, and is Jain-friendly as it contains no animal products except feta which can be substituted with a Jain alternative",
+  "cuisine": "Greek",
+  "diet": [
+    "Jain",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "oat milk",
+      "amount": "1 cup",
+      "notes": "plain, unflavored"
+    },
+    {
+      "name": "smoked feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly, can be substituted with Jain alternative"
+    },
+    {
+      "name": "filo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the oat milk, smoked feta cheese, red pepper flakes, salt, and black pepper until well combined.",
+    "Unroll the filo dough and cut it into 4 equal pieces.",
+    "Brush each piece of filo dough with olive oil and spoon the feta mixture onto one end of each piece, leaving a 1-inch border around the edges.",
+    "Fold the filo dough over the filling to form a triangle and press the edges together to seal.",
+    "Place the tiropita on a baking sheet lined with parchment paper and brush the tops with olive oil.",
+    "Bake the tiropita for 25-30 minutes, or until golden brown.",
+    "Remove the tiropita from the oven and sprinkle with chopped parsley.",
+    "Serve the tiropita warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filo-dough",
+    "greek-food",
+    "jain-friendly",
+    "smoky",
+    "snack-time",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "piquant-smoky-greek-feta-tiropita",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-smoky-greek-feta-tiropita",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:51:48Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "smoke",
+    "primaryIngredient": "oat milk",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "feta",
+    "descriptor": "Piquant Smoky",
+    "dishForm": "Tiropita"
+  }
+}
