@@ -1,0 +1,112 @@
+{
+  "title": "Piquant Egyptian Sirloin Wrap",
+  "description": "A jammy, flaky, date-night Egyptian dish featuring sirloin steak, stone-bowl-dolsot, and a lotus-leaf wrap, fodmap-friendly and bursting with spice.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "200 g"
+    },
+    {
+      "name": "flat jasmine rice",
+      "amount": "50 g"
+    },
+    {
+      "name": "lotus leaf",
+      "amount": "4 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "1 tbsp",
+      "notes": "FODMAP-friendly sauce base"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "minced ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Season the sirloin steak with salt, pepper, cumin, coriander, smoked paprika and a drizzle of olive oil.",
+    "Heat a stone-bowl-dolsot over medium-high heat until shimmering.",
+    "Sear the steak for 2-3 minutes per side until browned, then remove and let rest.",
+    "In the same dolsot, sauté jasmine rice with a splash of garlic-infused oil until lightly toasted.",
+    "Stir in the low-sodium soy sauce, lemon juice and minced ginger, cooking until the rice is fragrant.",
+    "Slice the rested steak into thin strips and scatter them over the rice in the dolsot.",
+    "Warm lotus leaves over a low flame until pliable, then spoon the rice-stone mix onto each leaf.",
+    "Fold the lotus leaves into wraps and serve immediately with a side of fresh cucumber slices."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "egyptian",
+    "flaky",
+    "jammy",
+    "low-fodmap",
+    "steak-wrap",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 45,
+    "carbs": 42,
+    "fat": 25
+  },
+  "slug": "piquant-egyptian-sirloin-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-egyptian-sirloin-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:26:31Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "sirloin steak",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "sirloin steak",
+    "descriptor": "Piquant",
+    "dishForm": "Wrap"
+  }
+}

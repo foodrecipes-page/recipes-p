@@ -3529,6 +3529,22 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-egyptian-sirloin-wrap",
+    "title": "Piquant Egyptian Sirloin Wrap",
+    "tags": [
+      "date-night",
+      "egyptian",
+      "flaky",
+      "jammy",
+      "low-fodmap",
+      "steak-wrap",
+      "stone-bowl"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-ethiopian-tofu-bake",
     "title": "Piquant Ethiopian Tofu Bake",
     "tags": [
