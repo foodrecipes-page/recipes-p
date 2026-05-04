@@ -3708,6 +3708,20 @@
     "shard": "p"
   },
   {
+    "slug": "perfectly-crisp-spanish-andouille-paella",
+    "title": "Perfectly Crisp Spanish Andouille Paella",
+    "tags": [
+      "andouille-sausage",
+      "crispy-rice",
+      "one-pan",
+      "spanish-cuisine",
+      "sunday-dinner"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 60,
+    "shard": "p"
+  },
+  {
     "slug": "perfectly-roasted-mediterranean-lamb-roast",
     "title": "Perfectly Roasted Mediterranean Lamb Roast",
     "tags": [

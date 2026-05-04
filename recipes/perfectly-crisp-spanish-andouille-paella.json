@@ -1,0 +1,97 @@
+{
+  "title": "Perfectly Crisp Spanish Andouille Paella",
+  "description": "A citrusy and crisp Spanish dish featuring Andouille sausage, perfect for a lazy Sunday, this paella is satvik-friendly and baked to perfection with a salt crust.",
+  "cuisine": "Spanish",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Andouille sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "uncooked Arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Add the sliced Andouille sausage and cook until browned, about 5 minutes.",
+    "Add the smoked paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the Arborio rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the chicken broth, lemon juice, and browned sausage, and bring to a boil.",
+    "Cover the skillet with foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the rice is crispy and golden brown.",
+    "Remove from the oven and sprinkle with chopped parsley.",
+    "Let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "andouille-sausage",
+    "crispy-rice",
+    "one-pan",
+    "spanish-cuisine",
+    "sunday-dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "perfectly-crisp-spanish-andouille-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/perfectly-crisp-spanish-andouille-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:26:27Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "salt-bake",
+    "primaryIngredient": "andouille-french",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "andouille",
+    "descriptor": "Perfectly Crisp",
+    "dishForm": "Paella"
+  }
+}
