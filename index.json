@@ -381,6 +381,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-american-falafel-wrap",
+    "title": "Peppery American Falafel Wrap",
+    "tags": [
+      "easy-lunch",
+      "healthy-snack",
+      "middle-eastern-inspiration",
+      "vegan-option",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 23,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-argentinian-coconut-stir-fry",
     "title": "Peppery Argentinian Coconut Stir-fry",
     "tags": [

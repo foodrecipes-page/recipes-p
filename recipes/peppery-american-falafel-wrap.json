@@ -1,0 +1,119 @@
+{
+  "title": "Peppery American Falafel Wrap",
+  "description": "Dense and flavorful falafel wrapped in a crispy flour tortilla with peppery greens and rich hummus.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "flaky"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "flour tortilla",
+      "amount": "1 large",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "peppery greens",
+      "amount": "1 cup",
+      "notes": "arugula or watercress"
+    },
+    {
+      "name": "hummus",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a food processor, combine chickpeas, onion, garlic, cumin, smoked paprika, salt, and black pepper.",
+    "Process until the mixture is coarsely chopped and well combined.",
+    "Using your hands, shape the mixture into small patties.",
+    "Brush the patties with a little oil and grill for 4-5 minutes on each side, or until golden brown and crispy.",
+    "Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spreading hummus on the tortilla, followed by a cooked falafel patty, peppery greens, cucumber, and tomato.",
+    "Fold the bottom half of the tortilla up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Slice the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-lunch",
+    "healthy-snack",
+    "middle-eastern-inspiration",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "peppery-american-falafel-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-american-falafel-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:39:10Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "falafel",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "falafel",
+    "descriptor": "peppery",
+    "dishForm": "Wrap"
+  }
+}
