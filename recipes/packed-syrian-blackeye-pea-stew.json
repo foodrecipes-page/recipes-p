@@ -1,0 +1,108 @@
+{
+  "title": "Packed Syrian Blackeye Pea Stew",
+  "description": "An earthy, dense Syrian blackeye pea stew that feels like a hearty brunch, finished with a glossy dairy‑free tahini glaze.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "blackeye peas",
+      "amount": "250g",
+      "notes": "dry, soaked for 8 hours"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mixed diced root vegetables",
+      "amount": "3 cups"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1500 ml",
+      "notes": "includes 1 bay leaf"
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the blackeye peas and soak them for at least 8 hours before cooking.",
+    "In a large pot, heat the olive oil over medium heat, then add the diced root vegetables and sauté until they soften and lightly caramelize.",
+    "Stir in the minced garlic, smoked paprika, cumin, salt, and pepper, cooking for about a minute until fragrant.",
+    "Drain the soaked peas and add them to the pot, then pour in the vegetable broth and bring the mixture to a gentle boil.",
+    "Reduce heat to low, cover, and simmer for 45 minutes or until the peas are tender and the stew thickens.",
+    "While the stew simmers, whisk together the tahini, lemon juice, and maple syrup until smooth to create a lacquer glaze.",
+    "Remove the bay leaf, taste the stew, adjust seasoning if needed, then stir in the glaze until the stew takes on a glossy sheen.",
+    "Serve the stew hot, optionally garnished with chopped parsley, for a comforting, dairy‑free brunch meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "hearty",
+    "mediterranean",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1500,
+    "protein": 30,
+    "carbs": 70,
+    "fat": 43
+  },
+  "slug": "packed-syrian-blackeye-pea-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/packed-syrian-blackeye-pea-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:05:41Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "blackeye pea",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "blackeye peas",
+    "descriptor": "Packed",
+    "dishForm": "Stew"
+  }
+}
