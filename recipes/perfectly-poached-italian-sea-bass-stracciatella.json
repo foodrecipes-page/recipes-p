@@ -1,0 +1,101 @@
+{
+  "title": "Perfectly Poached Italian Sea Bass Stracciatella",
+  "description": "A silky, crowd-pleasing Italian dish featuring sea bass fillets and a mother sauce base, perfect for special occasions.",
+  "cuisine": "Italian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sea bass fillets",
+      "amount": "4",
+      "notes": "Fresh, skin removed, 6 oz each"
+    },
+    {
+      "name": "Stracciatella base",
+      "amount": "2 cups",
+      "notes": "See notes"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1 cup",
+      "notes": "Grated, aged 24 months"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "Extra virgin, cold-pressed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Unrefined, flake"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil, then reduce heat to 145°F (63°C).",
+    "In a separate saucepan, warm the Stracciatella base over low heat, whisking occasionally.",
+    "Place the sea bass fillets in the water bath, poach for 8-10 minutes or until cooked through.",
+    "Remove the fillets from the water, pat dry with a paper towel, and place on a serving platter.",
+    "Strain the Stracciatella base through a fine-mesh sieve into a clean saucepan, pressing on the solids to extract as much liquid as possible, then discard the solids.",
+    "Add the Parmesan cheese to the Stracciatella base, whisking until smooth and melted, then season with salt to taste.",
+    "Drizzle the olive oil over the sea bass fillets, then spoon the Stracciatella sauce over the top.",
+    "Garnish with chopped parsley and a sprinkle of Parmesan cheese, then serve immediately.",
+    "Season with lemon juice to taste, then serve.",
+    "Serve immediately, garnished with lemon wedges and additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fish",
+    "italian",
+    "italian-cuisine",
+    "pasta",
+    "piedmontese",
+    "sea-bass",
+    "seafood",
+    "stracciatella",
+    "white-fish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 51,
+    "carbs": 15,
+    "fat": 30
+  },
+  "slug": "perfectly-poached-italian-sea-bass-stracciatella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/perfectly-poached-italian-sea-bass-stracciatella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:11Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "satvik",
+    "region": "piedmontese",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Sea Bass",
+    "descriptor": "Perfectly Poached",
+    "dishForm": "Stracciatella"
+  }
+}

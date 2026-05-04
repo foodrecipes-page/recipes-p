@@ -1,0 +1,119 @@
+{
+  "title": "pungent turkish figs tagine",
+  "description": "a pungent, pillowy, lazy-sunday turkish dish featuring figs and a rich, savory sauce. this vegetarian tagine is perfect for a buddhist temple-friendly sunday meal, served with fluffy rice or warm pita bread.",
+  "cuisine": "turkish",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "figs, dried",
+      "amount": "1 cup",
+      "notes": "any variety, but preferably sweet or Turkish"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a mild, non-extra virgin oil to avoid overpowering the figs"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "any variety, but preferably sweet or red onion"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "use 2 for the sauce and 2 for the glaze"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "use a mild, sweet variety"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": "use a sweet, warm variety"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "use a mild, sweet variety"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "use a flaky sea salt or kosher salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "use freshly ground, coarse pepper"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed, from 1 medium lemon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "use a mild, pure honey or alternative sweetener"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "use fresh, not dried or frozen"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in the bottom of a large, heavy tagine or Dutch oven over medium heat.",
+    "add the sliced onion and cook, stirring occasionally, until it's softened and lightly caramelized, about 20 minutes.",
+    "add the minced garlic and cook, stirring constantly, for 1-2 minutes, until it's fragrant and lightly toasted.",
+    "add the cumin, coriander, paprika, salt, and black pepper, and cook, stirring constantly, for 1 minute, until the spices are fragrant.",
+    "add the dried figs and cook, stirring occasionally, for 5 minutes, until they're rehydrated and the sauce is syrupy.",
+    "add the lemon juice and honey, and stir to combine.",
+    "transfer the sauce to a blender or food processor and blend until smooth.",
+    "return the sauce to the tagine or Dutch oven and simmer, stirring occasionally, for 10-15 minutes, until it's thickened and reduced slightly.",
+    "taste and adjust the seasoning as needed.",
+    "transfer the tagine to a serving dish and garnish with chopped parsley.",
+    "serve warm or at room temperature, with fluffy rice or warm pita bread."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-fiber",
+    "one-pan",
+    "turkish",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 90,
+    "fat": 14
+  },
+  "slug": "pungent-turkish-figs-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-turkish-figs-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:24Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "figs",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "figs",
+    "descriptor": "pungent",
+    "dishForm": "tagine"
+  }
+}

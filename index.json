@@ -3722,6 +3722,24 @@
     "shard": "p"
   },
   {
+    "slug": "perfectly-poached-italian-sea-bass-stracciatella",
+    "title": "Perfectly Poached Italian Sea Bass Stracciatella",
+    "tags": [
+      "fish",
+      "italian",
+      "italian-cuisine",
+      "pasta",
+      "piedmontese",
+      "sea-bass",
+      "seafood",
+      "stracciatella",
+      "white-fish"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "perfectly-roasted-mediterranean-lamb-roast",
     "title": "Perfectly Roasted Mediterranean Lamb Roast",
     "tags": [
@@ -5841,6 +5859,21 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 150,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-turkish-figs-tagine",
+    "title": "pungent turkish figs tagine",
+    "tags": [
+      "comfort-food",
+      "high-fiber",
+      "one-pan",
+      "turkish",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "turkish",
+    "totalTimeMin": 90,
     "shard": "p"
   },
   {
