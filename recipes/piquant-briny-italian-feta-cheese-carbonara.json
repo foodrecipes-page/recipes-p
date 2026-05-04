@@ -1,0 +1,94 @@
+{
+  "title": "Piquant Briny Italian Feta Cheese Carbonara",
+  "description": "A quick and flavorful Italian dish featuring cubed feta cheese, this carbonara is a satvik-friendly twist on the classic recipe, with a briny and chewy texture from the feta and a savory taste from the steam-cooked ingredients.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "8 oz",
+      "notes": "cubed"
+    },
+    {
+      "name": "spaghetti",
+      "amount": "12 oz"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and add the minced garlic, cooking for 1-2 minutes until fragrant.",
+    "In a large bowl, whisk together the eggs, salt, and black pepper until well combined.",
+    "Add the cubed feta cheese to the bowl with the eggs and stir until the cheese is well coated with the egg mixture.",
+    "Add the cooked spaghetti to the bowl with the egg and feta mixture, tossing to combine.",
+    "Add the cooked garlic and olive oil from the skillet to the bowl with the spaghetti and egg mixture, tossing to combine.",
+    "Stir in the chopped fresh parsley and serve immediately.",
+    "Steam the dish for 2-3 minutes to combine the flavors and heat the ingredients through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "italian-cuisine",
+    "one-pan",
+    "quick-fix",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "piquant-briny-italian-feta-cheese-carbonara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-briny-italian-feta-cheese-carbonara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:36:06Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "steam",
+    "primaryIngredient": "cubed feta cheese",
+    "diet": "satvik",
+    "region": "piedmontese",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "feta cheese",
+    "descriptor": "Piquant Briny",
+    "dishForm": "Carbonara"
+  }
+}
