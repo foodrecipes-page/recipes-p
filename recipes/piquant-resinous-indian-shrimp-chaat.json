@@ -1,0 +1,106 @@
+{
+  "title": "Piquant Resinous Indian Shrimp Chaat",
+  "description": "A dense and resinous Indian dish featuring shrimp, egg rolls, and ferment-kimchi, served in individual mini cocottes.",
+  "cuisine": "Indian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "egg rolls",
+      "amount": "4",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "spicy"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the egg rolls into bite-sized pieces and bake for 10 minutes.",
+    "Heat the peanut oil in a large skillet over medium heat.",
+    "Add the diced onion and grated ginger to the skillet and cook until the onion is translucent.",
+    "Add the shrimp to the skillet and cook until they are pink and fully cooked.",
+    "Stir in the garam masala, salt, and lemon juice.",
+    "Add the ferment-kimchi to the skillet and cook for an additional 2 minutes.",
+    "To assemble the chaat, divide the cooked shrimp mixture among individual mini cocottes.",
+    "Top each cocotte with a piece of baked egg roll and a sprinkle of chopped cilantro.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-foods",
+    "indian-cuisine",
+    "one-pan",
+    "seafood",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "piquant-resinous-indian-shrimp-chaat",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-resinous-indian-shrimp-chaat",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:04:19Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "egg rolls",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Piquant Resinous",
+    "dishForm": "Chaat"
+  }
+}
