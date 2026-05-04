@@ -1,0 +1,67 @@
+{
+  "title": "Peppery Brazilian Hummus Bowl",
+  "description": "A flavorful and nutritious Brazilian-inspired dish featuring a peppery hummus, topped with crispy bacon and crumbled cheese. Perfect for meal prep.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked chickpeas",
+      "amount": "240g",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "garlic",
+      "amount": "1/4 cup",
+      "sliced into thin rounds, crumbled into small pieces, pan-fried until crispy, set aside, drained of excess fat on paper towels.": "",
+      "": "",
+      "notes": "chopped, fresh cilantro leaves"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine chickpeas, chorizo, garlic, and 2 tablespoons of olive oil, blending until smooth and creamy.",
+    "Mash the mixture until it reaches a smooth consistency, adding more olive oil if necessary.",
+    "Transfer the mixture to a bowl and garnish with crumbled cheese, crispy bacon, and a sprinkle of chopped cilantro.",
+    "Serve immediately or store in an airtight container in the refrigerator for up to 5 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "easy-snack",
+    "gluten-free",
+    "hummus",
+    "low-carb",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 26
+  },
+  "slug": "peppery-brazilian-hummus-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-brazilian-hummus-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:32:34Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "render-fat",
+    "primaryIngredient": "hummus",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "hummus",
+    "descriptor": "peppery",
+    "dishForm": "Bowl"
+  }
+}
