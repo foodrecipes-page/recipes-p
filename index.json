@@ -3678,6 +3678,20 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-dutch-chicken-casserole",
+    "title": "Piquant Dutch Chicken Casserole",
+    "tags": [
+      "comfort-food",
+      "dinner",
+      "family-friendly",
+      "one-pot",
+      "quick"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-egyptian-bulgur-flatbread",
     "title": "Piquant Egyptian Bulgur Flatbread",
     "tags": [

@@ -1,0 +1,104 @@
+{
+  "title": "Piquant Dutch Chicken Casserole",
+  "description": "A salty, creamy Dutch-style casserole that poaches tender chicken legs in a quick, nut-free sauce for a comforting dinner.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bone-in, skin-on chicken legs",
+      "amount": "4"
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 F.",
+    "In a Dutch oven, melt butter over medium heat and sauté onions until translucent, about 3 minutes.",
+    "Add garlic, smoked paprika, and thyme, and stir until fragrant, about 30 seconds.",
+    "Sprinkle flour over the mixture, whisk to form a roux, and cook for 1 minute to remove raw flavor.",
+    "Pour in milk and chicken broth, whisk until smooth, then bring to a gentle simmer.",
+    "Season the sauce with salt, pepper, bay leaf, and lemon juice, then add the chicken legs, skin side up.",
+    "Poach the chicken in the sauce for 10 minutes, then transfer the Dutch oven to the preheated oven.",
+    "Bake uncovered for 25 minutes, until the chicken is cooked through and the sauce has thickened.",
+    "Remove the bay leaf, let rest 5 minutes, then serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "dinner",
+    "family-friendly",
+    "one-pot",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 1400,
+    "protein": 143,
+    "carbs": 73,
+    "fat": 69
+  },
+  "slug": "piquant-dutch-chicken-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-dutch-chicken-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:32:24Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "poach",
+    "primaryIngredient": "chicken legs",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "chicken",
+    "descriptor": "Piquant",
+    "dishForm": "Casserole"
+  }
+}
