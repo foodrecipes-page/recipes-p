@@ -1,0 +1,105 @@
+{
+  "title": "Peppery Crisp Peruvian Bean Sprout Bowl",
+  "description": "A bright, peppery bowl of bean sprouts, red pepper, and toasted puffed rice that doubles as a hangover cure and keto-friendly snack.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bean sprouts",
+      "amount": "200 g"
+    },
+    {
+      "name": "red pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tamari",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sriracha",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "puffed rice",
+      "amount": "1 cup",
+      "notes": "toasted for crispness"
+    },
+    {
+      "name": "cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse bean sprouts under cold water and drain thoroughly.",
+    "Slice red pepper into thin strips.",
+    "Mince garlic cloves finely.",
+    "Heat olive oil in a skillet over medium-high heat.",
+    "Add garlic and cook until fragrant, about 30 seconds.",
+    "Toss in pepper strips and stir-fry for 2 minutes.",
+    "Add bean sprouts, tamari, and sriracha; cook until sprouts are tender-crisp, 3 minutes.",
+    "Drizzle lime juice, then remove from heat.",
+    "Stir in puffed rice and sprinkle with sesame seeds and cilantro.",
+    "Serve hot, optionally drizzle extra lime and hot sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "hangover-cure",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "peruvian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 22,
+    "carbs": 18,
+    "fat": 20
+  },
+  "slug": "peppery-crisp-peruvian-bean-sprout-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crisp-peruvian-bean-sprout-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:29:44Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "lamination-puff",
+    "primaryIngredient": "bean sprouts",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "bean sprouts",
+    "descriptor": "Peppery Crisp",
+    "dishForm": "Bowl"
+  }
+}

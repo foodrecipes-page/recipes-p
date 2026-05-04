@@ -779,6 +779,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-crisp-peruvian-bean-sprout-bowl",
+    "title": "Peppery Crisp Peruvian Bean Sprout Bowl",
+    "tags": [
+      "hangover-cure",
+      "keto-friendly",
+      "low-carb",
+      "one-pan",
+      "peruvian",
+      "quick"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 18,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-crisp-russian-melon-soup",
     "title": "Peppery Crisp Russian Melon Soup",
     "tags": [
@@ -3918,6 +3933,20 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 60,
+    "shard": "p"
+  },
+  {
+    "slug": "piquant-molten-norwegian-trout-roast",
+    "title": "Piquant Molten Norwegian Trout Roast",
+    "tags": [
+      "herb-crust",
+      "one-pan",
+      "sattvic",
+      "trout",
+      "white-wine"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {

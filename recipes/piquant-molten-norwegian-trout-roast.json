@@ -1,0 +1,94 @@
+{
+  "title": "Piquant Molten Norwegian Trout Roast",
+  "description": "A fragrant Norwegian trout roast with a molten center, brushed with a honey-lemon butter glaze and aromatic dill.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Trout fillet (skin on)",
+      "amount": "400g"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "30g"
+    },
+    {
+      "name": "Fresh dill, chopped",
+      "amount": "8g"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "White wine",
+      "amount": "30ml"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Cooking spray",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F) and line a baking sheet with parchment paper.",
+    "Pat the trout fillets dry, then rub each side with sea salt, black pepper, and a sprinkle of chopped fresh dill.",
+    "In a small saucepan, melt the butter over low heat and stir in the lemon juice, white wine, and honey until glossy.",
+    "Brush the butter mixture over each trout fillet, making sure the center is lightly coated.",
+    "Arrange the fillets on the prepared sheet, skin side down, and place in the preheated oven for 10 minutes.",
+    "After 10 minutes, flip the fillets and brush again, then roast for an additional 5 minutes until the edges are golden and the center is just starting to set.",
+    "Remove the trout from the oven and let it rest for 2 minutes so the molten center retains its texture.",
+    "Garnish with extra dill and a splash of lemon juice before serving on a warm plate.",
+    "Pair with a side of lightly sautéed spinach and a drizzle of extra butter if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "herb-crust",
+    "one-pan",
+    "sattvic",
+    "trout",
+    "white-wine"
+  ],
+  "nutrition": {
+    "calories": 670,
+    "protein": 50,
+    "carbs": 7,
+    "fat": 44
+  },
+  "slug": "piquant-molten-norwegian-trout-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-molten-norwegian-trout-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:29:34Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "rest-meat",
+    "primaryIngredient": "trout",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Trout",
+    "descriptor": "Piquant Molten",
+    "dishForm": "Roast"
+  }
+}
