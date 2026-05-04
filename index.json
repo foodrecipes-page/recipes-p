@@ -4171,6 +4171,20 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-vietnamese-long-beans-canh-chua",
+    "title": "Piquant Vietnamese Long Beans Canh Chua",
+    "tags": [
+      "asian-soup",
+      "canh-chua",
+      "one-pot",
+      "quick",
+      "vegetarian"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-welsh-collards-skillet",
     "title": "Piquant Welsh Collards Skillet",
     "tags": [

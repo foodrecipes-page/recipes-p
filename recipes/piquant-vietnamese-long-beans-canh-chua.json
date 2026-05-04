@@ -1,0 +1,108 @@
+{
+  "title": "Piquant Vietnamese Long Beans Canh Chua",
+  "description": "A savory, springy, romantic Vietnamese soup featuring Chinese long beans and a fragrant soffritto base, simmered to perfect tang and served in a slate tile pot.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese long beans",
+      "amount": "200g"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "minced ginger",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh herbs",
+      "amount": "2 tbsp",
+      "notes": "chopped cilantro and green onions"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a slate tile pot over medium heat until shimmering.",
+    "Add minced ginger and garlic and sauté until fragrant, about 30 seconds.",
+    "Add diced onion, carrot, and celery and cook until softened, about 5 minutes.",
+    "Stir in tamarind paste, fish sauce, and sugar, then pour in 4 cups of vegetable broth and bring to a gentle boil.",
+    "Add trimmed Chinese long beans and simmer until tender, about 5 minutes.",
+    "Stir in lime juice, adjust seasoning with salt if needed, and add diced tomato, cooking for an additional 2 minutes.",
+    "Remove from heat, ladle soup into bowls, and garnish with fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-soup",
+    "canh-chua",
+    "one-pot",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 9,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "piquant-vietnamese-long-beans-canh-chua",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-vietnamese-long-beans-canh-chua",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:21:08Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "soffritto-base",
+    "primaryIngredient": "chinese long beans",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Long Beans",
+    "descriptor": "Piquant",
+    "dishForm": "Canh Chua"
+  }
+}
