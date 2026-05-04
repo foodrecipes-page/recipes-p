@@ -1,0 +1,104 @@
+{
+  "title": "Piquant Peruvian Peruvian Lamb Seco de Cordero",
+  "description": "A quick-fix, savory dish from Peru featuring tender lamb and a rich marzipan broth. This vegan-friendly twist on the classic Seco de Cordero is a must-try for adventurous foodies.",
+  "cuisine": "peruvian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 lb",
+      "notes": "boneless, 1-inch pieces"
+    },
+    {
+      "name": "rendered fat",
+      "amount": "2 tbsp",
+      "notes": "lamb or beef"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ají amarillo peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "marzipan",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the rendered fat in a large Dutch oven over medium-high heat.",
+    "Add the lamb shoulder and cook until browned, about 5 minutes.",
+    "Add the onion, garlic, and ají amarillo peppers to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the quinoa to the pot and stir to combine.",
+    "Pour in enough water to cover the lamb and quinoa, and bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 20 minutes, or until the lamb is tender.",
+    "Stir in the chopped marzipan and season with salt to taste.",
+    "Serve the Seco de Cordero hot, garnished with chopped fresh cilantro if desired.",
+    "Note: This recipe is a vegan-friendly twist on the classic Seco de Cordero, so be sure to use vegan-friendly ingredients and adjust the seasoning accordingly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "one-pan",
+    "peruvian",
+    "quick-fix",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "piquant-peruvian-peruvian-lamb-seco-de-cordero",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-peruvian-peruvian-lamb-seco-de-cordero",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:26:57Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "render-fat",
+    "primaryIngredient": "marzipan",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "lamb",
+    "descriptor": "Piquant Peruvian",
+    "dishForm": "Seco de Cordero"
+  }
+}

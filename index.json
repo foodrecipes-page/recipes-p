@@ -4585,6 +4585,20 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-peruvian-peruvian-lamb-seco-de-cordero",
+    "title": "Piquant Peruvian Peruvian Lamb Seco de Cordero",
+    "tags": [
+      "lamb",
+      "one-pan",
+      "peruvian",
+      "quick-fix",
+      "vegan"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-peruvian-pollo-a-la-brasa",
     "title": "Piquant Peruvian Pollo a la Brasa",
     "tags": [
@@ -5730,6 +5744,21 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-dense-jamaican-medjool-dates-tagine",
+    "title": "pungent dense jamaican medjool dates tagine",
+    "tags": [
+      "candy-canes",
+      "high-carb",
+      "jamaican",
+      "medjool-dates",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {

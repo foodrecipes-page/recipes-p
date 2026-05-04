@@ -1,0 +1,106 @@
+{
+  "title": "pungent dense jamaican medjool dates tagine",
+  "description": "a rich and dense jamaican-inspired dish featuring medjool dates as the star ingredient, perfect for meal prep.",
+  "cuisine": "jamaican",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "medjool dates",
+      "amount": "12",
+      "notes": "pitted"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "crushed candy canes",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a large saucepan, heat the coconut oil over medium heat.",
+    "add the grated ginger and cook for 1 minute, until fragrant.",
+    "add the almonds and cook for an additional 2 minutes, until lightly toasted.",
+    "add the pitted medjool dates, allspice, cinnamon, and nutmeg. stir to combine.",
+    "cook for 5 minutes, until the dates are tender.",
+    "stir in the maple syrup, soy sauce, and crushed candy canes.",
+    "reduce heat to low and simmer for 10 minutes, stirring occasionally.",
+    "serve warm, garnished with additional crushed candy canes if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "candy-canes",
+    "high-carb",
+    "jamaican",
+    "medjool-dates",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 4,
+    "carbs": 90,
+    "fat": 20
+  },
+  "slug": "pungent-dense-jamaican-medjool-dates-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-dense-jamaican-medjool-dates-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:27:05Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "candy",
+    "primaryIngredient": "medjool dates",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "medjool dates",
+    "descriptor": "pungent dense",
+    "dishForm": "Tagine"
+  }
+}
