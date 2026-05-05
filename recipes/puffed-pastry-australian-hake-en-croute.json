@@ -1,0 +1,113 @@
+{
+  "title": "Puffed Pastry Australian Hake En-Croute",
+  "description": "Buttery, aerated pastry filled with tender Australian hake, perfect for a special occasion.",
+  "cuisine": "australian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Place the hake fillets on one half of the pastry, leaving a 1/2 inch border around them.",
+    "Sprinkle the chopped herbs and grated cheese over the fish.",
+    "Brush the edges of the pastry with a little water, then fold the other half over the fish to enclose.",
+    "Crimp the edges to seal, and cut a few slits in the top to allow steam to escape.",
+    "Brush the pastry with a little milk, then sprinkle with a pinch of salt.",
+    "Place the pastry on a baking sheet lined with parchment paper, and bake for 20-25 minutes, or until golden brown.",
+    "Remove the pastry from the oven, and let it rest for 5 minutes before serving.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "To make the beurre manié, melt 2 tablespoons of butter in a small saucepan over low heat.",
+    "Add 2 tablespoons of all-purpose flour to the butter, and whisk until smooth.",
+    "Cook for 1-2 minutes, or until the mixture is lightly golden and has a nutty aroma.",
+    "Stir in 1/4 cup of milk, and bring to a simmer.",
+    "Cook for 2-3 minutes, or until the sauce has thickened slightly.",
+    "Season with a pinch of salt and pepper to taste.",
+    "Serve the beurre manié over the top of the pastry, and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "ingredients": [
+    {
+      "name": "hake fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "butter",
+      "amount": "6 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh herbs",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "a pinch",
+      "notes": ""
+    }
+  ],
+  "tags": [
+    "australian",
+    "en-croute",
+    "hake",
+    "low-sodium",
+    "puff-pastry",
+    "seafood",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "puffed-pastry-australian-hake-en-croute",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/puffed-pastry-australian-hake-en-croute",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:22Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "en-croute",
+    "primaryIngredient": "hake",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "hake",
+    "descriptor": "puffed pastry",
+    "dishForm": "en-croute"
+  }
+}
