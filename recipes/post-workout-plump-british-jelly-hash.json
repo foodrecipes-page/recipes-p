@@ -1,0 +1,103 @@
+{
+  "title": "Post-Workout Plump British Jelly Hash",
+  "description": "A hearty, post-workout British dish featuring jasmine rice, a crispy fry, and a resinous, shaggy texture.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian",
+    "plant-based",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "fried shallots",
+      "amount": "1/2 cup",
+      "notes": "home-cooked or store-bought"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp",
+      "notes": "for glaze"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": "for umami"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "scallop shells",
+      "amount": "6",
+      "notes": "for serving"
+    },
+    {
+      "name": "tofu scramble",
+      "amount": "1/2 cup",
+      "notes": "canned or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a pan over medium heat.",
+    "Add the scrambled tofu and cook until lightly browned, breaking up with a spatula as needed.",
+    "Add the cooked jasmine rice to the pan, stirring to combine with the tofu.",
+    "Add the fried shallots, miso paste, brown sugar, and soy sauce to the pan, stirring until the mixture is well combined and heated through.",
+    "Divide the mixture among the scallop shells, topping each with chopped scallions.",
+    "Serve the plump British jelly hash hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 8,
+  "cookTimeMin": 12,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "gluten-free",
+    "low-carb",
+    "post-workout",
+    "scallops",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "post-workout-plump-british-jelly-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/post-workout-plump-british-jelly-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:41Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "fry",
+    "primaryIngredient": "jasmine rice",
+    "diet": "plant-based",
+    "region": "yorkshire",
+    "cuisineAdjective": "british",
+    "mainIngredient": "jelly",
+    "descriptor": "post-workout plump",
+    "dishForm": "hash"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "title": "Pungent American Broccoli Stir-fry",
+  "description": "Malty, snappy, and indulgent American dish featuring Chinese broccoli, tagine-cooked for a low-sodium-friendly twist. Perfect for a weeknight dinner in a traditional dolsot-stone-bowl.",
+  "cuisine": "American",
+  "diet": [
+    "vegan",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese broccoli",
+      "amount": "2 bunches",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a low-smoke point oil like grapeseed or canola."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince or crush to release flavor."
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grate or finely chop to add depth."
+    },
+    {
+      "name": "Soy sauce (low-sodium)",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste for sodium levels."
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tablespoon",
+      "notes": "Adds a touch of sweetness."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Salt (optional)",
+      "amount": "to taste",
+      "notes": "Low-sodium dish, use sparingly if necessary."
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": "Warm, aromatic spice blend."
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional, for some heat."
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": "for garnish",
+      "notes": "Fresh, snappy flavor."
+    },
+    {
+      "name": "Cooked brown rice",
+      "amount": "for serving",
+      "notes": "Pairs well with the stir-fry."
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "for garnish",
+      "notes": "A pop of color and freshness."
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and ginger and cook, stirring constantly, for 1 minute.",
+    "Add the Chinese broccoli and cook, stirring occasionally, for 4-5 minutes or until it starts to soften.",
+    "Add the soy sauce, maple syrup, black pepper, garam masala, and cayenne pepper (if using) and stir to combine.",
+    "Continue cooking, stirring occasionally, for another 2-3 minutes or until the broccoli is tender but still crisp.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the stir-fry to a dolsot-stone-bowl or individual serving dishes.",
+    "Serve immediately, garnished with chopped green onions and a side of cooked brown rice and chopped fresh cilantro.",
+    "Garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indulgent",
+    "low-sodium",
+    "pungent",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "pungent-american-broccoli-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-american-broccoli-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:38Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "tagine-cook",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "broccoli",
+    "descriptor": "Pungent",
+    "dishForm": "Stir-fry"
+  }
+}

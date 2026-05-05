@@ -1,0 +1,114 @@
+{
+  "title": "Peppery Creamy Saudi-Arabian Rolled Oats Grill",
+  "description": "A flavorful and comforting dish featuring rolled oats, peppers, and a creamy sauce, perfect for a weeknight meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium-high heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional 1 minute.",
+    "Add the red and yellow bell peppers and cook until tender, about 5 minutes.",
+    "Add the cumin, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the rolled oats and stir to coat with the spice mixture.",
+    "Add the heavy cream and stir to combine.",
+    "Bring the mixture to a simmer and cook until the oats have absorbed most of the liquid and the mixture has thickened, about 10 minutes.",
+    "Transfer the Dutch oven to the grill and cook for an additional 2-3 minutes, or until the oats are lightly toasted.",
+    "Serve hot and garnish with additional black pepper, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "lacto-vegetarian",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "peppery-creamy-saudi-arabian-rolled-oats-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-creamy-saudi-arabian-rolled-oats-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:53Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "grill",
+    "primaryIngredient": "rolled oats",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "rolled oats",
+    "descriptor": "peppery creamy",
+    "dishForm": "Grill"
+  }
+}

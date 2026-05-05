@@ -1007,6 +1007,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-creamy-saudi-arabian-rolled-oats-grill",
+    "title": "Peppery Creamy Saudi-Arabian Rolled Oats Grill",
+    "tags": [
+      "grill",
+      "lacto-vegetarian",
+      "middle-eastern",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-creamy-vermicelli-stir-fry",
     "title": "Peppery Creamy Vermicelli Stir-Fry",
     "tags": [
@@ -5749,6 +5763,21 @@
     "shard": "p"
   },
   {
+    "slug": "post-workout-plump-british-jelly-hash",
+    "title": "Post-Workout Plump British Jelly Hash",
+    "tags": [
+      "british",
+      "gluten-free",
+      "low-carb",
+      "post-workout",
+      "scallops",
+      "vegan"
+    ],
+    "cuisine": "british",
+    "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
     "slug": "post-workout-roasted-vietnamese-quinoa-bowl",
     "title": "post-workout roasted Vietnamese quinoa bowl",
     "tags": [
@@ -6010,6 +6039,20 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 60,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-american-broccoli-stir-fry",
+    "title": "Pungent American Broccoli Stir-fry",
+    "tags": [
+      "indulgent",
+      "low-sodium",
+      "pungent",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
