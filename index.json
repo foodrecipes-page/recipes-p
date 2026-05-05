@@ -4895,6 +4895,21 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-smoky-slovakian-vegetable-stew",
+    "title": "Piquant Smoky Slovakian Vegetable Stew",
+    "tags": [
+      "claypot-cooking",
+      "comfort-food",
+      "one-pot",
+      "slovakian-cuisine",
+      "smoky-flavors",
+      "vegetarian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 65,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-spicy-indian-rice-dosa",
     "title": "Piquant Spicy Indian Rice Dosa",
     "tags": [
