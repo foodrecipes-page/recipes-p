@@ -1,0 +1,84 @@
+{
+  "title": "Peppery Chewy Moroccan Ferment Tagine Mechoui",
+  "description": "A unique blend of spices and cherries, this weeknight-friendly Mechoui dish is both chewy and peppery. Vegetarian-friendly.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mechoui",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Cherry jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fermented black beans (Kam chi)",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "¼ teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Place Mechoui in a large tagine pot.",
+    "Add cherry jam and pomegranate molasses, mixing well.",
+    "Stir in fermented black beans, ground cumin, garam masala, and cayenne pepper. Season with salt.",
+    "Bake for 20 minutes or until meat is tender and infused with flavors.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-beans",
+    "mechoui",
+    "tagine-pot",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "peppery-chewy-moroccan-ferment-tagine-mechoui",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-chewy-moroccan-ferment-tagine-mechoui",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T14:19:07Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "ferment",
+    "primaryIngredient": "cherry",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Ferment",
+    "descriptor": "Peppery Chewy",
+    "dishForm": "Tagine Mechoui"
+  }
+}

@@ -854,6 +854,19 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-chewy-moroccan-ferment-tagine-mechoui",
+    "title": "Peppery Chewy Moroccan Ferment Tagine Mechoui",
+    "tags": [
+      "fermented-beans",
+      "mechoui",
+      "tagine-pot",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-chewy-slovakian-tamarind-dumplings",
     "title": "Peppery Chewy Slovakian Tamarind Dumplings",
     "tags": [],
