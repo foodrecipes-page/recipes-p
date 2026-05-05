@@ -1,0 +1,88 @@
+{
+  "title": "Pungent Pillowy Canadian Beef Pilaf",
+  "description": "A monsoon-inspired dish featuring shredded beef mixed with a pungent sauce, served as a pillowy side or main course. Raw-friendly and easy to prepare.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": 200
+    },
+    {
+      "name": "Onion",
+      "amount": 1
+    },
+    {
+      "name": "Garlic",
+      "amount": 3
+    },
+    {
+      "name": "Carrots",
+      "amount": 4
+    },
+    {
+      "name": "Celery",
+      "amount": 2
+    },
+    {
+      "name": "Paprika",
+      "amount": 50
+    },
+    {
+      "name": "Cumin",
+      "amount": 10
+    },
+    {
+      "name": "Salt",
+      "amount": 20
+    },
+    {
+      "name": "Pepper",
+      "amount": 10
+    }
+  ],
+  "instructions": [
+    "Chop the beef into small pieces.",
+    "Sauté chopped onion, garlic, and minced carrots in olive oil until soft.",
+    "Add shredded beef to the pan and stir for about 5 minutes.",
+    "In a separate pot, mix paprika, cumin, salt, pepper, and water (enough to cover beef). Bring to boil.",
+    "Deglaze the beef with the liquid from the pot and cook until it thickens. Add chopped celery.",
+    "Serve hot as a side or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-beef-pilaf",
+    "monsoon-dish",
+    "pungent",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "pungent-pillowy-canadian-beef-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-pillowy-canadian-beef-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T15:02:34Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "monsoon",
+    "technique": "deglaze",
+    "primaryIngredient": "shredded meat",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Shredded Beef",
+    "descriptor": "Pungent Pillowy",
+    "dishForm": "Pilaf"
+  }
+}
