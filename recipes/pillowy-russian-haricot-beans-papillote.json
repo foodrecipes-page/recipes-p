@@ -1,0 +1,101 @@
+{
+  "title": "Pillowy Russian Haricot Beans Papillote",
+  "description": "A weeknight Russian dish featuring haricot beans in a pillowy papillote, pungent and flavorful without being too difficult to make. Serve with rye bread and a dollop of sour cream for a hearty meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "kosher",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Haricot beans",
+      "amount": "1 cup dried",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "kosher"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "Combine the onions and garlic in a large bowl and let sit for 10 minutes to allow the onions to release their moisture.",
+    "Add the haricot beans, cumin, paprika, salt, and black pepper to the bowl and mix well.",
+    "Cut the butter into small pieces and place on top of the haricot bean mixture.",
+    "Place the haricot bean mixture on a large square of parchment paper and fold the paper over to create a packet, sealing the edges with a pinch of water.",
+    "Place the papillote on a baking sheet and bake at 400°F for 40 minutes, or until the haricot beans are tender and the paper is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "one-pan",
+    "papillote",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 17,
+    "carbs": 80,
+    "fat": 14
+  },
+  "slug": "pillowy-russian-haricot-beans-papillote",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-russian-haricot-beans-papillote",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:45Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "weeknight",
+    "technique": "papillote",
+    "primaryIngredient": "haricot beans",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "haricot beans",
+    "descriptor": "pillowy",
+    "dishForm": "papillote"
+  }
+}

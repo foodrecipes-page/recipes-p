@@ -1,0 +1,133 @@
+{
+  "title": "Peppery Malaysian Asparagus Sambal",
+  "description": "A spicy, post-workout Malaysian dish featuring white asparagus, beurre-monte, and a kick of peppery heat. Serve as a snack or side dish.",
+  "cuisine": "malaysian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white asparagus",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "shallots",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "sambal oelek",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "green chilies",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass",
+      "amount": "1 stalk",
+      "notes": ""
+    },
+    {
+      "name": "galangal",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a pan over medium heat.",
+    "Add shallots and cook until fragrant, about 2 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Add sambal oelek and cook for 1 minute, stirring constantly.",
+    "Add fish sauce and lime juice, stir to combine.",
+    "Add green chilies, lemongrass, and galangal. Cook for 2 minutes, stirring occasionally.",
+    "Add white asparagus and cook until tender, about 4-6 minutes.",
+    "Stir in beurre-monte and cook for an additional minute.",
+    "Season with pepper and chili flakes to taste.",
+    "Garnish with cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian",
+    "gluten-free",
+    "healthy",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "peppery-malaysian-asparagus-sambal",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-malaysian-asparagus-sambal",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:31Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "beurre-monte",
+    "primaryIngredient": "white asparagus",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "asparagus",
+    "descriptor": "peppery",
+    "dishForm": "Sambal"
+  }
+}

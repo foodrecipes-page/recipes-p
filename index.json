@@ -2857,6 +2857,23 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-malaysian-asparagus-sambal",
+    "title": "Peppery Malaysian Asparagus Sambal",
+    "tags": [
+      "asian",
+      "gluten-free",
+      "healthy",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-mediterranean-bowtie-pasta-stir-fry",
     "title": "Peppery Mediterranean Bowtie Pasta Stir-fry",
     "tags": [
@@ -4180,6 +4197,20 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
+    "slug": "pillowy-russian-haricot-beans-papillote",
+    "title": "Pillowy Russian Haricot Beans Papillote",
+    "tags": [
+      "high-fiber",
+      "one-pan",
+      "papillote",
+      "vegetarian-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 60,
     "shard": "p"
   },
   {
@@ -5979,6 +6010,23 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 60,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-and-dense-norwegian-shallots-gratin",
+    "title": "Pungent and Dense Norwegian Shallots Gratin",
+    "tags": [
+      "comfort-food",
+      "cozy",
+      "dinner-party",
+      "gratin",
+      "main-course",
+      "norwegian",
+      "vegetarian",
+      "wintertime"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 65,
     "shard": "p"
   },
   {
