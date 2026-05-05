@@ -1,0 +1,111 @@
+{
+  "title": "Piquant Kenyan Lentil Burger",
+  "description": "A flavorful and nutritious Kenyan-inspired lentil burger served in a molcajete, perfect for a post-workout meal, featuring sesame seed burger buns and a variety of umami flavors",
+  "cuisine": "Kenyan",
+  "diet": [
+    "jain-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame seed burger buns",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "kenyan spice blend",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for 30 minutes, then drain and set aside",
+    "Heat oil in a pan over medium heat and saute the onion, garlic, and ginger until softened",
+    "Add the kenyan spice blend and cook for 1 minute, stirring constantly",
+    "Add the lentils, tomato, and cucumber, and cook for 10 minutes, stirring occasionally",
+    "Season with salt and pepper to taste, then stir in the coriander leaves and lemon juice",
+    "Toast the sesame seed burger buns by grilling them for 2 minutes on each side",
+    "Assemble the burgers by spooning the lentil mixture onto the buns",
+    "Serve the burgers in a molcajete and garnish with additional coriander leaves if desired",
+    "Fry the burgers in a little oil until crispy and golden brown, if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "jain-friendly",
+    "kenyan-cuisine",
+    "lentil-burger",
+    "post-workout",
+    "sesame-seed-buns",
+    "umami-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "piquant-kenyan-lentil-burger",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-kenyan-lentil-burger",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-05T21:09:46Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "fry",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lentils",
+    "descriptor": "Piquant Post Workout",
+    "dishForm": "Burger"
+  }
+}

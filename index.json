@@ -4642,6 +4642,22 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-kenyan-lentil-burger",
+    "title": "Piquant Kenyan Lentil Burger",
+    "tags": [
+      "high-protein",
+      "jain-friendly",
+      "kenyan-cuisine",
+      "lentil-burger",
+      "post-workout",
+      "sesame-seed-buns",
+      "umami-flavors"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-korean-fish-jjigae",
     "title": "Piquant Korean Fish Jjigae",
     "tags": [
