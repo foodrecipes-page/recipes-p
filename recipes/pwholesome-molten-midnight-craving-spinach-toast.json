@@ -1,0 +1,86 @@
+{
+  "title": "PWholesome Molten Midnight-Craving Spinach Toast",
+  "description": "A herbal and molten jamaican dish featuring halal-friendly spinach on toast with a midnight craving twist.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "halal-friendly bread",
+      "amount": 4
+    },
+    {
+      "name": "spinach leaves",
+      "amount": 200
+    },
+    {
+      "name": "olive oil",
+      "amount": 25
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 4,
+      "notes": "minced"
+    },
+    {
+      "name": "chopped jalapenos",
+      "amount": 1
+    },
+    {
+      "name": "lime juice",
+      "amount": 30
+    },
+    {
+      "name": "coconut milk",
+      "amount": 150
+    },
+    {
+      "name": "salt",
+      "amount": 2
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Toast bread slices until lightly browned on both sides.",
+    "Sauté garlic and jalapenos in olive oil for 1 minute, adding spinach until wilted. Season with salt.",
+    "Mix coconut milk with lime juice and season further with salt.",
+    "Drizzle the coconut-lime mixture over cooked-toasted toast.",
+    "Serve immediately.",
+    "Enjoy your PWholesome Molten Midnight-Craving Spinach Toast!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "herbal",
+    "midnight-craving",
+    "morning-meal"
+  ],
+  "nutrition": {
+    "calories": 567,
+    "protein": 20,
+    "carbs": 19,
+    "fat": 34
+  },
+  "slug": "pwholesome-molten-midnight-craving-spinach-toast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/pwholesome-molten-midnight-craving-spinach-toast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T06:13:10Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "toast",
+    "primaryIngredient": "spinach",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "spinach",
+    "descriptor": "Molten Midnight-Craving",
+    "dishForm": "Toast"
+  }
+}
