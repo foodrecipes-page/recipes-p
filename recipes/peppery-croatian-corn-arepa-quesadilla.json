@@ -1,0 +1,99 @@
+{
+  "title": "Peppery Croatian Corn Arepa Quesadilla",
+  "description": "A crumbly, crowd-pleasing croatian dish featuring corn arepa filled with mozzarella cheese, fried to perfection. A satvik-friendly twist on a classic quesadilla.",
+  "cuisine": "croatian",
+  "meal": "lunch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "ingredients": [
+    {
+      "name": "corn arepa",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a comal or griddle over medium-high heat.",
+    "Cook corn arepa for 2-3 minutes on each side, until lightly charred.",
+    "In a bowl, mix together mozzarella cheese, pepper, onion, and garlic.",
+    "Place a cooked corn arepa on a flat surface and spoon the cheese mixture onto half of the arepa.",
+    "Fold the other half of the arepa over the filling to create a half-circle shape.",
+    "Heat olive oil in a large skillet over medium heat. Add the arepa and cook for 2-3 minutes on each side, until the cheese is melted and the arepa is crispy.",
+    "Remove the arepa from the skillet and let it cool for a minute or two.",
+    "Cut the arepa in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "arepa",
+    "corn",
+    "croatian",
+    "gluten-free",
+    "quesadilla",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 16
+  },
+  "slug": "peppery-croatian-corn-arepa-quesadilla",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-croatian-corn-arepa-quesadilla",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:27Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "fry",
+    "primaryIngredient": "corn arepa filled with mozarella cheese",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "corn arepa",
+    "descriptor": "peppery",
+    "dishForm": "Quesadilla"
+  }
+}

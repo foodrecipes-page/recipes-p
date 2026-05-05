@@ -1,0 +1,73 @@
+{
+  "title": "Pillowy Vietnamese Rice Bowl",
+  "description": "A grassy, pillowy, and romantic Vietnamese dish featuring brown rice as the main ingredient, perfect for a date night. This recipe is kosher-friendly and suitable for a dinner meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "keto",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brown Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the vegetable broth and brown rice. Bring to a boil over high heat, then reduce the heat to low and cover with a lid.",
+    "Simmer the rice for 20 minutes, or until all the liquid has been absorbed and the rice is tender.",
+    "While the rice cooks, heat the coconut milk in a small saucepan over medium heat until it starts to simmer.",
+    "Stir in the chopped fresh herbs and cook for an additional 2-3 minutes, or until the herbs are wilted.",
+    "Once the rice is done cooking, fluff it with a fork to separate the grains.",
+    "To assemble the rice bowls, place a scoop of cooked rice in the bottom of a bowl, then top with a spoonful of the herb-infused coconut milk mixture.",
+    "Garnish with additional fresh herbs and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "keto",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 10,
+    "carbs": 80,
+    "fat": 28
+  },
+  "slug": "pillowy-vietnamese-rice-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-vietnamese-rice-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:51Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "blanch",
+    "primaryIngredient": "brown rice",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "rice",
+    "descriptor": "pillowy",
+    "dishForm": "Bowl"
+  }
+}

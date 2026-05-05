@@ -1399,6 +1399,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-croatian-corn-arepa-quesadilla",
+    "title": "Peppery Croatian Corn Arepa Quesadilla",
+    "tags": [
+      "arepa",
+      "corn",
+      "croatian",
+      "gluten-free",
+      "quesadilla",
+      "vegetarian"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-croatian-paprika-pilaf",
     "title": "Peppery Croatian Paprika Pilaf",
     "tags": [
@@ -2888,6 +2903,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-malaysian-rice-noodles",
+    "title": "Peppery Malaysian Rice Noodles",
+    "tags": [
+      "easy-dinner",
+      "high-protein",
+      "malaysian-food",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-mediterranean-bowtie-pasta-stir-fry",
     "title": "Peppery Mediterranean Bowtie Pasta Stir-fry",
     "tags": [
@@ -4317,6 +4346,20 @@
       "vietnamese"
     ],
     "cuisine": "vietnamese",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
+    "slug": "pillowy-vietnamese-rice-bowl",
+    "title": "Pillowy Vietnamese Rice Bowl",
+    "tags": [
+      "date-night",
+      "gluten-free",
+      "keto",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "Vietnamese",
     "totalTimeMin": 45,
     "shard": "p"
   },
@@ -6252,6 +6295,21 @@
     "shard": "p"
   },
   {
+    "slug": "pungent-garlicky-polish-garlic-bowl",
+    "title": "Pungent Garlicky Polish Garlic Bowl",
+    "tags": [
+      "garlicky",
+      "high-protein",
+      "one-pan",
+      "polish",
+      "sous-vide",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 190,
+    "shard": "p"
+  },
+  {
     "slug": "pungent-greek-buckwheat-flour-tzatziki",
     "title": "Pungent Greek Buckwheat Flour Tzatziki",
     "tags": [
@@ -6295,6 +6353,20 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-indian-solo-dinner-jalebi",
+    "title": "Pungent Indian Jalebi",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "indian",
+      "jalebi",
+      "solo-dinner"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {

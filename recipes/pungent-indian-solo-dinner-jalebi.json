@@ -1,0 +1,96 @@
+{
+  "title": "Pungent Indian Jalebi",
+  "description": "A flavorful and spicy jalebi recipe that is perfect for a solo dinner. The combination of garlic powder and shio-cure gives this dish a unique and pungent flavor.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose gluten-free flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine the gluten-free flour, baking soda, garlic powder, and shio-cure in a bowl and mix well.",
+    "Gradually add the water to the dry ingredients and mix until a smooth batter is formed.",
+    "Heat the ghee or oil in a deep frying pan over medium heat.",
+    "Once the oil is hot, reduce the heat to low and fry the batter in a circular motion to form the jalebi shape.",
+    "Fry the jalebi until they are golden brown and crispy.",
+    "Drain the jalebi on a paper towel and then soak them in a sugar syrup made by dissolving the sugar in 1 cup of water.",
+    "Serve the jalebi hot, garnished with cardamom powder."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "indian",
+    "jalebi",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "pungent-indian-solo-dinner-jalebi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-indian-solo-dinner-jalebi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:38Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "cheese-pull",
+    "mood": "solo-dinner",
+    "technique": "shio-cure",
+    "primaryIngredient": "garlic powder",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "solo-dinner",
+    "descriptor": "pungent",
+    "dishForm": "Jalebi"
+  }
+}

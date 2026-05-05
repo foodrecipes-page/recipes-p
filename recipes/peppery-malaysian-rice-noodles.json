@@ -1,0 +1,122 @@
+{
+  "title": "Peppery Malaysian Rice Noodles",
+  "description": "A kid-friendly, rich and juicy dish with a Malaysian twist, perfect for a weeknight dinner. This lacto-vegetarian-friendly recipe is made with red pepper paste and cooked to perfection with pressure-cooking.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "red pepper paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon grated",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a large pressure cooker over medium heat.",
+    "Add the onion, garlic, and ginger, and cook until the onion is translucent.",
+    "Add the red pepper paste and cook for 1 minute, stirring constantly.",
+    "Add the coconut milk, water, soy sauce, sugar, salt, and black pepper, and stir to combine.",
+    "Add the rice noodles and stir to coat with the sauce.",
+    "Close the pressure cooker and cook at 10 pounds of pressure for 5 minutes.",
+    "Quick-release the pressure, then open the cooker and stir in the chopped green onions.",
+    "Serve hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "high-protein",
+    "malaysian-food",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 10,
+    "carbs": 90,
+    "fat": 20
+  },
+  "slug": "peppery-malaysian-rice-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-malaysian-rice-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:42Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "pressure-cook",
+    "primaryIngredient": "red pepper paste",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "rice",
+    "descriptor": "peppery",
+    "dishForm": "Noodles"
+  }
+}

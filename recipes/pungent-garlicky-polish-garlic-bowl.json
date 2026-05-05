@@ -1,0 +1,95 @@
+{
+  "title": "Pungent Garlicky Polish Garlic Bowl",
+  "description": "A garlicky, snappy, kid-friendly Polish dish featuring chopped parsley, perfect for a quick and easy meal.",
+  "cuisine": "Polish",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "5 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lamb Chorizo",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "New Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and halved"
+    },
+    {
+      "name": "Egg Yolk",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a sous vide machine to 183°F (84°C).",
+    "You can also cook the potatoes in a pot of boiling water for 10-12 minutes after boiling. ",
+    "Meanwhile, cook the chorizo in a large skillet over medium-high heat, breaking it up with a spoon as it cooks, until browned, about 5 minutes.",
+    "In a separate pan, combine the garlic, parsley, egg yolk, and cream, and cook over low heat, stirring constantly, until the mixture is smooth and heated through.",
+    "Once the potatoes are cooked, toss them with the chorizo and butter in the skillet.",
+    "Transfer the potato and chorizo mixture to the sous vide container and cover with plastic wrap.",
+    "Place the container in the preheated water bath and cook for 2 hours and 30 minutes.",
+    "Remove the container from the water bath and carefully remove the potato and chorizo mixture.",
+    "Serve immediately, garnished with additional parsley if desired.",
+    "Optional: serve with a dollop of sour cream or a sprinkle of chives."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 180,
+  "totalTimeMin": 190,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlicky",
+    "high-protein",
+    "one-pan",
+    "polish",
+    "sous-vide",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 23,
+    "carbs": 44,
+    "fat": 34
+  },
+  "slug": "pungent-garlicky-polish-garlic-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-garlicky-polish-garlic-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:40Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "sous-vide",
+    "primaryIngredient": "chopped parsley",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "polish",
+    "mainIngredient": "garlic",
+    "descriptor": "pungent garlicky",
+    "dishForm": "bowl"
+  }
+}
