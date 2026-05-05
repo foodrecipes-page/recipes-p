@@ -1,0 +1,105 @@
+{
+  "title": "Puffed Korean Peppers Wrap",
+  "description": "A light and flavorful Korean-inspired dish featuring sweet red peppers, crispy lamination-puff, and served in a ti-leaf wrap. Perfect for a brunch gathering.",
+  "cuisine": "Korean",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean red peppers",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Lamination-puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ti-leaf wraps",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Add the Korean chili flakes and cook for 1 minute, until fragrant.",
+    "Add the gochujang and soy sauce, and cook for an additional 1 minute.",
+    "Roll out the lamination-puff pastry to a thickness of 1/8 inch.",
+    "Cut the pastry into four squares, each about 6 inches per side.",
+    "Brush the pastry squares with sesame oil and top with a Korean red pepper, a sprinkle of black sesame seeds, and a sprinkle of chopped green onions.",
+    "Fold the pastry in half to enclose the filling, and press the edges to seal.",
+    "Heat a non-stick pan over medium heat and add a ti-leaf wrap.",
+    "Place a pastry-wrapped pepper in the center of the wrap and cook for 2-3 minutes, until the pastry is golden brown.",
+    "Flip the wrap over and cook for an additional 2-3 minutes, until the other side is also golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asy-to-make",
+    "breakfast",
+    "brunch",
+    "easy-korean-dish",
+    "k-fusion",
+    "korean"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 8
+  },
+  "slug": "puffed-korean-peppers-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/puffed-korean-peppers-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:33:09Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "lamination-puff",
+    "primaryIngredient": "sweet red peppers",
+    "diet": "macrobiotic",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "peppers",
+    "descriptor": "Puffed",
+    "dishForm": "Wrap"
+  }
+}
