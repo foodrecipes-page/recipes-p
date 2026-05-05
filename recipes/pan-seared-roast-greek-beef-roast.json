@@ -1,0 +1,135 @@
+{
+  "title": "Pan-Seared Roast Greek Beef Roast",
+  "description": "A yeasty, crisp Greek dish featuring gelatine leaves, roast, perfect for a weeknight dinner. This recipe is anti-inflammatory-friendly and served in a beautiful lacquerware bowl.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Greek beef roast",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "",
+      "notes": "About 1 cup. Use warm, not hot water."
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "gelatine leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "",
+      "notes": "Optional. About 1/4 cup."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F. ",
+    "Rinse the beef roast and pat dry with paper towels. ",
+    "In a large bowl, combine yeast, warm water, and 1 tsp sugar. Let it sit for 5-10 minutes, until foamy. ",
+    "Add the olive oil, onion, garlic, lemon zest, olives, oregano, and a pinch of salt and pepper to the bowl. Mix well. ",
+    "Add the gelatine leaves to the bowl and mix until they are fully incorporated. ",
+    "Place the beef roast in the bowl and coat evenly with the yeast mixture. ",
+    "Put the beef roast in a lacquerware bowl and cover with plastic wrap. ",
+    "Place the bowl in the oven and roast for 20 minutes. ",
+    "Reduce the oven temperature to 375°F. ",
+    "Continue roasting for another 20-25 minutes, until the roast reaches your desired level of doneness. ",
+    "Let the roast rest for 5 minutes before slicing and serving. ",
+    "Optional: Crumble 1/4 cup of feta cheese over the top of the roast. ",
+    "Garnish with fresh oregano and serve immediately.",
+    "Season with sea salt and black pepper to taste. ",
+    "Serve hot in the lacquerware bowl.",
+    "Use a meat thermometer to ensure the roast reaches a safe internal temperature of 145°F for medium-rare. ",
+    "Reheat the roast in the oven at 300°F for 5-10 minutes, if desired.",
+    "Serve with your choice of sides, such as roasted vegetables or a side salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory-friendly",
+    "easy-dinner",
+    "greek",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "pan-seared-roast-greek-beef-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-roast-greek-beef-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:49:33Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "roast",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "beef",
+    "descriptor": "Pan-seared Roast",
+    "dishForm": "Roast"
+  }
+}

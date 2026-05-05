@@ -214,6 +214,21 @@
     "shard": "p"
   },
   {
+    "slug": "pan-seared-roast-greek-beef-roast",
+    "title": "Pan-Seared Roast Greek Beef Roast",
+    "tags": [
+      "anti-inflammatory-friendly",
+      "easy-dinner",
+      "greek",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 55,
+    "shard": "p"
+  },
+  {
     "slug": "pan-seared-scottish-lamb-scotch-egg",
     "title": "Pan Seared Scottish Lamb Scotch Egg",
     "tags": [
