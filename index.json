@@ -2873,6 +2873,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-light-saudi-arabian-carnaroli-rice-pilaf",
+    "title": "Peppery Light Saudi-arabian Carnaroli-rice Pilaf",
+    "tags": [
+      "carnaroli-rice",
+      "one-pan",
+      "peppery",
+      "pilaf",
+      "saudi-arabian",
+      "weeknight"
+    ],
+    "cuisine": "saudi-arabian",
+    "totalTimeMin": 28,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-malayan-papaya-pilaf",
     "title": "Peppery Malayan Papaya Pilaf",
     "tags": [
@@ -4150,6 +4165,19 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "pillowy-american-gelatin-wrap",
+    "title": "Pillowy American Gelatin Wrap",
+    "tags": [
+      "ayurvedic",
+      "easy-dessert",
+      "rajasic",
+      "weeknight"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {

@@ -1,0 +1,92 @@
+{
+  "title": "Pillowy American Gelatin Wrap",
+  "description": "A bitter, pillowy, lazy Sunday American dish featuring unflavored gelatin, ssam-wrap, and ayurvedic rajasic-friendly ingredients.",
+  "cuisine": "american",
+  "diet": [
+    "pescetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Unflavored gelatin",
+      "amount": "1 envelope (0.25 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Korean-style ssam wrap",
+      "amount": "4",
+      "notes": "see notes"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Strained yogurt",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Soak the unflavored gelatin in the water in a small bowl for 5 minutes.",
+    "Heat the gelatin mixture in a saucepan over medium heat, stirring occasionally, until it's dissolved and the mixture is hot but not boiling.",
+    "In a separate pan, heat the sesame oil and rice vinegar over low heat, if using.",
+    "Let the gelatin mixture cool slightly, then stir in the uncooked Korean-style ssam wrap.",
+    "Spread a small amount of the gelatin mixture onto a sheet pan or cutting board.",
+    "Dampen the ends of the ssam wrap with a little water, then place it on top of the gelatin mixture.",
+    "Spread a small amount of the strained yogurt on top of the ssam wrap, if using.",
+    "If desired, brush the edges of the ssam wrap with ghee or vegetable oil, then fold the ssam wrap over to form a tight cylinder.",
+    "Let the gelatin wrap cool and set for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "easy-dessert",
+    "rajasic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "pillowy-american-gelatin-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-american-gelatin-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:58Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Gelatin",
+    "descriptor": "Pillowy",
+    "dishForm": "Wrap"
+  }
+}

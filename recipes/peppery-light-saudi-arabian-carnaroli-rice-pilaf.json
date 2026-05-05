@@ -1,0 +1,108 @@
+{
+  "title": "Peppery Light Saudi-arabian Carnaroli-rice Pilaf",
+  "description": "A flavorful and spicy weeknight dinner from Saudi-arabia featuring carnaroli-rice, perfect for a quick meal on a robata-grill",
+  "cuisine": "saudi-arabian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carnaroli-rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "small onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large skillet over medium heat.",
+    "Add the finely chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the peppercorns and paprika, and cook for 30 seconds.",
+    "Add the carnaroli-rice and cook, stirring constantly, for 2 minutes.",
+    "Add 1 cup of water to the skillet and bring to a boil.",
+    "Reduce heat to low, cover, and cook for 12 minutes or until the rice is tender and fluffy.",
+    "Stir in the freshly squeezed lemon juice and chopped parsley.",
+    "Transfer the pilaf to a serving platter and garnish with cucumber slices.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "carnaroli-rice",
+    "one-pan",
+    "peppery",
+    "pilaf",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "peppery-light-saudi-arabian-carnaroli-rice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-light-saudi-arabian-carnaroli-rice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:14Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "stir-fry",
+    "primaryIngredient": "carnaroli-rice",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Saudi-arabian",
+    "mainIngredient": "carnaroli-rice",
+    "descriptor": "Peppery Light",
+    "dishForm": "Pilaf"
+  }
+}
