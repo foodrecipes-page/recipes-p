@@ -1,0 +1,100 @@
+{
+  "title": "peppery springy french shrimp tagine",
+  "description": "a rich and flavorful, gluten-free-friendly tagine that combines the freshness of spring with the bold flavors of pepper and garlic. perfect for a hangover cure.",
+  "cuisine": "french",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1"
+    },
+    {
+      "name": "onion",
+      "amount": "1"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a clay pot over medium-high heat.",
+    "add the garlic and cook until fragrant.",
+    "add the shrimp and cook until pink.",
+    "add the bell pepper and onion and cook until tender.",
+    "add the tomato paste and cook for 1 minute.",
+    "add the chicken broth, white wine, black pepper, and salt. stir to combine.",
+    "bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 10 minutes.",
+    "stir in the fresh parsley and serve the shrimp hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 32,
+    "carbs": 4,
+    "fat": 12
+  },
+  "slug": "peppery-springy-french-shrimp-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-springy-french-shrimp-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:11:30Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "springy",
+    "mood": "hangover-cure",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "shrimp",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "shrimp",
+    "descriptor": "peppery springy",
+    "dishForm": "Tagine"
+  }
+}
