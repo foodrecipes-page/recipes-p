@@ -1,0 +1,124 @@
+{
+  "title": "Tagine",
+  "description": "Pungent and comforting saudi-arabian dish featuring ginger garlic paste and kombu-cold-extract, suitable for keto diet.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Buckwheat groats",
+      "amount": "200 g",
+      "notes": ""
+    },
+    {
+      "name": "Ginger garlic paste",
+      "amount": "45 g",
+      "notes": ""
+    },
+    {
+      "name": "Kombu-cold-extract",
+      "amount": "50 ml",
+      "notes": ""
+    },
+    {
+      "name": "Bone broth",
+      "amount": "400 ml",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "25 g",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "0.8 g",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "0.4 g",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.6 g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "4 g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "20 g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "20 g",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "30 ml",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "200 ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 20g of ghee in the lazy-susan-spinner over medium heat, approximately 4 minutes, or until the ghee reaches 160C.",
+    "Add 45g of ginger garlic paste, stir until fragrant, approximately 1 minute.",
+    "Add 50ml of kombu-cold-extract and 400ml of bone broth, and bring to a simmer.",
+    "Add 200g of buckwheat groats and stir to combine.",
+    "Reduce heat to low and cover the lazy-susan-spinner, approximately 20 minutes.",
+    "Stir in 0.8g turmeric, 0.4g cayenne pepper, and 0.6g black pepper.",
+    "Season with salt to taste.",
+    "Garnish with 20g of fresh parsley and 20g of fresh cilantro, and serve hot.",
+    "Drizzle with 30ml of lemon juice and serve immediately.",
+    "Serve hot, garnished with additional parsley and cilantro if desired.",
+    "Serve as a comforting and pungent dinner option, suitable for keto diet."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "keto",
+    "one-pan",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "pungent-springy-saudi-arabian-dish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-springy-saudi-arabian-dish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:09:57Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "ginger garlic paste",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "dish",
+    "descriptor": "Pungent Springy",
+    "dishForm": "Tagine"
+  }
+}

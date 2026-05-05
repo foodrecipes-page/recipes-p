@@ -6412,6 +6412,19 @@
     "shard": "p"
   },
   {
+    "slug": "pungent-springy-saudi-arabian-dish-tagine",
+    "title": "Tagine",
+    "tags": [
+      "comfort-food",
+      "keto",
+      "one-pan",
+      "saudi-arabian"
+    ],
+    "cuisine": "saudi-arabian",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
     "slug": "pungent-syrian-lamb-tagine",
     "title": "Syrian Lamb Tagine",
     "tags": [
