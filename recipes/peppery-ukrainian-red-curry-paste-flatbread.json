@@ -1,0 +1,106 @@
+{
+  "title": "Peppery Ukrainian Red-Curry-Paste Flatbread",
+  "description": "A post-workout Ukrainian flatbread featuring red-curry-paste, perfect for satisfying your cravings after a tough workout. This flatbread is made with double-rise dough and is diabetic-friendly due to its balanced ingredients.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "red-curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "flour for dusting",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, and salt. Mix well until combined.",
+    "Add warm water and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour, or until doubled in size.",
+    "Preheat oven to 425 degrees Fahrenheit.",
+    "Punch down the dough and roll it out into a thin circle, about 1/4 inch thick.",
+    "Transfer the dough to a baking sheet lined with parchment paper, and sprinkle with red-curry paste and black pepper.",
+    "Bake for 15 minutes, or until the crust is golden brown and the flatbread is cooked through.",
+    "Remove from oven and let cool for 5 minutes.",
+    "Brush with unsalted butter and sprinkle with chopped cilantro.",
+    "Cut into wedges and serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "easy-to-make",
+    "flatbread",
+    "post-workout",
+    "red-curry-paste",
+    "snack",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "slug": "peppery-ukrainian-red-curry-paste-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-ukrainian-red-curry-paste-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:35:09Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "red-curry-paste",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "red-curry-paste",
+    "descriptor": "peppery",
+    "dishForm": "flatbread"
+  }
+}

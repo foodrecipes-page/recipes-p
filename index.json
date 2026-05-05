@@ -3695,6 +3695,23 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-ukrainian-red-curry-paste-flatbread",
+    "title": "Peppery Ukrainian Red-Curry-Paste Flatbread",
+    "tags": [
+      "diabetic-friendly",
+      "easy-to-make",
+      "flatbread",
+      "post-workout",
+      "red-curry-paste",
+      "snack",
+      "ukrainian",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-uruguayan-beef-casserole",
     "title": "Peppery Uruguayan Beef Casserole",
     "tags": [
@@ -6220,6 +6237,21 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-chewy-norwegian-beans-bouillabaisse",
+    "title": "pungent chewy norwegian beans bouillabaisse",
+    "tags": [
+      "date-night",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "norwegian",
+      "spherified"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 75,
     "shard": "p"
   },
   {
