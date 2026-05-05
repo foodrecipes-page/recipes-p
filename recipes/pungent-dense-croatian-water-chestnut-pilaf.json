@@ -1,0 +1,92 @@
+{
+  "title": "Pungent, Dense Croatian Water Chestnut Pilaf",
+  "description": "A kid-friendly Croatian dish that features the distinct flavor of water chestnuts and bhuna. Can be served at lunch or dinner.",
+  "cuisine": "croatian",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "water chestnuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "bhuna",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add onion and garlic; cook until softened, about 5 minutes.",
+    "Add tomato paste; cook for 1 minute.",
+    "Add water; bring to a boil.",
+    "Add rice, water chestnuts, salt, and pepper; stir to combine.",
+    "Reduce heat to low; cover and simmer until rice is tender, about 20 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "kid-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 9,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "pungent-dense-croatian-water-chestnut-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-dense-croatian-water-chestnut-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:53:51Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "bhuna",
+    "primaryIngredient": "water chestnut",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "water chestnut",
+    "descriptor": "pungent, dense",
+    "dishForm": "Pilaf"
+  }
+}
