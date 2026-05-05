@@ -3993,6 +3993,22 @@
     "shard": "p"
   },
   {
+    "slug": "perfectionist-piping-vietnamese-chicken-pho-ga",
+    "title": "Perfectionist Piping Vietnamese Chicken Pho Ga",
+    "tags": [
+      "chicken",
+      "easy",
+      "noodle",
+      "one-pan",
+      "soup",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 60,
+    "shard": "p"
+  },
+  {
     "slug": "perfectly-crisp-spanish-andouille-paella",
     "title": "Perfectly Crisp Spanish Andouille Paella",
     "tags": [
@@ -4406,6 +4422,21 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
+    "slug": "pilowy-russian-dried-white-beans-borscht",
+    "title": "pilowy russian dried white beans borscht",
+    "tags": [
+      "borscht",
+      "meal-prep",
+      "plant-based",
+      "russian",
+      "soup",
+      "vegan"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 98,
     "shard": "p"
   },
   {

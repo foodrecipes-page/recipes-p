@@ -1,0 +1,126 @@
+{
+  "title": "pilowy russian dried white beans borscht",
+  "description": "a hearty, comforting borscht made with dried white beans, simmered to perfection for a pillowy texture, perfect for a cold day or as a nutritious meal prep option.",
+  "cuisine": "russian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried white kidney beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "beets",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "kombu",
+      "amount": "2 pieces",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "optional",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "optional",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "soak the dried white kidney beans in water for at least 8 hours or overnight.",
+    "drain and rinse the soaked beans, then place them in a large pot or Dutch oven with the beef broth, water, carrots, beets, onion, garlic, kombu, dried dill weed, salt, and black pepper.",
+    "bring the mixture to a boil, then reduce the heat to low and simmer for 1 hour.",
+    "add the apple cider vinegar and continue to simmer for another 30 minutes, or until the beans are tender.",
+    "use an immersion blender to puree the borscht, or allow it to cool and puree it in a blender.",
+    "taste and adjust the seasoning as needed.",
+    "serve the borscht hot, garnished with a dollop of sour cream and chopped fresh dill if desired.",
+    "refrigerate or freeze leftovers for up to 5 days or 2 months, respectively."
+  ],
+  "prepTimeMin": 8,
+  "cookTimeMin": 90,
+  "totalTimeMin": 98,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "borscht",
+    "meal-prep",
+    "plant-based",
+    "russian",
+    "soup",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 80,
+    "fat": 8
+  },
+  "slug": "pilowy-russian-dried-white-beans-borscht",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pilowy-russian-dried-white-beans-borscht",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:44:25Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "simmer",
+    "primaryIngredient": "dried white beans",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "dried white beans",
+    "descriptor": "pilowy",
+    "dishForm": "borscht"
+  }
+}

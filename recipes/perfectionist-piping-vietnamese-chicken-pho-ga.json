@@ -1,0 +1,105 @@
+{
+  "title": "Perfectionist Piping Vietnamese Chicken Pho Ga",
+  "description": "A savory, comforting bowl of Vietnamese chicken noodle soup, made with a rich broth, tender chicken, and fragrant spices, all served in a delicate, piping hot broth over thin rice noodles.",
+  "cuisine": "vietnamese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Vietnamese chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "wide rice noodles",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "white bread",
+      "amount": "1 loaf",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a large wok or pot, combine the Vietnamese chicken broth, fish sauce, sugar, and ground black pepper. Bring to a boil over high heat, then reduce the heat to low and simmer for 10 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "easy",
+    "noodle",
+    "one-pan",
+    "soup",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "perfectionist-piping-vietnamese-chicken-pho-ga",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/perfectionist-piping-vietnamese-chicken-pho-ga",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:44:33Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "wok-hei",
+    "primaryIngredient": "white bread",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "Perfectionist Piping",
+    "dishForm": "Pho Ga"
+  }
+}
