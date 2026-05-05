@@ -4107,6 +4107,22 @@
     "shard": "p"
   },
   {
+    "slug": "pillowy-and-show-off-thai-herbal-fondue-pot-dessert-jellied-dessert",
+    "title": "Thai Herbal Fondue Pot Dessert",
+    "tags": [
+      "coconut",
+      "dessert",
+      "fondue",
+      "herbal",
+      "jelly",
+      "kanom-ko",
+      "thaifood"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 150,
+    "shard": "p"
+  },
+  {
     "slug": "pillowy-earthy-german-potato-casserole",
     "title": "Pillowy Earthy German Potato Casserole",
     "tags": [
@@ -5760,6 +5776,21 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
+    "slug": "post-workout-kenyan-rice-vermicelli-toast",
+    "title": "Post-workout Kenyan Rice Vermicelli Toast",
+    "tags": [
+      "anti-inflammatory-friendly",
+      "high-protein",
+      "kenyan",
+      "one-pan",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {

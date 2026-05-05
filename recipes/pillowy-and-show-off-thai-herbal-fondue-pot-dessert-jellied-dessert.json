@@ -1,0 +1,119 @@
+{
+  "title": "Thai Herbal Fondue Pot Dessert",
+  "description": "A pillowy and show-off Thai dessert featuring kanom-ko, a traditional Thai coconut jelly dessert, with a twist of herbal flavors. This recipe is perfect for a dinner party or special occasion.",
+  "cuisine": "Thai",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Agar agar",
+      "amount": "2 tablespoons",
+      "notes": "dissolved in water"
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Thai herbal tea",
+      "amount": "1 cup",
+      "notes": "cooled"
+    },
+    {
+      "name": "Coconut gel",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Gelatin",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Pandan extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine coconut milk, sugar, and water in a saucepan and heat until the sugar dissolves.",
+    "Remove from heat and add dissolved agar agar and stir to combine.",
+    "Add chopped Thai basil leaves and Thai herbal tea to the mixture and stir to combine.",
+    "Strain the mixture through a fine-mesh sieve into a clean bowl.",
+    "In a separate bowl, whip coconut gel until it becomes light and fluffy.",
+    "Add lime juice, salt, gelatin, and pandan extract to the coconut gel and whip until well combined.",
+    "Pour the coconut gel mixture into the agar agar mixture and stir to combine.",
+    "Pour the mixture into a fondue pot or a small saucepan with a heat-proof glass bowl.",
+    "Place the fondue pot over a sous-vide water bath set to 160°F (71°C) and let it cook for 1 hour.",
+    "Remove the fondue pot from the sous-vide water bath and let it cool to room temperature.",
+    "Refrigerate the fondue pot for at least 2 hours or overnight before serving.",
+    "To serve, dip fresh fruits, cookies, or marshmallows into the coconut jelly dessert.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "coconut",
+    "dessert",
+    "fondue",
+    "herbal",
+    "jelly",
+    "kanom-ko",
+    "thaifood"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "pillowy-and-show-off-thai-herbal-fondue-pot-dessert-jellied-dessert",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-and-show-off-thai-herbal-fondue-pot-dessert-jellied-dessert",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:10Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "sous-vide",
+    "primaryIngredient": "cold water",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "herbal",
+    "descriptor": "pillowy and show-off",
+    "dishForm": "Fondue Pot Dessert/Jellied Dessert"
+  }
+}
