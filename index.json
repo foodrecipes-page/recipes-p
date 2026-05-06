@@ -5986,6 +5986,22 @@
     "shard": "p"
   },
   {
+    "slug": "pork-flavored-thai-rice-tom-kha-noodle",
+    "title": "Pork-Flavored Thai Rice Tom Kha Noodle",
+    "tags": [
+      "coconutmilk",
+      "highprotein",
+      "jain",
+      "noodle",
+      "thaifood",
+      "tomkha",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "post-workout-kenyan-rice-vermicelli-toast",
     "title": "Post-workout Kenyan Rice Vermicelli Toast",
     "tags": [
@@ -5998,6 +6014,21 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "post-workout-light-pungent-irish-branston-pickle-bowl",
+    "title": "Post-workout Light Pungent Irish Branston-pickle Bowl",
+    "tags": [
+      "easy-to-make",
+      "irish",
+      "one-pan",
+      "ovo-vegetarian",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {

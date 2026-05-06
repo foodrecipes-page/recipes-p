@@ -1,0 +1,109 @@
+{
+  "title": "Pork-Flavored Thai Rice Tom Kha Noodle",
+  "description": "A smoky and flavorful Thai dish featuring vermicelli rice noodles, made in the style of northeastern Thailand, suitable for Jain diets.",
+  "cuisine": "Thai",
+  "diet": [
+    "jain",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vermicelli rice noodles",
+      "amount": "250g"
+    },
+    {
+      "name": "Tom Kha paste",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pork stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sliced pork",
+      "amount": "200g"
+    },
+    {
+      "name": "Sliced mushrooms",
+      "amount": "200g"
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fish sauce (optional, omit for Jain diet)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large saucepan over medium heat.",
+    "Add the sliced pork and cook until browned, about 3 minutes.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 4 minutes.",
+    "Add the Tom Kha paste and cook for 1 minute, stirring constantly.",
+    "Pour in the pork stock and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the coconut milk and let it heat through, about 2 minutes.",
+    "Season with fish sauce (if using), salt, and lime juice.",
+    "Taste and adjust the seasoning as needed.",
+    "Cook the vermicelli rice noodles according to the package instructions and drain.",
+    "Serve the noodles in bowls and pour the hot Tom Kha sauce over the noodles.",
+    "Garnish with Thai basil leaves and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconutmilk",
+    "highprotein",
+    "jain",
+    "noodle",
+    "thaifood",
+    "tomkha",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 34,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "pork-flavored-thai-rice-tom-kha-noodle",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pork-flavored-thai-rice-tom-kha-noodle",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:00:31Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "vermicelli rice noodles",
+    "diet": "jain",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Rice",
+    "descriptor": "Pork-flavored",
+    "dishForm": "Tom Kha Noodle"
+  }
+}

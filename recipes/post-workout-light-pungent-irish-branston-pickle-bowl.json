@@ -1,0 +1,127 @@
+{
+  "title": "Post-workout Light Pungent Irish Branston-pickle Bowl",
+  "description": " Refreshing post-workout meal from Ireland, featuring the tangy flavor of Branston pickle, with a sticky soy-based lacquer glaze and a protein-rich egg-based sauce. Perfect for those who need a light yet satisfying meal after exercise. ",
+  "cuisine": "Irish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Boiled new potatoes",
+      "amount": "4 medium-sized",
+      "notes": "Choose potatoes with a firm texture, for the best results."
+    },
+    {
+      "name": "Branston pickle",
+      "amount": "2 tbsp",
+      "notes": "This recipe uses the original version of Branston pickle, but you can use low-sodium or homemade alternatives as well."
+    },
+    {
+      "name": "Lacquer glaze",
+      "amount": "1 tbsp",
+      "notes": "Mix equal parts soy sauce and rice vinegar for the best results."
+    },
+    {
+      "name": "Smoked salmon",
+      "amount": "2 oz",
+      "notes": "Choose high-quality, smoked salmon for the best flavor."
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "Fresh parsley adds a burst of freshness to the dish."
+    },
+    {
+      "name": "Egg-based sauce",
+      "amount": "2 tbsp",
+      "notes": "See instructions for making the egg-based sauce."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "a small bunch",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Optional, but adds a richness to the dish."
+    }
+  ],
+  "instructions": [
+    "Boil the new potatoes in salted water until they are tender, for about 10 minutes. ",
+    "Drain the potatoes and set them aside to cool down.",
+    "In a small pan, heat the lacquer glaze over medium heat until it thickens slightly. ",
+    "Add the smoked salmon to the pan and cook for about 2 minutes, until it starts to flake apart.",
+    "Transfer the salmon to a plate and set it aside to cool down.",
+    "In a separate pan, heat the egg-based sauce over medium heat until it thickens slightly. ",
+    "Add the chopped parsley to the pan and stir to combine.",
+    "Season the sauce with salt, black pepper, garlic powder, and smoked paprika. ",
+    "Add the cooled-down potatoes to the pan and stir to combine.",
+    "Transfer the potatoes to a serving bowl and top them with the smoked salmon, egg-based sauce, and a sprinkle of fresh dill. ",
+    "If using butter, melt it in a small pan over low heat and drizzle it over the dish.",
+    "Garnish the dish with a sprinkle of lemon juice and a few slices of fresh dill. "
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "irish",
+    "one-pan",
+    "ovo-vegetarian",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "post-workout-light-pungent-irish-branston-pickle-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/post-workout-light-pungent-irish-branston-pickle-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:01:26Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "branston-pickle",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Branston-pickle",
+    "descriptor": "Post-workout light pungent",
+    "dishForm": "Bowl"
+  }
+}
