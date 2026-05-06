@@ -1,0 +1,83 @@
+{
+  "title": "Pillowy Mustard Azifa",
+  "description": "A quick-fix Ethiopian dish featuring dark soft brown sugar and miso-marinate to create a pillowy mustardy texture suitable for jain-friendly diets.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dark Soft Brown Sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "50g"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "4"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "Mustard Powder",
+      "amount": "3tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "150ml"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "Eggplant Cubes",
+      "amount": "200g"
+    }
+  ],
+  "instructions": [
+    "Combine miso paste, garlic, lemon juice, and mustard powder in a bowl.",
+    "Add water and mix until smooth. Set aside for marinating time.",
+    "Heat oil in a pan over medium heat. Add eggplant cubes and cook until golden brown on all sides.",
+    "Drizzle the miso mixture over the cooked eggplant and let it sit for 5 minutes to allow flavors to meld.",
+    "Serve hot as a side dish or main course with injera bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jain-friendly",
+    "mustard-based",
+    "pillowy-texture",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 273,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 9
+  },
+  "slug": "pillowy-mustard-azifa",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-mustard-azifa",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T10:10:18Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "miso-marinate",
+    "primaryIngredient": "dark soft brown sugar",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Mustard",
+    "descriptor": "Pillowy",
+    "dishForm": "Azifa Pilaf"
+  }
+}
