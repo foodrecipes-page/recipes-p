@@ -1,0 +1,94 @@
+{
+  "title": "Peppery, Cheese-Pull Suspiro-Limeno Ancho Pepper Pie",
+  "description": "A spicy and cheesy Peruvian dish featuring an orange zest-infused filling wrapped in a sweet and tangy crust.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ancho Peppers",
+      "amount": 4
+    },
+    {
+      "name": "Cream Cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "150g"
+    },
+    {
+      "name": "Butter",
+      "amount": "80g"
+    },
+    {
+      "name": "Sugarcane Juice",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Fresh Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Zest of 4 Oranges",
+      "amount": null
+    },
+    {
+      "name": "Orange Juice",
+      "amount": "3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Blend ancho peppers, cream cheese, cheddar cheese, butter, sugar cane juice, garlic, cumin, and salt until smooth.",
+    "Fold in orange zest and orange juice into the mixture.",
+    "Pour into a greased pie dish and broil until golden brown, about 15 minutes.",
+    "Cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "broil-friendly",
+    "cheese-pull",
+    "form-suspiro-limeno",
+    "orange-zest",
+    "peppery",
+    "peruvian-dish",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 28,
+    "carbs": 60,
+    "fat": 32
+  },
+  "slug": "peppery-cheese-pull-suspiro-limeno-ancho-pepper-pie",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-cheese-pull-suspiro-limeno-ancho-pepper-pie",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T07:17:45Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "broil",
+    "primaryIngredient": "orange zest",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Ancho Peppers",
+    "descriptor": "Peppery, Cheese-Pull",
+    "dishForm": "Suspiro-Limeno Ancho Pepper Pie"
+  }
+}

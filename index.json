@@ -742,6 +742,22 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-cheese-pull-suspiro-limeno-ancho-pepper-pie",
+    "title": "Peppery, Cheese-Pull Suspiro-Limeno Ancho Pepper Pie",
+    "tags": [
+      "broil-friendly",
+      "cheese-pull",
+      "form-suspiro-limeno",
+      "orange-zest",
+      "peppery",
+      "peruvian-dish",
+      "sick-day"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-chewy-apple-pilaf",
     "title": "Peppery Chewy Apple Pilaf",
     "tags": [
