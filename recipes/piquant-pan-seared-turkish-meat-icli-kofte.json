@@ -1,0 +1,128 @@
+{
+  "title": "Piquant Pan-Seared Turkish Icli Kofte",
+  "description": "A tangy and light Turkish dish featuring sazon, based on a mirepoix, and suitable for kids and ovo-vegetarians",
+  "cuisine": "turkish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "1/2 cup finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "1/2 cup finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "sazon",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "yogurt",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Mix together ground lamb, onion, garlic, carrots, celery, sazon, salt, black pepper, and paprika in a large bowl until just combined.",
+    "Divide the mixture into 4-6 portions, depending on desired kofte size.",
+    "Shape each portion into an oval and flatten slightly.",
+    "Heat 1 tablespoon of olive oil in a large terracotta dish over medium-high heat.",
+    "When hot, add the kofte and sear for 2-3 minutes on each side, until browned and cooked through.",
+    "Transfer the kofte to a plate and keep warm.",
+    "Add the remaining 1 tablespoon of olive oil to the terracotta dish, if needed. ",
+    "Add the lemon juice to the dish and stir to combine.",
+    "Return the kofte to the dish and simmer, uncovered, for 2-3 minutes, until the sauce has thickened slightly.",
+    "Stir in chopped parsley and serve the kofte hot, garnished with additional parsley if desired.",
+    "If desired, serve with a dollop of yogurt on top.",
+    "Keep leftovers refrigerated for up to 3 days or freeze for up to 2 months.",
+    "To reheat, thaw frozen kofte and cook in a 375°F oven for 10-15 minutes, or until heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "lamb",
+    "one-pan",
+    "ovo-vegetarian",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 18
+  },
+  "slug": "piquant-pan-seared-turkish-meat-icli-kofte",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-pan-seared-turkish-meat-icli-kofte",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:58:56Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "sazon",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "meat",
+    "descriptor": "Piquant Pan-Seared",
+    "dishForm": "Icli Kofte"
+  }
+}

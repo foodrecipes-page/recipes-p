@@ -5047,6 +5047,21 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-pan-seared-turkish-meat-icli-kofte",
+    "title": "Piquant Pan-Seared Turkish Icli Kofte",
+    "tags": [
+      "kid-friendly",
+      "lamb",
+      "one-pan",
+      "ovo-vegetarian",
+      "turkish",
+      "weeknight"
+    ],
+    "cuisine": "turkish",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-perfumed-moroccan-chicken-tagine",
     "title": "Piquant Perfumed Moroccan Chicken Tagine",
     "tags": [
