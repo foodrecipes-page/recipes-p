@@ -1,0 +1,108 @@
+{
+  "title": "Peppery Croatian Cabbage Grill",
+  "description": "A flavorful and crispy solo dinner featuring Chinese cabbage, inspired by Croatian cuisine, and suitable for a Whole30 diet.",
+  "cuisine": "Croatian",
+  "diet": [
+    "Whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese cabbage",
+      "amount": "1 medium head",
+      "notes": null
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Coarse black pepper",
+      "amount": "1 tsp",
+      "notes": "use fresh, whole peppercorns if possible"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/4 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of avocado oil in a large skillet over medium-high heat.",
+    "Add the chopped cabbage and cook for 5 minutes, stirring occasionally.",
+    "Add the minced garlic, coarse black pepper, and red pepper flakes, and cook for 1 minute, stirring constantly.",
+    "Add the balsamic vinegar, lemon juice, and smoked paprika, and cook for 1 minute, stirring constantly.",
+    "Transfer the cabbage mixture to a plate and let cool slightly.",
+    "Meanwhile, heat the remaining 1 tbsp of avocado oil in a small skillet over medium heat.",
+    "Divide the cooled cabbage mixture among four plates and top each plate with a drizzle of the hot oil, a sprinkle of parsley, and a pinch of salt.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cabbage",
+    "gluten-free",
+    "one-pan",
+    "paleo",
+    "peppers",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "peppery-croatian-cabbage-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-croatian-cabbage-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:55:53Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "braise",
+    "primaryIngredient": "chinese cabbage",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "cabbage",
+    "descriptor": "peppery",
+    "dishForm": "grill"
+  }
+}

@@ -1418,6 +1418,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-croatian-cabbage-grill",
+    "title": "Peppery Croatian Cabbage Grill",
+    "tags": [
+      "cabbage",
+      "gluten-free",
+      "one-pan",
+      "paleo",
+      "peppers",
+      "whole30"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 27,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-croatian-chicken-wings-stir-fry",
     "title": "Peppery Croatian Chicken Wings Stir-fry",
     "tags": [
@@ -5237,6 +5252,20 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
+    "slug": "piquant-steamed-mexican-chiles-chiles-rellenos",
+    "title": "Piquant Steamed Mexican Chiles Rellenos",
+    "tags": [
+      "chiles-rellenos",
+      "mexican",
+      "oaxacan",
+      "slow-cooker",
+      "vegetarian"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
     "shard": "p"
   },
   {
