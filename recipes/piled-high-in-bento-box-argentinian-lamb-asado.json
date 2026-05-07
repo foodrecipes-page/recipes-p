@@ -1,0 +1,103 @@
+{
+  "title": "Piled High in Bento Box Argentinian Lamb Asado",
+  "description": "A dense, lazy Sunday Argentinian dish featuring lamb, candied peel, and lamination-puff, perfect for a bento box.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "Preferably shoulder or leg for better flavor"
+    },
+    {
+      "name": "Candied orange peel",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Lamination puff pastry",
+      "amount": "1 sheet",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chimichurri sauce",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-low heat (around 275°F).",
+    "Season the lamb shoulder with salt and black pepper.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Sear the lamb shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the lamb to the grill and cook for 2-1/2 to 3 hours, or until tender.",
+    "Meanwhile, roll out the lamination puff pastry to a large rectangle.",
+    "Spread the candied orange peel over the pastry, leaving a 1-inch border around the edges.",
+    "Sprinkle the minced garlic over the orange peel.",
+    "Brush the edges of the pastry with water and fold the pastry over the filling, pressing to seal.",
+    "Place the pastry on the grill and cook for an additional 10-15 minutes, or until golden brown.",
+    "Let the lamb rest for 10 minutes before slicing.",
+    "Serve the lamb with the puff pastry and a side of chimichurri sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 200,
+  "totalTimeMin": 230,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "asado",
+    "grilled",
+    "lamb",
+    "one-pan",
+    "pastry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 70
+  },
+  "slug": "piled-high-in-bento-box-argentinian-lamb-asado",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/piled-high-in-bento-box-argentinian-lamb-asado",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:23:11Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "lamination-puff",
+    "primaryIngredient": "candied peel",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "argentinian",
+    "mainIngredient": "lamb",
+    "descriptor": "piled high in bento-box",
+    "dishForm": "asado"
+  }
+}
