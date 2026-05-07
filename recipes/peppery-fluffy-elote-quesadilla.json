@@ -1,0 +1,77 @@
+{
+  "title": "Peppery Fluffy Elote Quesadilla",
+  "description": "A post-workout mexican dish featuring passion fruit pulp, yakimono-grilled elotes and a pescatarian-friendly twist.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "elotes",
+      "amount": 4
+    },
+    {
+      "name": "yakimono grill",
+      "amount": "1"
+    },
+    {
+      "name": "passion fruit pulp",
+      "amount": "250 ml"
+    },
+    {
+      "name": "queso fresco",
+      "amount": 80
+    },
+    {
+      "name": "lime juice",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "jalapeno peppers, seeded and finely chopped",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Combine elotes with passion fruit pulp and jalapeño in a bowl.",
+    "Season the mixture with lime juice to taste.",
+    "Heat elote mixture evenly in the yakimono grill until fragrant and slightly browned on all sides.",
+    "Divide into individual quesadilla shells, sprinkle with queso fresco.",
+    "Cook quesadillas on each side for about 1-2 minutes per side, or until golden and puffed up.",
+    "Serve hot and enjoy your peppery fluffy elote quesadilla."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "elotes",
+    "jalapeno-peppers",
+    "pescatarian-friendly",
+    "post-workout",
+    "queso-fresco"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 19,
+    "fat": 14
+  },
+  "slug": "peppery-fluffy-elote-quesadilla",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-fluffy-elote-quesadilla",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T15:46:17Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Passion Fruit",
+    "descriptor": "Peppery Fluffy",
+    "dishForm": "Elote Quesadilla"
+  }
+}

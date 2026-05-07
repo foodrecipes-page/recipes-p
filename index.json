@@ -2104,6 +2104,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-fluffy-elote-quesadilla",
+    "title": "Peppery Fluffy Elote Quesadilla",
+    "tags": [
+      "elotes",
+      "jalapeno-peppers",
+      "pescatarian-friendly",
+      "post-workout",
+      "queso-fresco"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 13,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-fluffy-indulgent-norwegian-pork-belly-stir-fry",
     "title": "Peppery Fluffy Indulgent Norwegian Pork Belly Stir-fry",
     "tags": [
