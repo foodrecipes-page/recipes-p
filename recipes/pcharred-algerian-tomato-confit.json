@@ -1,0 +1,78 @@
+{
+  "title": "PCharred Algerian Tomato Confit",
+  "description": "A charred tomato confit dish seasoned with orange juice for a velvety texture and flavor that's perfect as a solo dinner.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "100"
+    },
+    {
+      "name": "confit-tomato",
+      "amount": "300"
+    },
+    {
+      "name": "orange juice",
+      "amount": "60"
+    },
+    {
+      "name": "salt",
+      "amount": "5"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "2-3"
+    },
+    {
+      "name": "thyme sprigs",
+      "amount": "1-2"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C (400F).",
+    "Arrange confit-tomato in a baking dish, salted.",
+    "Add olive oil and orange juice on top of the tomato.",
+    "Bake for 30 minutes until slightly charred and juices are reduced.",
+    "Stir in chopped basil leaves and thyme sprigs.",
+    "Let cool before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "charred-tomato",
+    "low-fat",
+    "orange-juice",
+    "solo-dinner",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 9
+  },
+  "slug": "pcharred-algerian-tomato-confit",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/pcharred-algerian-tomato-confit",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T10:21:17Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "confit-tomato",
+    "primaryIngredient": "orange juice",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "tomato",
+    "descriptor": "Charred",
+    "dishForm": "Confit"
+  }
+}

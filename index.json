@@ -391,6 +391,21 @@
     "shard": "p"
   },
   {
+    "slug": "pcharred-algerian-tomato-confit",
+    "title": "PCharred Algerian Tomato Confit",
+    "tags": [
+      "algerian",
+      "charred-tomato",
+      "low-fat",
+      "orange-juice",
+      "solo-dinner",
+      "vegan-friendly"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
     "slug": "peach-tempeh-stir-fry",
     "title": "Peach Tempeh Stir-Fry",
     "tags": [
