@@ -1,0 +1,131 @@
+{
+  "title": "Pungent Syrian Challah Bake",
+  "description": "A kid-friendly, cheese-pull Syrian dish featuring challah bread, perfect for a family dinner. This keto-friendly recipe is a fun twist on traditional bread pudding.",
+  "cuisine": "Syrian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 cups challah bread, cut into 1-inch cubes",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "1 pound beef roast, cooked and shredded",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "2 large onions, diced",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "1 cup grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 cup grated mozzarella cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "1 cup heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley, chopped (optional)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the diced onions and minced garlic over medium heat until softened, about 5 minutes.",
+    "Add the shredded beef, cumin, smoked paprika, salt, and pepper to the skillet and stir to combine.",
+    "In a separate bowl, whisk together the eggs, heavy cream, and a pinch of salt and pepper.",
+    "Add the cubed challah bread to the egg mixture and toss until well coated.",
+    "Pour the bread mixture into a greased 9x13-inch baking dish and top with the cooked onion and beef mixture, followed by the grated cheddar and mozzarella cheese.",
+    "Dot the top of the cheese with the unsalted butter.",
+    "Bake for 35-40 minutes, or until the top is golden brown and the cheese is melted and bubbly.",
+    "Remove from the oven and sprinkle with chopped fresh parsley, if desired.",
+    "Let rest for 10 minutes before serving.",
+    "Slice and serve hot, enjoying the gooey cheese pull!",
+    "Serve warm, garnished with additional chopped parsley if desired.",
+    "This dish is best served immediately, as the cheese will start to set after about 10-15 minutes.",
+    "If you prefer a crisper top, broil for an additional 2-3 minutes, watching closely to avoid burning."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "comfort-food",
+    "keto-friendly",
+    "kid-friendly",
+    "one-pan",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 80,
+    "carbs": 20,
+    "fat": 80
+  },
+  "slug": "pungent-syrian-challots-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-syrian-challots-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:11:43Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "rest-meat",
+    "primaryIngredient": "challots",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "challots",
+    "descriptor": "pungent",
+    "dishForm": "Bake"
+  }
+}
