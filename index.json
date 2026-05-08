@@ -479,6 +479,21 @@
     "shard": "p"
   },
   {
+    "slug": "pan-seared-smoky-mexican-chicken-breasts-fajitas",
+    "title": "Pan Seared Smoky Mexican Chicken Breasts Fajitas",
+    "tags": [
+      "chicken",
+      "fajitas",
+      "mexican",
+      "one-pan",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "pan-seared-spanish-trout-ensaimada",
     "title": "Pan Seared Spanish Trout Ensaimada",
     "tags": [

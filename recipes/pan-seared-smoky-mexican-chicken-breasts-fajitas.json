@@ -1,0 +1,93 @@
+{
+  "title": "Pan Seared Smoky Mexican Chicken Breasts Fajitas",
+  "description": "A smoky and flavorful Mexican dish featuring chicken breasts, infused oil, and Mediterranean-friendly ingredients, served in individual mini cocottes as fajitas.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the chicken breasts with smoked paprika, salt, and pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat and sear the chicken breasts for 5 minutes per side.",
+    "Transfer the chicken breasts to the oven and bake for 15 minutes or until cooked through.",
+    "In the same skillet, add the lime juice, garlic, onion, and bell peppers, and cook for 5 minutes or until the vegetables are tender.",
+    "Add the fajita seasoning to the skillet and stir to combine.",
+    "Slice the cooked chicken breasts into thin strips and add to the skillet.",
+    "Serve the chicken and vegetables in individual mini cocottes with warm flour tortillas.",
+    "Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "fajitas",
+    "mexican",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "pan-seared-smoky-mexican-chicken-breasts-fajitas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-smoky-mexican-chicken-breasts-fajitas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:38:51Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "infuse-oil",
+    "primaryIngredient": "chicken breasts",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken breasts",
+    "descriptor": "Pan seared smoky",
+    "dishForm": "Fajitas"
+  }
+}
