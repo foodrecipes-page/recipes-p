@@ -1,0 +1,98 @@
+{
+  "title": "Purely Roasted Japanese Peanut Ozoni",
+  "description": "A floral and aerated post-workout Japanese dish featuring roasted peanut and mirepoix-base, served in a copper pot. This macrobiotic-friendly ozoni is perfect for a healthy lunch.",
+  "cuisine": "Japanese",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "roasted"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Roast the peanuts in a 350 degree oven for 10 minutes, or until fragrant.",
+    "In a large copper pot, heat the sesame oil over medium heat.",
+    "Add the diced onion, carrots, and celery, and cook until the vegetables are tender.",
+    "Add the sliced mushrooms and cook until they release their moisture.",
+    "Pour in the dashi broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the roasted peanuts and soy sauce.",
+    "Serve the ozoni hot, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy-lunch",
+    "japanese-cuisine",
+    "macrobiotic-friendly",
+    "one-pot",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "purely-roasted-japanese-peanut-ozoni",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-roasted-japanese-peanut-ozoni",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:01:47Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "aerated",
+    "mood": "post-workout",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "roasted peanut",
+    "diet": "macrobiotic",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "peanuts",
+    "descriptor": "Purely Roasted",
+    "dishForm": "Ozoni"
+  }
+}
