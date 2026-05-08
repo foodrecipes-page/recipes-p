@@ -332,6 +332,21 @@
     "shard": "p"
   },
   {
+    "slug": "pan-seared-hakka-pork-xiaolongbao",
+    "title": "Pan Seared Hakka Pork Xiaolongbao",
+    "tags": [
+      "chinese-food",
+      "diabetic-friendly",
+      "low-carb",
+      "one-pan",
+      "pan-seared",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "pan-seared-italian-pork-chops-gratin",
     "title": "Pan Seared Italian Pork Chops Gratin",
     "tags": [
@@ -5740,6 +5755,21 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
+    "slug": "piquant-kenyan-vegetable-stir-fry",
+    "title": "Piquant Kenyan Vegetable Stir Fry",
+    "tags": [
+      "date-night",
+      "kenyan-cuisine",
+      "one-pan",
+      "quick-dinner",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {

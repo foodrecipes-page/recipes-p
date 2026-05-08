@@ -1,0 +1,107 @@
+{
+  "title": "Piquant Kenyan Vegetable Stir Fry",
+  "description": "A flavorful and spicy Kenyan dish featuring a variety of vegetables stir-fried in peanut oil, perfect for a date night dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "kenyan spice blend",
+      "amount": "1 teaspoon",
+      "notes": "available at african markets"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the peanut oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the grated carrots and cook for 2 minutes, stirring occasionally.",
+    "Add the sliced zucchini and bell pepper, and cook until the vegetables are tender-crisp, about 3 minutes.",
+    "Add the diced tomatoes and cook for an additional 2 minutes, stirring occasionally.",
+    "Stir in the kenyan spice blend, salt, and black pepper, and cook for 1 minute.",
+    "Reduce the heat to low and simmer the stir-fry for 5 minutes, stirring occasionally.",
+    "Serve the piquant kenyan vegetable stir fry hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "kenyan-cuisine",
+    "one-pan",
+    "quick-dinner",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "piquant-kenyan-vegetable-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-kenyan-vegetable-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:23:16Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "stir-fry",
+    "primaryIngredient": "peanut oil",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "vegetables",
+    "descriptor": "Piquant",
+    "dishForm": "Stir-fry"
+  }
+}

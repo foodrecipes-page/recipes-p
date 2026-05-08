@@ -1,0 +1,101 @@
+{
+  "title": "Pan Seared Hakka Pork Xiaolongbao",
+  "description": "Rich and crispy pan seared Hakka pork xiaolongbao, a quick fix Chinese dish featuring chilled butter, made diabetic friendly and cooked in a wok.",
+  "cuisine": "Chinese",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "chilled butter",
+      "amount": "1/4 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 tablespoons",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "round wonton wrappers",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground pork, chilled butter, ginger, green onions, soy sauce, sesame oil, salt, and black pepper, and mix well until just combined.",
+    "Lay a wonton wrapper on a clean surface and place a tablespoon of the pork mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point, and press the edges together to seal the xiaolongbao.",
+    "Repeat with the remaining wrappers and filling.",
+    "Heat a large wok or skillet over medium high heat and add a small amount of oil to the pan.",
+    "When the oil is hot, add a few of the xiaolongbao to the pan, being careful not to overcrowd, and pan fry until the bottoms are golden brown.",
+    "Add a small amount of water to the pan and cover with a lid to steam the xiaolongbao for a few minutes.",
+    "Remove the lid and continue to cook until the water has evaporated and the bottoms are crispy.",
+    "Serve the pan seared Hakka pork xiaolongbao hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "diabetic-friendly",
+    "low-carb",
+    "one-pan",
+    "pan-seared",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "pan-seared-hakka-pork-xiaolongbao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-hakka-pork-xiaolongbao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:22:54Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "bain-marie",
+    "primaryIngredient": "chilled butter",
+    "diet": "diabetic-friendly",
+    "region": "hakka",
+    "cuisineAdjective": "Hakka",
+    "mainIngredient": "pork",
+    "descriptor": "Pan seared",
+    "dishForm": "Xiaolongbao"
+  }
+}
