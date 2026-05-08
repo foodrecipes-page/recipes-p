@@ -928,6 +928,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-american-vegetable-casserole",
+    "title": "Peppery American Vegetable Casserole",
+    "tags": [
+      "american",
+      "casserole",
+      "one-pan",
+      "vegan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 55,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-argentinian-coconut-stir-fry",
     "title": "Peppery Argentinian Coconut Stir-fry",
     "tags": [

@@ -1,0 +1,110 @@
+{
+  "title": "Peppery American Vegetable Casserole",
+  "description": "A hearty, shaggy casserole featuring a mirepoix base and a blend of American spices, this dish is perfect for a festive gathering. It is also shojin-friendly, making it accessible to a wide range of diets.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "golden caster sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": "trimmed and cut into 1-inch pieces"
+    },
+    {
+      "name": "corn kernels",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "whole wheat breadcrumbs",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the vegetable oil over medium heat.",
+    "Add the chopped onions, carrots, and celery to the skillet and cook until they are tender, about 10 minutes.",
+    "Stir in the smoked paprika, salt, and black pepper.",
+    "In a large bowl, combine the cooked mirepoix mixture, green beans, corn kernels, and golden caster sugar.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Sprinkle the whole wheat breadcrumbs evenly over the top of the casserole.",
+    "Bake the casserole in the preheated oven for 35 minutes, or until the top is golden brown.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "casserole",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "peppery-american-vegetable-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-american-vegetable-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:56:27Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "golden caster sugar",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "vegetables",
+    "descriptor": "Peppery",
+    "dishForm": "Casserole"
+  }
+}
