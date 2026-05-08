@@ -1,0 +1,100 @@
+{
+  "title": "Piquant Spring British Chicken Drumsticks Cornish Pasty",
+  "description": "A tangy and springy English dish featuring chicken drumsticks in a cornish pasty, perfect for a date night, served on a tagliere with beurre-monte for dipping.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "raw-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "8",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic powder, salt, and pepper.",
+    "Add the chicken drumsticks to the bowl and toss to coat with the marinade.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Cut out 8 rectangles of pastry, each about 6 inches by 4 inches.",
+    "Place a chicken drumstick on one half of each rectangle, leaving a 1/2 inch border around the chicken.",
+    "Brush the edges of the pastry with a little water, then fold the other half of the pastry over the chicken and press to seal.",
+    "Use a fork to crimp the edges of the pastry and cut a few slits in the top to allow steam to escape.",
+    "Place the pasties on a baking sheet lined with parchment paper and bake for 25 minutes, or until golden brown.",
+    "Serve the pasties on a tagliere with beurre-monte for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "english-cuisine",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "spring-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "piquant-spring-british-chicken-drumsticks-cornish-pasty",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-spring-british-chicken-drumsticks-cornish-pasty",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:43:57Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "beurre-monte",
+    "primaryIngredient": "chicken drumsticks",
+    "diet": "raw",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "chicken drumsticks",
+    "descriptor": "Piquant Spring",
+    "dishForm": "Cornish Pasty"
+  }
+}
