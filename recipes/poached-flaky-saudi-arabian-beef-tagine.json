@@ -1,0 +1,114 @@
+{
+  "title": "Saudi-Arabian Beef Tagine",
+  "description": "A spicy, flaky beef dish originating from Saudi Arabia, made with a copper-pot vessel.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian-friendly",
+    "ovo-vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless beef shoulder",
+      "amount": "500g",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "beef stock concentrate",
+      "amount": "2 tsp",
+      "notes": "mix with 1L water for stock"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Poach the beef cubes in the beef stock concentrate mixture for 1 hour until cooked through.",
+    "Heat the olive oil in the copper pot over medium heat. Add the chopped onion and cook until softened.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the cumin, coriander, and cayenne pepper (if using) and cook for 1 minute.",
+    "Add the cooked beef to the copper pot and stir to combine with the spice mixture.",
+    "Roll out the flaky pastry to fit the top of the copper pot.",
+    "Place the beef mixture in the copper pot and cover with the pastry. Crimp the edges to seal.",
+    "Bake in a preheated oven at 375°F (190°C) for 25 minutes until the pastry is golden brown.",
+    "Remove from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "middle-eastern",
+    "pastry",
+    "saudi-arabian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "poached-flaky-saudi-arabian-beef-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/poached-flaky-saudi-arabian-beef-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:30:48Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "poach",
+    "primaryIngredient": "beef stock concentrate",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "beef",
+    "descriptor": "poached, flaky",
+    "dishForm": "Tagine"
+  }
+}
