@@ -1,0 +1,97 @@
+{
+  "title": "Pungent Dense Syrian Lamb Kebabs",
+  "description": "A traditional Syrian dish featuring lamb kebabs with a dense and bitter flavor profile, made with breadcrumbs and shio-koji cure, and ayurvedic-tamasic friendly ingredients. This dish is perfect for a dinner meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shio-koji cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ayurvedic spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, making sure it reaches a safe internal temperature of 165 degrees Fahrenheit.",
+    "In a large bowl, combine the lamb cubes, breadcrumbs, shio-koji cure, ayurvedic spice blend, salt, and black pepper, and mix well.",
+    "Add the chopped onion and minced garlic to the bowl and mix until just combined.",
+    "Thread the lamb mixture onto skewers, leaving a small space between each piece.",
+    "Brush the kebabs with olive oil and place them on the grill.",
+    "Cook the kebabs for 10-12 minutes, turning occasionally, until they are cooked through and slightly charred.",
+    "Remove the kebabs from the grill and let them rest for 5 minutes before serving.",
+    "Serve the kebabs hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "pungent-dense-syrian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-dense-syrian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:55:08Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Pungent Dense",
+    "dishForm": "Kebabs"
+  }
+}
