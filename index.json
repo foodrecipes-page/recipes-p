@@ -558,6 +558,21 @@
     "shard": "p"
   },
   {
+    "slug": "peanutty-filipino-rice-fried-rice",
+    "title": "Peanutty Filipino Rice Fried Rice",
+    "tags": [
+      "filipino-food",
+      "fried-rice",
+      "gluten-free",
+      "one-pan",
+      "peanut-oil",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "pear-melange-grilled-salad",
     "title": "Pear Melange Grilled Salad",
     "tags": [

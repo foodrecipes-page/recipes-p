@@ -1,0 +1,98 @@
+{
+  "title": "Peanutty Filipino Rice Fried Rice",
+  "description": "A yeasty and molten Filipino dish featuring peanut oil, this fried rice is a nostalgic treat, cooked to perfection in a scallop shell vessel and served raw-friendly with a side of khao khuah, a type of fry-grind-rice.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "khao khuah",
+      "amount": "1 cup",
+      "notes": "Thai-style fry-grind-rice"
+    },
+    {
+      "name": "scalloped shell vessel",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the peanut oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the cooked rice to the skillet or wok, breaking up any clumps with a spatula.",
+    "Stir in the khao khuah and cook for about 2 minutes, until the rice is well coated.",
+    "Season the rice mixture with salt and pepper to taste.",
+    "Transfer the rice mixture to the scalloped shell vessel.",
+    "Serve the Peanutty Filipino Rice Fried Rice immediately, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "fried-rice",
+    "gluten-free",
+    "one-pan",
+    "peanut-oil",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "peanutty-filipino-rice-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/peanutty-filipino-rice-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:38:07Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "peanut oil",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "rice",
+    "descriptor": "Peanutty",
+    "dishForm": "Fried-Rice"
+  }
+}
