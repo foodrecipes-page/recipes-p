@@ -1,0 +1,99 @@
+{
+  "title": "Pungent Crunchy Greek Beans Gigantes Plaki",
+  "description": "A traditional Greek dish featuring large beans in a flavorful tomato sauce, seasoned with mustard and crunchy breadcrumbs, made with ayurvedic-rajasic-friendly ingredients and a hint of seasoned rice vinegar.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gigantes beans",
+      "amount": "1 cup dried",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "seasoned rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup crumbled",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Drain and rinse the soaked gigantes beans.",
+    "Heat the olive oil in a large saucepan over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the tomato sauce, seasoned rice vinegar, and dijon mustard, stirring to combine.",
+    "Bring the sauce to a simmer and add the drained gigantes beans, cooking for 10 minutes or until the beans are tender.",
+    "Transfer the bean mixture to a baking dish and top with breadcrumbs and crumbled feta cheese, if using.",
+    "Bake the gigantes plaki in the preheated oven for 20 minutes, or until the top is golden brown and crunchy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "crunchy-top",
+    "greek-cuisine",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "pungent-crunchy-greek-beans-gigantes-plaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-crunchy-greek-beans-gigantes-plaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:43:14Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "en-croute",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "beans",
+    "descriptor": "Pungent Crunchy",
+    "dishForm": "Gigantes Plaki"
+  }
+}
