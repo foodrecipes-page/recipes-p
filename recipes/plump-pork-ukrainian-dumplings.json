@@ -1,0 +1,99 @@
+{
+  "title": "Plump Pork Ukrainian Dumplings",
+  "description": "Buttery and juicy Ukrainian dish featuring ancho chillies and coconut cream, wrapped in corn husks for a unique and comforting meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "ancho chillies",
+      "amount": "2",
+      "notes": "dried and stemmed"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "corn husks",
+      "amount": "12",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Soak the corn husks in water for 30 minutes to make them pliable.",
+    "In a large bowl, combine the ground pork, ancho chillies, coconut cream, butter, onion, garlic, salt, and black pepper, and mix well with your hands until just combined.",
+    "To assemble the dumplings, lay a corn husk flat and place a tablespoon of the pork mixture in the center.",
+    "Fold the sides of the corn husk over the filling and then roll the dumpling up, starting from the wide end.",
+    "Repeat with the remaining corn husks and filling.",
+    "Place the dumplings in a large steamer basket, leaving some space between each dumpling.",
+    "Steam the dumplings over boiling water for 30 minutes, or until the pork is cooked through and the corn husks are tender.",
+    "Serve the dumplings hot, with additional coconut cream and ancho chillies on the side if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream",
+    "comfort-food",
+    "one-pan",
+    "pork-recipes",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "plump-pork-ukrainian-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/plump-pork-ukrainian-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:54:00Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "ancho chillies",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pork",
+    "descriptor": "plump pork",
+    "dishForm": "Dumplings"
+  }
+}
