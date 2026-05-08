@@ -5328,6 +5328,20 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-gooey-tunisian-eggplant-tagine",
+    "title": "Piquant Gooey Tunisian Eggplant Tagine",
+    "tags": [
+      "comfort-food",
+      "north-african",
+      "one-pot",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 60,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-irish-rocket-salad",
     "title": "Piquant Irish Rocket Salad",
     "tags": [
