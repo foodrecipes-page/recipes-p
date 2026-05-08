@@ -4516,6 +4516,20 @@
     "shard": "p"
   },
   {
+    "slug": "perfectly-sweet-german-noodle-noodles",
+    "title": "Perfectly Sweet German Noodle Noodles",
+    "tags": [
+      "kid-friendly",
+      "one-pan",
+      "quick-dinner",
+      "vegetarian-friendly",
+      "wok-cooked"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "perfectly-tender-moroccan-lamb-tagine",
     "title": "Moroccan Lamb Tagine",
     "tags": [

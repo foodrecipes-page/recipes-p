@@ -1,0 +1,94 @@
+{
+  "title": "Perfectly Sweet German Noodle Noodles",
+  "description": "A sweet and chewy German noodle dish featuring celery salt and wok-hei, perfect for kids and flexitarian diets. This dish is easy to make and can be served as a main course or side dish.",
+  "cuisine": "German",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egg noodles",
+      "amount": "8 oz",
+      "notes": "wide egg noodles work best"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the egg noodles according to package instructions and set aside.",
+    "Heat the vegetable oil in a large wok or skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cooked noodles, celery salt, soy sauce, and honey to the wok or skillet and stir-fry for 2-3 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the noodle mixture to a serving platter and garnish with chopped green onions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "one-pan",
+    "quick-dinner",
+    "vegetarian-friendly",
+    "wok-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "perfectly-sweet-german-noodle-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/perfectly-sweet-german-noodle-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:50:20Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "wok-hei",
+    "primaryIngredient": "celery salt",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "noodles",
+    "descriptor": "Perfectly sweet",
+    "dishForm": "Noodles"
+  }
+}
