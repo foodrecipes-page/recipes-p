@@ -1,0 +1,106 @@
+{
+  "title": "Pillowy Russian Beef Dumplings",
+  "description": "A spicy and pillowy Russian dish featuring golden syrup, perfect for a solo dinner, served in a scallop shell.",
+  "cuisine": "Russian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "golden syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine ground beef, chopped onion, minced garlic, salt, black pepper, and cayenne pepper, mixing well with your hands until just combined.",
+    "In a small bowl, whisk together beef broth and golden syrup.",
+    "Add the broth mixture to the beef mixture, mixing until just combined.",
+    "In a separate large bowl, whisk together flour and eggs to form a dough.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk using a rolling pin.",
+    "Place a tablespoon of the beef mixture in the center of each disk.",
+    "Fold the dough over the filling, forming a half-moon shape, and press the edges together to seal.",
+    "Bring a large pot of salted water to a boil and gently add the dumplings.",
+    "Cook the dumplings for 10 minutes, then remove with a slotted spoon.",
+    "Serve the dumplings in scallop shells, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "beef-dumplings",
+    "comfort-food",
+    "golden-syrup",
+    "homemade",
+    "one-pot",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "pillowy-russian-beef-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-russian-beef-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:05:27Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "ferment",
+    "primaryIngredient": "golden syrup",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "pillowy spicy",
+    "dishForm": "Dumplings"
+  }
+}
