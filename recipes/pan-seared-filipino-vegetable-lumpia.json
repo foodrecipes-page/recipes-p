@@ -1,0 +1,97 @@
+{
+  "title": "Pan Seared Filipino Vegetable Lumpia",
+  "description": "A kid-friendly Filipino dish featuring charred and crunchy vegetable lumpia served in a dolsot stone bowl with a squeeze of lime juice, made by pounding ingredients in a mortar and pestle",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "spring roll wrappers",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium high heat",
+    "In a mortar and pestle, pound the garlic until well crushed",
+    "Add the shredded cabbage, grated carrots, and chopped green onions to the mortar and pestle and pound until well combined",
+    " Lay a spring roll wrapper on a flat surface and place about 1 tablespoon of the vegetable mixture in the center of the wrapper",
+    "Brush the edges of the wrapper with a little water and fold the bottom half of the wrapper over the filling",
+    "Fold in the sides and roll up the wrapper to form a tight lumpia",
+    "Repeat with the remaining wrappers and filling",
+    "When the oil is hot, add a few of the lumpia to the skillet and fry until golden brown and crispy",
+    "Remove the lumpia from the oil and place them in a dolsot stone bowl",
+    "Serve the lumpia hot with a squeeze of lime juice and a sprinkle of salt"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dolsot-bowl",
+    "filipino-food",
+    "kid-friendly",
+    "lumpia",
+    "pan-seared",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "pan-seared-filipino-vegetable-lumpia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-filipino-vegetable-lumpia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:20:30Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "lime juice",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "vegetables",
+    "descriptor": "Pan seared",
+    "dishForm": "Lumpia"
+  }
+}

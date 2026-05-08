@@ -228,6 +228,21 @@
     "shard": "p"
   },
   {
+    "slug": "pan-seared-filipino-vegetable-lumpia",
+    "title": "Pan Seared Filipino Vegetable Lumpia",
+    "tags": [
+      "dolsot-bowl",
+      "filipino-food",
+      "kid-friendly",
+      "lumpia",
+      "pan-seared",
+      "vegetarian"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "pan-seared-greek-sea-bass-pastitsio",
     "title": "Pan Seared Greek Sea Bass Pastitsio",
     "tags": [
