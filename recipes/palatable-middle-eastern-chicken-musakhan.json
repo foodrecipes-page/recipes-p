@@ -1,0 +1,105 @@
+{
+  "title": "Middle Eastern Chicken Musakhan",
+  "description": "A herbal and creamy Middle Eastern dish featuring sweetened condensed milk, this crowd-pleaser is high in protein and perfect for special occasions. It is a traditional musakhan recipe with a twist.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "sumac",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together sumac, olive oil, salt, and black pepper.",
+    "Add the chicken breasts to the bowl and toss to coat evenly with the sumac mixture.",
+    "Heat a large skillet over medium-high heat and sear the chicken breasts until browned on both sides.",
+    "Transfer the chicken to a baking dish and bake in the preheated oven for 25 minutes.",
+    "While the chicken is baking, heat the chopped onions in a skillet over medium heat until they are softened and caramelized.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Stir in the sweetened condensed milk and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the sauce for 5 minutes.",
+    "To assemble the musakhan, slice the cooked chicken breasts and place them on top of the pita bread pieces.",
+    "Spoon the onion and sweetened condensed milk sauce over the chicken and garnish with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "comfort-food",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 24
+  },
+  "slug": "palatable-middle-eastern-chicken-musakhan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/palatable-middle-eastern-chicken-musakhan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:01:40Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "boil",
+    "primaryIngredient": "sweetened condensed milk",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chicken",
+    "descriptor": "Palatable",
+    "dishForm": "Musakhan"
+  }
+}

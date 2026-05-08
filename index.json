@@ -54,6 +54,21 @@
     "shard": "p"
   },
   {
+    "slug": "palatable-middle-eastern-chicken-musakhan",
+    "title": "Middle Eastern Chicken Musakhan",
+    "tags": [
+      "chicken-recipes",
+      "comfort-food",
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 55,
+    "shard": "p"
+  },
+  {
     "slug": "palatable-saudi-arabian-lamb-kebabs",
     "title": "Saudi Arabian Lamb Kebabs",
     "tags": [
