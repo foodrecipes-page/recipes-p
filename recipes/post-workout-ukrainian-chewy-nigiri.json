@@ -1,0 +1,126 @@
+{
+  "title": "Post-workout Ukrainian Chewy Nigiri",
+  "description": "A winey and chewy post-workout dish inspired by Ukrainian cuisine, featuring low-fat-friendly ingredients and nigiri-shaping technique.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "large eggs, hard-boiled and diced"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "3 oz",
+      "notes": "crumbly, low-fat feta cheese"
+    },
+    {
+      "name": "Cracked black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Buckwheat groats",
+      "amount": "1/4 cup",
+      "notes": "dry-roasted and chopped"
+    },
+    {
+      "name": "Potato starch",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 tsp",
+      "notes": "instant yeast (optional)"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine buckwheat groats, potato starch, and water to form a sticky dough.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 6-8 equal pieces and shape each piece into a small rectangle.",
+    "Place a small amount of olive oil on each rectangle and sprinkle with feta cheese, diced eggs, chopped dill, and a pinch of salt and black pepper.",
+    "Using a sushi mat or a piece of parchment paper, shape each rectangle into a nigiri shape, applying gentle pressure.",
+    "Repeat with the remaining dough pieces.",
+    "Place the nigiri on a baking sheet lined with parchment paper and let them rise in a warm place for 30-45 minutes, or until slightly puffed.",
+    "Preheat the oven to 375°F (190°C).",
+    "Bake the nigiri for 12-15 minutes, or until lightly golden brown.",
+    "Meanwhile, prepare the wine reduction by combining rice vinegar, sugar, and 2 tbsp of olive oil in a small saucepan.",
+    "Bring the mixture to a simmer over medium heat, stirring occasionally, until the sugar dissolves.",
+    "Remove from heat and let cool slightly.",
+    "Brush the wine reduction on the baked nigiri and serve warm.",
+    "Serve immediately, garnished with additional fresh dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "low-fat",
+    "one-pan",
+    "post-workout",
+    "ukrainian",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 23,
+    "carbs": 34,
+    "fat": 10
+  },
+  "slug": "post-workout-ukrainian-chewy-nigiri",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/post-workout-ukrainian-chewy-nigiri",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:32:45Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "olive oil",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "chewy",
+    "descriptor": "Post-workout",
+    "dishForm": "Nigiri"
+  }
+}
