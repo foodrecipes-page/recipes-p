@@ -1,0 +1,94 @@
+{
+  "title": "Plush Silky Greek Pork Belly Gyro",
+  "description": "Indulge in the rich flavors of Greece with this winey and silky pork belly gyro, featuring tender slices of pork belly, all wrapped in a warm pita bread. This dish is not only delicious but also anti-inflammatory friendly.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "2 pounds",
+      "notes": "skin removed"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together red wine, olive oil, garlic, dried oregano, salt, and black pepper to create the marinade.",
+    "Add the pork belly to the marinade and let it sit at room temperature for 2 hours.",
+    "Remove the pork belly from the marinade and place it on a wire rack set over a rimmed baking sheet.",
+    "Let the pork belly air dry in the refrigerator for 24 hours to create a dry brine.",
+    "After the dry brine, roast the pork belly in the preheated oven for 2 hours, or until it reaches an internal temperature of 160 degrees Fahrenheit.",
+    "Let the pork belly rest for 30 minutes before slicing it into thin strips.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "Assemble the gyro by placing the sliced pork belly into the warm pita bread and serving immediately."
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 120,
+  "totalTimeMin": 240,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "anti-inflammatory",
+    "dairy-free",
+    "gluten-free",
+    "greek-food",
+    "pork-belly",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 60
+  },
+  "slug": "plush-silky-greek-pork-belly-gyro",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/plush-silky-greek-pork-belly-gyro",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:01:55Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "brine-dry",
+    "primaryIngredient": "pork belly slices",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "pork belly",
+    "descriptor": "Plush Silky",
+    "dishForm": "Gyro"
+  }
+}
