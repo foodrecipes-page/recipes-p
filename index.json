@@ -8022,6 +8022,21 @@
     "shard": "p"
   },
   {
+    "slug": "purely-decadent-canadian-pecan-tart",
+    "title": "Purely Decadent Canadian Pecan Tart",
+    "tags": [
+      "canadian-dish",
+      "date-night",
+      "decadent-dessert",
+      "pecan-nuts",
+      "tempered-chocolate",
+      "vegetarian"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
     "slug": "purely-grassy-mexican-lamb-birria",
     "title": "Purely Grassy Mexican Lamb Birria",
     "tags": [

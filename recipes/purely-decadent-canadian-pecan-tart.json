@@ -1,0 +1,98 @@
+{
+  "title": "Purely Decadent Canadian Pecan Tart",
+  "description": "A rich and indulgent dessert featuring pecan nuts and tempered chocolate, perfect for a date night, this Canadian dish is also ayurvedic-rajasic-friendly.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pecan nuts",
+      "amount": "1 1/2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "light corn syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "pure vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour and salt.",
+    "Add the melted butter, sugar, and eggs to the bowl and mix until a dough forms.",
+    "Press the dough into a 9 inch tart pan with a removable bottom.",
+    "Bake the crust for 20 minutes, then set aside to cool.",
+    "In a saucepan, combine the corn syrup, chocolate chips, and vanilla extract.",
+    "Place the saucepan over low heat and cook, stirring constantly, until the chocolate is melted and the mixture is smooth.",
+    "Arrange the chopped pecans in the cooled tart shell.",
+    "Pour the chocolate mixture over the pecans and smooth the top.",
+    "Refrigerate the tart for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-dish",
+    "date-night",
+    "decadent-dessert",
+    "pecan-nuts",
+    "tempered-chocolate",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 36,
+    "fat": 20
+  },
+  "slug": "purely-decadent-canadian-pecan-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-decadent-canadian-pecan-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:51:14Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "pecan nuts",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "pecans",
+    "descriptor": "Purely Decadent",
+    "dishForm": "Tart"
+  }
+}
