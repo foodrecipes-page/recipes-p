@@ -1,0 +1,102 @@
+{
+  "title": "Piquant Creamy Mexican Poblanos Stew",
+  "description": "A creamy and spicy Mexican stew featuring roasted poblanos, red cabbage, and a hint of mustard, all pressure-cooked to perfection. This dish is tailored to be ayurvedic-tamasic-friendly.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "poblano peppers",
+      "amount": "2 large",
+      "notes": "roasted"
+    },
+    {
+      "name": "red cabbage",
+      "amount": "1 small head",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Roast the poblano peppers in the oven at 400 degrees Fahrenheit for 30 minutes until the skin is charred.",
+    "Peel the roasted poblanos and chop them into large pieces.",
+    "In a pressure cooker, saute the onion and garlic in a little bit of oil until softened.",
+    "Add the mustard seeds, cumin, salt, and black pepper to the pressure cooker and stir for 1 minute.",
+    "Add the chopped poblanos, shredded red cabbage, coconut cream, and vegetable broth to the pressure cooker.",
+    "Close the lid and cook on high pressure for 10 minutes.",
+    "Let the pressure release naturally for 10 minutes, then quick-release any remaining pressure.",
+    "Stir the stew and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "gluten-free",
+    "mexican-inspired",
+    "one-pot",
+    "pressure-cooker",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "piquant-creamy-mexican-poblanos-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-creamy-mexican-poblanos-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:20:00Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "pressure-cook",
+    "primaryIngredient": "red cabbage",
+    "diet": "ayurvedic-tamasic",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "poblanos",
+    "descriptor": "Piquant Creamy",
+    "dishForm": "Stew"
+  }
+}
