@@ -1,0 +1,108 @@
+{
+  "title": "Pungent Smoke Hot Thai Corn Noodles",
+  "description": "A smoky and savory Thai-inspired noodle dish featuring cornmeal, perfect for a late night craving. This low-calorie friendly recipe combines the flavors of Bangkok street food with a spicy kick.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "1 cup",
+      "notes": "fine or medium grind"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "thai red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sliced scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "crushed peanuts",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "In a large skillet, heat 1 tablespoon of oil over medium heat and add the smoked paprika, cooking for 1 minute.",
+    "Add the thai red curry paste to the skillet and cook for an additional 1-2 minutes, stirring constantly.",
+    "In a large bowl, whisk together the coconut milk, fish sauce, lime juice, salt, and pepper.",
+    "Add the cooked noodles to the bowl and toss with the coconut milk mixture until the noodles are well coated.",
+    "Add the cornmeal to the bowl and toss until the noodles are evenly coated with the cornmeal mixture.",
+    "Add the curry paste mixture to the bowl and toss until the noodles are well combined with the curry paste.",
+    "Transfer the noodles to a serving dish and garnish with sliced scallions and crushed peanuts.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-calorie",
+    "smoky",
+    "spicy",
+    "street-food",
+    "thai-inspired",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "pungent-smoke-hot-thai-corn-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-smoke-hot-thai-corn-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:45:39Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "aerated",
+    "mood": "midnight-craving",
+    "technique": "smoke-hot",
+    "primaryIngredient": "cornmeal",
+    "diet": "low-calorie",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "corn",
+    "descriptor": "pungent smoke hot",
+    "dishForm": "Noodles"
+  }
+}
