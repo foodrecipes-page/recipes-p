@@ -1,0 +1,105 @@
+{
+  "title": "Piquant Brazilian Gouda Skewers",
+  "description": "A tangy and chewy Brazilian dish featuring Gouda cheese, perfect for festive occasions, kosher-friendly and made with katsuramuki-cut cheese for a unique texture.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gouda cheese",
+      "amount": "12 oz",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "Thread a piece of Gouda cheese, a sprig of parsley, a sprig of mint, a slice of red onion, and a slice of red bell pepper onto each bamboo skewer.",
+    "Brush the skewers with olive oil and season with salt and black pepper.",
+    "Grill the skewers for 2-3 minutes per side, or until the cheese is melted and slightly charred.",
+    "Serve the skewers hot with a squeeze of lemon juice.",
+    "Let the skewers cool for a few minutes before serving.",
+    "Arrange the skewers on a platter and garnish with additional parsley and mint if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "cheese",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 6,
+    "fat": 16
+  },
+  "slug": "piquant-brazilian-gouda-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-brazilian-gouda-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:29:37Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "gouda cheese",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Gouda",
+    "descriptor": "Piquant Chewy",
+    "dishForm": "Skewers"
+  }
+}
