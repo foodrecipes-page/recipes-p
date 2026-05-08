@@ -1,0 +1,102 @@
+{
+  "title": "Pan Seared Crunchy Jamaican Almond Skillet",
+  "description": "A nostalgic Jamaican dish featuring flaked almonds and a yuzu cure, made in an iron teppan skillet with an umami and crunchy texture, following ayurvedic sattvic friendly principles.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flaked almonds",
+      "amount": "1 cup",
+      "notes": "freshly toasted"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the iron teppan skillet over medium heat and add the coconut oil.",
+    "Add the minced garlic and grated ginger and saute for 1 minute.",
+    "Add the toasted flaked almonds and cook for 2 minutes, stirring frequently.",
+    "Add the thinly sliced scallions and cook for 1 minute, stirring constantly.",
+    "In a small bowl, whisk together the yuzu juice, turmeric, salt, and black pepper.",
+    "Pour the yuzu mixture over the almond mixture and stir to combine.",
+    "Cook for an additional 2 minutes, stirring frequently, until the mixture is crunchy and fragrant.",
+    "Remove the skillet from the heat and let it cool for 1 minute.",
+    "Serve the pan seared crunchy Jamaican almond skillet hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "gluten-free",
+    "jamaican",
+    "one-pan",
+    "umami",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "pan-seared-crunchy-jamaican-almond-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-crunchy-jamaican-almond-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:02:29Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "flaked almonds",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "almonds",
+    "descriptor": "Pan seared crunchy",
+    "dishForm": "Skillet"
+  }
+}
