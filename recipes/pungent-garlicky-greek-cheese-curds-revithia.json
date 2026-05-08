@@ -1,0 +1,99 @@
+{
+  "title": "Pungent Garlicky Greek Cheese Curds Revithia",
+  "description": "A garlicky, velvety Greek dish featuring cheese curds, perfect for a crowd, pescatarian-friendly and full of flavor, with a twist of nuka-pickle adding a tangy crunch.",
+  "cuisine": "Greek",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cheese Curds",
+      "amount": "1 pound",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Nuka Pickle",
+      "amount": "1/2 cup",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Kalamata Olives",
+      "amount": "1/2 cup",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, minced garlic, salt, and black pepper.",
+    "Add the cheese curds to the bowl and toss until they are well coated with the garlic mixture.",
+    "Stir in the chopped nuka pickle, kalamata olives, and chopped parsley.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 20 minutes or until the cheese is melted and bubbly.",
+    "Remove from the oven and let it cool for a few minutes before serving.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "crowd-pleaser",
+    "garlicky",
+    "greek-cuisine",
+    "one-pan",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "pungent-garlicky-greek-cheese-curds-revithia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-garlicky-greek-cheese-curds-revithia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:50:56Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "cheese curds",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "cheese curds",
+    "descriptor": "pungent garlicky",
+    "dishForm": "Revithia"
+  }
+}
