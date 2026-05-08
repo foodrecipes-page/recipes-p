@@ -1,0 +1,95 @@
+{
+  "title": "Peppery Kenyan Buckwheat Flatbread",
+  "description": "A peppery and crumbly flatbread featuring buckwheat flour, perfect for a date night, with a flexitarian-friendly mother sauce base.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "2 cups",
+      "notes": "make sure it is fresh"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mother sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the buckwheat flour, all purpose flour, black pepper, and salt.",
+    "In a separate bowl, mix the yeast and water, then let it sit for 5 minutes.",
+    "Add the yeast mixture to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rest for 30 minutes in a warm place.",
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Divide the dough into 4-6 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a thin circle, about 1/8 inch thick.",
+    "Brush the tops with olive oil and cook for 2-3 minutes on each side, until golden brown.",
+    "Serve the flatbread with the mother sauce and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buckwheat",
+    "date-night",
+    "flatbread",
+    "flexitarian",
+    "kenyan-cuisine",
+    "peppery"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "peppery-kenyan-buckwheat-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-kenyan-buckwheat-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:20:38Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "buckwheat flour",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "buckwheat",
+    "descriptor": "peppery crumbly",
+    "dishForm": "Flatbread"
+  }
+}

@@ -3161,6 +3161,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-kenyan-buckwheat-flatbread",
+    "title": "Peppery Kenyan Buckwheat Flatbread",
+    "tags": [
+      "buckwheat",
+      "date-night",
+      "flatbread",
+      "flexitarian",
+      "kenyan-cuisine",
+      "peppery"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-kenyan-citrus-stir-fry",
     "title": "Peppery Kenyan Citrus Stir-fry",
     "tags": [
