@@ -1,0 +1,96 @@
+{
+  "title": "Pomegranate Glazed Middle-eastern Turkey Kebabs",
+  "description": "A flavorful and colorful Middle-eastern dish featuring juicy turkey and a sweet pomegranate glaze.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "kid-friendly",
+    "rajasic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless turkey breast",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4-6 pita rounds"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat (400°F).",
+    "Thread the turkey cubes onto skewers, leaving a little space between each piece.",
+    "In a small bowl, whisk together the pomegranate molasses, olive oil, lemon juice, garlic, salt, and black pepper.",
+    "Brush the pomegranate glaze onto both sides of the turkey cubes.",
+    "Grill the turkey kebabs for 10-12 minutes, turning occasionally, until cooked through.",
+    "Meanwhile, toast the pita bread rounds on the grill or in the oven.",
+    "Serve the turkey kebabs hot with toasted pita bread and garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "glazed",
+    "grilled",
+    "kid-friendly",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "pomegranate-glazed-middle-eastern-turkey-kebabs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/pomegranate-glazed-middle-eastern-turkey-kebabs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:13:44Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "glaze",
+    "primaryIngredient": "turkey",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Middle-eastern",
+    "mainIngredient": "Turkey",
+    "descriptor": "Pomegranate Glazed",
+    "dishForm": "Kebabs"
+  }
+}
