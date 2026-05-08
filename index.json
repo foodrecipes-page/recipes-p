@@ -244,6 +244,21 @@
     "shard": "p"
   },
   {
+    "slug": "pan-seared-spanish-trout-ensaimada",
+    "title": "Pan Seared Spanish Trout Ensaimada",
+    "tags": [
+      "comfort-food",
+      "one-pan",
+      "plant-based",
+      "seafood",
+      "spanish-cuisine",
+      "valencian"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "pan-seared-thai-cod-curry",
     "title": "Pan-seared Thai Cod Curry",
     "tags": [

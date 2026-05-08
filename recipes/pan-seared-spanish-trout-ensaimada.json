@@ -1,0 +1,112 @@
+{
+  "title": "Pan Seared Spanish Trout Ensaimada",
+  "description": "A cultured and comforting Spanish dish featuring rainbow trout, deglaze fond, and a plant based friendly ensaimada form, with a cheese pull effect.",
+  "cuisine": "Spanish",
+  "diet": [
+    "plant-based",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rainbow trout fillets",
+      "amount": "4",
+      "notes": "Fresh and skin removed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "Sweet"
+    },
+    {
+      "name": "Ensaimada dough",
+      "amount": "1 package",
+      "notes": "Plant based and thawed"
+    },
+    {
+      "name": "Vegan mozzarella shreds",
+      "amount": "1 cup",
+      "notes": "Dairy free"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "Dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the ensaimada dough to a large rectangle, about 1/4 inch thick.",
+    "Place the trout fillets in the center of the dough, leaving a 1 inch border around them.",
+    "Sprinkle the smoked paprika, garlic powder, salt, and black pepper over the trout fillets.",
+    "Drizzle the olive oil and lemon juice over the trout fillets.",
+    "Sprinkle the vegan mozzarella shreds over the top of the trout fillets.",
+    "Fold the ensaimada dough over the trout fillets, pressing the edges to seal.",
+    "Place the ensaimada on a baking sheet lined with parchment paper, seam side down.",
+    "Bake the ensaimada in the preheated oven for 20 minutes, or until golden brown.",
+    "Remove the ensaimada from the oven and let it rest for 5 minutes before slicing and serving.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "plant-based",
+    "seafood",
+    "spanish-cuisine",
+    "valencian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "pan-seared-spanish-trout-ensaimada",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-spanish-trout-ensaimada",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:17:23Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "rainbow trout",
+    "diet": "plant-based",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "trout",
+    "descriptor": "pan seared",
+    "dishForm": "Ensaimada"
+  }
+}
