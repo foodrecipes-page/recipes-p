@@ -1,0 +1,104 @@
+{
+  "title": "Moroccan Lamb Tagine",
+  "description": "A traditional Moroccan dish featuring tender lamb in a rich and flavorful sauce, made with chilled butter and cooked in a papillote, perfect for a crowd and suitable for a Buddhist temple gathering",
+  "cuisine": "Moroccan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "chilled butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit",
+    "In a large bowl, mix together the lamb, olive oil, onion, garlic, ginger, cumin, coriander, and cinnamon",
+    "Season with salt and pepper to taste",
+    "Transfer the lamb mixture to a large piece of parchment paper or foil, and dot the top with chilled butter",
+    "Fold the parchment paper or foil over the lamb to create a papillote, and seal the edges",
+    "Place the papillote in a large Dutch oven or heavy pot with a tight-fitting lid",
+    "Add the dried apricots to the pot, and pour in enough water to come halfway up the side of the papillote",
+    "Cover the pot, and bring the water to a boil",
+    "Transfer the pot to the preheated oven, and cook for 2.5 hours",
+    "Remove the pot from the oven, and let it cool slightly before serving"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "lamb",
+    "moroccan",
+    "one-pot",
+    "special-occasion",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "perfectly-tender-moroccan-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/perfectly-tender-moroccan-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:02:53Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "papillote",
+    "primaryIngredient": "chilled butter",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "perfectly tender",
+    "dishForm": "Tagine"
+  }
+}
