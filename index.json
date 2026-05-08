@@ -5240,6 +5240,21 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-italian-capers-risotto",
+    "title": "Piquant Italian Capers Risotto",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "italian-food",
+      "one-pot",
+      "vegetarian-friendly",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 55,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-italian-haggis-vitello-tonnato",
     "title": "Piquant Italian Haggis Vitello Tonnato",
     "tags": [
