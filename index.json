@@ -1,5 +1,19 @@
 [
   {
+    "slug": "packed-dense-spanish-perilla-leaf-paella",
+    "title": "Spanish Perilla Leaf Paella",
+    "tags": [
+      "mildly-spicy",
+      "one-pan",
+      "rice-based",
+      "spanish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 60,
+    "shard": "p"
+  },
+  {
     "slug": "packed-syrian-blackeye-pea-stew",
     "title": "Packed Syrian Blackeye Pea Stew",
     "tags": [

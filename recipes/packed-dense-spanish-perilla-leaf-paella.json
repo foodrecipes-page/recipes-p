@@ -1,0 +1,105 @@
+{
+  "title": "Spanish Perilla Leaf Paella",
+  "description": "A dense and flavorful Catalan dish featuring perilla leaves and score fat, suitable for low fat diets with modifications",
+  "cuisine": "Spanish",
+  "diet": [
+    "low fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "perilla leaves",
+      "amount": "1 cup",
+      "notes": "also known as kkaennip"
+    },
+    {
+      "name": "score fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "uncooked rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sausage",
+      "amount": "1 pound",
+      "notes": "such as chorizo"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the score fat in a large paella pan or skillet over medium high heat",
+    "Add the sausage and cook until browned, about 5 minutes",
+    "Add the onion and garlic and cook until the onion is translucent, about 5 minutes",
+    "Add the perilla leaves and cook until wilted, about 2 minutes",
+    "Add the paprika, salt, and black pepper and stir to combine",
+    "Add the uncooked rice and stir to coat the rice with the spice mixture",
+    "Add the chicken broth and bring to a boil",
+    "Reduce the heat to low, cover, and simmer for 20 minutes",
+    "Add the tomato and stir to combine",
+    "Continue to simmer, covered, for an additional 10 minutes or until the rice is tender"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mildly-spicy",
+    "one-pan",
+    "rice-based",
+    "spanish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "packed-dense-spanish-perilla-leaf-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/packed-dense-spanish-perilla-leaf-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:51:03Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "score-fat",
+    "primaryIngredient": "perilla-leaf-kkaennip",
+    "diet": "low-fat",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "perilla leaf",
+    "descriptor": "Packed dense",
+    "dishForm": "Paella"
+  }
+}
