@@ -1,0 +1,105 @@
+{
+  "title": "piquant flaky french wensleydale quiche",
+  "description": "a grassy and flaky brunch dish featuring wensleydale cheese, made with a dashi extract and halal-friendly ingredients.",
+  "cuisine": "french",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "wensleydale cheese",
+      "amount": "225g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "300g",
+      "notes": "use a combination of all-purpose flour and cake flour for a better texture"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "120g"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "10ml"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "250ml"
+    },
+    {
+      "name": "grated onion",
+      "amount": "50g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375f (190c).",
+    "roll out the dough to a thickness of about 1/8 inch.",
+    "transfer the dough to a 9-inch tart pan and trim the edges to fit.",
+    "spread the grated onion evenly over the dough, leaving a 1-inch border around the edges.",
+    "place the wensleydale cheese in a bowl and mix with the dashi extract, salt, and black pepper.",
+    "pour the egg mixture over the cheese mixture and smooth the top.",
+    "dot the top of the quiche with the cold unsalted butter.",
+    "bake the quiche for 35-40 minutes, or until the edges are golden brown and the center is set.",
+    "remove the quiche from the oven and let it cool for 10 minutes.",
+    "transfer the quiche to a wire rack and let it cool completely.",
+    "serve the quiche warm, garnished with fresh thyme."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "dashi",
+    "european",
+    "french",
+    "halal",
+    "quiche",
+    "vegetarian",
+    "wensleydale"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "piquant-flaky-french-wensleydale-quiche",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-flaky-french-wensleydale-quiche",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:51:59Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "dashi-extract",
+    "primaryIngredient": "wensleydale",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Wensleydale",
+    "descriptor": "Piquant Flaky",
+    "dishForm": "Quiche"
+  }
+}

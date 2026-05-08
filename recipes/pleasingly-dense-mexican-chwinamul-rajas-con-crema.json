@@ -1,0 +1,106 @@
+{
+  "title": "Pleasingly Dense Mexican Chwinamul Rajas Con Crema",
+  "description": "A comforting and cultured Mexican dish featuring chwinamul, cooked in a clay pot with a low-fat friendly twist, served as rajas con crema. This dish is perfect for a chilly evening.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chwinamul",
+      "amount": "1 cup",
+      "notes": "also known as Korean aster or aster scaber"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "poblano peppers",
+      "amount": "2 large",
+      "notes": "roasted and diced"
+    },
+    {
+      "name": "crema",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "queso fresco",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roast the poblano peppers in the oven for 30 minutes, then peel and dice them.",
+    "Heat a clay pot over medium heat and saute the diced onions until they are translucent.",
+    "Add the minced garlic to the clay pot and cook for 1 minute.",
+    "Add the chwinamul to the clay pot and cook until it is tender, about 10 minutes.",
+    "Stir in the roasted poblano peppers, crema, queso fresco, cilantro, lime juice, salt, and black pepper.",
+    "Reduce heat to low and simmer the mixture for 10 minutes, stirring occasionally.",
+    "Serve the rajas con crema hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot-cooking",
+    "comfort-food",
+    "low-fat",
+    "mexican-food",
+    "rajas-con-crema",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "pleasingly-dense-mexican-chwinamul-rajas-con-crema",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pleasingly-dense-mexican-chwinamul-rajas-con-crema",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:52:14Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "chwinamul",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chwinamul",
+    "descriptor": "Pleasingly Dense",
+    "dishForm": "Rajas Con Crema"
+  }
+}
