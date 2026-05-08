@@ -1,0 +1,95 @@
+{
+  "title": "Pungent Pickled Peruvian Vine Leaves Dumplings",
+  "description": "A festive Peruvian dish featuring vine leaves, pickled in a brine solution, and served as a whole30-friendly snack, with a winey and chewy texture.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Vine leaves",
+      "amount": "20 leaves",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the red wine vinegar, water, salt, and black pepper, and bring to a boil over high heat.",
+    "Reduce the heat to medium-low and let the brine solution simmer for 10 minutes.",
+    "Add the minced garlic and chopped onion to the brine solution and let it simmer for another 5 minutes.",
+    "Prepare the vine leaves by rinsing them in cold water and removing the stems.",
+    "Pack the vine leaves tightly into a large jar, leaving about 1 inch of space at the top.",
+    "Pour the hot brine solution over the vine leaves, making sure they are completely covered.",
+    "Seal the jar and let it cool to room temperature.",
+    "Refrigerate the jar and let the vine leaves pickle for at least 24 hours.",
+    "To serve, remove the desired number of vine leaves from the jar and drizzle with olive oil."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "peruvian-cuisine",
+    "pickled-vegetables",
+    "snack-ideas",
+    "vine-leaves",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "pungent-pickled-peruvian-vine-leaves-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-pickled-peruvian-vine-leaves-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:15:02Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "brine-wet",
+    "primaryIngredient": "vine leaves",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "vine leaves",
+    "descriptor": "pungent pickled",
+    "dishForm": "Dumplings"
+  }
+}
