@@ -1,0 +1,107 @@
+{
+  "title": "Pink Glazed Japanese Strawberry Sushi",
+  "description": "A cultured and crunchy Japanese dish featuring strawberries and a sweet glaze, served on a tagliere for a nostalgic treat.",
+  "cuisine": "Japanese",
+  "diet": [
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Japanese strawberries",
+      "amount": "12",
+      "notes": "hulled and sliced"
+    },
+    {
+      "name": "Short grain rice",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "Noru sheets",
+      "amount": "1 package",
+      "notes": "dried seaweed"
+    },
+    {
+      "name": "Pink glaze",
+      "amount": "1 cup",
+      "notes": "made from strawberry puree and sugar"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Prepare the short grain rice according to the package instructions and let it cool.",
+    "Cut the noru sheets into small pieces and set them aside.",
+    "In a small bowl, mix the rice vinegar, sugar, and salt to create the seasoning mixture.",
+    "In a separate bowl, mix the pink glaze and sliced strawberries together.",
+    "To assemble the sushi, lay a small piece of noru sheet flat on the tagliere.",
+    "Place a small amount of cooled rice on top of the noru sheet.",
+    "Add a few slices of strawberry on top of the rice.",
+    "Drizzle the pink glaze over the strawberries.",
+    "Sprinkle the sesame seeds and fresh mint leaves over the top for garnish.",
+    "Repeat the assembly process until all ingredients are used up.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert-ideas",
+    "japanese-cuisine",
+    "raw-friendly",
+    "strawberry-recipes",
+    "sushi-recipes",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "pink-glazed-japanese-strawberry-sushi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pink-glazed-japanese-strawberry-sushi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:07:03Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "glaze",
+    "primaryIngredient": "strawberries",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "strawberries",
+    "descriptor": "Pink Glazed",
+    "dishForm": "Sushi"
+  }
+}
