@@ -1,0 +1,100 @@
+{
+  "title": "Pan Seared Argentinian Portobello Mushrooms Skewers",
+  "description": "Earthy and shattering Argentinian dish featuring pandan leaf and robata grill, this lacto vegetarian friendly recipe is perfect for adventurous eaters, served in a bamboo steamer.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "portobello mushrooms",
+      "amount": "12 large",
+      "notes": "stems removed and caps sliced 1/2 inch thick"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "12 large",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium high heat.",
+    "Thread a portobello mushroom slice, a pandan leaf, and a lemongrass stalk onto each skewer.",
+    "Brush the skewers with olive oil and season with salt and black pepper.",
+    "Grill the skewers for 3-4 minutes per side, or until the mushrooms are tender and slightly charred.",
+    "Meanwhile, mix the chimichurri sauce with minced garlic.",
+    "Brush the grilled skewers with the chimichurri garlic sauce.",
+    "Place the skewers in a bamboo steamer lined with parchment paper.",
+    "Top each skewer with shredded mozzarella cheese and steam for 1-2 minutes, or until the cheese is melted.",
+    "Serve the skewers hot, garnished with additional pandan leaves and lemongrass stalks if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "bamboo-steamer",
+    "grilled-mushrooms",
+    "lacto-vegetarian",
+    "pandan-leaf",
+    "robata-grill"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "pan-seared-argentinian-portobello-mushrooms-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-argentinian-portobello-mushrooms-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:07:32Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "robata-grill",
+    "primaryIngredient": "pandan-leaf",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "pandan leaf wrapped portobello mushrooms",
+    "descriptor": "Pan seared",
+    "dishForm": "Skewers"
+  }
+}
