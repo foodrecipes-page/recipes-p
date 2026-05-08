@@ -1,0 +1,92 @@
+{
+  "title": "Perfectly Smoked Kenyan Sweet Potato Roast",
+  "description": "A comforting Kenyan dish featuring kinako and smoked sweet potatoes, perfect for a flexitarian dinner option. This recipe combines the natural sweetness of sweet potatoes with the nutty flavor of kinako and a hint of smokiness.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "4 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "kinako",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the sweet potatoes with olive oil, smoked paprika, garlic powder, salt, and black pepper until they are evenly coated.",
+    "Spread the sweet potatoes out in a single layer on a baking sheet and roast for 30 minutes.",
+    "While the sweet potatoes are roasting, mix the kinako with a small amount of chicken broth to make a paste.",
+    "After 30 minutes, remove the sweet potatoes from the oven and brush them with the kinako paste.",
+    "Return the sweet potatoes to the oven and continue roasting for an additional 20 minutes, or until they are tender and caramelized.",
+    "Remove the sweet potatoes from the oven and let them cool for a few minutes before serving.",
+    "Serve the smoked sweet potatoes hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flexitarian",
+    "kinako",
+    "roasted-vegetables",
+    "smoked",
+    "sweet-potatoes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "perfectly-smoked-kenyan-sweet-potato-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/perfectly-smoked-kenyan-sweet-potato-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:12:14Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "smoke",
+    "primaryIngredient": "kinako",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "perfectly smoked",
+    "dishForm": "Roast"
+  }
+}

@@ -4471,6 +4471,21 @@
     "shard": "p"
   },
   {
+    "slug": "perfectly-smoked-kenyan-sweet-potato-roast",
+    "title": "Perfectly Smoked Kenyan Sweet Potato Roast",
+    "tags": [
+      "comfort-food",
+      "flexitarian",
+      "kinako",
+      "roasted-vegetables",
+      "smoked",
+      "sweet-potatoes"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 70,
+    "shard": "p"
+  },
+  {
     "slug": "perfectly-smoky-vietnamese-runner-beans-bake",
     "title": "Perfectly Smoky Vietnamese Runner Beans Bake",
     "tags": [
