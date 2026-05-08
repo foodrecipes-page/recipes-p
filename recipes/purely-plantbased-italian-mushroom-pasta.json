@@ -1,0 +1,101 @@
+{
+  "title": "Purely Plantbased Italian Mushroom Pasta",
+  "description": "A delicious and savory Italian-inspired pasta dish featuring mushrooms and vanilla bean paste, perfect for a brunch mood, this plant-based friendly recipe is sure to please. The combination of umami flavors and snappy texture will leave you wanting more.",
+  "cuisine": "Italian",
+  "diet": [
+    "plantbased",
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced cremini or shiitake"
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and add the sliced mushrooms.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the vanilla bean paste, nutritional yeast, salt, and black pepper to the skillet and stir to combine.",
+    "Add the vegetable broth to the skillet and bring to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 5 minutes, stirring occasionally.",
+    "Use a bain-marie to warm the sauce over low heat while the pasta cooks.",
+    "Drain the cooked pasta and add it to the skillet with the sauce.",
+    "Toss the pasta in the sauce to combine and serve hot.",
+    "Garnish with additional nutritional yeast and black pepper, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "italian-food",
+    "mushroom-recipes",
+    "pasta-dishes",
+    "plant-based",
+    "vegan-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "purely-plantbased-italian-mushroom-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-plantbased-italian-mushroom-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:59:11Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "bain-marie",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Purely Plantbased",
+    "dishForm": "Pasta"
+  }
+}
