@@ -1,0 +1,100 @@
+{
+  "title": "Pungent Snappy Norwegian Kanten Agar Bowl",
+  "description": "A post-workout Norwegian dish featuring kanten-agar, score-fat, and plant-based ingredients, with a mustardy and snappy flavor profile. This bowl is designed to provide a boost of energy and satisfaction after a workout.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "plant-based",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kanten agar",
+      "amount": "1 cup",
+      "notes": "dried and powdered"
+    },
+    {
+      "name": "score fat",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tbsp",
+      "notes": "whole-grain"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": "raw and unfiltered"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "filtered"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "curly-leaf"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, bring the water to a boil over high heat.",
+    "Reduce the heat to medium and add the kanten agar, stirring constantly to avoid lumps.",
+    "Continue cooking for 5 minutes, or until the agar is fully dissolved.",
+    "Remove the saucepan from the heat and stir in the melted score fat, mustard, apple cider vinegar, salt, and black pepper.",
+    "Let the mixture cool to room temperature, then refrigerate until chilled.",
+    "Just before serving, stir in the chopped fresh parsley.",
+    "Spoon the kanten agar mixture into individual bowls and serve immediately.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "norwegian-cuisine",
+    "plant-based",
+    "post-workout",
+    "pungent",
+    "snappy",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "pungent-snappy-norwegian-kanten-agar-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-snappy-norwegian-kanten-agar-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:41:53Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "score-fat",
+    "primaryIngredient": "kanten-agar",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "kanten agar",
+    "descriptor": "pungent snappy",
+    "dishForm": "Bowl"
+  }
+}
