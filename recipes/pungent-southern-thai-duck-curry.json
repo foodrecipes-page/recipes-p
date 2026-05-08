@@ -1,0 +1,99 @@
+{
+  "title": "Pungent Southern Thai Duck Curry",
+  "description": "A spicy and juicy Thai dish featuring duck, this curry is a nostalgic reminder of Southern Thai cuisine, simmered to perfection in a Korean brass bowl. It is a raw-friendly dish that can be served with steamed rice.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bird's eye chilies",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a Korean brass bowl over medium heat.",
+    "Add the sliced bird's eye chilies and cook for 1 minute.",
+    "Add the red curry paste and cook, stirring constantly, for 2 minutes.",
+    "Add the duck pieces and cook until browned on all sides.",
+    "Add the coconut milk, fish sauce, palm sugar, and lime juice, and stir to combine.",
+    "Bring the mixture to a simmer and cook, covered, for 20 minutes.",
+    "Stir in the chopped Thai basil and cook for an additional 2 minutes.",
+    "Season the curry with salt to taste.",
+    "Serve the curry hot, garnished with additional Thai basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "duck-recipes",
+    "korean-brass-bowl",
+    "raw-friendly",
+    "southern-thai",
+    "spicy",
+    "thai-curry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "pungent-southern-thai-duck-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-southern-thai-duck-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:01:00Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "simmer",
+    "primaryIngredient": "duck",
+    "diet": "raw",
+    "region": "southern-thai",
+    "cuisineAdjective": "Southern Thai",
+    "mainIngredient": "duck",
+    "descriptor": "pungent juicy",
+    "dishForm": "Curry"
+  }
+}
