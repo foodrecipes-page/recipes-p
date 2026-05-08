@@ -1,0 +1,95 @@
+{
+  "title": "Purely Silky Brazilian Tofu Toast",
+  "description": "A buttery and silky Brazilian dish featuring marinated tofu on toast, perfect for a flexitarian diet. This recipe is light and delicious, making it a great option for any meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "brazilian spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "In a large bowl, whisk together the brazilian spice blend, olive oil, garlic, salt, and black pepper.",
+    "Add the cubed tofu to the bowl and toss to coat with the marinade.",
+    "Add the marinated tofu to the preheated skillet and cook for 5 minutes on each side, or until golden brown.",
+    "Meanwhile, toast the whole wheat bread until lightly browned.",
+    "Butter each slice of toasted bread with unsalted butter.",
+    "Place the cooked tofu on top of the buttered toast.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-cuisine",
+    "flexitarian-friendly",
+    "healthy-snacks",
+    "lunch-ideas",
+    "quick-meals",
+    "silky-tofu",
+    "tofu-recipes",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "purely-silky-brazilian-tofu-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-silky-brazilian-tofu-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:55:59Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "toast",
+    "primaryIngredient": "marinated tofu",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "tofu",
+    "descriptor": "purely silky",
+    "dishForm": "Toast"
+  }
+}
