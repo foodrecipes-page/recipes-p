@@ -1,0 +1,99 @@
+{
+  "title": "Piquant Smoky Peruvian Potato Tiradito",
+  "description": "A smoky and comforting Peruvian dish featuring crispy potatoes in a zesty vinaigrette dressing, served in an earthenware bowl.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and cut into 1/2 inch cubes"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Carefully add the potato cubes to the hot oil and fry until golden brown, about 5 minutes.",
+    "Remove the potatoes from the oil with a slotted spoon and drain on paper towels.",
+    "In a blender or food processor, combine the lime juice, smoked paprika, garlic, aji amarillo peppers, salt, and black pepper, and blend until smooth.",
+    "In a large bowl, combine the fried potatoes, blended vinaigrette, and chopped cilantro, and toss to coat.",
+    "Divide the potato mixture among four earthenware bowls.",
+    "Garnish each bowl with additional cilantro if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "gluten-free",
+    "peruvian-cuisine",
+    "smoky",
+    "vegetarian",
+    "vinaigrette"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "piquant-smoky-peruvian-potato-tiradito",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-smoky-peruvian-potato-tiradito",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:55:24Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "vinaigrette dressing",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Piquant Smoky",
+    "dishForm": "Tiradito"
+  }
+}
