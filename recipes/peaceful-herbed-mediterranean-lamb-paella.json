@@ -1,0 +1,102 @@
+{
+  "title": "Peaceful Herbed Mediterranean Lamb Paella",
+  "description": "A light and cozy Mediterranean dish featuring lamb, mint, and garlic, cooked to perfection in a paella pan. This macrobiotic-friendly recipe is perfect for a warm evening.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "uncooked Arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Stir in the smoked paprika, saffron threads, salt, and black pepper, and cook for 1 minute.",
+    "Add the chopped fresh mint and cook until wilted, about 1 minute.",
+    "Add the uncooked Arborio rice and cook for 1-2 minutes, until the rice is coated in the oil and spices.",
+    "Add the chicken broth to the paella pan and bring to a boil.",
+    "Reduce the heat to low, cover the paella pan, and simmer for 20-25 minutes, until the rice is cooked and the liquid is absorbed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "herbed-rice",
+    "lamb-recipes",
+    "macrobiotic-friendly",
+    "mediterranean-dishes",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "peaceful-herbed-mediterranean-lamb-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/peaceful-herbed-mediterranean-lamb-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:00:59Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "temper",
+    "primaryIngredient": "mint",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "peaceful herbed",
+    "dishForm": "Paella"
+  }
+}
