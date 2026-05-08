@@ -1,0 +1,100 @@
+{
+  "title": "Piquant Middle Eastern Shrimp Pilaf",
+  "description": "A rich and snappy Middle Eastern dish featuring shrimp stock and katsuramuki-cut vegetables, perfect for a midnight craving, this paleo-friendly pilaf is a delicious and healthy option.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "shrimp stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the katsuramuki-cut onion and cook until it is lightly browned.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the shrimp and cook until they are pink and fully cooked.",
+    "Add the cauliflower rice, shrimp stock, cumin, paprika, salt, and black pepper to the skillet.",
+    "Stir everything together and bring the mixture to a boil.",
+    "Reduce the heat to low, cover the skillet, and simmer for 10 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "one-pan",
+    "paleo-friendly",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "piquant-middle-eastern-shrimp-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-middle-eastern-shrimp-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:32:49Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "shrimp stock",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "shrimp",
+    "descriptor": "Piquant",
+    "dishForm": "Pilaf"
+  }
+}
