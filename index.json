@@ -55,6 +55,20 @@
     "shard": "p"
   },
   {
+    "slug": "pale-nutty-irish-kombu-fried-rice",
+    "title": "Pale Nutty Irish Kombu Fried Rice",
+    "tags": [
+      "irish-cuisine",
+      "kosher-friendly",
+      "one-pan",
+      "seafood-free",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "paleo-brown-lentil-salad",
     "title": "Paleo Brown Lentil Salad",
     "tags": [
