@@ -1,0 +1,108 @@
+{
+  "title": "Pan-Seared Mexican Duck Confit de Pato Ramekin",
+  "description": "A rich and tangy Mexican-inspired dish featuring tender duck meat, crispy skin, and a hint of citrus.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck leg",
+      "amount": "2"
+    },
+    {
+      "name": "Mexican spices",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Orange juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped"
+    },
+    {
+      "name": "Duck sauce",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the duck legs with Mexican spices, salt, and pepper.",
+    "Heat olive oil in a skillet over medium-high heat.",
+    "Sear the duck legs until browned on both sides, about 5 minutes per side.",
+    "Transfer the skillet to the preheated oven and braise the duck legs for 2 hours.",
+    "Remove the duck legs from the oven and let them cool slightly.",
+    "Shred the duck meat into bite-sized pieces using two forks.",
+    "Heat duck sauce in a small saucepan over medium heat.",
+    "Add the shredded duck meat to the saucepan and stir to coat with the sauce.",
+    "Serve the duck meat in ramekins, garnished with chopped cilantro.",
+    "Drizzle additional duck sauce over the top, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "braise",
+    "confit-de-pato",
+    "duck-leg",
+    "mexican",
+    "nachos",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 30
+  },
+  "slug": "pan-seared-mexican-duck-confit-de-pato-ramekin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-mexican-duck-confit-de-pato-ramekin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:05:41Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "render-fat",
+    "primaryIngredient": "duck sauce",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "duck",
+    "descriptor": "Pan-Seared",
+    "dishForm": "Confit de Pato Ramekin"
+  }
+}
