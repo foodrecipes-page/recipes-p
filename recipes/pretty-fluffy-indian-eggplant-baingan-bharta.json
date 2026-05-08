@@ -1,0 +1,107 @@
+{
+  "title": "Pretty Fluffy Indian Eggplant Baingan Bharta",
+  "description": "A romantic and nutty Indian dish featuring blackcurrant jam, this vegan-friendly baingan bharta is a unique twist on the classic recipe. It has a fluffy texture and a sweet and savory flavor.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "black beauty or similar variety"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "blackcurrant jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roast the eggplant for 30 minutes, or until the skin is charred and the flesh is tender.",
+    "Let the eggplant cool, then peel and chop it into small pieces.",
+    "Heat the peanut oil in a large skillet over medium heat.",
+    "Add the onion and cook, stirring occasionally, until it is lightly browned and caramelized.",
+    "Add the garlic and ginger to the skillet and cook for 1 minute, stirring constantly.",
+    "Stir in the smoked paprika, salt, and blackcurrant jam.",
+    "Add the tomato puree to the skillet and cook, stirring occasionally, for 10 minutes.",
+    "Fold in the roasted eggplant and cook for an additional 5 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fluffy-texture",
+    "gluten-free",
+    "indian-food",
+    "one-pan",
+    "romantic-dinner",
+    "vegan-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "pretty-fluffy-indian-eggplant-baingan-bharta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pretty-fluffy-indian-eggplant-baingan-bharta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:33:10Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "fold",
+    "primaryIngredient": "blackcurrant jam",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "eggplant",
+    "descriptor": "pretty fluffy",
+    "dishForm": "Baingan Bharta"
+  }
+}
