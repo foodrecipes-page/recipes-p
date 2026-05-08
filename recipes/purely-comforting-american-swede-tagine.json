@@ -1,0 +1,94 @@
+{
+  "title": "Purely Comforting American Swede Tagine",
+  "description": "A briny, cheese-pull weeknight American dish featuring swede, coconut cream crack, and low-carb friendly ingredients, cooked in a traditional tajine clay vessel.",
+  "cuisine": "American",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "swede",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, melt the butter over medium heat.",
+    "Add the cubed swede to the skillet and cook until tender, about 10 minutes.",
+    "In a large bowl, combine the cooked swede, coconut cream, cheddar cheese, salt, black pepper, garlic powder, and paprika.",
+    "Mix well to combine, then transfer the mixture to a traditional tajine clay vessel.",
+    "Cover the vessel with a lid and bake for 25 minutes.",
+    "Remove the lid and continue baking for an additional 10 minutes, or until the top is golden brown and the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "cheesy",
+    "comfort-food",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "purely-comforting-american-swede-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-comforting-american-swede-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:23:42Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "swede",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "swede",
+    "descriptor": "purely comforting",
+    "dishForm": "Tagine"
+  }
+}
