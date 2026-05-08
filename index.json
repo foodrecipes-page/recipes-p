@@ -5995,6 +5995,21 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-smoky-thai-noodles-kanom-jeen",
+    "title": "Piquant Smoky Thai Noodles Kanom Jeen",
+    "tags": [
+      "gluten-free",
+      "noodle-dish",
+      "smoky",
+      "spicy",
+      "thai",
+      "vegetarian"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-spicy-indian-rice-dosa",
     "title": "Piquant Spicy Indian Rice Dosa",
     "tags": [

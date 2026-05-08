@@ -1,0 +1,100 @@
+{
+  "title": "Piquant Smoky Thai Noodles Kanom Jeen",
+  "description": "A salty, crispy, and comforting Thai dish featuring smoky flavors and Mediterranean-friendly ingredients, served with kanom jeen noodles.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "8 oz",
+      "notes": "kanom jeen style"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Thai chilies",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Toasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions and set aside.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the garlic and cook for 1 minute, stirring constantly.",
+    "Add the Thai chilies and cook for 1 minute, stirring constantly.",
+    "Add the cooked noodles, soy sauce, and lime juice to the skillet and stir to combine.",
+    "Cook for 2 minutes, stirring constantly, until the noodles are well coated.",
+    "Transfer the noodles to a serving platter and top with toasted peanuts and scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "noodle-dish",
+    "smoky",
+    "spicy",
+    "thai",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "piquant-smoky-thai-noodles-kanom-jeen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-smoky-thai-noodles-kanom-jeen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:04:28Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "smoke-hot",
+    "primaryIngredient": "toast",
+    "diet": "mediterranean",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "noodles",
+    "descriptor": "Piquant Smoky",
+    "dishForm": "Kanom Jeen"
+  }
+}
