@@ -5817,6 +5817,21 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-smoky-thai-bean-sprouts-larb",
+    "title": "Piquant Smoky Thai Bean Sprouts Larb",
+    "tags": [
+      "grilled",
+      "macrobiotic",
+      "smoky",
+      "spicy",
+      "thai-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-spicy-indian-rice-dosa",
     "title": "Piquant Spicy Indian Rice Dosa",
     "tags": [

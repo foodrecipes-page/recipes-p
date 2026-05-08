@@ -1,0 +1,110 @@
+{
+  "title": "Piquant Smoky Thai Bean Sprouts Larb",
+  "description": "A cultured and dense Thai dish featuring bean sprouts and confit tomato, served in a binchotan grill vessel. This macrobiotic friendly larb is a flavorful and adventurous meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1/2 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 inch",
+      "notes": "sliced"
+    },
+    {
+      "name": "Thai chilies",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Prepare the binchotan grill by heating it to 400 degrees Fahrenheit.",
+    " Grill the bean sprouts for 2 minutes on each side, until they are slightly charred.",
+    "In a blender or food processor, combine the confit tomato, lemongrass, galangal, and Thai chilies, and blend until coarsely chopped.",
+    "In a large bowl, combine the grilled bean sprouts, the blended tomato mixture, lime juice, fish sauce if using, cilantro, smoked paprika, salt, and pepper.",
+    "Mix well to combine, making sure all the ingredients are fully incorporated.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the larb to the binchotan grill vessel and serve immediately.",
+    " Garnish with additional cilantro and lime wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "macrobiotic",
+    "smoky",
+    "spicy",
+    "thai-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "piquant-smoky-thai-bean-sprouts-larb",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-smoky-thai-bean-sprouts-larb",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:18:59Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "confit-tomato",
+    "primaryIngredient": "bean sprouts",
+    "diet": "macrobiotic",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "bean sprouts",
+    "descriptor": "Piquant Smoky",
+    "dishForm": "Larb"
+  }
+}
