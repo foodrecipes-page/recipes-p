@@ -1,0 +1,91 @@
+{
+  "title": "Perfectly Pan Roasted Dutch Asparagus Skillet",
+  "description": "A nutty and crumbly Dutch dish featuring asparagus, perfect for a lazy Sunday, with a low sodium content and a unique binchotan-charcoal flavor.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "binchotan charcoal powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat with the butter until melted.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the asparagus to the skillet and cook for 5 minutes until tender.",
+    "Sprinkle the binchotan charcoal powder, salt, and black pepper over the asparagus and stir to combine.",
+    "Reduce heat to low and cook for an additional 2 minutes.",
+    "Remove the skillet from the heat and sprinkle the parmesan cheese over the asparagus.",
+    "Let the cheese melt for 1 minute before sprinkling the chopped parsley over the top.",
+    "Serve the asparagus hot, straight from the skillet."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asparagus-recipe",
+    "charcoal-flavor",
+    "dutch-cuisine",
+    "lazy-sunday",
+    "low-sodium",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "perfectly-pan-roasted-dutch-asparagus-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/perfectly-pan-roasted-dutch-asparagus-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:14:56Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "asparagus",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "asparagus",
+    "descriptor": "Perfectly Pan Roasted",
+    "dishForm": "Skillet"
+  }
+}
