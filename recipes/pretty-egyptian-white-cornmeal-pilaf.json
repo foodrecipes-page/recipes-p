@@ -1,0 +1,101 @@
+{
+  "title": "Pretty Egyptian White Cornmeal Pilaf",
+  "description": "A quick and easy Egyptian dish featuring white cornmeal and katsuramuki-cut vegetables, perfect for a weeknight meal. This jain-friendly recipe is made with fresh and healthy ingredients.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white cornmeal",
+      "amount": "1 cup",
+      "notes": "fine grind"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the white cornmeal in a fine mesh sieve and drain well.",
+    "In a medium saucepan, bring the water to a boil.",
+    "Add the white cornmeal to the saucepan and reduce the heat to low.",
+    "Cover the saucepan with a lid and simmer for 10 minutes.",
+    "While the cornmeal is cooking, heat the olive oil in a large skillet over medium heat.",
+    "Add the katsuramuki-cut carrots and zucchini to the skillet and cook for 5 minutes.",
+    "Add the chopped green onions to the skillet and cook for an additional 2 minutes.",
+    "Fluff the cooked cornmeal with a fork and stir in the lemon juice, salt, and black pepper.",
+    "To serve, divide the cornmeal pilaf among individual bamboo trays and top with the cooked vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian-cuisine",
+    "healthy",
+    "jain-friendly",
+    "one-pan",
+    "quick-fix",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "pretty-egyptian-white-cornmeal-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pretty-egyptian-white-cornmeal-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:57:33Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "white cornmeal",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Quick Grassy",
+    "dishForm": "Pilaf"
+  }
+}
