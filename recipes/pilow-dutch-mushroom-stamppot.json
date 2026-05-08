@@ -1,0 +1,91 @@
+{
+  "title": "Pillow Dutch Mushroom Stamppot",
+  "description": "A monsoon-seasoned Dutch dish featuring pillowy mashed potatoes, sautéed mushrooms, and shio-cure bacon.",
+  "cuisine": "Dutch",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bacon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "12 oz"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 lb"
+    },
+    {
+      "name": "suet",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "milk",
+      "amount": "1 c"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes in salted water until tender.",
+    "Drain the potatoes and mash with suet, salt, and black pepper.",
+    "Sauté the mushrooms and bacon in a pan until browned.",
+    "Mix in the flour to thicken the mushroom mixture.",
+    "Add the milk to the mushroom mixture and stir until thickened.",
+    "Combine the mashed potatoes and mushroom mixture in a bowl.",
+    "Season with thyme and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-fat",
+    "monsoon-food",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 35,
+    "fat": 28
+  },
+  "slug": "pilow-dutch-mushroom-stamppot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pilow-dutch-mushroom-stamppot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:39:59Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "pillowy",
+    "mood": "monsoon",
+    "technique": "shio-cure",
+    "primaryIngredient": "mushroom",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "mushroom",
+    "descriptor": "pilow",
+    "dishForm": "stamppot"
+  }
+}

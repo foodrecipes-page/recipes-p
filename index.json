@@ -4915,6 +4915,21 @@
     "shard": "p"
   },
   {
+    "slug": "pillowy-fermented-moroccan-lentils-bissara",
+    "title": "Pillowy Fermented Moroccan Lentils Bissara",
+    "tags": [
+      "fermented",
+      "gluten-free",
+      "lentils",
+      "moroccan",
+      "one-pot",
+      "vegan"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 60,
+    "shard": "p"
+  },
+  {
     "slug": "pillowy-french-almonds-tart",
     "title": "Pillowy French Almond Tart",
     "tags": [
@@ -5151,6 +5166,19 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
+    "slug": "pilow-dutch-mushroom-stamppot",
+    "title": "Pillow Dutch Mushroom Stamppot",
+    "tags": [
+      "high-fat",
+      "monsoon-food",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 50,
     "shard": "p"
   },
   {
@@ -8460,6 +8488,21 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 18,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-shattering-brazilian-pork-tenderloin-poach",
+    "title": "pungent shattering brazilian pork tenderloin poach",
+    "tags": [
+      "brazilian",
+      "healthy",
+      "one-pan",
+      "poach",
+      "pork",
+      "weeknight"
+    ],
+    "cuisine": "brazilian",
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {

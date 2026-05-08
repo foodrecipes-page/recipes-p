@@ -1,0 +1,145 @@
+{
+  "title": "Pillowy Fermented Moroccan Lentils Bissara",
+  "description": "A comforting, pillowy Moroccan dish featuring fermented lentils and a hint of cocoa powder. This Jain-friendly recipe is perfect for a cozy evening meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "jain",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": "",
+      "optional": true
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "infuse oil",
+      "amount": "2 tablespoons",
+      "notes": "see note for infusion process",
+      "optional": true
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped",
+      "optional": true
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced",
+      "optional": true
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1/2 teaspoon",
+      "notes": "ground",
+      "optional": true
+    },
+    {
+      "name": "fermentation starter",
+      "amount": "1 tablespoon",
+      "notes": "active dry yeast or bread starter",
+      "optional": true
+    },
+    {
+      "name": "water for soaking",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Soak the red lentils in 4 cups of water for at least 8 hours or overnight.",
+    "Drain and rinse the lentils, then transfer them to a blender or food processor with 2 cups of water.",
+    "Blend the mixture until it is smooth and free of lumps.",
+    "Transfer the mixture to a large terracotta bowl or container and mix in the cocoa powder, olive oil, salt, black pepper, cumin, coriander, and nutmeg.",
+    "If using, add the minced onion, garlic, and ground ginger to the mixture and stir to combine.",
+    "Create a fermentation starter by mixing 1 tablespoon of active dry yeast or bread starter with 1 cup of water, then letting it sit for 24 hours.",
+    "Add the fermentation starter to the lentil mixture and mix well to combine.",
+    "Cover the bowl with a cloth and let it ferment at room temperature for 24-48 hours, stirring occasionally.",
+    "Once the fermentation process is complete, stir in the infused oil, if using.",
+    "Transfer the mixture to a serving dish and garnish with chopped fresh herbs, if desired.",
+    "Serve the Pillowy Fermented Moroccan Lentils Bissara warm or at room temperature.",
+    "Note: To infuse the oil, simply add the desired herbs or spices to a small jar with a neutral-tasting oil, such as olive or grapeseed oil, and let it sit for at least 24 hours before straining and using."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "gluten-free",
+    "lentils",
+    "moroccan",
+    "one-pot",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "pillowy-fermented-moroccan-lentils-bissara",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-fermented-moroccan-lentils-bissara",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:40:07Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "infuse-oil",
+    "primaryIngredient": "cocoa powder",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lentils",
+    "descriptor": "Pillowy Fermented",
+    "dishForm": "Bissara"
+  }
+}

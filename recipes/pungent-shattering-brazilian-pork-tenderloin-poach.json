@@ -1,0 +1,102 @@
+{
+  "title": "pungent shattering brazilian pork tenderloin poach",
+  "description": "Weeknight friendly Brazilian pork tenderloin dish with a hint of spice and a satisfying crunch. This recipe is perfect for a quick and easy dinner.",
+  "cuisine": "brazilian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "green chili flake",
+      "amount": "",
+      "notes": "optional, for some heat"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork tenderloin with salt, black pepper, cumin, and paprika.",
+    "Heat a large oven-safe skillet over medium-high heat. Sear the pork tenderloin on all sides until browned, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast for 12-15 minutes, or until the pork reaches an internal temperature of 145°F (63°C).",
+    "While the pork is cooking, heat the orange juice in a small saucepan over medium heat until slightly reduced.",
+    "Add the sliced onion to the skillet with the pork and cook until caramelized, about 5-7 minutes.",
+    "Remove the pork from the oven and let rest for 5 minutes before slicing.",
+    "To serve, place the sliced pork on a plate and spoon some of the caramelized onion and orange juice sauce over the top.",
+    "If desired, sprinkle with green chili flake for an extra kick."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "healthy",
+    "one-pan",
+    "poach",
+    "pork",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "pungent-shattering-brazilian-pork-tenderloin-poach",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-shattering-brazilian-pork-tenderloin-poach",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:40:16Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shattering",
+    "mood": "weeknight",
+    "technique": "poach",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "pork tenderloin",
+    "descriptor": "pungent shattering",
+    "dishForm": "poach"
+  }
+}
