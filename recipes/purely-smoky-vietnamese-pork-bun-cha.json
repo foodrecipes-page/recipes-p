@@ -1,0 +1,100 @@
+{
+  "title": "Purely Smoky Vietnamese Pork Bun Cha",
+  "description": "A smoky and juicy Vietnamese dish featuring slow-cooked pork and a hint of icing sugar, served with a Mediterranean-friendly twist in a bun cha form.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into thin slices"
+    },
+    {
+      "name": "icing sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together fish sauce, lime juice, icing sugar, garlic, and ginger to make the marinade.",
+    "Add the sliced pork to the marinade and mix well to coat, then cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat and cook the marinated pork for 5-7 minutes per side, or until charred and cooked through.",
+    "Cook the rice noodles according to package instructions and set aside.",
+    "Assemble the bun cha by placing a portion of noodles on the bottom of a bowl, followed by a few slices of the grilled pork, some pickled carrots, and a sprinkle of chopped cilantro.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional cilantro and pickled carrots if desired.",
+    "Offer a side of the marinade as a dipping sauce for the pork and noodles."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-pork",
+    "mediterranean-friendly",
+    "pickled-vegetables",
+    "rice-noodles",
+    "smoky-flavors",
+    "street-food",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "purely-smoky-vietnamese-pork-bun-cha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-smoky-vietnamese-pork-bun-cha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:50:47Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "slow-cook",
+    "primaryIngredient": "icing sugar",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Purely Smoky",
+    "dishForm": "Bun Cha"
+  }
+}
