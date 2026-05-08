@@ -1,0 +1,117 @@
+{
+  "title": "Pungent Dutch Bake",
+  "description": "A pungent and flavorful brunch dish featuring almond essence, blanching, and anti-inflammatory-friendly ingredients.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "anti-inflammatory"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Almond milk",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "Blanched almonds",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh ginger",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium bowl, whisk together almond milk, almond flour, coconut oil, maple syrup, vanilla extract, ground ginger, ground cinnamon, and salt until smooth.",
+    "Stir in the blanched almonds and chopped fresh ginger.",
+    "Pour the mixture into a greased 8-inch round baking dish.",
+    "Bake for 25 minutes, or until the edges are lightly golden brown.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Drizzle with fresh lemon juice and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "high-fiber",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "pungent-dutch-dishes-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-dutch-dishes-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:38:37Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "glassy-jelly",
+    "mood": "brunch-mood",
+    "technique": "blanch",
+    "primaryIngredient": "almond essence",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "dishes",
+    "descriptor": "pungent",
+    "dishForm": "Bake"
+  }
+}
