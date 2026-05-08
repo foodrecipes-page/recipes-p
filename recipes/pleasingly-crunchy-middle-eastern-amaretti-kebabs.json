@@ -1,0 +1,92 @@
+{
+  "title": "Pleasingly Crunchy Middle Eastern Amaretti Kebabs",
+  "description": "A kid-friendly Middle Eastern dish featuring crunchy amaretti and vegetarian-friendly ingredients, perfect for a snack or dessert. This recipe combines the sweetness of amaretti with the crunch of toasted nuts and seeds.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "amaretti cookies",
+      "amount": "12",
+      "notes": "crushed"
+    },
+    {
+      "name": "pistachio meal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "toasted pine nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a bowl, mix together the crushed amaretti, pistachio meal, sesame seeds, and a pinch of salt.",
+    "Add the honey, rose water, and vegetable oil to the bowl and mix until a dough forms.",
+    "Divide the dough into 12 equal pieces and shape each piece into a ball.",
+    "Roll each ball in the toasted pine nuts and shredded coconut to coat.",
+    "Fry the amaretti balls in the hot oil for 2-3 minutes on each side, or until golden brown.",
+    "Remove the fried amaretti balls from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the crunchy amaretti kebabs warm and enjoy.",
+    "If desired, skewer the amaretti balls onto wooden sticks or skewers for a fun and easy snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "dessert",
+    "kid-friendly",
+    "middle-eastern",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "pleasingly-crunchy-middle-eastern-amaretti-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pleasingly-crunchy-middle-eastern-amaretti-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:01:42Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "boil",
+    "primaryIngredient": "amaretti",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "amaretti",
+    "descriptor": "Pleasingly crunchy",
+    "dishForm": "Kebabs"
+  }
+}
