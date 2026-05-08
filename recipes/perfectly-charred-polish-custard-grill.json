@@ -1,0 +1,85 @@
+{
+  "title": "Perfectly Charred Polish Custard Grill",
+  "description": "A charred, silky, and cozy Polish dish featuring custard powder, grilled to perfection on a yakimono-grill, this dessert is sure to delight, with a dash-friendly approach to ingredients and preparation.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "custard powder",
+      "amount": "2 cups",
+      "notes": "available at most baking supply stores"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the custard powder, sugar, and salt.",
+    "In a separate bowl, whisk together the milk, eggs, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and whisk until smooth.",
+    "Pour the mixture into a grill-safe dish and dot the top with butter.",
+    "Place the dish on the preheated grill and cook for 20 minutes, or until the top is charred and the custard is set.",
+    "Remove the dish from the grill and let it cool for 5 minutes.",
+    "Serve the custard warm, garnished with a sprinkle of sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "charred",
+    "custard",
+    "dessert",
+    "grilled",
+    "polish",
+    "yakimono"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "perfectly-charred-polish-custard-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/perfectly-charred-polish-custard-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:49:11Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "custard powder",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "custard",
+    "descriptor": "perfectly charred",
+    "dishForm": "Grill"
+  }
+}

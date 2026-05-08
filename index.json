@@ -4248,6 +4248,21 @@
     "shard": "p"
   },
   {
+    "slug": "perfectly-charred-polish-custard-grill",
+    "title": "Perfectly Charred Polish Custard Grill",
+    "tags": [
+      "charred",
+      "custard",
+      "dessert",
+      "grilled",
+      "polish",
+      "yakimono"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "perfectly-crisp-spanish-andouille-paella",
     "title": "Perfectly Crisp Spanish Andouille Paella",
     "tags": [
@@ -7886,6 +7901,20 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 110,
+    "shard": "p"
+  },
+  {
+    "slug": "purely-grilled-croatian-monkfish-skewers",
+    "title": "Purely Grilled Croatian Monkfish Skewers",
+    "tags": [
+      "binchotan-grill",
+      "croatian-cuisine",
+      "grilled-seafood",
+      "lacto-vegetarian",
+      "monsoon-dish"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 28,
     "shard": "p"
   },
   {

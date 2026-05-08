@@ -1,0 +1,95 @@
+{
+  "title": "Purely Grilled Croatian Monkfish Skewers",
+  "description": "Earthy and crisp monkfish skewers featuring Croatian flavors, grilled to perfection on a binchotan grill, this lacto-vegetarian-friendly dish is perfect for a monsoon evening.",
+  "cuisine": "Croatian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "monkfish",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "papillote paper",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, thyme, rosemary, salt, and black pepper.",
+    "Add the monkfish pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated monkfish pieces onto skewers, leaving a small space between each piece.",
+    "Wrap each skewer in a sheet of papillote paper, making sure to seal the edges tightly.",
+    "Place the skewers on the preheated grill and cook for 8 minutes, turning occasionally.",
+    "Remove the skewers from the grill and let them rest for 2 minutes.",
+    "Serve the monkfish skewers hot, garnished with additional thyme and rosemary if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "binchotan-grill",
+    "croatian-cuisine",
+    "grilled-seafood",
+    "lacto-vegetarian",
+    "monsoon-dish"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "purely-grilled-croatian-monkfish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-grilled-croatian-monkfish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:49:00Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "papillote",
+    "primaryIngredient": "monkfish",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "monkfish",
+    "descriptor": "Purely Grilled",
+    "dishForm": "Skewers"
+  }
+}
