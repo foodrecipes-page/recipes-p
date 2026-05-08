@@ -273,6 +273,20 @@
     "shard": "p"
   },
   {
+    "slug": "pan-seared-japanese-celery-nabemono",
+    "title": "Pan Seared Japanese Celery Nabemono",
+    "tags": [
+      "hot-pot",
+      "japanese-cuisine",
+      "low-fat",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "pan-seared-japanese-pork-dumplings",
     "title": "Pan Seared Japanese Pork Dumplings",
     "tags": [

@@ -1,0 +1,93 @@
+{
+  "title": "Pan Seared Japanese Celery Nabemono",
+  "description": "A lazy Sunday Japanese dish featuring crispy fried celery in a savory wine sauce, served in a nabemono style hot pot. This low fat friendly recipe is perfect for a relaxing weekend meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sake",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a bowl, mix together the flour and a pinch of salt.",
+    "Dredge the celery pieces in the flour mixture, shaking off excess.",
+    "Carefully add the floured celery to the hot oil and deep fry until golden brown.",
+    "Remove the fried celery from the oil and place on a paper towel lined plate to drain excess oil.",
+    "In the same pan, add the sake, mirin, and soy sauce, scraping up any browned bits from the bottom.",
+    "Bring the sauce to a simmer and cook until it has reduced by half.",
+    "Add the dashi broth to the pan and bring to a simmer.",
+    "Add the fried celery back to the pan and cook for an additional 2 minutes.",
+    "Garnish with green onions and serve hot in a nabemono style hot pot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hot-pot",
+    "japanese-cuisine",
+    "low-fat",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "pan-seared-japanese-celery-nabemono",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-japanese-celery-nabemono",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:07:27Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "celery",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "celery",
+    "descriptor": "Pan-Seared",
+    "dishForm": "Nabemono"
+  }
+}
