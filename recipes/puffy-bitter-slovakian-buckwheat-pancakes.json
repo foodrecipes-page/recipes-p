@@ -1,0 +1,94 @@
+{
+  "title": "Puffy Bitter Slovakian Buckwheat Pancakes",
+  "description": "A traditional Slovakian dish featuring dark brown soft sugar and buckwheat, these pancakes are bitter, fluffy, and nostalgic, made with a special ice-bath-shock step and cooked in a copper mug to create a unique and delicious treat, perfect for those looking for a FODMAP-friendly option.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "1 1/2 cups",
+      "notes": "make sure it is gluten-free"
+    },
+    {
+      "name": "dark brown soft sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "3 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the buckwheat flour, dark brown soft sugar, and baking powder.",
+    "In a separate bowl, whisk together the eggs, milk, and vanilla extract.",
+    "Add the melted butter to the egg mixture and whisk until combined.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined, being careful not to overmix.",
+    "Heat a non-stick skillet or griddle over medium heat and grease with a small amount of oil.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Using a spatula, carefully place the cooked pancakes into a copper mug filled with ice water to stop the cooking process and create the puffy texture.",
+    "Let the pancakes sit in the ice water for 30 seconds to 1 minute, then remove and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-idea",
+    "buckwheat-recipe",
+    "copper-cooking-vessel",
+    "fodmap-friendly",
+    "gluten-free",
+    "slovakian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "puffy-bitter-slovakian-buckwheat-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/puffy-bitter-slovakian-buckwheat-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:27:00Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "dark brown soft sugar",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "buckwheat",
+    "descriptor": "puffy bitter",
+    "dishForm": "Pancakes"
+  }
+}
