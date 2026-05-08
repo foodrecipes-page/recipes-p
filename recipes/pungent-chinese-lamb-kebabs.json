@@ -1,0 +1,103 @@
+{
+  "title": "Pungent Chinese Lamb Kebabs",
+  "description": "A bitter and gooey post-workout Chinese dish from Xinjiang, featuring ghee and robata-grill, friendly to ayurvedic tamasic diets. This dish combines lamb with strong flavors and textures.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "ayurvedic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chinese five-spice powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "1 teaspoon",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together ghee, soy sauce, Chinese five-spice powder, Sichuan peppercorns, brown sugar, and rice vinegar.",
+    "Brush the mixture onto both sides of the lamb cubes.",
+    "Season the lamb with salt.",
+    "Grill the lamb kebabs for 8-10 minutes, turning occasionally, until they are cooked through.",
+    "Serve the lamb kebabs hot, garnished with chopped scallions and cilantro.",
+    "Offer additional ghee and soy sauce on the side for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "chinese-food",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "pungent-chinese-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-chinese-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:26:15Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "robata-grill",
+    "primaryIngredient": "ghee",
+    "diet": "ayurvedic-tamasic",
+    "region": "xinjiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "lamb",
+    "descriptor": "Pungent",
+    "dishForm": "Kebabs"
+  }
+}
