@@ -6508,6 +6508,20 @@
     "shard": "p"
   },
   {
+    "slug": "pungent-creamy-spanish-san-marzano-tomato-wrap",
+    "title": "Pungent Creamy Spanish San-Marzano-Tomato Wrap",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "spanish",
+      "weeknight",
+      "wrap"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "pungent-dense-croatian-water-chestnut-pilaf",
     "title": "Pungent, Dense Croatian Water Chestnut Pilaf",
     "tags": [
@@ -7111,6 +7125,21 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
+    "slug": "purely-comforting-egyptian-chicken-drumsticks-stew",
+    "title": "Egyptian Chicken Drumsticks Stew",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "high-protein",
+      "middle-eastern",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 60,
     "shard": "p"
   },
   {
