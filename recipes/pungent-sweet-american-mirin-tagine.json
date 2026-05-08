@@ -1,0 +1,119 @@
+{
+  "title": "Pungent Sweet American Mirin Tagine",
+  "description": "A savory, crumbly, and show-off American dish featuring mirin, perfect for a low-fat dinner. This recipe serves 4 people in about 1 hour.",
+  "cuisine": "American",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a light hand, as the tagine will be quite flavorful."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Mirin",
+      "amount": "1/4 cup",
+      "notes": "Japanese sweet cooking wine."
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "Plain, low-fat."
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "Optional, adjust to taste."
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed."
+    },
+    {
+      "name": "Crumbled feta cheese",
+      "amount": "1/2 cup",
+      "notes": "Optional, but recommended."
+    },
+    {
+      "name": "Crushed red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional."
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large, heavy-bottomed tagine or Dutch oven over medium heat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "cumin",
+    "low-fat",
+    "mirin",
+    "paprika",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 17
+  },
+  "slug": "pungent-sweet-american-mirin-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-sweet-american-mirin-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:26:45Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "mirin",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "mirin",
+    "descriptor": "pungent sweet",
+    "dishForm": "Tagine"
+  }
+}
