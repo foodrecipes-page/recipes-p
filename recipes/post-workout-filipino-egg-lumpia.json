@@ -1,0 +1,97 @@
+{
+  "title": "Post Workout Filipino Egg Lumpia",
+  "description": "A garlicky and flaky Filipino dish featuring egg, perfect for post-workout meals, this vegan-friendly lumpia is a great way to refuel and satisfy your hunger.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Egg replacer",
+      "amount": "1 cup",
+      "notes": "such as tofu or tempeh"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Vegan chocolate",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Lumpia wrappers",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Prepare the egg replacer according to the package instructions.",
+    "Mix the minced garlic, melted vegan chocolate, salt, and black pepper into the egg replacer.",
+    " Lay a lumpia wrapper on a flat surface and place about 1 tablespoon of the egg mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with a small amount of water.",
+    "Fold the bottom half of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "Carefully place the lumpia in the preheated oil and fry until golden brown, about 3-4 minutes on each side.",
+    "Remove the lumpia from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the lumpia hot with chopped scallions on top, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meals",
+    "filipino-food",
+    "flaky",
+    "garlicky",
+    "lumpia-recipes",
+    "post-workout",
+    "vegan-snacks"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "post-workout-filipino-egg-lumpia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/post-workout-filipino-egg-lumpia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:07:28Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "egg",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "egg",
+    "descriptor": "Post Workout",
+    "dishForm": "Lumpia"
+  }
+}
