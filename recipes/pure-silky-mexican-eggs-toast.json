@@ -1,0 +1,99 @@
+{
+  "title": "Pure Silky Mexican Eggs Toast",
+  "description": "A yeasty, silky, energizing Mexican dish featuring rapeseed oil, toast, and eggs, perfect for a nutritious breakfast.",
+  "cuisine": "Mexican",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rapeseed oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": null
+    },
+    {
+      "name": "white bread",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a fork.",
+    "Heat the rapeseed oil in a large non-stick skillet over medium heat.",
+    "Pour the egg mixture into the skillet and scramble the eggs until they are cooked through.",
+    "Toast the bread slices until they are lightly browned.",
+    "Spread a small amount of rapeseed oil on each toast slice.",
+    "Place a scrambled egg on top of each toast slice.",
+    "Season with salt, black pepper, and garlic powder to taste.",
+    "Squeeze a small amount of lime juice over the eggs.",
+    "Garnish with chopped fresh cilantro.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-breakfast",
+    "high-protein",
+    "mexican-inspiration",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 16
+  },
+  "slug": "pure-silky-mexican-eggs-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pure-silky-mexican-eggs-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:42:22Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "toast",
+    "primaryIngredient": "rapeseed oil",
+    "diet": "ovo-vegetarian",
+    "region": "norteño",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "eggs",
+    "descriptor": "pure silky",
+    "dishForm": "Toast"
+  }
+}
