@@ -1,0 +1,101 @@
+{
+  "title": "Pungent Smoky Thai Fennel Bulb Pad Thai",
+  "description": "A smoky and light Thai dish featuring fennel bulb, fried to perfection in a Bangkok-street style Pad Thai, with ayurvedic-rajasic friendly ingredients.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fennel bulb",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large wok or frying pan over medium-high heat.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the sliced fennel bulb and cook for 3-4 minutes, or until it starts to soften.",
+    "Add the rice noodles and cook for 2 minutes, stirring frequently.",
+    "Add the tamarind paste, soy sauce, salt, and pepper, and stir to combine.",
+    "Add the bean sprouts and cook for 1 minute, stirring constantly.",
+    "Stir in the chopped peanuts and cook for an additional 30 seconds.",
+    "Remove the wok or frying pan from the heat and serve the Pad Thai hot.",
+    "Garnish with additional chopped peanuts and smoked paprika, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "smoky",
+    "street-food",
+    "thai-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "pungent-smoky-thai-fennel-bulb-pad-thai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-smoky-thai-fennel-bulb-pad-thai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:39:25Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shattering",
+    "mood": "light",
+    "technique": "fry",
+    "primaryIngredient": "fennel bulb",
+    "diet": "ayurvedic-rajasic",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "fennel bulb",
+    "descriptor": "Pungent Smoky",
+    "dishForm": "Pad Thai"
+  }
+}
