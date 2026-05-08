@@ -4116,6 +4116,21 @@
     "shard": "p"
   },
   {
+    "slug": "perfectly-roasted-irish-lentil-stew",
+    "title": "Perfectly Roasted Irish Lentil Stew",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "hearty-stew",
+      "irish-cuisine",
+      "lentil-recipe",
+      "vegetarian-option"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 70,
+    "shard": "p"
+  },
+  {
     "slug": "perfectly-roasted-mediterranean-lamb-roast",
     "title": "Perfectly Roasted Mediterranean Lamb Roast",
     "tags": [

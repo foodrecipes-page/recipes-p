@@ -1,0 +1,111 @@
+{
+  "title": "Perfectly Roasted Irish Lentil Stew",
+  "description": "A hearty and comforting Irish stew featuring roasted green and red lentils in a rich lacquer glaze, perfect for a sick day or a chilly evening. This dish is easy to make and packed with nutrients.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the green and red lentils with 2 tablespoons of olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the lentils on a baking sheet and roast in the oven for 20 minutes, or until they are lightly browned and fragrant.",
+    "In a large pot, heat 2 tablespoons of olive oil over medium heat and saute the chopped onions and minced garlic until they are softened and translucent.",
+    "Add the chopped carrots, lacquer glaze, tomato paste, thyme, and roasted lentils to the pot, stirring to combine.",
+    "Pour in the vegetable broth and bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes, or until the stew has thickened and the flavors have melded together.",
+    "Season the stew with salt and black pepper to taste, then serve hot.",
+    "Garnish with fresh thyme or parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "hearty-stew",
+    "irish-cuisine",
+    "lentil-recipe",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "perfectly-roasted-irish-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/perfectly-roasted-irish-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:00:47Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "green red lentils",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lentils",
+    "descriptor": "Perfectly roasted",
+    "dishForm": "Stew"
+  }
+}
