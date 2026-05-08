@@ -1,0 +1,95 @@
+{
+  "title": "Pure Silky Filipino Chicken Muffins",
+  "description": "A Filipino dish featuring chicken muffins with umami flavor, silky texture, and a flambe twist, perfect for meal prep and raw food friendly, made with chicken breast, vegetables, and spices, then baked to perfection.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "muffin tin",
+      "amount": "12 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together chicken breast, onion, garlic, mushroom, fish sauce, and soy sauce.",
+    "Add egg to the bowl and mix until well combined.",
+    "Divide the mixture into 12 equal parts and place each part into a muffin tin.",
+    "Bake the muffins for 20 minutes or until cooked through.",
+    "While the muffins are baking, prepare the flambe sauce by mixing together fish sauce and soy sauce in a small bowl.",
+    "Once the muffins are done, remove them from the oven and let them cool for a few minutes.",
+    "Drizzle the flambe sauce over the muffins and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "filipino-food",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "pure-silky-filipino-chicken-muffins",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pure-silky-filipino-chicken-muffins",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:30:26Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "flambe",
+    "primaryIngredient": "muffins",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "pure silky",
+    "dishForm": "Muffins"
+  }
+}
