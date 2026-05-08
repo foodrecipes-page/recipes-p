@@ -1,0 +1,104 @@
+{
+  "title": "Piquant Turkish Steak Tagine",
+  "description": "A grassy and silky one-pot Turkish dish featuring skirt steak, cooked to perfection in a tandoor clay pot, with a blend of aromatic spices and herbs, perfect for a low-carb friendly dinner option.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skirt steak",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tandoor clay pot over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the skirt steak pieces and cook until they are browned on all sides.",
+    "Add the ground cumin, smoked paprika, dried oregano, salt, and black pepper, and stir to combine.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1.5 hours, or until the steak is tender.",
+    "Serve the steak and sauce hot, garnished with fresh parsley or cilantro.",
+    "Let the dish rest for 10 minutes before serving.",
+    "Serve with a side of roasted vegetables or a salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "one-pot",
+    "skirt-steak",
+    "tandoor-clay-pot",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "piquant-turkish-steak-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-turkish-steak-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:05:41Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "tagine-cook",
+    "primaryIngredient": "skirty steak",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "steak",
+    "descriptor": "Piquant Grassy",
+    "dishForm": "Tagine"
+  }
+}

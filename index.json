@@ -6267,6 +6267,21 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-turkish-steak-tagine",
+    "title": "Piquant Turkish Steak Tagine",
+    "tags": [
+      "gluten-free",
+      "low-carb",
+      "one-pot",
+      "skirt-steak",
+      "tandoor-clay-pot",
+      "turkish-cuisine"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 110,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-ukrainian-narutomaki-pasta",
     "title": "Piquant Ukrainian Narutomaki Pasta",
     "tags": [
