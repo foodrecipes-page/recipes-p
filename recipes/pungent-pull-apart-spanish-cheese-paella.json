@@ -1,0 +1,100 @@
+{
+  "title": "Pungent Pull Apart Spanish Cheese Paella",
+  "description": "A one-pot Spanish dish featuring whole wheat, ferment, and a blend of cheeses, perfect for a diabetic-friendly meal option.",
+  "cuisine": "Spanish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat paella rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "manchego cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fermented garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the fermented garlic and cook for an additional minute, stirring constantly.",
+    "Add the whole wheat paella rice and cook for 2 minutes, stirring constantly, until the rice is lightly toasted.",
+    "Add the chicken broth, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the liquid is absorbed and the rice is tender.",
+    "Stir in the manchego and parmesan cheese until melted and well combined.",
+    "Transfer the paella pan to the preheated oven and bake for 10 minutes, or until the top is lightly browned and the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "diabetic-friendly",
+    "one-pot",
+    "spanish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "pungent-pull-apart-spanish-cheese-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-pull-apart-spanish-cheese-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:11:10Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "cheese-pull",
+    "mood": "one-pot",
+    "technique": "ferment",
+    "primaryIngredient": "whole wheat",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "cheese",
+    "descriptor": "pungent pull apart",
+    "dishForm": "Paella"
+  }
+}
