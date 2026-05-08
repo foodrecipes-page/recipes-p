@@ -6877,6 +6877,21 @@
     "shard": "p"
   },
   {
+    "slug": "pungent-malaysian-chicken-noodles",
+    "title": "Pungent Malaysian Chicken Noodles",
+    "tags": [
+      "high-protein",
+      "malaysian-cuisine",
+      "nutty-flavors",
+      "one-pan",
+      "quick-dinner",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "pungent-molten-croatian-sumac-toast",
     "title": "Pungent Molten Croatian Sumac Toast",
     "tags": [
