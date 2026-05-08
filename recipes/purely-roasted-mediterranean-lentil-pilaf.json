@@ -1,0 +1,105 @@
+{
+  "title": "Purely Roasted Mediterranean Lentil Pilaf",
+  "description": "A light and adventurous Mediterranean dish featuring roasted French lentils, beurre-monte, and fresh herbs, perfect for a healthy and flavorful meal. This raw-friendly recipe is made with wholesome ingredients and is free from heavy sauces and spices.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the lentils with olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the lentils on a baking sheet and roast in the oven for 20 minutes, or until they are lightly browned and tender.",
+    "While the lentils are roasting, heat the beurre-monte in a small saucepan over low heat until it is melted and warm.",
+    "Add the cherry tomatoes, red onion, parsley, and mint to the saucepan with the beurre-monte and stir to combine.",
+    "Once the lentils are done roasting, add them to the saucepan with the beurre-monte mixture and stir to combine.",
+    "Squeeze the lemon juice over the lentil mixture and stir to combine.",
+    "Season the lentil pilaf with additional salt and black pepper to taste, if needed.",
+    "Serve the Purely Roasted Mediterranean Lentil Pilaf hot, garnished with additional parsley and mint if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "mediterranean-inspired",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "purely-roasted-mediterranean-lentil-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-roasted-mediterranean-lentil-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:53:58Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "beurre-monte",
+    "primaryIngredient": "french lentils",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lentils",
+    "descriptor": "Purely Roasted",
+    "dishForm": "Pilaf"
+  }
+}
