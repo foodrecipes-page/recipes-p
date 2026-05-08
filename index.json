@@ -5802,6 +5802,21 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-polish-muffins",
+    "title": "Piquant Polish Muffins",
+    "tags": [
+      "clay-pot-cooking",
+      "low-calorie",
+      "polish-cuisine",
+      "tangy-treats",
+      "vegetarian-friendly",
+      "wooden-board-serving"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-portuguese-orange-casserole",
     "title": "Piquant Portuguese Orange Casserole",
     "tags": [
