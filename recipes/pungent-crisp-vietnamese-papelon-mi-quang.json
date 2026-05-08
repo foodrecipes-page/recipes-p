@@ -1,0 +1,94 @@
+{
+  "title": "Pungent Crisp Vietnamese Papelon Mi Quang",
+  "description": "A kid-friendly Vietnamese dish featuring papelon, mortar-pestle-pound, and whole30-friendly ingredients, served in a banana leaf vessel.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "papelon",
+      "amount": "1 cup",
+      "notes": "dried and shredded"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 leaves"
+    }
+  ],
+  "instructions": [
+    "Pound the papelon in a mortar and pestle until it is well crushed.",
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "Grill the chicken breast until it is cooked through and slice it into thin strips.",
+    "Heat the vegetable oil in a pan over medium heat and add the minced garlic.",
+    "Add the fish sauce and lime juice to the pan and stir to combine.",
+    "Add the cooked noodles and chicken to the pan and stir to combine.",
+    "Spoon the mixture onto a banana leaf and top with crushed papelon.",
+    "Fold the banana leaf over the filling to form a packet and serve.",
+    "Repeat with the remaining ingredients to make 3 more packets."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "kid-friendly",
+    "one-pan",
+    "vietnamese-cuisine",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "pungent-crisp-vietnamese-papelon-mi-quang",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-crisp-vietnamese-papelon-mi-quang",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:31:54Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "papelon",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "papelon",
+    "descriptor": "pungent crisp",
+    "dishForm": "Mi Quang"
+  }
+}
