@@ -1,0 +1,94 @@
+{
+  "title": "Pleasingly Dense Thai Suet Biryani",
+  "description": "A malty, dense, and festive Thai dish featuring suet, this diabetic-friendly recipe is perfect for special occasions. It combines the richness of suet with the freshness of Thai flavors.",
+  "cuisine": "Thai",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "suet",
+      "amount": "1 cup",
+      "notes": "beef or mutton suet, shredded"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "green chilies",
+      "amount": "2",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the suet in a large saucepan over medium heat until it melts and turns into a clear oil.",
+    "Add the jasmine rice to the saucepan and stir to coat the rice with the suet oil.",
+    "Add the coconut milk, fish sauce, lime juice, and palm sugar to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover the saucepan, and simmer for 15 minutes.",
+    "Remove the saucepan from the heat and let it cool slightly.",
+    "Submerge the saucepan in an ice bath to stop the cooking process.",
+    "Stir in the chopped Thai basil and sliced green chilies.",
+    "Let the biryani rest for 10 minutes before serving.",
+    "Fluff the biryani with a fork and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "festive",
+    "gluten-free",
+    "one-pot",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "pleasingly-dense-thai-suet-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pleasingly-dense-thai-suet-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:15:52Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "suet",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "suet",
+    "descriptor": "Pleasingly dense",
+    "dishForm": "Biryani"
+  }
+}

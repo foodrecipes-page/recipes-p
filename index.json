@@ -5652,6 +5652,21 @@
     "shard": "p"
   },
   {
+    "slug": "pleasantly-poached-croatian-vegetable-bowl",
+    "title": "Pleasantly Poached Croatian Vegetable Bowl",
+    "tags": [
+      "croatian",
+      "kosher-friendly",
+      "one-pan",
+      "vegetarian",
+      "veggie-bowl",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "pleasing-greek-phyllo-pie",
     "title": "Pleasing Greek Phyllo Pie",
     "tags": [
@@ -5680,6 +5695,20 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 22,
+    "shard": "p"
+  },
+  {
+    "slug": "pleasingly-dense-thai-suet-biryani",
+    "title": "Pleasingly Dense Thai Suet Biryani",
+    "tags": [
+      "diabetic-friendly",
+      "festive",
+      "gluten-free",
+      "one-pot",
+      "thai-cuisine"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
@@ -7289,6 +7318,20 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 32,
+    "shard": "p"
+  },
+  {
+    "slug": "pureed-syrian-mulukhiyah-stew",
+    "title": "Pureed Syrian Mulukhiyah Stew",
+    "tags": [
+      "comfort-food",
+      "kid-friendly",
+      "kosher-friendly",
+      "one-pot",
+      "syrian-cuisine"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {

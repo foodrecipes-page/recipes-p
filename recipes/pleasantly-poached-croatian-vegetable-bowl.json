@@ -1,0 +1,112 @@
+{
+  "title": "Pleasantly Poached Croatian Vegetable Bowl",
+  "description": "A winey, silky solo-dinner featuring vegetable stock and kombu-cold-extract with a focus on kosher-friendly ingredients.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "4",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 small head",
+      "notes": "shredded"
+    },
+    {
+      "name": "kombu",
+      "amount": "2 sheets",
+      "notes": "cold-extract only"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine vegetable stock, carrots, celery, and cabbage.",
+    "Bring to a boil over high heat, then reduce the heat to medium-low and simmer for 20 minutes.",
+    "Strain the stock through a fine-mesh sieve into a large bowl, discarding the solids.",
+    "Stir in the kombu cold-extract, kosher salt, and black pepper.",
+    "Heat the olive oil in a small skillet over medium heat.",
+    "Add the red wine vinegar to the skillet and stir to combine.",
+    "Pour the hot oil and vinegar mixture over the vegetable mixture and stir to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the poached vegetables hot, garnished with chopped fresh parsley.",
+    "Arrange the vegetables on a wooden board and serve immediately.",
+    "Drizzle any remaining dressing over the top of the vegetables and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "kosher-friendly",
+    "one-pan",
+    "vegetarian",
+    "veggie-bowl",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "pleasantly-poached-croatian-vegetable-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/pleasantly-poached-croatian-vegetable-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:15:51Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "vegetable stock",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Vegetable",
+    "descriptor": "Pleasantly Poached",
+    "dishForm": "Bowl"
+  }
+}
