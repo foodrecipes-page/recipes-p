@@ -1,0 +1,102 @@
+{
+  "title": "Pan Seared American Tofu Skillet",
+  "description": "Savory and shattering American dish featuring buttermilk and sashimi-cut tofu, perfect for a vegan-friendly brunch, this skillet is a delicious combination of flavors and textures. It is made with a variety of ingredients and is easy to prepare.",
+  "cuisine": "American",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "sashimi-cut into small cubes"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Cut the extra firm tofu into small cubes and place them in a shallow dish.",
+    "In a separate bowl, whisk together the buttermilk, all purpose flour, cornstarch, smoked paprika, garlic powder, onion powder, salt, and black pepper.",
+    "Pour the buttermilk mixture over the tofu and marinate for at least 30 minutes.",
+    "Heat the olive oil in a large skillet over medium high heat.",
+    "Remove the tofu from the marinade and add it to the skillet.",
+    "Cook the tofu for 3-4 minutes on each side, or until it is golden brown and crispy.",
+    "Remove the tofu from the skillet and set it aside on a plate.",
+    "Reduce the heat to medium and add any remaining marinade to the skillet.",
+    "Scrape up any browned bits from the bottom of the skillet and bring the marinade to a simmer.",
+    "Return the tofu to the skillet and cook for an additional 2-3 minutes, or until the sauce has thickened and the tofu is fully coated."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "breakfast-ideas",
+    "brunch-ideas",
+    "one-pan",
+    "tofu-recipes",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "pan-seared-american-tofu-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-american-tofu-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:34:01Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "buttermilk",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "tofu",
+    "descriptor": "Pan seared",
+    "dishForm": "Skillet"
+  }
+}
