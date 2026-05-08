@@ -1,0 +1,90 @@
+{
+  "title": "Puffy Crunchy French Parma Ham Mille Feuille",
+  "description": "A fatty and crunchy French dish featuring parma ham, candy, and puff pastry, suitable for a Buddhist temple gathering.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Parma Ham",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Candy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Confectioners Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Roll out the puff pastry to a large rectangle.",
+    "Spread the butter evenly over the pastry, leaving a 1 inch border around the edges.",
+    "Arrange the parma ham slices on one half of the pastry, leaving a small border around the edges.",
+    "Sprinkle the candy over the parma ham.",
+    "Fold the other half of the pastry over the filling, pressing the edges to seal.",
+    "Brush the egg over the pastry to glaze.",
+    "Sprinkle the confectioners sugar over the pastry.",
+    "Cut the pastry into small rectangles.",
+    "Place the pastry on a baking sheet lined with parchment paper.",
+    "Bake for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "candy-topped",
+    "french-pastry",
+    "parma-ham",
+    "snack-food",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "puffy-crunchy-french-parma-ham-mille-feuille",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/puffy-crunchy-french-parma-ham-mille-feuille",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:40:31Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "candy",
+    "primaryIngredient": "parma ham",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "parma ham",
+    "descriptor": "Puffy Crunchy",
+    "dishForm": "Mille Feuille"
+  }
+}
