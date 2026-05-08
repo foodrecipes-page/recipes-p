@@ -1,0 +1,93 @@
+{
+  "title": "Piquant Crispy Thai Shrimp Tom Yum",
+  "description": "A kid-friendly Thai dish featuring crispy shrimp in a citrusy Tom Yum sauce, made with amaretti and candy for a sweet twist, and keto-friendly ingredients.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "amaretti cookies",
+      "amount": "6",
+      "notes": "crushed"
+    },
+    {
+      "name": "candy melts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tom Yum paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Mix the crushed amaretti cookies and candy melts in a bowl.",
+    "Dip each shrimp into the cookie mixture, coating evenly.",
+    "Place the coated shrimp on a baking sheet lined with parchment paper.",
+    "Bake the shrimp in the oven for 12 minutes, or until crispy and golden brown.",
+    "Heat the coconut oil in a pan over medium heat.",
+    "Add the Tom Yum paste, fish sauce, and lime juice to the pan, stirring constantly.",
+    "Bring the sauce to a simmer and cook for 2 minutes.",
+    "Add the cooked shrimp to the sauce and toss to coat."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-shrimp",
+    "keto-recipes",
+    "seafood-dishes",
+    "thai-food",
+    "tom-yum-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 6,
+    "fat": 22
+  },
+  "slug": "piquant-crispy-thai-shrimp-tom-yum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-crispy-thai-shrimp-tom-yum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:13:45Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "candy",
+    "primaryIngredient": "amaretti",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "shrimp",
+    "descriptor": "Piquant Crispy",
+    "dishForm": "Tom Yum"
+  }
+}
