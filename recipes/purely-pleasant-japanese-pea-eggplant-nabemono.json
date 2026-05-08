@@ -1,0 +1,105 @@
+{
+  "title": "Purely Pleasant Japanese Pea Eggplant Nabemono",
+  "description": "A traditional Japanese Kyushu dish featuring pea eggplant, tempered chocolate, and a glassy jelly texture, suitable for lacto-vegetarian diets. This nabemono recipe is a unique and delicious meal prep option.",
+  "cuisine": "Japanese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pea eggplant",
+      "amount": "1 pound",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "8 ounces",
+      "notes": "tempered"
+    },
+    {
+      "name": "kombu dashi broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sake",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated daikon",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shichimi togarashi",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "agar agar powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine kombu dashi broth, mirin, soy sauce, and sake, and bring to a boil over high heat.",
+    "Reduce the heat to medium low and simmer for 10 minutes.",
+    "Add sliced pea eggplant to the pot and cook for 5 minutes, or until tender.",
+    "In a small bowl, whisk together grated daikon and shichimi togarashi.",
+    "Add the daikon mixture to the pot and stir to combine.",
+    "In a separate saucepan, melt tempered dark chocolate over low heat, stirring constantly.",
+    "Add agar agar powder to the chocolate and stir to combine.",
+    "Add the chocolate agar mixture to the pot and stir to combine.",
+    "Continue to simmer the nabemono for an additional 5 minutes, or until the flavors have melded together and the jelly texture has formed.",
+    "Stir in sesame oil and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "lacto-vegetarian",
+    "nabemono",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "purely-pleasant-japanese-pea-eggplant-nabemono",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-pleasant-japanese-pea-eggplant-nabemono",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:00:37Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "glassy-jelly",
+    "mood": "meal-prep",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "pea-eggplant",
+    "diet": "lacto-vegetarian",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pea eggplant",
+    "descriptor": "purely pleasant",
+    "dishForm": "Nabemono"
+  }
+}

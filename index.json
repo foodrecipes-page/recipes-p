@@ -7662,6 +7662,20 @@
     "shard": "p"
   },
   {
+    "slug": "pungent-moroccan-lamb-tagine",
+    "title": "Pungent Moroccan Lamb Tagine",
+    "tags": [
+      "fermented-foods",
+      "lamb-recipes",
+      "moroccan-cuisine",
+      "one-pot-meals",
+      "spicy-food"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 180,
+    "shard": "p"
+  },
+  {
     "slug": "pungent-pale-turkish-epoisses-pilaf",
     "title": "Pungent Pale Turkish Epoisses Pilaf",
     "tags": [
@@ -8371,6 +8385,20 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 55,
+    "shard": "p"
+  },
+  {
+    "slug": "purely-pleasant-japanese-pea-eggplant-nabemono",
+    "title": "Purely Pleasant Japanese Pea Eggplant Nabemono",
+    "tags": [
+      "japanese-cuisine",
+      "lacto-vegetarian",
+      "nabemono",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
