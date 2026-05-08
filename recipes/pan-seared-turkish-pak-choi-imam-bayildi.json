@@ -1,0 +1,97 @@
+{
+  "title": "Pan Seared Turkish Pak Choi Imam Bayildi",
+  "description": "A Whole30 friendly Turkish dish featuring pak choi, sauteed in a buttery and crunchy style, perfect for brunch, served in an earthenware bowl in the form of Imam Bayildi.",
+  "cuisine": "Turkish",
+  "diet": [
+    "Whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pak choi",
+      "amount": "4 heads",
+      "notes": "chinese cabbage"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Rinse the pak choi heads and separate the leaves.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic and onion until softened.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the pak choi leaves and cook until wilted, about 3-4 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the pak choi mixture to an earthenware bowl and drizzle with lemon juice and ghee.",
+    "Serve immediately, garnished with additional lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "earthenware-cooking",
+    "healthy-recipes",
+    "pak-choi-recipes",
+    "turkish-food",
+    "whole30-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "pan-seared-turkish-pak-choi-imam-bayildi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-turkish-pak-choi-imam-bayildi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:03:16Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "saute",
+    "primaryIngredient": "pak choi",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "pak choi",
+    "descriptor": "pan seared",
+    "dishForm": "Imam Bayildi"
+  }
+}
