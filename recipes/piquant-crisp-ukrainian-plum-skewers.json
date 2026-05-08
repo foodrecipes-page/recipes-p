@@ -1,0 +1,95 @@
+{
+  "title": "Piquant Crisp Ukrainian Plum Skewers",
+  "description": "A sour and crisp Ukrainian dish featuring amaretti and sugar-free friendly ingredients, perfect for a festive snack",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "plums",
+      "amount": "12",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "amaretti cookies",
+      "amount": "1 package",
+      "notes": "crushed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Thread the sashimi-cut plums onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together the crushed amaretti cookies, lemon juice, olive oil, salt, and black pepper.",
+    "Brush the mixture onto the plum skewers, making sure they are evenly coated.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 15 minutes.",
+    "Remove the skewers from the oven and sprinkle with chopped fresh parsley and crumbled feta cheese.",
+    "Serve the skewers warm, garnished with additional parsley if desired.",
+    "Let the skewers cool completely on a wire rack before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "festive",
+    "gluten-free",
+    "snack",
+    "sugar-free",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "piquant-crisp-ukrainian-plum-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-crisp-ukrainian-plum-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:30:01Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "amaretti",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "plums",
+    "descriptor": "Piquant Crisp",
+    "dishForm": "Skewers"
+  }
+}
