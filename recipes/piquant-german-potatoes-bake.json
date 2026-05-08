@@ -1,0 +1,98 @@
+{
+  "title": "Piquant German Potatoes Bake",
+  "description": "A savory German dish featuring umami flavors and a snappy texture, perfect for a energizing meal, this dairy-free-friendly recipe combines the richness of potatoes with the tanginess of red wine vinegar, all wood-fired-baked to perfection.",
+  "cuisine": "German",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red potatoes",
+      "amount": "4 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together the red wine vinegar, olive oil, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the sliced red potatoes to the bowl and toss to coat with the marinade.",
+    "Line a baking sheet with parchment paper and arrange the potato slices in a single layer.",
+    "Dot the top of the potatoes with the vegan butter.",
+    "Bake the potatoes in the preheated wood-fired oven for 30 minutes, or until they are tender and golden brown.",
+    "Remove the potatoes from the oven and sprinkle with chopped fresh parsley.",
+    "Return the potatoes to the oven and bake for an additional 5 minutes, or until the parsley is crispy.",
+    "Remove the potatoes from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "german-cuisine",
+    "one-pan",
+    "umami",
+    "vegetarian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "piquant-german-potatoes-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-german-potatoes-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:21:42Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "potatoes",
+    "descriptor": "Piquant",
+    "dishForm": "Bake"
+  }
+}
