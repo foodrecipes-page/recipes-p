@@ -5241,6 +5241,20 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-juicy-kenyan-bread-sandwich",
+    "title": "Piquant Juicy Kenyan Bread Sandwich",
+    "tags": [
+      "easy-meals",
+      "kenyan-cuisine",
+      "lunch-ideas",
+      "sandwich-recipes",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-kenyan-lentil-burger",
     "title": "Piquant Kenyan Lentil Burger",
     "tags": [

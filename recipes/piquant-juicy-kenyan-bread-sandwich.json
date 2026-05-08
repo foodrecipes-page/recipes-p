@@ -1,0 +1,105 @@
+{
+  "title": "Piquant Juicy Kenyan Bread Sandwich",
+  "description": "A malty, juicy, indulgent Kenyan dish featuring red wine vinegar and double-rise-bread, this sandwich is egg-free-friendly and perfect for a snack or lunch.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "preferably a day-old bread"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a panini press or grill to 375 degrees Fahrenheit.",
+    "Slice the double-rise-bread into 1-inch thick slices.",
+    "Butter one side of each bread slice.",
+    "In a bowl, whisk together mayonnaise, mustard, and red wine vinegar.",
+    "Spread the mayonnaise mixture on the unbuttered side of each bread slice.",
+    "Layer cucumber, tomato, onion, lettuce, and cheese on one bread slice.",
+    "Place the other bread slice, buttered side up, on top of the filling.",
+    "Place the sandwich in the panini press or grill and cook for 5 minutes or until golden brown.",
+    "Let the sandwich cool for 2 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meals",
+    "kenyan-cuisine",
+    "lunch-ideas",
+    "sandwich-recipes",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "piquant-juicy-kenyan-bread-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-juicy-kenyan-bread-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:34:43Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "bread",
+    "descriptor": "Piquant Juicy",
+    "dishForm": "Sandwich"
+  }
+}
