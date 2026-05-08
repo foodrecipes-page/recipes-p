@@ -1,0 +1,111 @@
+{
+  "title": "Purely Comforting Mexican Sweet Potatoes Fajitas",
+  "description": "A fresh and comforting Mexican dish featuring sweet potatoes, this recipe is a perfect blend of sugars and spices, made in a donabe vessel and served as fajitas.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8 small",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 ripe",
+      "notes": "sliced"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the donabe vessel over medium heat.",
+    "Add the olive oil to the donabe and swirl it around to coat the bottom.",
+    "Add the sliced onion to the donabe and cook until it is translucent.",
+    "Add the sliced bell pepper to the donabe and cook until it is tender.",
+    "Add the sliced sweet potatoes to the donabe and cook until they are tender and lightly browned.",
+    "Sprinkle the fajita seasoning over the sweet potatoes and stir to combine.",
+    "Squeeze the lime juice over the sweet potatoes and stir to combine.",
+    "Season the sweet potatoes with salt and black pepper to taste.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the fajitas by placing a portion of the sweet potato mixture onto a tortilla and topping with sliced avocado and a dollop of sour cream, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "donabe-recipes",
+    "fajitas",
+    "mexican-food",
+    "sweet-potatoes",
+    "vegetarian-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "purely-comforting-mexican-sweet-potatoes-fajitas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-comforting-mexican-sweet-potatoes-fajitas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:54:25Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "sugars",
+    "diet": "ayurvedic-sattvic",
+    "region": "veracruzan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "Purely Comforting",
+    "dishForm": "Fajitas"
+  }
+}
