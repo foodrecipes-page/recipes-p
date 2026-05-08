@@ -1,0 +1,94 @@
+{
+  "title": "Plump Indian Samphire Naan",
+  "description": "A rich and chewy Maharashtrian dish featuring samphire, perfect for a filling lunch or dinner, this naan is ayurvedic tamasic friendly and made with fry grind rice khao khuah.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "samphire",
+      "amount": "1 bunch",
+      "notes": "fresh"
+    },
+    {
+      "name": "rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fry grind rice khao khuah",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine rice flour, fry grind rice khao khuah, and salt.",
+    "Add ghee, yogurt, cumin seeds, and coriander powder to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 6 equal portions and roll each portion into a ball.",
+    "Roll out each ball into a thin circle, about 6 inches in diameter.",
+    "Place a few pieces of samphire in the center of each circle.",
+    "Fold the dough over the samphire to form a naan and press the edges together to seal.",
+    "Place the naans on a baking sheet lined with parchment paper and bake for 15 minutes.",
+    "Brush the naans with ghee and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "gluten-free",
+    "homemade-naan",
+    "indian-cuisine",
+    "lunch-ideas",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "plump-indian-samphire-naan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/plump-indian-samphire-naan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:40:40Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "samphire",
+    "diet": "ayurvedic-tamasic",
+    "region": "maharashtrian",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "samphire",
+    "descriptor": "Rich Plump",
+    "dishForm": "Naan"
+  }
+}
