@@ -1,0 +1,113 @@
+{
+  "title": "Pungent Crisp Malaysian Ackee Satay",
+  "description": "A rich and savory Malaysian-inspired dish featuring ackee, perfect for a date night dinner.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ackee",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "Peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Galangal",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Kaffir lime leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "12"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Soak the bamboo skewers in water for at least 30 minutes.",
+    "Cut the ackee into bite-sized pieces.",
+    "Cut the lemongrass and galangal into thin slices.",
+    "Thread the ackee, lemongrass, and galangal onto the bamboo skewers.",
+    "Heat 2 tablespoons of peanut oil in a large skillet over medium-high heat.",
+    "Add the kaffir lime leaves and cook for 1 minute.",
+    "Add the skewers and cook for 2-3 minutes on each side, or until golden brown.",
+    "Transfer the skewers to a plate and set aside.",
+    "Add the remaining 2 tablespoons of peanut oil to the skillet.",
+    "Add the palm sugar, fish sauce, lime juice, salt, and black pepper to the skillet.",
+    "Cook for 1-2 minutes, stirring constantly, until the sauce has thickened and reduced.",
+    "Add the coconut milk to the skillet and cook for 1 minute, stirring constantly.",
+    "Return the skewers to the skillet and coat with the sauce.",
+    "Serve immediately and garnish with additional kaffir lime leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "malaysian",
+    "one-pan",
+    "skewers",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 28,
+    "carbs": 40,
+    "fat": 36
+  },
+  "slug": "pungent-crisp-malaysian-ackee-satay",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-crisp-malaysian-ackee-satay",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:22:43Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "deglaze",
+    "primaryIngredient": "ackee",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Ackee",
+    "descriptor": "Pungent Crisp",
+    "dishForm": "Satay"
+  }
+}
