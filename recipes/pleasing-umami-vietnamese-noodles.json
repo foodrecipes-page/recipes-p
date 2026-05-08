@@ -1,0 +1,99 @@
+{
+  "title": "Pleasing Umami Vietnamese Noodles",
+  "description": "A vegetarian-friendly Vietnamese dish featuring vermicelli rice noodles and a cheesy, umami sauce, this crowd-pleaser is sure to delight. With a delicious cheese-pull and savory flavors, it's perfect for any occasion.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vermicelli rice noodles",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp",
+      "notes": "vegetarian alternative"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Cook the vermicelli rice noodles according to the package instructions and set aside.",
+    "In a large skillet, heat the vegetable oil over medium-high heat.",
+    "Add the sliced onion to the skillet and saute until it's translucent and starting to caramelize.",
+    "Add the sliced mushrooms to the skillet and continue to saute until they're tender and lightly browned.",
+    "In a small bowl, whisk together the soy sauce and fish sauce.",
+    "Pour the sauce into the skillet and stir to combine with the onion and mushrooms.",
+    "Add the cooked noodles to the skillet and stir to combine with the sauce and vegetables.",
+    "Transfer the noodle mixture to a serving dish and top with the shredded mozzarella cheese.",
+    "Place the dish under the broiler and cook until the cheese is melted and bubbly.",
+    "Remove the dish from the oven and top with the fresh bean sprouts.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "crowd-pleaser",
+    "noodle-dish",
+    "umami",
+    "vegetarian",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "pleasing-umami-vietnamese-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pleasing-umami-vietnamese-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:24:03Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "saute",
+    "primaryIngredient": "vermicelli rice noodles",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "noodles",
+    "descriptor": "Pleasing Umami",
+    "dishForm": "Noodles"
+  }
+}
