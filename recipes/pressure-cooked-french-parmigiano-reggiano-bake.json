@@ -1,0 +1,110 @@
+{
+  "title": "Pressure-Cooked French Parmigiano-Reggiano Bake",
+  "description": "A rich and creamy French-inspired bake with a floral twist, featuring Parmigiano-Reggiano and a gluten-free friendly crust in a clay pot.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Parmigiano-Reggiano cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "fleur de sel",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 sprig",
+      "notes": "chopped"
+    },
+    {
+      "name": "gluten-free flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a pressure cooker to high pressure.",
+    "Rub the inside of a clay pot with butter and coat with gluten-free flour.",
+    "In a separate bowl, mix together Parmigiano-Reggiano cheese, thyme, fleur de sel, and a pinch of black pepper.",
+    "Place the clay pot in the pressure cooker and add the garlic and rosemary to the pot.",
+    "Pour the heavy cream into the pressure cooker and close the lid.",
+    "Set the pressure cooker to high pressure for 10 minutes.",
+    "After the cooking time has elapsed, allow the pressure to release naturally for 5 minutes.",
+    "Remove the clay pot from the pressure cooker and sprinkle with chopped parsley.",
+    "Bake in a preheated oven at 375 degrees Fahrenheit for an additional 10 minutes, or until the top is golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Carve into slices and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "pressure-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "pressure-cooked-french-parmigiano-reggiano-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/pressure-cooked-french-parmigiano-reggiano-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:44:53Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "pressure-cook",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Parmigiano-reggiano",
+    "descriptor": "Pressure-Cooked",
+    "dishForm": "Bake"
+  }
+}

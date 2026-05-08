@@ -6482,6 +6482,20 @@
     "shard": "p"
   },
   {
+    "slug": "pressure-cooked-french-parmigiano-reggiano-bake",
+    "title": "Pressure-Cooked French Parmigiano-Reggiano Bake",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "pressure-cooker",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "pressure-packed-coriander-crumble",
     "title": "Pressure-Packed Coriander Crumble",
     "tags": [
