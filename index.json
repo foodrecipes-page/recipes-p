@@ -5195,6 +5195,20 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-gooey-japanese-chicken-dorayaki",
+    "title": "Piquant Gooey Japanese Chicken Dorayaki",
+    "tags": [
+      "double-fry",
+      "flexitarian-friendly",
+      "gooey-food",
+      "japanese-street-food",
+      "midnight-cravings"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-irish-rocket-salad",
     "title": "Piquant Irish Rocket Salad",
     "tags": [
@@ -5613,6 +5627,21 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
+    "slug": "piquant-spring-brazilian-fennel-tagine",
+    "title": "Piquant Spring Brazilian Fennel Tagine",
+    "tags": [
+      "brazilian-food",
+      "gluten-free",
+      "mediterranean-inspired",
+      "one-pot",
+      "vegetarian-option",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {

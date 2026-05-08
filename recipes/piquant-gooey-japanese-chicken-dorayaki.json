@@ -1,0 +1,94 @@
+{
+  "title": "Piquant Gooey Japanese Chicken Dorayaki",
+  "description": "A funky and gooey Japanese dish featuring orange juice and double-fry KFC style chicken, wrapped in a dorayaki form, perfect for midnight cravings. This flexitarian-friendly recipe is a twist on traditional Japanese cuisine.",
+  "cuisine": "Japanese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dorayaki pancakes",
+      "amount": "4-6"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together flour, cornstarch, and a pinch of salt.",
+    "Add the chicken pieces to the bowl and toss to coat evenly.",
+    "Heat 1/4 cup of vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Double-fry the chicken by frying it for 5 minutes, then letting it rest for 5 minutes, and frying it again for an additional 5 minutes.",
+    "In a small bowl, whisk together orange juice and soy sauce.",
+    "Add the orange juice mixture to the fried chicken and toss to coat.",
+    "Heat a non-stick pan over medium heat and add a small amount of vegetable oil.",
+    "Place a dorayaki pancake in the pan and add a few pieces of the chicken mixture to one half of the pancake.",
+    "Fold the pancake in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the pancake is golden brown and the filling is heated through.",
+    "Serve hot and garnish with chopped green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "double-fry",
+    "flexitarian-friendly",
+    "gooey-food",
+    "japanese-street-food",
+    "midnight-cravings"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "piquant-gooey-japanese-chicken-dorayaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-gooey-japanese-chicken-dorayaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:39:21Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "orange juice",
+    "diet": "flexitarian",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "Piquant Gooey",
+    "dishForm": "Dorayaki"
+  }
+}
