@@ -1,0 +1,98 @@
+{
+  "title": "Pungent Pickled Argentinian Shrimp Empanadas",
+  "description": "A briny and creamy Argentinian dish featuring unwaxed lemon and ferment, wrapped in banana leaves, Whole30-friendly.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "Whole30",
+    "Gluten Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "unwaxed lemon",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "12",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "pickling spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a bowl, mix together the shrimp, lemon juice, pickling spice, and salt.",
+    "Let the mixture ferment for 30 minutes.",
+    "In a pan, saute the onion and garlic until softened.",
+    "Add the coconut cream to the pan and stir until combined.",
+    "Add the fermented shrimp mixture to the pan and stir until heated through.",
+    "Spoon the shrimp mixture onto the center of a banana leaf.",
+    "Fold the banana leaf into a triangle and press the edges together to seal.",
+    "Repeat with the remaining ingredients.",
+    "Bake the empanadas for 15 minutes or until the banana leaves are tender."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "fermented-food",
+    "gluten-free",
+    "latin-american",
+    "seafood",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "pungent-pickled-argentinian-shrimp-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-pickled-argentinian-shrimp-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:22:03Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "ferment",
+    "primaryIngredient": "unwaxed lemon",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "shrimp",
+    "descriptor": "pungent pickled",
+    "dishForm": "Empanadas"
+  }
+}
