@@ -1,0 +1,113 @@
+{
+  "title": "Pan Seared Punjabi Wonton Dumplings",
+  "description": "A briny and crisp nostalgic Indian dish featuring wonton skin, this recipe is a dairy-free friendly version of traditional Punjabi dumplings, cooked to perfection in a terracotta dish.",
+  "cuisine": "Indian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wonton skin",
+      "amount": "20 pieces",
+      "notes": "round or square skin can be used"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "boiled and mashed"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "vegetable or canola oil"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for steaming"
+    }
+  ],
+  "instructions": [
+    "Preheat the terracotta dish over medium heat on the stovetop.",
+    "Add oil to the preheated dish and swirl it around to coat the bottom.",
+    "Add the chopped onion and cook until it is translucent and starting to brown.",
+    "Add the grated ginger and minced garlic and cook for another minute.",
+    "Add the mashed potato, peas, garam masala, and salt, and stir well to combine.",
+    " Lay a wonton skin on a flat surface and place a tablespoon of the potato mixture in the center of the skin.",
+    "Dip your finger in a small amount of water and run it along the edges of the wonton skin.",
+    "Fold the skin into a triangle by bringing the two opposite corners together to form a point, and press the edges together to seal the dumpling.",
+    "Repeat the process with the remaining wonton skin and filling.",
+    "Add the dumplings to the terracotta dish, leaving some space between each dumpling.",
+    "Pan sear the dumplings for 2-3 minutes on each side, until they are golden brown and crispy.",
+    "Serve the dumplings hot with your favorite chutney or raita."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "indian-cuisine",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "pan-seared-punjabi-wonton-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-punjabi-wonton-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:20:55Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "wonton skin",
+    "diet": "dairy-free",
+    "region": "punjabi",
+    "cuisineAdjective": "Punjabi",
+    "mainIngredient": "wonton",
+    "descriptor": "Pan seared crisp",
+    "dishForm": "Dumplings"
+  }
+}
