@@ -1,0 +1,113 @@
+{
+  "title": "Piquant Charred Algerian Lamb Tagine",
+  "description": "A rich and flavorful Algerian dish featuring charred lamb, white wine, and a nimono-simmer, perfect for a brunch mood, this recipe is also diabetic friendly due to the use of low carb ingredients and portion control.",
+  "cuisine": "Algerian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, cut into 2 inch pieces"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the olive oil over medium high heat.",
+    "Add the lamb to the pot and cook until browned on all sides, about 5 minutes.",
+    "Add the onion to the pot and cook until it starts to caramelize, about 5 minutes.",
+    "Add the garlic and ginger to the pot and cook for 1 minute.",
+    "Add the white wine, cumin, paprika, salt, and pepper to the pot, stirring to combine.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Braise the lamb for 2 1/2 hours, or until it is tender and falling apart.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Stir in the chopped parsley and serve the tagine hot.",
+    "Serve with a side of couscous or roasted vegetables for a filling meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "brunch-ideas",
+    "gluten-free",
+    "lamb-recipes",
+    "low-carb",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "piquant-charred-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-charred-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:36:04Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "white wine",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Piquant Charred",
+    "dishForm": "Tagine"
+  }
+}
