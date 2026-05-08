@@ -1,0 +1,92 @@
+{
+  "title": "Pureed Neapolitan Swede Cannoli",
+  "description": "A funky and tender Italian dish featuring swede, this romantic treat is perfect for a night in, with a flexitarian friendly twist on traditional cannoli.",
+  "cuisine": "Italian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "swede",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cannoli shells",
+      "amount": "12"
+    },
+    {
+      "name": "chopped pistachios",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Toss the swede with olive oil, garlic, and cinnamon, and roast for 30 minutes.",
+    "Let the swede cool, then puree in a blender until smooth.",
+    "In a bowl, mix the pureed swede with ricotta cheese and confectioners sugar.",
+    "Fill the cannoli shells with the swede mixture.",
+    "Dust the tops with confectioners sugar and sprinkle with chopped pistachios.",
+    "Chill in the refrigerator for at least 30 minutes before serving.",
+    "Serve cold and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "cannoli-twist",
+    "flexitarian-friendly",
+    "italian-dessert",
+    "romantic-dinner",
+    "swede-recipe"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "pureed-neapolitan-swede-cannoli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pureed-neapolitan-swede-cannoli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:37:47Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "swede",
+    "diet": "flexitarian",
+    "region": "neapolitan",
+    "cuisineAdjective": "Neapolitan",
+    "mainIngredient": "swede",
+    "descriptor": "Pureed",
+    "dishForm": "Cannoli"
+  }
+}
