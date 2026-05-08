@@ -1,0 +1,92 @@
+{
+  "title": "Piquant Smoky Greek Chicken Kebabs",
+  "description": "A crowd-pleasing Greek dish featuring smoky olive oil and double-fried chicken, this recipe is egg-free and friendly for all, with a bitter and shaggy texture that is sure to delight.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "smoky olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a large bowl, whisk together smoky olive oil, lemon juice, garlic powder, onion powder, salt, black pepper, and paprika.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Heat about 1/2 inch of olive oil in a large skillet over medium-high heat.",
+    "Double-fry the chicken kebabs in the skillet for about 5 minutes on each side, until browned and crispy.",
+    "Transfer the kebabs to a baking sheet and bake in the preheated oven for 15-20 minutes, or until cooked through.",
+    "Serve the kebabs hot, garnished with fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "crowd-pleasers",
+    "double-fried",
+    "egg-free",
+    "greek-food",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 18
+  },
+  "slug": "piquant-smoky-greek-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-smoky-greek-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:26:01Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "smoky a oli",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "chicken",
+    "descriptor": "Piquant Smoky",
+    "dishForm": "Kebabs"
+  }
+}

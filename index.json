@@ -6084,6 +6084,21 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-smoky-greek-chicken-kebabs",
+    "title": "Piquant Smoky Greek Chicken Kebabs",
+    "tags": [
+      "chicken-recipes",
+      "crowd-pleasers",
+      "double-fried",
+      "egg-free",
+      "greek-food",
+      "smoky-flavors"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-smoky-greek-feta-tiropita",
     "title": "Piquant Smoky Greek Feta Tiropita",
     "tags": [
