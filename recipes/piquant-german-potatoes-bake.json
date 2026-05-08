@@ -3,7 +3,6 @@
   "description": "A savory German dish featuring umami flavors and a snappy texture, perfect for a energizing meal, this dairy-free-friendly recipe combines the richness of potatoes with the tanginess of red wine vinegar, all wood-fired-baked to perfection.",
   "cuisine": "German",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -64,7 +63,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "german-cuisine",
     "one-pan",
     "umami",
@@ -94,5 +92,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "Piquant",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

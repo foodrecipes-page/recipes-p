@@ -62,11 +62,15 @@
     "mood": "quick-fix",
     "technique": "poach",
     "primaryIngredient": "sweetened condensed milk",
-    "diet": "nut-free",
+    "diet": "low-fat",
     "region": null,
     "cuisineAdjective": "Italian",
     "mainIngredient": "pecans",
     "descriptor": "Poached",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

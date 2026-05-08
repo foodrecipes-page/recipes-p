@@ -49,7 +49,8 @@
     "Reduce the heat to low and simmer for 20 minutes.",
     "Use an immersion blender to puree the stew until smooth.",
     "Stir in the lemon juice and adjust the seasoning as needed.",
-    "Serve hot over rice or with pita bread."
+    "Serve hot over rice or with pita bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -86,5 +87,9 @@
     "mainIngredient": "mulukhiyah",
     "descriptor": "Pureed",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

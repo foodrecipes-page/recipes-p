@@ -2,9 +2,7 @@
   "title": "Pungent Pan-Fried Kenyan Rice Bowl",
   "description": "A hearty, buttery, and gooey rice dish from Kenya, perfect for a hangover cure.",
   "cuisine": "kenyan",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -97,5 +95,9 @@
     "mainIngredient": "Rice",
     "descriptor": "Pungent Pan-Fried",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

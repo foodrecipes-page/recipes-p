@@ -69,7 +69,6 @@
     "fodmap-friendly",
     "gluten-free",
     "smoky",
-    "vegetarian",
     "vietnamese",
     "wood-fired"
   ],
@@ -96,5 +95,9 @@
     "mainIngredient": "runner beans",
     "descriptor": "perfectly smoky",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

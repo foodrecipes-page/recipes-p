@@ -56,7 +56,8 @@
     "Stir in onion and cook for an additional minute. Mix in lemon zest, juice, dill, and bay leaf. Pour in broth or water.",
     "Bring to a boil then reduce heat to low. Cover and let simmer for 10-12 minutes, stirring occasionally.",
     "Use a blender to puree half of the soup until smooth; return to pot if prefer chunky consistency.",
-    "Season with salt and pepper to taste. Reheat gently over medium-low heat. Garnish with parsley if desired."
+    "Season with salt and pepper to taste. Reheat gently over medium-low heat. Garnish with parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -94,5 +95,9 @@
     "mainIngredient": "Leeks",
     "descriptor": "Peppery",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

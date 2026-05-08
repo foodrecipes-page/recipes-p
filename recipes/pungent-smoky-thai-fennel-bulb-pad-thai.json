@@ -3,8 +3,7 @@
   "description": "A smoky and light Thai dish featuring fennel bulb, fried to perfection in a Bangkok-street style Pad Thai, with ayurvedic-rajasic friendly ingredients.",
   "cuisine": "Thai",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -67,7 +66,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "one-pan",
     "smoky",
     "street-food",
@@ -97,5 +95,9 @@
     "mainIngredient": "fennel bulb",
     "descriptor": "Pungent Smoky",
     "dishForm": "Pad Thai"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

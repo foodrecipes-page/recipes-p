@@ -3,8 +3,7 @@
   "description": "A simple, peppery Filipino-inspired dish featuring natural yoghurt with a crumbly texture, perfect for a sugar-free solo dinner.",
   "cuisine": "filipino",
   "diet": [
-    "sugar-free",
-    "vegan"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -71,5 +70,9 @@
     "mainIngredient": "yoghurt",
     "descriptor": "Peppery",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

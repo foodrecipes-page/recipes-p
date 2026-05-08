@@ -62,7 +62,8 @@
     "Pour in coconut milk and lime juice, bring to a gentle simmer, and reduce heat to low.",
     "Cook uncovered for 25 minutes, stirring occasionally, until chicken is tender and sauce thickens.",
     "Remove from heat, stir in chopped cilantro, and adjust seasoning if needed.",
-    "Serve hot, optionally garnished with extra cilantro or lime wedges."
+    "Serve hot, optionally garnished with extra cilantro or lime wedges.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -100,5 +101,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Piquant Low-Carb",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

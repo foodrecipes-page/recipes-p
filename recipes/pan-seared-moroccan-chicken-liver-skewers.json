@@ -62,7 +62,8 @@
     "Remove the skewers from the skillet and garnish with parsley.",
     "Serve the skewers hot with your choice of sides.",
     "Let the skewers rest for a few minutes before serving.",
-    "Garnish with additional parsley if desired."
+    "Garnish with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -100,5 +101,9 @@
     "mainIngredient": "chicken liver",
     "descriptor": "Pan seared",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -64,7 +64,8 @@
     "Add the cooked chicken back to the skillet and stir to combine with the buckwheat mixture.",
     "Reduce heat to low and stir in the sour cream.",
     "Cook for an additional 2 minutes, or until the sauce has thickened slightly.",
-    "Stir in the chopped fresh dill and serve hot."
+    "Stir in the chopped fresh dill and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -101,5 +102,9 @@
     "mainIngredient": "buckwheat",
     "descriptor": "Pungent creamy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

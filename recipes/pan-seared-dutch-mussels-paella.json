@@ -2,9 +2,7 @@
   "title": "Pan Seared Dutch Mussels Paella",
   "description": "A savory and creamy Dutch dish featuring mussels, perfect for a family dinner",
   "cuisine": "Dutch",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -98,5 +96,9 @@
     "mainIngredient": "mussels",
     "descriptor": "Pan seared",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

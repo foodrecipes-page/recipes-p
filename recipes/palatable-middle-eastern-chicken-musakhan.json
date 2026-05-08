@@ -63,7 +63,8 @@
     "Stir in the sweetened condensed milk and bring the mixture to a boil.",
     "Reduce the heat to low and simmer the sauce for 5 minutes.",
     "To assemble the musakhan, slice the cooked chicken breasts and place them on top of the pita bread pieces.",
-    "Spoon the onion and sweetened condensed milk sauce over the chicken and garnish with chopped parsley."
+    "Spoon the onion and sweetened condensed milk sauce over the chicken and garnish with chopped parsley.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -101,5 +102,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Palatable",
     "dishForm": "Musakhan"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

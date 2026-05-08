@@ -3,8 +3,7 @@
   "description": "A kid-friendly Vietnamese dish featuring papelon, mortar-pestle-pound, and whole30-friendly ingredients, served in a banana leaf vessel.",
   "cuisine": "Vietnamese",
   "diet": [
-    "whole30",
-    "gluten-free"
+    "whole30"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -61,7 +60,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "kid-friendly",
     "one-pan",
     "vietnamese-cuisine",
@@ -90,5 +88,9 @@
     "mainIngredient": "papelon",
     "descriptor": "pungent crisp",
     "dishForm": "Mi Quang"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

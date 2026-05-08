@@ -96,8 +96,7 @@
     "meal-prep",
     "plant-based",
     "russian",
-    "soup",
-    "vegan"
+    "soup"
   ],
   "nutrition": {
     "calories": 420,
@@ -122,5 +121,9 @@
     "mainIngredient": "dried white beans",
     "descriptor": "pilowy",
     "dishForm": "borscht"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

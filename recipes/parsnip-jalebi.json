@@ -2,9 +2,7 @@
   "title": "Parsnip Jalebi",
   "description": "A nutty and gooey Indian Chettinad dish featuring chopped parsley, a nostalgic twist for those who enjoy the jalebi dessert but with a new flavor profile.",
   "cuisine": "Indian (Chettinad)",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -71,5 +69,9 @@
     "primaryIngredient": "chopped parsley",
     "diet": "jain",
     "region": "chettinad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -59,7 +59,8 @@
     "Remove chicken from pan and set aside. In the same pan, add onions and garlic to sweat until translucent (about 2-3 minutes), then add peppers.",
     "Sauté for another 2-3 minutes until slightly softened. Add coconut cream and let it simmer until it thickens a bit (about 5 minutes).",
     "Return chicken to the pan with its juices, stir-fry for an additional minute, allowing flavors to meld together.",
-    "Serve hot as part of your dinner or alongside a whole grain side dish."
+    "Serve hot as part of your dinner or alongside a whole grain side dish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -95,5 +96,9 @@
     "mainIngredient": "Coconut",
     "descriptor": "Peppery",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

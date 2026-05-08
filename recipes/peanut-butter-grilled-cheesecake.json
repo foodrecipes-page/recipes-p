@@ -3,8 +3,7 @@
   "description": "A rich and flaky peanut butter grilled cheesecake that's perfect for a whole30-friendly meal, featuring a dairy-free base and crunchy toppings.",
   "cuisine": "American",
   "diet": [
-    "whole30",
-    "dairy-free"
+    "whole30"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -73,5 +72,9 @@
     "primaryIngredient": "peanut butter",
     "diet": "whole30",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

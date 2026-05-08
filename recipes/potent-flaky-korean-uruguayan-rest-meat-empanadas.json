@@ -2,9 +2,7 @@
   "title": "Potent Flaky Korean Uruguayan Rest Meat Empanadas",
   "description": "A nutty and energizing Uruguayan dish featuring doenjang and rest meat, wrapped in a gluten-free friendly flaky crust. This empanada is perfect for a snack or lunch.",
   "cuisine": "Uruguayan",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -58,7 +56,8 @@
     "Place 1 tablespoon of doenjang and 1 tablespoon of rest meat in the center of each circle.",
     "Fold the dough in half and press the edges together to seal the empanada.",
     "Brush the tops of the empanadas with a little bit of sesame oil.",
-    "Bake the empanadas for 20 minutes, or until golden brown."
+    "Bake the empanadas for 20 minutes, or until golden brown.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -68,7 +67,6 @@
   "tags": [
     "doenjang",
     "empanadas",
-    "gluten-free",
     "korean-uruguayan-fusion",
     "lunch",
     "rest-meat",
@@ -97,5 +95,10 @@
     "mainIngredient": "rest meat",
     "descriptor": "Potent flaky",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

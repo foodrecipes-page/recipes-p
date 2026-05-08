@@ -3,8 +3,7 @@
   "description": "A bitter and springy weeknight Brazilian dish featuring fennel, this recipe combines Mediterranean flavors with a twist of Brazilian spices, all cooked in a traditional clay tajine vessel.",
   "cuisine": "Brazilian",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -65,7 +64,8 @@
     "Stir in the dried oregano, ground cumin, smoked paprika, salt, and black pepper.",
     "Pour in the chicken broth and bring the mixture to a simmer.",
     "Reduce the heat to low and cook, covered, for 20 minutes, or until the fennel is tender.",
-    "Stir in the chopped parsley and serve hot."
+    "Stir in the chopped parsley and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -103,5 +103,10 @@
     "mainIngredient": "fennel",
     "descriptor": "Piquant Spring",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

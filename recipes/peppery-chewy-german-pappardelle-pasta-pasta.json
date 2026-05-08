@@ -2,9 +2,7 @@
   "title": "Peppery Chewy German Pappardelle Pasta",
   "description": "A hearty German-inspired dish featuring chewy pappardelle pasta, infused with a spicy peppery flavor. Perfect for a quick and energizing lunch or dinner.",
   "cuisine": "german",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -90,7 +88,8 @@
     "Serve the pappardelle pasta hot, garnished with additional parsley and parmesan cheese if desired.",
     "Let the dish rest for 2-3 minutes before serving.",
     "Slice the dish into 4-6 portions, depending on serving size.",
-    "Serve the dish hot, garnished with additional parsley and parmesan cheese if desired."
+    "Serve the dish hot, garnished with additional parsley and parmesan cheese if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 18,
@@ -129,5 +128,10 @@
     "mainIngredient": "pappardelle pasta",
     "descriptor": "peppery chewy",
     "dishForm": "pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

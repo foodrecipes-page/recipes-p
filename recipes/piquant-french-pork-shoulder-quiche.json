@@ -80,7 +80,8 @@
     "spread the chopped thyme over the top of the egg mixture",
     "pour the egg mixture into the baked tart crust",
     "bake the quiche for 35-40 minutes, or until the edges are golden brown and the center is set",
-    "remove the quiche from the oven and let it cool for 10 minutes before serving"
+    "remove the quiche from the oven and let it cool for 10 minutes before serving",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 50,
@@ -117,5 +118,9 @@
     "mainIngredient": "Pork shoulder",
     "descriptor": "Piquant",
     "dishForm": "Quiche"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

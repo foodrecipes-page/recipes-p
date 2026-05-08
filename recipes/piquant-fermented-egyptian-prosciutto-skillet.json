@@ -3,7 +3,6 @@
   "description": "A cozy Egyptian dish featuring prosciutto, with a floral flavor and a cheese-pull effect, made in an iron teppan skillet. This recipe is Buddhist-temple-friendly and perfect for a dinner gathering.",
   "cuisine": "Egyptian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -108,5 +107,9 @@
     "mainIngredient": "prosciutto",
     "descriptor": "Piquant Fermented",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

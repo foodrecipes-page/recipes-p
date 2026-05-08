@@ -3,8 +3,7 @@
   "description": "a vegetarian-friendly, kid-friendly filipino dish featuring foie-gras and shio-koji-cure, perfect for a weeknight dinner. briny, flaky, and indulgent.",
   "cuisine": "filipino",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -93,5 +92,9 @@
     "mainIngredient": "foie-gras",
     "descriptor": "pungent flaky",
     "dishForm": "Pancit"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

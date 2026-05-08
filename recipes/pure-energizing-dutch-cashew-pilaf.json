@@ -87,11 +87,15 @@
     "mood": "energizing",
     "technique": "shio-cure",
     "primaryIngredient": "cashews",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Dutch",
     "mainIngredient": "cashews",
     "descriptor": "pure energizing",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

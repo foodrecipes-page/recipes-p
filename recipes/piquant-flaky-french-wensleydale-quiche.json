@@ -3,8 +3,7 @@
   "description": "a grassy and flaky brunch dish featuring wensleydale cheese, made with a dashi extract and halal-friendly ingredients.",
   "cuisine": "french",
   "diet": [
-    "halal",
-    "vegetarian"
+    "halal"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -75,7 +74,6 @@
     "french",
     "halal",
     "quiche",
-    "vegetarian",
     "wensleydale"
   ],
   "nutrition": {
@@ -101,5 +99,9 @@
     "mainIngredient": "Wensleydale",
     "descriptor": "Piquant Flaky",
     "dishForm": "Quiche"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

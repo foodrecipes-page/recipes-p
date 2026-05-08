@@ -80,7 +80,7 @@
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 60,
-  "totalTimeMin": 150,
+  "totalTimeMin": 90,
   "servings": 6,
   "difficulty": "medium",
   "tags": [
@@ -115,5 +115,9 @@
     "mainIngredient": "herbal",
     "descriptor": "pillowy and show-off",
     "dishForm": "Fondue Pot Dessert/Jellied Dessert"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

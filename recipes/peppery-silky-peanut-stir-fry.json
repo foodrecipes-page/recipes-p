@@ -35,7 +35,8 @@
     "Season the chicken with kosher salt and add to the pan. Stir-fry until golden brown, about 5 minutes.",
     "Add bell peppers and snow peas to the pan. Stir-fry for another 3-4 minutes until vegetables are tender-crisp.",
     "Drizzle a bit more peanut oil if needed, then sprinkle with your favorite chili flakes (such as Sichuan peppercorns or red pepper flakes).",
-    "Cook briefly and serve hot."
+    "Cook briefly and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -71,5 +72,9 @@
     "mainIngredient": "peanut",
     "descriptor": "Peppery Silky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

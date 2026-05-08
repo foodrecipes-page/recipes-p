@@ -3,8 +3,7 @@
   "description": "A spicy and juicy Thai dish featuring duck, this curry is a nostalgic reminder of Southern Thai cuisine, simmered to perfection in a Korean brass bowl. It is a raw-friendly dish that can be served with steamed rice.",
   "cuisine": "Thai",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -57,7 +56,8 @@
     "Bring the mixture to a simmer and cook, covered, for 20 minutes.",
     "Stir in the chopped Thai basil and cook for an additional 2 minutes.",
     "Season the curry with salt to taste.",
-    "Serve the curry hot, garnished with additional Thai basil if desired."
+    "Serve the curry hot, garnished with additional Thai basil if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -95,5 +95,10 @@
     "mainIngredient": "duck",
     "descriptor": "pungent juicy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

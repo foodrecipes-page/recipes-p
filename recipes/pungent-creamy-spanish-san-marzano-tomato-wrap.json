@@ -4,7 +4,6 @@
   "cuisine": "Spanish",
   "diet": [
     "high-protein",
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -137,5 +136,9 @@
     "mainIngredient": "san-marzano-tomato",
     "descriptor": "pungent creamy",
     "dishForm": "wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

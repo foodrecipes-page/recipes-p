@@ -3,7 +3,6 @@
   "description": "A sweet and crisp Russian dish featuring a rich vegetable stock and a creamy emulsified sauce, perfect for a special occasion. This recipe is nut-free and friendly for all to enjoy.",
   "cuisine": "Russian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -66,8 +65,7 @@
     "comfort-food",
     "gluten-free",
     "one-pot",
-    "russian-cuisine",
-    "vegetarian"
+    "russian-cuisine"
   ],
   "nutrition": {
     "calories": 420,
@@ -86,11 +84,16 @@
     "mood": "indulgent",
     "technique": "mantecare-emulsify",
     "primaryIngredient": "vegetable stock cube",
-    "diet": "nut-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Russian",
     "mainIngredient": "vegetables",
     "descriptor": "Purely Indulgent",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "aligned-axes-diet"
+  ]
 }

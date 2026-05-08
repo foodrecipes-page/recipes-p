@@ -80,7 +80,6 @@
     "post-workout",
     "quinoa",
     "snack",
-    "vegan",
     "vietnamese"
   ],
   "nutrition": {
@@ -106,5 +105,9 @@
     "mainIngredient": "quinoa",
     "descriptor": "post-workout roasted",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

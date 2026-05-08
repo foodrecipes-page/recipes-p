@@ -3,9 +3,7 @@
   "description": "A sweet and comforting Mangalorean dish featuring sugar and dashi extract, perfect for a sick day. This plant-based friendly recipe is a unique twist on traditional dosa.",
   "cuisine": "Indian",
   "diet": [
-    "plant-based",
-    "vegetarian",
-    "vegan"
+    "plant-based"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -89,5 +87,10 @@
     "mainIngredient": "rice",
     "descriptor": "pillowy sweet",
     "dishForm": "Dosa"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

@@ -3,9 +3,7 @@
   "description": "A hearty, post-workout British dish featuring jasmine rice, a crispy fry, and a resinous, shaggy texture.",
   "cuisine": "british",
   "diet": [
-    "vegetarian",
-    "plant-based",
-    "gluten-free"
+    "plant-based"
   ],
   "meal": "snack",
   "ingredients": [
@@ -70,11 +68,9 @@
   "difficulty": "medium",
   "tags": [
     "british",
-    "gluten-free",
     "low-carb",
     "post-workout",
-    "scallops",
-    "vegan"
+    "scallops"
   ],
   "nutrition": {
     "calories": 420,
@@ -99,5 +95,11 @@
     "mainIngredient": "jelly",
     "descriptor": "post-workout plump",
     "dishForm": "hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

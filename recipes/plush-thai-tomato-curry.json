@@ -2,9 +2,7 @@
   "title": "Plush Thai Tomato Curry",
   "description": "A malty, juicy Thai tomato curry that emulsifies with mantecare for a silky texture, shojin-friendly and perfect for a comforting dinner.",
   "cuisine": "Thai",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -77,8 +75,7 @@
     "easy-dinner",
     "one-pot",
     "thai-cuisine",
-    "tomato-based",
-    "vegan"
+    "tomato-based"
   ],
   "nutrition": {
     "calories": 300,
@@ -103,5 +100,9 @@
     "mainIngredient": "tomato",
     "descriptor": "Plush",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

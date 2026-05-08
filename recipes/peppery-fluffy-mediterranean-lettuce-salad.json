@@ -119,11 +119,15 @@
     "mood": "solo-dinner",
     "technique": "marinate",
     "primaryIngredient": "lettuce",
-    "diet": "halal",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Mediterranean",
     "mainIngredient": "Lettuce",
     "descriptor": "Peppery Fluffy",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

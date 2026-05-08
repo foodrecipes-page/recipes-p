@@ -55,7 +55,8 @@
     "Pour in the low-sodium soy sauce, water or broth, pepper flakes, and salt. Stir to combine.",
     "Reduce heat to medium and stir in the cornstarch mixture until it thickens and coats all of the onions.",
     "Stir-fry for an additional 2-3 minutes until the sauce is smooth and glossy.",
-    "Serve hot with green onions (if using) on top as a garnish."
+    "Serve hot with green onions (if using) on top as a garnish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -90,5 +91,9 @@
     "mainIngredient": "Onion",
     "descriptor": "Peppery Chewy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -68,7 +68,8 @@
     "In a large baking dish, combine browned ground beef, seared sirloin, sautéed onion and pepper, halved cherry tomatoes, sliced olives, chopped parsley, oregano, salt, and pepper. Toss gently to mix.",
     "Drizzle with olive oil and stir to coat evenly.",
     "Cover the dish with foil and bake in the preheated oven for 35 minutes.",
-    "Remove the foil, bake another 10 minutes to crisp the edges, then let rest 5 minutes before serving."
+    "Remove the foil, bake another 10 minutes to crisp the edges, then let rest 5 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -99,11 +100,16 @@
     "mood": "post-workout",
     "technique": "bake",
     "primaryIngredient": "mixed beef cuts",
-    "diet": "pescatarian",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Mediterranean",
     "mainIngredient": "beef",
     "descriptor": "Protein Packed",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp",
+    "aligned-axes-diet"
+  ]
 }

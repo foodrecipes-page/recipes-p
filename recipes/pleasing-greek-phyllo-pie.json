@@ -2,9 +2,7 @@
   "title": "Pleasing Greek Phyllo Pie",
   "description": "A yeasty, gooey phyllo pie with bright orange zest and a sweet maple deglaze, all without eggs for a comforting dessert.",
   "cuisine": "Greek",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -78,8 +76,7 @@
     "greek",
     "indulgent",
     "orange",
-    "phyllo",
-    "vegan"
+    "phyllo"
   ],
   "nutrition": {
     "calories": 350,
@@ -104,5 +101,9 @@
     "mainIngredient": "phyllo",
     "descriptor": "Pleasing",
     "dishForm": "Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A post-workout Japanese dish featuring roasted chicken, pillowy noodles, and a Mediterranean-friendly lemon glaze, perfect for a hearty dinner.",
   "cuisine": "Japanese",
   "diet": [
-    "gluten-free",
     "mediterranean"
   ],
   "meal": "dinner",
@@ -93,5 +92,9 @@
     "mainIngredient": "chicken",
     "descriptor": "pillowy roasted",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

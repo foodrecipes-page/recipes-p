@@ -43,7 +43,8 @@
     "Stir in red pepper flakes and cumin seeds. Cook for another minute.",
     "Pour in Turkish yogurt or sour cream, reduce to thicken the sauce.",
     "Drizzle with lemon juice and stir gently until combined.",
-    "Serve hot as a side dish or over keto-friendly proteins like chicken breast."
+    "Serve hot as a side dish or over keto-friendly proteins like chicken breast.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -81,5 +82,9 @@
     "mainIngredient": "Onion",
     "descriptor": "Peppery Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

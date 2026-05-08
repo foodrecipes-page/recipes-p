@@ -2,9 +2,7 @@
   "title": "pillowy fatty moroccan mitsuba tagine",
   "description": "traditional moroccan dish featuring mitsuba and served with crispy double-fried chicken. perfect for a family dinner or special occasion.",
   "cuisine": "morrocan",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -65,7 +63,8 @@
     "cover the skillet and cook for 5 minutes, or until the flavors have melded together.",
     "fluff the mitsuba mixture with a fork and serve hot, garnished with fresh herbs, if desired.",
     "serve the crispy double-fried chicken on top of the mitsuba mixture, and enjoy!",
-    "serve with traditional moroccan flatbread or couscous, if desired."
+    "serve with traditional moroccan flatbread or couscous, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -78,8 +77,7 @@
     "kfc-style",
     "moroccan",
     "pillowy",
-    "tagine",
-    "vegetarian"
+    "tagine"
   ],
   "nutrition": {
     "calories": 1200,
@@ -104,5 +102,10 @@
     "mainIngredient": "Mitsuba",
     "descriptor": "pillowy fatty",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

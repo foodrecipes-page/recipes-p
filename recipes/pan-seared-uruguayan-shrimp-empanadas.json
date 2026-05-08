@@ -2,9 +2,7 @@
   "title": "Pan Seared Uruguayan Shrimp Empanadas",
   "description": "A traditional Uruguayan dish featuring shrimp and empanadas, made with a fermented dough and crispy exterior, perfect for a lazy Sunday, and halal friendly. This recipe uses a flambe technique to add a rich flavor to the shrimp.",
   "cuisine": "Uruguayan",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -108,5 +106,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "Pan seared",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

@@ -57,7 +57,8 @@
     "Reduce the heat to low, cover, and simmer for 15-20 minutes, until the rice is cooked and the liquid has been absorbed.",
     "Stir in the grated cheddar cheese and crushed black pepper.",
     "Season with salt to taste.",
-    "Serve hot and enjoy!"
+    "Serve hot and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -94,5 +95,9 @@
     "mainIngredient": "pepper",
     "descriptor": "Peppery",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

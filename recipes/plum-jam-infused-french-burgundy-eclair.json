@@ -2,9 +2,7 @@
   "title": "plum jam infused french burgundy eclair",
   "description": "a pungent and aerated weeknight french dish featuring plum jam in a gluten-free-friendly eclair form served in a cataplana vessel.",
   "cuisine": "french",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -60,7 +58,6 @@
   "tags": [
     "dessert",
     "french",
-    "gluten-free",
     "one-pan",
     "weeknight"
   ],
@@ -87,5 +84,9 @@
     "mainIngredient": "Burgundy",
     "descriptor": "Plum Jam Infused",
     "dishForm": "Eclair"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

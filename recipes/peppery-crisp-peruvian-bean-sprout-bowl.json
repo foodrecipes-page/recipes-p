@@ -95,11 +95,15 @@
     "mood": "hangover-cure",
     "technique": "lamination-puff",
     "primaryIngredient": "bean sprouts",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Peruvian",
     "mainIngredient": "bean sprouts",
     "descriptor": "Peppery Crisp",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

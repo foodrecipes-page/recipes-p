@@ -2,9 +2,7 @@
   "title": "Peppery Silky Portuguese Lamb Shanks Stir-fry",
   "description": "A quick-fix portuguese dish featuring lamb shanks in a peppery and silky sauce, suitable for pescatarian diets.",
   "cuisine": "Portuguese",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -102,5 +100,9 @@
     "mainIngredient": "lamb shanks",
     "descriptor": "Peppery Silky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

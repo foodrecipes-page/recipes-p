@@ -59,7 +59,8 @@
     "Cover the clay pot and transfer it to the preheated oven.",
     "Bake for 45 minutes, or until the casabe is tender and the liquid has been absorbed.",
     "Remove the clay pot from the oven and let it cool for a few minutes.",
-    "Serve the Pure Velvety Spanish Casabe Cocido Madrileno hot, garnished with fresh herbs if desired."
+    "Serve the Pure Velvety Spanish Casabe Cocido Madrileno hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -96,5 +97,9 @@
     "mainIngredient": "casabe",
     "descriptor": "Pure Velvety",
     "dishForm": "Cocido Madrileno"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -31,11 +31,11 @@
     },
     {
       "name": "Cumin",
-      "amount": "\u00bd tsp"
+      "amount": "½ tsp"
     },
     {
       "name": "Smoked paprika",
-      "amount": "\u00bd tsp"
+      "amount": "½ tsp"
     },
     {
       "name": "Lime juice",
@@ -48,7 +48,7 @@
     },
     {
       "name": "Crumbled feta cheese",
-      "amount": "\u00bd cup",
+      "amount": "½ cup",
       "notes": "optional topping"
     },
     {
@@ -58,7 +58,7 @@
   ],
   "instructions": [
     "Heat olive oil in a large pot over medium heat.",
-    "Add sliced cucumber and saut\u00e9 for 3\u20134 minutes until slightly softened.",
+    "Add sliced cucumber and sauté for 3–4 minutes until slightly softened.",
     "Stir in cumin, smoked paprika, and black pepper; cook for 1 minute until fragrant.",
     "Pour in coconut milk and chicken broth; bring to a gentle simmer.",
     "Reduce heat to low, cover, and let soup simmer for 15 minutes to blend flavors.",
@@ -66,7 +66,8 @@
     "Return soup to the pot, add lime juice and season with salt to taste; warm through for 2 minutes.",
     "Ladle soup into bowls, then generously sprinkle crumbled feta cheese over the top.",
     "Garnish each bowl with chopped fresh cilantro.",
-    "Serve immediately with crusty gluten\u2011free bread or as a light lunch."
+    "Serve immediately with crusty gluten‑free bread or as a light lunch.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -77,8 +78,7 @@
     "brazilian",
     "cucumber-soup",
     "gluten-free",
-    "one-pot",
-    "vegetarian"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 240,
@@ -103,5 +103,10 @@
     "mainIngredient": "cucumber",
     "descriptor": "Peppery Crumbly",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

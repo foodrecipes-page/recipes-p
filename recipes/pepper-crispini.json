@@ -3,8 +3,7 @@
   "description": "A nutty, crispy dish featuring pepper and other Mediterranean-friendly ingredients for a solo-dinner meal in the British style.",
   "cuisine": "British",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -80,5 +79,9 @@
     "primaryIngredient": "pepper",
     "diet": "mediterranean",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

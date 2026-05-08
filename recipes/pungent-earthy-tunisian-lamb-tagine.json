@@ -2,9 +2,7 @@
   "title": "Pungent Earthy Tunisian Lamb Tagine",
   "description": "This Tunisian lamb tagine is a flavorful and aromatic stew made with tender lamb, earthy spices, and a burst of fresh lime juice, all wrapped in a traditional lotus leaf wrap.",
   "cuisine": "Tunisian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -107,5 +105,9 @@
     "mainIngredient": "lamb",
     "descriptor": "pungent earthy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

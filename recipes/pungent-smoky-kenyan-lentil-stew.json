@@ -3,8 +3,7 @@
   "description": "A smoky and creamy Kenyan dish featuring kombu, perfect for a monsoon day, this stew is egg-free-friendly and cooked in a traditional molcajete vessel.",
   "cuisine": "Kenyan",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -106,5 +105,9 @@
     "mainIngredient": "lentils",
     "descriptor": "pungent smoky",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

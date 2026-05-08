@@ -3,8 +3,7 @@
   "description": "A festive and flavorful vegan dish featuring crispy Chinese basil, this bake is perfect for any occasion. It combines the peppery taste of basil with crunchy textures and savory spices.",
   "cuisine": "Chinese",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -76,7 +75,6 @@
   "difficulty": "medium",
   "tags": [
     "vegan",
-    "gluten-free",
     "chinese",
     "basil",
     "bake",
@@ -106,5 +104,9 @@
     "mainIngredient": "basil",
     "descriptor": "peppery crispy",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

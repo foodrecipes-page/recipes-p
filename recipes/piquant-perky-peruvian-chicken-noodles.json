@@ -3,9 +3,7 @@
   "description": "energizing peruvian dish with peppery, silky flavors and a sweet praline-french finish. fodmap-friendly.",
   "cuisine": "peruvian",
   "diet": [
-    "fodmap-friendly",
-    "gluten-free",
-    "pescatarian"
+    "fodmap-friendly"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -71,7 +69,8 @@
     "add the honey and stir to combine.",
     "add the crushed pecans and stir to combine.",
     "pour the chocolate sauce over the noodle mixture and toss to combine.",
-    "top with chopped cilantro, if desired."
+    "top with chopped cilantro, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 12,
@@ -108,5 +107,11 @@
     "mainIngredient": "Chicken",
     "descriptor": "Piquant Perky",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

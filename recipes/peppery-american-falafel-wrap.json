@@ -3,8 +3,7 @@
   "description": "Dense and flavorful falafel wrapped in a crispy flour tortilla with peppery greens and rich hummus.",
   "cuisine": "American",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -115,5 +114,9 @@
     "mainIngredient": "falafel",
     "descriptor": "peppery",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

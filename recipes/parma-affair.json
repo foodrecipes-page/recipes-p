@@ -45,7 +45,8 @@
     "Preheat your oven to 375°F (190°C). Season the grilled chicken breasts with salt and pepper.",
     "In a small bowl, mix melted butter, minced garlic, red wine vinegar, grated Parmesan cheese, chopped fresh parsley, and salt and pepper to taste. Mix well.",
     "Spread the sauce over each piece of chicken evenly.",
-    "Place the chicken in a baking dish and bake for 15 minutes until heated through and golden brown on top."
+    "Place the chicken in a baking dish and bake for 15 minutes until heated through and golden brown on top.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -75,5 +76,9 @@
     "primaryIngredient": "parmesan cheese",
     "diet": "fodmap",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

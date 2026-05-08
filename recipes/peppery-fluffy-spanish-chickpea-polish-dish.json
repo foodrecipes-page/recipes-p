@@ -43,11 +43,12 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 375\u00b0F (190\u00b0C).",
+    "Preheat your oven to 375°F (190°C).",
     "In a large mixing bowl, combine chicken stock and chickpeas.",
     "Add sweet smoked paprika, minced garlic, salt, black pepper, olive oil, sour cream, and fresh parsley. Mix well until all ingredients are evenly distributed.",
     "Transfer the mixture into an oven-safe baking dish. Bake for 30 minutes or until golden brown on top and heated through. Stir occasionally to ensure even cooking.",
-    "Remove from heat once done. Serve hot as a side dish or main course with crusty bread."
+    "Remove from heat once done. Serve hot as a side dish or main course with crusty bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -60,8 +61,7 @@
     "spanish",
     "date-night",
     "paprika",
-    "smoked",
-    "kosher"
+    "smoked"
   ],
   "nutrition": {
     "calories": 587,
@@ -86,5 +86,10 @@
     "mainIngredient": "Chickpea",
     "descriptor": "Peppery Fluffy",
     "dishForm": "Polish Dish"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "added-safety-poultry_no_temp"
+  ]
 }

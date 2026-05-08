@@ -3,7 +3,6 @@
   "description": "A malty and gooey solo dinner Vietnamese dish featuring anko red bean paste, this recipe is a FODMAP friendly version of the classic Bun Bo Hue, adapted to be safe for sensitive stomachs.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "low-fodmap"
   ],
   "meal": "dinner",
@@ -105,5 +104,9 @@
     "mainIngredient": "red bean paste",
     "descriptor": "Pleasantly gooey",
     "dishForm": "Bun Bo Hue"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

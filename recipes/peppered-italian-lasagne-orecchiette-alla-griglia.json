@@ -3,7 +3,6 @@
   "description": "A nutty, crisp, and energizing Italian dish featuring lasagna sheets, grilled to perfection and served with a vibrant mix of vegetables.",
   "cuisine": "Italian",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "lunch",
@@ -107,5 +106,9 @@
     "mainIngredient": "lasagne",
     "descriptor": "peppered",
     "dishForm": "Orecchiette alla Griglia"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

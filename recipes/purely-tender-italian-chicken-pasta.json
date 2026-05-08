@@ -2,10 +2,7 @@
   "title": "Purely Tender Italian Chicken Pasta",
   "description": "A cultured and tender Italian dish featuring sesame butter and coconut cream, with an ayurvedic tamasic friendly twist",
   "cuisine": "Italian",
-  "diet": [
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -66,8 +63,6 @@
   "tags": [
     "ayurvedic-friendly",
     "chicken-recipes",
-    "dairy-free",
-    "gluten-free",
     "italian-food",
     "pasta-dishes"
   ],
@@ -94,5 +89,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Purely Tender",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

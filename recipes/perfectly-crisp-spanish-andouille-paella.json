@@ -56,7 +56,8 @@
     "Cover the skillet with foil and bake for 25 minutes.",
     "Remove the foil and continue baking for an additional 10-15 minutes, or until the rice is crispy and golden brown.",
     "Remove from the oven and sprinkle with chopped parsley.",
-    "Let it rest for 5 minutes before serving."
+    "Let it rest for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -93,5 +94,9 @@
     "mainIngredient": "andouille",
     "descriptor": "Perfectly Crisp",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

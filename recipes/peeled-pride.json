@@ -2,9 +2,7 @@
   "title": "Peeled Pride",
   "description": "A unique peppery and fluffy dish featuring mixed peel, perfect for a show-off British breakfast.",
   "cuisine": "British",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -48,8 +46,7 @@
     "peeled-pride",
     "british-dish",
     "fluffy",
-    "show-off",
-    "gluten-free"
+    "show-off"
   ],
   "nutrition": {
     "calories": 180,
@@ -70,5 +67,9 @@
     "primaryIngredient": "mixed peel",
     "diet": "gluten-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

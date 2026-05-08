@@ -3,8 +3,7 @@
   "description": "A comforting Kenyan dish featuring kinako and smoked sweet potatoes, perfect for a flexitarian dinner option. This recipe combines the natural sweetness of sweet potatoes with the nutty flavor of kinako and a hint of smokiness.",
   "cuisine": "Kenyan",
   "diet": [
-    "flexitarian",
-    "vegetarian"
+    "flexitarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -50,7 +49,8 @@
     "After 30 minutes, remove the sweet potatoes from the oven and brush them with the kinako paste.",
     "Return the sweet potatoes to the oven and continue roasting for an additional 20 minutes, or until they are tender and caramelized.",
     "Remove the sweet potatoes from the oven and let them cool for a few minutes before serving.",
-    "Serve the smoked sweet potatoes hot, garnished with chopped fresh herbs if desired."
+    "Serve the smoked sweet potatoes hot, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 50,
@@ -88,5 +88,10 @@
     "mainIngredient": "sweet potatoes",
     "descriptor": "perfectly smoked",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

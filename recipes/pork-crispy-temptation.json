@@ -2,9 +2,7 @@
   "title": "Pork Crispy Temptation",
   "description": "A tangy and crispy gluten-free Ukrainian pork dish perfect for a solo dinner.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -54,7 +52,8 @@
     "Fry the coated pork slices until golden brown, about 3 minutes per side on medium-high heat.",
     "In a small saucepan, combine soy sauce, apple cider vinegar, sugar, minced garlic, and dill sprigs with slurry; bring to boil and reduce by half for the glaze.",
     "Brush the glazed mixture over the fried pork slices and return to oven until heated through and juices run clear, about 5 minutes more.",
-    "Serve hot as a gluten-free solo dinner dish."
+    "Serve hot as a gluten-free solo dinner dish.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -65,8 +64,7 @@
     "pork",
     "crispy",
     "tangy",
-    "ukrainian",
-    "gluten-free"
+    "ukrainian"
   ],
   "nutrition": {
     "calories": 430,
@@ -87,5 +85,10 @@
     "primaryIngredient": "pork",
     "diet": "gluten-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp"
+  ]
 }

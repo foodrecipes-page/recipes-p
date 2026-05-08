@@ -3,8 +3,7 @@
   "description": "A one-pot Spanish dish featuring whole wheat, ferment, and a blend of cheeses, perfect for a diabetic-friendly meal option.",
   "cuisine": "Spanish",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -59,7 +58,8 @@
     "Reduce the heat to low, cover, and simmer for 20 minutes, or until the liquid is absorbed and the rice is tender.",
     "Stir in the manchego and parmesan cheese until melted and well combined.",
     "Transfer the paella pan to the preheated oven and bake for 10 minutes, or until the top is lightly browned and the cheese is melted and bubbly.",
-    "Remove from the oven and let cool for 5 minutes before serving."
+    "Remove from the oven and let cool for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -96,5 +96,10 @@
     "mainIngredient": "cheese",
     "descriptor": "pungent pull apart",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

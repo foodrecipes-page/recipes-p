@@ -3,8 +3,7 @@
   "description": "A salty, crispy, and comforting Thai dish featuring smoky flavors and Mediterranean-friendly ingredients, served with kanom jeen noodles.",
   "cuisine": "Thai",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -66,7 +65,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "noodle-dish",
     "smoky",
     "spicy",
@@ -96,5 +94,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Piquant Smoky",
     "dishForm": "Kanom Jeen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

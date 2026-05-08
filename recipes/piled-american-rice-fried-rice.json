@@ -2,9 +2,7 @@
   "title": "Piled American Rice Fried-Rice",
   "description": "Dense, comforting vegan fried rice with creamy mayo, stacked in a tandoor clay pot for a smoky finish.",
   "cuisine": "American",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -80,8 +78,7 @@
     "fried-rice",
     "one-pot",
     "smoky",
-    "tandoor",
-    "vegan"
+    "tandoor"
   ],
   "nutrition": {
     "calories": 380,
@@ -106,5 +103,9 @@
     "mainIngredient": "rice",
     "descriptor": "Piled",
     "dishForm": "Fried-Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

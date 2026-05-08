@@ -60,7 +60,8 @@
     "Add the chopped fresh mint and cook until wilted, about 1 minute.",
     "Add the uncooked Arborio rice and cook for 1-2 minutes, until the rice is coated in the oil and spices.",
     "Add the chicken broth to the paella pan and bring to a boil.",
-    "Reduce the heat to low, cover the paella pan, and simmer for 20-25 minutes, until the rice is cooked and the liquid is absorbed."
+    "Reduce the heat to low, cover the paella pan, and simmer for 20-25 minutes, until the rice is cooked and the liquid is absorbed.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -98,5 +99,9 @@
     "mainIngredient": "lamb",
     "descriptor": "peaceful herbed",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

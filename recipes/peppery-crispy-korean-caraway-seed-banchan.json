@@ -92,7 +92,6 @@
   "difficulty": "medium",
   "tags": [
     "caraway-seed",
-    "gluten-free",
     "high-protein",
     "korean-side-dish",
     "one-pan",
@@ -122,5 +121,9 @@
     "mainIngredient": "caraway seed",
     "descriptor": "peppery crispy",
     "dishForm": "Banchan"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -70,11 +70,12 @@
     "Punch down risen dough, divide into 4 equal portions, and roll each into a 25 cm diameter circle.",
     "Spread tomato sauce over each flatbread, then top with cooked rest-meat, sliced sausages, and sprinkle chopped parsley.",
     "Bake flatbreads for 12 minutes until edges are golden and cheese (if using) is melted.",
-    "Remove from oven, let cool 2 minutes, then slice and serve warm."
+    "Remove from oven, let cool 2 minutes, then slice and serve warm.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
-  "totalTimeMin": 95,
+  "totalTimeMin": 35,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -108,5 +109,10 @@
     "mainIngredient": "Sausage",
     "descriptor": "Plump",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp",
+    "recomputed-totalTime"
+  ]
 }

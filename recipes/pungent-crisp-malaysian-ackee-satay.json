@@ -2,9 +2,7 @@
   "title": "Pungent Crisp Malaysian Ackee Satay",
   "description": "A rich and savory Malaysian-inspired dish featuring ackee, perfect for a date night dinner.",
   "cuisine": "Malaysian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -109,5 +107,9 @@
     "mainIngredient": "Ackee",
     "descriptor": "Pungent Crisp",
     "dishForm": "Satay"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

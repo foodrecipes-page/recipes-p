@@ -3,8 +3,7 @@
   "description": "A floral and aerated post-workout Japanese dish featuring roasted peanut and mirepoix-base, served in a copper pot. This macrobiotic-friendly ozoni is perfect for a healthy lunch.",
   "cuisine": "Japanese",
   "diet": [
-    "macrobiotic",
-    "vegetarian"
+    "macrobiotic"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -94,5 +93,9 @@
     "mainIngredient": "peanuts",
     "descriptor": "Purely Roasted",
     "dishForm": "Ozoni"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

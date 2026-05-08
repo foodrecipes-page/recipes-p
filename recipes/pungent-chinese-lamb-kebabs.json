@@ -3,7 +3,6 @@
   "description": "A bitter and gooey post-workout Chinese dish from Xinjiang, featuring ghee and robata-grill, friendly to ayurvedic tamasic diets. This dish combines lamb with strong flavors and textures.",
   "cuisine": "Chinese",
   "diet": [
-    "gluten-free",
     "ayurvedic"
   ],
   "meal": "dinner",
@@ -71,7 +70,6 @@
   "tags": [
     "ayurvedic",
     "chinese-food",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "post-workout"
@@ -99,5 +97,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Pungent",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

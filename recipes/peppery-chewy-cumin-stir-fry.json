@@ -2,9 +2,7 @@
   "title": "Peppery Chewy Cumin Stir-fry",
   "description": "A midnight-craving Polish dish featuring a peppery and chewy texture made with gluten-free friendly cumin spices in a quick stir-fry.",
   "cuisine": "Polish",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -81,5 +79,9 @@
     "mainIngredient": "cumin",
     "descriptor": "peppery chewy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

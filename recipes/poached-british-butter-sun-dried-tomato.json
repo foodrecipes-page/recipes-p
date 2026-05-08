@@ -3,7 +3,6 @@
   "description": "This buttery and creamy dish features poached sun-dried tomatoes that are perfect for a cozy, raw-friendly meal.",
   "cuisine": "British",
   "diet": [
-    "vegan",
     "raw"
   ],
   "meal": "snack",
@@ -75,5 +74,9 @@
     "mainIngredient": "Butter",
     "descriptor": "Poached",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

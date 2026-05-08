@@ -61,7 +61,8 @@
     "In another pan, melt butter with flour for about 30 seconds, stirring continuously. Slowly pour in the poaching mixture while whisking vigorously to emulsify.",
     "Return sauce to low heat and simmer until thickened slightly (approx. 2-3 more minutes).",
     "Strain through a fine mesh sieve into serving dishes or bowls. Garnish with fresh parsley before serving.",
-    "Serve hot as a side dish or main course, optionally with crusty bread for dipping."
+    "Serve hot as a side dish or main course, optionally with crusty bread for dipping.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -92,11 +93,16 @@
     "mood": "indulgent",
     "technique": "poach",
     "primaryIngredient": "tabasco sauce",
-    "diet": "low-sodium",
+    "diet": "low-sodium-friendly",
     "region": null,
     "cuisineAdjective": "Brazilian",
     "mainIngredient": "Butter",
     "descriptor": "Poached",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "aligned-axes-diet"
+  ]
 }

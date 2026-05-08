@@ -3,8 +3,7 @@
   "description": "A flower-scented, hangover-fighting gratin that pairs unexpectedly well with crispy fried eggs or creamy tzatziki. Rich, pillowy Greek flour puffed to perfection within ttukbaegi's earthenware heart.",
   "cuisine": "Greek",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -79,7 +78,6 @@
   "difficulty": "medium",
   "tags": [
     "breakfast",
-    "gluten-free",
     "greek",
     "one-pan",
     "pillowy",
@@ -108,5 +106,9 @@
     "mainIngredient": "flour",
     "descriptor": "pillowy",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

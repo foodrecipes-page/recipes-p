@@ -2,10 +2,7 @@
   "title": "Piquant Pungent Thai Brown Lentils Green Curry",
   "description": "Buttery, bouncy-qq, adventurous Thai dish featuring brown lentils, lacquer-glaze, and a gluten-free-friendly green curry.",
   "cuisine": "Thai",
-  "diet": [
-    "gluten-free",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -93,8 +90,7 @@
     "glutenfree",
     "lentils",
     "onepan",
-    "thaifood",
-    "vegetarian"
+    "thaifood"
   ],
   "nutrition": {
     "calories": 420,
@@ -119,5 +115,10 @@
     "mainIngredient": "brown lentils",
     "descriptor": "Piquant Pungent",
     "dishForm": "Green Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A rich and chewy Maharashtrian dish featuring samphire, perfect for a filling lunch or dinner, this naan is ayurvedic tamasic friendly and made with fry grind rice khao khuah.",
   "cuisine": "Indian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -61,7 +60,6 @@
   "difficulty": "medium",
   "tags": [
     "dinner-ideas",
-    "gluten-free",
     "homemade-naan",
     "indian-cuisine",
     "lunch-ideas",
@@ -90,5 +88,9 @@
     "mainIngredient": "samphire",
     "descriptor": "Rich Plump",
     "dishForm": "Naan"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

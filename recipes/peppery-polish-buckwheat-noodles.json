@@ -3,18 +3,17 @@
   "description": "A light, peppery noodle dish with toasted buckwheat noodles, melted butter, fresh herbs, and a hint of chili, perfect for a festive, glutenfree celebration.",
   "cuisine": "Polish",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
     {
-      "name": "Buckwheat noodle sheets (gluten\u2011free)",
-      "amount": "100\u202fg"
+      "name": "Buckwheat noodle sheets (gluten‑free)",
+      "amount": "100 g"
     },
     {
       "name": "Unsalted butter",
-      "amount": "30\u202fg",
+      "amount": "30 g",
       "notes": "melted and lightly browned to add depth"
     },
     {
@@ -24,42 +23,42 @@
     },
     {
       "name": "Red chili flakes",
-      "amount": "1/2\u202ftsp"
+      "amount": "1/2 tsp"
     },
     {
       "name": "Fresh black pepper",
-      "amount": "1\u202ftsp",
+      "amount": "1 tsp",
       "notes": "freshly ground"
     },
     {
       "name": "Fresh parsley",
-      "amount": "2\u202ftbsp",
+      "amount": "2 tbsp",
       "notes": "chopped"
     },
     {
       "name": "Lemon zest",
-      "amount": "1\u202ftsp",
+      "amount": "1 tsp",
       "notes": "adds brightness"
     },
     {
       "name": "Water",
-      "amount": "2\u202fcups",
+      "amount": "2 cups",
       "notes": "for boiling noodles"
     },
     {
       "name": "Salt",
-      "amount": "1/2\u202ftsp"
+      "amount": "1/2 tsp"
     }
   ],
   "instructions": [
-    "1. Bring 2\u202fcups of water to a rolling boil in a medium pot. Add a pinch of salt and 1/2\u202ftsp of fresh black pepper.",
-    "2. Add the buckwheat noodle sheets and cook for 4\u20135\u202fminutes, or until al dente, stirring gently to prevent sticking.",
-    "3. Drain the noodles and reserve 1/4\u202fcup of the cooking water.",
-    "4. In a small saucepan, melt 30\u202fg of unsalted butter over medium heat until it turns a light golden brown and emits a nutty aroma.",
-    "5. Add the minced garlic, red chili flakes, and remaining black pepper to the butter; saut\u00e9 for 30\u202fseconds until fragrant.",
+    "1. Bring 2 cups of water to a rolling boil in a medium pot. Add a pinch of salt and 1/2 tsp of fresh black pepper.",
+    "2. Add the buckwheat noodle sheets and cook for 4–5 minutes, or until al dente, stirring gently to prevent sticking.",
+    "3. Drain the noodles and reserve 1/4 cup of the cooking water.",
+    "4. In a small saucepan, melt 30 g of unsalted butter over medium heat until it turns a light golden brown and emits a nutty aroma.",
+    "5. Add the minced garlic, red chili flakes, and remaining black pepper to the butter; sauté for 30 seconds until fragrant.",
     "6. Return the drained noodles to the pot and pour the butter mixture over them, tossing quickly to coat evenly.",
     "7. If the noodles appear dry, add a splash of the reserved cooking water to create a silky sauce.",
-    "8. Stir in the chopped parsley and lemon zest, cooking for an additional 30\u202fseconds.",
+    "8. Stir in the chopped parsley and lemon zest, cooking for an additional 30 seconds.",
     "9. Taste and adjust seasoning with salt if needed.",
     "10. Serve immediately, garnished with a drizzle of extra melted butter and a sprinkle of fresh pepper if desired."
   ],
@@ -69,7 +68,6 @@
   "servings": 2,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "vegetarian",
     "quick",
     "peppery",
@@ -99,5 +97,9 @@
     "mainIngredient": "buckwheat",
     "descriptor": "Peppery",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

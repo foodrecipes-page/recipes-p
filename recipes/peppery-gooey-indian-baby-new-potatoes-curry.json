@@ -4,7 +4,6 @@
   "cuisine": "Indian",
   "diet": [
     "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -17,7 +16,7 @@
     {
       "name": "ghee or vegan butter",
       "amount": "20g",
-      "notes": "use for saut\u00e9ing"
+      "notes": "use for sautéing"
     },
     {
       "name": "onion, diced",
@@ -122,5 +121,9 @@
     "mainIngredient": "baby new potatoes",
     "descriptor": "peppery, gooey",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

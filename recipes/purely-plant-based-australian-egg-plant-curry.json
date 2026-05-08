@@ -4,7 +4,6 @@
   "cuisine": "Australian",
   "diet": [
     "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -75,7 +74,6 @@
     "curry",
     "gluten-free",
     "one-pan",
-    "vegan",
     "vegetarian",
     "weeknight"
   ],
@@ -102,5 +100,9 @@
     "mainIngredient": "egg plants",
     "descriptor": "purely plant based",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

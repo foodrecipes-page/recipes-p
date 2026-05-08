@@ -72,7 +72,8 @@
     "Refrigerate the jar for at least 30 minutes to allow flavors to meld and the sauce to thicken.",
     "Before serving, stir the pasta well; if too thick, add a tablespoon of pasta water to loosen.",
     "Garnish with a sprinkle of toasted sesame seeds and extra black pepper.",
-    "Serve chilled or at room temperature for a satisfying low-calorie meal."
+    "Serve chilled or at room temperature for a satisfying low-calorie meal.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 10,
@@ -110,5 +111,9 @@
     "mainIngredient": "Spaghetti",
     "descriptor": "Piquant",
     "dishForm": "Cacio E Pepe"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

@@ -71,7 +71,8 @@
     "Add the canned tomatoes and low-sodium chicken broth. Bring to a gentle simmer, then reduce heat to low and cover. Cook for 1 hour, stirring occasionally.",
     "After the hour, stir in the Greek yogurt, lemon zest, and lemon juice. Simmer uncovered for an additional 15 minutes so the flavors meld.",
     "Season with black pepper, adjust seasoning if needed, and serve hot over a bed of steamed rice or crusty bread.",
-    "Remove the pot from heat and let the stew rest for 5 minutes before ladling into bowls. Enjoy the tender lamb and peppery warmth of this traditional Greek favorite!"
+    "Remove the pot from heat and let the stew rest for 5 minutes before ladling into bowls. Enjoy the tender lamb and peppery warmth of this traditional Greek favorite!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 90,
@@ -111,5 +112,9 @@
     "mainIngredient": "Lamb",
     "descriptor": "Peppery Tender",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

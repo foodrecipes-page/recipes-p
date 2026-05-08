@@ -3,8 +3,7 @@
   "description": "A smoky and savory Thai-inspired noodle dish featuring cornmeal, perfect for a late night craving. This low-calorie friendly recipe combines the flavors of Bangkok street food with a spicy kick.",
   "cuisine": "Thai",
   "diet": [
-    "low-calorie",
-    "vegetarian"
+    "low-calorie"
   ],
   "meal": "snack",
   "ingredients": [
@@ -78,8 +77,7 @@
     "smoky",
     "spicy",
     "street-food",
-    "thai-inspired",
-    "vegetarian"
+    "thai-inspired"
   ],
   "nutrition": {
     "calories": 320,
@@ -104,5 +102,9 @@
     "mainIngredient": "corn",
     "descriptor": "pungent smoke hot",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

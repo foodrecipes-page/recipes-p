@@ -2,9 +2,7 @@
   "title": "Moroccan Lamb Tagine",
   "description": "A traditional Moroccan dish featuring tender lamb in a rich and flavorful sauce, made with chilled butter and cooked in a papillote, perfect for a crowd and suitable for a Buddhist temple gathering",
   "cuisine": "Moroccan",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -100,5 +98,9 @@
     "mainIngredient": "lamb",
     "descriptor": "perfectly tender",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

@@ -62,7 +62,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 300\u00b0F (150\u00b0C).",
+    "Preheat oven to 300°F (150°C).",
     "Rinse the duck legs and pat them dry with paper towels.",
     "In a small bowl, mix together coriander seeds, cumin seeds, black peppercorns, and salt.",
     "Rub the spice mixture all over the duck legs, making sure to coat them evenly.",
@@ -74,7 +74,8 @@
     "Return the duck legs to the pot and make sure they're mostly covered with the yogurt sauce.",
     "Cover the pot with a lid and transfer it to the preheated oven.",
     "Bake for 2-3 hours, or until the meat is tender and falls off the bone.",
-    "Garnish with chopped parsley and serve warm."
+    "Garnish with chopped parsley and serve warm.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 180,
@@ -112,5 +113,9 @@
     "mainIngredient": "duck legs",
     "descriptor": "peppery creamy",
     "dishForm": "Confit"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

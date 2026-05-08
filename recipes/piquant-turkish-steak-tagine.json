@@ -62,7 +62,8 @@
     "Reduce the heat to low and simmer, covered, for 1.5 hours, or until the steak is tender.",
     "Serve the steak and sauce hot, garnished with fresh parsley or cilantro.",
     "Let the dish rest for 10 minutes before serving.",
-    "Serve with a side of roasted vegetables or a salad."
+    "Serve with a side of roasted vegetables or a salad.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 90,
@@ -100,5 +101,9 @@
     "mainIngredient": "steak",
     "descriptor": "Piquant Grassy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

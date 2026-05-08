@@ -67,7 +67,6 @@
   "difficulty": "medium",
   "tags": [
     "cold",
-    "gluten-free",
     "korean",
     "lacto-vegetarian",
     "naengmyeon",
@@ -97,5 +96,9 @@
     "mainIngredient": "vegetable",
     "descriptor": "Piquant",
     "dishForm": "Cold-Chewy Naengmyeon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

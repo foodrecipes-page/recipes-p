@@ -3,8 +3,6 @@
   "description": "A yeasty, crisp Greek dish featuring gelatine leaves, roast, perfect for a weeknight dinner. This recipe is anti-inflammatory-friendly and served in a beautiful lacquerware bowl.",
   "cuisine": "Greek",
   "diet": [
-    "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -131,5 +129,10 @@
     "mainIngredient": "beef",
     "descriptor": "Pan-seared Roast",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

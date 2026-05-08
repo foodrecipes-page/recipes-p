@@ -3,7 +3,6 @@
   "description": "A flavorful and nutritious Indian dish made with kale, perfect as a solo dinner.",
   "cuisine": "indian",
   "diet": [
-    "halal",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -89,5 +88,9 @@
     "mainIngredient": "kale",
     "descriptor": "pungent",
     "dishForm": "Hyderabadi Pakora"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

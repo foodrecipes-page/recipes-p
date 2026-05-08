@@ -2,9 +2,7 @@
   "title": "Post Workout Filipino Egg Lumpia",
   "description": "A garlicky and flaky Filipino dish featuring egg, perfect for post-workout meals, this vegan-friendly lumpia is a great way to refuel and satisfy your hunger.",
   "cuisine": "Filipino",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -93,5 +91,9 @@
     "mainIngredient": "egg",
     "descriptor": "Post Workout",
     "dishForm": "Lumpia"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

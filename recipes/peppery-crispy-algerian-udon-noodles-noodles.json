@@ -76,7 +76,8 @@
     "cook the noodles until they are al dente, about 2-3 minutes more.",
     "remove the skillet from the heat and stir in the chopped parsley and bhuna spice blend.",
     "season with salt to taste.",
-    "serve the peppery crispy algerian udon noodles hot, garnished with additional parsley if desired."
+    "serve the peppery crispy algerian udon noodles hot, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -114,5 +115,9 @@
     "mainIngredient": "Udon noodles",
     "descriptor": "Peppery crispy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

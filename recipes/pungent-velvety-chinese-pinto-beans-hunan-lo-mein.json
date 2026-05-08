@@ -3,7 +3,6 @@
   "description": "A savory, velvety Hunan-inspired lo mein dish featuring pinto beans, chicken, and a blend of spices, all stir-fried to perfection with a wok hei flavor.",
   "cuisine": "Chinese",
   "diet": [
-    "vegetarian",
     "high-protein"
   ],
   "meal": "dinner",
@@ -116,5 +115,9 @@
     "mainIngredient": "Pinto Beans",
     "descriptor": "Pungent, Velvety",
     "dishForm": "Hunan Lo Mein"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

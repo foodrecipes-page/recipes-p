@@ -102,11 +102,15 @@
     "mood": "solo-dinner",
     "technique": "kombu-cold-extract",
     "primaryIngredient": "vegetable stock",
-    "diet": "kosher",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Croatian",
     "mainIngredient": "Vegetable",
     "descriptor": "Pleasantly Poached",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

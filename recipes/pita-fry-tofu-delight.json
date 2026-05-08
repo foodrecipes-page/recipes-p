@@ -2,10 +2,7 @@
   "title": "Pita Fry Tofu Delight",
   "description": "A sweet and fluffy Vietnamese dish featuring pita bread fried with high-protein tofu, perfect for meal prepping.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -82,5 +79,10 @@
     "primaryIngredient": "pita bread",
     "diet": "high-protein",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

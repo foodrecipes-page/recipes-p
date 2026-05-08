@@ -3,8 +3,7 @@
   "description": "A velvety, lowfat Mediterranean tomato soup with a bold pepper kick, finished with delicate gelatin leafs for silky texture.",
   "cuisine": "Mediterranean",
   "diet": [
-    "low-fat",
-    "vegan"
+    "low-fat"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -16,11 +15,11 @@
     "{\"name\":\"red bell pepper\",\"amount\":\"1 medium\",\"notes\":\"seeded and diced\"}",
     "{\"name\":\"yellow onion\",\"amount\":\"1 medium\",\"notes\":\"finely chopped\"}",
     "{\"name\":\"garlic cloves\",\"amount\":\"2\",\"notes\":\"minced\"}",
-    "{\"name\":\"olive oil\",\"amount\":\"1 tsp\",\"notes\":\"optional, for saut\u00e9ing\"}",
-    "{\"name\":\"low\u2011fat vegetable broth\",\"amount\":\"4 cups (960 ml)\"}",
+    "{\"name\":\"olive oil\",\"amount\":\"1 tsp\",\"notes\":\"optional, for sautéing\"}",
+    "{\"name\":\"low‑fat vegetable broth\",\"amount\":\"4 cups (960 ml)\"}",
     "{\"name\":\"fresh basil leaves\",\"amount\":\"1 cup (100 g)\"}",
     "{\"name\":\"salt\",\"amount\":\"1 tsp\"}",
-    "{\"name\":\"black pepper\",\"amount\":\"\u00bd tsp\"}",
+    "{\"name\":\"black pepper\",\"amount\":\"½ tsp\"}",
     "{\"name\":\"lemon juice\",\"amount\":\"1 tbsp\"}",
     "{\"name\":\"gelatine leafs\",\"amount\":\"10 leaves\"}",
     "{\"name\":\"water\",\"amount\":\"1 cup (240 ml) for dissolving gelatin\"}"
@@ -28,9 +27,9 @@
   "instructions": [
     "Wash the tomatoes, peel them by blanching in boiling water for 30 seconds, then plunge into ice water and dice.",
     "Dice the red bell pepper, onion, and mince the garlic.",
-    "Heat a non\u2011stick pot over medium heat and add the olive oil (if using). Saut\u00e9 the onion and garlic until translucent, about 4 minutes.",
+    "Heat a non‑stick pot over medium heat and add the olive oil (if using). Sauté the onion and garlic until translucent, about 4 minutes.",
     "Add the diced pepper and tomatoes, cooking for another 5 minutes until the tomatoes soften.",
-    "Pour in the low\u2011fat vegetable broth, bring to a gentle boil, then reduce heat and simmer for 15 minutes to meld flavors.",
+    "Pour in the low‑fat vegetable broth, bring to a gentle boil, then reduce heat and simmer for 15 minutes to meld flavors.",
     "While the soup simmers, soak gelatin leafs in 1 cup of cold water for 5 minutes, then gently melt in a small saucepan over low heat.",
     "After the soup has simmered, use an immersion blender to puree until smooth; alternatively, transfer in batches to a blender.",
     "Stir the melted gelatin into the hot soup until fully incorporated, ensuring the soup thickens slightly and gains a velvety mouthfeel.",
@@ -47,7 +46,6 @@
     "mediterranean",
     "low-fat",
     "soup",
-    "vegan",
     "gelatin"
   ],
   "nutrition": {
@@ -73,5 +71,9 @@
     "mainIngredient": "Tomato",
     "descriptor": "Peppery",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -2,10 +2,7 @@
   "title": "Peppery Kenyani Beef Stir-fry",
   "description": "A savory one-pot vegetarian-friendly dish featuring peppery flavors and beef stock concentrate for a hearty meal.",
   "cuisine": "Kenyani",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -86,5 +83,10 @@
     "mainIngredient": "beef",
     "descriptor": "Peppery",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

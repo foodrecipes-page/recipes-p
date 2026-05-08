@@ -75,7 +75,8 @@
     "Pour the beef mixture over the top of the filo pastry, spreading it evenly.",
     "Cut pita bread into quarters and pile on top of the beef mixture, creating a stack.",
     "Bake in preheated oven for 25-30 minutes, or until filo pastry is golden brown and pita bread is crispy.",
-    "Remove from oven and garnish with chopped parsley. Serve hot, with lemon wedges on the side."
+    "Remove from oven and garnish with chopped parsley. Serve hot, with lemon wedges on the side.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -112,5 +113,9 @@
     "mainIngredient": "beef",
     "descriptor": "pungent",
     "dishForm": "Pita-Based Dishes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A citrusy solo-dinner dish featuring plum jam, greek yogurt, and a crispy crust, perfect for low-sodium meals.",
   "cuisine": "Greek",
   "diet": [
-    "low-sodium",
-    "vegan"
+    "low-sodium"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -84,5 +83,9 @@
     "mainIngredient": "Citrus",
     "descriptor": "Plum Jammed",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

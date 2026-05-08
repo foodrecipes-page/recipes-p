@@ -3,8 +3,7 @@
   "description": "A solo dinner dish featuring tender clams, a hint of peppery heat, and silky texture for a FODMAP-friendly Japanese-inspired meal.",
   "cuisine": "japanese",
   "diet": [
-    "fodmap-friendly",
-    "vegetarian"
+    "fodmap-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -77,5 +76,9 @@
     "mainIngredient": "clams",
     "descriptor": "Peppery",
     "dishForm": "Sushi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

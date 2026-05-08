@@ -48,7 +48,8 @@
     "Heat oil in a wok or large skillet over medium-high heat. Add chicken strips and cook until golden brown on all sides.",
     "Add green onion pieces and garlic; stir-fry for 2 minutes.",
     "Pour the sauce into the skillet, stirring well until thickened, about 1 minute.",
-    "If using, add tropical fruit salsa to the dish during the last minute of cooking."
+    "If using, add tropical fruit salsa to the dish during the last minute of cooking.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -84,5 +85,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Peppery",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -4,8 +4,7 @@
   "cuisine": "Turkish",
   "diet": [
     "Whole30",
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -93,5 +92,9 @@
     "mainIngredient": "pak choi",
     "descriptor": "pan seared",
     "dishForm": "Imam Bayildi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

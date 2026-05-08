@@ -4,8 +4,7 @@
   "cuisine": "Algerian",
   "diet": [
     "vegetarian",
-    "jain-friendly",
-    "gluten-free"
+    "jain-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -69,7 +68,6 @@
   "tags": [
     "cedar-plank",
     "flambe",
-    "gluten-free",
     "jain-friendly",
     "one-pan",
     "vegetarian"
@@ -97,5 +95,9 @@
     "mainIngredient": "barley",
     "descriptor": "Piquant",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

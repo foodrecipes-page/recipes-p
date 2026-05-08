@@ -2,10 +2,7 @@
   "title": "Piquant Peruvian Peruvian Lamb Seco de Cordero",
   "description": "A quick-fix, savory dish from Peru featuring tender lamb and a rich marzipan broth. This vegan-friendly twist on the classic Seco de Cordero is a must-try for adventurous foodies.",
   "cuisine": "peruvian",
-  "diet": [
-    "vegan",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -74,8 +71,7 @@
     "lamb",
     "one-pan",
     "peruvian",
-    "quick-fix",
-    "vegan"
+    "quick-fix"
   ],
   "nutrition": {
     "calories": 550,
@@ -100,5 +96,10 @@
     "mainIngredient": "lamb",
     "descriptor": "Piquant Peruvian",
     "dishForm": "Seco de Cordero"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A traditional Slovakian dish featuring dark brown soft sugar and buckwheat, these pancakes are bitter, fluffy, and nostalgic, made with a special ice-bath-shock step and cooked in a copper mug to create a unique and delicious treat, perfect for those looking for a FODMAP-friendly option.",
   "cuisine": "Slovakian",
   "diet": [
-    "FODMAP-friendly",
-    "gluten-free"
+    "FODMAP-friendly"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -64,7 +63,6 @@
     "buckwheat-recipe",
     "copper-cooking-vessel",
     "fodmap-friendly",
-    "gluten-free",
     "slovakian-cuisine"
   ],
   "nutrition": {
@@ -90,5 +88,9 @@
     "mainIngredient": "buckwheat",
     "descriptor": "puffy bitter",
     "dishForm": "Pancakes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

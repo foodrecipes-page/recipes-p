@@ -102,11 +102,15 @@
     "mood": "romantic",
     "technique": "bhuna",
     "primaryIngredient": "iceberg lettuce",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Turkish",
     "mainIngredient": "Iceberg Lettuce",
     "descriptor": "Pillowy",
     "dishForm": "Kuru Fasulye"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

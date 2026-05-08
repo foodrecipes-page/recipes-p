@@ -2,9 +2,7 @@
   "title": "Passion Bitter Treat",
   "description": "A chewy and bitter treat perfect for a sick day, this vegan-friendly dessert features passion fruit pulp infused with sous-vide.",
   "cuisine": "Indian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -37,7 +35,7 @@
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
-  "totalTimeMin": 60,
+  "totalTimeMin": 35,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -65,5 +63,10 @@
     "primaryIngredient": "passion fruit pulp",
     "diet": "vegan",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "recomputed-totalTime"
+  ]
 }

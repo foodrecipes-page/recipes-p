@@ -2,9 +2,7 @@
   "title": "Poached Russian Gooey Currant Stir-fry",
   "description": "A salty, gooey post-workout dish featuring gluten-free-friendly currants poached in a savory sauce and served with a light gluten-free base.",
   "cuisine": "Russian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -86,5 +84,9 @@
     "mainIngredient": "currants",
     "descriptor": "Poached",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

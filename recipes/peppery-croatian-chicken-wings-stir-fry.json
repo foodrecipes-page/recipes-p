@@ -49,7 +49,8 @@
     "Place chicken wings in the marinade and turn to coat evenly. Let marinate for at least 1 hour or up to overnight in refrigerator.",
     "Arrange chicken wings on a wire rack placed over baking sheet covered with aluminum foil.",
     "Bake for 25 minutes then flip wings, drizzle remaining marinade over them, and bake another 10-15 minutes until golden brown and crispy.",
-    "Serve hot as a side dish or main course."
+    "Serve hot as a side dish or main course.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -84,5 +85,9 @@
     "mainIngredient": "chicken wings",
     "descriptor": "Peppery",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

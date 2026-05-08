@@ -2,9 +2,7 @@
   "title": "Piquant Vietnamese Long Beans Canh Chua",
   "description": "A savory, springy, romantic Vietnamese soup featuring Chinese long beans and a fragrant soffritto base, simmered to perfect tang and served in a slate tile pot.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -78,8 +76,7 @@
     "asian-soup",
     "canh-chua",
     "one-pot",
-    "quick",
-    "vegetarian"
+    "quick"
   ],
   "nutrition": {
     "calories": 370,
@@ -104,5 +101,9 @@
     "mainIngredient": "Long Beans",
     "descriptor": "Piquant",
     "dishForm": "Canh Chua"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

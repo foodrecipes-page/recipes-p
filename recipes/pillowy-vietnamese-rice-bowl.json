@@ -63,11 +63,15 @@
     "mood": "date-night",
     "technique": "blanch",
     "primaryIngredient": "brown rice",
-    "diet": "kosher",
+    "diet": "keto",
     "region": null,
     "cuisineAdjective": "Vietnamese",
     "mainIngredient": "rice",
     "descriptor": "pillowy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

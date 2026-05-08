@@ -2,9 +2,7 @@
   "title": "Pungent Smoky Greek Bryndza Cheese Pilaf",
   "description": "A smoky and silky Greek dish featuring bryndza cheese, this pilaf is perfect for a monsoon evening, with a dash-friendly flavor profile that will leave you wanting more. The combination of smoky and pungent flavors creates a truly unique taste experience.",
   "cuisine": "Greek",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -55,7 +53,8 @@
     "Add the chicken broth, salt, and black pepper, and bring to a boil.",
     "Reduce the heat to low, cover, and simmer for 20 minutes, or until the liquid is absorbed.",
     "Stir in the crumbled bryndza cheese until melted and well combined.",
-    "Serve hot, garnished with chopped fresh parsley if desired."
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -92,5 +91,10 @@
     "mainIngredient": "bryndza cheese",
     "descriptor": "pungent smoky",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

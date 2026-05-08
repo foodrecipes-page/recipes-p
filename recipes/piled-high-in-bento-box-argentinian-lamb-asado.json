@@ -2,9 +2,7 @@
   "title": "Piled High in Bento Box Argentinian Lamb Asado",
   "description": "A dense, lazy Sunday Argentinian dish featuring lamb, candied peel, and lamination-puff, perfect for a bento box.",
   "cuisine": "Argentinian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "lamb",
     "descriptor": "piled high in bento-box",
     "dishForm": "asado"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

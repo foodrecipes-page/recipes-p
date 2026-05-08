@@ -3,7 +3,6 @@
   "description": "A Filipino dish featuring chicken muffins with umami flavor, silky texture, and a flambe twist, perfect for meal prep and raw food friendly, made with chicken breast, vegetables, and spices, then baked to perfection.",
   "cuisine": "Filipino",
   "diet": [
-    "gluten-free",
     "low-carb"
   ],
   "meal": "snack",
@@ -91,5 +90,9 @@
     "mainIngredient": "chicken",
     "descriptor": "pure silky",
     "dishForm": "Muffins"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

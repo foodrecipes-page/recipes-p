@@ -55,7 +55,8 @@
     "Add sliced green onions and red bell pepper into the skillet with the nuts and herbs. Stir-fry for another minute or so.",
     "Pour in the chicken broth/vegetable stock, lime juice, and half a cup of cooked sushi rice into the skillet. Stir to combine all ingredients evenly.",
     "Simmer gently over medium heat until most liquid is absorbed and the dish reaches desired consistency, about 5 minutes. Taste test for saltiness (optional).",
-    "Remove from heat; serve hot as a side dish or in wraps/rolls. Garnish with more cilantro if needed."
+    "Remove from heat; serve hot as a side dish or in wraps/rolls. Garnish with more cilantro if needed.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -87,10 +88,14 @@
     "technique": "boil",
     "primaryIngredient": "sushi rice",
     "diet": "fodmap",
-    "region": "norte\u00f1o",
+    "region": "norteño",
     "cuisineAdjective": "Mexican",
     "mainIngredient": "Sushi Rice",
     "descriptor": "Peppery",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

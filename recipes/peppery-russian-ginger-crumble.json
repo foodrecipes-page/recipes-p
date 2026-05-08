@@ -3,8 +3,7 @@
   "description": "A dense and peppery dish featuring ginger paste and other spices to aid in hangover recovery, suitable for egg-free diets.",
   "cuisine": "Russian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -78,5 +77,9 @@
     "mainIngredient": "ginger",
     "descriptor": "Peppery",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

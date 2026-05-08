@@ -72,7 +72,8 @@
     "Pour in beef broth and bring to a simmer.",
     "Reduce heat, cover, and simmer for 30 minutes.",
     "Stir in lime juice and adjust seasoning with salt if needed.",
-    "Remove from heat, let rest 5 minutes before serving."
+    "Remove from heat, let rest 5 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 30,
@@ -110,5 +111,9 @@
     "mainIngredient": "minced beef",
     "descriptor": "Piquant",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

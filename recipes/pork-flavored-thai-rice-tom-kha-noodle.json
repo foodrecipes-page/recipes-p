@@ -3,9 +3,7 @@
   "description": "A smoky and flavorful Thai dish featuring vermicelli rice noodles, made in the style of northeastern Thailand, suitable for Jain diets.",
   "cuisine": "Thai",
   "diet": [
-    "jain",
-    "vegetarian",
-    "gluten-free"
+    "jain"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -105,5 +103,10 @@
     "mainIngredient": "Rice",
     "descriptor": "Pork-flavored",
     "dishForm": "Tom Kha Noodle"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

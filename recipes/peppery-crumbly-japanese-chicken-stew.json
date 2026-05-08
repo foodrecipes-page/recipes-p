@@ -39,7 +39,7 @@
     {
       "name": "soy sauce",
       "amount": "1 tbsp",
-      "notes": "low\u2011sodium"
+      "notes": "low‑sodium"
     },
     {
       "name": "sriracha",
@@ -64,8 +64,8 @@
     }
   ],
   "instructions": [
-    "Heat sesame oil in a heavy\u2011bottom pot over medium heat.",
-    "Add sliced onion and saut\u00e9 until translucent, about 5 minutes.",
+    "Heat sesame oil in a heavy‑bottom pot over medium heat.",
+    "Add sliced onion and sauté until translucent, about 5 minutes.",
     "Stir in minced garlic and grated ginger, cooking for 1 minute until fragrant.",
     "Add cubed chicken breast, seasoning with a pinch of salt, and cook until lightly browned on all sides.",
     "Stir in miso paste, soy sauce, and sriracha, coating the chicken and aromatics.",
@@ -73,7 +73,8 @@
     "Reduce heat to low, cover, and let the stew slow cook for 90 minutes, stirring occasionally.",
     "After cooking, stir in rice vinegar and sprinkle toasted sesame seeds.",
     "Taste and adjust seasoning with salt if needed.",
-    "Serve hot, optionally over steamed rice or with miso ramen noodles."
+    "Serve hot, optionally over steamed rice or with miso ramen noodles.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 90,
@@ -110,5 +111,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Peppery Crumbly",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

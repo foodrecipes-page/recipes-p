@@ -35,11 +35,13 @@
   ],
   "instructions": [
     "Preheat a skillet over medium-high heat. Season the ground meat with salt and pepper.",
-    "Saut\u00e9 the seasoned meat in the skillet until browned, about 5-7 minutes.",
+    "Sauté the seasoned meat in the skillet until browned, about 5-7 minutes.",
     "While the meat is cooking, soften the peanut butter in warm water for 20 seconds to blend it better.",
     "Add the softened peanut butter, hummus, ketchup, and mayonnaise to the skillet with the ground meat. Mix well.",
-    "Toast a whole wheat tortilla by wrapping it in aluminum foil and heating it in the oven at 350\u00b0F (175\u00b0C) for about 2 minutes until slightly crispy on both sides.",
-    "Place a spoonful of the peanut butter mixture onto one side of each tortilla, then fold the top half over to enclose the filling. Serve immediately."
+    "Toast a whole wheat tortilla by wrapping it in aluminum foil and heating it in the oven at 350°F (175°C) for about 2 minutes until slightly crispy on both sides.",
+    "Place a spoonful of the peanut butter mixture onto one side of each tortilla, then fold the top half over to enclose the filling. Serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 15,
@@ -70,5 +72,10 @@
     "primaryIngredient": "peanut butter",
     "diet": "whole30",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

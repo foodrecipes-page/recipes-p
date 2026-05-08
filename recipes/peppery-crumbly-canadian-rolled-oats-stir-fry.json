@@ -37,12 +37,13 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350\u00b0F (175\u00b0C).",
+    "Preheat your oven to 350°F (175°C).",
     "Mix the rolled oats, chopped onion, and a pinch of black pepper in a bowl. Drizzle with olive oil.",
     "Spread the mixture evenly on a baking sheet and bake for about 20 minutes until golden brown.",
     "In a separate pan, heat chicken or vegetable broth over medium heat. Add finely chopped garlic and lemon juice, stir well.",
     "Stir the baked oats into the sauce until combined, then simmer for another 5-10 minutes until thickened slightly.",
-    "Serve hot as a side dish or main course."
+    "Serve hot as a side dish or main course.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -79,5 +80,9 @@
     "mainIngredient": "rolled oats",
     "descriptor": "Peppery Crumbly",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

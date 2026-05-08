@@ -3,8 +3,7 @@
   "description": "A low-carb, crispy, and peppery Kenyan-inspired dish featuring haddock, perfect for a midnight craving. The fermentation process adds a unique twist to this flavorful snack.",
   "cuisine": "Kenyan",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "snack",
   "ingredients": [
@@ -77,7 +76,6 @@
   "tags": [
     "kenyan-cuisine",
     "low-carb",
-    "gluten-free",
     "seafood",
     "fermented-food"
   ],
@@ -104,5 +102,9 @@
     "mainIngredient": "haddock",
     "descriptor": "peppery crispy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

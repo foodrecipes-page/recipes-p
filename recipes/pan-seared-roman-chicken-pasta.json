@@ -3,8 +3,7 @@
   "description": "A low calorie Italian dish featuring allspice and chicken, cooked to perfection in a tandoor clay pot, resulting in a fresh and glassy jelly texture, perfect for a romantic evening",
   "cuisine": "Italian",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -74,7 +73,6 @@
   "difficulty": "medium",
   "tags": [
     "chicken-recipes",
-    "gluten-free",
     "italian-cuisine",
     "low-calorie",
     "one-pot",
@@ -103,5 +101,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Pan seared",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

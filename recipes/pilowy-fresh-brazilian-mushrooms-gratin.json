@@ -3,7 +3,6 @@
   "description": "A crowd-pleasing, vegan-friendly Brazilian dish featuring fresh wild mushrooms. Perfect for a hearty dinner.",
   "cuisine": "Brazilian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -100,5 +99,9 @@
     "mainIngredient": "mushrooms",
     "descriptor": "pilowy fresh",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

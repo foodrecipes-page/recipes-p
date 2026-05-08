@@ -96,7 +96,6 @@
     "gratin",
     "main-course",
     "norwegian",
-    "vegetarian",
     "wintertime"
   ],
   "nutrition": {
@@ -122,5 +121,9 @@
     "mainIngredient": "Shallots",
     "descriptor": "Pungent and Dense",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

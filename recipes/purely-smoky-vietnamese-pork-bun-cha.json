@@ -3,7 +3,6 @@
   "description": "A smoky and juicy Vietnamese dish featuring slow-cooked pork and a hint of icing sugar, served with a Mediterranean-friendly twist in a bun cha form.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "lunch",
@@ -96,5 +95,9 @@
     "mainIngredient": "pork",
     "descriptor": "Purely Smoky",
     "dishForm": "Bun Cha"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

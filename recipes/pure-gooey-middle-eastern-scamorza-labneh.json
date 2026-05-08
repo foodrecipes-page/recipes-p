@@ -3,7 +3,6 @@
   "description": "A nutty and gooey Middle Eastern dish featuring scamorza cheese, served in a scallop shell and made with ayurvedic-sattvic-friendly ingredients, this labneh is a show-off dish for any occasion.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "snack",
@@ -68,8 +67,7 @@
     "cheese",
     "gluten-free",
     "middle-eastern",
-    "snack",
-    "vegetarian"
+    "snack"
   ],
   "nutrition": {
     "calories": 320,
@@ -94,5 +92,9 @@
     "mainIngredient": "scamorza",
     "descriptor": "pure gooey",
     "dishForm": "Labneh"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

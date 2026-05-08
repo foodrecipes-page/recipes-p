@@ -3,8 +3,7 @@
   "description": "A peppery and energizing Spanish dish featuring oat milk, cured meats, and high-protein-friendly elements for a nutritious breakfast.",
   "cuisine": "Spanish",
   "diet": [
-    "high-protein",
-    "vegan"
+    "high-protein"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -76,5 +75,9 @@
     "mainIngredient": "Oats",
     "descriptor": "Peppery",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

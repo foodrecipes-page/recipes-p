@@ -91,11 +91,15 @@
     "mood": "show-off",
     "technique": "mantecare-emulsify",
     "primaryIngredient": "roasted pepper",
-    "diet": "paleo",
+    "diet": "paleo-friendly",
     "region": "seoul",
     "cuisineAdjective": "Korean",
     "mainIngredient": "pepper",
     "descriptor": "Piquant Nutty",
     "dishForm": "Jorim"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

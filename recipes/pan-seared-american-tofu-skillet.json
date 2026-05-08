@@ -3,7 +3,6 @@
   "description": "Savory and shattering American dish featuring buttermilk and sashimi-cut tofu, perfect for a vegan-friendly brunch, this skillet is a delicious combination of flavors and textures. It is made with a variety of ingredients and is easy to prepare.",
   "cuisine": "American",
   "diet": [
-    "vegan",
     "vegetarian"
   ],
   "meal": "breakfast",
@@ -98,5 +97,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Pan seared",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

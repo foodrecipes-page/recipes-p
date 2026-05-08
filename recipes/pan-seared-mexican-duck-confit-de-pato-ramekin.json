@@ -65,7 +65,8 @@
     "Heat duck sauce in a small saucepan over medium heat.",
     "Add the shredded duck meat to the saucepan and stir to coat with the sauce.",
     "Serve the duck meat in ramekins, garnished with chopped cilantro.",
-    "Drizzle additional duck sauce over the top, if desired."
+    "Drizzle additional duck sauce over the top, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 120,
@@ -104,5 +105,9 @@
     "mainIngredient": "duck",
     "descriptor": "Pan-Seared",
     "dishForm": "Confit de Pato Ramekin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

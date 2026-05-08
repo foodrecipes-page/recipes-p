@@ -2,9 +2,7 @@
   "title": "Puffy Crunchy French Parma Ham Mille Feuille",
   "description": "A fatty and crunchy French dish featuring parma ham, candy, and puff pastry, suitable for a Buddhist temple gathering.",
   "cuisine": "French",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -86,5 +84,9 @@
     "mainIngredient": "parma ham",
     "descriptor": "Puffy Crunchy",
     "dishForm": "Mille Feuille"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -77,11 +77,15 @@
     "mood": "lazy-sunday",
     "technique": "rest",
     "primaryIngredient": "sesame seed oil",
-    "diet": "low-sodium",
+    "diet": "low-sodium-friendly",
     "region": null,
     "cuisineAdjective": "Slovakian",
     "mainIngredient": "sesame seeds",
     "descriptor": "peppery",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

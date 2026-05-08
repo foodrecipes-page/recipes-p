@@ -2,9 +2,7 @@
   "title": "Poached Almond Irish Stir-fry",
   "description": "A savory and creamy monsoon-inspired dish featuring almond milk as a dairy-free alternative, perfect for breakfast or snack time.",
   "cuisine": "Irish",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -78,5 +76,9 @@
     "mainIngredient": "Almond",
     "descriptor": "Poached",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

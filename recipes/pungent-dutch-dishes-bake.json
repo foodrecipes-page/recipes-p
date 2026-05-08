@@ -3,8 +3,6 @@
   "description": "A pungent and flavorful brunch dish featuring almond essence, blanching, and anti-inflammatory-friendly ingredients.",
   "cuisine": "Dutch",
   "diet": [
-    "vegan",
-    "gluten-free",
     "anti-inflammatory"
   ],
   "meal": "breakfast",
@@ -113,5 +111,10 @@
     "mainIngredient": "dishes",
     "descriptor": "pungent",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

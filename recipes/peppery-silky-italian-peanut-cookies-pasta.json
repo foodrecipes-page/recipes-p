@@ -3,8 +3,7 @@
   "description": "A kid-friendly, plantbased pasta dish that blends silky peanutbutter sauce with crushed peanut cookies for a peppery twist. Perfect for a quick, comforting dinner.",
   "cuisine": "Italian",
   "diet": [
-    "plant-based",
-    "vegan"
+    "plant-based"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -51,7 +50,7 @@
     {
       "name": "crushed peanut cookies",
       "amount": "1/2 cup",
-      "notes": "store\u2011bought or homemade"
+      "notes": "store‑bought or homemade"
     },
     {
       "name": "nutritional yeast",
@@ -61,7 +60,7 @@
   ],
   "instructions": [
     "Bring a large pot of salted water to a boil. Add spaghetti and cook until al dente (about 9 minutes). Drain and reserve 1 cup of pasta water.",
-    "WHISK peanut butter, soy milk, maple syrup, salt, black pepper, red pepper flakes, and garlic powder in a saucepan over medium\u2011low heat until smooth.",
+    "WHISK peanut butter, soy milk, maple syrup, salt, black pepper, red pepper flakes, and garlic powder in a saucepan over medium‑low heat until smooth.",
     "ADD the cooked spaghetti to the saucepan, tossing to coat. If the sauce is too thick, gradually stir in reserved pasta water until silky.",
     "Stir in crushed peanut cookies and nutritional yeast until evenly distributed.",
     "SIMMER the mixture on low for 2 minutes to meld flavors.",
@@ -105,5 +104,9 @@
     "mainIngredient": "Peanut Cookies",
     "descriptor": "Peppery Silky",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

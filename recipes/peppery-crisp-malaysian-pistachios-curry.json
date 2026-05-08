@@ -2,9 +2,7 @@
   "title": "Peppery Crisp Malaysian Pistachios Curry",
   "description": "A fragrant, low-sodium curry that pairs buttery pistachios with a citrusy kick, delivering a romantic dinner with a satisfying crunch.",
   "cuisine": "Malaysian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -83,7 +81,8 @@
     "Stir in fresh lime juice; taste and adjust seasoning—no added salt needed.",
     "Remove from heat; fold in chopped cilantro for freshness.",
     "Serve hot over steamed jasmine rice or as a side to grilled protein.",
-    "Garnish with extra pistachios and lime wedges if desired."
+    "Garnish with extra pistachios and lime wedges if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -122,5 +121,10 @@
     "mainIngredient": "Pistachios",
     "descriptor": "Peppery Crisp",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

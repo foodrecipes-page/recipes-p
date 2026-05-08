@@ -3,8 +3,7 @@
   "description": "A cultured and dense Thai dish featuring bean sprouts and confit tomato, served in a binchotan grill vessel. This macrobiotic friendly larb is a flavorful and adventurous meal.",
   "cuisine": "Thai",
   "diet": [
-    "macrobiotic",
-    "vegetarian"
+    "macrobiotic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -80,8 +79,7 @@
     "macrobiotic",
     "smoky",
     "spicy",
-    "thai-cuisine",
-    "vegetarian"
+    "thai-cuisine"
   ],
   "nutrition": {
     "calories": 250,
@@ -106,5 +104,9 @@
     "mainIngredient": "bean sprouts",
     "descriptor": "Piquant Smoky",
     "dishForm": "Larb"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

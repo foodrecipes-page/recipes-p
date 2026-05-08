@@ -3,8 +3,7 @@
   "description": "A fresh, pillowy Moroccan dish featuring English mustard, an en-croute pastry top, and no refined sugar.",
   "cuisine": "Moroccan",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -81,7 +80,8 @@
     "Gradually add the water to the bowl and mix until a dough forms. Turn the dough out onto a floured surface and knead for 5-7 minutes, until smooth and elastic.",
     "Wrap the dough in plastic wrap and let it rest for 30 minutes.",
     "Divide the dough in half and roll out each half into a thin sheet. Place the sheet over the pot, trimming any excess dough from the edges.",
-    "Cut a few slits in the top of the pastry to allow steam to escape and brush the pastry with a little water."
+    "Cut a few slits in the top of the pastry to allow steam to escape and brush the pastry with a little water.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 180,
@@ -119,5 +119,10 @@
     "mainIngredient": "Lamb",
     "descriptor": "Pillowy, Fragrant",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

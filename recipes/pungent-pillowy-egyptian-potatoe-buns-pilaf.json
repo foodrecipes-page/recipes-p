@@ -70,7 +70,8 @@
     "Add chicken broth and bring to a boil. Reduce heat to low and simmer for 10 minutes.",
     "Add split potato buns to the skillet and simmer for an additional 5 minutes.",
     "Stir in Greek yogurt and cook for 2-3 minutes, or until heated through.",
-    "Garnish with chopped cilantro and serve hot."
+    "Garnish with chopped cilantro and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -107,5 +108,9 @@
     "mainIngredient": "potatoe buns",
     "descriptor": "pungent pillowy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

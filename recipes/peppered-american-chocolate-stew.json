@@ -115,11 +115,15 @@
     "mood": "romantic",
     "technique": "deglaze",
     "primaryIngredient": "dark chocolate",
-    "diet": "halal",
+    "diet": "halal-friendly",
     "region": null,
     "cuisineAdjective": "American",
     "mainIngredient": "Chocolate",
     "descriptor": "Peppered",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

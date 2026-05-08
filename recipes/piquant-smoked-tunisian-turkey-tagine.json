@@ -70,7 +70,9 @@
     "Refrigerate any leftover tagine for up to 1 week and reheat when ready.",
     "To make the mantecare, whip the heavy cream until stiff peaks form and set aside.",
     "To serve, place a portion of the tagine on a plate and top with a dollop of the mantecare.",
-    "Garnish with additional herbs and preserved lemon, if desired."
+    "Garnish with additional herbs and preserved lemon, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 60,
@@ -108,5 +110,10 @@
     "mainIngredient": "turkey",
     "descriptor": "Piquant Smoked",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

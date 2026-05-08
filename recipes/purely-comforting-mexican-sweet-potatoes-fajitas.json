@@ -3,8 +3,7 @@
   "description": "A fresh and comforting Mexican dish featuring sweet potatoes, this recipe is a perfect blend of sugars and spices, made in a donabe vessel and served as fajitas.",
   "cuisine": "Mexican",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -107,5 +106,9 @@
     "mainIngredient": "sweet potatoes",
     "descriptor": "Purely Comforting",
     "dishForm": "Fajitas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

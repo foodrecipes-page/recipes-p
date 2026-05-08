@@ -2,9 +2,7 @@
   "title": "Pleasing Umami Vietnamese Noodles",
   "description": "A vegetarian-friendly Vietnamese dish featuring vermicelli rice noodles and a cheesy, umami sauce, this crowd-pleaser is sure to delight. With a delicious cheese-pull and savory flavors, it's perfect for any occasion.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -69,7 +67,6 @@
     "crowd-pleaser",
     "noodle-dish",
     "umami",
-    "vegetarian",
     "vietnamese"
   ],
   "nutrition": {
@@ -95,5 +92,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Pleasing Umami",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

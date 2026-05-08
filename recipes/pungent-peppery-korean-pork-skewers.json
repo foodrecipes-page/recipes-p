@@ -3,7 +3,6 @@
   "description": "A citrusy and adventurous Korean dish featuring rapeseed oil and a mortar-pestle-pound technique, these skewers are perfect for those who love spicy and snappy flavors. The combination of garlic, ginger, and Korean chili flakes creates a truly unique taste experience.",
   "cuisine": "Korean",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -51,7 +50,8 @@
     "Preheat a grill or grill pan to medium-high heat and cook the skewers for 5-7 minutes per side, or until cooked through.",
     "Serve the skewers hot, garnished with sliced green onions and a sprinkle of toasted sesame seeds.",
     "Let the skewers rest for a few minutes before serving to allow the juices to redistribute.",
-    "Serve with a side of kimchi or pickled vegetables for a truly authentic Korean experience."
+    "Serve with a side of kimchi or pickled vegetables for a truly authentic Korean experience.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -88,5 +88,10 @@
     "mainIngredient": "pork",
     "descriptor": "pungent peppery",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

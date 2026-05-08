@@ -3,7 +3,6 @@
   "description": "A chewy, peppery tagine packed with wholesome lentils, fresh herbs, and a touch of vegan butter, perfect for a lowfat postworkout meal.",
   "cuisine": "Mediterranean",
   "diet": [
-    "vegan",
     "low-fat"
   ],
   "meal": "dinner",
@@ -14,17 +13,17 @@
     },
     {
       "name": "yellow onion",
-      "amount": "1 medium (\u2248150 g)",
+      "amount": "1 medium (≈150 g)",
       "notes": "diced"
     },
     {
       "name": "carrot",
-      "amount": "1 medium (\u224870 g)",
+      "amount": "1 medium (≈70 g)",
       "notes": "julienned"
     },
     {
       "name": "cherry tomato",
-      "amount": "4 medium (\u2248100 g)",
+      "amount": "4 medium (≈100 g)",
       "notes": "halved"
     },
     {
@@ -34,11 +33,11 @@
     },
     {
       "name": "vegetable broth",
-      "amount": "1.5 cups (\u2248360 ml)"
+      "amount": "1.5 cups (≈360 ml)"
     },
     {
       "name": "vegan butter",
-      "amount": "1 tablespoon (\u224814 g)"
+      "amount": "1 tablespoon (≈14 g)"
     },
     {
       "name": "lemon juice",
@@ -66,13 +65,13 @@
   ],
   "instructions": [
     "Rinse the lentils under cold water until the water runs clear.",
-    "In a large vacuum\u2011seal bag, combine lentils, diced onion, julienned carrot, halved cherry tomato, minced garlic, vegetable broth, seasoning, and spice blend. Seal the bag and vacuum\u2011seal.",
-    "Preheat your sous\u2011vide bath to 85\u202f\u00b0C (185\u202f\u00b0F) and immerse the sealed bag. Cook for 2\u202fhours to allow the lentils to become tender yet chewy.",
-    "After 2\u202fhours, carefully remove the bag from the water, open it, and transfer the lentils and liquid into a heat\u2011proof bowl. Stir gently.",
+    "In a large vacuum‑seal bag, combine lentils, diced onion, julienned carrot, halved cherry tomato, minced garlic, vegetable broth, seasoning, and spice blend. Seal the bag and vacuum‑seal.",
+    "Preheat your sous‑vide bath to 85 °C (185 °F) and immerse the sealed bag. Cook for 2 hours to allow the lentils to become tender yet chewy.",
+    "After 2 hours, carefully remove the bag from the water, open it, and transfer the lentils and liquid into a heat‑proof bowl. Stir gently.",
     "Place the bowl over low heat on the stove and add the vegan butter; stir until melted and incorporated, creating a silky sauce.",
     "Add lemon juice and lemon zest, then fold in the chopped parsley. Taste and adjust seasoning if needed.",
     "Serve the tagine hot, optionally accompanied by a side of steamed quinoa or a crisp green salad for extra protein.",
-    "Store any leftovers in an airtight container in the refrigerator for up to 3\u202fdays."
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 120,
@@ -82,7 +81,6 @@
   "tags": [
     "peppery",
     "mediterranean",
-    "vegan",
     "low-fat",
     "post-workout",
     "sous-vide",
@@ -111,5 +109,9 @@
     "mainIngredient": "lentils",
     "descriptor": "peppery",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

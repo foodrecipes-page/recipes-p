@@ -66,7 +66,8 @@
     "Add the dark beer, tomato paste, and chicken broth, and bring to a boil.",
     "Reduce the heat to low and simmer, covered, for 30 minutes.",
     "Remove the lid and continue to simmer for an additional 10 minutes.",
-    "Serve hot over rice or with injera bread."
+    "Serve hot over rice or with injera bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -104,5 +105,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Piquant Smoky",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

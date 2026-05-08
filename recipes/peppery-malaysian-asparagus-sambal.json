@@ -103,7 +103,6 @@
     "high-protein",
     "low-carb",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -129,5 +128,9 @@
     "mainIngredient": "asparagus",
     "descriptor": "peppery",
     "dishForm": "Sambal"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

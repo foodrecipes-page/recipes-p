@@ -2,9 +2,7 @@
   "title": "Pungent Indian Jalebi",
   "description": "A flavorful and spicy jalebi recipe that is perfect for a solo dinner. The combination of garlic powder and shio-cure gives this dish a unique and pungent flavor.",
   "cuisine": "Indian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -63,7 +61,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "indian",
     "jalebi",
@@ -92,5 +89,9 @@
     "mainIngredient": "solo-dinner",
     "descriptor": "pungent",
     "dishForm": "Jalebi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

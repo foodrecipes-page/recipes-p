@@ -3,7 +3,6 @@
   "description": "A tangy and savory Ethiopian lentil stew with a cheese-pull twist, featuring Nutella and roasted to perfection in a kazan cauldron, dairy-free friendly.",
   "cuisine": "Ethiopian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -70,7 +69,6 @@
   "difficulty": "medium",
   "tags": [
     "african-cuisine",
-    "dairy-free",
     "gluten-free",
     "high-protein",
     "one-pot",
@@ -99,5 +97,10 @@
     "mainIngredient": "lentils",
     "descriptor": "Piquant Roasted",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

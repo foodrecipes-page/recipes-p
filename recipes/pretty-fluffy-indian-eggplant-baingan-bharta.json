@@ -3,7 +3,6 @@
   "description": "A romantic and nutty Indian dish featuring blackcurrant jam, this vegan-friendly baingan bharta is a unique twist on the classic recipe. It has a fluffy texture and a sweet and savory flavor.",
   "cuisine": "Indian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -103,5 +102,9 @@
     "mainIngredient": "eggplant",
     "descriptor": "pretty fluffy",
     "dishForm": "Baingan Bharta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

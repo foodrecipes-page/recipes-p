@@ -53,7 +53,7 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 300\u00b0F (150\u00b0C).",
+    "Preheat the oven to 300°F (150°C).",
     "Cut the tops off the Romano peppers and remove the seeds and membranes.",
     "In a large bowl, whisk together olive oil, garlic-infused oil, cumin, smoked paprika, cayenne pepper, salt, and black pepper.",
     "Add the peppers to the bowl and toss to coat with the spice mixture.",
@@ -62,7 +62,8 @@
     "Transfer the pot to the preheated oven and cook for 2 hours, or until the peppers are tender.",
     "Remove the pot from the oven and let it cool slightly.",
     "Serve the peppers hot, garnished with fresh parsley or cilantro.",
-    "Traditionally, Tagine is cooked in a clay pot with a conical lid, but a Dutch oven works well too."
+    "Traditionally, Tagine is cooked in a clay pot with a conical lid, but a Dutch oven works well too.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 120,
@@ -99,5 +100,9 @@
     "mainIngredient": "romano pepper",
     "descriptor": "peppery gooey",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -103,11 +103,15 @@
     "mood": "date-night",
     "technique": "slow-cook",
     "primaryIngredient": "millet",
-    "diet": "paleo",
+    "diet": "paleo-friendly",
     "region": null,
     "cuisineAdjective": "Dutch",
     "mainIngredient": "millet",
     "descriptor": "Piquant Bitter",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

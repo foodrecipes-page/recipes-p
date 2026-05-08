@@ -52,7 +52,8 @@
     "Add pork cubes and crustacean slices to the pan. Cook until they start to brown, around 5 minutes.",
     "Pour in white wine vinegar and red pepper flakes. Stir well to combine with the ingredients, reducing heat if needed to prevent burning.",
     "Season with salt according to taste, then cook for an additional minute or two until everything is heated through.",
-    "Remove from heat and garnish with fresh parsley before serving as a snack."
+    "Remove from heat and garnish with fresh parsley before serving as a snack.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -89,5 +90,9 @@
     "mainIngredient": "pork",
     "descriptor": "Peppery",
     "dishForm": "Crustacean"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Peppery Crisp Russian Melon Soup",
   "description": "A light and refreshing Russian-inspired soup combining sweet melon and crisp cucumber with a peppery kick, finished with dill and a hint of yogurt.",
   "cuisine": "Russian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -64,7 +62,8 @@
     "Remove the pot from the heat and allow the soup to cool for 5 minutes; this short rest helps retain the crispness of the melon and cucumber.",
     "Stir in the Greek yogurt (or sour cream) until the soup is creamy and smooth; adjust seasoning if needed.",
     "Serve the soup hot or slightly chilled, garnished with extra dill, chives, and a light dusting of black pepper.",
-    "Optionally, let the soup chill in the refrigerator for 30 minutes before serving to enhance the crisp texture."
+    "Optionally, let the soup chill in the refrigerator for 30 minutes before serving to enhance the crisp texture.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 10,
@@ -76,7 +75,6 @@
     "melonsoup",
     "peppery",
     "crisp",
-    "vegetarian",
     "dash-friendly"
   ],
   "nutrition": {
@@ -102,5 +100,10 @@
     "mainIngredient": "melon",
     "descriptor": "Peppery Crisp",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

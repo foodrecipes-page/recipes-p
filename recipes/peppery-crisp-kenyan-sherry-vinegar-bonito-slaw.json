@@ -2,9 +2,7 @@
   "title": "Peppery, Crisp Kenyan Sherry Vinegar, Bonito Slaw",
   "description": "A refreshing and energizing Kenyan dish that combines peppery flavors of cress with the crunch of julienne carrots and a tangy slaw made with Kenyan sherry vinegar and shaved bonito.",
   "cuisine": "kenyan",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -108,5 +106,9 @@
     "mainIngredient": "sherry vinegar, bonito",
     "descriptor": "peppery, crisp",
     "dishForm": "slaw"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

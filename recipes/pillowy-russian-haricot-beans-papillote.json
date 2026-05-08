@@ -3,8 +3,6 @@
   "description": "A weeknight Russian dish featuring haricot beans in a pillowy papillote, pungent and flavorful without being too difficult to make. Serve with rye bread and a dollop of sour cream for a hearty meal.",
   "cuisine": "Russian",
   "diet": [
-    "kosher",
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -97,5 +95,10 @@
     "mainIngredient": "haricot beans",
     "descriptor": "pillowy",
     "dishForm": "papillote"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-kosher"
+  ]
 }
