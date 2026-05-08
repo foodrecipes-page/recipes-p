@@ -1,0 +1,109 @@
+{
+  "title": "Pungent Crispy Indian Narutomaki Rasam",
+  "description": "A nutty and crispy Indian dish featuring narutomaki, this pescatarian-friendly rasam is perfect for midnight cravings. It combines the flavors of Bengali cuisine with the uniqueness of Japanese narutomaki.",
+  "cuisine": "Indian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "narutomaki",
+      "amount": "1 cup",
+      "notes": "Japanese fish cake"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rasam powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "10",
+      "notes": "fresh"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large pan over medium heat.",
+    "Add chopped onion and saute until it turns golden brown.",
+    "Add grated ginger and cook for another minute.",
+    "Add diced tomato and cook until it becomes soft.",
+    "Add tamarind paste, rasam powder, and salt, and stir well.",
+    "Add water to the pan and bring the mixture to a boil.",
+    "Reduce the heat to low and add narutomaki to the pan.",
+    "Simmer the rasam for 10 minutes or until the flavors are well combined.",
+    "Garnish with fresh curry leaves and chopped coriander leaves.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-cuisine",
+    "midnight-cravings",
+    "narutomaki-recipes",
+    "pescatarian-friendly",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "pungent-crispy-indian-narutomaki-rasam",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-crispy-indian-narutomaki-rasam",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:25:34Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "cure",
+    "primaryIngredient": "narutomaki",
+    "diet": "pescatarian",
+    "region": "bengali",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "narutomaki",
+    "descriptor": "pungent crispy",
+    "dishForm": "Rasam"
+  }
+}
