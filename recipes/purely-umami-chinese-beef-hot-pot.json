@@ -1,0 +1,101 @@
+{
+  "title": "Purely Umami Chinese Beef Hot Pot",
+  "description": "A savory and umami-rich Chinese beef hot pot featuring wood-fired baked beef stock concentrate, perfect for a post-workout flexitarian-friendly meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stock concentrate",
+      "amount": "2 tablespoons",
+      "notes": "wood-fired baked"
+    },
+    {
+      "name": "beef slices",
+      "amount": "1 pound",
+      "notes": "shaggy cut"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "bok choy",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the beef stock concentrate and 4 cups of water, then bring to a boil over high heat.",
+    "Reduce the heat to medium-low and simmer the stock for 10 minutes.",
+    "Add the sliced mushrooms to the pot and cook for an additional 5 minutes.",
+    "Add the chopped bok choy to the pot and cook until wilted, about 3 minutes.",
+    "In a separate pan, heat the sesame oil over medium-high heat, then add the beef slices and cook until browned, about 5 minutes.",
+    "Add the cooked beef slices to the pot, along with the cubed tofu, chopped green onions, soy sauce, and grated ginger.",
+    "Simmer the hot pot for an additional 5 minutes, allowing the flavors to meld together.",
+    "Serve the hot pot immediately, allowing each guest to customize their own bowl with their preferred ingredients."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "high-protein",
+    "one-pot",
+    "post-workout",
+    "umami-rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "purely-umami-chinese-beef-hot-pot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-umami-chinese-beef-hot-pot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:14:30Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "beef stock concentrate",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "beef",
+    "descriptor": "Purely Umami",
+    "dishForm": "Hot Pot"
+  }
+}
