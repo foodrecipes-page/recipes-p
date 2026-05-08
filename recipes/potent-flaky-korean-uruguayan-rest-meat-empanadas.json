@@ -1,0 +1,101 @@
+{
+  "title": "Potent Flaky Korean Uruguayan Rest Meat Empanadas",
+  "description": "A nutty and energizing Uruguayan dish featuring doenjang and rest meat, wrapped in a gluten-free friendly flaky crust. This empanada is perfect for a snack or lunch.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "doenjang",
+      "amount": "1/2 cup",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "rest meat",
+      "amount": "1 cup",
+      "notes": "shredded beef or chicken"
+    },
+    {
+      "name": "gluten-free flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped green onion",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the gluten-free flour and salt.",
+    "Add the cold unsalted butter and use a pastry blender to work it into the flour until the mixture resembles coarse crumbs.",
+    "In a small bowl, whisk together the egg and sesame oil.",
+    "Add the egg mixture to the flour mixture and stir until a dough forms.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place 1 tablespoon of doenjang and 1 tablespoon of rest meat in the center of each circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with a little bit of sesame oil.",
+    "Bake the empanadas for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "doenjang",
+    "empanadas",
+    "gluten-free",
+    "korean-uruguayan-fusion",
+    "lunch",
+    "rest-meat",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "potent-flaky-korean-uruguayan-rest-meat-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/potent-flaky-korean-uruguayan-rest-meat-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:37:01Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "rest-meat",
+    "primaryIngredient": "doenjang",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Korean Uruguayan",
+    "mainIngredient": "rest meat",
+    "descriptor": "Potent flaky",
+    "dishForm": "Empanadas"
+  }
+}
