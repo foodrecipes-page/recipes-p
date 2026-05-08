@@ -1,0 +1,106 @@
+{
+  "title": "Pungent Pale Turkish Epoisses Pilaf",
+  "description": "A briny and shattering Turkish dish featuring epoisses cheese, served in a scallop shell, perfect for a brunch mood. This Mediterranean-friendly pilaf is a unique and flavorful experience.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Epoisses cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Turkish bulgur",
+      "amount": "2 cups",
+      "notes": "fine grind"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the bulgur according to package instructions.",
+    "While the bulgur is cooking, heat the olive oil in a large skillet over medium heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the artichoke hearts, olives, and lemon juice to the skillet and cook for 2 minutes, until heated through.",
+    "Flake the epoisses cheese into small pieces and add to the skillet, stirring until melted and well combined.",
+    "Drain the cooked bulgur and add to the skillet, stirring to combine with the epoisses mixture.",
+    "Season with salt and black pepper to taste.",
+    "Spoon the pilaf into scallop shells and garnish with chopped parsley.",
+    "Chill the pilaf in an ice bath for 10 minutes, until cooled and set.",
+    "Serve the pilaf immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "cheese-plates",
+    "mediterranean-diet",
+    "shellfish-inspired",
+    "turkish-cuisine",
+    "vegetarian-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "pungent-pale-turkish-epoisses-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-pale-turkish-epoisses-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:17:46Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "epoisses",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "epoisses",
+    "descriptor": "pungent pale",
+    "dishForm": "Pilaf"
+  }
+}
