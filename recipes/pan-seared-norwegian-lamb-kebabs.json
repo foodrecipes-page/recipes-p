@@ -1,0 +1,94 @@
+{
+  "title": "Pan Seared Norwegian Lamb Kebabs",
+  "description": "A charred and dense weeknight Norwegian dish featuring dried apricots, served on a wooden board. This nut-free-friendly recipe is perfect for a quick dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes, dried apricots, and parsley onto skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the lamb is cooked to an internal temperature of 145 degrees.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve the kebabs on a wooden board with a squeeze of lemon juice.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "grilled-meat",
+    "lamb-recipes",
+    "norwegian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "pan-seared-norwegian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-norwegian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:08:51Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "grill",
+    "primaryIngredient": "dried apricots",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Pan seared",
+    "dishForm": "Kebabs"
+  }
+}
