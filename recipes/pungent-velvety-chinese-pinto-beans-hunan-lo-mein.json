@@ -1,0 +1,120 @@
+{
+  "title": "Pungent, Velvety Chinese Pinto Beans Hunan Lo Mein",
+  "description": "A savory, velvety Hunan-inspired lo mein dish featuring pinto beans, chicken, and a blend of spices, all stir-fried to perfection with a wok hei flavor.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lo mein noodles",
+      "amount": "8 oz (225g)",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "pinto beans",
+      "amount": "1 (15 oz / 425g) can, drained and rinsed"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb (450g)",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Hunan sauce",
+      "amount": "1/4 cup (60g)",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp (30g)",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp (5g)"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp (5g)",
+      "notes": "for serving"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches (5cm)",
+      "notes": "grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup (115g)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the lo mein noodles according to package instructions and set aside.",
+    "In a large skillet or wok, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the garlic, ginger, and scallions to the skillet and cook until fragrant, about 1 minute.",
+    "Add the pinto beans, bean sprouts, and Hunan sauce to the skillet and stir-fry for 2-3 minutes.",
+    "Return the chicken to the skillet and stir-fry for an additional 2-3 minutes.",
+    "Add the cooked lo mein noodles to the skillet and stir-fry for 2-3 minutes, until everything is well combined.",
+    "Season with soy sauce and sugar to taste.",
+    "Transfer the lo mein to a serving platter and drizzle with sesame oil.",
+    "Serve immediately and enjoy!",
+    "Garnish with additional scallions and sesame oil, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-inspired",
+    "high-protein",
+    "hunan",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight",
+    "wok-hei"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "pungent-velvety-chinese-pinto-beans-hunan-lo-mein",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-velvety-chinese-pinto-beans-hunan-lo-mein",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:49:43Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "wok-hei",
+    "primaryIngredient": "pinto beans",
+    "diet": "high-protein",
+    "region": "hunan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Pinto Beans",
+    "descriptor": "Pungent, Velvety",
+    "dishForm": "Hunan Lo Mein"
+  }
+}
