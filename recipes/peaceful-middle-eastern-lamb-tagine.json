@@ -1,0 +1,103 @@
+{
+  "title": "Peaceful Middle Eastern Lamb Tagine",
+  "description": "A hearty and flavorful lamb stew infused with curry powder and aromatic spices, perfect for a lazy Sunday afternoon. This dish is slow-cooked to perfection in a rich and jammy sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the infused oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional 1 minute.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the curry powder, salt, and black pepper, and stir to combine.",
+    "Add the diced tomatoes and chicken broth, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb",
+    "lazy-sunday",
+    "middle-eastern",
+    "one-pot",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "peaceful-middle-eastern-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/peaceful-middle-eastern-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:13:36Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "bouncy-qq",
+    "mood": "lazy-sunday",
+    "technique": "infuse-oil",
+    "primaryIngredient": "curry powder",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Peaceful",
+    "dishForm": "Tagine"
+  }
+}

@@ -671,6 +671,21 @@
     "shard": "p"
   },
   {
+    "slug": "peaceful-middle-eastern-lamb-tagine",
+    "title": "Peaceful Middle Eastern Lamb Tagine",
+    "tags": [
+      "comfort-food",
+      "lamb",
+      "lazy-sunday",
+      "middle-eastern",
+      "one-pot",
+      "stew"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 170,
+    "shard": "p"
+  },
+  {
     "slug": "peach-tempeh-stir-fry",
     "title": "Peach Tempeh Stir-Fry",
     "tags": [
