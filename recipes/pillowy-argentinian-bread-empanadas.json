@@ -1,0 +1,95 @@
+{
+  "title": "Pillowy Argentinian Bread Empanadas",
+  "description": "A malty and cozy Argentinian dish featuring strong white bread flour, these empanadas are diabetic-friendly and perfect for a snack or light meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "strong white bread flour",
+      "amount": "2 cups",
+      "notes": "high protein content"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "filling of choice",
+      "amount": "1 cup",
+      "notes": "e.g. beef, chicken, or cheese"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the strong white bread flour, salt, sugar, and active dry yeast.",
+    "Gradually add the warm water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Punch down the dough and divide it into 8 equal pieces.",
+    "Roll out each piece into a thin circle and place a tablespoon of filling in the center.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with the beaten egg for a golden glaze.",
+    "Bake the empanadas for 20 minutes until they are golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "bread-based",
+    "diabetic-friendly",
+    "empanadas",
+    "homemade",
+    "snack-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "pillowy-argentinian-bread-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-argentinian-bread-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:13:57Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "strong white bread flour",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "bread",
+    "descriptor": "pillowy",
+    "dishForm": "Empanadas"
+  }
+}
