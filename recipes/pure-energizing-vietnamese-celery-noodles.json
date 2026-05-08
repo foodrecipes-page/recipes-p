@@ -1,0 +1,97 @@
+{
+  "title": "Pure Energizing Vietnamese Celery Noodles",
+  "description": "A sweet and shaggy Vietnamese dish featuring celery, spherified pearls of tapioca, and ayurvedic-tamasic friendly ingredients to provide a boost of energy.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "tapioca pearls",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the tapioca pearls according to package instructions.",
+    "In a blender, combine coconut milk, brown sugar, grated ginger, lemon juice, and salt, and blend until smooth.",
+    "In a large bowl, combine chopped celery, cooked tapioca pearls, and the coconut milk mixture, and toss to combine.",
+    "Stir in chopped basil and adjust seasoning as needed.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the mixture a good stir and adjust the seasoning if needed.",
+    "Serve the noodles chilled, garnished with additional basil if desired.",
+    "Spherify the tapioca pearls by dropping them into a bath of cold water and letting them sit for a few minutes.",
+    "Strain the spherified pearls and add them to the noodles.",
+    "Toss the noodles gently to combine with the spherified pearls.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "energizing",
+    "gluten-free",
+    "healthy",
+    "vegetarian",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "pure-energizing-vietnamese-celery-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pure-energizing-vietnamese-celery-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:33:38Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "spherify",
+    "primaryIngredient": "celery",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "celery",
+    "descriptor": "pure energizing",
+    "dishForm": "Noodles"
+  }
+}
