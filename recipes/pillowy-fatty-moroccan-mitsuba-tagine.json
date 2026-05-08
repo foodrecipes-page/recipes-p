@@ -1,0 +1,108 @@
+{
+  "title": "pillowy fatty moroccan mitsuba tagine",
+  "description": "traditional moroccan dish featuring mitsuba and served with crispy double-fried chicken. perfect for a family dinner or special occasion.",
+  "cuisine": "morrocan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mitsuba",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 medium"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "double-fried chicken (kfc style)",
+      "amount": "4 pieces"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium heat.",
+    "add the onion, garlic, and ginger, and sauté until softened, about 5 minutes.",
+    "add the mitsuba, turmeric, cumin, coriander, and paprika, and continue to sauté for another 5 minutes.",
+    "season with salt and black pepper to taste.",
+    "add the double-fried chicken to the skillet and toss to coat with the mitsuba mixture.",
+    "cover the skillet and cook for 5 minutes, or until the flavors have melded together.",
+    "fluff the mitsuba mixture with a fork and serve hot, garnished with fresh herbs, if desired.",
+    "serve the crispy double-fried chicken on top of the mitsuba mixture, and enjoy!",
+    "serve with traditional moroccan flatbread or couscous, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "double-fried",
+    "fatty",
+    "kfc-style",
+    "moroccan",
+    "pillowy",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 80
+  },
+  "slug": "pillowy-fatty-moroccan-mitsuba-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-fatty-moroccan-mitsuba-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:47:42Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "mitsuba",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Mitsuba",
+    "descriptor": "pillowy fatty",
+    "dishForm": "Tagine"
+  }
+}
