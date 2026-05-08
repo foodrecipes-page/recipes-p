@@ -1,0 +1,93 @@
+{
+  "title": "Pan Seared Greek Skirt Steak Skewers",
+  "description": "A fermented, flaky, solo-dinner Greek dish featuring skirt steak, shio-cure, and Mediterranean-friendly flavors",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skirt steak",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "shio cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together shio cure, olive oil, lemon juice, garlic, oregano, salt, and pepper to make the marinade.",
+    "Add the skirt steak pieces to the marinade and toss to coat, then cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat, threading the marinated steak pieces onto skewers if using wooden skewers, soak them in water for 30 minutes before threading.",
+    "Remove the steak from the marinade, letting any excess liquid drip off, and brush the grill or grill pan with oil to prevent sticking.",
+    "Grill the steak skewers for 3-4 minutes per side, or until they reach an internal temperature of 130 degrees for medium-rare.",
+    "Let the steak rest for 5 minutes before slicing and serving.",
+    "Serve the steak skewers hot, garnished with lemon wedges and chopped fresh oregano if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 42
+  },
+  "slug": "pan-seared-greek-skirt-steak-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-greek-skirt-steak-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:20:15Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "shio-cure",
+    "primaryIngredient": "skirty steak",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "skirt steak",
+    "descriptor": "Pan seared",
+    "dishForm": "Skewers"
+  }
+}
