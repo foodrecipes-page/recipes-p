@@ -1,0 +1,92 @@
+{
+  "title": "Purely Garlicky Tunisian Shrimp Pasta",
+  "description": "A garlicky and juicy Tunisian dish featuring fettuccine, perfect for a date night, and is dairy-free friendly.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fettuccine",
+      "amount": "12 oz",
+      "notes": "dairy-free"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 lb",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tunisian spice mix",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the fettuccine according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium-high heat and add the minced garlic, cooking for 1 minute until fragrant.",
+    "Add the shrimp to the skillet and cook for 2-3 minutes per side, until pink and fully cooked.",
+    "Add the tunisian spice mix, lemon juice, salt, and black pepper to the skillet, stirring to combine.",
+    "Add the cooked fettuccine to the skillet, tossing to combine with the garlic shrimp mixture and cook for an additional 2 minutes.",
+    "Using a spatula, gently lift and fold the fettuccine, allowing the sauce to mantecare and emulsify.",
+    "Serve immediately, garnished with additional lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "date-night",
+    "garlicky",
+    "pasta",
+    "seafood",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "purely-garlicky-tunisian-shrimp-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-garlicky-tunisian-shrimp-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:02:35Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "fettuccine",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Purely garlicky",
+    "dishForm": "Pasta"
+  }
+}
