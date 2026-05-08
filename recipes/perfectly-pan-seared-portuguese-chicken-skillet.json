@@ -1,0 +1,101 @@
+{
+  "title": "Perfectly Pan Seared Portuguese Chicken Skillet",
+  "description": "A nutty and snappy Portuguese dish perfect for a lazy Sunday, featuring sesame seed oil and a deglaze, all while being keto-friendly.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "sesame seed oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame seed oil in a large oven-safe skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned on all sides, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Reduce the heat to medium and add the salt, black pepper, garlic powder, and paprika to the skillet, stirring to combine.",
+    "Cook for 1 minute, until the spices are fragrant.",
+    "Add the chicken broth and white wine, if using, to the skillet, stirring to deglaze the bottom.",
+    "Return the chicken to the skillet and stir to coat with the sauce.",
+    "Transfer the skillet to the oven and bake at 400 degrees for 15-20 minutes, until the chicken is cooked through.",
+    "Remove the skillet from the oven and sprinkle with chopped parsley.",
+    "Serve the chicken hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "keto-friendly",
+    "lazy-sunday",
+    "nutty-flavors",
+    "one-pan",
+    "portuguese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "perfectly-pan-seared-portuguese-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/perfectly-pan-seared-portuguese-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:07:16Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "lazy-sunday",
+    "technique": "deglaze",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "perfectly pan seared",
+    "dishForm": "Skillet"
+  }
+}
