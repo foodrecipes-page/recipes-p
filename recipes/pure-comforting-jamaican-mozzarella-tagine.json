@@ -1,0 +1,110 @@
+{
+  "title": "Pure Comforting Jamaican Mozzarella Tagine",
+  "description": "A cultured and silky Jamaican dish featuring mozzarella, cooked in a tagine with a blend of spices, perfect for a comforting meal. This macrobiotic-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mozzarella cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay or ceramic tagine over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the diced scotch bonnet pepper and cook for another minute, stirring occasionally.",
+    "Add the thyme sprigs, allspice, and tagine spice blend, and stir to combine.",
+    "Add the shredded mozzarella cheese and stir until it is well coated with the spice mixture.",
+    "Cover the tagine and transfer it to the oven, where it will cook at 300 degrees for 20 minutes.",
+    "Remove the tagine from the oven and season the cheese with sea salt to taste.",
+    "Serve the mozzarella hot, garnished with additional thyme sprigs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "jamaican-cuisine",
+    "macrobiotic",
+    "one-pot",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "pure-comforting-jamaican-mozzarella-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pure-comforting-jamaican-mozzarella-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:10:31Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "tagine-cook",
+    "primaryIngredient": "mozzarella",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "mozzarella",
+    "descriptor": "pure comforting",
+    "dishForm": "Tagine"
+  }
+}
