@@ -5919,6 +5919,21 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-smoked-tunisian-turkey-tagine",
+    "title": "piquant smoked tunisian turkey tagine",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "romantic",
+      "smoked-meat",
+      "tunisian",
+      "weeknight"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 75,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-smoky-ethiopian-chicken-stew",
     "title": "Piquant Smoky Ethiopian Chicken Stew",
     "tags": [
