@@ -1,0 +1,105 @@
+{
+  "title": "Pungent Crunchy American Vegetable Skillet",
+  "description": "A bitter and crunchy American dish featuring creme fraiche and wok-hei, perfect for adventurous eaters, this flexitarian friendly skillet is packed with flavor and texture.",
+  "cuisine": "American",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "Red cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Creme fraiche",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet over medium high heat.",
+    "Add the Brussels sprouts and cook until browned and crispy, about 5 minutes.",
+    "Add the shredded red cabbage and cook until wilted, about 3 minutes.",
+    "Add the grated carrots and cook until they start to soften, about 2 minutes.",
+    "In a small bowl, whisk together the creme fraiche, soy sauce, and rice vinegar.",
+    "Pour the creme fraiche mixture over the vegetables and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Cook for an additional 2 minutes, until the sauce has thickened slightly.",
+    "Stir in the chopped scallions and cook for 1 minute.",
+    "Serve the skillet hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "flexitarian",
+    "high-fiber",
+    "one-pan",
+    "vegetable-packed",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "pungent-crunchy-american-vegetable-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-crunchy-american-vegetable-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:39:14Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "wok-hei",
+    "primaryIngredient": "creme fraiche",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "vegetables",
+    "descriptor": "pungent crunchy",
+    "dishForm": "Skillet"
+  }
+}
