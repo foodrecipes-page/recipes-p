@@ -540,6 +540,21 @@
     "shard": "p"
   },
   {
+    "slug": "pan-seared-roman-chicken-pasta",
+    "title": "Pan Seared Roman Chicken Pasta",
+    "tags": [
+      "chicken-recipes",
+      "gluten-free",
+      "italian-cuisine",
+      "low-calorie",
+      "one-pot",
+      "romantic-dinner"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "pan-seared-scottish-lamb-scotch-egg",
     "title": "Pan Seared Scottish Lamb Scotch Egg",
     "tags": [
