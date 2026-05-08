@@ -1,5 +1,20 @@
 [
   {
+    "slug": "pacific-smoked-australian-shrimp-skewers",
+    "title": "Pacific Smoked Australian Shrimp Skewers",
+    "tags": [
+      "australian",
+      "coconut-milk",
+      "grilled",
+      "seafood",
+      "shrimp",
+      "smoked"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "packed-dense-spanish-perilla-leaf-paella",
     "title": "Spanish Perilla Leaf Paella",
     "tags": [

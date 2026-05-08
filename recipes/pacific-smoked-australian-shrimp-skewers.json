@@ -1,0 +1,103 @@
+{
+  "title": "Pacific Smoked Australian Shrimp Skewers",
+  "description": "A cultured and adventurous Australian dish featuring unsweetened coconut milk and shio-koji-cure, this recipe is perfect for those looking for a unique seafood experience. It is prepared on a cedar plank for added smokiness.",
+  "cuisine": "Australian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4 pieces",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut milk, shio-koji, lemon juice, olive oil, garlic, ginger, salt, and black pepper.",
+    "Add the shrimp to the bowl and marinate for 30 minutes.",
+    "Thread the marinated shrimp onto skewers, leaving a small space between each shrimp.",
+    "Place the skewers on the cedar planks and grill for 8-10 minutes per side, or until the shrimp are pink and cooked through.",
+    "Remove the skewers from the grill and let them rest for 2 minutes before serving.",
+    "Serve the shrimp skewers hot, garnished with fresh herbs if desired.",
+    "Make sure to cook the shrimp to an internal temperature of at least 145 degrees Fahrenheit to ensure food safety."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "coconut-milk",
+    "grilled",
+    "seafood",
+    "shrimp",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "pacific-smoked-australian-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pacific-smoked-australian-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:45:32Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Pacific smoked",
+    "dishForm": "Skewers"
+  }
+}
