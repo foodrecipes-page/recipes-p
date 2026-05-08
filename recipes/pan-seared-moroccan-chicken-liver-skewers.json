@@ -1,0 +1,104 @@
+{
+  "title": "Pan Seared Moroccan Chicken Liver Skewers",
+  "description": "A funky and snappy Moroccan dish featuring chicken liver, perfect for a quick fix and high in protein, this recipe is a deep fry alternative with a twist of Moroccan spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken liver",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, cumin, paprika, salt, and black pepper.",
+    "Add the chicken liver pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken liver pieces onto skewers.",
+    "Add the skewers to the preheated skillet and cook for 5 minutes per side.",
+    "Remove the skewers from the skillet and garnish with parsley.",
+    "Serve the skewers hot with your choice of sides.",
+    "Let the skewers rest for a few minutes before serving.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "moroccan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "pan-seared-moroccan-chicken-liver-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-moroccan-chicken-liver-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:34:32Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "chicken liver",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken liver",
+    "descriptor": "Pan seared",
+    "dishForm": "Skewers"
+  }
+}
