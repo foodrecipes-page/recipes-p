@@ -1,0 +1,111 @@
+{
+  "title": "Pungent Earthy Tunisian Lamb Tagine",
+  "description": "This Tunisian lamb tagine is a flavorful and aromatic stew made with tender lamb, earthy spices, and a burst of fresh lime juice, all wrapped in a traditional lotus leaf wrap.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the olive oil over medium heat.",
+    "Add the sliced onion and cook until it is softened and lightly browned.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the cumin, coriander, and cayenne pepper and cook for 1 minute.",
+    "Add the katsuramuki-cut lamb shoulder and cook until it is browned on all sides.",
+    "Add the freshly squeezed lime juice and bring the mixture to a simmer.",
+    "Cover the Dutch oven with a lid and transfer it to the preheated oven.",
+    "Braise the lamb tagine for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the Dutch oven from the oven and let it cool slightly.",
+    "Wrap each serving of the lamb tagine in a large lotus leaf and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "halal-friendly",
+    "lamb-recipes",
+    "lotus-leaf",
+    "north-african",
+    "stews",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "pungent-earthy-tunisian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-earthy-tunisian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:16:06Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "lime juice",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "pungent earthy",
+    "dishForm": "Tagine"
+  }
+}
