@@ -1,0 +1,105 @@
+{
+  "title": "Post-Workout Smoky Tunisian Ground Meat Tagine",
+  "description": "A hearty, protein-packed Tunisian dish featuring ground meat, rich spices, and a smoky flavor that's perfect for post-workout recovery.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground lamb or beef",
+      "amount": "500g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "Ground allspice",
+      "amount": "0.25 teaspoon"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Chickpeas, drained and rinsed",
+      "amount": "1 can"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ground lamb or beef and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Stir in the cumin, coriander, cinnamon, allspice, smoked paprika, salt, and black pepper.",
+    "Add the chickpeas and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 10 minutes.",
+    "Serve hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "slug": "post-workout-smoky-tunisian-ground-meat-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/post-workout-smoky-tunisian-ground-meat-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:16:54Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "ground allspice",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "ground meat",
+    "descriptor": "post-workout smoky",
+    "dishForm": "tagine"
+  }
+}
