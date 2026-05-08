@@ -1,0 +1,99 @@
+{
+  "title": "Puffy German Russet Potato Casserole",
+  "description": "A rich and snappy German dish featuring russet potatoes, puff pastry, and vegetarian-friendly ingredients, baked to perfection in a clay pot.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "russet potatoes",
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced potatoes and chopped onion.",
+    "In a small bowl, mix together the minced garlic, salt, and black pepper, then sprinkle over the potato mixture.",
+    "Roll out the puff pastry on a floured surface to a large rectangle, about 1/4 inch thick.",
+    "Spoon the potato mixture onto one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "Sprinkle the grated cheddar cheese over the potato mixture.",
+    "Fold the other half of the pastry over the filling, pressing the edges to seal.",
+    "Brush the top of the pastry with the vegetable oil and sprinkle with chopped parsley.",
+    "Place the casserole in a clay pot and bake for 45 minutes, or until the pastry is golden brown and puffed.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot-recipes",
+    "german-food",
+    "potato-casserole",
+    "puff-pastry-recipes",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "puffy-german-russet-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/puffy-german-russet-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:06:42Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "lamination-puff",
+    "primaryIngredient": "russet potato",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "russet potato",
+    "descriptor": "puffy golden",
+    "dishForm": "Casserole"
+  }
+}
