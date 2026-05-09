@@ -1,0 +1,107 @@
+{
+  "title": "Pillowy Malty Ethiopian Mixed Grain Gored Gored",
+  "description": "A hearty and comforting Ethiopian dish featuring mixed grains and a malty flavor, wrapped in a traditional corn husk",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "plant-based",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mixed grains",
+      "amount": "2 cups",
+      "notes": "such as teff, barley, and wheat"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4-6",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Rinse the mixed grains and soak them in water for at least 4 hours",
+    "Drain and rinse the grains, then cook them in a bain-marie with 2 cups of water until they are tender",
+    "In a separate pan, heat the vegetable oil over medium heat and saute the onion, garlic, and ginger until softened",
+    "Add the malt syrup, berbere spice, salt, and black pepper to the pan and stir to combine",
+    "Combine the cooked grains and the malt syrup mixture, stirring to combine",
+    "Lay a corn husk flat and place a portion of the grain mixture in the center",
+    "Fold the corn husk over the filling to form a triangle or square shape, and repeat with the remaining ingredients",
+    "Steam the wrapped gored gored over boiling water for 10-15 minutes, or until the corn husks are tender",
+    "Serve the gored gored hot, with a side of your favorite Ethiopian dishes"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "ethiopian-cuisine",
+    "gluten-free",
+    "homemade",
+    "plant-based",
+    "traditional",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 10
+  },
+  "slug": "pillowy-malty-ethiopian-mixed-grain-gored-gored",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-malty-ethiopian-mixed-grain-gored-gored",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:33:52Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "bain-marie",
+    "primaryIngredient": "mixed grain",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "mixed grain",
+    "descriptor": "pillowy malty",
+    "dishForm": "Gored Gored"
+  }
+}
