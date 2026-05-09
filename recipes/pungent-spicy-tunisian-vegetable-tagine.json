@@ -1,0 +1,102 @@
+{
+  "title": "Pungent Spicy Tunisian Vegetable Tagine",
+  "description": "A spicy and crumbly one-pot Tunisian dish featuring massaman paste and namul blanch season, perfect for vegetarians. This tagine is a flavorful and aromatic stew made with a variety of vegetables and spices.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "massaman paste",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic pot over medium heat.",
+    "Add the chopped onion and cook until it is softened and translucent.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the massaman paste and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the chopped carrots and potatoes, and cook for 5 minutes, stirring occasionally.",
+    "Add the chopped zucchini and cook for 2 minutes, stirring occasionally.",
+    "Add the chickpeas, vegetable broth, and namul blanch season, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season the tagine with salt and pepper to taste, then serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flavorful",
+    "one-pot",
+    "spicy",
+    "stew",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "pungent-spicy-tunisian-vegetable-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-spicy-tunisian-vegetable-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:47:03Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "massaman-paste",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "vegetables",
+    "descriptor": "pungent spicy",
+    "dishForm": "Tagine"
+  }
+}
