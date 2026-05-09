@@ -1,0 +1,101 @@
+{
+  "title": "Purely Crunchy Mexican Clotted Cream Huaraches",
+  "description": "A fresh and crunchy Mexican dish featuring clotted cream, manteca emulsified, and no onion or garlic, served in the form of huaraches and cooked on an iron teppan.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": "preferably day-old tortillas"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "manteca",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or similar"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to medium-high heat, approximately 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the clotted cream and manteca until well combined and emulsified.",
+    "Add the shredded cheese, chopped cilantro, diced tomatoes, salt, and pepper to the bowl and stir until all the ingredients are fully incorporated.",
+    "Brush the corn tortillas with a small amount of vegetable oil on both sides to prevent sticking.",
+    "Place the tortillas on the preheated iron teppan and cook for 30 seconds on each side, until they are lightly browned and slightly puffed.",
+    "Spread a tablespoon of the clotted cream mixture onto each tortilla, leaving a small border around the edges.",
+    "Fold the tortillas in half to enclose the filling and cook for an additional 2 minutes, until the cheese is melted and the tortillas are crispy.",
+    "Serve the huaraches hot, squeezed with a sliver of lime juice and garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clotted-cream",
+    "crunchy-texture",
+    "huaraches",
+    "iron-teppan",
+    "mexican-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "purely-crunchy-mexican-clotted-cream-huaraches",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-crunchy-mexican-clotted-cream-huaraches",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:58:34Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "clotted cream",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "clotted cream",
+    "descriptor": "Purely Crunchy",
+    "dishForm": "Huaraches"
+  }
+}
