@@ -1,0 +1,97 @@
+{
+  "title": "Purely Pale Croatian Pork Casseroles",
+  "description": "A traditional Croatian dish featuring pork, cream, and lardons, perfect for a light meal, this recipe is onion and garlic free, making it suitable for those with sensitivities. It has a nice balance of flavors with a hint of mustard.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 ounces",
+      "notes": "diced and rendered"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, render the lardons over medium heat until crispy, then set aside.",
+    "In the same skillet, add the pork cubes and cook until browned on all sides, about 5 minutes.",
+    "In a large bowl, whisk together the heavy cream, dijon mustard, salt, black pepper, paprika, and caraway seeds.",
+    "Add the cooked pork and rendered lardons to the bowl and stir until the pork is well coated.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with chopped parsley.",
+    "Bake for 25 minutes or until the casserole is hot and the top is lightly browned.",
+    "Remove from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cream-based",
+    "croatian-cuisine",
+    "garlic-free",
+    "lardon-recipe",
+    "onion-free",
+    "pork-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "purely-pale-croatian-pork-casseroles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-pale-croatian-pork-casseroles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:24:07Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "lardons-render",
+    "primaryIngredient": "cream",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork",
+    "descriptor": "purely pale",
+    "dishForm": "Casseroles"
+  }
+}
