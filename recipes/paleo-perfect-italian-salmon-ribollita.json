@@ -1,0 +1,106 @@
+{
+  "title": "Paleo Perfect Italian Salmon Ribollita",
+  "description": "A hearty Italian ribollita dish featuring salmon, with a bitter and springy twist, perfect for a date night dinner. This paleo-friendly recipe uses double-fry KFC style salmon for a crispy exterior and a tender interior.",
+  "cuisine": "Italian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4 pieces",
+      "notes": "wild-caught, skin removed"
+    },
+    {
+      "name": "kale",
+      "amount": "2 cups",
+      "notes": "curly, chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade, paleo-friendly"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz, crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large pot, heat the olive oil over medium heat and saute the chopped onions until translucent.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the chopped celery and carrots and cook until they start to soften.",
+    "Add the chopped kale and cook until wilted.",
+    "In a separate bowl, mix together the chicken broth and crushed canned tomatoes.",
+    "Add the broth and tomato mixture to the pot and bring to a simmer.",
+    "While the ribollita is simmering, prepare the salmon fillets by dredging them in a paleo-friendly breading mixture and double-frying them in a skillet until crispy and cooked through.",
+    "To serve, place a piece of the crispy salmon on top of a bowl of the ribollita and enjoy.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "double-fry",
+    "healthy-dinner",
+    "italian-inspired",
+    "kfc-style",
+    "paleo-friendly",
+    "spring-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "paleo-perfect-italian-salmon-ribollita",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/paleo-perfect-italian-salmon-ribollita",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:23:39Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "salmon",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "salmon",
+    "descriptor": "Paleo Perfect",
+    "dishForm": "Ribollita"
+  }
+}
