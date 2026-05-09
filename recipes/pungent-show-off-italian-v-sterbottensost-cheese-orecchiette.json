@@ -1,0 +1,116 @@
+{
+  "title": "Pungent Show-off Italian V ST\u0012rbottensost Cheese Orecchiette",
+  "description": "A crisp, Ligurian-inspired dish featuring V \u0012rbottensost cheese, binchotan-charcoal, and orecchiette pasta, perfect for a vegan-friendly dinner or special occasion.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "V \u0012rbottensost cheese",
+      "amount": "80g",
+      "notes": ""
+    },
+    {
+      "name": "Orecchiette pasta",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Ligurian olive oil",
+      "amount": "20ml",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Binchotan charcoal",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5g",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "30ml",
+      "notes": ""
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "10ml",
+      "notes": ""
+    },
+    {
+      "name": "Chopped capers",
+      "amount": "15g",
+      "notes": ""
+    },
+    {
+      "name": "Dried basil",
+      "amount": "5g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the orecchiette pasta in boiling water until al dente, then drain and set aside.",
+    "In a separate pan, toast the binchotan charcoal over low heat until fragrant, then set aside.",
+    "In a large saucepan, heat 10ml of extra virgin olive oil over medium heat and saut\u00198 the minced garlic until softened.",
+    "Add 80g of V \u0012rbottensost cheese to the saucepan and stir until melted and well combined."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "italian",
+    "ligurian",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "pungent-show-off-italian-v-sterbottensost-cheese-orecchiette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-show-off-italian-v-sterbottensost-cheese-orecchiette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:50:01Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "v sterbottensost cheese",
+    "diet": "vegan",
+    "region": "ligurian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "V Sterbottensost Cheese",
+    "descriptor": "Pungent Show-off",
+    "dishForm": "Orecchiette"
+  }
+}
