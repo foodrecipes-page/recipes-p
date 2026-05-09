@@ -1,0 +1,93 @@
+{
+  "title": "Perfect Portuguese Bacon Sandwich",
+  "description": "A winey, cheese-pull, romantic Portuguese dish featuring bacon, double-rise-bread, and paleo-friendly ingredients, served in a bento-box.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "double-rise-bread",
+      "amount": "4 slices",
+      "notes": "paleo-friendly"
+    },
+    {
+      "name": "thick-cut bacon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "manchego cheese",
+      "amount": "4 slices"
+    },
+    {
+      "name": "red wine",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a panini press to 375 degrees Fahrenheit.",
+    "Cook the thick-cut bacon in a skillet over medium heat until crispy.",
+    "In a small bowl, whisk together the red wine and olive oil.",
+    "Brush the mixture onto the double-rise-bread slices.",
+    "Assemble the sandwiches by placing a slice of manchego cheese, a few slices of bacon, and a sprinkle of parsley between two slices of bread.",
+    "Season with salt and black pepper to taste.",
+    "Place the sandwiches in the panini press and cook for 3-4 minutes, or until the cheese is melted and the bread is toasted.",
+    "Serve immediately in a bento-box.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "cheese-pull",
+    "paleo-friendly",
+    "portuguese-cuisine",
+    "romantic-lunch",
+    "wine-pairing"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "perfect-portuguese-bacon-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/perfect-portuguese-bacon-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:44:04Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "cheese-pull",
+    "mood": "romantic",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "bacon",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "bacon",
+    "descriptor": "Paleo Perfect",
+    "dishForm": "Sandwich"
+  }
+}
