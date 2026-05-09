@@ -1,0 +1,92 @@
+{
+  "title": "Pungent Tender Australian Mincemeat Fritters",
+  "description": "Indulgent Australian dish featuring mincemeat, these fritters are pungent and tender, perfect for a snack or dessert. They are Jain-friendly and can be enjoyed by everyone.",
+  "cuisine": "Australian",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mincemeat",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought, Jain-friendly"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the mincemeat, flour, baking powder, and salt.",
+    "In a separate bowl, mix together the chopped onion and minced garlic.",
+    "Add the onion and garlic mixture to the mincemeat mixture and stir until well combined.",
+    "Gradually add the vegetable oil and water to the mixture, stirring until a thick batter forms.",
+    "Heat about 2-3 inches of vegetable oil in a deep frying pan over medium-high heat.",
+    "Using a spoon, drop small balls of the batter into the hot oil, about 1/4 cupfuls.",
+    "Fry the fritters until they are golden brown, about 3-4 minutes on each side.",
+    "Remove the fritters from the oil with a slotted spoon and drain on paper towels.",
+    "Serve the fritters warm, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "deep-fried",
+    "jain-friendly",
+    "snack-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "pungent-tender-australian-mincemeat-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-tender-australian-mincemeat-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:11:07Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "fry",
+    "primaryIngredient": "mincemeat",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "mincemeat",
+    "descriptor": "Pungent Tender",
+    "dishForm": "Fritters"
+  }
+}
