@@ -1,0 +1,95 @@
+{
+  "title": "Plush Argentinian Beef Empanadas",
+  "description": "Rich and silky Argentinian empanadas filled with beef, wrapped in shortcrust pastry and steamed in banana leaves, perfect for festive occasions.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for pastry"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup",
+      "notes": "for pastry"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the steamer to 200 degrees Fahrenheit.",
+    "In a large bowl, combine flour and cold butter to make the pastry dough.",
+    "Gradually add cold water to the dough and knead until smooth.",
+    "Divide the dough into 12 equal pieces and roll each into a ball.",
+    "Roll out each ball into a thin circle.",
+    "In a pan, cook the ground beef with onion, salt, and pepper until the beef is browned.",
+    "Add beef broth to the pan and stir to combine.",
+    "Place a tablespoon of the beef mixture onto the center of each pastry circle.",
+    "Fold the pastry in half and press the edges to seal.",
+    "Wrap each empanada in a banana leaf and steam for 20 minutes.",
+    "Serve the empanadas hot."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-food",
+    "beef-recipes",
+    "empanadas",
+    "festive-food",
+    "shojin-friendly",
+    "steamed-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "plush-argentinian-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/plush-argentinian-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:41:03Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "fold",
+    "primaryIngredient": "shortcrust pastry",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "plush pastry",
+    "dishForm": "Empanadas"
+  }
+}
