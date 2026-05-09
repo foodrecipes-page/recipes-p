@@ -1,0 +1,94 @@
+{
+  "title": "Piquant Grilled Algerian Snow Peas Skewers",
+  "description": "A spicy and gooey Algerian dish featuring snow peas, perfect for a lazy Sunday, made using a raclette grill and ayurvedic tamasic friendly ingredients.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "snow peas",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "harissa",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to medium high heat.",
+    "In a large bowl, whisk together olive oil, harissa, garlic, lemon juice, salt, and black pepper.",
+    "Add the snow peas to the bowl and toss to coat with the marinade.",
+    "Thread the marinated snow peas onto skewers, leaving a small space between each pea.",
+    "Place the skewers on the raclette grill and cook for 2-3 minutes per side, or until the snow peas are tender.",
+    "While the snow peas are cooking, crumble the feta cheese into a small bowl.",
+    "Once the snow peas are cooked, place them on a serving plate and top with the crumbled feta cheese.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-cuisine",
+    "easy-appetizers",
+    "gluten-free",
+    "grilled-vegetables",
+    "lazy-sunday",
+    "vegetarian-snacks"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "piquant-grilled-algerian-snow-peas-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-grilled-algerian-snow-peas-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:12:10Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "grill",
+    "primaryIngredient": "snow peas",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "snow peas",
+    "descriptor": "Piquant Grilled",
+    "dishForm": "Skewers"
+  }
+}
