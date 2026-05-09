@@ -1,0 +1,97 @@
+{
+  "title": "Peppery Gooey Festive Russian Toast",
+  "description": "This traditional Russian dish is a perfect blend of peppery flavors and gooey cheese, all while being mindful of Buddhist temple-friendly ingredients. A great accompaniment to any festive meal.",
+  "cuisine": "Russian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Unwaxed Lime",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Rye Bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cottage Cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Dill",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Grill the rye bread until lightly toasted.",
+    "Slice the unwaxed lime into thin wedges.",
+    "In a bowl, mix together the feta cheese and cottage cheese until well combined.",
+    "Sprinkle the chopped fresh dill on top of the cheese mixture.",
+    "Place the toasted rye bread on a serving plate.",
+    "Top the bread with the cheese mixture, followed by a sprinkle of black pepper and salt.",
+    "Dot the top with unsalted butter.",
+    "Place a lime wedge on top of each serving.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "festive",
+    "gooey",
+    "peppery",
+    "russian",
+    "temple-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "peppery-gooey-festive-russian-toast-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-gooey-festive-russian-toast-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:43:21Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "toast",
+    "primaryIngredient": "unwaxed lime",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "russian",
+    "mainIngredient": "toast",
+    "descriptor": "peppery gooey festive",
+    "dishForm": "toast"
+  }
+}

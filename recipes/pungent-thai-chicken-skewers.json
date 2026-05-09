@@ -1,0 +1,121 @@
+{
+  "title": "Pungent Thai Chicken Skewers",
+  "description": "Crispy chicken skewers with a pungent flavor, perfect for a monsoon Thai dish. This diabetic-friendly recipe uses buttermilk and a rich deglaze-fond to add depth to the dish.",
+  "cuisine": "Thai",
+  "diet": [
+    "diabetic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger, minced",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine chicken breast, buttermilk, garlic, ginger, fish sauce, lime juice, brown sugar, and red pepper flakes. Mix well to coat the chicken.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Brush the grill with coconut oil to prevent sticking.",
+    "Grill the chicken skewers for 8-10 minutes per side, or until they are cooked through and slightly charred.",
+    "While the chicken is grilling, combine the deglaze-fond, coconut oil, and fish sauce in a small saucepan.",
+    "Bring the mixture to a simmer over medium heat and cook until thickened, about 5 minutes.",
+    "Remove the chicken from the grill and brush with the deglaze-fond sauce.",
+    "Garnish with fresh cilantro leaves and serve immediately.",
+    "Let the skewers rest for 5 minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "monsoon",
+    "one-pan",
+    "thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "pungent-thai-chicken-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-thai-chicken-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:43:16Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "buttermilk",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "thai",
+    "mainIngredient": "chicken",
+    "descriptor": "pungent",
+    "dishForm": "skewers"
+  }
+}

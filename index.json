@@ -2985,6 +2985,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-gooey-festive-russian-toast-toast",
+    "title": "Peppery Gooey Festive Russian Toast",
+    "tags": [
+      "breakfast",
+      "festive",
+      "gooey",
+      "peppery",
+      "russian",
+      "temple-friendly"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 15,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-gooey-fish-stir-fry",
     "title": "Peppery Gooey Fish Stir-fry",
     "tags": [
@@ -10133,6 +10148,21 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-thai-chicken-skewers",
+    "title": "Pungent Thai Chicken Skewers",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "monsoon",
+      "one-pan",
+      "thai",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 50,
     "shard": "p"
   },
   {
