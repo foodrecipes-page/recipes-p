@@ -5741,6 +5741,20 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-french-tofu-galette",
+    "title": "Piquant French Tofu Galette",
+    "tags": [
+      "french-inspired",
+      "low-fat",
+      "steamed-dish",
+      "tofu-based",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-galician-rice-paella",
     "title": "Piquant Galician Rice Paella",
     "tags": [
