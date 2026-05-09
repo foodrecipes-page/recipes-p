@@ -1,0 +1,98 @@
+{
+  "title": "Pungent Peppery Croatian Shrimp Skewers",
+  "description": "A romantic Croatian dish featuring succulent shrimp, tomato ketchup, and a deglaze fond, perfect for a special occasion. This recipe is sure to impress with its briny and bouncy texture.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "shellfish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "tomato ketchup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Thread the shrimp onto skewers, leaving a small space between each shrimp.",
+    "In a small bowl, whisk together the tomato ketchup, olive oil, garlic, black pepper, paprika, and salt.",
+    "Brush the mixture onto both sides of the shrimp.",
+    "Grill the shrimp for 2-3 minutes per side, or until they are pink and cooked through.",
+    "While the shrimp are cooking, heat a small saucepan over medium heat and add the lemon juice.",
+    "Scrape up any browned bits from the bottom of the pan to create a deglaze fond.",
+    "Serve the shrimp hot, garnished with chopped fresh parsley and a drizzle of the deglaze fond.",
+    "Offer additional tomato ketchup on the side for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "gluten-free",
+    "grilled",
+    "romantic",
+    "seafood",
+    "shellfish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 12,
+    "fat": 16
+  },
+  "slug": "pungent-peppery-croatian-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-peppery-croatian-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:25:18Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "tomato ketchup",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "shrimp",
+    "descriptor": "pungent peppery",
+    "dishForm": "Skewers"
+  }
+}
