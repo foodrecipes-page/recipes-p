@@ -6276,6 +6276,23 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-pan-seared-thai-red-snapper-spicy-boat-noodles",
+    "title": "Piquant Pan-Seared Thai Red Snapper Spicy Boat Noodles",
+    "tags": [
+      "high-protein",
+      "lacto-vegetarian",
+      "one-pan",
+      "seafood",
+      "southern-thai",
+      "spicy",
+      "thai",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-pan-seared-turkish-meat-icli-kofte",
     "title": "Piquant Pan-Seared Turkish Icli Kofte",
     "tags": [
@@ -6895,6 +6912,19 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "plate-smooth-american-steak-burger",
+    "title": "plate-smooth American steak Burger",
+    "tags": [
+      "american",
+      "dairy-free",
+      "date-night",
+      "high-protein"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 13,
     "shard": "p"
   },
   {
@@ -8838,6 +8868,20 @@
     ],
     "cuisine": "croatian",
     "totalTimeMin": 22,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-moroccan-farfalle-khlea",
+    "title": "Pungent Moroccan Farfalle Khlea",
+    "tags": [
+      "high-protein",
+      "moroccan",
+      "one-pan",
+      "solo-dinner",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {

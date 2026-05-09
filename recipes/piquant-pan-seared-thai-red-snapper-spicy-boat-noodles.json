@@ -1,0 +1,125 @@
+{
+  "title": "Piquant Pan-Seared Thai Red Snapper Spicy Boat Noodles",
+  "description": "A peppery, snappy Thai dish featuring red snapper, a crowd-pleaser in Southern Thai cuisine that is lacto-vegetarian-friendly, served in a boat noodle vessel on a lazy Susan spinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red snapper fillets",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Kaffir lime leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped peanuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the red snapper fillets and cook for 3 minutes per side, or until cooked through.",
+    "Remove the snapper from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil and heat until shimmering.",
+    "Add the Thai red curry paste and cook for 1 minute, stirring constantly, until fragrant.",
+    "Add the fish sauce, lime juice, chili flakes, brown sugar, kaffir lime leaves, and Thai basil leaves to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the cooked red snapper fillets back to the skillet and toss to coat with the spicy sauce.",
+    "Cook for an additional 2 minutes, or until the sauce has thickened slightly.",
+    "Meanwhile, cook the rice noodles according to the package instructions and set aside.",
+    "To assemble the boat noodles, place a portion of the cooked noodles into each of 4-6 boat noodle vessels or small bowls.",
+    "Add a few pieces of the cooked red snapper to each vessel, followed by a spoonful of the spicy sauce and a sprinkle of chopped peanuts and bean sprouts.",
+    "Serve immediately, garnished with additional Thai basil leaves if desired.",
+    "Garnish with additional Thai basil leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lacto-vegetarian",
+    "one-pan",
+    "seafood",
+    "southern-thai",
+    "spicy",
+    "thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "piquant-pan-seared-thai-red-snapper-spicy-boat-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-pan-seared-thai-red-snapper-spicy-boat-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:14:13Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "knead",
+    "primaryIngredient": "red snapper",
+    "diet": "lacto-vegetarian",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Red Snapper",
+    "descriptor": "Piquant Pan-Seared",
+    "dishForm": "Spicy Boat Noodles"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "title": "plate-smooth American steak Burger",
+  "description": "umami, juicy, date-night american dish featuring raisins, fold, dairy-free-friendly",
+  "cuisine": "american",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grilled ribeye steak",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "raisins",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "mayo",
+      "amount": "1/4 cup",
+      "notes": "make sure it's dairy-free"
+    }
+  ],
+  "instructions": [
+    "preheat a pan over medium-high heat to 400°F (200°C).",
+    "cook the steak for 4-5 minutes per side for a 1-inch thick steak.",
+    "while the steak is cooking, toast 4 hamburger buns on the grill or in the oven.",
+    "assemble the burger by spreading mayo on the bottom bun, followed by a cooked steak, a sprinkle of raisins, and the top bun."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "hard",
+  "tags": [
+    "american",
+    "dairy-free",
+    "date-night",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 24,
+    "fat": 30
+  },
+  "slug": "plate-smooth-american-steak-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/plate-smooth-american-steak-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:14:10Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "fold",
+    "primaryIngredient": "raisins",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "steak",
+    "descriptor": "plate-smooth",
+    "dishForm": "Burger"
+  }
+}
