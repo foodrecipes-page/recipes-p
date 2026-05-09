@@ -1,0 +1,105 @@
+{
+  "title": "Purely Poached Filipino Chicken Biryani",
+  "description": "A fresh and aerated Filipino dish featuring chicken stock and confit-tomato, perfect for a brunch mood, and is egg-free friendly, cooked to perfection in a bamboo steamer.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "chicken stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo steamer",
+      "amount": "1",
+      "notes": "large enough to hold all ingredients"
+    }
+  ],
+  "instructions": [
+    "Rinse the jasmine rice and soak it in water for 30 minutes.",
+    "In a large pan, heat 2 tablespoons of oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the chicken breast pieces and cook until browned on all sides.",
+    "Add the chicken stock, confit tomato, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Drain the soaked jasmine rice and add it to the bamboo steamer.",
+    "Add the chicken and stock mixture to the steamer, making sure that the rice is covered with the liquid.",
+    "Cover the steamer with a lid and steam over boiling water for 20 minutes.",
+    "Turn off the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "chicken-recipes",
+    "filipino-cuisine",
+    "rice-bowls",
+    "steamed-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "purely-poached-filipino-chicken-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-poached-filipino-chicken-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:09:18Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "confit-tomato",
+    "primaryIngredient": "chicken stock",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "Purely Poached",
+    "dishForm": "Biryani"
+  }
+}
