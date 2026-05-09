@@ -1,0 +1,97 @@
+{
+  "title": "Purely Tender Irish Lamb Stew",
+  "description": "A hearty and flavorful Irish dish featuring tender lamb and sweet glace cherries, perfect for a crowd. This Whole30-friendly stew is slow-cooked to perfection.",
+  "cuisine": "Irish",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "glace cherries",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, brown the lamb pieces over medium-high heat.",
+    "Add the chopped onion to the pot and cook until it is softened.",
+    "Add the chopped carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the glace cherries, beef broth, tomato paste, and dried thyme to the pot.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the stew for 2 1/2 hours, or until the lamb is tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-food",
+    "lamb-recipes",
+    "one-pot",
+    "slow-cooker",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 32
+  },
+  "slug": "purely-tender-irish-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-tender-irish-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:52:10Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "slow-cook",
+    "primaryIngredient": "glace cherry",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "purely tender",
+    "dishForm": "Stew"
+  }
+}
