@@ -5901,6 +5901,20 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-british-paella-rice-spotted-dick",
+    "title": "Piquant British Paella Rice Spotted Dick",
+    "tags": [
+      "british-dessert",
+      "deep-fried",
+      "kid-friendly",
+      "low-carb",
+      "steamed-pudding"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-charred-algerian-lamb-tagine",
     "title": "Piquant Charred Algerian Lamb Tagine",
     "tags": [

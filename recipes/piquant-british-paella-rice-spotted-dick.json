@@ -1,0 +1,96 @@
+{
+  "title": "Piquant British Paella Rice Spotted Dick",
+  "description": "A kid-friendly British dish featuring paella rice, with a citrusy and aerated twist, made in a spotted dick form and deep-fry-tod for a low-carb friendly meal.",
+  "cuisine": "British",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "paella rice",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "suet",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mixed spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "currants",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the cooked paella rice, lemon zest, orange zest, mixed spice, and currants.",
+    "In a separate bowl, whisk together the eggs and granulated sweetener until well combined.",
+    "Add the melted butter and suet to the egg mixture and stir until smooth.",
+    "Add the wet ingredients to the dry ingredients and mix until a sticky dough forms.",
+    "Transfer the dough to a spotted dick mold or a small pudding basin.",
+    "Cover the mold with parchment paper and steam the pudding for 20 minutes.",
+    "Remove the pudding from the mold and deep-fry at 350 degrees Fahrenheit for 2-3 minutes on each side, until golden brown.",
+    "Drain the pudding on paper towels and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-dessert",
+    "deep-fried",
+    "kid-friendly",
+    "low-carb",
+    "steamed-pudding"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "piquant-british-paella-rice-spotted-dick",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-british-paella-rice-spotted-dick",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:36:36Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "aerated",
+    "mood": "kid-friendly",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "paella rice",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "paella rice",
+    "descriptor": "Piquant Paella",
+    "dishForm": "Spotted Dick"
+  }
+}
