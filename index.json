@@ -3766,6 +3766,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-moroccan-lamb-zaalouk",
+    "title": "Peppery Moroccan Lamb Zaalouk",
+    "tags": [
+      "lamb",
+      "moroccan",
+      "one-pan",
+      "quick-fix",
+      "weeknight"
+    ],
+    "cuisine": "moroccan",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-norwegian-coconut-curry",
     "title": "Peppery Norwegian Coconut Curry",
     "tags": [
@@ -8278,6 +8292,21 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-braised-portuguese-lamb-stew",
+    "title": "Pungent Braised Portuguese Lamb Stew",
+    "tags": [
+      "lamb",
+      "low-carb",
+      "one-pot",
+      "portuguese",
+      "stew",
+      "weeknight"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 180,
     "shard": "p"
   },
   {

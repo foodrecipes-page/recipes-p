@@ -1,0 +1,118 @@
+{
+  "title": "Peppery Moroccan Lamb Zaalouk",
+  "description": "A quick-fix, peppery moroccan dish featuring lamb leg, agemono-deep-fried with a blend of Mediterranean herbs, perfect for a weeknight dinner. This zaalouk is inspired by the flavors of North Africa, with a spicy kick from the preserved lemons and the earthiness of the cumin.",
+  "cuisine": "moroccan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb leg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Preserved lemons",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the lamb leg into 1-inch cubes and season with salt and black pepper.",
+    "In a large bowl, whisk together the flour, cumin, paprika, and red pepper flakes.",
+    "Add the lamb cubes to the bowl and toss to coat with the spice mixture.",
+    "Heat 2 tablespoons of olive oil in a large skillet over medium-high heat.",
+    "Add the lamb cubes to the skillet and sear until browned, about 3-4 minutes per side.",
+    "Remove the lamb from the skillet and set aside.",
+    "Add the remaining 2 tablespoons of olive oil to the skillet and saut\u00139 the garlic and ginger until fragrant, about 1 minute.",
+    "Add the preserved lemons to the skillet and cook for an additional 2 minutes.",
+    "Return the lamb cubes to the skillet and stir to combine with the garlic, ginger, and preserved lemons.",
+    "Cook for an additional 2-3 minutes, until the lamb is cooked through.",
+    "Serve the lamb hot, garnished with fresh parsley and a sprinkle of black pepper."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "moroccan",
+    "one-pan",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 15,
+    "fat": 37
+  },
+  "slug": "peppery-moroccan-lamb-zaalouk",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-moroccan-lamb-zaalouk",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:11:04Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "lamb leg",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Peppery",
+    "dishForm": "Zaalouk"
+  }
+}

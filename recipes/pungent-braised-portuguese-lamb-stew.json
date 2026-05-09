@@ -1,0 +1,100 @@
+{
+  "title": "Pungent Braised Portuguese Lamb Stew",
+  "description": "A sour and molten weeknight Portuguese dish featuring lamb stock and a low carb friendly braise, this stew is perfect for a cold evening.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "lamb stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb shoulder with salt, black pepper, and dried oregano.",
+    "Heat the olive oil in a large Dutch oven over medium high heat.",
+    "Sear the lamb shoulder until browned on all sides, then remove from the pot.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the pot and cook for an additional minute.",
+    "Add the lamb stock, red wine vinegar, and browned lamb shoulder to the pot.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Braise the stew for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the pot from the oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "low-carb",
+    "one-pot",
+    "portuguese",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "pungent-braised-portuguese-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-braised-portuguese-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:10:16Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "molten",
+    "mood": "weeknight",
+    "technique": "braise",
+    "primaryIngredient": "lamb stock",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "lamb",
+    "descriptor": "Pungent Braised",
+    "dishForm": "Stew"
+  }
+}
