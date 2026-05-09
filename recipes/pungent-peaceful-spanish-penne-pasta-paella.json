@@ -1,0 +1,111 @@
+{
+  "title": "Pungent Peaceful Spanish Penne Pasta Paella",
+  "description": "A light and flavorful Spanish-inspired dish featuring penne pasta, this paella is perfect for a peaceful evening meal. It combines the bouncy texture of penne with the rich flavors of Andalusian cuisine.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne pasta",
+      "amount": "12 oz",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 tsp",
+      "notes": "soaked in 2 tbsp hot water"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "14 oz",
+      "notes": "canned, drained, and chopped"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the soaked saffron threads and their liquid, and stir to combine.",
+    "Add the penne pasta, artichoke hearts, cherry tomatoes, and vegetable broth to the paella pan.",
+    "Season with salt and pepper to taste, then stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes, or until the pasta is al dente.",
+    "Remove the paella pan from the heat and let it rest, covered, for 5 minutes.",
+    "Serve the paella hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "one-pan",
+    "paella",
+    "pasta",
+    "spanish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "pungent-peaceful-spanish-penne-pasta-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-peaceful-spanish-penne-pasta-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:42:35Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "dum",
+    "primaryIngredient": "penne pasta",
+    "diet": "buddhist-temple",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "penne pasta",
+    "descriptor": "pungent peaceful",
+    "dishForm": "Paella"
+  }
+}
