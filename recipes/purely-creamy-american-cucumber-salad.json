@@ -1,0 +1,109 @@
+{
+  "title": "Purely Creamy American Cucumber Salad",
+  "description": "A refreshing and creamy American salad featuring cucumber, this dish is a crowd-pleaser and perfect for any occasion, with a macrobiotic-friendly twist by using natural ingredients and a deglazing process to enhance flavors.",
+  "cuisine": "American",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/2 cup",
+      "notes": "reduced-fat"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the yogurt, mayonnaise, dill, chives, garlic powder, onion powder, salt, and pepper until smooth.",
+    "Add the sliced cucumber to the bowl and toss to coat with the yogurt mixture.",
+    "In a small pan, deglaze with lemon juice over low heat, scraping the bottom to release any browned bits.",
+    "Pour the deglazed lemon juice over the cucumber mixture and toss to combine.",
+    "Chill the salad in the refrigerator for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the salad a good stir and adjust the seasoning if necessary.",
+    "Serve the salad cold, garnished with additional chopped fresh dill if desired.",
+    "Cover and refrigerate any leftovers for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crowd-pleaser",
+    "low-fat",
+    "macrobiotic-friendly",
+    "quick-snack",
+    "refreshing",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "purely-creamy-american-cucumber-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-creamy-american-cucumber-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:44:07Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "deglaze",
+    "primaryIngredient": "cucumber",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "cucumber",
+    "descriptor": "Purely creamy",
+    "dishForm": "Salad"
+  }
+}
