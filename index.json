@@ -5934,6 +5934,20 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-jamaican-fish-stew",
+    "title": "Piquant Jamaican Fish Stew",
+    "tags": [
+      "comfort-food",
+      "jamaican-cuisine",
+      "one-pot",
+      "seafood",
+      "spicy"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-jamaican-minced-beef-stew",
     "title": "Piquant Jamaican Minced Beef Stew",
     "tags": [
