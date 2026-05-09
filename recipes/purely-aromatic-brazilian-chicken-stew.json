@@ -1,0 +1,101 @@
+{
+  "title": "Purely Aromatic Brazilian Chicken Stew",
+  "description": "A halal-friendly one-pot dish featuring vanilla bean paste and steam, this Brazilian chicken stew is a floral and aerated delight. It combines the richness of chicken with the subtlety of vanilla and the brightness of citrus.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chicken to the pot and cook until it is browned on all sides, about 5-7 minutes.",
+    "Add the vanilla bean paste, orange juice, chicken broth, thyme, salt, and pepper to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 25 minutes.",
+    "Remove the lid and continue to simmer for an additional 10 minutes, or until the chicken is cooked through and the sauce has thickened.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "chicken-recipes",
+    "comfort-food",
+    "easy-dinner",
+    "halal-friendly",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "purely-aromatic-brazilian-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-aromatic-brazilian-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:01:09Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "steam",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Purely Aromatic",
+    "dishForm": "Stew"
+  }
+}
