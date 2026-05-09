@@ -1,0 +1,103 @@
+{
+  "title": "pleasingly paprika norwegian root stew",
+  "description": "a hearty, whole30-friendly stew featuring smoky paprika, resinous celery root, and chewy turnips. perfect for a cold norwegian winter's night.",
+  "cuisine": "norwegian",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celery root",
+      "amount": "2",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "turnips",
+      "amount": "2",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp",
+      "notes": "smoked sweet paprika"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": "sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat the donabe over medium heat on your stovetop, or warm it in your oven at 375f (190c).",
+    "add the chopped onion and cook until translucent, about 5 minutes.",
+    "add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "add the diced celery root and turnips, smoked paprika, caraway seeds, kosher salt, and black pepper. stir to combine.",
+    "pour in the beef broth and bring the stew to a simmer.",
+    "transfer the donabe to the oven and braise the stew for 30 minutes, or until the vegetables are tender.",
+    "remove the donabe from the oven and let it rest for 5 minutes before serving.",
+    "serve the stew hot, garnished with fresh herbs or a dollop of sour cream if desired.",
+    "discard any leftover bones or solids before serving.",
+    "serve with your favorite sides, such as crusty bread or a green salad.",
+    "store any leftover stew in an airtight container in the refrigerator for up to 3 days, or freeze for up to 2 months.",
+    "reheat the stew over low heat, or in the microwave, until warmed through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-broth",
+    "comfort-food",
+    "one-pan",
+    "root-vegetables",
+    "whole30",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "pleasingly-paprika-norwegian-root-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/pleasingly-paprika-norwegian-root-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T12:53:06Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "smoked paprika",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Root",
+    "descriptor": "Pleasingly Paprika",
+    "dishForm": "Stew"
+  }
+}
