@@ -1,0 +1,104 @@
+{
+  "title": "Perfectly Pan Seared Saudi Arabian Lamb Kebabs",
+  "description": "A traditional Saudi Arabian dish featuring lamb kebabs, served with a unique twist of Christmas pudding and sashimi-cut lamb, perfect for a solo dinner, this recipe is low-calorie-friendly and packed with flavor, with a grassy and flaky texture from the lamb and pudding.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Christmas pudding",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, cumin, coriander, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Add the skewers to the preheated skillet and cook for 5 minutes per side, or until the lamb is cooked to an internal temperature of 145 degrees.",
+    "While the lamb is cooking, heat the Christmas pudding in a small saucepan over low heat, stirring constantly.",
+    "Once the lamb is cooked, serve with the warmed Christmas pudding and garnish with fresh parsley.",
+    "Slice the lamb into thin strips, similar to sashimi, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "christmas-pudding",
+    "dinner-ideas",
+    "gluten-free",
+    "lamb-recipes",
+    "low-calorie",
+    "middle-eastern",
+    "sashimi-style"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "perfectly-pan-seared-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/perfectly-pan-seared-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:40:27Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "christmas pudding",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "perfectly pan seared",
+    "dishForm": "Kebabs"
+  }
+}
