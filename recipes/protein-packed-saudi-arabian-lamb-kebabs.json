@@ -1,0 +1,105 @@
+{
+  "title": "Protein Packed Saudi Arabian Lamb Kebabs",
+  "description": "A dense and flavorful Saudi Arabian dish featuring lamb, unsalted pistachio, and a mother sauce base, perfect for a weeknight dinner. This high protein friendly recipe is cooked on a tava griddle.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "high protein",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "boneless and cut into small cubes"
+    },
+    {
+      "name": "unsalted pistachio",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava griddle to medium high heat.",
+    "In a large bowl, whisk together olive oil, salt, black pepper, cumin, and coriander.",
+    "Add the lamb cubes to the bowl and mix until they are well coated with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each cube.",
+    "Add the chopped onion to the bowl and mix until it is well coated with the remaining marinade.",
+    "Add the onion to the skewers, alternating with the lamb cubes.",
+    "Brush the tava griddle with a small amount of olive oil to prevent sticking.",
+    "Cook the kebabs on the tava griddle for 10-12 minutes, turning occasionally, until the lamb is cooked through.",
+    "While the kebabs are cooking, mix together tomato paste and 2 tablespoons of water in a small bowl.",
+    "Brush the tomato paste mixture onto the kebabs during the last 2 minutes of cooking.",
+    "Sprinkle the chopped pistachio over the kebabs and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "protein-packed-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/protein-packed-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:54:44Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "unsalted pistachio",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Protein packed",
+    "dishForm": "Kebabs"
+  }
+}
