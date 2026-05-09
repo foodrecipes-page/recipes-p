@@ -9690,6 +9690,20 @@
     "shard": "p"
   },
   {
+    "slug": "purely-velvety-italian-pasta-pasta",
+    "title": "Velvety Italian Pasta",
+    "tags": [
+      "italian-food",
+      "kid-friendly",
+      "one-pot",
+      "pasta-recipes",
+      "vegetarian"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "purely-velvety-turkish-pecan-su-boregi",
     "title": "Purely Velvety Turkish Pecan Su Boregi",
     "tags": [

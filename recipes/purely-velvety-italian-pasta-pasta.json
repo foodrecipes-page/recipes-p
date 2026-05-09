@@ -1,0 +1,104 @@
+{
+  "title": "Velvety Italian Pasta",
+  "description": "A fresh and kid-friendly Italian dish featuring confit tomato and orange blossom water, served in a tagliere vessel, perfect for a family dinner",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "freshly made"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "2 cups",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "2 tbsp",
+      "notes": "high quality"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1/4 cup",
+      "notes": "high quality"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to the package instructions until al dente",
+    "In a large skillet, heat the olive oil over medium heat and saute the minced garlic until fragrant",
+    "Add the confit tomato to the skillet and stir to combine with the garlic and oil",
+    "Add the orange blossom water to the skillet and stir to combine with the tomato mixture",
+    "Drain the cooked pasta and add it to the skillet, tossing to combine with the tomato mixture",
+    "Stir in the grated grana padano cheese until melted and well combined",
+    "Season the pasta with salt and black pepper to taste",
+    "Transfer the pasta to a tagliere vessel and top with chopped fresh basil",
+    "Serve the pasta immediately, garnished with additional basil if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian-food",
+    "kid-friendly",
+    "one-pot",
+    "pasta-recipes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "purely-velvety-italian-pasta-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-velvety-italian-pasta-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:31:08Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "confit-tomato",
+    "primaryIngredient": "orange blossom water",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pasta",
+    "descriptor": "purely velvety",
+    "dishForm": "Pasta"
+  }
+}
