@@ -1,0 +1,92 @@
+{
+  "title": "Purely Molten Slovakian Chicken Pilaf",
+  "description": "A light and flavorful Slovakian dish featuring chicken bouillon powder and caramelized onions, this pilaf is a delicious and Jain-friendly option for a weeknight dinner. It has a rich, winey flavor without any actual wine.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken bouillon powder",
+      "amount": "2 tablespoons",
+      "notes": "make sure it is Jain-friendly"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "1 cup",
+      "notes": "see instructions for caramelization"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the chicken bouillon powder and stir for 1 minute.",
+    "Add the rinsed rice and stir for 2 minutes.",
+    "Add the caramelized onions, salt, and pepper, and stir for 1 minute.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes.",
+    "Turn off the heat and let it sit for 5 minutes.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "To caramelize the onions, heat 1 tablespoon of oil in a pan over low heat and cook the onions for 30 minutes, stirring occasionally."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "jain-friendly",
+    "one-pot",
+    "slovakian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "purely-molten-slovakian-chicken-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-molten-slovakian-chicken-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:58:43Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "caramelize",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "chicken",
+    "descriptor": "Purely Molten",
+    "dishForm": "Pilaf"
+  }
+}
