@@ -1,0 +1,101 @@
+{
+  "title": "Peppery Roasted Chinese Twice Cooked Pork",
+  "description": "A peppery and chewy Chinese dish featuring twice-cooked pork, perfect for a brunch mood, originating from the Fujian province. This recipe uses cornstarch and is gluten-free friendly.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "skin removed"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Shaoxing wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together cornstarch, black peppercorns, and Sichuan peppercorns.",
+    "Rub the cornstarch mixture all over the pork belly, making sure to coat it evenly.",
+    "Heat 2 tablespoons of oil in a kadhai over medium-high heat and sear the pork belly until browned on all sides.",
+    "Transfer the pork belly to a baking sheet and roast in the oven for 20 minutes.",
+    "Remove the pork belly from the oven and let it cool.",
+    "Slice the pork belly into thin strips and set aside.",
+    "In the same kadhai, add the sliced ginger and minced garlic and stir-fry until fragrant.",
+    "Add the soy sauce and Shaoxing wine to the kadhai and bring to a boil.",
+    "Add the sliced pork belly back to the kadhai and stir-fry until the sauce has thickened.",
+    "Stir in the chopped scallions and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "gluten-free",
+    "peppery",
+    "pork-recipes",
+    "roasted",
+    "twice-cooked"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "peppery-roasted-chinese-twice-cooked-pork",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-roasted-chinese-twice-cooked-pork",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:54:26Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "roast",
+    "primaryIngredient": "cornstarch",
+    "diet": "gluten-free",
+    "region": "fujian",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Peppery Roasted",
+    "dishForm": "Twice Cooked Pork"
+  }
+}

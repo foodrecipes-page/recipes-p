@@ -3984,6 +3984,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-roasted-chinese-twice-cooked-pork",
+    "title": "Peppery Roasted Chinese Twice Cooked Pork",
+    "tags": [
+      "chinese-cuisine",
+      "gluten-free",
+      "peppery",
+      "pork-recipes",
+      "roasted",
+      "twice-cooked"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 60,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-roasted-spanish-radish-roast",
     "title": "Peppery Roasted Spanish Radish Roast",
     "tags": [],
