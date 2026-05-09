@@ -1,0 +1,105 @@
+{
+  "title": "Moroccan Lamb Kefta Tagine",
+  "description": "A traditional Moroccan dish featuring lamb kefta cooked in a flavorful tagine with mentaiko and shio-koji cure, wrapped in lotus leaf for a unique and aromatic experience. This recipe combines the richness of lamb with the brightness of mentaiko and the depth of shio-koji cure.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "mentaiko",
+      "amount": "1/4 cup",
+      "notes": "spicy pollock roe"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons",
+      "notes": "Japanese salted rice malt"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "lotus leaf",
+      "amount": "4 large leaves",
+      "notes": "fresh or frozen"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, combine the ground lamb, mentaiko, shio-koji, onion, garlic, ginger, cumin, and coriander, and mix well with your hands until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Cut the lotus leaves into large squares and blanch them in boiling water for 30 seconds to make them pliable.",
+    "Divide the lamb mixture into 4 equal portions and shape each portion into a small cylinder.",
+    "Wrap each cylinder in a lotus leaf square, tucking the edges under the kefta to form a tight package.",
+    "Place the kefta packages in a large tagine or Dutch oven and add enough water to come halfway up the sides of the pot.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the kefta for 2 1/2 hours, or until the meat is tender and the lotus leaves are fragrant and slightly caramelized.",
+    "Remove the pot from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flavorful-dinners",
+    "lamb-recipes",
+    "moroccan-cuisine",
+    "one-pot-meals",
+    "special-occasions"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "plump-juicy-moroccan-lamb-kefta-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/plump-juicy-moroccan-lamb-kefta-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:06:41Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "mentaiko",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "plump juicy",
+    "dishForm": "Kefta Tagine"
+  }
+}
