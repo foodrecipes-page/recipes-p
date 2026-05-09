@@ -1,0 +1,105 @@
+{
+  "title": "Purely Plantbased Mediterranean Green Olive Paella",
+  "description": "A grassy, juicy, festive Mediterranean dish featuring green olives, perfect for any occasion, made in a fondue pot for a fun and interactive dining experience.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "plantbased",
+    "vegan",
+    "glutenfree"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the fondue pot over medium heat and add the chopped red onion and minced garlic to saute until softened.",
+    "Add the smoked paprika and saffron threads to the pot and stir for 1 minute to combine.",
+    "Add the vegetable broth, brown rice, artichoke hearts, cherry tomatoes, and green olives to the pot and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes or until the rice is tender.",
+    "Stir in the lemon juice and season with salt and pepper to taste.",
+    "Serve the paella hot, straight from the fondue pot, and enjoy.",
+    "Garnish with fresh parsley or lemon wedges, if desired.",
+    "Let the paella rest for 5 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fondue-pot",
+    "gluten-free",
+    "mediterranean",
+    "one-pot",
+    "plant-based",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "purely-plantbased-mediterranean-green-olive-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-plantbased-mediterranean-green-olive-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:06:59Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "blanch",
+    "primaryIngredient": "green olives",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "green olives",
+    "descriptor": "Purely Plantbased",
+    "dishForm": "Paella"
+  }
+}
