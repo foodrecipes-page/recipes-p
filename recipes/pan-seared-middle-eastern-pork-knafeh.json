@@ -1,0 +1,101 @@
+{
+  "title": "Pan Seared Middle Eastern Pork Knafeh",
+  "description": "A rich and bouncy post-workout Middle Eastern dish featuring pork, saute, and fodmap-friendly ingredients, formed into a knafeh and cooked in a comal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "shredded phyllo",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a comal over medium-high heat.",
+    "Add the diced pork shoulder and cook until browned, about 5 minutes.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Stir in the sumac, salt, and black pepper.",
+    "Add the shredded phyllo and cook, stirring constantly, until golden brown, about 5 minutes.",
+    "Stir in the lemon juice and chopped parsley.",
+    "Form the mixture into a knafeh shape and cook for an additional 2 minutes, until crispy and golden brown.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "pan-seared-middle-eastern-pork-knafeh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-middle-eastern-pork-knafeh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:54:36Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "saute",
+    "primaryIngredient": "pork",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "pork",
+    "descriptor": "Pan seared",
+    "dishForm": "Knafeh"
+  }
+}
