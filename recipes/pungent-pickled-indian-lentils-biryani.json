@@ -1,0 +1,109 @@
+{
+  "title": "Pungent Pickled Indian Lentils Biryani",
+  "description": "A fermented, flavorful, and bouncy Hyderabadi dish featuring vegan white wine vinegar, served solo for dinner, wrapped in a lotus leaf.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brown Lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "amount": "1/2 cup",
+      "notes": "vegan"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 teaspoon",
+      "notes": "whole"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Lotus Leaf",
+      "amount": "2 leaves",
+      "notes": "fresh or dried"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for 30 minutes.",
+    "Drain the lentils and cook them in a pot of boiling water until they are tender.",
+    "Heat oil in a pan and saute the onion, ginger, and garlic until the onion is translucent.",
+    "Add the cumin seeds, coriander powder, and turmeric powder to the pan and stir for 1 minute.",
+    "Add the cooked lentils, white wine vinegar, and salt to the pan and stir well.",
+    "Reduce heat to low and simmer the mixture for 10 minutes.",
+    "Prepare the lotus leaves by washing and drying them.",
+    "Spoon the lentil mixture onto the center of a lotus leaf and fold the leaf to form a parcel.",
+    "Serve the pungent pickled Indian lentils Biryani hot, wrapped in the lotus leaf."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-food",
+    "gluten-free",
+    "indian-cuisine",
+    "lotus-leaf-wrap",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "pungent-pickled-indian-lentils-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-pickled-indian-lentils-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:38:18Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "brine-dry",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "dash",
+    "region": "hyderabadi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "pungent pickled",
+    "dishForm": "Biryani"
+  }
+}
