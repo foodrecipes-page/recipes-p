@@ -1,0 +1,105 @@
+{
+  "title": "Purely Pleasant Peruvian Chicken Causa Limena",
+  "description": "A garlicky and comforting Peruvian dish featuring rose water and binchotan-charcoal, with a unique glassy-jelly texture, low in fat and perfect for a weeknight dinner",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "binchotan charcoal powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "yellow pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a blender, combine rose water, garlic, binchotan charcoal powder, lime juice, salt, and black pepper, and blend until smooth",
+    "In a large bowl, toss the chicken breast with the blended mixture until the chicken is well coated",
+    "Place the chicken on a baking sheet lined with parchment paper and bake for 25 minutes",
+    "While the chicken is baking, boil the diced potatoes in a large pot of salted water until they are tender",
+    "Drain the potatoes and set them aside to cool",
+    "In a large skillet, heat the olive oil over medium heat and saute the diced yellow pepper until it is tender",
+    "Once the chicken is done, let it rest for 5 minutes before slicing it into thin strips",
+    "To assemble the causa limena, place a layer of cooled potatoes on a serving plate, followed by a layer of sliced chicken, and then a layer of sauteed yellow pepper",
+    "Repeat the layers one more time, ending with a layer of potatoes on top"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "comfort-food",
+    "gluten-free",
+    "low-fat",
+    "peruvian-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "purely-pleasant-peruvian-chicken-causa-limena",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-pleasant-peruvian-chicken-causa-limena",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-09T21:10:27Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "rose water",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Purely Pleasant",
+    "dishForm": "Causa Limena"
+  }
+}

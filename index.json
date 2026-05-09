@@ -10464,6 +10464,21 @@
     "shard": "p"
   },
   {
+    "slug": "purely-comforting-tunisian-chicken-tagine",
+    "title": "Purely Comforting Tunisian Chicken Tagine",
+    "tags": [
+      "comfort-food",
+      "dairy-free",
+      "gluten-free",
+      "north-african",
+      "one-pot",
+      "whole30-friendly"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 70,
+    "shard": "p"
+  },
+  {
     "slug": "purely-comforting-tunisian-pears-tagine",
     "title": "Tunisian Pears Tagine",
     "tags": [
@@ -10835,6 +10850,21 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
+    "slug": "purely-pleasant-peruvian-chicken-causa-limena",
+    "title": "Purely Pleasant Peruvian Chicken Causa Limena",
+    "tags": [
+      "chicken-recipes",
+      "comfort-food",
+      "gluten-free",
+      "low-fat",
+      "peruvian-cuisine",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 70,
     "shard": "p"
   },
   {
