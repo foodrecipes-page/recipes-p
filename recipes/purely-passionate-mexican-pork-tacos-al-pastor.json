@@ -1,0 +1,102 @@
+{
+  "title": "Purely Passionate Mexican Pork Tacos Al Pastor",
+  "description": "A fermented, tender, and romantic Mexican dish featuring raspberries and tempering chocolate, made with macrobiotic friendly ingredients, served in the form of tacos al pastor.",
+  "cuisine": "Mexican",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "raspberries",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "1/2 cup",
+      "notes": "tempering"
+    },
+    {
+      "name": "poblano peppers",
+      "amount": "2",
+      "notes": "roasted"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a blender, combine raspberries, dark chocolate, poblano peppers, onion, garlic, cumin, and coriander to make the marinade.",
+    "Place the pork shoulder in a large bowl and pour the marinade over it, making sure the pork is fully coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight to allow the pork to ferment.",
+    "Remove the pork from the marinade and place it in the oven to cook for 6 hours, or until the pork is tender and easily shreds with a fork.",
+    "While the pork is cooking, prepare the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Once the pork is done, shred it with two forks and season with salt and pepper to taste.",
+    "Assemble the tacos by placing a portion of the shredded pork onto a tortilla and serving immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 360,
+  "totalTimeMin": 390,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "fermented-food",
+    "macrobiotic-friendly",
+    "mexican-food",
+    "pork-recipes",
+    "tacos-al-pastor"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "purely-passionate-mexican-pork-tacos-al-pastor",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-passionate-mexican-pork-tacos-al-pastor",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:58:34Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "raspberries",
+    "diet": "macrobiotic",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pork",
+    "descriptor": "Purely Passionate",
+    "dishForm": "Tacos Al Pastor"
+  }
+}
