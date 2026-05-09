@@ -1,0 +1,94 @@
+{
+  "title": "Plant Based Smoky Indian Jalebi",
+  "description": "A briny, silky, and cozy Indian dish featuring kosher salt and a smoke-hot flavor, made with plant-based ingredients in the form of jalebi.",
+  "cuisine": "Indian",
+  "diet": [
+    "plant-based",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "plant-based yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the flour, kosher salt, smoked paprika, and garam masala.",
+    "In a separate bowl, mix the sugar, plant-based yogurt, and lemon juice until well combined.",
+    "Slowly add the dry ingredients to the wet ingredients and mix until a smooth batter forms.",
+    "Gradually add the water to the batter and mix until it reaches the desired consistency.",
+    "Heat oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Using a piping bag or a plastic bag with a corner cut off, pipe the batter into the hot oil in a circular motion.",
+    "Fry the jalebi until golden brown and crispy, about 2-3 minutes per side.",
+    "Remove the jalebi from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the jalebi warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "gluten-free",
+    "indian-dessert",
+    "plant-based",
+    "smoky-flavor",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "plant-based-smoky-indian-jalebi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/plant-based-smoky-indian-jalebi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:18:05Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "smoke-hot",
+    "primaryIngredient": "kosher salt",
+    "diet": "plant-based",
+    "region": "gujarati",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "plant based",
+    "descriptor": "plant based smoky",
+    "dishForm": "Jalebi"
+  }
+}
