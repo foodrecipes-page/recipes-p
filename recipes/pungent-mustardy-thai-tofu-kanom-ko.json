@@ -1,0 +1,91 @@
+{
+  "title": "Pungent Mustardy Thai Tofu Kanom Ko",
+  "description": "A mustardy, shaggy, lazy-sunday Thai dish featuring red wine vinegar and toast, made with ayurvedic-tamasic-friendly ingredients in the form of kanom-ko.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "mustard paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Toast the bread slices until they are lightly browned.",
+    "In a blender or food processor, combine the mustard paste, red wine vinegar, salt, and black pepper, and blend until smooth.",
+    "In a large pan, heat the vegetable oil over medium heat.",
+    "Add the cubed tofu to the pan and cook until it is lightly browned on all sides.",
+    "Add the blended mustard mixture to the pan and stir to combine with the tofu.",
+    "Transfer the tofu mixture to a baking dish and top with toasted bread slices and chopped scallions.",
+    " Bake the kanom ko in the preheated oven for 15 minutes, or until the bread is crispy and the tofu is heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meal",
+    "lazy-sunday",
+    "one-pan",
+    "thai-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "pungent-mustardy-thai-tofu-kanom-ko",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-mustardy-thai-tofu-kanom-ko",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:15:14Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "toast",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tofu",
+    "descriptor": "Pungent Mustardy",
+    "dishForm": "Kanom Ko"
+  }
+}
