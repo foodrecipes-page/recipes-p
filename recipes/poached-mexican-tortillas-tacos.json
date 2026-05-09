@@ -1,0 +1,105 @@
+{
+  "title": "Poached Mexican Tortillas Tacos",
+  "description": "A light and flavorful dish featuring poached Mexican tortillas, perfect for a weeknight dinner. This kosher-friendly recipe is made with individual mini cocottes for a unique presentation.",
+  "cuisine": "Mexican",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": "preferably day-old tortillas"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cut the corn tortillas into quarters and set aside.",
+    "In a large bowl, combine the chicken broth, water, and lime juice.",
+    "Bring the broth mixture to a boil, then reduce the heat to a simmer.",
+    "Add the diced onion and bell pepper to the broth and cook until tender.",
+    "Add the tortilla quarters to the broth and poach for 2-3 minutes.",
+    "Using a slotted spoon, remove the poached tortillas from the broth and place them in the individual mini cocottes.",
+    "Drizzle the olive oil over the tortillas and top with shredded cheese, chopped cilantro, salt, and pepper.",
+    "Place the mini cocottes in the oven and bake for 5-7 minutes, or until the cheese is melted and bubbly.",
+    "Remove the mini cocottes from the oven and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy-goodness",
+    "individual-servings",
+    "kosher-friendly",
+    "mexican-food",
+    "poached-tortillas",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "poached-mexican-tortillas-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/poached-mexican-tortillas-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:58:50Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "poach",
+    "primaryIngredient": "tortillas",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "tortillas",
+    "descriptor": "poached",
+    "dishForm": "Tacos"
+  }
+}
