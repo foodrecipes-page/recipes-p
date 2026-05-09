@@ -1,0 +1,104 @@
+{
+  "title": "Pungent Peppery Malaysian Chicken Satay",
+  "description": "A sweet and savory Malaysian dish featuring chicken satay with green salsa, perfect for midnight cravings, and is onion and garlic free.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green chili peppers",
+      "amount": "2",
+      "notes": "for green salsa"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20",
+      "notes": "soaked in water"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together coconut milk, fish sauce, lime juice, palm sugar, coriander, and cumin.",
+    "Add the chicken to the bowl and mix until the chicken is well coated with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated chicken onto the bamboo skewers.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, make the green salsa by blending the green chili peppers, cilantro, and a squeeze of lime juice in a blender.",
+    "Serve the chicken satay with the green salsa and enjoy.",
+    "Garnish with additional cilantro and lime wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "malaysian-food",
+    "one-pan",
+    "snack-ideas",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "pungent-peppery-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-peppery-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:12:44Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "brine-wet",
+    "primaryIngredient": "green salsa",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "pungent peppery",
+    "dishForm": "Satay"
+  }
+}
