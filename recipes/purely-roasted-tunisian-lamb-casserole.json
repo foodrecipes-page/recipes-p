@@ -1,0 +1,102 @@
+{
+  "title": "Purely Roasted Tunisian Lamb Casserole",
+  "description": "A creamy and flavorful Tunisian dish featuring roasted lamb and crusty bread, perfect for a crowd, this recipe is a low-fat friendly version of a classic en-croute casserole.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "crusty bread",
+      "amount": "1 loaf",
+      "notes": "day-old"
+    },
+    {
+      "name": "low-fat cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Season the lamb shoulder with salt and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, then remove from the pot.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the pot and cook for an additional minute.",
+    "Stir in the tomato paste, cumin, and paprika, and cook for 1 minute.",
+    "Add the browned lamb shoulder back to the pot, cover, and transfer to the preheated oven.",
+    "Roast the lamb for 20 minutes, then reduce the oven temperature to 375 degrees Fahrenheit.",
+    "Continue roasting the lamb for an additional 20 minutes, or until tender.",
+    "Slice the crusty bread into 1-inch thick slices and toast until lightly browned.",
+    "Assemble the casserole by placing a layer of toasted bread in the bottom of a 9x13 inch baking dish, followed by a layer of the roasted lamb and sauce, and finally a layer of low-fat cream."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "lamb-recipes",
+    "low-fat",
+    "one-pan",
+    "roasted-meat",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "purely-roasted-tunisian-lamb-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-roasted-tunisian-lamb-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:53:52Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "en-croute",
+    "primaryIngredient": "crusty bread",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Purely Roasted",
+    "dishForm": "Casserole"
+  }
+}
