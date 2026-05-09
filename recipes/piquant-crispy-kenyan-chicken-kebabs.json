@@ -1,0 +1,101 @@
+{
+  "title": "Piquant Crispy Kenyan Chicken Kebabs",
+  "description": "A crowd-pleasing Kenyan dish featuring marinated chicken, malai, and wok-hei flavors, served in an agave leaf vessel, this recipe combines Mediterranean-friendly ingredients with a mustardy and crispy twist.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mustard oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yogurt, lemon juice, garam masala, cumin, smoked paprika, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and mix until they are well coated with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated chicken pieces onto skewers, leaving a small space between each piece.",
+    "Brush the grill or grill pan with mustard oil to prevent sticking.",
+    "Grill the chicken kebabs for 8-10 minutes, turning occasionally, until they are cooked through and slightly charred.",
+    "Brush the kebabs with agave nectar during the last minute of grilling.",
+    "Serve the kebabs hot in agave leaf vessels, garnished with fresh cilantro and a side of wok-hei flavored sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "mediterranean-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "piquant-crispy-kenyan-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-crispy-kenyan-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:19:32Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "wok-hei",
+    "primaryIngredient": "malai",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "Piquant Crispy",
+    "dishForm": "Kebabs"
+  }
+}
