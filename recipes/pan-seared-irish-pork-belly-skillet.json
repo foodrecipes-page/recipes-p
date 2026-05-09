@@ -1,0 +1,109 @@
+{
+  "title": "Pan Seared Irish Pork Belly Skillet",
+  "description": "A hearty Irish dish featuring crispy pork belly slices, smoked to perfection and served with a side of herbal flavors, perfect for a brunch mood and sugar-free friendly diets.",
+  "cuisine": "Irish",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "sliced into 1/2 inch thick pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together smoked paprika, garlic powder, dried thyme, salt, and black pepper.",
+    "Rub the spice mixture all over the pork belly slices, making sure to coat them evenly.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the pork belly slices for 2-3 minutes on each side, or until they are crispy and golden brown.",
+    "Remove the pork belly slices from the skillet and set them aside on a plate.",
+    "Add the chopped onion, carrots, and potatoes to the skillet and cook for 5 minutes, or until they are tender.",
+    "Add the chicken broth to the skillet and stir to scrape up any browned bits from the bottom.",
+    "Return the pork belly slices to the skillet and transfer it to the preheated oven.",
+    "Bake for 20-25 minutes, or until the pork belly is cooked through and the vegetables are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "gluten-free",
+    "irish-cuisine",
+    "one-pan",
+    "pork-belly",
+    "smoked-paprika"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "pan-seared-irish-pork-belly-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-irish-pork-belly-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:01:03Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "smoke",
+    "primaryIngredient": "pork belly slices",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "pork belly",
+    "descriptor": "Pan seared",
+    "dishForm": "Skillet"
+  }
+}
