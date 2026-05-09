@@ -1,0 +1,94 @@
+{
+  "title": "Pungent Korean Farfalle Naengmyeon",
+  "description": "A pungent and cheesy one-pot Korean dish featuring farfalle and naengmyeon, made with ayurvedic-sattvic-friendly ingredients. This en-croute style dish is perfect for a unique dinner experience.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "ayurvedic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "farfalle",
+      "amount": "8 oz",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "naengmyeon noodles",
+      "amount": "4 oz"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "gochugaru",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegan mozzarella",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pot over medium heat.",
+    "Add gochujang and gochugaru, stir for 1 minute.",
+    "Add naengmyeon noodles and cook according to package instructions.",
+    "Add farfalle and cook until al dente.",
+    "Stir in soy sauce and shredded vegan mozzarella until cheese is melted.",
+    "Transfer the mixture to a baking dish and top with additional mozzarella.",
+    "Bake in a preheated oven at 375 degrees for 10 minutes.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "cheesy",
+    "korean-food",
+    "one-pot",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "pungent-korean-farfalle-naengmyeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-korean-farfalle-naengmyeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:57:44Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "cheese-pull",
+    "mood": "one-pot",
+    "technique": "en-croute",
+    "primaryIngredient": "farfalle",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "farfalle",
+    "descriptor": "pungent",
+    "dishForm": "Naengmyeon"
+  }
+}
