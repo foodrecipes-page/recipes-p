@@ -1,0 +1,93 @@
+{
+  "title": "Pungent Springy Thai Asparagus Satay",
+  "description": "A tangy and adventurous Thai street food dish featuring asparagus, this recipe is free from onions and garlic, making it suitable for those with sensitivities. The asparagus is marinated in a mixture of fish sauce, lime juice, and chili flakes, giving it a bold and pungent flavor.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Soak 20 bamboo skewers in water for 30 minutes to prevent burning.",
+    "Cut the asparagus into 1-inch pieces and set aside.",
+    "In a blender, combine fish sauce, lime juice, chili flakes, palm sugar, salt, and black pepper, and blend until smooth.",
+    "Add the peanut oil to the blender and blend until well combined.",
+    "Pour the marinade into a large bowl and add the asparagus, tossing to coat.",
+    "Thread 4-5 pieces of asparagus onto each skewer.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Grill the satay for 3-4 minutes per side, or until tender and slightly charred.",
+    "Serve immediately, garnished with chopped peanuts and cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "grilled",
+    "low-carb",
+    "thai-street-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 9
+  },
+  "slug": "pungent-springy-thai-asparagus-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-springy-thai-asparagus-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:34:39Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "springy",
+    "mood": "adventurous",
+    "technique": "brine-dry",
+    "primaryIngredient": "asparagus",
+    "diet": "no-onion-no-garlic",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "asparagus",
+    "descriptor": "Pungent springy",
+    "dishForm": "Satay"
+  }
+}
