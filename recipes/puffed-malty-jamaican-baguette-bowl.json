@@ -1,0 +1,106 @@
+{
+  "title": "Puffed Malty Jamaican Baguette Bowl",
+  "description": "A malty, aerated, indulgent Jamaican dish featuring baguette, sashimi-cut ingredients, and served in a Korean brass bowl, suitable for shojin-friendly dietary preferences.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baguette",
+      "amount": "1",
+      "notes": "day-old"
+    },
+    {
+      "name": "malted milk powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "kombu seaweed",
+      "amount": "1 sheet",
+      "notes": "dried and crushed"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Slice the baguette into 1-inch thick rounds and toast until lightly browned.",
+    "In a blender, combine malted milk powder, scotch bonnet peppers, carrots, green onions, and melted vegan butter, and blend until smooth.",
+    "In a large bowl, whisk together soy sauce, toasted sesame seeds, and crushed kombu seaweed.",
+    "Add the blended mixture to the bowl and stir until well combined.",
+    "Add the toasted baguette rounds to the bowl and toss until they are evenly coated with the mixture.",
+    "Transfer the mixture to a Korean brass bowl and bake for 15 minutes, or until the baguette is puffed and golden brown.",
+    "Remove from the oven and let cool for 5 minutes before serving.",
+    "Serve hot, garnished with additional green onions and toasted sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brass-bowl",
+    "indulgent",
+    "jamaican-inspired",
+    "korean-influenced",
+    "shojin-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "puffed-malty-jamaican-baguette-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/puffed-malty-jamaican-baguette-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:04:37Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "baguette",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "baguette",
+    "descriptor": "puffed malty",
+    "dishForm": "Bowl"
+  }
+}
