@@ -1,0 +1,103 @@
+{
+  "title": "Pretty Piquant British Turkey Mince Afternoon Tea Sandwich",
+  "description": "A satvik-friendly, nutty, and bouncy British dish featuring turkey mince, perfect for a weeknight afternoon tea, with a miso-marinate for added depth of flavor. This recipe is easy to make and serves as a delightful snack.",
+  "cuisine": "British",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "turkey mince",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "white bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, heat the olive oil over medium heat.",
+    "Add the chopped onion and carrot and cook until they are softened.",
+    "Add the turkey mince and cook until it is browned, breaking it up into small pieces as it cooks.",
+    "In a small bowl, whisk together the miso paste and a splash of water until smooth.",
+    "Add the miso paste mixture to the pan and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Butter the white bread and cut it into small triangles or fingers.",
+    "Spoon the turkey mince mixture onto the bread and top with chopped walnuts.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "afternoon-tea",
+    "british-cuisine",
+    "easy-to-make",
+    "nutty-flavors",
+    "satvik-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "pretty-piquant-british-turkey-mince-afternoon-tea-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pretty-piquant-british-turkey-mince-afternoon-tea-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:09:14Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "miso-marinate",
+    "primaryIngredient": "turkey mince",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "turkey mince",
+    "descriptor": "Piquant Pretty",
+    "dishForm": "Afternoon Tea Sandwich"
+  }
+}

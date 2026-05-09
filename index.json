@@ -6053,6 +6053,19 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-jammy-ikura-pasta",
+    "title": "Piquant Jammy Ikura Pasta",
+    "tags": [
+      "croatian",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 22,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-juicy-kenyan-bread-sandwich",
     "title": "Piquant Juicy Kenyan Bread Sandwich",
     "tags": [
@@ -7583,6 +7596,23 @@
     "shard": "p"
   },
   {
+    "slug": "popping-thai-cherry-tomatoes-bowl",
+    "title": "Popping Thai Cherry Tomatoes Bowl",
+    "tags": [
+      "date-night",
+      "dinner",
+      "gluten-free",
+      "low-carb",
+      "one-pan",
+      "thaifood",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "poppy-seed-bliss",
     "title": "Poppy Seed Bliss",
     "tags": [
@@ -7968,6 +7998,21 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 78,
+    "shard": "p"
+  },
+  {
+    "slug": "pretty-piquant-british-turkey-mince-afternoon-tea-sandwich",
+    "title": "Pretty Piquant British Turkey Mince Afternoon Tea Sandwich",
+    "tags": [
+      "afternoon-tea",
+      "british-cuisine",
+      "easy-to-make",
+      "nutty-flavors",
+      "satvik-friendly",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {

@@ -1,0 +1,121 @@
+{
+  "title": "Popping Thai Cherry Tomatoes Bowl",
+  "description": "A savory, shattering dish featuring cherry tomatoes served in a dolset stone bowl, perfect for a date night dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai Cherry Tomatoes",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "1 stalk",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes ": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium heat.",
+    "Add garlic, ginger, and lemongrass; cook until fragrant, about 1 minute.",
+    "Add Thai cherry tomatoes, fish sauce, brown sugar, soy sauce, and chili flakes; cook for 3-4 minutes, stirring occasionally.",
+    "Reduce heat to low and simmer for 5 minutes, stirring occasionally.",
+    "Stir in lime juice and rice vinegar.",
+    "Transfer the mixture to a dolset stone bowl and garnish with fresh cilantro.",
+    "Serve immediately, as the tomatoes will shatter upon contact with the bowl.",
+    "Garnish with additional cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "dinner",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "thaifood",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "popping-thai-cherry-tomatoes-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/popping-thai-cherry-tomatoes-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:09:29Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "whisk",
+    "primaryIngredient": "cherry tomatoes",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "cherry tomatoes",
+    "descriptor": "popping",
+    "dishForm": "Bowl"
+  }
+}

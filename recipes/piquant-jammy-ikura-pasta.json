@@ -1,0 +1,66 @@
+{
+  "title": "Piquant Jammy Ikura Pasta",
+  "description": "A creamy and savory Croatian-inspired dish featuring ikura in a pasta water emulsion, served in a banana leaf.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegan",
+    "raw-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ikura",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook 8 oz of pasta al dente according to package instructions.",
+    "Drain the pasta and reserve 1 cup of pasta water for the emulsion.",
+    "In a blender or food processor, combine the reserved pasta water, 2 tablespoons of olive oil, 1 tablespoon of lemon juice, and a pinch of salt, and blend until smooth.",
+    "Add the ikura to the blender and blend until the mixture is well combined and slightly thickened.",
+    "Season the ikura mixture with salt and pepper to taste.",
+    "To assemble the dish, place a portion of cooked pasta on a banana leaf, followed by a spoonful of the ikura mixture, and garnish with chopped fresh herbs such as parsley or dill.",
+    "Serve immediately, and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "piquant-jammy-ikura-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-jammy-ikura-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:09:34Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "ikura",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Ikura",
+    "descriptor": "Piquant, Jammy",
+    "dishForm": "Pasta"
+  }
+}
