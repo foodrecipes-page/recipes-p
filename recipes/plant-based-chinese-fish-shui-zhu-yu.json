@@ -1,0 +1,93 @@
+{
+  "title": "Plant Based Chinese Fish Shui Zhu Yu",
+  "description": "A nutty and flaky post-workout Chinese dish featuring white flour, made plant-based friendly and served in a stone bowl, inspired by the traditional Shui Zhu Yu recipe.",
+  "cuisine": "Chinese",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "extra firm"
+    },
+    {
+      "name": "white flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cut the tofu into small pieces and set aside.",
+    "In a large bowl, whisk together the white flour and cornstarch.",
+    "Add the vegetable oil, soy sauce, rice vinegar, and sesame oil to the bowl and stir until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small pieces and roll each piece into a thin sheet.",
+    "Place a few pieces of tofu in the center of each sheet and fold the dough over to form a triangle.",
+    "Heat a non-stick pan over medium heat and cook the triangles for 3-4 minutes on each side.",
+    "Serve the triangles in a stone bowl with chopped scallions and your choice of dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "flaky",
+    "nutty",
+    "plant-based",
+    "post-workout",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "plant-based-chinese-fish-shui-zhu-yu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/plant-based-chinese-fish-shui-zhu-yu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:44:31Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "white flour",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "fish",
+    "descriptor": "plant based",
+    "dishForm": "Shui Zhu Yu"
+  }
+}
