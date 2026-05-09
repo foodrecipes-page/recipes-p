@@ -1,0 +1,92 @@
+{
+  "title": "Pleasant Indian Fish Tikka Masala",
+  "description": "A kid-friendly Indian dish featuring apricot jam and a cheesy twist, this pescatarian-friendly fish tikka masala is a citrusy delight.",
+  "cuisine": "Indian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together yogurt, lemon juice, and garam masala.",
+    "Add the cod fish pieces to the bowl and marinate for 10 minutes.",
+    "Heat the vegetable oil in a large skillet over medium heat.",
+    "Remove the fish from the marinade and cook in the skillet until browned on all sides.",
+    "Transfer the fish to a baking dish and top with apricot jam and shredded mozzarella cheese.",
+    "Bake in the preheated oven for 10 minutes, or until the cheese is melted and bubbly.",
+    "While the fish is baking, heat the chopped onion in the same skillet over medium heat until softened.",
+    "Serve the fish tikka masala hot, garnished with the sauteed onion."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "indian-cuisine",
+    "kid-friendly",
+    "one-pan",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "pleasant-indian-fish-tikka-masala",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pleasant-indian-fish-tikka-masala",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:26:29Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "fry",
+    "primaryIngredient": "apricot jam",
+    "diet": "pescatarian",
+    "region": "bengali",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "fish",
+    "descriptor": "Pescatarian Pleasant",
+    "dishForm": "Tikka Masala"
+  }
+}
