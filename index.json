@@ -215,6 +215,22 @@
     "shard": "p"
   },
   {
+    "slug": "pan-crisped-argentinian-potato-empanadas",
+    "title": "Pan Crisped Argentinian Potato Empanadas",
+    "tags": [
+      "argentinian",
+      "empanadas",
+      "pan-fried",
+      "potato",
+      "shojin",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "pan-seared-american-gruy-roast",
     "title": "Pan-Seared American Gruy\u00059 Roast",
     "tags": [
