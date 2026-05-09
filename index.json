@@ -6957,6 +6957,20 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-smoky-mexican-chiles-grill",
+    "title": "Piquant Smoky Mexican Chiles Grill",
+    "tags": [
+      "chile",
+      "grill",
+      "low-glycemic",
+      "mexican",
+      "vegan"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-smoky-peruvian-potato-tiradito",
     "title": "Piquant Smoky Peruvian Potato Tiradito",
     "tags": [
@@ -7383,6 +7397,20 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "pleasant-empanadas-with-yellow-masarepa-and-double-fry-kfc",
+    "title": "Pleasant Empanadas with Yellow Masarepa and Double-Fry KFC",
+    "tags": [
+      "gluten-free",
+      "meat",
+      "paleo",
+      "uruguayan",
+      "whole30"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 70,
     "shard": "p"
   },
   {

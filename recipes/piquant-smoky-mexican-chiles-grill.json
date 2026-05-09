@@ -1,0 +1,111 @@
+{
+  "title": "Piquant Smoky Mexican Chiles Grill",
+  "description": "A spicy, smoky, and adventurous Mexican dish featuring dried leaves of summer savoury, perfect for grilling in a donabe. Low-glycemic-friendly and full of flavor.",
+  "cuisine": "Mexican",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dried Summer Savoury Leaves",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chipotle Peppers in Adobo Sauce",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Ancho Chilies",
+      "amount": "6",
+      "notes": "stemmed and seeded"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Grill the ancho chilies at 400°F (200°C) for 10 minutes on each side, or until charred and blistered.",
+    "Remove the chilies from the grill and let them cool down.",
+    "Once the chilies have cooled, remove the stems and seeds and tear them into bite-sized pieces.",
+    "In a blender or food processor, combine the chipotle peppers, garlic, cumin, and a pinch of salt. Blend until smooth.",
+    "Add the olive oil, lime juice, and a pinch of salt to the blender and blend until well combined.",
+    "Add the blended mixture to the torn ancho chilies and stir to combine.",
+    "Heat a grill or grill pan to medium-high heat and brush with olive oil.",
+    "Add the sliced red onion to the grill and cook for 5 minutes, or until it starts to caramelize.",
+    "Add the ancho chilies to the grill and cook for 2-3 minutes on each side, or until slightly charred.",
+    "Transfer the ancho chilies to a serving platter and top with chopped cilantro and a squeeze of lime juice.",
+    "Serve the piquant smoky Mexican chiles grill hot, garnished with additional cilantro if desired.",
+    "Garnish with additional lime wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chile",
+    "grill",
+    "low-glycemic",
+    "mexican",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "piquant-smoky-mexican-chiles-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-smoky-mexican-chiles-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:41:52Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "grill",
+    "primaryIngredient": "dried leaves of summer savoury",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chiles",
+    "descriptor": "Piquant Smoky",
+    "dishForm": "Grill"
+  }
+}
