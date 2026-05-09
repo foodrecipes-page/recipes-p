@@ -1,0 +1,112 @@
+{
+  "title": "Petit Poulet Algerian Vegetables Bamboo-Steamed Wrap",
+  "description": "Floral and crunchy Algerian-inspired dish featuring allspice berries, served in a keto-friendly bamboo-steamed ssam wrap.",
+  "cuisine": "algerian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1",
+      "notes": "4 oz"
+    },
+    {
+      "name": "allspice berries",
+      "amount": "1 tsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ssam wrap (keto-friendly)",
+      "amount": "4"
+    },
+    {
+      "name": "ghee or coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together crushed allspice berries, salt, and black pepper.",
+    "Add the mixture to the chicken breast and marinate for at least 30 minutes.",
+    "Preheat the bamboo steamer and add 2 cups of water.",
+    "Add the chicken breast to the steamer and steam for 8 minutes.",
+    "Meanwhile, prepare the vegetables by slicing the red onion, cucumber, and bell pepper.",
+    "Chop the fresh parsley and mint.",
+    "Warm the ssam wraps by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wraps by placing a piece of chicken breast on each wrap, followed by the vegetables and herbs.",
+    "Drizzle with ghee or coconut oil and serve immediately.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "gluten-free",
+    "keto",
+    "one-pan",
+    "vegetarian-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 18
+  },
+  "slug": "petit-poulet-algerian-vegetables-bamboo-steamed-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/petit-poulet-algerian-vegetables-bamboo-steamed-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T14:38:43Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "allspice berries",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Vegetables",
+    "descriptor": "Petit Poulet",
+    "dishForm": "Bamboo-Steamed Wrap"
+  }
+}
