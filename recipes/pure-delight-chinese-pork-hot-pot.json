@@ -1,0 +1,96 @@
+{
+  "title": "Pure Delight Chinese Pork Hot Pot",
+  "description": "A light and cultured Chinese dish featuring rest-meat and white wine vinegar, served in a molcajete, this hot pot is a perfect show-off dish for any occasion, and is also FODMAP-friendly",
+  "cuisine": "Chinese",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "rested for 24 hours"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bok choy",
+      "amount": "1 head"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic-free seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Slice the rested pork shoulder into thin strips and set aside.",
+    "Heat the sesame oil in the molcajete over medium heat.",
+    "Add the sliced ginger and cook for 2 minutes, until fragrant.",
+    "Add the pork strips and cook until browned, about 5 minutes.",
+    "Add the mushrooms, bok choy, and green onions, and cook until the vegetables are tender.",
+    "In a small bowl, whisk together the white wine vinegar, soy sauce, and garlic-free seasoning.",
+    "Pour the vinegar mixture over the pork and vegetables, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, until the hot pot is hot and bubbly.",
+    "Serve the hot pot immediately, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "comfort-food",
+    "high-protein",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "pure-delight-chinese-pork-hot-pot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pure-delight-chinese-pork-hot-pot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:07:10Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "rest-meat",
+    "primaryIngredient": "white wine vinegar",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Pure Delight",
+    "dishForm": "Hot Pot"
+  }
+}

@@ -9346,6 +9346,20 @@
     "shard": "p"
   },
   {
+    "slug": "pure-delight-chinese-pork-hot-pot",
+    "title": "Pure Delight Chinese Pork Hot Pot",
+    "tags": [
+      "asian-inspired",
+      "comfort-food",
+      "high-protein",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "pure-energizing-dutch-cashew-pilaf",
     "title": "Pure Energizing Dutch Cashew Pilaf",
     "tags": [
