@@ -1,0 +1,87 @@
+{
+  "title": "Puffy Chewy French Oat Souffle",
+  "description": "A fermented, chewy, and macrobiotic-friendly French dish featuring oat milk, perfect for a midnight craving. This souffle is made with kneaded dough and baked to a puffy perfection.",
+  "cuisine": "French",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "oat milk",
+      "amount": "2 cups",
+      "notes": "freshly made"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine oat milk, rolled oats, whole wheat flour, salt, sugar, and yeast.",
+    "Knead the mixture for 10 minutes until it forms a sticky dough.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it ferment in a warm place for 2 hours.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Punch down the dough and shape it into a souffle dish.",
+    "Bake the souffle for 35 minutes or until it is puffy and golden brown.",
+    "Remove the souffle from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french-dish",
+    "macrobiotic-friendly",
+    "midnight-craving",
+    "oat-milk",
+    "souffle",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "puffy-chewy-french-oat-souffle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/puffy-chewy-french-oat-souffle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:22:18Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "knead",
+    "primaryIngredient": "oat milk",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "oats",
+    "descriptor": "Puffy Chewy",
+    "dishForm": "Souffle"
+  }
+}
