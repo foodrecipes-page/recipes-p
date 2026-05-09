@@ -1,0 +1,99 @@
+{
+  "title": "Pillowy Cozy Venezuelan Beef Casserole",
+  "description": "This low-carb Venezuelan dish features ground cardomom and tadka for a rich umami flavor, making it a perfect cozy meal for any occasion.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "ground cardomom",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tadka spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the ground cardamom and tadka spice blend to the skillet and cook for 1 minute, stirring constantly.",
+    "Stir in the cauliflower rice, shredded cheese, sour cream, chopped cilantro, lime juice, salt, and black pepper, and cook until the cheese is melted and the mixture is well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and smooth the top.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the top is lightly browned and the casserole is hot and bubbly.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving.",
+    "Serve the casserole hot, garnished with additional chopped cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "pillowy-cozy-venezuelan-beef-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-cozy-venezuelan-beef-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:24:13Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "tadka",
+    "primaryIngredient": "ground cardomom",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "beef",
+    "descriptor": "pillowy cozy",
+    "dishForm": "Casserole"
+  }
+}
