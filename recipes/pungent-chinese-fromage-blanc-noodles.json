@@ -1,0 +1,96 @@
+{
+  "title": "Pungent Chinese Fromage Blanc Noodles",
+  "description": "A fatty and snappy Fujian dish featuring fromage-blanc and katsuramuki-cut ingredients, perfect for a hangover cure, this low-calorie-friendly Chinese noodle dish is a must try.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fromage-blanc",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "katsuramuki-cut pork",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "Drain the noodles and set them aside.",
+    "Slice the katsuramuki-cut pork into thin strips.",
+    "Heat the sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the grated ginger and minced garlic and stir-fry until fragrant.",
+    "Add the sliced pork and stir-fry until browned.",
+    "Add the soy sauce and stir-fry for another minute.",
+    "Add the cooked noodles to the skillet or wok and stir-fry for 2 minutes.",
+    "Stir in the crumbly fromage-blanc and cook until heated through.",
+    "Transfer the noodles to a serving platter and garnish with chopped scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-recipes",
+    "fujian-cuisine",
+    "hangover-cures",
+    "low-calorie",
+    "noodle-recipes",
+    "pork-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "pungent-chinese-fromage-blanc-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-chinese-fromage-blanc-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:24:38Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "fromage-blanc",
+    "diet": "low-calorie",
+    "region": "fujian",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "fromage-blanc",
+    "descriptor": "Pungent",
+    "dishForm": "Noodles"
+  }
+}
