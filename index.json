@@ -2472,6 +2472,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-filipino-kabanos-skewers",
+    "title": "Peppery Filipino Kabanos Skewers",
+    "tags": [
+      "filipino-food",
+      "gluten-free",
+      "grilled",
+      "meat-based",
+      "mediterranean-friendly",
+      "quick-fix"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-filipino-tapioca-crumble",
     "title": "Peppery Filipino Tapioca Crumble",
     "tags": [
