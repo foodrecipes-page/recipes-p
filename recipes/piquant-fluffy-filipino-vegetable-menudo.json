@@ -1,0 +1,109 @@
+{
+  "title": "Piquant Fluffy Filipino Vegetable Menudo",
+  "description": "A spicy and fluffy Filipino dish featuring clotted cream and a variety of vegetables, perfect for a hangover cure. This vegetarian-friendly menudo is a twist on the traditional Filipino recipe.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "clotted cream",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "2 tablespoons",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "potato",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large",
+      "notes": "peeled and grated"
+    }
+  ],
+  "instructions": [
+    "Heat the clotted cream in a large saucepan over medium heat until it starts to melt and bubble.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the diced tomato, sliced bell pepper, and grated carrot, and cook for 5 minutes, stirring occasionally.",
+    "Pour in the vegetable broth, soy sauce, and sriracha sauce, and stir to combine.",
+    "Add the diced potato and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the potato is tender.",
+    "Season the menudo with salt and pepper to taste, then serve hot.",
+    "Garnish with chopped green onions and a dollop of clotted cream, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "filipino-food",
+    "one-pot",
+    "spicy",
+    "vegetarian",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "piquant-fluffy-filipino-vegetable-menudo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-fluffy-filipino-vegetable-menudo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:56:02Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "braise",
+    "primaryIngredient": "clotted cream",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "vegetables",
+    "descriptor": "Piquant Fluffy",
+    "dishForm": "Menudo"
+  }
+}

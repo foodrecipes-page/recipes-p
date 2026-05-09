@@ -5949,6 +5949,21 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-fluffy-filipino-vegetable-menudo",
+    "title": "Piquant Fluffy Filipino Vegetable Menudo",
+    "tags": [
+      "comfort-food",
+      "filipino-food",
+      "one-pot",
+      "spicy",
+      "vegetarian",
+      "weeknight-meal"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-french-pork-shoulder-quiche",
     "title": "puignant french pork shoulder quiche",
     "tags": [
