@@ -394,6 +394,21 @@
     "shard": "p"
   },
   {
+    "slug": "pan-seared-greek-shrimp-souvlaki",
+    "title": "Pan Seared Greek Shrimp Souvlaki",
+    "tags": [
+      "gluten-free",
+      "greek-cuisine",
+      "low-carb",
+      "one-pan",
+      "quick-dinner",
+      "seafood"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "pan-seared-greek-skirt-steak-skewers",
     "title": "Pan Seared Greek Skirt Steak Skewers",
     "tags": [
