@@ -1,0 +1,93 @@
+{
+  "title": "Pungent Algerian Beet Wrap",
+  "description": "A pungent and indulgent Algerian dish featuring beets, blanched and wrapped in a low-carb lotus leaf wrap, perfect for a snack or light meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Blanch the lotus leaves in boiling water for 30 seconds.",
+    "In a bowl, mix together the chopped beets, minced garlic, olive oil, lemon juice, salt, and black pepper.",
+    "Spoon the beet mixture onto the center of each lotus leaf.",
+    "Top the beet mixture with crumbly feta cheese.",
+    "Fold the lotus leaves over the filling to form a wrap.",
+    "Place the wraps on a baking sheet and bake for 15 minutes.",
+    "Serve the wraps warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "lotus-leaf-wraps",
+    "low-carb",
+    "snack-ideas",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "pungent-algerian-beet-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-algerian-beet-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:59:29Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "blanch",
+    "primaryIngredient": "beets",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "beets",
+    "descriptor": "pungent pillowy",
+    "dishForm": "Wrap"
+  }
+}
