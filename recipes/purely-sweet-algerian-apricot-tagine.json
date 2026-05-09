@@ -1,0 +1,100 @@
+{
+  "title": "Purely Sweet Algerian Apricot Tagine",
+  "description": "A sweet and juicy Algerian dish featuring caramelized apricots and ginger paste, perfect for a sick day, and is Jain-friendly.",
+  "cuisine": "Algerian",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Apricots",
+      "amount": "1 pound",
+      "notes": "dried"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Algerian spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the onion and cook until it is translucent, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the ginger paste and cook for 1 minute, until fragrant.",
+    "Add the apricots, Algerian spice blend, honey, water, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes, or until the apricots are tender.",
+    "Remove the lid and cook for an additional 10 minutes, or until the sauce has thickened and the apricots are caramelized.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "comfort-food",
+    "jain-friendly",
+    "one-pot",
+    "sweet-and-savory",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "purely-sweet-algerian-apricot-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-sweet-algerian-apricot-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:19:16Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "caramelize",
+    "primaryIngredient": "ginger paste",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "apricots",
+    "descriptor": "Purely Sweet",
+    "dishForm": "Tagine"
+  }
+}
