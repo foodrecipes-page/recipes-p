@@ -9542,6 +9542,20 @@
     "shard": "p"
   },
   {
+    "slug": "pungent-kenyan-beef-broth",
+    "title": "Pungent Kenyan Beef Broth",
+    "tags": [
+      "beef-broth",
+      "comfort-food",
+      "easy-dinner",
+      "kenyan",
+      "sick-day"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 70,
+    "shard": "p"
+  },
+  {
     "slug": "pungent-korean-farfalle-naengmyeon",
     "title": "Pungent Korean Farfalle Naengmyeon",
     "tags": [
