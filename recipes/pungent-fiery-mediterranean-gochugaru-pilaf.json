@@ -1,0 +1,66 @@
+{
+  "title": "Pungent Fiery Mediterranean Gochugaru Pilaf",
+  "description": "A flavorful and spicy pilaf dish that combines the bold flavors of the Mediterranean with the kick of gochugaru spice and the tanginess of ferment-jang.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gochugaru",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Ferment-jang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice such as Calrose or Japanese mochigome"
+    }
+  ],
+  "difficulty": "medium",
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the gochugaru and cook for 1-2 minutes, until fragrant.",
+    "Add the rice and stir to coat with the gochugaru and oil mixture.",
+    "Add 2 cups of water and bring to a boil.",
+    "Stir in the ferment-jang and reduce heat to low.",
+    "Cover and simmer for 15-20 minutes, or until the water is absorbed and the rice is tender."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "pungent-fiery-mediterranean-gochugaru-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-fiery-mediterranean-gochugaru-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:51:40Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "ferment-jang",
+    "primaryIngredient": "gochugaru",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "gochugaru",
+    "descriptor": "pungent fiery",
+    "dishForm": "Pilaf"
+  }
+}
