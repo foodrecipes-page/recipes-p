@@ -6392,6 +6392,20 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-kenyan-lamb-tagine",
+    "title": "Piquant Kenyan Lamb Tagine",
+    "tags": [
+      "african-cuisine",
+      "clay-cooked",
+      "lamb-based",
+      "one-pot",
+      "spicy"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 110,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-kenyan-lentil-burger",
     "title": "Piquant Kenyan Lentil Burger",
     "tags": [
