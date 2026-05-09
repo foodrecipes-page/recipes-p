@@ -1,0 +1,91 @@
+{
+  "title": "Pleasantly Chewy Croatian Fennel Frittata",
+  "description": "A lacto-vegetarian friendly Croatian dish featuring fennel bulb, this frittata is perfect for a brunch mood, with umami and chewy textures from the fennel and cheese. The brine-wet fennel adds a unique twist to this classic dish.",
+  "cuisine": "Croatian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fennel bulb",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs, ricotta cheese, parmesan cheese, salt, black pepper, and garlic powder.",
+    "In a large skillet, heat the olive oil over medium heat and saute the sliced fennel until it is tender and lightly browned.",
+    "In a greased 9 inch pie plate, arrange the cooked fennel in the bottom of the plate.",
+    "Pour the egg mixture over the fennel and smooth the top.",
+    "Bake the frittata in the preheated oven for 35 minutes, or until the edges are golden brown and the center is set.",
+    "Remove the frittata from the oven and let it cool for 10 minutes before slicing and serving.",
+    "Serve the frittata warm, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "croatian",
+    "fennel",
+    "lacto-vegetarian",
+    "one-pan",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "pleasantly-chewy-croatian-fennel-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pleasantly-chewy-croatian-fennel-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:38:58Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "brine-wet",
+    "primaryIngredient": "fennel bulb",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "fennel",
+    "descriptor": "Pleasantly Chewy",
+    "dishForm": "Frittata"
+  }
+}
