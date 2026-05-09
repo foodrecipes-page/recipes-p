@@ -1051,6 +1051,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-algerian-lamb-tagine",
+    "title": "Peppery Algerian Lamb Tagine",
+    "tags": [
+      "comfort-food",
+      "lamb-based",
+      "north-african",
+      "one-pot",
+      "slow-cooked"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 170,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-american-cheddar-cheese-quiche",
     "title": "Peppery American Cheddar Cheese Quiche",
     "tags": [
