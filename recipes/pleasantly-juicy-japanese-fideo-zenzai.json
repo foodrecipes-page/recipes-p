@@ -1,0 +1,99 @@
+{
+  "title": "Pleasantly Juicy Japanese Fideo Zenzai",
+  "description": "A funky and cozy Japanese dish featuring fideo, with a balance of juicy and savory flavors, made in a traditional zenzai style with ayurvedic-rajasic friendly ingredients.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fideo noodles",
+      "amount": "200g",
+      "notes": "preferably Japanese style"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "100g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pan over medium heat.",
+    "Add grated ginger and minced garlic and saute for 1 minute.",
+    "Add sliced shiitake mushrooms and cook until they release their liquid and start to brown.",
+    "Add fideo noodles to the pan and stir to combine with the mushroom mixture.",
+    "In a small bowl, whisk together miso paste, soy sauce, and mirin.",
+    "Pour the miso mixture over the noodles and mushrooms, and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes, or until the noodles are cooked and the liquid has been absorbed.",
+    "Stir in chopped green onions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-recipe",
+    "japanese-cuisine",
+    "mushroom-recipe",
+    "noodle-dish",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "pleasantly-juicy-japanese-fideo-zenzai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pleasantly-juicy-japanese-fideo-zenzai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:25:29Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "fry",
+    "primaryIngredient": "fideo",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "fideo",
+    "descriptor": "Pleasantly Juicy",
+    "dishForm": "Zenzai"
+  }
+}
