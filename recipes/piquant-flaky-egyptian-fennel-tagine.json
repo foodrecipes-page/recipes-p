@@ -1,0 +1,133 @@
+{
+  "title": "Piquant Flaky Egyptian Fennel Tagine",
+  "description": "A flavorful and aromatic stew that is perfect for a romantic dinner",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fennel bulb",
+      "amount": "2 medium bulbs",
+      "notes": ""
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup",
+      "notes": "use high-quality flakes for best flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "",
+      "cumin": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped",
+      "flakes": null
+    },
+    {
+      "name": "bananas",
+      "amount": "4-6",
+      "notes": "for serving",
+      "pepper": null
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "2",
+      "notes": "for serving",
+      "cumin": null
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped",
+      "flakes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the onion and garlic and saut\u00109 over until softened, about 5 minutes.",
+    "Add the fennel bulb and cook for an additional 5 minutes, or until slightly tender.",
+    "Add the cumin, coriander, paprika, salt, and black pepper, and stir to combine.",
+    "Add the bonito flakes and cook for 1-2 minutes, stirring constantly, until fragrant.",
+    "Transfer the mixture to a large baking dish or clay pot with a steamer basket.",
+    "Add the chopped parsley and serve over the banana leaves with lemon wedges on the side.",
+    "To serve, slice the banana leaves in half and spoon the tagine onto the center of each half.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "anti-inflammatory",
+    "date-night",
+    "high-fiber",
+    "low-sodium",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 35
+  },
+  "slug": "piquant-flaky-egyptian-fennel-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-flaky-egyptian-fennel-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:24:17Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "bonito-shave",
+    "primaryIngredient": "fennel seeds",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "fennel",
+    "descriptor": "Piquant, Flaky",
+    "dishForm": "Tagine"
+  }
+}
