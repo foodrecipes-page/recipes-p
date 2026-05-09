@@ -1,0 +1,96 @@
+{
+  "title": "Promptly Pan Seared Middle Eastern Lamb Kebabs",
+  "description": "A quick and flavorful Middle Eastern dish featuring lamb kebabs, Dijon mustard, and a hint of spice, served in a Korean brass bowl. This halal-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together Dijon mustard, olive oil, garlic, cumin, paprika, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Heat a large skillet over medium-high heat and add 1 tablespoon of olive oil.",
+    "Add the lamb skewers to the skillet and cook for 4-5 minutes per side, or until cooked to an internal temperature of 145 degrees.",
+    "Transfer the cooked lamb skewers to a Korean brass bowl and garnish with chopped fresh parsley.",
+    "Serve immediately and enjoy.",
+    "Optional: serve with a side of couscous or pita bread for a more filling meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "halal-friendly",
+    "korean-brass-bowl",
+    "lamb-kebabs",
+    "middle-eastern",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "promptly-pan-seared-middle-eastern-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/promptly-pan-seared-middle-eastern-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:35:38Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "saute",
+    "primaryIngredient": "dijon mustard",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Promptly Pan Seared",
+    "dishForm": "Kebabs"
+  }
+}
