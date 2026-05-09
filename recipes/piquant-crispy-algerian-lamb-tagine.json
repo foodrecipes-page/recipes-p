@@ -1,0 +1,108 @@
+{
+  "title": "Piquant Crispy Algerian Lamb Tagine",
+  "description": "A floral and crispy Algerian dish featuring lamb and five spice powder, cooked on a cedar plank, this recipe is gluten free friendly and perfect for a special occasion, the nimono simmer method adds a light and delicate touch to the dish.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless and cut into 1 inch pieces"
+    },
+    {
+      "name": "five spice powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the five spice powder, salt, and pepper.",
+    "Add the spice mixture to the lamb pieces and toss to coat.",
+    "Heat the olive oil in a large skillet over medium high heat.",
+    "Add the lamb to the skillet and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion to the skillet and cook until softened, about 3 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the chopped apricots, prunes, chicken broth, and honey to the skillet and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Place the cedar plank in the oven and heat for 5 minutes.",
+    "Remove the plank from the oven and place the lamb mixture on the plank.",
+    "Return the plank to the oven and cook for 15 minutes, or until the lamb is cooked through and the top is crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "gluten-free",
+    "lamb-recipes",
+    "middle-eastern",
+    "one-pan",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "piquant-crispy-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-crispy-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:49:13Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "five spice powder",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Piquant Crispy",
+    "dishForm": "Tagine"
+  }
+}
