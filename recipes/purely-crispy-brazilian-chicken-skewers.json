@@ -1,0 +1,108 @@
+{
+  "title": "Purely Crispy Brazilian Chicken Skewers",
+  "description": "A herbal and crispy Brazilian dish featuring chimichurri sauce, perfect for a sick day, with high protein content to help you recover. This recipe uses an ice bath to shock the chicken, resulting in a tender and juicy texture.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, parsley, oregano, garlic, red pepper flakes, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the marinated chicken pieces onto the soaked wooden skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through and slightly charred.",
+    "While the skewers are grilling, prepare an ice bath by filling a large bowl with ice and water.",
+    "Once the skewers are cooked, immediately submerge them in the ice bath to stop the cooking process.",
+    "Let the skewers chill in the ice bath for 5 minutes before removing them and serving with chimichurri sauce.",
+    "Serve the skewers hot, garnished with additional parsley and oregano if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "chicken",
+    "crispy",
+    "grilled",
+    "herbal",
+    "high-protein",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "purely-crispy-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-crispy-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:10:50Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "purely crispy",
+    "dishForm": "Skewers"
+  }
+}
