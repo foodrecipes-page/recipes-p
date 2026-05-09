@@ -1,0 +1,98 @@
+{
+  "title": "Piquant Molten Japanese Cookies Ochazuke",
+  "description": "A unique dessert featuring molten cookies and tempering chocolate in a traditional Japanese ochazuke form, served in a ceramic tagine vessel. This dish combines bitter and sweet flavors with a monsoon-inspired twist.",
+  "cuisine": "Japanese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Japanese matcha cookies",
+      "amount": "12",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Tempering chocolate",
+      "amount": "1 cup",
+      "notes": "dark or semisweet"
+    },
+    {
+      "name": "Green tea",
+      "amount": "2 cups",
+      "notes": "brewed strong"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "Coconut flakes",
+      "amount": "1/2 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Monsoon spice blend",
+      "amount": "1/2 teaspoon",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Arrange the matcha cookies in a single layer at the bottom of a ceramic tagine vessel.",
+    "Melt the tempering chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Pour the melted chocolate over the cookies in the tagine vessel.",
+    "Sprinkle the toasted sesame seeds and unsweetened coconut flakes over the chocolate.",
+    "Drizzle the brewed green tea over the top of the cookie and chocolate mixture.",
+    "Sprinkle the kosher salt and monsoon spice blend over the top of the dish.",
+    "Dot the top of the dish with unsalted butter.",
+    "Bake the ochazuke in the preheated oven for 15 minutes, or until the cookies are molten and the top is lightly browned.",
+    "Remove the dish from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ceramic-cooking",
+    "japanese-inspired",
+    "matcha-lover",
+    "molten-dessert",
+    "tagine-recipes",
+    "unique-desserts"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "piquant-molten-japanese-cookies-ochazuke",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-molten-japanese-cookies-ochazuke",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:44:03Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "cookies",
+    "diet": "kosher",
+    "region": "kansai",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "cookies",
+    "descriptor": "Piquant Molten",
+    "dishForm": "Ochazuke"
+  }
+}
