@@ -1,0 +1,92 @@
+{
+  "title": "Plush Japanese Sausage Noodles",
+  "description": "A hearty and comforting Japanese dish featuring German sausages, score-fat, and noodles, perfect for a lazy Sunday. This flexitarian-friendly recipe combines umami flavors with pillowy soft noodles.",
+  "cuisine": "Japanese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "German sausage",
+      "amount": "4",
+      "notes": "such as Weisswurst or Bratwurst"
+    },
+    {
+      "name": "score-fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sake",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to the package instructions and set aside.",
+    "Slice the German sausage into thick rounds.",
+    "Heat the score-fat in a large pan over medium heat.",
+    "Add the sliced sausage to the pan and cook until browned.",
+    "Add the dashi broth, soy sauce, sake, and mirin to the pan and bring to a simmer.",
+    "Add the cooked noodles to the pan and toss to combine with the sauce and sausage.",
+    "Cook for an additional 2-3 minutes or until the noodles are well coated.",
+    "Serve the noodles hot, garnished with thinly sliced green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "flexitarian-friendly",
+    "japanese-inspired",
+    "noodle-dish",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "plush-japanese-sausage-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/plush-japanese-sausage-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:01:33Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "score-fat",
+    "primaryIngredient": "german sausages",
+    "diet": "flexitarian",
+    "region": "shikoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "sausages",
+    "descriptor": "pillowy plush",
+    "dishForm": "Noodles"
+  }
+}

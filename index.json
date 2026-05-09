@@ -4574,6 +4574,21 @@
     "shard": "p"
   },
   {
+    "slug": "perfectly-crunchy-dutch-pretzels-toast",
+    "title": "Perfectly Crunchy Dutch Pretzels Toast",
+    "tags": [
+      "crunchy-snack",
+      "dutch-cuisine",
+      "easy-to-make",
+      "quick-snack",
+      "sesame-seeds",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 15,
+    "shard": "p"
+  },
+  {
     "slug": "perfectly-pan-roasted-dutch-asparagus-skillet",
     "title": "Perfectly Pan Roasted Dutch Asparagus Skillet",
     "tags": [
@@ -6902,6 +6917,21 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
+    "slug": "plush-japanese-sausage-noodles",
+    "title": "Plush Japanese Sausage Noodles",
+    "tags": [
+      "comfort-food",
+      "flexitarian-friendly",
+      "japanese-inspired",
+      "noodle-dish",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {

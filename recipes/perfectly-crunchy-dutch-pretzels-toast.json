@@ -1,0 +1,92 @@
+{
+  "title": "Perfectly Crunchy Dutch Pretzels Toast",
+  "description": "A fresh and shattering Dutch dish featuring pretzels and toast, friendly to the ayurvedic-rajasic diet, perfect for a crunchy snack.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pretzels",
+      "amount": "1 cup",
+      "notes": "preferably Dutch or German style"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1/2 cup",
+      "notes": "optional, but recommended for extra flavor"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Slice the whole wheat bread into 1-inch thick slices and toast until lightly browned.",
+    "Butter each slice of toasted bread generously.",
+    "Sprinkle sesame seeds over the buttered bread.",
+    "Crush the pretzels into small pieces and sprinkle over the sesame seeds.",
+    "Sprinkle salt to taste over the pretzels.",
+    "If using grated cheese, sprinkle it over the pretzels.",
+    "Place the bread slices on a baking sheet and bake in the preheated oven for 5 minutes, or until the cheese is melted and the pretzels are crunchy.",
+    "Remove from the oven and garnish with chopped fresh parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-snack",
+    "dutch-cuisine",
+    "easy-to-make",
+    "quick-snack",
+    "sesame-seeds",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "perfectly-crunchy-dutch-pretzels-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/perfectly-crunchy-dutch-pretzels-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:00:57Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "toast",
+    "primaryIngredient": "pretzels",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "pretzels",
+    "descriptor": "Perfectly crunchy",
+    "dishForm": "Toast"
+  }
+}
