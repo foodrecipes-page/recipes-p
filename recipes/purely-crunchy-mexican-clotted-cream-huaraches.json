@@ -3,8 +3,7 @@
   "description": "A fresh and crunchy Mexican dish featuring clotted cream, manteca emulsified, and no onion or garlic, served in the form of huaraches and cooked on an iron teppan.",
   "cuisine": "Mexican",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [

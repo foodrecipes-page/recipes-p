@@ -3,7 +3,6 @@
   "description": "Indulge in the rich flavors of Greece with this winey and silky pork belly gyro, featuring tender slices of pork belly, all wrapped in a warm pita bread. This dish is not only delicious but also anti-inflammatory friendly.",
   "cuisine": "Greek",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -62,7 +61,6 @@
   "tags": [
     "anti-inflammatory",
     "dairy-free",
-    "gluten-free",
     "greek-food",
     "pork-belly",
     "wine-based"

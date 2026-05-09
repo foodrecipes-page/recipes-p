@@ -2,9 +2,7 @@
   "title": "Poached Mexican Tortillas Tacos",
   "description": "A light and flavorful dish featuring poached Mexican tortillas, perfect for a weeknight dinner. This kosher-friendly recipe is made with individual mini cocottes for a unique presentation.",
   "cuisine": "Mexican",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -63,7 +61,8 @@
     "Using a slotted spoon, remove the poached tortillas from the broth and place them in the individual mini cocottes.",
     "Drizzle the olive oil over the tortillas and top with shredded cheese, chopped cilantro, salt, and pepper.",
     "Place the mini cocottes in the oven and bake for 5-7 minutes, or until the cheese is melted and bubbly.",
-    "Remove the mini cocottes from the oven and serve immediately."
+    "Remove the mini cocottes from the oven and serve immediately.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,

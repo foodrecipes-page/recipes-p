@@ -2,9 +2,7 @@
   "title": "Piquant Juicy Saudi Arabian Portobello Mushroom Kebabs",
   "description": "A tangy and juicy vegan-friendly dish featuring dashi and glaze, inspired by Saudi Arabian cuisine, perfect for a energizing dinner.",
   "cuisine": "Saudi Arabian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -70,8 +68,7 @@
     "grilled",
     "kebabs",
     "mushroom",
-    "saudi-arabian",
-    "vegan"
+    "saudi-arabian"
   ],
   "nutrition": {
     "calories": 320,

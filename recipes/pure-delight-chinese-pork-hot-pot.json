@@ -3,8 +3,7 @@
   "description": "A light and cultured Chinese dish featuring rest-meat and white wine vinegar, served in a molcajete, this hot pot is a perfect show-off dish for any occasion, and is also FODMAP-friendly",
   "cuisine": "Chinese",
   "diet": [
-    "FODMAP-friendly",
-    "gluten-free"
+    "FODMAP-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -55,7 +54,8 @@
     "In a small bowl, whisk together the white wine vinegar, soy sauce, and garlic-free seasoning.",
     "Pour the vinegar mixture over the pork and vegetables, and stir to combine.",
     "Bring the mixture to a simmer and cook for 10 minutes, until the hot pot is hot and bubbly.",
-    "Serve the hot pot immediately, garnished with additional green onions if desired."
+    "Serve the hot pot immediately, garnished with additional green onions if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F, then rest 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,

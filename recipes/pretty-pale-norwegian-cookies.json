@@ -3,8 +3,7 @@
   "description": "Grassy and shattering Norwegian cookies served on a cedar plank, perfect for a sick day, featuring a unique spherified texture and raw-friendly ingredients.",
   "cuisine": "Norwegian",
   "diet": [
-    "raw",
-    "gluten-free"
+    "raw"
   ],
   "meal": "snack",
   "ingredients": [
@@ -58,12 +57,11 @@
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 18,
-  "totalTimeMin": 78,
+  "totalTimeMin": 48,
   "servings": 12,
   "difficulty": "medium",
   "tags": [
     "cedar-plank",
-    "gluten-free",
     "grassy",
     "norwegian-cuisine",
     "raw-friendly",

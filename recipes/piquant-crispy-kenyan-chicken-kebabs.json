@@ -3,8 +3,7 @@
   "description": "A crowd-pleasing Kenyan dish featuring marinated chicken, malai, and wok-hei flavors, served in an agave leaf vessel, this recipe combines Mediterranean-friendly ingredients with a mustardy and crispy twist.",
   "cuisine": "Kenyan",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -67,7 +66,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "gluten-free",
     "high-protein",
     "mediterranean-inspired",

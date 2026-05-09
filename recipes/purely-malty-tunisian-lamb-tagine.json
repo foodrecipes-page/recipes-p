@@ -3,8 +3,7 @@
   "description": "A traditional Tunisian dish featuring lamb, raisins, and confit tomatoes, perfect for a hearty dinner, and a great hangover cure due to its springy and malty flavor profile.",
   "cuisine": "Tunisian",
   "diet": [
-    "halal",
-    "gluten-free"
+    "halal"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -66,7 +65,8 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 2 1/2 hours.",
     "Serve the tagine hot, garnished with fresh parsley or cilantro, if desired.",
     "Traditionally, the tagine is served with crusty bread or over couscous.",
-    "Let it rest for 10 minutes before serving to allow the flavors to meld together."
+    "Let it rest for 10 minutes before serving to allow the flavors to meld together.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,

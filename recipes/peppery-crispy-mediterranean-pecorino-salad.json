@@ -91,7 +91,7 @@
     "mood": "festive",
     "technique": "rest",
     "primaryIngredient": "pecorino",
-    "diet": "pescatarian",
+    "diet": null,
     "region": null,
     "cuisineAdjective": "Mediterranean",
     "mainIngredient": "Pecorino",

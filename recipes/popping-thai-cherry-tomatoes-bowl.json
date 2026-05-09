@@ -2,10 +2,7 @@
   "title": "Popping Thai Cherry Tomatoes Bowl",
   "description": "A savory, shattering dish featuring cherry tomatoes served in a dolset stone bowl, perfect for a date night dinner.",
   "cuisine": "Thai",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -87,11 +84,9 @@
   "tags": [
     "date-night",
     "dinner",
-    "gluten-free",
     "low-carb",
     "one-pan",
     "thaifood",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {

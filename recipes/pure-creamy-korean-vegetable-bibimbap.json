@@ -3,8 +3,7 @@
   "description": "A salty and creamy Korean dish featuring ginger and various vegetables, perfect for a weeknight dinner. This recipe is a variation of the traditional Busan-style bibimbap.",
   "cuisine": "Korean",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -61,7 +60,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "korean-food",
     "one-pan",
     "vegetarian",

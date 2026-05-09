@@ -3,9 +3,7 @@
   "description": "A briny, silky, and cozy Indian dish featuring kosher salt and a smoke-hot flavor, made with plant-based ingredients in the form of jalebi.",
   "cuisine": "Indian",
   "diet": [
-    "plant-based",
-    "vegan",
-    "gluten-free"
+    "plant-based"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -61,7 +59,6 @@
   "difficulty": "medium",
   "tags": [
     "deep-fried",
-    "gluten-free",
     "indian-dessert",
     "plant-based",
     "smoky-flavor",

@@ -2,9 +2,7 @@
   "title": "Piquant Jamaican Fish Stew",
   "description": "A nostalgic Jamaican dish featuring English muffins and lardons, this pescatarian-friendly stew is a must-try for seafood lovers. It is cooked to perfection in a cataplana vessel.",
   "cuisine": "Jamaican",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {

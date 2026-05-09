@@ -3,8 +3,7 @@
   "description": "A spicy and pillowy Russian dish featuring golden syrup, perfect for a solo dinner, served in a scallop shell.",
   "cuisine": "Russian",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -64,7 +63,8 @@
     "Fold the dough over the filling, forming a half-moon shape, and press the edges together to seal.",
     "Bring a large pot of salted water to a boil and gently add the dumplings.",
     "Cook the dumplings for 10 minutes, then remove with a slotted spoon.",
-    "Serve the dumplings in scallop shells, garnished with chopped fresh herbs if desired."
+    "Serve the dumplings in scallop shells, garnished with chopped fresh herbs if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,

@@ -3,7 +3,6 @@
   "description": "A sweet and pillowy American dish featuring smoky paprika, perfect for a hangover cure, made with dairy-free friendly ingredients. This casserole is a comforting and satisfying meal.",
   "cuisine": "American",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -60,7 +59,6 @@
   "tags": [
     "american-classic",
     "comfort-food",
-    "dairy-free",
     "one-pan",
     "vegetarian",
     "weeknight"
@@ -82,7 +80,7 @@
     "mood": "hangover-cure",
     "technique": "salt-bake",
     "primaryIngredient": "smoky paprika",
-    "diet": "dairy-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "American",
     "mainIngredient": "potatoes",
