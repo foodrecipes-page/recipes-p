@@ -1,0 +1,98 @@
+{
+  "title": "Peppery Crisp Argentinian Fish Ceviche",
+  "description": "A refreshing and spicy Argentinian dish featuring fish marinated in a mixture of fish sauce, aekjeot, and shio cure, with a peppery and crisp texture, this gluten-free-friendly recipe is perfect for a light lunch or snack",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "halibut fillets",
+      "amount": "1 pound",
+      "notes": "fresh and sashimi-grade"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "aekjeot",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shio cure",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mixed peppers",
+      "amount": "1 cup",
+      "notes": "such as bell and jalapeno"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cut the halibut fillets into small cubes and place them in a large bowl",
+    "In a small bowl, whisk together the fish sauce, aekjeot, and shio cure",
+    "Pour the sauce mixture over the fish cubes and toss to coat",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the fish to marinate",
+    "Just before serving, stir in the lime juice, mixed peppers, red onion, and cilantro",
+    "Season the mixture with salt to taste",
+    "Cover the bowl again and refrigerate for an additional 10 minutes to allow the flavors to meld",
+    "Serve the ceviche chilled, garnished with additional cilantro if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "latin-american",
+    "one-bowl",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "peppery-crisp-argentinian-fish-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-crisp-argentinian-fish-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:02:17Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "shio-cure",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "fish",
+    "descriptor": "peppery crisp",
+    "dishForm": "Ceviche"
+  }
+}
