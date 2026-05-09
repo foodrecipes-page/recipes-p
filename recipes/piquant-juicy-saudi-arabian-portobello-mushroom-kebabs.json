@@ -1,0 +1,100 @@
+{
+  "title": "Piquant Juicy Saudi Arabian Portobello Mushroom Kebabs",
+  "description": "A tangy and juicy vegan-friendly dish featuring dashi and glaze, inspired by Saudi Arabian cuisine, perfect for a energizing dinner.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portobello mushrooms",
+      "amount": "12 large",
+      "notes": "stems removed and caps sliced 1/2 inch thick"
+    },
+    {
+      "name": "Dashi broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together dashi broth, soy sauce, maple syrup, rice vinegar, and olive oil to make the glaze.",
+    "Add the sliced mushrooms to the bowl and toss to coat with the glaze, then let marinate for 30 minutes.",
+    "Preheat a grill or grill pan to medium-high heat, about 400 degrees Fahrenheit.",
+    "Thread the marinated mushroom slices onto skewers, leaving a small space between each slice.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the mushrooms are tender and slightly charred.",
+    "While the kebabs are grilling, mix the minced garlic and chopped parsley in a small bowl.",
+    "Once the kebabs are done, brush them with the garlic-parsley mixture and season with salt and black pepper.",
+    "Serve the kebabs hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "grilled",
+    "kebabs",
+    "mushroom",
+    "saudi-arabian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "piquant-juicy-saudi-arabian-portobello-mushroom-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-juicy-saudi-arabian-portobello-mushroom-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:55:59Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "glaze",
+    "primaryIngredient": "dashi",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "portobello mushrooms",
+    "descriptor": "Piquant Juicy",
+    "dishForm": "Kebabs"
+  }
+}
