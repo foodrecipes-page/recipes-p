@@ -1,0 +1,106 @@
+{
+  "title": "Pale Golden Mediterranean Bacon Skewers",
+  "description": "A light Mediterranean dish featuring crispy bacon, a malty glaze, and plant-based friendly ingredients, perfect for a snack or appetizer.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "plant-based-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "amount": "12 slices",
+      "notes": "thick cut"
+    },
+    {
+      "name": "Malt syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Pineapple chunks",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bell pepper chunks",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion chunks",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together malt syrup, lemon juice, and olive oil to make the glaze.",
+    "Add garlic, oregano, salt, and black pepper to the glaze and whisk until well combined.",
+    "Cut the bacon slices in half and thread onto skewers, leaving a small space between each piece.",
+    "Alternate threading pineapple, bell pepper, and onion chunks onto the skewers with the bacon.",
+    "Brush the glaze evenly onto the bacon and vegetables.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake for 20 minutes or until the bacon is crispy and golden brown.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "bacon-recipes",
+    "easy-recipes",
+    "gluten-free",
+    "mediterranean-diet",
+    "plant-based",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "pale-golden-mediterranean-bacon-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pale-golden-mediterranean-bacon-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:52:13Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "glaze",
+    "primaryIngredient": "bacon",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "bacon",
+    "descriptor": "Pale golden",
+    "dishForm": "Skewers"
+  }
+}
