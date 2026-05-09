@@ -1,0 +1,93 @@
+{
+  "title": "Promptly Packed Saudi Arabian Toor Dal Onigiri",
+  "description": "A quick and easy to make Saudi Arabian dish featuring toor dal and shaped like nigiri, wrapped in pandan leaves for a low fat friendly meal",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "amount": "1 cup",
+      "notes": "split red lentils"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "10 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ghee",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the toor dal and soak it in water for 30 minutes",
+    "Drain and boil the toor dal in 2 cups of water until it is soft",
+    "Heat ghee in a pan and add cumin seeds, coriander powder, and turmeric powder",
+    "Add the cooked toor dal to the pan and stir well",
+    "Season with salt to taste",
+    "Prepare the pandan leaves by washing and drying them",
+    "Spoon the toor dal mixture onto the center of a pandan leaf",
+    "Fold the pandan leaf to form a triangle and press gently to shape like nigiri",
+    "Repeat with the remaining ingredients"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 10,
+  "difficulty": "easy",
+  "tags": [
+    "low-fat",
+    "one-pan",
+    "quick-fix",
+    "saudi-arabian",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "promptly-packed-saudi-arabian-toor-dal-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/promptly-packed-saudi-arabian-toor-dal-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:19:37Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "toor dal",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "toor dal",
+    "descriptor": "promptly packed",
+    "dishForm": "Onigiri"
+  }
+}
