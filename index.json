@@ -5904,6 +5904,20 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-chinese-pork-ma-la-tang",
+    "title": "Piquant Chinese Pork Ma La Tang",
+    "tags": [
+      "chinese-cuisine",
+      "ma-la-tang",
+      "one-pot",
+      "pork-recipes",
+      "spicy-food"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-creamy-mexican-poblanos-stew",
     "title": "Piquant Creamy Mexican Poblanos Stew",
     "tags": [
