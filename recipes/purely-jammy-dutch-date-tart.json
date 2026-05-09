@@ -1,0 +1,93 @@
+{
+  "title": "Purely Jammy Dutch Date Tart",
+  "description": "A sweet and smoky Dutch dessert featuring dates and ready rolled shortcrust pastry, perfect for a date night.",
+  "cuisine": "Dutch",
+  "diet": [
+    "jain-friendly",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ready rolled shortcrust pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "dates",
+      "amount": "12",
+      "notes": "pitted"
+    },
+    {
+      "name": "smoked almond butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Roll out the shortcrust pastry and place it in a tart pan.",
+    "In a blender, blend the dates, smoked almond butter, brown sugar, lemon juice, water, vanilla extract, and sea salt until smooth.",
+    "Pour the date mixture into the pastry shell.",
+    "Bake the tart for 35 minutes or until the crust is golden brown.",
+    "Let the tart cool completely before serving.",
+    "Slice the tart into 8 pieces and serve.",
+    "Garnish with additional smoked almond butter and dates if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "dutch-dessert",
+    "jain-friendly",
+    "smoky-sweet",
+    "tart-dessert",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "purely-jammy-dutch-date-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-jammy-dutch-date-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:30:10Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "smoke",
+    "primaryIngredient": "ready rolled shortcrust pastry",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "dates",
+    "descriptor": "Purely Jammy",
+    "dishForm": "Tart"
+  }
+}
