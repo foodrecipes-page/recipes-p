@@ -1,0 +1,98 @@
+{
+  "title": "Pleasantly Dense Italian Swede Panzanella",
+  "description": "A nutty and dense Italian dish featuring swede, perfect for kids, made with dashi extract and egg free friendly, in a panzanella form.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "swede",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "italian bread",
+      "amount": "1 loaf",
+      "notes": "cubed"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Toss the diced swede with olive oil, salt, and black pepper on a baking sheet.",
+    "Roast the swede in the oven for 20 minutes or until tender.",
+    "In a large bowl, whisk together the dashi extract and canned tomatoes.",
+    "Add the roasted swede, cubed italian bread, and shredded mozzarella cheese to the bowl.",
+    "Toss the mixture until the bread is well coated with the tomato mixture.",
+    "Stir in the chopped fresh basil.",
+    "Serve the panzanella warm, garnished with additional basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "italian-food",
+    "kid-friendly",
+    "one-pot",
+    "vegetarian-dishes",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "pleasantly-dense-italian-swede-panzanella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pleasantly-dense-italian-swede-panzanella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:29:41Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "dashi-extract",
+    "primaryIngredient": "swede",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "swede",
+    "descriptor": "Pleasantly Dense",
+    "dishForm": "Panzanella"
+  }
+}
