@@ -1,0 +1,95 @@
+{
+  "title": "Purely Velvety Croatian Chicken Skewers",
+  "description": "A Whole30-friendly Croatian dish featuring Thai sweet basil, sous-vide cooked to perfection, served on a tagliere for a post-workout meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Thai sweet basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 140 degrees Fahrenheit.",
+    "In a bowl, whisk together olive oil, garlic, lemon juice, salt, black pepper, and paprika.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers in the sous-vide machine and cook for 2 hours.",
+    "After 2 hours, remove the skewers from the sous-vide machine and sprinkle with chopped Thai sweet basil.",
+    "Serve the chicken skewers on a tagliere with your choice of sides.",
+    "Garnish with additional Thai sweet basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "gluten-free",
+    "high-protein",
+    "post-workout",
+    "sous-vide",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "purely-velvety-croatian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-velvety-croatian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:13:07Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "sous-vide",
+    "primaryIngredient": "thai-sweet-basil-horapa",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "chicken",
+    "descriptor": "purely velvety",
+    "dishForm": "Skewers"
+  }
+}
