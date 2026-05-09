@@ -1,0 +1,100 @@
+{
+  "title": "Purely Silky Malaysian Beets Curry",
+  "description": "A sweet and silky Malaysian curry featuring beets, perfect for a lazy Sunday, and kosher-friendly. This dish is easy to make and delicious to eat.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the beets and cook for 5 minutes, stirring occasionally.",
+    "Pour in the coconut milk and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, until the beets are tender, about 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Use a whisk to stir and break down the beets, creating a silky texture.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beet-recipe",
+    "kosher-friendly",
+    "lazy-sunday",
+    "malaysian-curry",
+    "vegetarian-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "purely-silky-malaysian-beets-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-silky-malaysian-beets-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:18:08Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "whisk",
+    "primaryIngredient": "beets",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "beets",
+    "descriptor": "Purely silky",
+    "dishForm": "Curry"
+  }
+}
