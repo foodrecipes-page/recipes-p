@@ -1,0 +1,104 @@
+{
+  "title": "Purely Citrusy Korean Vegetables Hwajeon",
+  "description": "A citrusy and molten Korean dish featuring cider vinegar, perfect for a post-workout meal, made in a ttukbaegi earthenware pot. This vegetarian-friendly dish is a variation of traditional hwajeon.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced into thin rounds"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware pot over medium heat.",
+    "In a large bowl, whisk together cider vinegar, korean chili flakes, garlic, and ginger.",
+    "Add the sliced zucchini and grated carrots to the bowl and toss to coat with the vinegar mixture.",
+    "Add the sesame oil to the preheated ttukbaegi pot and swirl to coat the bottom.",
+    "Add the zucchini and carrot mixture to the pot and cook for 5 minutes, stirring occasionally.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped green onions and serve hot.",
+    "Traditionally, hwajeon is cooked on a griddle or in a pan, but using a ttukbaegi earthenware pot gives it a unique flavor and texture.",
+    "Be careful when handling the hot ttukbaegi pot as it can cause burns."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "korean-cuisine",
+    "molten",
+    "one-pot",
+    "post-workout",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "purely-citrusy-korean-vegetables-hwajeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-citrusy-korean-vegetables-hwajeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:48:16Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "cider vinegar",
+    "diet": "vegetarian",
+    "region": "chungcheong",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "vegetables",
+    "descriptor": "Purely Citrusy",
+    "dishForm": "Hwajeon"
+  }
+}
