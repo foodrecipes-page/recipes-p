@@ -6349,6 +6349,21 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-smoky-argentinian-rice-noodles",
+    "title": "Piquant Smoky Argentinian Rice Noodles",
+    "tags": [
+      "argentinian",
+      "one-pan",
+      "shojin-friendly",
+      "smoky",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-smoky-ethiopian-chicken-stew",
     "title": "Piquant Smoky Ethiopian Chicken Stew",
     "tags": [

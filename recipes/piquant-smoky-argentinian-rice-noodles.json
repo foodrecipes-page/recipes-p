@@ -1,0 +1,92 @@
+{
+  "title": "Piquant Smoky Argentinian Rice Noodles",
+  "description": "A smoky and snappy solo dinner dish featuring rice noodles and tempering chocolate, inspired by Argentinian cuisine, this shojin friendly meal is perfect for a weeknight dinner",
+  "cuisine": "Argentinian",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably brown rice noodles"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 oz"
+    },
+    {
+      "name": "argentinian chimichurri sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the rice noodles according to the package instructions",
+    "In a small bowl, mix together the smoked paprika, tempering chocolate, and argentinian chimichurri sauce",
+    "In a large skillet, heat the olive oil over medium heat and add the minced garlic",
+    "Cook the garlic for 1-2 minutes until fragrant",
+    "Add the cooked rice noodles to the skillet and toss with the garlic and oil",
+    "Add the smoked paprika and chocolate mixture to the skillet and toss to combine",
+    "Season with salt and black pepper to taste",
+    "Serve the noodles hot, garnished with additional chimichurri sauce if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "one-pan",
+    "shojin-friendly",
+    "smoky",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "piquant-smoky-argentinian-rice-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-smoky-argentinian-rice-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:07:26Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "rice noodles",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "rice noodles",
+    "descriptor": "Piquant Smoky",
+    "dishForm": "Noodles"
+  }
+}
