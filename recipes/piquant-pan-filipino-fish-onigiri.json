@@ -1,0 +1,101 @@
+{
+  "title": "Piquant Pan Filipino Fish Onigiri",
+  "description": "A spicy and aerated Filipino dish featuring strong white bread flour and nigiri-shaping, perfect for a pescatarian-friendly brunch",
+  "cuisine": "Filipino",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "strong white bread flour",
+      "amount": "2 cups",
+      "notes": "high protein content"
+    },
+    {
+      "name": "fish paste",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "filipino chili peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "calamansi juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Combine strong white bread flour, yeast, salt, sugar, and fish paste in a large mixing bowl.",
+    "Gradually add water to the mixture and knead for 10 minutes until a smooth dough forms.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Punch down the dough and divide it into 8 equal pieces.",
+    "Shape each piece into a triangle and place a slice of chili pepper and a sprinkle of green onions in the center.",
+    "Fold the triangle to form a nigiri shape and press the edges together to seal.",
+    "Heat sesame oil in a non-stick pan over medium heat and cook the onigiri for 3-4 minutes on each side.",
+    "Brush the onigiri with calamansi juice and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "asian-fusion",
+    "brunch-ideas",
+    "filipino-cuisine",
+    "homemade-bread",
+    "seafood-friendly",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "piquant-pan-filipino-fish-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-pan-filipino-fish-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:21:32Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "strong white bread flour",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "fish",
+    "descriptor": "Piquant Pan",
+    "dishForm": "Onigiri"
+  }
+}
