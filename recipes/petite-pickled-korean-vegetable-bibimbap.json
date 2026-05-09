@@ -1,0 +1,102 @@
+{
+  "title": "Petite Pickled Korean Vegetable Bibimbap",
+  "description": "A floral and fluffy Korean dish from the Gangwon region, featuring cheese slices and pickles, perfect for a light and refreshing meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mixed vegetables",
+      "amount": "2 cups",
+      "notes": "such as zucchini, carrots, and bell peppers"
+    },
+    {
+      "name": "pickle slices",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheese slices",
+      "amount": "1/2 cup",
+      "notes": "plant-based cheese alternative"
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Prepare the mixed vegetables by slicing them into thin strips and setting them aside.",
+    "In a large pan, heat the sesame oil over medium heat and add the mixed vegetables, cooking until they are tender.",
+    "In a small bowl, whisk together the soy sauce, salt, and black pepper to make the seasoning sauce.",
+    "Add the seasoning sauce to the pan with the vegetables and stir to combine.",
+    "In a separate pan, toast the sesame seeds over low heat, stirring frequently, until they are lightly browned.",
+    "To assemble the bibimbap, place a scoop of cooked white rice in the bottom of a bowl, followed by a portion of the vegetable mixture, some pickle slices, and a sprinkle of toasted sesame seeds and chopped green onions.",
+    "Top the bibimbap with a slice of plant-based cheese and serve immediately.",
+    "Garnish with additional green onions and sesame seeds, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-meal",
+    "korean-food",
+    "lunch-ideas",
+    "plant-based",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "petite-pickled-korean-vegetable-bibimbap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/petite-pickled-korean-vegetable-bibimbap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:19:08Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "pickle",
+    "primaryIngredient": "cheese slices",
+    "diet": "plant-based",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "vegetables",
+    "descriptor": "Petite Pickled",
+    "dishForm": "Bibimbap"
+  }
+}
