@@ -1,0 +1,100 @@
+{
+  "title": "Palatable Chinese Orange Hot Pot",
+  "description": "A winey and crumbly Chinese dish featuring oranges, this kid-friendly hot pot is perfect for a low-fat friendly meal, the oranges add a nice flavor and texture to the dish.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork slices",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "oranges",
+      "amount": "4",
+      "notes": "peeled and segmented"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Shaoxing wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the chicken broth, soy sauce, Shaoxing wine, and sliced ginger, and bring to a boil over high heat.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Add the pork slices to the pot and cook for 2 minutes.",
+    "Add the orange segments to the pot and cook for an additional 2 minutes.",
+    "Stir in the minced garlic and cook for 1 minute.",
+    "Season the hot pot with salt and pepper to taste.",
+    "Ladle the hot pot into bowls and garnish with chopped green onions.",
+    "Drizzle the sesame oil over the top of each bowl.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "easy-to-make",
+    "kid-friendly",
+    "low-fat",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "palatable-chinese-orange-hot-pot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/palatable-chinese-orange-hot-pot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:53:00Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "blanch",
+    "primaryIngredient": "oranges",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "oranges",
+    "descriptor": "palatable",
+    "dishForm": "Hot Pot"
+  }
+}

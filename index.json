@@ -69,6 +69,21 @@
     "shard": "p"
   },
   {
+    "slug": "palatable-chinese-orange-hot-pot",
+    "title": "Palatable Chinese Orange Hot Pot",
+    "tags": [
+      "chinese-food",
+      "easy-to-make",
+      "kid-friendly",
+      "low-fat",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "palatable-middle-eastern-chicken-musakhan",
     "title": "Middle Eastern Chicken Musakhan",
     "tags": [
