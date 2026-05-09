@@ -1,0 +1,102 @@
+{
+  "title": "Piquant Juicy Thai Shrimp Tom Yum",
+  "description": "A spicy and sour Thai soup featuring fermented kimchi and pecorino, served in individual mini cocottes. This keto-friendly dish is perfect for adventurous eaters.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "fermented kimchi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pecorino cheese",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "tom yum paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the tom yum paste and cook for 1 minute, stirring constantly.",
+    "Add the chopped kimchi and cook for 2 minutes, stirring occasionally.",
+    "Add the shrimp and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "In a small bowl, whisk together the chicken broth, fish sauce, and lime juice.",
+    "Pour the broth mixture over the shrimp and kimchi, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 2 minutes.",
+    "Stir in the grated pecorino cheese until melted and smooth.",
+    "Ladle the tom yum soup into individual mini cocottes.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "low-carb",
+    "one-pot",
+    "seafood",
+    "spicy-food",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "piquant-juicy-thai-shrimp-tom-yum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-juicy-thai-shrimp-tom-yum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:59:15Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "pecorino",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "shrimp",
+    "descriptor": "Piquant Juicy",
+    "dishForm": "Tom Yum"
+  }
+}
