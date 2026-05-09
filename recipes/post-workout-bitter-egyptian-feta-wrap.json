@@ -1,0 +1,119 @@
+{
+  "title": "Post-workout Bitter Egyptian Feta Wrap",
+  "description": "A post-workout Egyptian dish featuring cubed feta cheese, bitter greens, and creamy tahini sauce wrapped in a lotus leaf. Perfect for a refreshing and nutritious meal after a workout.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cubed feta cheese",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "Brined mustard greens",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Lotus leaf wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Tahini sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "0.25 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Soak the lotus leaf wrap in water for 5 minutes to make it pliable.",
+    "In a large bowl, combine the cubed feta cheese, brined mustard greens, lemon juice, garlic, salt, and black pepper. Mix well to combine.",
+    "Add the chopped fresh parsley, chopped fresh mint, and red pepper flakes (if using) to the bowl and mix again.",
+    "Brush the lotus leaf wrap with olive oil and place it on a flat surface.",
+    "Spread the feta and mustard green mixture evenly over the center of the lotus leaf wrap.",
+    "Drizzle the tahini sauce over the top of the feta and mustard green mixture.",
+    "Fold the ends of the lotus leaf wrap over the filling and then roll the wrap into a neat cylinder.",
+    "Repeat the process to make 4-6 wraps, depending on the size of your lotus leaf wraps.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-protein-boost",
+    "high-protein",
+    "low-calorie",
+    "refresher",
+    "vegetarian-protein"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "post-workout-bitter-egyptian-feta-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/post-workout-bitter-egyptian-feta-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:48:19Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "brine-wet",
+    "primaryIngredient": "cubed feta cheese",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Feta",
+    "descriptor": "Post-workout Bitter",
+    "dishForm": "Wrap"
+  }
+}

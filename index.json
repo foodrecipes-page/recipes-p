@@ -5553,6 +5553,20 @@
     "shard": "p"
   },
   {
+    "slug": "pillowy-quick-uruguayan-herbal-dish-one-pot",
+    "title": "pillowy quick uruguayan herbal dish",
+    "tags": [
+      "diabetic-friendly",
+      "herbal",
+      "one-pot",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "pillowy-roasted-japanese-chicken-noodles",
     "title": "Pillowy Roasted Japanese Chicken Noodles",
     "tags": [
@@ -8297,6 +8311,20 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "post-workout-bitter-egyptian-feta-wrap",
+    "title": "Post-workout Bitter Egyptian Feta Wrap",
+    "tags": [
+      "easy-protein-boost",
+      "high-protein",
+      "low-calorie",
+      "refresher",
+      "vegetarian-protein"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 5,
     "shard": "p"
   },
   {

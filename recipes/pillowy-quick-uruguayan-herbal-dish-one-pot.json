@@ -1,0 +1,67 @@
+{
+  "title": "pillowy quick uruguayan herbal dish",
+  "description": "a unique and flavorful one-pot dish featuring shallots, nuka-pickle, and a hint of uruguayan spices. this recipe is diabetic-friendly and perfect for a weeknight dinner.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shallots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400f (200c).",
+    "in a large cedar-plank vessel, combine shallots, nuka-pickle, and 2 tbsp olive oil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "herbal",
+    "one-pot",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "pillowy-quick-uruguayan-herbal-dish-one-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-quick-uruguayan-herbal-dish-one-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:49:01Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "shallots",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "herbal dish",
+    "descriptor": "pillowy quick",
+    "dishForm": "one-pot"
+  }
+}
