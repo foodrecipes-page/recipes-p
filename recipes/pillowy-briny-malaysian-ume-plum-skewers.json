@@ -1,0 +1,104 @@
+{
+  "title": "Pillowy Briny Malaysian Ume Plum Skewers",
+  "description": "A festive Malaysian dish featuring ume-plum, grilled to perfection on a tava-griddle over binchotan-charcoal, with a pillowy texture and briny flavor, this dish is perfect for any occasion. It is also raw-friendly, making it a great option for those looking for a lighter meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "raw",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ume-plum",
+      "amount": "12",
+      "notes": "pitted"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "binchotan-charcoal",
+      "amount": "1 bag",
+      "notes": "for grilling"
+    },
+    {
+      "name": "tava-griddle",
+      "amount": "1",
+      "notes": "for cooking"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "12",
+      "notes": "soaked in water"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Soak the bamboo skewers in water for at least 30 minutes before grilling.",
+    "In a blender, combine coconut milk, sea salt, brown sugar, lemon juice, ginger paste, and garlic paste, and blend until smooth.",
+    "Thread the ume-plum onto the bamboo skewers, leaving a small space between each plum.",
+    "Brush the tava-griddle with a small amount of coconut oil and heat it over the binchotan-charcoal.",
+    "Grill the ume-plum skewers for 2-3 minutes on each side, or until they are slightly charred.",
+    "Brush the skewers with the coconut milk mixture during the last minute of grilling.",
+    "Serve the Pillowy Briny Malaysian Ume Plum Skewers warm, garnished with fresh herbs if desired.",
+    "Let the skewers cool for a few minutes before serving.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "gluten-free",
+    "grilled",
+    "malaysian-cuisine",
+    "raw-friendly",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "pillowy-briny-malaysian-ume-plum-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-briny-malaysian-ume-plum-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:05:57Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "ume-plum",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "ume-plum",
+    "descriptor": "Pillowy Briny",
+    "dishForm": "Skewers"
+  }
+}

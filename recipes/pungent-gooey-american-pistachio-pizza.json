@@ -1,0 +1,93 @@
+{
+  "title": "Pungent Gooey American Pistachio Pizza",
+  "description": "A fermented, gooey, and savory American dish featuring unsalted pistachio, infused oil, and satvik-friendly ingredients, perfect for midnight cravings. This unique pizza is a twist on traditional flavors.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "unsalted pistachio",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "pizza sauce",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine warm water, yeast, and a pinch of salt, then let it sit for 5 minutes.",
+    "Add flour, pistachio, and infused oil to the bowl, mixing until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Punch down the dough and roll it out into a circle or rectangle shape.",
+    "Spread pizza sauce over the dough, leaving a small border around the edges.",
+    "Sprinkle mozzarella cheese over the sauce.",
+    "Bake the pizza in the preheated oven for 15-20 minutes, or until the crust is golden brown and the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "midnight-cravings",
+    "pistachio-lovers",
+    "satvik-diet",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "pungent-gooey-american-pistachio-pizza",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-gooey-american-pistachio-pizza",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:05:35Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "infuse-oil",
+    "primaryIngredient": "unsalted pistachio",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "pistachio",
+    "descriptor": "Pungent gooey",
+    "dishForm": "Pizza"
+  }
+}

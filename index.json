@@ -5345,6 +5345,21 @@
     "shard": "p"
   },
   {
+    "slug": "pillowy-briny-malaysian-ume-plum-skewers",
+    "title": "Pillowy Briny Malaysian Ume Plum Skewers",
+    "tags": [
+      "appetizer",
+      "gluten-free",
+      "grilled",
+      "malaysian-cuisine",
+      "raw-friendly",
+      "snack"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "pillowy-cozy-venezuelan-beef-casserole",
     "title": "Pillowy Cozy Venezuelan Beef Casserole",
     "tags": [
@@ -9420,6 +9435,20 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-gooey-american-pistachio-pizza",
+    "title": "Pungent Gooey American Pistachio Pizza",
+    "tags": [
+      "american-cuisine",
+      "midnight-cravings",
+      "pistachio-lovers",
+      "satvik-diet",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
