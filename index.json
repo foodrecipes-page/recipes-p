@@ -231,6 +231,21 @@
     "shard": "p"
   },
   {
+    "slug": "paleo-perfectly-french-purple-sprouting-broccoli-gratin",
+    "title": "Paleo Perfectly French Purple Sprouting Broccoli Gratin",
+    "tags": [
+      "french-cuisine",
+      "gluten-free",
+      "gratin",
+      "kid-friendly",
+      "paleo-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "pan-crisped-argentinian-potato-empanadas",
     "title": "Pan Crisped Argentinian Potato Empanadas",
     "tags": [

@@ -1,0 +1,94 @@
+{
+  "title": "Paleo Perfectly French Purple Sprouting Broccoli Gratin",
+  "description": "A garlicky, crunchy, kid-friendly French dish featuring purple sprouting broccoli in a paleo-friendly gratin form, infused with the flavors of bhuna spices.",
+  "cuisine": "French",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "purple sprouting broccoli",
+      "amount": "1 large bunch",
+      "notes": "trimmed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, bring 4 cups of water to a boil and blanch the purple sprouting broccoli for 5 minutes.",
+    "In a skillet, heat the coconut oil over medium heat and saute the minced garlic until fragrant.",
+    "Add the bhuna spice mix to the skillet and cook for 1 minute, stirring constantly.",
+    "In a large bowl, combine the blanched broccoli, garlic and spice mixture, and toss to coat.",
+    "In a separate bowl, mix the almond flour, egg, salt, and black pepper to make the topping.",
+    "In a 9x13 inch baking dish, arrange the broccoli mixture in an even layer and top with the almond flour mixture.",
+    "Bake the gratin in the preheated oven for 25 minutes, or until the top is golden brown and the broccoli is tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "gluten-free",
+    "gratin",
+    "kid-friendly",
+    "paleo-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "paleo-perfectly-french-purple-sprouting-broccoli-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/paleo-perfectly-french-purple-sprouting-broccoli-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:38:17Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "bhuna",
+    "primaryIngredient": "purple sprouting broccoli",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "purple sprouting broccoli",
+    "descriptor": "Paleo Perfectly",
+    "dishForm": "Gratin"
+  }
+}
