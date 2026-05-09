@@ -1,0 +1,97 @@
+{
+  "title": "Pretty Pale Norwegian Cookies",
+  "description": "Grassy and shattering Norwegian cookies served on a cedar plank, perfect for a sick day, featuring a unique spherified texture and raw-friendly ingredients.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "raw",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grass-fed butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1 piece",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Mix the almond flour, coconut sugar, and melted butter in a large bowl until well combined.",
+    "Add the eggs and vanilla extract to the bowl and mix until a dough forms.",
+    "Wrap the dough in plastic wrap and refrigerate for 30 minutes.",
+    "Roll the dough into small balls and place on a baking sheet lined with parchment paper.",
+    "Bake the cookies for 18 minutes, or until lightly golden.",
+    "Allow the cookies to cool completely on the baking sheet.",
+    "Mix the sodium alginate and water in a small bowl until dissolved.",
+    "Drop the cooled cookies into the sodium alginate mixture and let sit for 30 seconds.",
+    "Remove the cookies from the mixture and place on the cedar plank to serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 18,
+  "totalTimeMin": 78,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "gluten-free",
+    "grassy",
+    "norwegian-cuisine",
+    "raw-friendly",
+    "shattering",
+    "spherified"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "pretty-pale-norwegian-cookies",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pretty-pale-norwegian-cookies",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:48:06Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "sick-day",
+    "technique": "spherify",
+    "primaryIngredient": "cookies",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cookies",
+    "descriptor": "Pretty Pale",
+    "dishForm": "Cookies"
+  }
+}
