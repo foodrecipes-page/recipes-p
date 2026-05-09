@@ -1,0 +1,92 @@
+{
+  "title": "Pan Seared Malaysian Chicken Satay",
+  "description": "Grassy and flaky Malaysian dish featuring caramelized sugar sauce, perfect for a special occasion, this kosher friendly recipe is sure to impress.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Prepare the marinade by combining coconut milk, vegetable oil, sugar, soy sauce, lime juice, garlic, and ginger in a large bowl.",
+    "Add the chicken strips to the marinade and mix well to coat, then cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium high heat and thread the marinated chicken onto skewers.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "While the chicken is cooking, prepare the caramelized sugar sauce by heating 2 tablespoons of sugar in a small saucepan over medium heat.",
+    "Once the sugar has dissolved, increase the heat to medium high and bring the sauce to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Serve the grilled chicken satay with the caramelized sugar sauce for dipping.",
+    "Garnish with sliced lime and chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized-sugar",
+    "grilled-chicken",
+    "kosher-friendly",
+    "malaysian-cuisine",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "pan-seared-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:30:50Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "grill",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Pan seared",
+    "dishForm": "Satay"
+  }
+}
