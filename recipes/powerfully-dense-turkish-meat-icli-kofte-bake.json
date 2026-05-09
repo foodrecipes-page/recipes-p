@@ -1,0 +1,98 @@
+{
+  "title": "Powerfully Dense Turkish Meat Icli Kofte Bake",
+  "description": "A sweet and dense Turkish dish featuring marsala wine, perfect for a hangover cure, this keto friendly icli kofte bake is a unique twist on traditional Turkish cuisine.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "marsala wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bulgur",
+      "amount": "1/2 cup",
+      "notes": "fine grind"
+    },
+    {
+      "name": "spices",
+      "amount": "1 teaspoon",
+      "notes": "including salt, pepper, and paprika"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the ground beef, onion, marsala wine, bulgur, spices, and eggs, mixing well with your hands until just combined.",
+    "Transfer the mixture to a baking dish and shape into a large rectangle.",
+    "Drizzle the melted butter over the top of the meat mixture.",
+    "Sprinkle the chopped parsley over the top of the butter.",
+    "Bake the icli kofte for 35 minutes, or until the meat is cooked through and the top is lightly browned.",
+    "Remove the dish from the oven and let it rest for 10 minutes before slicing and serving.",
+    "Slice the icli kofte into thick rounds and serve hot.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked-dishes",
+    "hangover-cure",
+    "keto-friendly",
+    "low-carb",
+    "meat-based",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "powerfully-dense-turkish-meat-icli-kofte-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/powerfully-dense-turkish-meat-icli-kofte-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:32:20Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "bake",
+    "primaryIngredient": "marsala-wine",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "meat",
+    "descriptor": "Powerfully Dense",
+    "dishForm": "Icli Kofte"
+  }
+}
