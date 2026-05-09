@@ -1,0 +1,142 @@
+{
+  "title": "Peppery Malaysian Taleggio Satay",
+  "description": "A shaggy, festive Malaysian dish featuring Taleggio cheese, inspired by the bold flavors of Southeast Asia. This flexitarian-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Taleggio cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Kecap manis",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Fresh or bottled, whichever is handy"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (optional)",
+      "notes": ""
+    },
+    {
+      "name": "Peppercorns",
+      "amount": "freshly ground (optional)",
+      "notes": ""
+    },
+    {
+      "name": "Wood skewers",
+      "amount": "10-12",
+      "notes": "",
+      "notes2": ""
+    }
+  ],
+  "instructions": [
+    "Grill or broil the wood skewers for 2 minutes to prevent them from burning.",
+    "Cut the Taleggio cheese into 1-inch cubes.",
+    "In a blender or food processor, combine coconut milk, ginger, garlic, red pepper flakes, kecap manis, soy sauce, lime juice, fish sauce, and brown sugar.",
+    "Blend the mixture until smooth, scraping down the sides of the blender as needed.",
+    "Transfer the mixture to a saucepan and bring it to a simmer over medium heat.",
+    "Reduce the heat to low and let it cook for 5 minutes, stirring occasionally.",
+    "While the sauce is cooking, thread the cheese cubes onto the prepared skewers.",
+    "Brush the cheese with a little olive oil and season with black pepper to taste.",
+    "Grill or broil the satay for 2-3 minutes on each side, or until the cheese is melted and the skewers are golden brown.",
+    "Remove the satay from the heat and let it cool for a minute or two.",
+    "Serve the satay hot, garnished with chopped cilantro and a sprinkle of freshly ground peppercorns if desired.",
+    "Garnish with additional kecap manis or sriracha if you like a little extra heat.",
+    "Serve with a side of steamed vegetables or a simple salad for a well-rounded meal.",
+    "Adjust the seasoning to taste.",
+    "Have fun with it and get creative with your toppings!",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "flexitarian",
+    "malaysian",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 28
+  },
+  "slug": "peppery-malaysian-taleggio-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-malaysian-taleggio-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:16:10Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "taleggio",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "taleggio",
+    "descriptor": "peppery",
+    "dishForm": "satay"
+  }
+}
