@@ -1,0 +1,101 @@
+{
+  "title": "Pan Seared Thai Serrano Ham Noodles",
+  "description": "Rich and crispy Thai dish featuring serrano ham, this recipe is a show-off dish that combines the savory flavors of Thailand with the salty taste of serrano ham, all cooked to perfection in a copper pot.",
+  "cuisine": "Thai",
+  "diet": [
+    "satvik-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Serrano Ham",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Rice Noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a copper pot over medium-high heat.",
+    "Add the thinly sliced serrano ham to the pot and cook until crispy, about 2-3 minutes per side.",
+    "Remove the ham from the pot and set aside on a paper towel-lined plate.",
+    "Add the remaining 1 tablespoon of vegetable oil to the pot and stir in the Thai red curry paste.",
+    "Cook the curry paste for 1 minute, stirring constantly, until fragrant.",
+    "Add the coconut milk, fish sauce, brown sugar, salt, and black pepper to the pot and stir to combine.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, until the sauce has thickened slightly.",
+    "Add the rice noodles to the pot and cook, stirring constantly, until they are well coated with the sauce.",
+    "Return the crispy serrano ham to the pot and stir to combine with the noodles and sauce.",
+    "Transfer the noodles to a serving platter and garnish with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "copper-pot",
+    "noodle-dish",
+    "one-pot",
+    "spicy-food",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "pan-seared-thai-serrano-ham-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-thai-serrano-ham-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:40:27Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "score-fat",
+    "primaryIngredient": "serrano ham",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Serrano Ham",
+    "descriptor": "Pan seared",
+    "dishForm": "Noodles"
+  }
+}

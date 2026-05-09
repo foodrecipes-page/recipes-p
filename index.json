@@ -706,6 +706,20 @@
     "shard": "p"
   },
   {
+    "slug": "pan-seared-thai-serrano-ham-noodles",
+    "title": "Pan Seared Thai Serrano Ham Noodles",
+    "tags": [
+      "copper-pot",
+      "noodle-dish",
+      "one-pot",
+      "spicy-food",
+      "thai-cuisine"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "pan-seared-tunisian-snow-peas-tagine",
     "title": "Pan Seared Tunisian Snow Peas Tagine",
     "tags": [
