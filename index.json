@@ -1018,6 +1018,20 @@
     "shard": "p"
   },
   {
+    "slug": "peaceful-purple-jamaican-broccoli-tagine",
+    "title": "Peaceful Purple Jamaican Broccoli Tagine",
+    "tags": [
+      "jamaican-cuisine",
+      "lazy-sunday",
+      "one-pot",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
     "slug": "peach-tempeh-stir-fry",
     "title": "Peach Tempeh Stir-Fry",
     "tags": [
