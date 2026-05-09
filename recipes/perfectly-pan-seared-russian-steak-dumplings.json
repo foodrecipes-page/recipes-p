@@ -1,0 +1,98 @@
+{
+  "title": "Perfectly Pan Seared Russian Steak Dumplings",
+  "description": "A savory and crumbly Russian dish featuring fillet of steak, perfect for a sick day, and made with halal-friendly ingredients. This dish is shaped like nigiri for a unique presentation.",
+  "cuisine": "Russian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the beef fillet, onion, and garlic.",
+    "In a separate bowl, whisk together the flour, egg, water, salt, and black pepper.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape and place a small piece of beef in the center of each disk.",
+    "Fold the dough over the beef to form a half-moon shape and press the edges together to seal the dumpling.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the dumplings to the skillet and cook for 3-4 minutes on each side, until they are golden brown and crispy.",
+    "Serve the dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "halal-friendly",
+    "pan-seared",
+    "russian-cuisine",
+    "steak-dumplings"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "perfectly-pan-seared-russian-steak-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/perfectly-pan-seared-russian-steak-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:50:43Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "fillet of steak",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "steak",
+    "descriptor": "Perfectly Pan Seared",
+    "dishForm": "Dumplings"
+  }
+}
