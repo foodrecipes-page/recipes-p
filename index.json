@@ -184,6 +184,22 @@
     "shard": "p"
   },
   {
+    "slug": "paleo-friendly-flaky-uruguayan-ackee-empanadas",
+    "title": "Paleo-Friendly Flaky Uruguayan Ackee Empanadas",
+    "tags": [
+      "dairy-free",
+      "empanadas",
+      "flaky-crust",
+      "gluten-free",
+      "meal-prep",
+      "paleo",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "paleo-monsoon-porridge",
     "title": "Paleo Monsoon Porridge",
     "tags": [
@@ -8479,6 +8495,22 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 60,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-fermented-russian-dish-pilaf",
+    "title": "Pungent Fermented Russian Dish Pilaf",
+    "tags": [
+      "dairy-free",
+      "fermented",
+      "gluten-free",
+      "one-pan",
+      "russian",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {

@@ -1,0 +1,102 @@
+{
+  "title": "Paleo-Friendly Flaky Uruguayan Ackee Empanadas",
+  "description": "A paleo-friendly twist on traditional Uruguayan empanadas, featuring ackee and a flaky crust, perfect for meal prep.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "paleo",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ackee",
+      "amount": "1 cup",
+      "notes": "Canned or fresh, drained and chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1/2 cup",
+      "notes": "Grass-fed, cooked, and crumbled"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup",
+      "notes": "Melted"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1 cup",
+      "notes": "Blanched"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Kosher"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the almond flour dough on a floured surface to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of ackee mixture in the center of each dough circle."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "empanadas",
+    "flaky-crust",
+    "gluten-free",
+    "meal-prep",
+    "paleo",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "paleo-friendly-flaky-uruguayan-ackee-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/paleo-friendly-flaky-uruguayan-ackee-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:03:15Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "boil",
+    "primaryIngredient": "ackee",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "ackee",
+    "descriptor": "Paleo-friendly Flaky",
+    "dishForm": "Empanadas"
+  }
+}

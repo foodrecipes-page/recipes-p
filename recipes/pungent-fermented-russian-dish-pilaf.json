@@ -1,0 +1,111 @@
+{
+  "title": "Pungent Fermented Russian Dish Pilaf",
+  "description": "A spicy, crunchy, fermented Russian dish made with buckwheat groats, featuring chilli flakes and a dairy-free friendly sauce. This dish is perfect for those who enjoy a monsoon of flavors.",
+  "cuisine": "russian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "buckwheat groats",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "chilli flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2cm",
+      "notes": "grated"
+    },
+    {
+      "name": "galangal",
+      "amount": "2cm",
+      "notes": "grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a mortar and pestle, pound the ginger and galangal until they are well crushed.",
+    "Add the chilli flakes, onion, and garlic to the mortar and pestle and pound until they are well combined.",
+    "In a large saucepan, heat the coconut oil over medium heat.",
+    "Add the buckwheat groats to the saucepan and cook for 2 minutes, stirring constantly, until they are lightly toasted.",
+    "Add the apple cider vinegar, water, and sugar to the saucepan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the buckwheat is tender and the liquid has been absorbed.",
+    "Transfer the buckwheat mixture to the mortar and pestle and pound until it is well combined with the spice mixture.",
+    "Transfer the pilaf to a serving dish and let it cool to room temperature before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "fermented",
+    "gluten-free",
+    "one-pan",
+    "russian",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 15
+  },
+  "slug": "pungent-fermented-russian-dish-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-fermented-russian-dish-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:03:20Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "chilli flakes",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Dish",
+    "descriptor": "Pungent Fermented",
+    "dishForm": "Pilaf"
+  }
+}
