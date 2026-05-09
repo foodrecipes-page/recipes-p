@@ -545,6 +545,21 @@
     "shard": "p"
   },
   {
+    "slug": "pan-seared-mexican-mung-bean-sprouts-tacos-al-pastor",
+    "title": "Pan Seared Mexican Mung Bean Sprouts Tacos Al Pastor",
+    "tags": [
+      "easy-meal",
+      "lunch",
+      "mexican",
+      "tacos",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "pan-seared-moroccan-chicken-liver-skewers",
     "title": "Pan Seared Moroccan Chicken Liver Skewers",
     "tags": [

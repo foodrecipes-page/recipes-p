@@ -1,0 +1,111 @@
+{
+  "title": "Pan Seared Mexican Mung Bean Sprouts Tacos Al Pastor",
+  "description": "A lazy Sunday Mexican dish featuring mung bean sprouts, this recipe is a twist on traditional tacos al pastor with a Buddhist temple friendly twist, using mung bean sprouts instead of meat. It is a charred and bouncy dish perfect for a relaxing day.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mung bean sprouts",
+      "amount": "1 cup",
+      "notes": "freshly sprouted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pineapple",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the mung bean sprouts and cook until they are tender and lightly browned.",
+    "Add the diced pineapple and cook for 2 minutes until the pineapple is tender.",
+    "In a small bowl, whisk together the orange juice and lime juice.",
+    "Pour the juice mixture over the mung bean sprouts and pineapple, and stir to combine.",
+    "Season with salt to taste.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the mung bean sprout mixture onto a tortilla and topping with chopped cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meal",
+    "lunch",
+    "mexican",
+    "tacos",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "pan-seared-mexican-mung-bean-sprouts-tacos-al-pastor",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-mexican-mung-bean-sprouts-tacos-al-pastor",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:36:48Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "lazy-sunday",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "mung-bean-sprout-sukju",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "mung bean sprouts",
+    "descriptor": "Pan seared",
+    "dishForm": "Tacos Al Pastor"
+  }
+}
