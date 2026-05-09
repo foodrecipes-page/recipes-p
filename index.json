@@ -7866,6 +7866,21 @@
     "shard": "p"
   },
   {
+    "slug": "puffed-sweet-egyptian-milk-pudding",
+    "title": "Puffed Sweet Egyptian Milk Pudding",
+    "tags": [
+      "comal-recipe",
+      "egyptian-dessert",
+      "middle-eastern",
+      "steam-cooked",
+      "sweet-tooth",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "puffed-vietnamese-bread-pudding",
     "title": "Puffed Vietnamese Bread Pudding",
     "tags": [

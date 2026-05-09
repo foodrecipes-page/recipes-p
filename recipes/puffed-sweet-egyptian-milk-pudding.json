@@ -1,0 +1,92 @@
+{
+  "title": "Puffed Sweet Egyptian Milk Pudding",
+  "description": "A satvik-friendly Egyptian dessert featuring sweetened condensed milk, this dish is a crowd-pleaser with its unique garlicky flavor and shaggy texture, all achieved through the use of steam and a comal vessel.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 can",
+      "notes": "chilled"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "rose water",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together the cornstarch and water until smooth.",
+    "In a large bowl, combine the sweetened condensed milk, garlic powder, and rose water, if using, and whisk until well combined.",
+    "Add the cornstarch mixture to the milk mixture and whisk until smooth.",
+    "Pour the mixture into a comal or a heatproof bowl that can fit over a pot of boiling water.",
+    "Place the comal or bowl over a pot of boiling water, making sure that the bottom of the comal or bowl is not touching the water.",
+    "Cover the pot with a lid and steam the mixture for 15 minutes, or until it has thickened and puffed up.",
+    "Remove the comal or bowl from the pot and let it cool slightly.",
+    "Drizzle the melted butter over the top of the pudding and smooth out the top with a spatula.",
+    "Garnish with chopped pistachios and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comal-recipe",
+    "egyptian-dessert",
+    "middle-eastern",
+    "steam-cooked",
+    "sweet-tooth",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "puffed-sweet-egyptian-milk-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/puffed-sweet-egyptian-milk-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:53:40Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "steam",
+    "primaryIngredient": "sweetened condensed milk",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "milk",
+    "descriptor": "puffed sweet",
+    "dishForm": "Pudding"
+  }
+}
