@@ -3889,6 +3889,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-pan-seared-filipino-beef-bistek-tagalog",
+    "title": "Peppery Pan-Seared Filipino Beef Bistek Tagalog",
+    "tags": [
+      "beef",
+      "breakfast",
+      "eggs",
+      "filipino",
+      "one-pan",
+      "tagalog"
+    ],
+    "cuisine": "filipino",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-peruvian-dum-noodles",
     "title": "Peppery Peruvian Dum Noodles",
     "tags": [

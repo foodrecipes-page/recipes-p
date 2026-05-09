@@ -1,0 +1,108 @@
+{
+  "title": "Peppery Pan-Seared Filipino Beef Bistek Tagalog",
+  "description": "A classic Filipino dish featuring tender beef, a hint of peppery flavor, and a runny egg on top.",
+  "cuisine": "filipino",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "beef slices",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tablespoons",
+      "notes": "such as apple cider vinegar"
+    },
+    {
+      "name": "patis",
+      "amount": "2 tablespoons",
+      "notes": "fish sauce"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beaten eggs",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add garlic and cook for 1 minute until fragrant.",
+    "Add beef slices and cook for 3-4 minutes per side until browned.",
+    "Transfer beef to a plate and set aside.",
+    "Reduce heat to medium and add vinegar, patis, salt, and black pepper.",
+    "Scrape the bottom of the pan to deglaze, then add beef broth.",
+    "Return beef to the pan and simmer for 2-3 minutes until sauce is thickened.",
+    "Crack eggs into the pan and scramble until cooked through.",
+    "Serve beef with egg on top and a sprinkle of black pepper.",
+    "Enjoy your Peppery Pan-Seared Filipino Beef Bistek Tagalog!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "breakfast",
+    "eggs",
+    "filipino",
+    "one-pan",
+    "tagalog"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 38
+  },
+  "slug": "peppery-pan-seared-filipino-beef-bistek-tagalog",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-pan-seared-filipino-beef-bistek-tagalog",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T12:49:24Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "air-fry",
+    "primaryIngredient": "egg",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "beef",
+    "descriptor": "Peppery Pan-Seared",
+    "dishForm": "Bistek Tagalog"
+  }
+}
