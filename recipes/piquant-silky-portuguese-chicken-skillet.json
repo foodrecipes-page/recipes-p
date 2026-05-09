@@ -1,0 +1,102 @@
+{
+  "title": "Piquant Silky Portuguese Chicken Skillet",
+  "description": "This malty and silky Portuguese dish features fajita seasoning and is anti-inflammatory friendly, making it a great option for a weeknight dinner. The combination of chicken, vegetables, and spices creates a flavorful and healthy meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add the sliced onion and bell pepper to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Add the garlic, fajita seasoning, turmeric, salt, and black pepper to the skillet and cook for 1 minute.",
+    "Add the chicken broth to the skillet and stir to combine.",
+    "Reduce the heat to medium-low and simmer, covered, until the chicken is cooked through and the sauce has thickened, about 10 minutes.",
+    "Serve the chicken and sauce hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "piquant-silky-portuguese-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-silky-portuguese-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:48:49Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "saute",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Piquant Silky",
+    "dishForm": "Skillet"
+  }
+}
