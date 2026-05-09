@@ -1,0 +1,96 @@
+{
+  "title": "Perfectly Paired Mediterranean Lamb Kebabs",
+  "description": "A light and citrusy Mediterranean dish featuring lamb shoulder, perfect for a hangover cure or a keto-friendly meal option.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, oregano, salt, and pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Roll out the puff pastry on a floured surface to a large rectangle.",
+    "Brush the pastry with a little water and fold it in half lengthwise.",
+    "Cut the pastry into strips, about 1 inch wide.",
+    "Wrap each lamb skewer with a pastry strip, brushing with a little water to seal.",
+    "Place the kebabs on a baking sheet lined with parchment paper.",
+    "Bake the kebabs for 20-25 minutes, or until the pastry is golden brown and the lamb is cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "lamb-recipes",
+    "low-carb",
+    "mediterranean-inspired",
+    "puff-pastry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "perfectly-paired-mediterranean-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/perfectly-paired-mediterranean-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:53:15Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "lamination-puff",
+    "primaryIngredient": "lamb shoulder",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Perfectly Paired",
+    "dishForm": "Kebabs"
+  }
+}
