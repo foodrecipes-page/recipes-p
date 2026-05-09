@@ -1,0 +1,92 @@
+{
+  "title": "Pillowy Polish Pork Dumplings",
+  "description": "These paleo-friendly dumplings are filled with a savory mixture of ground pork, ground clove, and lacquer-glaze, making for a delicious and energizing Polish dish.",
+  "cuisine": "Polish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably pasture-raised"
+    },
+    {
+      "name": "ground clove",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lacquer-glaze",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, ground clove, lacquer-glaze, salt, and black pepper, and mix well with your hands until just combined.",
+    "In a small bowl, whisk together the coconut flour and egg, then add the mixture to the pork mixture and mix until a dough forms.",
+    "Knead the dough on a floured surface for about 5 minutes, until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a tablespoon of chicken broth in the center of each disk.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the dumpling.",
+    "Repeat with the remaining dough and filling.",
+    "Bring a large pot of salted water to a boil and gently add the dumplings to the pot.",
+    "Cook the dumplings for 10-12 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dumplings",
+    "ground-pork",
+    "paleo-friendly",
+    "polish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "pillowy-polish-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-polish-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:23:52Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "ground clove",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "pillowy paleo",
+    "dishForm": "Dumplings"
+  }
+}
