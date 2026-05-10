@@ -1,0 +1,96 @@
+{
+  "title": "Pan Roasted Syrian Potato Roast",
+  "description": "A traditional Syrian dish featuring roasted russet potatoes in a briny and molten sauce, perfect for a weeknight dinner. This recipe is onion and garlic free, making it accessible to those with dietary restrictions.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "russet potatoes",
+      "amount": "4 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the potatoes with olive oil, salt, black pepper, sumac, and paprika until they are evenly coated.",
+    "Spread the potatoes in a single layer on a baking sheet and roast for 20 minutes.",
+    "While the potatoes are roasting, combine the lemon juice, pomegranate molasses, and water in a small saucepan and bring to a boil over high heat.",
+    "Reduce the heat to medium-low and simmer the sauce for 10 minutes or until it has thickened slightly.",
+    "After the potatoes have roasted for 20 minutes, remove them from the oven and brush them with the sauce.",
+    "Return the potatoes to the oven and continue to roast for an additional 20 minutes or until they are tender and caramelized.",
+    "Remove the potatoes from the oven and let them cool for a few minutes before serving.",
+    "Serve the potatoes hot, garnished with additional sumac and paprika if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "potato-recipe",
+    "syrian-cuisine",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "pan-roasted-syrian-potato-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-roasted-syrian-potato-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:43:00Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "roast",
+    "primaryIngredient": "russet potato",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "potato",
+    "descriptor": "Pan roasted",
+    "dishForm": "Roast"
+  }
+}
