@@ -1,0 +1,92 @@
+{
+  "title": "Pungent Dutch Cox Apple Skewers",
+  "description": "A smoky and savory Dutch dish featuring cox apples, this recipe is a crowd pleaser with its balance of bitter and sweet flavors, and is halal friendly.",
+  "cuisine": "Dutch",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cox apples",
+      "amount": "4",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, whisk together smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the cox apple pieces to the bowl and toss to coat with the spice mixture.",
+    "Thread the apple pieces onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and grill for 10 minutes, turning occasionally.",
+    "In a small bowl, whisk together lemon juice and chopped parsley.",
+    "Brush the lemon parsley mixture onto the skewers during the last 2 minutes of grilling.",
+    "Remove the skewers from the grill and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "grilled",
+    "halal-friendly",
+    "savory",
+    "smoky",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "pungent-dutch-cox-apple-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-dutch-cox-apple-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:36:28Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shattering",
+    "mood": "crowd-pleaser",
+    "technique": "smoke-hot",
+    "primaryIngredient": "cox-apple",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "cox apple",
+    "descriptor": "pungent smoke hot",
+    "dishForm": "Skewers"
+  }
+}
