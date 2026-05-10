@@ -1,0 +1,102 @@
+{
+  "title": "Piquant Vietnamese Almonds Mi Quang",
+  "description": "A festive Vietnamese dish featuring flaked almonds and lacquer glaze, this fatty and gooey mi quang is perfect for special occasions, and is also fodmap friendly.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "1 pound",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "flaked almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pork sausage",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "Heat the vegetable oil in a large skillet over medium heat.",
+    "Add the sliced pork sausage to the skillet and cook until browned.",
+    "Add the flaked almonds to the skillet and cook until toasted.",
+    "In a small bowl, whisk together the lacquer glaze, fish sauce, lime juice, salt, and black pepper.",
+    "Pour the glaze mixture over the pork and almonds in the skillet and stir to combine.",
+    "Add the cooked noodles to the skillet and stir to combine with the glaze and pork mixture.",
+    "Transfer the mi quang to a serving platter and garnish with chopped scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "noodle-dishes",
+    "special-occasion",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "piquant-vietnamese-almonds-mi-quang",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-vietnamese-almonds-mi-quang",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:45:27Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "flaked almonds",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "almonds",
+    "descriptor": "Piquant",
+    "dishForm": "Mi Quang"
+  }
+}
