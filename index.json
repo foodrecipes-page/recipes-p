@@ -6107,6 +6107,21 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-creamy-russian-banana-pancakes",
+    "title": "Piquant Creamy Russian Banana Pancakes",
+    "tags": [
+      "banana-recipes",
+      "breakfast-ideas",
+      "brine-wet",
+      "fodmap-friendly",
+      "russian-cuisine",
+      "yeasty-treats"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-crisp-ukrainian-plum-skewers",
     "title": "Piquant Crisp Ukrainian Plum Skewers",
     "tags": [
@@ -7011,6 +7026,21 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
+    "slug": "piquant-sharp-kenyan-mushroom-skewers",
+    "title": "Piquant Sharp Kenyan Mushroom Skewers",
+    "tags": [
+      "date-night",
+      "gluten-free",
+      "grilled-vegetables",
+      "kenyan-cuisine",
+      "mushroom-recipes",
+      "vegetarian"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 32,
     "shard": "p"
   },
   {

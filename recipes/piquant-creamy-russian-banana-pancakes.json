@@ -1,0 +1,103 @@
+{
+  "title": "Piquant Creamy Russian Banana Pancakes",
+  "description": "A yeasty and creamy Russian dish featuring fried ripe bananas, this recipe is a unique and adventurous treat. It is also FODMAP-friendly and made with brine-wet ingredients.",
+  "cuisine": "Russian",
+  "diet": [
+    "FODMAP-friendly",
+    "brine-wet"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ripe bananas",
+      "amount": "4",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, salt, and sugar.",
+    "In a separate bowl, whisk together the eggs, milk, and brine.",
+    "Add the wet ingredients to the dry ingredients and mix until a smooth batter forms.",
+    "Heat the butter in a large skillet over medium heat.",
+    "Add the sliced bananas to the skillet and cook for 2-3 minutes on each side, until golden brown.",
+    "Add the cooked bananas to the batter and stir to combine.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the skillet and cook for 2-3 minutes, until bubbles appear on the surface.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve the pancakes warm with a dollop of heavy cream on top.",
+    "Garnish with additional sliced bananas, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "banana-recipes",
+    "breakfast-ideas",
+    "brine-wet",
+    "fodmap-friendly",
+    "russian-cuisine",
+    "yeasty-treats"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "piquant-creamy-russian-banana-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-creamy-russian-banana-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:15:31Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "brine-wet",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "bananas",
+    "descriptor": "Piquant creamy",
+    "dishForm": "Pancakes"
+  }
+}

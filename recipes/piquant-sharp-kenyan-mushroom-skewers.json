@@ -1,0 +1,102 @@
+{
+  "title": "Piquant Sharp Kenyan Mushroom Skewers",
+  "description": "A sour and snappy Kenyan dish featuring mushroom, perfect for a date night, made with beurre-monte and egg-free friendly ingredients. This recipe combines the flavors of Africa with a French twist.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 pound",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together beurre-monte, lemon juice, olive oil, garlic, ginger, cumin, paprika, salt, and black pepper.",
+    "Add the mushrooms to the bowl and toss to coat with the marinade.",
+    "Thread the marinated mushrooms onto skewers, leaving a small space between each mushroom.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the mushrooms are tender and slightly charred.",
+    "Serve the skewers hot, garnished with fresh parsley or cilantro if desired.",
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute.",
+    "Serve with a side of roasted vegetables or a salad for a complete meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "grilled-vegetables",
+    "kenyan-cuisine",
+    "mushroom-recipes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "piquant-sharp-kenyan-mushroom-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-sharp-kenyan-mushroom-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:15:01Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "beurre-monte",
+    "primaryIngredient": "mushroom",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "mushroom",
+    "descriptor": "Piquant Sharp",
+    "dishForm": "Skewers"
+  }
+}
