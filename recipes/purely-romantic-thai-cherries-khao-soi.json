@@ -1,0 +1,105 @@
+{
+  "title": "Purely Romantic Thai Cherries Khao Soi",
+  "description": "A Whole30-friendly, earthy, and romantic Thai dish featuring dried cherries and a cheese-pull, served in the form of khao soi, grilled to perfection on a robata grill.",
+  "cuisine": "Thai",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried cherries",
+      "amount": "1 cup",
+      "notes": "rehydrated in water"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "grass-fed beef",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "egg noodles",
+      "amount": "1 cup",
+      "notes": "made from rice flour and coconut milk"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut milk, red curry paste, fish sauce, and lime juice.",
+    "Add the sliced grass-fed beef to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated beef onto skewers and grill on the robata grill for 5 minutes per side.",
+    "While the beef is grilling, cook the egg noodles according to package instructions.",
+    "In a large saucepan, combine the cooked noodles, rehydrated dried cherries, and chopped cilantro.",
+    "Pour the curry sauce over the noodles and stir to combine.",
+    "To serve, place the grilled beef on top of the noodles and garnish with thinly sliced scallions.",
+    "Drizzle with sesame oil and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "earthy-flavors",
+    "grilled-meats",
+    "romantic-dinner",
+    "thai-cuisine",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "purely-romantic-thai-cherries-khao-soi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-romantic-thai-cherries-khao-soi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:25:32Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "cheese-pull",
+    "mood": "romantic",
+    "technique": "robata-grill",
+    "primaryIngredient": "dried cherries",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "cherries",
+    "descriptor": "Purely Romantic",
+    "dishForm": "Khao Soi"
+  }
+}
