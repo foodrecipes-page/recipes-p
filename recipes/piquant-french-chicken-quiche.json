@@ -1,0 +1,102 @@
+{
+  "title": "Piquant French Chicken Quiche",
+  "description": "A spicy and indulgent French quiche featuring dark soy sauce and braised chicken, perfect for a special occasion. This halal-friendly dish is sure to impress with its rich and gooey texture.",
+  "cuisine": "French",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "pie crust",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat 1 tablespoon of oil over medium heat and cook the chicken until browned, about 5 minutes.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent, about 3 minutes.",
+    "Add the dark soy sauce to the skillet and stir to combine, then set aside to cool.",
+    "Roll out the pie crust and place it in a 9-inch tart pan with a removable bottom.",
+    "In a large bowl, whisk together the eggs, heavy cream, gruyere cheese, salt, and black pepper.",
+    "Add the cooled chicken mixture to the bowl and stir to combine.",
+    "Pour the egg mixture into the pie crust and smooth the top.",
+    "Bake the quiche for 35-40 minutes, or until the edges are golden brown and the center is set.",
+    "Remove the quiche from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-dishes",
+    "french-cuisine",
+    "halal-friendly",
+    "quiche-recipes",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "piquant-french-chicken-quiche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-french-chicken-quiche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:17:03Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "braise",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "halal",
+    "region": "alsace",
+    "cuisineAdjective": "French",
+    "mainIngredient": "chicken",
+    "descriptor": "Piquant Gooey",
+    "dishForm": "Quiche"
+  }
+}

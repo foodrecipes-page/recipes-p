@@ -6363,6 +6363,20 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-french-chicken-quiche",
+    "title": "Piquant French Chicken Quiche",
+    "tags": [
+      "chicken-dishes",
+      "french-cuisine",
+      "halal-friendly",
+      "quiche-recipes",
+      "special-occasion"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 60,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-french-pork-shoulder-quiche",
     "title": "puignant french pork shoulder quiche",
     "tags": [
