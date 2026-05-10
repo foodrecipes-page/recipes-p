@@ -1,0 +1,105 @@
+{
+  "title": "Pleasing Crisp Spanish Vegetable Cocido Madrileno",
+  "description": "A malty, crisp, and energizing Spanish dish featuring vegan white wine vinegar and lacquer glaze, this vegetarian friendly cocido madrileno is perfect for a hearty lunch. It combines a variety of vegetables and beans in a flavorful broth.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "canned, drained, and rinsed"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": "vegan"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1 tablespoon",
+      "notes": "vegetarian friendly"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onions and cook until they are translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced carrots and cubed potatoes, cooking for 5 minutes.",
+    "Add the chickpeas, vegetable broth, white wine vinegar, and smoked paprika, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the lacquer glaze and season with salt and pepper to taste.",
+    "Serve the cocido madrileno hot, garnished with chopped fresh parsley or cilantro.",
+    "Let the dish cool completely before refrigerating or freezing.",
+    "Reheat the cocido madrileno over low heat, stirring occasionally, until warmed through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "healthy-eating",
+    "hearty-stew",
+    "one-pot",
+    "spanish-cuisine",
+    "vegetarian",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "pleasing-crisp-spanish-vegetable-cocido-madrileno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/pleasing-crisp-spanish-vegetable-cocido-madrileno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:03:31Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "vegetables",
+    "descriptor": "Pleasing Crisp",
+    "dishForm": "Cocido Madrileno"
+  }
+}
