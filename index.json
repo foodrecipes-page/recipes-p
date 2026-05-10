@@ -5096,6 +5096,21 @@
     "shard": "p"
   },
   {
+    "slug": "perfectly-roasted-venezuelan-beef-roast",
+    "title": "Perfectly Roasted Venezuelan Beef Roast",
+    "tags": [
+      "romantic-dinner",
+      "satvik-friendly",
+      "slow-cooked",
+      "south-american",
+      "special-occasion",
+      "tender-beef"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 180,
+    "shard": "p"
+  },
+  {
     "slug": "perfectly-smoked-egyptian-lamb-tagine",
     "title": "Smoked Egyptian Lamb Tagine",
     "tags": [

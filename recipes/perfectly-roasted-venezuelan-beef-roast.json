@@ -1,0 +1,102 @@
+{
+  "title": "Perfectly Roasted Venezuelan Beef Roast",
+  "description": "A savory and romantic Venezuelan dish featuring a slow roasted beef roast, served with a side of ssamjang sauce, this recipe is satvik-friendly and perfect for special occasions. The result is a shattering tender beef roast that is sure to impress.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef roast",
+      "amount": "3 pounds",
+      "notes": "preferably prime rib or top round"
+    },
+    {
+      "name": "ssamjang sauce",
+      "amount": "1 cup",
+      "notes": "store bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325 degrees Fahrenheit.",
+    "Season the beef roast with salt and black pepper.",
+    "Heat the olive oil in a large oven safe skillet over medium high heat.",
+    "Sear the beef roast on all sides until browned.",
+    "Add the garlic, onion, carrots, and potatoes to the skillet.",
+    "Transfer the skillet to the preheated oven and roast for 2 hours.",
+    "After 2 hours, baste the beef roast with the ssamjang sauce.",
+    "Return the skillet to the oven and continue roasting for an additional 30 minutes.",
+    "Remove the skillet from the oven and let the beef roast rest for 10 minutes before slicing.",
+    "Slice the beef roast against the grain and serve with the roasted vegetables and additional ssamjang sauce if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "romantic-dinner",
+    "satvik-friendly",
+    "slow-cooked",
+    "south-american",
+    "special-occasion",
+    "tender-beef"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "perfectly-roasted-venezuelan-beef-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/perfectly-roasted-venezuelan-beef-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:38:37Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "roast",
+    "primaryIngredient": "ssamjang",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "beef",
+    "descriptor": "Perfectly Roasted",
+    "dishForm": "Roast"
+  }
+}
