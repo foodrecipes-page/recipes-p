@@ -6867,6 +6867,21 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-pan-greek-buckwheat-pilaf",
+    "title": "Piquant Pan Greek Buckwheat Pilaf",
+    "tags": [
+      "buckwheat-recipe",
+      "greek-cuisine",
+      "halal-friendly",
+      "kid-friendly",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-pan-seared-thai-red-snapper-spicy-boat-noodles",
     "title": "Piquant Pan-Seared Thai Red Snapper Spicy Boat Noodles",
     "tags": [

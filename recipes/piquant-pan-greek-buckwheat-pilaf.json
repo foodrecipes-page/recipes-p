@@ -1,0 +1,105 @@
+{
+  "title": "Piquant Pan Greek Buckwheat Pilaf",
+  "description": "A flavorful and kid-friendly Greek dish featuring buckwheat, binchotan-charcoal grilled chicken, and a blend of Mediterranean spices, served in a tagliere vessel.",
+  "cuisine": "Greek",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "grilled over binchotan-charcoal"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large tagliere vessel over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the buckwheat and cook, stirring constantly, for 2 minutes.",
+    "Add the grilled chicken, diced tomato, crumbled feta cheese, dried oregano, salt, and pepper, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 10 minutes.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Garnish with additional feta cheese and a sprinkle of oregano, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buckwheat-recipe",
+    "greek-cuisine",
+    "halal-friendly",
+    "kid-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "piquant-pan-greek-buckwheat-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-pan-greek-buckwheat-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:46:02Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "buckwheat",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "buckwheat",
+    "descriptor": "Piquant Pan",
+    "dishForm": "Pilaf"
+  }
+}
