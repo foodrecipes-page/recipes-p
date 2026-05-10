@@ -6196,6 +6196,22 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-dense-thai-pork-moo-ping",
+    "title": "Piquant Dense Thai Pork Moo Ping",
+    "tags": [
+      "dense",
+      "gluten-free",
+      "grilled-pork",
+      "herbal",
+      "kaffir-lime-leaf",
+      "low-calorie",
+      "thai-street-food"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-dutch-chicken-casserole",
     "title": "Piquant Dutch Chicken Casserole",
     "tags": [

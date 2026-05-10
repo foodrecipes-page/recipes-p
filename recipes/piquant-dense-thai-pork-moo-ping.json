@@ -1,0 +1,107 @@
+{
+  "title": "Piquant Dense Thai Pork Moo Ping",
+  "description": "A herbal and dense Thai street food dish featuring kaffir lime leaf, this recipe is a low calorie friendly version of the classic moo ping, with a katsuramuki cut for a beautiful presentation.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "katsuramuki cut"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "6 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": "low fat"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together fish sauce, lime juice, brown sugar, garlic, and black pepper to make the marinade.",
+    "Add the katsuramuki cut pork shoulder to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium high heat.",
+    "Remove the pork from the marinade and cook for 5 minutes per side, or until cooked through.",
+    "Transfer the pork to a cutting board and let rest for 5 minutes.",
+    "Slice the pork into thin strips and serve with a sprinkle of salt and a drizzle of coconut milk.",
+    "Garnish with fresh kaffir lime leaves and serve immediately.",
+    "Heat the vegetable oil in a small saucepan over medium heat and fry the kaffir lime leaves until crispy.",
+    "Drain the fried kaffir lime leaves on paper towels and use as garnish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dense",
+    "gluten-free",
+    "grilled-pork",
+    "herbal",
+    "kaffir-lime-leaf",
+    "low-calorie",
+    "thai-street-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "piquant-dense-thai-pork-moo-ping",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-dense-thai-pork-moo-ping",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:31:29Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "kaffir-lime-leaf",
+    "diet": "low-calorie",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "pork",
+    "descriptor": "Piquant Dense",
+    "dishForm": "Moo Ping"
+  }
+}
