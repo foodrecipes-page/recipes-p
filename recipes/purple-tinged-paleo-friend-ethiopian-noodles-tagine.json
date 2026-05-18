@@ -1,0 +1,110 @@
+{
+  "title": "Ethiopian Inspired Purple Noodles Tagine",
+  "description": "A unique fusion of Ethiopian and Paleo flavors, featuring vibrant purple shirataki noodles in a rich, smoky sauce.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Purple Shirataki Noodles",
+      "amount": "1 package (8 oz)",
+      "notes": "Low-carb alternative to traditional noodles"
+    },
+    {
+      "name": "Tallow",
+      "amount": "2 tablespoons",
+      "notes": "Rendered beef fat for smoky flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped for added depth"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated for spice"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced for aromatic flavor"
+    },
+    {
+      "name": "Berbere Spice",
+      "amount": "2 teaspoons",
+      "notes": "Ethiopian chili powder blend"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": "For vibrant color and earthy flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "1/4 cup",
+      "notes": "For rich, creamy sauce"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat tallow in a large, deep skillet or clay vessel over medium heat.",
+    "Add chopped onion and cook until translucent, about 5 minutes.",
+    "Grate ginger and add to skillet, cooking an additional 2 minutes.",
+    "Mince garlic and add to skillet, cooking 1 minute more.",
+    "Add Berbere Spice, turmeric, and salt to skillet, stirring to combine.",
+    "Add shirataki noodles to skillet, stirring to coat with spice mixture.",
+    "Pour in coconut cream, stirring to combine with noodles and spice mixture.",
+    "Simmer tagine over low heat for 10-15 minutes, or until noodles have absorbed most of the sauce.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "gluten-free",
+    "nightshade-free",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "purple-tinged-paleo-friend-ethiopian-noodles-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/purple-tinged-paleo-friend-ethiopian-noodles-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:33:33Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "render-fat",
+    "primaryIngredient": "shirataki",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Noodles",
+    "descriptor": "Purple-tinged Paleo-friend",
+    "dishForm": "Tagine"
+  }
+}
