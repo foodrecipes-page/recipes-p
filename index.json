@@ -9105,6 +9105,21 @@
     "shard": "p"
   },
   {
+    "slug": "puffed-french-english-muffins-souffle-style-english-muffin",
+    "title": "Puffed French English Muffins Souffle-Style English Muffin",
+    "tags": [
+      "breakfast",
+      "dessert",
+      "english-muffins",
+      "french",
+      "souffle",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "puffed-korean-peppers-wrap",
     "title": "Puffed Korean Peppers Wrap",
     "tags": [
