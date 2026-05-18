@@ -1,0 +1,111 @@
+{
+  "title": "Pungent Italian Beans Risotto",
+  "description": "A simple, low-calorie Italian dish from Emilia-Romagna region featuring jammy beans in a creamy risotto made with soya milk and fermented flavors.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "lactose-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cannellini beans",
+      "amount": "250g",
+      "notes": "Canned, drained, and rinsed"
+    },
+    {
+      "name": "Soya milk",
+      "amount": "300ml",
+      "notes": "Low-calorie alternative to dairy"
+    },
+    {
+      "name": "Fermented vegetable juice",
+      "amount": "2 tablespoons",
+      "notes": "From a local juice maker"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Extra virgin, for cooking"
+    },
+    {
+      "name": "White wine",
+      "amount": "50ml",
+      "notes": "Optional, for added flavor"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "50g",
+      "notes": "Vegetarian, grated"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the cannellini beans, soya milk, fermented vegetable juice, and rice vinegar.",
+    "Stir well to combine and bring to a simmer.",
+    "Add the Arborio rice and stir to coat with the liquid.",
+    "If using white wine, add it now and stir to deglaze the pan.",
+    "Reduce heat to low and cook, stirring occasionally, for 20-25 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Stir in the grated Parmesan cheese and season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "italian",
+    "lactose-free",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "pungent-italian-beans-risotto",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-italian-beans-risotto",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:31:58Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shaggy",
+    "mood": "weeknight",
+    "technique": "ferment",
+    "primaryIngredient": "soya milk",
+    "diet": "low-calorie",
+    "region": "emilia-romagna",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "beans",
+    "descriptor": "Pungent",
+    "dishForm": "Risotto"
+  }
+}
