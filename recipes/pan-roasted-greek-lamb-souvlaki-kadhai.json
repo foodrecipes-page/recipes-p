@@ -1,0 +1,109 @@
+{
+  "title": "Pan-Roasted Greek Lamb Souvlaki Kadhai",
+  "description": "A crispy and herbal twist on traditional Greek lamb souvlaki, cooked to perfection in a shallow kadhai with a hint of chilled butter and deglazed with red wine.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless lamb shoulder or leg, cut into 1-inch souvlaki pieces",
+      "amount": "1 pound",
+      "notes": "preferably from a Greek or Mediterranean market"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "2 teaspoons",
+      "notes": "preferably a flaky, artisanal salt"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "1 teaspoon",
+      "notes": "preferably a coarse, Tellicherry pepper"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "preferably a peppery, Arbequina oil"
+    },
+    {
+      "name": "chopped fresh oregano",
+      "amount": "2 tablespoons",
+      "notes": "preferably a fragrant, Greek oregano"
+    },
+    {
+      "name": "chopped fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "preferably a delicate, English thyme"
+    },
+    {
+      "name": "chilled unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "preferably a cultured, European-style butter"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup",
+      "notes": "preferably a dry, full-bodied wine like Cabernet Sauvignon or Syrah"
+    },
+    {
+      "name": "Greek yogurt (optional)",
+      "amount": "",
+      "notes": "serve on the side, if desired"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "In a large bowl, whisk together the olive oil, oregano, thyme, salt, and pepper to make a marinade.",
+    "Add the lamb souvlaki pieces to the marinade and toss to coat. Cover the bowl with plastic wrap and refrigerate for at least 2 hours, or overnight.",
+    "Remove the lamb from the refrigerator and let it sit at room temperature for 30 minutes.",
+    "Heat a shallow kadhai or skillet over medium-high heat. Add the lamb souvlaki pieces and sear, without moving, until browned on the bottom, about 3-4 minutes.",
+    "Flip the lamb and sear the other side, another 3-4 minutes.",
+    "Transfer the kadhai to the preheated oven and cook for 10-12 minutes, or until the lamb is cooked to your desired level of doneness.",
+    "Remove the kadhai from the oven and brush the lamb with the chilled butter. Return the kadhai to the stovetop over medium heat.",
+    "Deglaze the kadhai with the red wine, scraping up any browned bits from the bottom of the pan with a wooden spoon.",
+    "Simmer the sauce for 2-3 minutes, until slightly thickened and syrupy.",
+    "Serve the lamb souvlaki hot, garnished with fresh oregano and a dollop of Greek yogurt, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "greek",
+    "herbal",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "souvlaki",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 55,
+    "carbs": 5,
+    "fat": 37
+  },
+  "slug": "pan-roasted-greek-lamb-souvlaki-kadhai",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-roasted-greek-lamb-souvlaki-kadhai",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:31:18Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "deglaze",
+    "primaryIngredient": "chilled butter",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Crispy Pan-Roasted",
+    "dishForm": null
+  }
+}

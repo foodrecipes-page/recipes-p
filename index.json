@@ -262,6 +262,23 @@
     "shard": "p"
   },
   {
+    "slug": "pan-roasted-greek-lamb-souvlaki-kadhai",
+    "title": "Pan-Roasted Greek Lamb Souvlaki Kadhai",
+    "tags": [
+      "crispy",
+      "greek",
+      "herbal",
+      "high-protein",
+      "lamb",
+      "one-pan",
+      "souvlaki",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
     "slug": "pan-roasted-syrian-potato-roast",
     "title": "Pan Roasted Syrian Potato Roast",
     "tags": [
