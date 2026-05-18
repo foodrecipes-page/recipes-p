@@ -1,0 +1,102 @@
+{
+  "title": "Paleo-Friendly Pan-Seared Tunisian Lamb Tagine",
+  "description": "A flavorful and refreshing Tunisian dish made with pan-seared lamb, fresh vegetables, and a blend of aromatic spices, all cooked in a traditional clay tagine.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, boneless and cubed",
+      "amount": "1.5 lbs"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin, ground",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in the bottom of a clay tagine or a large skillet over medium-high heat.",
+    "Add the lamb to the pan and cook until browned on all sides, about 5 minutes.",
+    "Add the onion, garlic, ginger, cumin, garam masala, paprika, and salt to the pan and cook until the onion is translucent, about 5 minutes.",
+    "Add the lemon juice to the pan and stir to combine.",
+    "Cover the pan with a lid and transfer it to the oven.",
+    "Bake the lamb in the preheated oven for 20 minutes, or until it is cooked through.",
+    "Stir in the chopped parsley and cook for 1 minute.",
+    "Serve the lamb hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-option",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "tunisian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "paleo-friendly-pan-seared-tunisian-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/paleo-friendly-pan-seared-tunisian-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:29:50Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "caramelize",
+    "primaryIngredient": "garam masala",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Paleo-friendly Pan-Seared",
+    "dishForm": "Tagine"
+  }
+}
