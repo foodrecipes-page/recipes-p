@@ -1,0 +1,113 @@
+{
+  "title": "perfumed malaysian fish satay bowl",
+  "description": "a savory and fluffy bowl dish originating from malaysia, infused with a pescatarian-friendly twist. the kombu-cold-extract and vanilla custard create a unique and refreshing aroma.",
+  "cuisine": "malaysian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fish satay (white fish, marinated in coconut milk, lime juice, and galangal)",
+      "amount": "300g",
+      "notes": "use cod or snapper for best results"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "japanese short-grain rice recommended"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "kombu",
+      "amount": "20g",
+      "notes": "dried kelp seaweed"
+    },
+    {
+      "name": "vanilla beans",
+      "amount": "2",
+      "notes": "fresh or high-quality dried beans"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "optional, use sparingly"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 tbsp",
+      "notes": "grated or minced"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "10g",
+      "notes": "chopped fresh coriander"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional, use sparingly"
+    }
+  ],
+  "instructions": [
+    "start by preparing the fish satay according to the marinating ingredients and cooking instructions.",
+    "cook the rice according to package instructions, setting aside to cool.",
+    "extract the kombu-cold-extract by combining it with 200ml of hot water and stirring to dissolve, then straining into a clean bowl.",
+    "whisk the vanilla beans into the extracted kombu-cold-extract, whisking until well combined.",
+    "heat a tablespoon of coconut oil in a small saucepan over medium heat, adding the sugar, fish sauce (if using), lime juice, and galangal, stirring constantly until the sugar dissolves.",
+    "add the cooked fish satay to the saucepan, stirring to combine.",
+    "to assemble the bowl, arrange a scoop of cooked rice on the bottom, followed by a spoonful of the fish satay mixture, and finishing with a drizzle of the vanilla-kombu-cold-extract.",
+    "garnish with chopped coriander leaves, chili flakes (if using), and a sprinkle of coconut flakes.",
+    "serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "flavorful",
+    "healthy",
+    "one-pan",
+    "seafood",
+    "veggie-forward",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "perfumed-malaysian-fish-satay-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/perfumed-malaysian-fish-satay-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:59:24Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "vanilla custard",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "fish",
+    "descriptor": "Perfumed",
+    "dishForm": null
+  }
+}
