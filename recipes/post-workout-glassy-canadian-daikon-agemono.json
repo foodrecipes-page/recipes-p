@@ -1,0 +1,89 @@
+{
+  "title": "Post-workout Glassy Canadian Daikon Agemono",
+  "description": "A revitalizing, post-workout Canadian dish featuring daikon, agemono-deep-fry, and dairy-free-friendly ingredients.",
+  "cuisine": "Canadian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "daikon",
+      "amount": "2 medium"
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "crushed black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Grate the daikon and set aside.",
+    "In a shallow dish, whisk together tahini, rice vinegar, and maple syrup.",
+    "Heat coconut oil in a deep frying pan to 325°F (165°C).",
+    "Dredge the daikon in the tahini mixture, then carefully place in the hot oil.",
+    "Fry for 3-4 minutes, or until the daikon is golden brown and crispy.",
+    "Drain the daikon on paper towels and sprinkle with sesame seeds.",
+    "Garnish with chopped cilantro and serve immediately.",
+    "Season with crushed black pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "gluten-free",
+    "high-protein",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "post-workout-glassy-canadian-daikon-agemono",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/post-workout-glassy-canadian-daikon-agemono",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:52:47Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "daikon",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Daikon",
+    "descriptor": "Post-workout Glassy",
+    "dishForm": "Agemono"
+  }
+}
