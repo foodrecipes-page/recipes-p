@@ -1,0 +1,102 @@
+{
+  "title": "Gyeongsang-Style Peppery Korean Dumplings",
+  "description": "A hearty and invigorating post-workout dish from the Gyeongsang region of Korea, featuring passion fruit pulp and an array of bold spices.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "sattvic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose gluten-free flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 1/2 teaspoons"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "passion fruit pulp",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine the gluten-free flour and water to form a dough, then knead for 5 minutes.",
+    "Divide the dough into small balls, about 1 inch in diameter.",
+    "Roll out each ball of dough into a thin circle, about 3 inches in diameter.",
+    "Place a tablespoon of the passion fruit pulp and a piece of tofu in the center of each dough circle.",
+    "Fold the dough in half to form a half-moon shape, and press the edges together to seal the dumpling.",
+    "Heat 2 tablespoons of coconut oil in a skillet over medium-high heat, and cook the dumplings for 3-4 minutes on each side, until golden brown.",
+    "Add the remaining 2 tablespoons of coconut oil, garlic, ginger, cinnamon, salt, and black pepper to the skillet, and cook for 1-2 minutes, until fragrant.",
+    "Add the cooked dumplings to the skillet, and toss to coat with the spicy mixture.",
+    "Serve the dumplings hot, garnished with green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "korean",
+    "one-pan",
+    "post-workout",
+    "sattvic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 322,
+    "protein": 14,
+    "carbs": 34,
+    "fat": 19
+  },
+  "slug": "peppery-dense-korean-dum-dumplings",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-dense-korean-dum-dumplings",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T21:29:13Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "dum",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "ayurvedic-sattvic",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "dum",
+    "descriptor": "peppery dense",
+    "dishForm": "Dumplings"
+  }
+}
