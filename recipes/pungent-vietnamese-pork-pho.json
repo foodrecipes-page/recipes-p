@@ -1,0 +1,119 @@
+{
+  "title": "Pungent Vietnamese Pork Pho",
+  "description": "A flavorful and aromatic Vietnamese noodle soup made with ground pork and spices.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground pork",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Cinnamon sticks",
+      "amount": "2",
+      "notes": "crushed"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Star anise",
+      "amount": "1 whole",
+      "notes": "crushed"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1 pound",
+      "notes": "dried"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine fish sauce, soy sauce, and brown sugar; stir to dissolve.",
+    "In a large pot, combine ginger, cinnamon sticks, nutmeg, and star anise; cook over medium heat, stirring occasionally.",
+    "Add ground pork to the pot; cook, breaking up with a spoon, until no longer pink, about 5 minutes.",
+    "Add beef broth and water to the pot; bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Cook rice noodles according to package instructions; drain and set aside.",
+    "To assemble the pho, place noodles in a bowl; add slices of cooked pork and ladle hot broth over the top.",
+    "Serve with lime wedges and garnish with cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-free",
+    "gluten-free",
+    "low-calorie",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "pungent-vietnamese-pork-pho",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-vietnamese-pork-pho",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T10:29:44Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "fold",
+    "primaryIngredient": "ground nutmeg",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Pungent",
+    "dishForm": "Pho"
+  }
+}
