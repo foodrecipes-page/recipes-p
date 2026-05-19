@@ -1,0 +1,98 @@
+{
+  "title": "Poached Russian Pike-perch Pilaf",
+  "description": "A kid-friendly, macrobiotic-friendly pilaf dish featuring poached pike-perch, crispy onions, and a tangy balsamic glaze.",
+  "cuisine": "russian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pike-perch fillets",
+      "amount": "4",
+      "notes": "-"
+    },
+    {
+      "name": "white rice",
+      "amount": "1 cup",
+      "notes": "-"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "-"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "-"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tbsp",
+      "notes": "-"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "-"
+    },
+    {
+      "name": "salt",
+      "amount": "-",
+      "notes": "-"
+    },
+    {
+      "name": "black pepper",
+      "amount": "-",
+      "notes": "-"
+    }
+  ],
+  "instructions": [
+    "Poach the pike-perch fillets in a large pot of simmering water for 8 minutes, or until cooked through.",
+    "Prepare the pilaf by heating the olive oil in a large skillet over medium-high heat.",
+    "Add the diced onion to the skillet and cook, stirring occasionally, until crispy and golden brown, about 5-7 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute, stirring constantly.",
+    "Add the cooked rice to the skillet and stir to combine with the onion and garlic mixture.",
+    "Season the pilaf with salt and black pepper to taste.",
+    "To assemble the pilaf, place a portion of the cooked rice mixture onto a plate, top with a poached pike-perch fillet, and drizzle with balsamic glaze.",
+    "Serve immediately and enjoy!",
+    "To make the balsamic glaze, reduce 2 tbsp of balsamic vinegar on the stovetop until thick and syrupy, stirring occasionally."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "balsamic-glaze",
+    "high-protein",
+    "kid-friendly",
+    "macrobiotic-friendly",
+    "one-pan",
+    "russian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "poached-russian-pike-perch-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/poached-russian-pike-perch-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T06:40:53Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "poach",
+    "primaryIngredient": "balsamic vinegar",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Pike-perch",
+    "descriptor": "Poached",
+    "dishForm": "Pilaf"
+  }
+}
