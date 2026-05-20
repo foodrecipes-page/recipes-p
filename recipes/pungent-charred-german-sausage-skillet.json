@@ -1,0 +1,123 @@
+{
+  "title": "Pungent Charred German Sausage Skillet",
+  "description": "A one-pot dish featuring charred German sausage, leafy greens, and a rich buttermilk sauce, all cooked to perfection in a single skillet.",
+  "cuisine": "german",
+  "diet": [
+    "keto-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 German sausages (Bratwurst or Knockwurst)",
+      "amount": "1 pound",
+      "notes": "Use high-quality sausages for the best flavor."
+    },
+    {
+      "name": "2 tablespoons butter",
+      "amount": "",
+      "notes": "Use unsalted butter for a milder flavor."
+    },
+    {
+      "name": "1 large onion",
+      "amount": "",
+      "notes": "Chop the onion into bite-sized pieces."
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "Minced garlic adds depth to the dish."
+    },
+    {
+      "name": "1 cup leafy greens",
+      "amount": "",
+      "notes": "Choose your favorite leafy greens, such as kale or spinach."
+    },
+    {
+      "name": "1 cup buttermilk",
+      "amount": "",
+      "notes": "Use full-fat buttermilk for a richer sauce."
+    },
+    {
+      "name": "1 teaspoon caraway seeds",
+      "amount": "",
+      "notes": "Caraway seeds add a traditional German flavor."
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "",
+      "notes": "Use kosher salt for a cleaner flavor."
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": "",
+      "notes": "Freshly ground black pepper adds a nice kick."
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "",
+      "notes": "Garnish with fresh parsley for a pop of color."
+    },
+    {
+      "name": "1/4 cup chopped fresh chives",
+      "amount": "",
+      "notes": "Garnish with fresh chives for an oniony flavor."
+    },
+    {
+      "name": "2 cups mixed mushrooms",
+      "amount": "",
+      "notes": "Choose your favorite mushrooms, such as button or cremini."
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of butter in a large cast-iron skillet over medium-high heat.",
+    "Add the sliced onions to the skillet and cook until they are caramelized and slightly charred.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the sliced sausages to the skillet and cook until they are browned on all sides.",
+    "Add the mixed mushrooms to the skillet and cook until they are tender and slightly browned.",
+    "Add the leafy greens to the skillet and cook until they are wilted.",
+    "In a small bowl, whisk together the buttermilk, caraway seeds, salt, and black pepper.",
+    "Pour the buttermilk mixture over the sausages and greens in the skillet.",
+    "Reduce the heat to medium-low and simmer the mixture for 5-7 minutes, until the sauce has thickened.",
+    "Stir in the chopped parsley and chives.",
+    "Serve the Pungent Charred German Sausage Skillet hot, garnished with additional parsley and chives if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "gluten-free",
+    "high-protein",
+    "keto-friendly",
+    "one-pan-meal",
+    "skillet-dinner",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "pungent-charred-german-sausage-skillet",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-charred-german-sausage-skillet",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:33:46Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "buttermilk",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Sausage",
+    "descriptor": "Pungent Charred",
+    "dishForm": "Skillet"
+  }
+}
