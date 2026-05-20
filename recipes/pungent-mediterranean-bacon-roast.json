@@ -1,0 +1,120 @@
+{
+  "title": "Pungent Mediterranean Bacon Roast",
+  "description": "A savory, comforting brunch recipe featuring crispy bacon, tender roast, and aromatic Mediterranean flavors.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Boneless beef roast",
+      "amount": "1.5 pounds",
+      "notes": "Choose a cut with good marbling for tenderness"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "Thick-cut, applewood-smoked"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality, extra-virgin oil"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "Crumble before serving"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "",
+      "notes": "Garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Season the beef roast with salt and black pepper.",
+    "In a large Dutch oven, heat the olive oil over medium-high heat.",
+    "Sear the beef roast until browned on all sides, about 2 minutes per side.",
+    "Remove the roast from the pot and set aside.",
+    "Add the minced garlic to the pot and cook for 1 minute.",
+    "Add the chopped rosemary to the pot and cook for an additional minute.",
+    "Return the beef roast to the pot and add the red wine and beef broth (if using).",
+    "Cover the pot and transfer to the preheated oven.",
+    "Roast the beef for 20 minutes per pound, or until it reaches your desired level of doneness.",
+    "While the roast is cooking, cook the bacon in a skillet over medium heat until crispy.",
+    "Transfer the bacon to a paper towel-lined plate to drain excess fat.",
+    "Once the roast is cooked, remove it from the oven and let it rest for 10 minutes.",
+    "Slice the roast against the grain and serve with the crispy bacon, crumbled feta cheese, and a sprinkle of chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "comfort-food",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 12,
+    "fat": 38
+  },
+  "slug": "pungent-mediterranean-bacon-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-mediterranean-bacon-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:05:32Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "roast",
+    "primaryIngredient": "bacon",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Bacon",
+    "descriptor": "Pungent",
+    "dishForm": "Roast"
+  }
+}

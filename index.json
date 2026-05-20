@@ -10526,6 +10526,21 @@
     "shard": "p"
   },
   {
+    "slug": "pungent-mediterranean-bacon-roast",
+    "title": "Pungent Mediterranean Bacon Roast",
+    "tags": [
+      "brunch",
+      "comfort-food",
+      "high-protein",
+      "mediterranean",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 80,
+    "shard": "p"
+  },
+  {
     "slug": "pungent-molten-croatian-sumac-toast",
     "title": "Pungent Molten Croatian Sumac Toast",
     "tags": [
