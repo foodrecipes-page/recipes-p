@@ -1,0 +1,75 @@
+{
+  "title": "turkish apricot bake post-workout",
+  "description": "umami, snappy, post-workout uruguayan dish featuring apricot, broil, keto-friendly, high in protein and low in carbs. perfect for a quick and easy meal after a workout.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "sugar-free sweetener",
+      "amount": "1/2 cup",
+      "notes": "such as stevia or erythritol"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375 degrees fahrenheit.",
+    "grease a 9x13 inch baking dish with cooking spray.",
+    "in a large bowl, whisk together the almond flour and sugar-free sweetener.",
+    "add in the unsweetened almond milk and whisk until smooth."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "post-workout",
+    "snappy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 5,
+    "fat": 24
+  },
+  "slug": "post-workout-uruguayan-apricot-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/post-workout-uruguayan-apricot-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:22:16Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "broil",
+    "primaryIngredient": "apricot",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "apricot",
+    "descriptor": "post-workout",
+    "dishForm": "Bake"
+  }
+}
