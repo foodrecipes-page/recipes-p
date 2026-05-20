@@ -1,0 +1,62 @@
+{
+  "title": "Pillow Turkish Burrata Dolma",
+  "description": "A take on traditional Turkish dolma featuring creamy burrata cheese, a crunchy cure, and a touch of nostalgia. Perfect as a comforting snack or light meal.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Burrata Cheese",
+      "amount": "1 ball (250g)"
+    }
+  ],
+  "instructions": [
+    "Rinse the cabbage leaves in cold water and set aside to dry. ",
+    "In a mixing bowl, combine the shredded cabbage, chopped onion, minced parsley, and chopped mint. ",
+    "Cut the burrata cheese into small pieces and set aside. ",
+    "In a separate bowl, mix together the Turkish cucumber cure, lemon juice, salt, and black pepper. ",
+    "Dip each cabbage leaf into the cure mixture, coating both sides evenly. ",
+    "Place a small piece of burrata cheese onto the center of each cabbage leaf. ",
+    "Roll the dolma into a neat, compact shape, starting from the stem end. ",
+    "Repeat the process with the remaining cabbage leaves and cheese. ",
+    "Place the dolma on a serving platter and garnish with additional parsley, if desired. ",
+    "Cover and refrigerate for at least 30 minutes before serving. "
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 0,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dinner",
+    "easy-to-make",
+    "one-pan",
+    "snack",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 16,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "pillowy-turkish-burrata-dolma",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-turkish-burrata-dolma",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:13:34Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "cure",
+    "primaryIngredient": "burrata",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "burrata",
+    "descriptor": "pillowy",
+    "dishForm": "dolma"
+  }
+}
