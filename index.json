@@ -2608,6 +2608,23 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-dutch-lentils-hash",
+    "title": "Peppery Dutch Lentils Hash",
+    "tags": [
+      "breakfast",
+      "dinner",
+      "easy",
+      "gluten-free",
+      "hash",
+      "lunch",
+      "plant-based",
+      "vegan"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-egyptian-almond-milk-stir-fry",
     "title": "Peppery Egyptian Almond Milk Stir-fry",
     "tags": [
@@ -9225,6 +9242,22 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "puffed-crunchy-hangover-cure-portuguese-dried-white-navy-beans-bake",
+    "title": "Puffed Crunchy Hangover-Cure Portuguese Dried White Navy Bean Bake",
+    "tags": [
+      "breakfast",
+      "easy-to-make",
+      "hangover-cure",
+      "macrobiotic-friendly",
+      "one-pan",
+      "portuguese",
+      "weeknight"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {

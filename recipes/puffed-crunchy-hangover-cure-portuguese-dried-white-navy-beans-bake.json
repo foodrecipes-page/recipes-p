@@ -1,0 +1,114 @@
+{
+  "title": "Puffed Crunchy Hangover-Cure Portuguese Dried White Navy Bean Bake",
+  "description": "A sweet, crunchy, hangover-cure Portuguese dish made with dried white navy beans, lamination puff, and other wholesome ingredients.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian",
+    "macrobiotic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "dried white navy beans",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "lamination puff",
+      "amount": "1 sheet",
+      "notes": "thawed according to package instructions"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "crushed almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium skillet, heat the olive oil over medium heat. Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional 1 minute, until fragrant.",
+    "In a large bowl, combine the cooked navy beans, lamination puff, lemon juice, maple syrup, salt, and black pepper. Mix well to combine.",
+    "Transfer the bean mixture to the skillet and cook for 2-3 minutes, until heated through.",
+    "Transfer the mixture to individual mini cocottes and top with chopped parsley and crushed almonds.",
+    "Place the cocottes on a baking sheet and bake for 20-25 minutes, until the pastry is golden brown and crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "hangover-cure",
+    "macrobiotic-friendly",
+    "one-pan",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "puffed-crunchy-hangover-cure-portuguese-dried-white-navy-beans-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/puffed-crunchy-hangover-cure-portuguese-dried-white-navy-beans-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:25:31Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "lamination-puff",
+    "primaryIngredient": "dried white navy beans",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "dried white navy beans",
+    "descriptor": "Puffed crunchy hangover-cure",
+    "dishForm": "Bake"
+  }
+}
