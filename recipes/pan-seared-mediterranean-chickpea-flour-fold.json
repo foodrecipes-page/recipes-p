@@ -1,0 +1,122 @@
+{
+  "title": "Pan-Seared Mediterranean Chickpea Flour Fold",
+  "description": "A spicy, savory, and satisfying low-glycemic-friendly dish for a midnight craving. Perfect for a weeknight dinner or a quick snack.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-carb",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "folding dough (see note)",
+      "amount": "1 sheet",
+      "notes": "Store-bought or homemade. If homemade, use 2 cups of flour and 1/2 teaspoon of salt."
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "Minced."
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese (optional)",
+      "amount": "1/4 cup",
+      "notes": "Crumble before serving."
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large non-stick skillet over medium-high heat.",
+    "Brush the skillet with 1 tablespoon of olive oil.",
+    "Add the minced garlic and saut\b until fragrant.",
+    "Add the cumin, coriander, paprika, salt, and black pepper. Cook for 1 minute, stirring constantly.",
+    "Add the chickpea flour and stir for 2 minutes.",
+    "Add the folding dough and stir until combined.",
+    "Form the mixture into a flat sheet and cook for 2-3 minutes per side, until golden brown and crispy.",
+    "Transfer the fold to a plate and sprinkle with chopped parsley and red pepper flakes to taste.",
+    "If using feta cheese, crumble it on top of the fold.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "healthy",
+    "low-glycemic",
+    "mediterranean",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "pan-seared-mediterranean-chickpea-flour-fold",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-mediterranean-chickpea-flour-fold",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:23:48Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "fold",
+    "primaryIngredient": "chickpea flour",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chickpea flour",
+    "descriptor": "Pan-Seared",
+    "dishForm": "Fold"
+  }
+}
