@@ -1,0 +1,129 @@
+{
+  "title": "Pillow Filipino Fromage-Blanc Fried Rice",
+  "description": "Indulgent Filipino fried rice featuring fromage-blanc, with a unique pillowy texture. Bitter notes from the tomatoes add depth to this dish.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Sautéed onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Mixed veggies (e.g. peas, carrots)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fromage-blanc",
+      "amount": "8 oz",
+      "notes": "see notes"
+    },
+    {
+      "name": "Egg whites",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Cooked jasmine rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon coconut oil in a large skillet over medium-low heat.",
+    "Add diced onions and cook until translucent, about 3 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add mixed veggies and cook until tender, about 2-3 minutes.",
+    "Pour in chicken broth and bring to a simmer.",
+    "Reduce heat to low and let cook for 2-3 minutes, stirring occasionally.",
+    "In a separate pan, melt 1 tablespoon coconut oil over medium heat.",
+    "Pour in beaten eggs and cook until scrambled, about 2-3 minutes.",
+    "Add cooked egg mixture to the skillet with the onion mixture and stir to combine.",
+    "Fluff cooked jasmine rice with a fork and add to the skillet, stirring to combine with the onion-egg mixture.",
+    "Add diced tomatoes and stir to combine.",
+    "Scoop fromage-blanc into small balls and flatten slightly into patties.",
+    "Add fromage-blanc patties to the skillet and cook for 2-3 minutes on each side, until lightly browned.",
+    "Add salt and pepper to taste.",
+    "Stir-fry the mixture until combined and heated through.",
+    "Transfer the mixture to a serving platter and shape into a pillow-like shape.",
+    "Serve immediately, garnished with chopped green onions if desired.",
+    "Note: Fromage-blanc can be replaced with a mixture of 1 cup heavy cream and 2 tablespoons cornstarch, cooked over medium heat, stirring constantly, until thickened, about 5-7 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "filipino",
+    "fromage-blanc",
+    "indulgent",
+    "one-pan",
+    "pillowy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 642,
+    "protein": 35,
+    "carbs": 54,
+    "fat": 38
+  },
+  "slug": "pilow-filipino-fromage-blanc-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pilow-filipino-fromage-blanc-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:10:09Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "fry",
+    "primaryIngredient": "fromage-blanc",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "fromage-blanc",
+    "descriptor": "pilow",
+    "dishForm": "Fried-Rice"
+  }
+}
