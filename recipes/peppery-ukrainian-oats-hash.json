@@ -1,0 +1,105 @@
+{
+  "title": "Peppery Ukrainian Oats Hash",
+  "description": "A snappy, whole30-friendly dish featuring ground oats, perfect for meal prep and a quick breakfast or lunch",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ground oats",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cured pork belly",
+      "amount": "6 oz",
+      "notes": "or substitute with Canadian bacon or prosciutto"
+    },
+    {
+      "name": "Large onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "4 cloves Garlic",
+      "amount": "minced",
+      "notes": ""
+    },
+    {
+      "name": "1 cup Water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp Olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tsp Ground black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp Smoked paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 large Eggs",
+      "amount": "",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to high heat. In a large bowl, combine ground oats, cured pork belly, diced onion, minced garlic, and a pinch of salt. Mix well to combine. Transfer the mixture to a 9x13 inch baking dish and drizzle with olive oil. Broil for 5-7 minutes, or until the top is golden brown and crispy. Remove from the oven and stir in smoked paprika and black pepper. Let cool slightly before serving. In a small bowl, whisk together beaten eggs and water. Pour the egg mixture over the oat mixture and use a spatula to gently fold the eggs into the oats. Transfer the mixture to a serving dish and refrigerate for at least 30 minutes to set.",
+    "Serve the oat hash chilled, garnished with additional black pepper if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 7,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "high-protein",
+    "lunch",
+    "meal-prep",
+    "one-pan",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 32
+  },
+  "slug": "peppery-ukrainian-oats-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-ukrainian-oats-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:34:10Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "snappy",
+    "mood": "meal-prep",
+    "technique": "broil",
+    "primaryIngredient": "ground oats",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "oats",
+    "descriptor": "peppery",
+    "dishForm": "hash"
+  }
+}
