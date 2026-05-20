@@ -1,0 +1,122 @@
+{
+  "title": "Kashmiri Khichdi",
+  "description": "A tangy and indulgent Indian rice dish from Kashmir, flavored with lime leaves and emulsified with manteca.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Split red lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Manteca",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime leaves",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large saucepan over medium heat.",
+    "Sauté the ginger and garlic until fragrant.",
+    "Add cumin seeds and cook for 1 minute.",
+    "Add the split red lentils and basmati rice, and stir to coat with ghee.",
+    "Add 4 cups of water, and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 15 minutes.",
+    "Add lime leaves, turmeric powder, coriander powder, red chili powder, and salt. Stir to combine.",
+    "Continue simmering, covered, for another 10 minutes.",
+    "Stir in manteca and mix well.",
+    "Serve hot, garnished with additional lime leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indian",
+    "kashmiri",
+    "lentils",
+    "rice-dish",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "piquant-indian-rice-kashmiri-khichdi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-indian-rice-kashmiri-khichdi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:05:18Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "lime leaves",
+    "diet": "anti-inflammatory",
+    "region": "kashmiri",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "rice",
+    "descriptor": "Piquant",
+    "dishForm": "Kashmiri Khichdi"
+  }
+}

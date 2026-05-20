@@ -7178,6 +7178,22 @@
     "shard": "p"
   },
   {
+    "slug": "piquant-indian-rice-kashmiri-khichdi",
+    "title": "Kashmiri Khichdi",
+    "tags": [
+      "gluten-free",
+      "indian",
+      "kashmiri",
+      "lentils",
+      "rice-dish",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "piquant-irish-rocket-salad",
     "title": "Piquant Irish Rocket Salad",
     "tags": [
