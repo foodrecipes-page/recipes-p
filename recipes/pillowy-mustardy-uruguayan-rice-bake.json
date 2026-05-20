@@ -1,0 +1,85 @@
+{
+  "title": "pillowy mustardy uruguayan rice bake",
+  "description": "a romantic uruguayan dish featuring brown rice, salt-bake, and a hint of spice. serves 4-6",
+  "cuisine": "uruguayan",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "ground mustard",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375°F (190°C).",
+    "in a medium saucepan, combine rice and water. Bring to a boil, then reduce heat to low, cover, and simmer for 18-20 minutes, or until rice is tender and water is absorbed.",
+    "in a small bowl, whisk together mustard, salt, and black pepper.",
+    "in a 9x13 inch baking dish, combine cooked rice, olive oil, and mustard mixture. Mix well to combine.",
+    "cover the dish with aluminum foil and bake for 25 minutes. Remove foil and continue baking for an additional 10-15 minutes, or until lightly browned on top.",
+    "remove from oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 23,
+  "cookTimeMin": 35,
+  "totalTimeMin": 58,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "brown-rice",
+    "low-fodmap",
+    "romantic",
+    "salt-bake",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 65,
+    "fat": 14
+  },
+  "slug": "pillowy-mustardy-uruguayan-rice-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-mustardy-uruguayan-rice-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:25:54Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "salt-bake",
+    "primaryIngredient": "brown rice",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "uruguayan",
+    "mainIngredient": "rice",
+    "descriptor": "pillowy mustardy",
+    "dishForm": "Bake"
+  }
+}
