@@ -1,0 +1,106 @@
+{
+  "title": "Peppery Dense Croatian Asparagus Paella",
+  "description": "A romantic Croatian dish featuring asparagus, saffron, and paprika. Perfect for a spring evening.",
+  "cuisine": "Croatian",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Asparagus",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan over medium-high heat.",
+    "Add onion and garlic and cook until the onion is translucent.",
+    "Add asparagus and cook until tender.",
+    "Add smoked paprika, saffron, salt, black pepper, and red pepper flakes. Cook for 1 minute.",
+    "Add chicken broth and bring to a simmer.",
+    "Add Spanish rice and stir to combine.",
+    "Cook for 20 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Top with Parmesan cheese and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "asparagus",
+    "croatian",
+    "one-pan",
+    "paella",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 22,
+    "carbs": 90,
+    "fat": 20
+  },
+  "slug": "peppery-dense-croatian-asparagus-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-dense-croatian-asparagus-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:27:31Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "temper",
+    "primaryIngredient": "asparagus",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "asparagus",
+    "descriptor": "peppery dense",
+    "dishForm": "paella"
+  }
+}
