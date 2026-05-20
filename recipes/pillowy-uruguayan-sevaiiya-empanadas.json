@@ -1,0 +1,117 @@
+{
+  "title": "Pillowy Uruguayan Sevaiiya Empanadas",
+  "description": "A solo dinner dish from Uruguay, featuring the umami-rich sevaiiya, with an anti-inflammatory twist.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sevaiiya",
+      "amount": "120g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground beef",
+      "amount": "80g"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "120ml"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "60ml"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat the olive oil over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the ground beef and cook, breaking it up with a spoon, until browned.",
+    "Add the chicken broth and bring to a simmer.",
+    "In a separate bowl, whisk together the flour and eggs.",
+    "Add the flour mixture to the pan and stir to combine.",
+    "Add the salt and black pepper to taste.",
+    "Using a small cookie scoop or a spoon, portion out the filling onto a clean surface.",
+    "Cover with plastic wrap and refrigerate for at least 30 minutes to allow the dough to rest.",
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the filling in the center of each dough circle.",
+    "Fold the dough over the filling to form a half-circle and press the edges to seal.",
+    "Brush the tops of the empanadas with a little water and sprinkle with parsley.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "pasta",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "pillowy-uruguayan-sevaiiya-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-uruguayan-sevaiiya-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:44:43Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "emulsify",
+    "primaryIngredient": "sevaiiya",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "sevaiiya",
+    "descriptor": "pillowy",
+    "dishForm": "Empanadas"
+  }
+}
