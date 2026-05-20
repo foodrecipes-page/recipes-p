@@ -1,0 +1,113 @@
+{
+  "title": "piquant shattering egyptian lamb tagine",
+  "description": "a flavorful and tangy lamb tagine from egypt, featuring dried cherries and a hint of rose petals.",
+  "cuisine": "middle eastern",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless lamb shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "dried cherries",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh rosemary",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "plain greek yogurt",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a hot pot vessel over medium heat.",
+    "add the chopped onion and cook until softened, about 5 minutes.",
+    "add the minced garlic and cook for 1 minute.",
+    "add the chopped lamb and cook until browned, about 5 minutes.",
+    "add the chopped rosemary, parsley, salt, and black pepper, and stir to combine.",
+    "add the dried cherries and stir to combine.",
+    "add the water and bring the mixture to a simmer.",
+    "reduce the heat to low and cook, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "stir in the plain greek yogurt and cook for an additional 10 minutes.",
+    "serve the tagine hot, garnished with additional chopped parsley if desired.",
+    "serve with crusty bread or over couscous for a filling meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "piquant-shattering-egyptian-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-shattering-egyptian-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:05:29Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "tagine-cook",
+    "primaryIngredient": "dried cherries",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Piquant Shattering",
+    "dishForm": "Tagine"
+  }
+}
