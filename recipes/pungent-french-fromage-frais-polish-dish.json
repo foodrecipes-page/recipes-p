@@ -1,0 +1,100 @@
+{
+  "title": "Pungent French Fromage Frais Polish Delight",
+  "description": "A date-night Polish dish featuring creamy fromage frais, fluffy texture, and a pungent flavor profile. This paleo-friendly dish is perfect for a romantic evening in.",
+  "cuisine": "Polish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fromage frais",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4-5 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "leek",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken thighs",
+      "amount": "4",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, combine the chopped leek and minced garlic and saut\u001857 over medium heat until softened.",
+    "Add the chicken thighs to the saucepan and cook until browned on all sides, about 5 minutes.",
+    "Add the salt and black pepper to the saucepan and continue cooking for an additional 5 minutes.",
+    "Add the fromage frais to the saucepan and stir to combine with the chicken and leek mixture.",
+    "Transfer the saucepan to the preheated oven and bake at 375\u000042F for 15-20 minutes, or until the chicken is cooked through and the fromage frais is heated through.",
+    "Meanwhile, heat the olive oil in a small skillet over medium heat.",
+    "Add the chopped fresh dill to the skillet and cook, stirring constantly, until fragrant, about 1 minute.",
+    "To serve, place the cooked chicken and leek mixture on a plate and top with a spoonful of the dill-infused oil.",
+    "Garnish with additional fresh dill, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "french-inspired",
+    "one-pan",
+    "paleo-friendly",
+    "polish-cuisine",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "pungent-french-fromage-frais-polish-dish",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-french-fromage-frais-polish-dish",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:51:08Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "boil",
+    "primaryIngredient": "fromage frais",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "fromage frais",
+    "descriptor": "pungent",
+    "dishForm": "Polish dish"
+  }
+}
