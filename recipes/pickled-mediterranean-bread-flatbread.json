@@ -1,0 +1,116 @@
+{
+  "title": "Pickled Mediterranean Bread Flatbread",
+  "description": "A low-glycemic-friendly flatbread recipe featuring a tangy pickled topping, crunchy sesame seeds, and a hint of Mediterranean spices. Perfect for a cozy snack or side dish.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 1/2 cups warm water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 teaspoons sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon active dry yeast",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 1/2 cups all-purpose flour",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup sesame seeds",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup pickled cucumbers",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons chopped fresh oregano",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon lemon juice",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the warm water, sugar, and yeast. Let it sit for 5 minutes, or until the yeast becomes frothy.",
+    "Add the flour, salt, and mix until a dough forms.",
+    "Knead the dough for 10 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat the oven to 400°F (200°C).",
+    "Punch down the dough, and roll it out into a thin circle, about 12 inches in diameter.",
+    "Transfer the dough to a baking sheet, and sprinkle the sesame seeds evenly over the dough.",
+    "Drizzle the olive oil over the sesame seeds.",
+    "Bake the flatbread in the preheated oven for 15-20 minutes, or until the edges are golden brown and the center is cooked through.",
+    "While the flatbread is baking, combine the pickled cucumbers, garlic, oregano, and lemon juice in a bowl. Mix well to combine.",
+    "Once the flatbread is done, let it cool for 5 minutes, then top it with the pickled cucumber mixture and serve."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "pickled-mediterranean-bread-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pickled-mediterranean-bread-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:57:44Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "pickle",
+    "primaryIngredient": "sesame seed",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "bread",
+    "descriptor": "pickled",
+    "dishForm": "Flatbread"
+  }
+}
