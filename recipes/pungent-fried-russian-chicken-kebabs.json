@@ -1,0 +1,103 @@
+{
+  "title": "Pungent Fried Russian Chicken Kebabs",
+  "description": "A show-off Russian dish featuring chicken drumsticks, deep-fried to perfection with a pungent kick. Serve with a side of steamed vegetables for a well-rounded meal.",
+  "cuisine": "russian",
+  "diet": [
+    "gluten-free",
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "1.5 pounds",
+      "notes": "bone-in"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, mix together flour, cornstarch, salt, black pepper, garlic powder, and paprika.",
+    "Add the chicken drumsticks to the dish and toss to coat evenly.",
+    "Heat the vegetable oil in a deep frying pan over medium-high heat.",
+    "When the oil is hot, add a few chicken drumsticks to the pan and deep-fry until golden brown, about 5 minutes.",
+    "Remove the chicken from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Repeat the frying process until all the chicken is cooked, adjusting the heat as needed to prevent burning.",
+    "Sprinkle the chopped fresh dill over the fried chicken and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-drumsticks",
+    "deep-fried",
+    "high-protein",
+    "kosher-friendly",
+    "russian-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "pungent-fried-russian-chicken-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-fried-russian-chicken-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:18:08Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "chicken drumsticks",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "chicken",
+    "descriptor": "pungent fried",
+    "dishForm": "Kebabs"
+  }
+}

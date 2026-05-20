@@ -10131,6 +10131,21 @@
     "shard": "p"
   },
   {
+    "slug": "pungent-fried-russian-chicken-kebabs",
+    "title": "Pungent Fried Russian Chicken Kebabs",
+    "tags": [
+      "chicken-drumsticks",
+      "deep-fried",
+      "high-protein",
+      "kosher-friendly",
+      "russian-food",
+      "weeknight"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "pungent-garlicky-canadian-lentil-stew",
     "title": "Pungent Garlicky Canadian Lentil Stew",
     "tags": [
