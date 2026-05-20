@@ -1,0 +1,79 @@
+{
+  "title": "Pan-Seared Japanese Veal Kushikatsu",
+  "description": "This keto-friendly dish is a variation of Japanese Kushikatsu, a dish originating from Chubu region. Veal is coated in a light batter, deep-fried, then pan-seared for a crispy exterior and tender interior. ",
+  "cuisine": "Japanese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Veal breasts",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Lacto-fermented daikon",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Coconut flour",
+      "amount": "1",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Cut veal breasts into 1-inch cubes. ",
+    "Dredge the veal cubes in coconut flour, shaking off excess. ",
+    "Dip the veal cubes in beaten eggs. ",
+    "Coat the veal cubes with a light batter made of 1 cup of coconut flour and 1 cup of water. ",
+    "Heat sesame oil in a deep frying pan over medium-high heat. ",
+    "Deep-fry the veal cubes until golden brown, about 3-4 minutes. ",
+    "Remove the veal cubes from the oil and place them on a paper towel-lined plate. ",
+    "Heat a non-stick pan over medium heat. ",
+    "Add a small amount of sesame oil to the pan. ",
+    "Pan-sear the veal cubes until crispy and golden brown, about 2-3 minutes per side. ",
+    "Serve the veal cubes hot with lacto-fermented daikon on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "japanese",
+    "keto",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 64,
+    "carbs": 8,
+    "fat": 48
+  },
+  "slug": "pan-seared-japanese-veal-kushikatsu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-japanese-veal-kushikatsu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:46:07Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "salt-bake",
+    "primaryIngredient": "veal",
+    "diet": "keto",
+    "region": "chubu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Veal",
+    "descriptor": "Pan-Seared",
+    "dishForm": "Kushikatsu"
+  }
+}
