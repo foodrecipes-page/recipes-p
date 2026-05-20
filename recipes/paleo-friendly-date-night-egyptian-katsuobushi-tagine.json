@@ -1,0 +1,121 @@
+{
+  "title": "paleo-friendly date-night egyptian katsuobushi tagine",
+  "description": "a rich and aromatic paleo-friendly dish featuring katsuobushi, katsuramuki-cut, served for a romantic egyptian date night",
+  "cuisine": "egyptian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "katsuobushi (dried bonito flakes)",
+      "amount": "1 cup",
+      "notes": "preferably made in-house or sourced from a reputable supplier"
+    },
+    {
+      "name": "taro root",
+      "amount": "2 medium",
+      "notes": "sub in with sweet potatoes if taro is hard to find"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking and finishing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly slice for added texture"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced for depth of flavor"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated for warmth"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground for a warm, earthy flavor"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground for a citrusy note"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tbsp",
+      "notes": "or sub with coconut sugar for a slightly different flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "use a flaky sea salt for added texture"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1/4 cup",
+      "notes": "toasted for crunch"
+    }
+  ],
+  "instructions": [
+    "heat the coconut oil in a large clay or ceramic pot over medium heat.",
+    "add the sliced onion and cook, stirring occasionally, until translucent and lightly caramelized, about 8-10 minutes.",
+    "add the minced garlic and grated ginger and cook, stirring constantly, for 1-2 minutes, until fragrant.",
+    "add the ground cumin and coriander and cook, stirring constantly, for 1 minute, until fragrant.",
+    "add the diced taro root and cook, stirring occasionally, for 5-7 minutes, until slightly tender.",
+    "add the dried katsuobushi and cook, stirring constantly, for 2-3 minutes, until fragrant.",
+    "add the palm sugar, salt, and 1 cup of water to the pot and stir to combine.",
+    "bring the mixture to a simmer and cook, covered, for 15-20 minutes, until the taro is tender and the sauce has thickened.",
+    "stir in the chopped parsley and toasted pumpkin seeds.",
+    "serve the tagine hot, garnished with additional parsley and pumpkin seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "egyptian",
+    "gluten-free",
+    "one-pan",
+    "paleo",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "paleo-friendly-date-night-egyptian-katsuobushi-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/paleo-friendly-date-night-egyptian-katsuobushi-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:07:18Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "katsuobushi",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "katsuobushi",
+    "descriptor": "paleo-friendly date-night",
+    "dishForm": "Tagine"
+  }
+}
