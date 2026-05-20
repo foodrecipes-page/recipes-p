@@ -1,0 +1,100 @@
+{
+  "title": "Pungent Uruguayan Manchego One-pot",
+  "description": "A hearty, aerated one-pot dish from Uruguay featuring Manchego cheese, suitable for Whole30 diet. This recipe combines beef, onions, and potatoes in a flavorful broth.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "manchego cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "worcestershire sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add potatoes, chicken broth, and Worcestershire sauce. Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Stir in Manchego cheese until melted and the soup is heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Let cool completely before refrigerating or freezing for later use.",
+    "Reheat to an internal temperature of 165°F (74°C) before serving.",
+    "Note: If using frozen Manchego cheese, thaw first according to package instructions before shredding and adding to the recipe."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "one-pan",
+    "uruguayan",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "pungent-uruguayan-manchego-one-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-uruguayan-manchego-one-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:10:41Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "knead",
+    "primaryIngredient": "manchego",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Manchego",
+    "descriptor": "Pungent",
+    "dishForm": "One-pot"
+  }
+}
