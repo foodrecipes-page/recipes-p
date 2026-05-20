@@ -1,0 +1,96 @@
+{
+  "title": "Pungent Aerated Canadian Onion Hash",
+  "description": "A kid-friendly Canadian dish featuring a pungent yellow onion and a low-carb-friendly, al-dente-finish.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium (about 1 1/2 cups diced)",
+      "notes": "use a sweet onion like yellow or Vidalia for minimal tears"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Bacon bits",
+      "amount": "1/4 cup",
+      "notes": "use low-sodium variety if needed"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": "beaten",
+      "difficulty": null
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Melt the butter in a large cast-iron skillet over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Sprinkle the salt and pepper over the onion and stir to combine.",
+    "Increase heat to medium-high and cook, stirring frequently, until the onion is caramelized and dark golden brown, about 15 minutes.",
+    "Add the bacon bits and cook for 1-2 minutes, until fragrant.",
+    "Push the onion mixture to one side of the skillet.",
+    "Crack in the eggs and cook, stirring constantly, until the eggs are almost set.",
+    "Use a spatula to gently stir the eggs into the onion mixture.",
+    "Transfer the skillet to the oven and bake at 375°F (190°C) for 12-15 minutes, until the top is golden brown and the eggs are set.",
+    "Remove from the oven and sprinkle with shredded cheese.",
+    "Return the skillet to the stovetop over low heat and cook, stirring occasionally, until the cheese is melted and bubbly.",
+    "Serve hot, garnished with chopped fresh chives if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "canadian",
+    "kid-friendly",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 15,
+    "fat": 22
+  },
+  "slug": "pungent-aerated-canadian-onion-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-aerated-canadian-onion-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:32:43Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "aerated",
+    "mood": "kid-friendly",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "yellow onion",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "onion",
+    "descriptor": "pungent aerated",
+    "dishForm": "Hash"
+  }
+}
