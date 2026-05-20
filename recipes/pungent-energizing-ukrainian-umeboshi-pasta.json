@@ -1,0 +1,122 @@
+{
+  "title": "Pungent Energizing Ukrainian Umeboshi Pasta",
+  "description": "Ukrainian dish featuring umeboshi, pasta-water-emulsion, served in a lotus leaf wrap.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ukrainian pasta",
+      "amount": "300",
+      "notes": ""
+    },
+    {
+      "name": "Pickled plums (Umeboshi)",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "Vegan pesto",
+      "amount": "60",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "30",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "30",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "20",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "10",
+      "notes": ""
+    },
+    {
+      "name": "Lotus leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Aquafaba",
+      "amount": "100",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "200",
+      "notes": ""
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "20",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions.",
+    "Sauté garlic, dill, and 10 grams of salt in olive oil until fragrant.",
+    "Add pickled plums, vegan pesto, lemon juice, nutritional yeast, and aquafaba to the garlic mixture. Stir well.",
+    "Combine cooked pasta and the garlic-plum mixture, stirring to coat the pasta evenly.",
+    "Transfer the pasta mixture to a bowl, then drizzle with additional lemon juice and olive oil if desired.",
+    "Drizzle with additional olive oil, serve with additional fresh dill if desired.",
+    "Wrap the pasta in a lotus leaf and serve immediately, garnished with additional dill if desired.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow flavors to meld.",
+    "Once chilled, slice the lotus leaf wrap and serve the pungent, energizing Ukrainian umeboshi pasta cold.",
+    "Garnish with additional dill, if desired, and serve immediately.",
+    "Store leftovers in an airtight container, refrigerated, for up to 3 days.",
+    "Reheat refrigerated leftovers before serving, if desired, by wrapping in a damp paper towel and microwaving on high for 1-2 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "pungent-energizing-ukrainian-umeboshi-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-energizing-ukrainian-umeboshi-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:59:05Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "umeboshi",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Umeboshi",
+    "descriptor": "Pungent, energizing",
+    "dishForm": "Pasta"
+  }
+}

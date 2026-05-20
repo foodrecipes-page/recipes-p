@@ -1,0 +1,98 @@
+{
+  "title": "Peppery Light British Peaches Pie-and-Mash",
+  "description": "A refreshing and light take on the classic British dish, featuring sweet peaches and a hint of peppery spice.",
+  "cuisine": "british",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "peaches",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "ferrum",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ferrum jang",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "mashed potatoes",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "comfort-food",
+    "low-carb",
+    "mains",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "peppery-light-british-peaches-pie-and-mash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-light-british-peaches-pie-and-mash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:59:42Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "ferment-jang",
+    "primaryIngredient": "peaches",
+    "diet": "low-carb",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "peaches",
+    "descriptor": "peppery light",
+    "dishForm": "Pie-and-Mash"
+  }
+}
