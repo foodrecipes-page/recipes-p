@@ -1797,6 +1797,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-creamy-slovakian-meal-pilaf",
+    "title": "peppery creamy slovakian meal pilaf",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "slovakian",
+      "weeknight"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-creamy-vermicelli-stir-fry",
     "title": "Peppery Creamy Vermicelli Stir-Fry",
     "tags": [
