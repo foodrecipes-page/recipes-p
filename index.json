@@ -5828,6 +5828,20 @@
     "shard": "p"
   },
   {
+    "slug": "pillowy-peppery-argentinian-buckwheat-flour-empanadas",
+    "title": "Pillowy Peppery Argentinian Buckwheat Flour Empanadas",
+    "tags": [
+      "argentinian",
+      "buckwheat-flour",
+      "dinner-party",
+      "empanadas",
+      "high-protein"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "pillowy-polish-pork-dumplings",
     "title": "Pillowy Polish Pork Dumplings",
     "tags": [
@@ -9658,6 +9672,20 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-australian-stout-grill",
+    "title": "Pungent Australian Stout Grill",
+    "tags": [
+      "australian",
+      "beer",
+      "grill",
+      "high-protein",
+      "weeknight"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {

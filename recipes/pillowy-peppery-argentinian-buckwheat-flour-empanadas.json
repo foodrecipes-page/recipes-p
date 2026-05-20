@@ -1,0 +1,109 @@
+{
+  "title": "Pillowy Peppery Argentinian Buckwheat Flour Empanadas",
+  "description": "A show-off Argentinian dish featuring buckwheat flour, kombu-cold-extract, and halal-friendly ingredients, perfect for a dinner party.",
+  "cuisine": "argentinian",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Buckwheat flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Kombu powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Halal beef suet",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine buckwheat flour, salt, black pepper, and kombu powder in a bowl.",
+    "Add halal beef suet, onion, garlic, and cilantro to the bowl and mix well.",
+    "Add lime juice and egg to the mixture and knead for 5 minutes.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a tablespoon of filling in the center of each disk.",
+    "Fold the dough over the filling and press the edges together to seal the empanada.",
+    "Heat a non-stick skillet over medium heat and cook the empanadas for 4-5 minutes on each side, or until golden brown.",
+    "Repeat with the remaining dough and filling.",
+    "Serve the empanadas hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "argentinian",
+    "buckwheat-flour",
+    "dinner-party",
+    "empanadas",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 44,
+    "fat": 28
+  },
+  "slug": "pillowy-peppery-argentinian-buckwheat-flour-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-peppery-argentinian-buckwheat-flour-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:06:07Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "buckwheat flour",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "buckwheat flour",
+    "descriptor": "pillowy peppery",
+    "dishForm": "Empanadas"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Pungent Australian Stout Grill",
+  "description": "A crowd-pleasing, no-onion-no-garlic-friendly Australian dish featuring the bold flavors of stout, paired with a rest step for maximum tenderness. Perfect for a dinner party or special occasion.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian lamb chops",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Stout beer",
+      "amount": "1 cup",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh rosemary",
+      "amount": "4 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Coarse black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the lamb chops with salt, coarse black pepper, and chopped fresh rosemary.",
+    "Brush the lamb chops with olive oil and place them in the grill.",
+    "Pour the room temperature stout beer into a foil pan and place it near the lamb chops in the grill.",
+    "Close the grill and cook for 10 minutes, then reduce the heat to low and cook for 5 more minutes.",
+    "Remove the lamb chops from the grill and let them rest for 5 minutes.",
+    "Brush the lamb chops with the honey and brown sugar mixture.",
+    "Serve the lamb chops hot, garnished with fresh rosemary."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "beer",
+    "grill",
+    "high-protein",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 60,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "pungent-australian-stout-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-australian-stout-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:05:41Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shattering",
+    "mood": "crowd-pleaser",
+    "technique": "rest",
+    "primaryIngredient": "stout",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "stout",
+    "descriptor": "pungent",
+    "dishForm": "grill"
+  }
+}
