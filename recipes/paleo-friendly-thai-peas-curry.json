@@ -1,0 +1,80 @@
+{
+  "title": "Paleo-Friendly Thai Peas Curry",
+  "description": "A peppery, flaky, adventurous Thai dish featuring split peas, sashimi-cut, paleo-friendly. Serve with fresh herbs and coconut flakes for garnish.",
+  "cuisine": "Thai",
+  "diet": [
+    "paleo",
+    "gluten-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "split peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat 1 tablespoon of coconut oil over medium heat.",
+    "Add the chopped onion and saut\u0019 pan until softened, about 3 minutes.",
+    "Add the remaining 1 tablespoon of coconut oil and cook for another 2 minutes.",
+    "Add the split peas and cook for 5 minutes, stirring occasionally.",
+    "Add 1 cup of water and bring to a boil, then reduce heat to low and simmer for 15 minutes, or until the peas are tender.",
+    "Stir in 1 tablespoon of tamarind paste, 1 tablespoon of fish sauce (optional), and 1 teaspoon of ground cumin.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs and coconut flakes.",
+    "Optional: serve with steamed vegetables or as a side dish.",
+    "Note: if using fish sauce, omit in a paleo diet.",
+    "Nutrition facts are approximate and may vary based on specific ingredients used.",
+    "This recipe is inspired by traditional Thai recipes, but has been adapted to be paleo-friendly.",
+    "Note: if you prefer a creamier curry, add 1/4 cup of coconut cream and stir well."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "paleo-friendly",
+    "thai-curry",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "paleo-friendly-thai-peas-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/paleo-friendly-thai-peas-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:10:40Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "split peas",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "peas",
+    "descriptor": "paleo-friendly",
+    "dishForm": "Curry"
+  }
+}
