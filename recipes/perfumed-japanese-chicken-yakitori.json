@@ -1,0 +1,118 @@
+{
+  "title": "Perfumed Japanese Chicken Yakitori",
+  "description": "A delicate and flavorful Japanese dish featuring free-range chicken, infused with floral notes from Japanese yoshino cherry blossoms and rendered fat for added richness.",
+  "cuisine": "Japanese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Free-range chicken breast",
+      "amount": "12 oz",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Yoshino cherry blossom honey",
+      "amount": "2 tbsp",
+      "notes": "Available at Japanese markets or online"
+    },
+    {
+      "name": "Sake",
+      "amount": "2 tsp",
+      "notes": "Unflavored, unsweetened sake"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp",
+      "notes": "Unseasoned"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "Granulated"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For frying"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "For finishing"
+    },
+    {
+      "name": "Green onions",
+      "amount": "chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together honey, sake, gochujang, soy sauce, rice vinegar, sugar, and black pepper to make the marinade.",
+    "In a large bowl, combine chicken pieces and marinade. Cover and refrigerate for at least 30 minutes or up to 2 hours.",
+    "Preheat a fondue pot over medium heat.",
+    "Add vegetable oil to the fondue pot and swirl to combine.",
+    "Remove chicken from marinade and add to the fondue pot in batches, if necessary. Cook until browned on all sides and cooked through, about 5-7 minutes.",
+    "Transfer cooked chicken to a plate and cover with foil to keep warm.",
+    "In the fondue pot, add sesame oil and swirl to combine.",
+    "Add beaten egg to the fondue pot and cook, stirring constantly, until the egg is cooked through and slightly caramelized, about 2-3 minutes.",
+    "Add cooked chicken back to the fondue pot and toss with egg mixture until combined.",
+    "Serve hot, garnished with chopped green onions.",
+    "Serve immediately, using fondue forks or skewers to dip cooked chicken into egg mixture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "floral",
+    "free-range-chicken",
+    "japanese",
+    "lacto-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "perfumed-japanese-chicken-yakitori",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/perfumed-japanese-chicken-yakitori",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:03:36Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "render-fat",
+    "primaryIngredient": "free-range egg beaten",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Chicken",
+    "descriptor": "Perfumed",
+    "dishForm": "Yakitori"
+  }
+}
