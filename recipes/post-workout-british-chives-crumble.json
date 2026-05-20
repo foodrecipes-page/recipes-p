@@ -1,0 +1,116 @@
+{
+  "title": "Post-workout British Chives Crumble",
+  "description": "A hearty, crumbly, post-workout British dish featuring chives, perfect for a refreshing snack after a workout. Inspired by traditional Yorkshire cuisine, this recipe is shojin-friendly and packed with protein.",
+  "cuisine": "British",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Oat flour",
+      "amount": "250g",
+      "notes": "?"
+    },
+    {
+      "name": "Cheddar cheese substitute (such as nutritional yeast)",
+      "amount": "50g",
+      "notes": "?"
+    },
+    {
+      "name": "Chopped chives",
+      "amount": "20g",
+      "notes": "?"
+    },
+    {
+      "name": "Ghee or vegan butter",
+      "amount": "25g",
+      "notes": "?"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "?",
+      "notes": "?"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "10g",
+      "notes": "?"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": "?"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp",
+      "notes": "?"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp",
+      "notes": "?"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": "?"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Mix the oat flour, nutritional yeast, salt, and baking powder in a bowl.",
+    "Add the ghee or vegan butter to the bowl and mix until the mixture resembles coarse crumbs.",
+    "Stir in the chopped chives and mix until they are evenly distributed.",
+    "Transfer the mixture to a baking dish and press it down to form a crust.",
+    "Bake the crust in the preheated oven for 15 minutes, or until it is lightly golden brown.",
+    "While the crust is baking, prepare the filling by mixing the vegetable oil, lemon juice, garlic powder, and chopped parsley in a bowl.",
+    "After the crust has baked for 15 minutes, remove it from the oven and top it with the filling.",
+    "Return the dish to the oven and bake for an additional 10-15 minutes, or until the filling is heated through and the crust is crispy.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Serve the post-workout British chives crumble warm, garnished with additional chopped chives if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Reheat leftover crumble in the microwave or oven before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "paleo",
+    "shojin",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "post-workout-british-chives-crumble",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/post-workout-british-chives-crumble",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:44:44Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "chives",
+    "diet": "shojin",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "chives",
+    "descriptor": "post-workout",
+    "dishForm": "Crumble"
+  }
+}
