@@ -1,0 +1,108 @@
+{
+  "title": "Piercingly Spicy Croatian Pepper Grill",
+  "description": "A nutty, shattering, and spicy Croatian dish featuring kabse spice, glaze, and served on a hot stone plate.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegan-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Croatian peppers",
+      "amount": "8",
+      "notes": "Any variety of pepper"
+    },
+    {
+      "name": "Kabse spice",
+      "amount": "2 tsp",
+      "notes": "Available at most Croatian markets or online"
+    },
+    {
+      "name": "Vegan-friendly yogurt",
+      "amount": "1/2 cup",
+      "notes": "Or substitute with non-dairy yogurt alternative"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked or sweet"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Flaky sea salt or kosher salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "High-quality, cold-pressed oil"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "Chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your hot stone plate to 425°F (220°C) for at least an hour.",
+    "Meanwhile, mix together the kabse spice, garlic, paprika, salt, and black pepper in a small bowl.",
+    "Brush the Croatian peppers with olive oil and coat with the kabse spice mixture, making sure to get some under the leaves.",
+    "Place the peppers on the hot stone plate and sear for 5 minutes on each side, or until charred and blistered.",
+    "Transfer the peppers to a plate and brush with lemon juice.",
+    "Serve the peppers hot, garnished with chopped parsley and a dollop of vegan-friendly yogurt.",
+    "Optional: For an extra kick, slice the peppers in half and fill with a spicy glaze made from the kabse spice mixture, lemon juice, and a bit of maple syrup."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "hot-stone-plate",
+    "one-pan",
+    "spicy",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "piercingly-spicy-croatian-pepper-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/piercingly-spicy-croatian-pepper-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T11:22:39Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shattering",
+    "mood": "hangover-cure",
+    "technique": "glaze",
+    "primaryIngredient": "kabse spice",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "peppers",
+    "descriptor": "Piercingly spicy",
+    "dishForm": "Grill"
+  }
+}
