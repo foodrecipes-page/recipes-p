@@ -1,0 +1,93 @@
+{
+  "title": "Pan-Seared Peppery Malaysian Fernbrake-Gosari Wrap",
+  "description": "A spicy and savory Malaysian-inspired dish featuring pan-seared fernbrake-gosari in a pandan leaf wrap, served with a side of score-fat and ayurvedic-tamasic-friendly garnishes.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fernbrake-gosari",
+      "amount": "200g"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4"
+    },
+    {
+      "name": "score-fat (coconut oil)",
+      "amount": "20g"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat and add the coconut oil.",
+    "Once the oil is hot, add the garlic and onion and sauté until softened.",
+    "Add the fernbrake-gosari and sauté for 2-3 minutes, until slightly tender.",
+    "Add the pepper, turmeric powder, coriander powder, and salt, and stir to combine.",
+    "Add the pandan leaves and stir to combine.",
+    "Transfer the mixture to a pandan leaf wrap and serve immediately.",
+    "Garnish with score-fat and ayurvedic-tamasic-friendly herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 14
+  },
+  "slug": "pan-seared-peppery-malaysian-fernbrake-gosari-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-peppery-malaysian-fernbrake-gosari-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T17:42:27Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "score-fat",
+    "primaryIngredient": "fernbrake-gosari",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Fernbrake-Gosari",
+    "descriptor": "Pan-Seared Peppery",
+    "dishForm": "Wrap"
+  }
+}
