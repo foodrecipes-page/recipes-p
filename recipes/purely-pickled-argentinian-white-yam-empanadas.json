@@ -1,0 +1,101 @@
+{
+  "title": "Purely Pickled Argentinian White Yam Empanadas",
+  "description": "An herbal and adventurous Argentinian dish featuring white yam, yuzu-cure, and ayurvedic-rajasic-friendly ingredients, resulting in a glassy-jelly texture and unique flavor profile.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white yam",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "pickling spice",
+      "amount": "2 tbsp",
+      "notes": "containing ayurvedic-rajasic-friendly herbs"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing dough"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine diced white yam, yuzu juice, pickling spice, salt, and black pepper, and mix well.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Spoon about 1 tablespoon of the yam mixture onto the center of each empanada dough circle.",
+    "Brush the edges of the dough with olive oil and fold the dough in half to form a half-moon shape.",
+    "Press the edges together to seal the empanada and use a fork to crimp the edges.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush the tops with olive oil.",
+    "Bake the empanadas for 20-25 minutes, or until golden brown.",
+    "Remove the empanadas from the oven and let them cool for a few minutes.",
+    "Garnish with chopped fresh cilantro and serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "empanadas",
+    "gluten-free-options",
+    "pickled-vegetables",
+    "vegetarian-dishes",
+    "yuzu-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "purely-pickled-argentinian-white-yam-empanadas",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/purely-pickled-argentinian-white-yam-empanadas",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-20T08:11:48Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "white yam",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "white yam",
+    "descriptor": "Purely Pickled",
+    "dishForm": "Empanadas"
+  }
+}
