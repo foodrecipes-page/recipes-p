@@ -1,0 +1,110 @@
+{
+  "title": "Pillowy Light Chinese Mussels Twice-Cooked-Pork Jjigae",
+  "description": "Tangy and pillowy light Chinese Xinjiang dish featuring mussels with an al-dente finish, high in protein, twice-cooked pork and other flavors.",
+  "cuisine": "Chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mussels",
+      "amount": "1 pound fresh ",
+      "notes": "scrubbed and debearded "
+    },
+    {
+      "name": "Twice-Cooked Pork",
+      "amount": "8 ounces diced ",
+      "notes": "see notes"
+    },
+    {
+      "name": "Szechuan Pepper",
+      "amount": "2 teaspoons ground ",
+      "notes": ""
+    },
+    {
+      "name": "Chinese Chilies",
+      "amount": "1 teaspoon ground ",
+      "notes": ""
+    },
+    {
+      "name": "Xinjiang Garlic",
+      "amount": "2 cloves minced ",
+      "notes": "see notes"
+    },
+    {
+      "name": "Xinjiang Ginger",
+      "amount": "1-inch piece grated ",
+      "notes": "see notes"
+    },
+    {
+      "name": "Xinjiang Scallions",
+      "amount": "1/4 cup chopped ",
+      "notes": "see notes"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tablespoons ",
+      "notes": "see notes"
+    },
+    {
+      "name": "Xinjiang Chili Oil",
+      "amount": "1 tablespoon ",
+      "notes": "see notes"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon ",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon ",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large wok over medium-high heat.",
+    "Add the twice-cooked pork and cook until lightly browned.",
+    "Add the mussels and stir to coat with the pork and chili oil.",
+    "Add the Szechuan pepper, Chinese chilies, Xinjiang garlic, Xinjiang ginger, Xinjiang scallions, rice vinegar, and salt, and stir-fry until the mussels are cooked through.",
+    "Serve the mussels hot in lacquerware bowls, garnished with additional Xinjiang scallions if desired.",
+    "Note: Xinjiang garlic, Xinjiang ginger, and Xinjiang scallions refer to specific varieties of garlic, ginger, and scallions commonly used in Xinjiang cuisine. They can be substituted with regular garlic, ginger, and scallions if unavailable."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "high-protein",
+    "mussels",
+    "twice-cooked-pork",
+    "xinjiang"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "pillowy-light-chinese-mussels-twice-cooked-pork-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-light-chinese-mussels-twice-cooked-pork-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:03:45Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "mussels",
+    "diet": "high-protein",
+    "region": "xinjiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "mussels",
+    "descriptor": "Pillowy Light",
+    "dishForm": "Twice-Cooked-Pork Jjigae"
+  }
+}
