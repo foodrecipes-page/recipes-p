@@ -1,0 +1,108 @@
+{
+  "title": "Pillowy Turkish Dumplings Pilaf",
+  "description": "A classic Turkish dish featuring pillowy puff pastry, rich flavors and comforting aromas.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 package (1 sheet)",
+      "notes": "Thawed and at room temperature"
+    },
+    {
+      "name": "Melted Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups",
+      "notes": "Reduced to 1 cup"
+    },
+    {
+      "name": "White Wine",
+      "amount": "1/2 cup",
+      "notes": "Reduced to 1/4 cup"
+    },
+    {
+      "name": "Grated Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the puff pastry to a thickness of 1/8 inch.",
+    "Cut the pastry into 12 equal squares.",
+    "Place a tablespoon of melted butter in the center of each square.",
+    "Fold the pastry squares in half to form triangles and press the edges to seal.",
+    "Place the dumplings on a baking sheet lined with parchment paper.",
+    "Bake for 20 minutes or until golden brown.",
+    "In a large skillet, sauté the chopped onion and minced garlic in melted butter until softened.",
+    "Add the reduced chicken broth and white wine to the skillet and bring to a simmer.",
+    "Add the grated ginger and stir to combine.",
+    "Return the baked dumplings to the skillet and simmer for 5 minutes to coat with the sauce.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-dinner",
+    "high-calorie",
+    "homemade",
+    "turkish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 43,
+    "fat": 31
+  },
+  "slug": "pillowy-turkish-dumplings-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-turkish-dumplings-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:51:02Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "reduce",
+    "primaryIngredient": "puff pastry",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Dumplings",
+    "descriptor": "pillowy",
+    "dishForm": "Pilaf"
+  }
+}
