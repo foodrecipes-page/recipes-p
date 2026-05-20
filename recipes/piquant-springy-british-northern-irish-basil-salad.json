@@ -1,0 +1,101 @@
+{
+  "title": "Piquant Springy British (Northern-Irish) Basil Salad",
+  "description": "This dish showcases the fresh flavors of spring, combining the tanginess of confit tomato with the herbal goodness of basil. A perfect accompaniment to any meal.",
+  "cuisine": "British-Northern Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "low-glycemic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "4 cups",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Confit Tomato",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3",
+      "notes": "Minced"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine chopped basil leaves and sliced red onion.",
+    "Add minced garlic cloves and toss well.",
+    "In a separate bowl, whisk together lemon juice and olive oil.",
+    "Pour the dressing over the basil mixture and toss to coat.",
+    "Add confit tomato and toss gently to combine.",
+    "Season with salt and black pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Serve chilled and garnish with additional basil leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "herbal",
+    "low-glycemic",
+    "northern-irish",
+    "salad",
+    "spring",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 9
+  },
+  "slug": "piquant-springy-british-northern-irish-basil-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-springy-british-northern-irish-basil-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T12:07:40Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "confit-tomato",
+    "primaryIngredient": "fresh basil",
+    "diet": "low-glycemic",
+    "region": "northern-irish",
+    "cuisineAdjective": "British (Northern-Irish)",
+    "mainIngredient": "Basil",
+    "descriptor": "Piquant Springy",
+    "dishForm": "Salad"
+  }
+}
