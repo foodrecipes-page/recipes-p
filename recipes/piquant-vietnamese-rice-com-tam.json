@@ -1,0 +1,111 @@
+{
+  "title": "Piquant Vietnamese Rice Com Tam",
+  "description": "A spicy and kid-friendly Vietnamese dish featuring vegetable oil and nigiri-shaping. This macrobiotic-friendly recipe is perfect for a quick meal.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "macrobiotic",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pork bones",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the jasmine rice in a fine mesh strainer until the water runs clear.",
+    "In a large saucepan, combine the water, pork bones, onion, garlic, and ginger.",
+    "Bring the mixture to a boil over high heat, then reduce the heat to low and simmer for 10 minutes.",
+    "Using a pair of chopsticks, shape the cooked jasmine rice into small balls, about 1 inch in diameter.",
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the shaped rice balls to the skillet and cook until they are golden brown on all sides.",
+    "Add the remaining 1 tablespoon of vegetable oil, fish sauce, sugar, and chili peppers to the skillet.",
+    "Stir-fry for 2 minutes, then add the cooked rice balls back to the skillet.",
+    "Toss everything together until the rice balls are well coated with the sauce.",
+    "Transfer the com tam to a serving platter and garnish with chopped peanuts.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "macrobiotic-friendly",
+    "one-pan",
+    "spicy",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "piquant-vietnamese-rice-com-tam",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/piquant-vietnamese-rice-com-tam",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T17:03:33Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "vegetable oil",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "rice",
+    "descriptor": "Piquant",
+    "dishForm": "Com Tam"
+  }
+}
