@@ -1,0 +1,101 @@
+{
+  "title": "Puffed Venezuelan Plantains Pastry",
+  "description": "A delicious and unique pastry dish from Venezuela, featuring roasted plantains and a dairy-free, aerated dough.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "plantains",
+      "amount": "4"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup",
+      "notes": "for egg substitute in dough"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "for oiling dough and baking"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel the plantains and slice into 1-inch pieces.",
+    "In a pan, heat 2 tbsp of coconut oil and sauté the plantains until lightly browned.",
+    "In a separate bowl, whisk together almond milk, apple cider vinegar, dill, and salt.",
+    "Add the yeast to the bowl and let it sit for 5 minutes until frothy.",
+    "Add the flour, sugar, and yeast mixture to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth and let it rise for 1 hour.",
+    "Punch down the dough and roll it out into a 1/4-inch thick sheet.",
+    "Place the sheet of dough in a greased baking dish and top with the roasted plantains.",
+    "Bake the pastry for 25-30 minutes until golden brown.",
+    "Remove from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "puffed-venezuelan-plantains-pastry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/puffed-venezuelan-plantains-pastry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T17:15:59Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "lamination-puff",
+    "primaryIngredient": "dill",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "plantains",
+    "descriptor": "Puffed",
+    "dishForm": "Pastry"
+  }
+}
