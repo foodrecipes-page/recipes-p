@@ -1,0 +1,60 @@
+{
+  "title": "Pungent Pan-Seared Norwegian Pak Choi Stir-Fry",
+  "description": "A flavorful and keto-friendly stir-fry dish that combines the bold flavors of mustard and garlic with the delicate taste of Norwegian pak choi.",
+  "cuisine": "norwegian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pak Choi",
+      "amount": "2 bunches",
+      "notes": "Chinese broccoli or gai lan substitute"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a wok over medium-high heat.",
+    "Add 2 cloves of minced garlic and cook for 1 minute until fragrant.",
+    "Add 2 cups of sliced pak choi and cook for 2 minutes until slightly wilted.",
+    "Add 1 tablespoon of Dijon mustard and 1 tablespoon of soy sauce, stir-frying for 1 minute to combine."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "norwegian",
+    "one-pan",
+    "stir-fry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 6,
+    "fat": 18
+  },
+  "slug": "pungent-pan-seared-norwegian-pak-choi-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-pan-seared-norwegian-pak-choi-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:58:28Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "steam",
+    "primaryIngredient": "pak choi",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "norwegian",
+    "mainIngredient": "pak choi",
+    "descriptor": "pungent pan-seared",
+    "dishForm": "stir-fry"
+  }
+}
