@@ -1,0 +1,181 @@
+{
+  "title": "Pan-baked Moroccan Tofu Mesmen",
+  "description": "A Moroccan-inspired meal prep dish featuring crispy pan-baked msemen and a flavorful tofu filling. Can be customized with your favorite spices and fillings. ",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Msemen dough",
+      "amount": "12 sheets",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chopped bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the msemen dough into thin sheets.",
+    "Cut the tofu into small cubes and marinate it in a mixture of olive oil, ginger, cumin, coriander, paprika, salt, and black pepper for at least 30 minutes.",
+    "Heat a non-stick pan over medium heat and cook the chopped onion and bell pepper until softened.",
+    "Add the marinated tofu to the pan and cook until golden brown.",
+    "Add the chopped parsley, lemon juice, water, chili flakes, garlic, cilantro, garlic powder, turmeric, cumin powder, coriander powder, paprika powder, salt, and black pepper to the pan and stir to combine.",
+    "Place the msemen sheets on a baking sheet lined with parchment paper and brush with olive oil.",
+    "Place a spoonful of the tofu mixture onto the center of each msemen sheet and fold the msemen into a triangle or square shape.",
+    "Bake the msemen in the preheated oven for 20-25 minutes or until crispy and golden brown.",
+    "Serve the msemen hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "meal-prep",
+    "moroccan",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "pan-baked-moroccan-tofu-mesmen",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-baked-moroccan-tofu-mesmen",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:39:20Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "tandoor",
+    "primaryIngredient": "tofu",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Tofu",
+    "descriptor": "Pan-baked",
+    "dishForm": "Mesmen"
+  }
+}
