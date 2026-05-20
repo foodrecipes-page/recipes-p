@@ -1,0 +1,127 @@
+{
+  "title": "Pungent Norwegian Uni Gratin",
+  "description": "A pungent, crumbly post-workout dish featuring uni and pickled fennel, perfect for a high-protein meal after a workout.",
+  "cuisine": "Norwegian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uni (sea urchin)",
+      "amount": "12 oz (340g)",
+      "notes": ""
+    },
+    {
+      "name": "Pickle slices",
+      "amount": "1 cup (120g)",
+      "notes": "Use a mix of sweet and dill pickle"
+    },
+    {
+      "name": "Cottage cheese",
+      "amount": "8 oz (225g)",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "2 tbsp (30g)",
+      "notes": ""
+    },
+    {
+      "name": "Pickled fennel",
+      "amount": "1 cup (120g)",
+      "notes": "Slice and chop fennel, then marinate in vinegar and spices"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup (15g)",
+      "notes": "Fresh or dried parsley is fine"
+    },
+    {
+      "name": "Dill",
+      "amount": "2 tbsp (10g)",
+      "notes": "Fresh or dried dill is fine"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "optional",
+      "notes": ""
+    },
+    {
+      "name": "Grated nutmeg",
+      "amount": "optional",
+      "notes": ""
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1 cup (120g)",
+      "notes": ""
+    },
+    {
+      "name": "Melted butter",
+      "amount": "2 tbsp (30g)",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp (30g)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a food processor, blend cottage cheese until smooth.",
+    "In a large bowl, combine cottage cheese, sour cream, paprika, salt, black pepper, crushed red pepper, and nutmeg. Mix well.",
+    "Add the chopped parsley and dill to the bowl and mix until combined.",
+    "In a separate bowl, mix the pickle slices and pickled fennel.",
+    "In a greased 8-inch (20cm) square baking dish, create a layer of cottage cheese mixture. Top with a layer of uni, then a layer of pickle mixture, and finally a layer of panko breadcrumbs.",
+    "Drizzle the top with olive oil and melted butter.",
+    "Repeat the layers two more times, ending with a layer of cottage cheese mixture on top.",
+    "Bake for 25 minutes, or until the top is golden brown and the cheese is set.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gratin",
+    "high-protein",
+    "post-workout",
+    "sea-urchin",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "pungent-norwegian-uni-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-norwegian-uni-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:11:51Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "pickle",
+    "primaryIngredient": "uni",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "uni",
+    "descriptor": "pungent",
+    "dishForm": "Gratin"
+  }
+}
