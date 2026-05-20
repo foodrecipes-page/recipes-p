@@ -1,0 +1,117 @@
+{
+  "title": "Pan-Seared Venezuelan Sweetcorn Paella",
+  "description": "Charred, shaggy Venezuelan dish featuring sweetcorn, tadka, and a shojin-friendly twist.",
+  "cuisine": "venezuelan",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "saffron",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sweetcorn kernels",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "red pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in an iron teppan pan over medium-high heat.",
+    "Add the sliced onion and cook until charred, about 5 minutes.",
+    "Add the sliced red pepper and cook for another 3 minutes.",
+    "Add the saffron and smoked paprika, stir for 1 minute.",
+    "Add the sweetcorn kernels, chicken broth, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook for 10 minutes.",
+    "Stir in the lemon juice and cook for 1 minute.",
+    "Garnish with fresh cilantro and serve hot.",
+    "Let the paella rest for 5 minutes before serving.",
+    "Break the paella into pieces and serve.",
+    "Serve immediately and enjoy!",
+    "Serve with a dollop of sour cream or a sprinkle of queso fresco, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "latin-american",
+    "one-pan",
+    "paella",
+    "shojin-friendly",
+    "sweetcorn",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "pan-seared-venezuelan-sweetcorn-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-venezuelan-sweetcorn-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:06:41Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shaggy",
+    "mood": "meal-prep",
+    "technique": "tadka",
+    "primaryIngredient": "sweetcorn",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Sweetcorn",
+    "descriptor": "Pan-Seared",
+    "dishForm": "Paella"
+  }
+}
