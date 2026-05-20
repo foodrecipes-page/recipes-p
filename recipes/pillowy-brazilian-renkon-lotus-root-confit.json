@@ -1,0 +1,117 @@
+{
+  "title": "pillowy Brazilian renkon-lotus-root Confit",
+  "description": "a resinous, pillowy sick-day dish featuring renkon-lotus-root, confit-tomato, and ayurvedic-sattvic-friendly ingredients.",
+  "cuisine": "brazilian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "renkon-lotus-root",
+      "amount": "2 medium",
+      "notes": "any firm, fibrous root will do"
+    },
+    {
+      "name": "confit-tomato",
+      "amount": "3 large",
+      "notes": "use a flavorful, acidic tomato confit"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for a rich, creamy texture"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced, for depth of flavor"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated, for warmth"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": "for earthy depth"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "mild, sweet spice"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 300\u00066 fahrenheit, or 150\u00066 celsius.",
+    "slice the renkon-lotus-root into thin, uniform pieces.",
+    "mix the confit-tomato, garlic, ginger, lemon juice, cumin powder, paprika, salt, and black pepper in a large bowl.",
+    "add the renkon-lotus-root slices to the bowl, and toss to coat with the confit-tomato mixture.",
+    "heat the coconut oil in a large skillet over medium heat.",
+    "add the renkon-lotus-root slices to the skillet, and cook for 3-4 minutes on each side, until tender and lightly browned.",
+    "transfer the skillet to the preheated oven, and bake for 20-25 minutes, until the renkon-lotus-root is tender and the liquid has reduced.",
+    "remove the skillet from the oven, and let cool slightly.",
+    "serve the renkon-lotus-root confit warm, garnished with fresh herbs or edible flowers, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "brazilian",
+    "comfort-food",
+    "confit",
+    "easy-to-make",
+    "healing-foods",
+    "lotus-root",
+    "renkon",
+    "root-vegetable",
+    "sattvic",
+    "sick-day",
+    "traditional",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "pillowy-brazilian-renkon-lotus-root-confit",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-brazilian-renkon-lotus-root-confit",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:15:29Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "confit-tomato",
+    "primaryIngredient": "renkon-lotus-root",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "renkon-lotus-root",
+    "descriptor": "pillowy",
+    "dishForm": "Confit"
+  }
+}
