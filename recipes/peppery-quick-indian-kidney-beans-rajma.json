@@ -1,0 +1,109 @@
+{
+  "title": "Peppery Quick Indian Kidney Beans Rajma",
+  "description": "A quick and spicy Indian dish featuring kidney beans, spaghetti, and lardons, made halal-friendly, in a glassy-jelly texture, peppery flavor, and rajma form.",
+  "cuisine": "Indian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "1 cup",
+      "notes": "broken into smaller pieces"
+    },
+    {
+      "name": "kidney beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat and render the lardons until crispy.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the cumin seeds, coriander powder, and cayenne pepper, and cook for 1 minute.",
+    "Add the kidney beans, salt, and water, and bring to a boil.",
+    "Reduce the heat to low and simmer for 15 minutes.",
+    "Add the broken spaghetti and cook until al dente.",
+    "Stir in the rendered lardons and cook for an additional 2 minutes.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "halal-friendly",
+    "high-protein",
+    "indian-cuisine",
+    "one-pot",
+    "quick-fix",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "peppery-quick-indian-kidney-beans-rajma",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-quick-indian-kidney-beans-rajma",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-20T08:11:30Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "lardons-render",
+    "primaryIngredient": "spaghetti",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "kidney beans",
+    "descriptor": "Peppery Quick",
+    "dishForm": "Rajma"
+  }
+}
