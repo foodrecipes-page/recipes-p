@@ -1,0 +1,98 @@
+{
+  "title": "Pillowy Adventurous Portuguese Tagine",
+  "description": "Pungent, pillowy, adventurous Portuguese dish featuring clear honey, made with Macrobiotic friendly ingredients and cooked in a Ttukbaegi earthenware pot.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "macrobiotic",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Clear Honey",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cauliflower",
+      "amount": "2 heads",
+      "notes": "macrobiotic-friendly"
+    },
+    {
+      "name": "Gochujang (Korean Chili Paste)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the Ttukbaegi earthenware pot over medium heat. ",
+    "Add the gochujang, garlic, and ginger, and sauté for 1 minute, until fragrant. ",
+    "Add the cauliflower and chickpeas, and stir to combine. ",
+    "Pour in the clear honey and stir to coat the cauliflower and chickpeas evenly. ",
+    "Bring the mixture to a simmer and cook for 10 minutes, or until the cauliflower is tender and caramelized. ",
+    "Season with cumin and paprika to taste. ",
+    "Serve the Pillowy Adventurous Portuguese Tagine hot, garnished with fresh herbs, if desired. "
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "korean-chili-paste",
+    "macrobiotic",
+    "portuguese",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 14,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "pillowy-adventurous-portuguese-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-adventurous-portuguese-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:17:32Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "adventurous",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "clear honey",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "",
+    "descriptor": "adventurous pillowy",
+    "dishForm": "Tagine"
+  }
+}
