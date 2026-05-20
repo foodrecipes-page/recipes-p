@@ -1,0 +1,98 @@
+{
+  "title": "Pungent, Dense Argentinian Prosciutto Empanadas",
+  "description": "A hearty, crispy empanada filled with savory prosciutto and onions, perfect for a lazy Sunday.",
+  "cuisine": "argentinian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prosciutto",
+      "amount": "6 slices"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "wheat flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine wheat flour, salt, and black pepper in a large bowl.",
+    "Add eggs and water to the bowl, mixing until a dough forms.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk shape.",
+    "Cut the prosciutto into small pieces and scatter over half of each disk.",
+    "Add a few pieces of onion and garlic to each disk.",
+    "Fold the other half of the dough over the filling and press the edges to seal.",
+    "Heat the vegetable oil in a deep frying pan to 375°F.",
+    "Fry the empanadas in batches until golden brown, about 2 minutes per side."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "deep-fried",
+    "empanadas",
+    "high-calorie",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 16,
+    "carbs": 24,
+    "fat": 22
+  },
+  "slug": "pungent-dense-argentinian-prosciutto-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-dense-argentinian-prosciutto-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:56:20Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "prosciutto",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "prosciutto",
+    "descriptor": "pungent, dense",
+    "dishForm": "Empanadas"
+  }
+}
