@@ -1,0 +1,126 @@
+{
+  "title": "Pan-Seared Japanese Lamb Loin Kebabs",
+  "description": "Tender Japanese lamb loin chops, marinated in a mustardy mother-sauce, served in a weeknight, plant-based-friendly Tohoku-inspired dish. ",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb loin chops",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Tohoku mother sauce",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Yuzu juice",
+      "amount": "2",
+      "notes": "optional"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1",
+      "notes": "optional"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "0.5",
+      "notes": ""
+    },
+    {
+      "name": "Ginger powder",
+      "amount": "0.5",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "0.25",
+      "notes": "optional"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "0.25",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 sprig",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium-high heat.",
+    "Season the lamb loin chops with salt, pepper, garlic powder, and ginger powder.",
+    "In a small bowl, whisk together the Tohoku mother sauce, yuzu juice, soy sauce, rice vinegar, Dijon mustard, and sesame oil.",
+    "Add the lamb loin chops to the marinade and coat evenly.",
+    "Thread the lamb loin chops onto skewers, leaving a little space between each piece.",
+    "Brush the grill or skillet with a small amount of sesame oil to prevent sticking.",
+    "Sear the lamb loin chops for 2-3 minutes per side, or until they reach your desired level of doneness.",
+    "Transfer the lamb loin chops to a wooden board and let rest for 5 minutes.",
+    "Sprinkle with Parmesan cheese and garnish with fresh thyme and parsley, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "japanese",
+    "kebabs",
+    "lamb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 54,
+    "carbs": 6,
+    "fat": 20
+  },
+  "slug": "pan-seared-tender-japanese-lamb-loin-chops-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-tender-japanese-lamb-loin-chops-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:38:27Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "plant-based",
+    "region": "tohoku",
+    "cuisineAdjective": "japanese",
+    "mainIngredient": "lamb loin chops",
+    "descriptor": "Pan-Seared, Tender",
+    "dishForm": "Kebabs"
+  }
+}

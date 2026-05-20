@@ -900,6 +900,21 @@
     "shard": "p"
   },
   {
+    "slug": "pan-seared-tender-japanese-lamb-loin-chops-kebabs",
+    "title": "Pan-Seared Japanese Lamb Loin Kebabs",
+    "tags": [
+      "high-protein",
+      "japanese",
+      "kebabs",
+      "lamb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 27,
+    "shard": "p"
+  },
+  {
     "slug": "pan-seared-thai-cod-curry",
     "title": "Pan-seared Thai Cod Curry",
     "tags": [
@@ -4367,6 +4382,20 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-quick-adventurous-ukranian-fajita-tagine",
+    "title": "Peppery Quick Adventurous Ukrainian Fajita Tagine",
+    "tags": [
+      "cheese-lovers",
+      "high-protein",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {

@@ -1,0 +1,110 @@
+{
+  "title": "Peppery Quick Adventurous Ukrainian Fajita Tagine",
+  "description": "A bold and spicy Ukrainian-inspired dish featuring fajita seasoning, served in a traditional tagine pot with a crispy cheese pull. Serve with warm pita bread or over couscous.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "kasha",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large tagine pot over medium-high heat.",
+    "Add the sliced onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chicken breast and cook until browned, about 5 minutes.",
+    "Add the fajita seasoning, chicken broth, and red wine vinegar. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 10 minutes.",
+    "Stir in the cottage cheese, shredded mozzarella cheese, and chopped fresh dill. Simmer for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve the Peppery Quick Adventurous Ukrainian Fajita Tagine hot, garnished with additional fresh dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-lovers",
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "peppery-quick-adventurous-ukranian-fajita-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-quick-adventurous-ukranian-fajita-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:38:45Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "adventurous ukranian",
+    "mainIngredient": "fajita",
+    "descriptor": "peppery quick",
+    "dishForm": "tagine"
+  }
+}
