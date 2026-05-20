@@ -1,0 +1,94 @@
+{
+  "title": "Pillowy Uruguayan Teque \u00075 Empanadas",
+  "description": "Winey, pillowy, post-workout Uruguayan dish featuring pre-fried teque \u00075, rich reduction, and vegetarian-friendly goodness.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pre-fried teque \u00075",
+      "amount": "24 pieces",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the red wine and cook until almost completely reduced, stirring occasionally.",
+    "Add the canned tomatoes, vegetable broth, and pre-fried teque \u00075 pieces. ",
+    "Bring to a gentle simmer, then reduce heat to low and cook for 10 minutes, stirring occasionally.",
+    "Stir in chopped parsley and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "snack",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "pillowy-uruguayan-teque-os-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-uruguayan-teque-os-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:01:14Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "reduce",
+    "primaryIngredient": "pre-fried teque os",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "teque os",
+    "descriptor": "pillowy",
+    "dishForm": "Empanadas"
+  }
+}
