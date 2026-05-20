@@ -1,0 +1,64 @@
+{
+  "title": "pungent and tender norwegian chive hash",
+  "description": "energizing breakfast dish featuring chopped chive, coconut-cream-crack, paleo-friendly.",
+  "cuisine": "norwegian",
+  "diet": [
+    "paleo",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "coconut cream",
+      "amount": "1 can (14 oz)",
+      "notes": "chilled in refrigerator overnight"
+    }
+  ],
+  "instructions": [
+    "crack eggs into a bowl and whisk them together with a pinch of salt and pepper.",
+    "chop the chives and garlic and saut\u0014 in coconut oil until fragrant.",
+    "add the chopped onion and cook until translucent.",
+    "crumble the bacon and add it to the pan along with the coconut flakes.",
+    "stir to combine and cook for an additional minute.",
+    "pour the coconut cream into the pan and stir to combine with the other ingredients.",
+    "reduce heat to low and simmer for 2-3 minutes or until the mixture has thickened slightly.",
+    "serve hot and enjoy!",
+    "garnish with additional chives if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "norwegian",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "pungent-and-tender-norwegian-chive-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-and-tender-norwegian-chive-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:24:38Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "chopped chive",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "chive",
+    "descriptor": "pungent and tender",
+    "dishForm": "Hash"
+  }
+}
