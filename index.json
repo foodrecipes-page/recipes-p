@@ -10553,6 +10553,20 @@
     "shard": "p"
   },
   {
+    "slug": "pungent-polish-sauerkraut-stew",
+    "title": "Pungent Polish Sauerkraut Stew",
+    "tags": [
+      "hearty",
+      "one-pan",
+      "polish",
+      "sauerkraut",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 60,
+    "shard": "p"
+  },
+  {
     "slug": "pungent-pull-apart-spanish-cheese-paella",
     "title": "Pungent Pull Apart Spanish Cheese Paella",
     "tags": [

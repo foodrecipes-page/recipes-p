@@ -1,0 +1,100 @@
+{
+  "title": "Pungent Polish Sauerkraut Stew",
+  "description": "A hearty and spicy Polish stew made with nuka-pickled cabbage, yuzu-kosho, and Polish sausage. Serve with crusty bread for a filling meal.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nuka-pickled cabbage",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "yuzu-kosho",
+      "amount": "2 teaspoons",
+      "notes": "use to taste"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "+ 2-4 cups water for more liquid"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon",
+      "notes": "optional for thickening"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "+ optional for serving"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat. Sear the Polish sausage until browned, then remove and set aside.",
+    "Add the onion to the pot and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the nuka-pickled cabbage, caraway seeds, and yuzu-kosho. Cook for 5 minutes, stirring occasionally, until the cabbage starts to soften.",
+    "Add the chicken broth, flour (if using), and browned sausage back to the pot. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20 minutes, or until the cabbage is tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, with sour cream on the side (if using)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hearty",
+    "one-pan",
+    "polish",
+    "sauerkraut",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 28
+  },
+  "slug": "pungent-polish-sauerkraut-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-polish-sauerkraut-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:31:32Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "yuzu-kosho",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "sauerkraut",
+    "descriptor": "Pungent",
+    "dishForm": "Stew"
+  }
+}
