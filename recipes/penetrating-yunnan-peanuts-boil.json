@@ -1,0 +1,93 @@
+{
+  "title": "penetrating yunnan peanuts boil",
+  "description": "a quick-fix chinese dish made with boiling water and pressure-cook that's friendly to mediterranean diets",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yunnan peanuts",
+      "amount": "1 cup",
+      "notes": "unroasted and unsalted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "4 scallions",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "heat the vegetable oil in a large pressure cooker over medium heat.",
+    "add the chopped scallions and cook until fragrant, about 1 minute.",
+    "add the grated ginger and cook for another minute.",
+    "add the unroasted peanuts, salt, and soy sauce, and stir to combine.",
+    "add 4 cups of water to the pressure cooker, and bring to a boil.",
+    "close the lid and cook at high pressure for 10 minutes.",
+    "let the pressure release naturally for 5 minutes, then quick-release any remaining pressure.",
+    "serve the peanuts hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "pressure-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "penetrating-yunnan-peanuts-boil",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/penetrating-yunnan-peanuts-boil",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:28:39Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "pressure-cook",
+    "primaryIngredient": "boiling water",
+    "diet": "mediterranean",
+    "region": "yunnan",
+    "cuisineAdjective": "Yunnan",
+    "mainIngredient": "peanuts",
+    "descriptor": "penetrating",
+    "dishForm": "Boil"
+  }
+}
