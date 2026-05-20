@@ -1,0 +1,104 @@
+{
+  "title": "Pungent Croatian Sundried Cheese Bake",
+  "description": "A rich, diabetic-friendly, and creamy Croatian-inspired dish featuring the bold flavors of tamarind and ferment-jang.",
+  "cuisine": "Croatian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sundried cheese (120g)",
+      "amount": "",
+      "notes": "Croatian-style"
+    },
+    {
+      "name": "Tamarind paste (20g)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Ferment-jang (15g)",
+      "amount": "",
+      "notes": "store-bought"
+    },
+    {
+      "name": "Garlic (4 cloves)",
+      "amount": "",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley (20g)",
+      "amount": "",
+      "notes": "chopped"
+    },
+    {
+      "name": "Breadcrumbs (40g)",
+      "amount": "",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Extra-virgin olive oil (20ml)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper (to taste)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Mix sundried cheese, tamarind paste, ferment-jang, garlic, and parsley in a bowl.",
+    "Combine breadcrumbs and olive oil in a separate bowl.",
+    "Add the breadcrumb mixture to the cheese mixture and mix well.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the mixture to a baking dish and smooth the top.",
+    "Bake for 20 minutes or until golden brown.",
+    "Remove from oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "european",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "pungent-croatian-sundried-cheese-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-croatian-sundried-cheese-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T01:11:27Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "ferment-jang",
+    "primaryIngredient": "tamarind ball",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "sundried cheese",
+    "descriptor": "Pungent",
+    "dishForm": "Bake"
+  }
+}
