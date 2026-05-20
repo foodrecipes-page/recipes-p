@@ -1,0 +1,97 @@
+{
+  "title": "Pungent Australian Comte Pavlova",
+  "description": "Crisp meringue exterior and creamy Comte cheese interior, finished with a sweet lacquer glaze. A unique and adventurous Australian dessert.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "egg whites",
+      "amount": "3 large",
+      "notes": "whipped until stiff peaks form"
+    },
+    {
+      "name": "icing sugar",
+      "amount": "1 cup",
+      "notes": "sifted"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "50g"
+    },
+    {
+      "name": "Lacquer glaze (see below)",
+      "amount": "1 cup",
+      "notes": "see instructions"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 150°C (300°F).",
+    "Line a baking tray with parchment paper.",
+    "In a clean bowl, whip the egg whites until stiff peaks form.",
+    "Sift the icing sugar over the egg whites and mix until combined.",
+    "Add the softened butter and mix until just combined.",
+    "Spoon the mixture onto the prepared baking tray, forming a round shape.",
+    "Bake for 1 hour and 15 minutes, or until the meringue is crisp and golden.",
+    "Remove from the oven and let cool completely.",
+    "In a small saucepan, combine the lacquer glaze ingredients and heat over low heat, stirring until smooth.",
+    "Brush the lacquer glaze over the cooled meringue.",
+    "Sprinkle with vanilla extract and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 75,
+  "totalTimeMin": 90,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "australian",
+    "comte",
+    "dessert",
+    "low-fat",
+    "pavlova",
+    "unique"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "pungent-australian-comte-pavlova",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-australian-comte-pavlova",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:45:20Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "comte",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Comte",
+    "descriptor": "Pungent",
+    "dishForm": "Pavlova"
+  }
+}
