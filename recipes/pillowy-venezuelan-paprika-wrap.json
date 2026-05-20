@@ -1,0 +1,108 @@
+{
+  "title": "pillowy venezuelan paprika wrap",
+  "description": "cultural venezuelan dish featuring pillowy paprika-spiced tofu, wrapped in a crispy ssam-wrap, served with a side of salsa criolla",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "14 oz",
+      "notes": ""
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "4-6 wraps",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tbsp",
+      "notes": "smoked paprika for added depth of flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped, sautéed until caramelized"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced, sautéed until fragrant"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried, crumbled"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp",
+      "notes": "dried, crumbled"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground, toasted until fragrant"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "kosher, flaky texture"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "preheat a non-stick skillet over medium heat",
+    "add the chopped onion and sauté until caramelized, about 5 minutes",
+    "add the minced garlic and sauté for an additional minute, until fragrant",
+    "add the smoked paprika and toasted cumin, stir to combine",
+    "add the tofu and cook until golden brown, about 3-4 minutes per side",
+    "warm the ssam-wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds",
+    "assemble the wraps by placing the cooked tofu in the center and topping with the sautéed onion mixture, thyme, oregano, and salt",
+    "serve immediately with a side of salsa criolla"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "pillowy-venezuelan-paprika-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-venezuelan-paprika-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:35:04Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "paprika",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "paprika",
+    "descriptor": "pillowy",
+    "dishForm": "Wrap"
+  }
+}
