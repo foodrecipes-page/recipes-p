@@ -1,0 +1,109 @@
+{
+  "title": "Piercingly-Flavored German Chorizo Stir-Fry",
+  "description": "A flavorful, date-night German dish made with juicy chorizo, marinated in a tangy mustard mixture.",
+  "cuisine": "german",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German chorizo",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a wok over medium-high heat.",
+    "Add the chorizo and cook for 3-4 minutes, breaking it up with a spoon as it cooks.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the mustard seeds and cook for 1 minute, stirring constantly.",
+    "Add the apple cider vinegar and stir to deglaze the pan.",
+    "Add the potatoes and cook for 5-6 minutes, or until they are tender.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-free",
+    "date-night",
+    "german",
+    "high-protein",
+    "one-pan",
+    "stir-fry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 35,
+    "carbs": 52,
+    "fat": 37
+  },
+  "slug": "piercingly-flavored-german-chorizo-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/piercingly-flavored-german-chorizo-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:54:07Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "marinate",
+    "primaryIngredient": "chorizo",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "chorizo",
+    "descriptor": "piercingly-flavored",
+    "dishForm": "stir-fry"
+  }
+}
