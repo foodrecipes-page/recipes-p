@@ -1,0 +1,117 @@
+{
+  "title": "pillowy herbal slovakian gobo-burdock one-pot",
+  "description": "a comforting, earthy, and aromatic one-pot dish featuring gobo-burdock and bhuna.",
+  "cuisine": "slovakian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gobo",
+      "amount": "2 medium pieces",
+      "notes": ""
+    },
+    {
+      "name": "burdock root",
+      "amount": "1 medium piece",
+      "notes": ""
+    },
+    {
+      "name": "bhuna curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium piece",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium pieces",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "white vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tablespoon chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat olive oil in a large pot over medium heat.",
+    "saute onion and carrot until softened.",
+    "add bhuna curry paste and cook for 1 minute.",
+    "add gobo and burdock root, cook for 5 minutes, stirring occasionally.",
+    "add chicken broth, white vinegar, thyme, salt, and pepper. bring to a boil.",
+    "reduce heat to low and simmer for 20 minutes.",
+    "season with salt and pepper to taste.",
+    "garnish with chopped parsley.",
+    "serve hot and enjoy!",
+    "let the dish rest for 5 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "herbal",
+    "one-pan",
+    "slovakian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "pillowy-herbal-slovakian-gobo-burdock-one-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-herbal-slovakian-gobo-burdock-one-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:59:49Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "bhuna",
+    "primaryIngredient": "gobo-burdock",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "gobo-burdock",
+    "descriptor": "pillowy herbal",
+    "dishForm": "one-pot"
+  }
+}
