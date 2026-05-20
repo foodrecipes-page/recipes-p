@@ -1,0 +1,109 @@
+{
+  "title": "Peppery Dutch Snack Bites",
+  "description": "Snappy and peppery, these kid-friendly bites are a delicious Dutch twist on a classic snack, with a hint of coconut and a touch of cranberry sweetness.",
+  "cuisine": "Dutch",
+  "diet": [
+    "Gluten-free",
+    "Low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "1 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": " Unsweetened shredded coconut",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Cranberry juice",
+      "amount": "2 tablespoons",
+      "notes": "Fresh or frozen cranberries work too!"
+    },
+    {
+      "name": "Cracked black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste."
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "Melted."
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "Optional."
+    },
+    {
+      "name": "Crispy fried onion bits",
+      "amount": "2 tablespoons",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "To taste."
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk together almond flour, unsweetened shredded coconut, granulated sugar, and baking powder.",
+    "Add the egg, cranberry juice, and melted unsalted butter to the bowl and mix until a dough forms.",
+    "Use a cookie scoop or your hands to shape the dough into small balls, about 1 inch in diameter."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-calorie",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 12,
+    "fat": 14
+  },
+  "slug": "peppery-dutch-snack-bites",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-dutch-snack-bites",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:31:29Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "cranberry juice",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "snack",
+    "descriptor": "peppery",
+    "dishForm": "Bites"
+  }
+}

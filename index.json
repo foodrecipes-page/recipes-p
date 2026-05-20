@@ -2685,6 +2685,20 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-dutch-snack-bites",
+    "title": "Peppery Dutch Snack Bites",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "low-calorie",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-egyptian-almond-milk-stir-fry",
     "title": "Peppery Egyptian Almond Milk Stir-fry",
     "tags": [
