@@ -1,0 +1,77 @@
+{
+  "title": "Peruvian-Style Spicy Peruvian nduja Anticuchos",
+  "description": "A vibrant and spicy dish featuring spherified nduja in the traditional Peruvian street food form of anticuchos, served in a hot pot vessel for a fun and interactive dining experience.",
+  "cuisine": "Peruvian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nduja",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "used for spherification"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "potato",
+      "amount": "4 medium",
+      "notes": "for anticuchos"
+    }
+  ],
+  "instructions": [
+    "Combine nduja and sugar in a food processor and mix until smooth.",
+    "Add water and process until fully incorporated.",
+    "Spherify mixture using sodium alginate and calcium chloride.",
+    "Thread potato slices onto skewers and grill until slightly charred.",
+    "Heat oil in a hot pot vessel over medium-high heat.",
+    "Add spherified nduja mixture to the hot oil and cook until crispy.",
+    "Serve anticuchos in the hot pot vessel with the spherified nduja and a side of spicy aioli for dipping.",
+    "Garnish with chopped cilantro and a sprinkle of paprika."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "hot-pot",
+    "one-pan",
+    "peruvian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "peruvian-style-spicy-peruvian-nduja-anticuchos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peruvian-style-spicy-peruvian-nduja-anticuchos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:15:55Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "spherify",
+    "primaryIngredient": "nduja",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "nduja",
+    "descriptor": "Peruvian-Style Spicy",
+    "dishForm": "Anticuchos"
+  }
+}
