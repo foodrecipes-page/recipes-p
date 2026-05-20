@@ -1,0 +1,62 @@
+{
+  "title": "Pilafed Italian Rice Pilaf",
+  "description": "A rich and silky Italian rice dish from Piedmont, made with milk, perfect for a solo dinner in a donabe.",
+  "cuisine": "Italian",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Combine rice, milk, and melted butter in a donabe over medium heat, stirring occasionally."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dinner",
+    "gluten-free",
+    "italian",
+    "one-pan",
+    "piedmontese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "pilafed-italian-rice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pilafed-italian-rice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:47:52Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "rest",
+    "primaryIngredient": "milk",
+    "diet": "macrobiotic",
+    "region": "piedmontese",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "rice",
+    "descriptor": "Pilafed",
+    "dishForm": "Pilaf"
+  }
+}

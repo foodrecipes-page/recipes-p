@@ -5613,6 +5613,22 @@
     "shard": "p"
   },
   {
+    "slug": "pilafed-italian-rice-pilaf",
+    "title": "Pilafed Italian Rice Pilaf",
+    "tags": [
+      "comfort-food",
+      "dinner",
+      "gluten-free",
+      "italian",
+      "one-pan",
+      "piedmontese",
+      "vegetarian"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
     "slug": "piled-american-rice-fried-rice",
     "title": "Piled American Rice Fried-Rice",
     "tags": [
