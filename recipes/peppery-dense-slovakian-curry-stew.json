@@ -1,0 +1,115 @@
+{
+  "title": "Slovakian Peppery Curry Stew",
+  "description": "A rich and spicy stew originating from Slovakia, with the perfect blend of massaman curry paste and ferment-jang for a unique flavor. This dish is perfect for a weeknight dinner or a special occasion.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "potato",
+      "amount": "3 medium"
+    },
+    {
+      "name": "massaman curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a kadhai over medium heat.",
+    "Add onion and garlic and saut\u00040 until softened.",
+    "Add carrot and potato and cook until tender.",
+    "Add massaman curry paste and cook for 1 minute.",
+    "Add ferment-jang, tofu, and vegetable broth. Bring to a boil.",
+    "Reduce heat and add coconut milk, brown sugar, cayenne pepper, black pepper, and salt. Simmer for 10 minutes.",
+    "Stir in fresh cilantro.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "high-protein",
+    "one-pan",
+    "slovakian-cuisine",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "peppery-dense-slovakian-curry-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-dense-slovakian-curry-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:35:25Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "ferment-jang",
+    "primaryIngredient": "massaman curry paste",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "curry",
+    "descriptor": "peppery dense",
+    "dishForm": "Stew"
+  }
+}

@@ -2780,6 +2780,21 @@
     "shard": "p"
   },
   {
+    "slug": "peppery-dense-slovakian-curry-stew",
+    "title": "Slovakian Peppery Curry Stew",
+    "tags": [
+      "curry",
+      "high-protein",
+      "one-pan",
+      "slovakian-cuisine",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "peppery-dutch-cheese-flatbread",
     "title": "Peppery Dutch Cheese Flatbread",
     "tags": [
