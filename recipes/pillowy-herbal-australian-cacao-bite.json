@@ -1,0 +1,97 @@
+{
+  "title": "Pillowy Herbal Australian Cacao Bite",
+  "description": "A light and fluffy treat infused with the earthy flavors of Australian herbs and the richness of cacao.",
+  "cuisine": "australian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cacao powder",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup",
+      "notes": "sifted"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1/4 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "room temperature"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "activated charcoal powder",
+      "amount": "1 tsp",
+      "notes": "binchotan charcoal powder"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325\u000125F (165\u000125C).",
+    "In a medium bowl, sift together the almond flour, confectioners sugar, and activated charcoal powder.",
+    "In a separate bowl, whisk together the egg and honey until well combined.",
+    "Add the sifted dry ingredients to the egg mixture and stir until a dough forms.",
+    "Fold in the chopped rosemary and thyme.",
+    "Scoop the dough into a lined baking sheet and use a cookie scoop to shape into balls.",
+    "Bake for 18 minutes, or until the edges are lightly golden.",
+    "Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "high-protein",
+    "kid-friendly",
+    "low-carb",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "pillowy-herbal-australian-cacao-bite",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pillowy-herbal-australian-cacao-bite",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:34:14Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "pillowy",
+    "mood": "kid-friendly",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "cacao",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "cacao",
+    "descriptor": "pillowy herbal",
+    "dishForm": "Bite"
+  }
+}
