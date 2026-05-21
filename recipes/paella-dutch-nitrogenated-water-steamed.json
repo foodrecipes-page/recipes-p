@@ -1,0 +1,93 @@
+{
+  "title": "Paella Dutch Nitrogenated Water Steamed",
+  "description": "A grassy, flaky, date-night Dutch dish featuring water, pressure-cook, high-protein-friendly, served on a cedar-plank.",
+  "cuisine": "Dutch",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Paella rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice, preferably Spanish"
+    },
+    {
+      "name": "Grass-fed beef strips",
+      "amount": "1 pound",
+      "notes": "high-protein, thinly sliced"
+    },
+    {
+      "name": "Cedar plank",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "Watercress",
+      "amount": "1/4 cup",
+      "notes": "fresh, for garnish"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Place the cedar plank in a pressure cooker.",
+    "Add 4 cups of water to the pressure cooker.",
+    "Add the grass-fed beef strips and cook until browned, about 5 minutes.",
+    "Add the paella rice and cook for 1 minute, stirring constantly.",
+    "Close the lid and pressure cook at 15 PSI for 10 minutes.",
+    "Remove the pressure cooker from the heat and let the pressure release naturally.",
+    "Carefully remove the cedar plank from the pressure cooker and place it on a serving plate.",
+    "Garnish with fresh watercress and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cedar-plank",
+    "date-night",
+    "dutch",
+    "high-protein",
+    "one-pan",
+    "pressure-cooker"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "paella-dutch-nitrogenated-water-steamed",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/paella-dutch-nitrogenated-water-steamed",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:29:58Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "pressure-cook",
+    "primaryIngredient": "water",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "water",
+    "descriptor": "Nitrogenated Water Steamed",
+    "dishForm": "paella"
+  }
+}
