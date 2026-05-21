@@ -834,6 +834,20 @@
     "shard": "p"
   },
   {
+    "slug": "pan-seared-pungent-spanish-dish-paella",
+    "title": "Pan-Seared Spanish Paella",
+    "tags": [
+      "low-calorie",
+      "one-pan",
+      "spanish",
+      "veggie-packed",
+      "weeknight"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
     "slug": "pan-seared-punjabi-wonton-dumplings",
     "title": "Pan Seared Punjabi Wonton Dumplings",
     "tags": [

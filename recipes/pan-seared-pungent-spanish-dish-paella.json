@@ -1,0 +1,88 @@
+{
+  "title": "Pan-Seared Spanish Paella",
+  "description": "A rich, resinous Spanish dish featuring coconut flakes and katsuramuki-cut vegetables, perfect for a low-calorie lunch.",
+  "cuisine": "spanish",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "katsuramuki-cut carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "safron threads",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the katsuramuki-cut carrots and cook until tender, about 5 minutes.",
+    "Add the chicken breast and cook until browned on both sides, about 5-6 minutes per side.",
+    "Add the coconut flakes and smoked paprika, stir to combine.",
+    "Add 2 cups of water to the skillet and bring to a simmer.",
+    "Reduce heat to low and cover with a lotus leaf wrap, cooking for an additional 10-12 minutes.",
+    "Remove the skillet from heat and let rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-calorie",
+    "one-pan",
+    "spanish",
+    "veggie-packed",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "pan-seared-pungent-spanish-dish-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pan-seared-pungent-spanish-dish-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:28:55Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "coconut flakes",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "dish",
+    "descriptor": "Pan-Seared, Pungent",
+    "dishForm": "Paella"
+  }
+}
