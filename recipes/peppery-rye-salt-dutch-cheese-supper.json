@@ -1,0 +1,92 @@
+{
+  "title": "Peppery Rye-Salt Dutch Cheese Supper",
+  "description": "A savory, slow-cooked one-pot dish featuring a blend of rye cheese and spices. This Ayurvedic-friendly meal is perfect for a hearty dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rye cheese",
+      "amount": "300g",
+      "notes": ""
+    },
+    {
+      "name": "Coarse black pepper",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground cloves",
+      "amount": "0.5 tsp",
+      "notes": "For added depth of flavor."
+    },
+    {
+      "name": "Fine sea salt",
+      "amount": "1 tsp",
+      "notes": "Use a salt block to cook and serve."
+    },
+    {
+      "name": "Rye flour",
+      "amount": "2 tbsp",
+      "notes": "For thickening and texture."
+    },
+    {
+      "name": "Water",
+      "amount": "400ml",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "20g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a preheated salt block over medium heat, melt the unsalted butter. Add the rye flour and whisk until a smooth paste forms.",
+    "Gradually add the water, whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer, then reduce heat to low and cook for 10 minutes, stirring occasionally.",
+    "Add the rye cheese, coarse black pepper, and ground cloves. Stir until the cheese is melted and the mixture is smooth.",
+    "Continue cooking for an additional 20 minutes, stirring frequently, until the cheese has thickened and a crust has formed on the surface.",
+    "Use a spatula to scoop and serve the Peppery Rye-Salt Dutch Cheese Supper hot, garnished with additional coarse black pepper if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "slow-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "peppery-rye-salt-dutch-cheese-supper",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/peppery-rye-salt-dutch-cheese-supper",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:27:59Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "cheese-pull",
+    "mood": "one-pot",
+    "technique": "rest",
+    "primaryIngredient": "cloves",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Cheese",
+    "descriptor": "Peppery Rye-Salt",
+    "dishForm": "Supper"
+  }
+}
