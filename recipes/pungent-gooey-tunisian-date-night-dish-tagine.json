@@ -1,0 +1,122 @@
+{
+  "title": "Tunisian Soy-Glazed Tagine",
+  "description": "A pungent and savory Tunisian date-night dish featuring soy sauce and lacquer-glaze, perfect for lacto-vegetarians. This rich and aromatic tagine is best served over couscous.",
+  "cuisine": "tunisian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay pot over medium heat.",
+    "Add the red onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for an additional minute.",
+    "Add the dates, soy sauce, lacquer glaze, cinnamon, cumin, paprika, salt, and black pepper. Stir to combine.",
+    "Add the chicken broth and bring the mixture to a simmer.",
+    "Cover the pot and transfer it to the oven. Bake at 300°F for 25 minutes.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the tagine over couscous, garnished with fresh herbs if desired.",
+    "Reheat the tagine over low heat, if necessary, before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "lacto-vegetarian",
+    "soy-glazed",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "pungent-gooey-tunisian-date-night-dish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-gooey-tunisian-date-night-dish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:24:55Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "soy sauce",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "date-night dish",
+    "descriptor": "pungent gooey",
+    "dishForm": "Tagine"
+  }
+}
