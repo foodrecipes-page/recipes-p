@@ -1,0 +1,76 @@
+{
+  "title": "Pangy Tangy Kombu Stir-fry",
+  "description": "A lazy Sunday Canadian dish featuring kombu and other easy-to-find ingredients for a satisfying meal.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kombu",
+      "amount": "10 grams"
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 pieces"
+    },
+    {
+      "name": "Shallots",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or skillet over medium-high heat.",
+    "Add kombu, garlic, and shallots. Stir-fry for about 1 minute until fragrant.",
+    "Toss in broccoli florets and red bell pepper. Continue to stir-fry for another 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot as a main dish or side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 19,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "keto-appropriate",
+    "quick-dinner",
+    "sustainable-ingredients",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 16,
+    "carbs": 8,
+    "fat": 9
+  },
+  "slug": "pangy-tangy-kombu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/pangy-tangy-kombu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T09:11:04Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "saute",
+    "primaryIngredient": "kombu",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Seaweed",
+    "descriptor": "Tangy",
+    "dishForm": "Stir-fry"
+  }
+}
