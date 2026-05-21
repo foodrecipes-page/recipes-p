@@ -1,0 +1,118 @@
+{
+  "title": "Pungent Spring Roasted Italian Chicken Casserole",
+  "description": "A hearty, comforting Calabrian-inspired casserole featuring tender chicken, fragrant elderflower, and crispy broiled cheese.",
+  "cuisine": "italian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "fresh elderflower",
+      "amount": "1/4 cup",
+      "notes": "dried elderflower can be substituted"
+    },
+    {
+      "name": "calabrian chili flakes",
+      "amount": "1 tablespoon",
+      "notes": "or substitute with red pepper flakes"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "preferably kosher salt"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "2 leaves",
+      "notes": "chopped"
+    },
+    {
+      "name": "Italian bread",
+      "amount": "1 cup",
+      "notes": "cubed and toasted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breast with salt, Calabrian chili flakes, and garlic.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the chicken until browned on both sides, about 5 minutes per side.",
+    "Transfer the chicken to a baking dish and set aside.",
+    "In the same skillet, add the elderflower and cook for 1 minute.",
+    "Add the cubed bread to the skillet and cook until lightly toasted.",
+    "Transfer the toasted bread to the baking dish with the chicken.",
+    "Sprinkle the grated Parmesan cheese and shredded mozzarella cheese over the chicken and bread.",
+    "Bake the casserole in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and top with chopped parsley and basil.",
+    "Return the casserole to the oven and broil for an additional 2-3 minutes, or until the top is crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "calabrian",
+    "casserole",
+    "high-protein",
+    "italian",
+    "one-pan",
+    "spring",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "pungent-spring-roasted-italian-chicken-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/pungent-spring-roasted-italian-chicken-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T11:16:02Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "broil",
+    "primaryIngredient": "elderflower",
+    "diet": "high-protein",
+    "region": "calabrian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chicken",
+    "descriptor": "Pungent Spring Roasted",
+    "dishForm": "Casserole"
+  }
+}
