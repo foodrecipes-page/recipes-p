@@ -1566,17 +1566,14 @@
   },
   {
     "slug": "peppery-american-vegetable-casserole",
-    "title": "Peppery American Vegetable Casserole",
+    "title": "Peppery Vegetable Casserole",
     "tags": [
-      "american",
-      "casserole",
-      "one-pan",
-      "vegan",
       "vegetarian",
-      "weeknight"
+      "comfort-food",
+      "casserole"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 55,
+    "cuisine": "american",
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
