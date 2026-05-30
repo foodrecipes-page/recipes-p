@@ -1058,19 +1058,15 @@
   },
   {
     "slug": "pan-seared-venezuelan-sweetcorn-paella",
-    "title": "Pan-Seared Venezuelan Sweetcorn Paella",
+    "title": "Venezuelan Sweetcorn Paella",
     "tags": [
-      "easy-to-make",
-      "latin-american",
-      "one-pan",
+      "vegan",
       "paella",
-      "shojin-friendly",
       "sweetcorn",
-      "venezuelan",
-      "weeknight"
+      "venezuelan"
     ],
-    "cuisine": "venezuelan",
-    "totalTimeMin": 40,
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -4937,17 +4933,14 @@
   },
   {
     "slug": "peppery-ukrainian-beef-stir-fry",
-    "title": "Peppery Ukrainian Beef Stir-fry",
+    "title": "Beef Stir Fry",
     "tags": [
-      "peppery",
-      "ukrainian",
       "beef",
       "stir-fry",
-      "u2013",
-      "energizing"
+      "asian"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 15,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -12984,6 +12977,46 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 60,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-dutch-dishes-bake--german",
+    "title": "German Potato Bake",
+    "tags": [
+      "german",
+      "potatoes",
+      "cheese",
+      "bake"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 90,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-dutch-dishes-bake--chinese",
+    "title": "Dutch Pungent Vegetable Dishes",
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "dinner",
+      "baked"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
+    "slug": "petit-poulet-algerian-vegetables-bamboo-steamed-wrap--german",
+    "title": "Algerian Poulet Wrap",
+    "tags": [
+      "german",
+      "algerian",
+      "grilled-chicken",
+      "wrap",
+      "steamed-bamboo"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 27,
     "shard": "p"
   }
 ]
