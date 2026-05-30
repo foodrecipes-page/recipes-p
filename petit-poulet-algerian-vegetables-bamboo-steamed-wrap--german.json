@@ -1,0 +1,72 @@
+{
+  "slug": "petit-poulet-algerian-vegetables-bamboo-steamed-wrap--german",
+  "title": "Algerian Poulet Wrap",
+  "description": "A German twist on traditional Algerian chicken wraps, featuring grilled chicken, vegetables, and a side of steamed bamboo shoots.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "poulet",
+      "amount": "500g",
+      "notes": "boneless chicken breast"
+    },
+    {
+      "name": "petit",
+      "amount": "1",
+      "notes": "small onion"
+    },
+    {
+      "name": "algerian",
+      "amount": "2",
+      "notes": "Algerian spices (cumin, coriander, paprika)"
+    },
+    {
+      "name": "vegetables",
+      "amount": "200g",
+      "notes": "bell peppers, carrots, zucchini"
+    },
+    {
+      "name": "bamboo",
+      "amount": "100g",
+      "notes": "steamed bamboo shoots"
+    },
+    {
+      "name": "wrap",
+      "amount": "4",
+      "notes": "large flour tortillas"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the chicken with Algerian spices and grill for 5-6 minutes per side, or until cooked through.",
+    "Sauté the onion and vegetables in a pan until tender.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by slicing the grilled chicken and adding it to the tortillas along with the sautéed vegetables and steamed bamboo shoots."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "algerian",
+    "grilled-chicken",
+    "wrap",
+    "steamed-bamboo"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/petit-poulet-algerian-vegetables-bamboo-steamed-wrap--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:01:45.692Z"
+}
