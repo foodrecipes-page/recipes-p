@@ -1,0 +1,74 @@
+{
+  "slug": "pungent-dutch-dishes-bake",
+  "title": "Dutch Baked Pungent Dishes",
+  "description": "A hearty and flavorful dish originating from the Netherlands, perfect for a cold evening.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pungent mushrooms",
+      "amount": "2 cups",
+      "notes": "such as porcini or chanterelle"
+    },
+    {
+      "name": "Dutch rye bread",
+      "amount": "1 loaf",
+      "notes": "stale bread works best"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bake",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 350°F (180°C).",
+    "2. Tear the rye bread into small pieces and place on a baking sheet.",
+    "3. Drizzle with a little olive oil and toss to coat.",
+    "4. Bake in the preheated oven for 10-12 minutes, or until crispy and golden brown.",
+    "5. In a large skillet, sauté the sliced onion and minced garlic in a little olive oil until softened.",
+    "6. Add the pungent mushrooms and cook until they release their liquid and start to brown.",
+    "7. Season with salt, pepper, and ground cumin.",
+    "8. To assemble the dish, place the toasted bread on a serving platter or individual plates.",
+    "9. Top with the mushroom and onion mixture.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "mushrooms",
+    "bread",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-dutch-dishes-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:29:18.448Z"
+}
