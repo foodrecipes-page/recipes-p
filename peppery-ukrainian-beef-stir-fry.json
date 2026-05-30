@@ -1,0 +1,66 @@
+{
+  "slug": "peppery-ukrainian-beef-stir-fry",
+  "title": "Beef Stir Fry",
+  "description": "A classic beef stir fry dish, quick and easy to make. Serve with your favorite sides.",
+  "cuisine": "Asian",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "Peppery stir fry sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Ukrainian udon noodles",
+      "amount": "8 ounces",
+      "notes": "or any other Asian-style noodles"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add beef and cook until browned, about 3-4 minutes.",
+    "Add stir fry sauce and cook for an additional 1-2 minutes.",
+    "Add noodles and cook until heated through.",
+    "Transfer to a serving platter and garnish with green onions.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "stir-fry",
+    "asian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-ukrainian-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:56:49.287Z"
+}
