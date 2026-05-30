@@ -1485,12 +1485,13 @@
     "slug": "peppermint-saute",
     "title": "Peppermint Saute",
     "tags": [
-      "peppermint",
-      "saute",
-      "plant-based-friendly"
+      "breakfast",
+      "snack",
+      "dessert",
+      "peppermint"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 25,
+    "cuisine": null,
+    "totalTimeMin": 10,
     "shard": "p"
   },
   {
@@ -5726,16 +5727,16 @@
   },
   {
     "slug": "petit-poulet-algerian-vegetables-bamboo-steamed-wrap",
-    "title": "Petit Poulet Algerian Vegetables Bamboo-Steamed Wrap",
+    "title": "Bamboo Chicken Wrap",
     "tags": [
       "algerian",
+      "chicken",
+      "vegetarian",
       "gluten-free",
-      "keto",
-      "one-pan",
-      "vegetarian-option",
-      "weeknight"
+      "wrap",
+      "lunch"
     ],
-    "cuisine": "algerian",
+    "cuisine": "Algerian",
     "totalTimeMin": 25,
     "shard": "p"
   },
