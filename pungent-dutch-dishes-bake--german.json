@@ -1,0 +1,74 @@
+{
+  "slug": "pungent-dutch-dishes-bake--german",
+  "title": "German Potato Bake",
+  "description": "A hearty German-inspired potato bake with a crispy crust and savory flavors.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large, thinly sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large, thinly sliced"
+    },
+    {
+      "name": "dishes",
+      "amount": "1 cup, grated"
+    },
+    {
+      "name": "pungent cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "bake",
+      "amount": "1 tablespoon, butter"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine sliced potatoes and onions.",
+    "In a separate bowl, mix grated dishes and shredded pungent cheese.",
+    "Grease a 9x13-inch baking dish with butter.",
+    "Layer half of the potato mixture in the baking dish.",
+    "Top with half of the cheese mixture.",
+    "Repeat the layers, ending with the cheese mixture on top.",
+    "Season with salt and black pepper to taste.",
+    "Cover the dish with aluminum foil and bake for 45 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the top is golden brown.",
+    "Let the dish rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "potatoes",
+    "cheese",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-dutch-dishes-bake--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:57:03.525Z"
+}
