@@ -1,0 +1,86 @@
+{
+  "slug": "pan-seared-venezuelan-sweetcorn-paella",
+  "title": "Venezuelan Sweetcorn Paella",
+  "description": "A traditional Venezuelan-inspired paella dish loaded with seared sweetcorn and a rich pan-seared flavor.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sweetcorn",
+      "amount": "1 cup, cut off the cob"
+    },
+    {
+      "name": "Paella",
+      "amount": "1 cup uncooked rice"
+    },
+    {
+      "name": "Pan",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the pan over medium-high heat.",
+    "Add 2 tablespoons of vegetable oil and swirl it around.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the diced tomatoes, vegetable broth, and salt and pepper to taste. Stir well.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Add the paella rice and stir well to combine.",
+    "Add the sweetcorn and stir well to combine.",
+    "Cover the pan with a lid and cook for 15-20 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the lid and fluff the rice with a fork.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "paella",
+    "sweetcorn",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-venezuelan-sweetcorn-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:58:19.776Z"
+}
