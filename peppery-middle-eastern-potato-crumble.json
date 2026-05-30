@@ -1,0 +1,62 @@
+{
+  "slug": "peppery-middle-eastern-potato-crumble",
+  "title": "Middle Eastern Crumble Potato Hash",
+  "description": "A delicious and easy-to-make potato hash inspired by the flavors of the Middle East, topped with a crunchy crumble.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Peppery",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Eastern",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "Crumble",
+      "amount": "1 cup",
+      "notes": "oat-based crumble topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Boil the potatoes until tender, then chop into small pieces.",
+    "Heat a pan over medium heat and add the potatoes.",
+    "Add the peppery and eastern and cook for 2 minutes, stirring frequently.",
+    "Transfer the mixture to a baking dish and top with crumble.",
+    "Bake for 20-25 minutes, or until the crumble is golden brown and the potatoes are crispy.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "middleeastern",
+    "potato",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-middle-eastern-potato-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:24:52.370Z"
+}
