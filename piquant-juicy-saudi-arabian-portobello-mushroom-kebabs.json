@@ -1,0 +1,67 @@
+{
+  "slug": "piquant-juicy-saudi-arabian-portobello-mushroom-kebabs",
+  "title": "Saudian Arabian Mushroom Kebabs",
+  "description": "A fusion of flavors from the Arabian Peninsula, with the earthiness of portobello mushrooms. This dish is perfect for a quick and easy dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portobello mushrooms",
+      "amount": "4",
+      "notes": "Large and meaty"
+    },
+    {
+      "name": "Piquant sauce",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Juicy kebab skewers",
+      "amount": "10",
+      "notes": "For 4-6 servings"
+    },
+    {
+      "name": "Arabian flatbread",
+      "amount": "4",
+      "notes": "Optional for serving"
+    },
+    {
+      "name": "Saudian spices",
+      "amount": "1 tsp",
+      "notes": "Mix of cumin, coriander, and cinnamon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread mushrooms and piquant sauce onto kebab skewers.",
+    "Season with Saudian spices and brush with olive oil.",
+    "Grill for 8-10 minutes, turning occasionally.",
+    "Serve immediately with Arabian flatbread, if desired.",
+    "Optional: Garnish with fresh herbs, such as parsley or cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "kebabs",
+    "mushrooms",
+    "arabian",
+    "saudian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-juicy-saudi-arabian-portobello-mushroom-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:08:57.348Z"
+}
