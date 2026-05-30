@@ -4296,15 +4296,15 @@
   },
   {
     "slug": "peppery-middle-eastern-potato-crumble",
-    "title": "Peppery Middle Eastern Potato Crumble",
+    "title": "Middle Eastern Crumble Potato Hash",
     "tags": [
-      "peppery",
-      "flaky",
-      "middle-eastern",
-      "vegan"
+      "breakfast",
+      "middleeastern",
+      "potato",
+      "crumble"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -9702,16 +9702,15 @@
   },
   {
     "slug": "prawn-broil-medley",
-    "title": "Prawn Broil Medley",
+    "title": "Quick Prawn Medley",
     "tags": [
-      "prawn",
-      "broil",
-      "mediterranean",
-      "meal-prep",
-      "nut-free-friendly"
+      "seafood",
+      "quick-cook",
+      "dinner",
+      "easy"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 18,
+    "cuisine": "seafood",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
