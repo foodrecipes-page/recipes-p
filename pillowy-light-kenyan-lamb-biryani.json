@@ -1,0 +1,83 @@
+{
+  "slug": "pillowy-light-kenyan-lamb-biryani",
+  "title": "Kenyan Lamb Biryani",
+  "description": "A flavorful and aromatic Kenyan-inspired lamb biryani dish, made with tender lamb, fluffy rice, and a blend of spices.",
+  "cuisine": "kenyan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Pillowy light rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Kenyan biryani spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lamb biryani masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large pan over medium-high heat.",
+    "Add the lamb and cook until browned, about 5 minutes.",
+    "Remove the lamb from the pan and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the pan.",
+    "Add the ginger and garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the biryani spice blend and lamb biryani masala and cook for 1 minute.",
+    "Add the rice to the pan and cook for 2-3 minutes, until lightly toasted.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes, until the rice is cooked and fluffy.",
+    "Return the lamb to the pan and stir to combine with the rice.",
+    "Season with salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kenyan",
+    "biryani",
+    "rice",
+    "spices"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-light-kenyan-lamb-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:45:20.149Z"
+}
