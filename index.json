@@ -10253,18 +10253,16 @@
   },
   {
     "slug": "pungent-australian-comte-pavlova",
-    "title": "Pungent Australian Comte Pavlova",
+    "title": "Australian Pavlova with Comte Cheese",
     "tags": [
-      "adventurous",
       "australian",
-      "comte",
-      "dessert",
-      "low-fat",
       "pavlova",
-      "unique"
+      "cheese",
+      "dessert",
+      "meringue"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 90,
+    "totalTimeMin": 110,
     "shard": "p"
   },
   {
