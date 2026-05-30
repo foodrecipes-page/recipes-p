@@ -6143,16 +6143,16 @@
   },
   {
     "slug": "pillowy-light-kenyan-lamb-biryani",
-    "title": "Pillowy Light Kenyan Lamb Biryani",
+    "title": "Kenyan Lamb Biryani",
     "tags": [
-      "fluffy-rice",
-      "halal-friendly",
-      "kenyan-cuisine",
-      "lamb-dishes",
-      "one-pot-meals"
+      "lamb",
+      "kenyan",
+      "biryani",
+      "rice",
+      "spices"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 60,
+    "cuisine": "kenyan",
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
@@ -7416,17 +7416,16 @@
   },
   {
     "slug": "piquant-juicy-saudi-arabian-portobello-mushroom-kebabs",
-    "title": "Piquant Juicy Saudi Arabian Portobello Mushroom Kebabs",
+    "title": "Saudian Arabian Mushroom Kebabs",
     "tags": [
-      "dinner",
       "grilled",
       "kebabs",
-      "mushroom",
-      "saudi-arabian",
-      "vegan"
+      "mushrooms",
+      "arabian",
+      "saudian"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 32,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
