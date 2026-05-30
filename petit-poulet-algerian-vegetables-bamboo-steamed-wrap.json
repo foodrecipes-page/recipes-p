@@ -1,0 +1,81 @@
+{
+  "slug": "petit-poulet-algerian-vegetables-bamboo-steamed-wrap",
+  "title": "Bamboo Chicken Wrap",
+  "description": "A flavorful and healthy wrap filled with grilled chicken, bamboo shoots, and mixed vegetables. Perfect for a quick lunch or dinner.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Poulet (chicken breast)",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "Bamboo shoots",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Petit (small) onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Algerian (cumin, coriander, paprika) spices",
+      "amount": "1 teaspoon",
+      "notes": "mixed"
+    },
+    {
+      "name": "Vegetables (bell peppers, carrots, cucumber)",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Wrap (flatbread or tortilla)",
+      "amount": "1",
+      "notes": "whole wheat or gluten-free"
+    },
+    {
+      "name": "Steamed (optional)",
+      "amount": "",
+      "notes": "for cooking bamboo shoots"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a bowl, mix together chicken breast, Algerian spices, and chopped onion.",
+    "Grill the chicken mixture for 6-7 minutes per side, or until cooked through.",
+    "Meanwhile, steam bamboo shoots according to package instructions.",
+    "In a separate pan, sauté sliced vegetables in a little oil until tender.",
+    "Warm the wrap in the microwave or in a dry pan for 10-15 seconds.",
+    "Assemble the wrap by placing the grilled chicken, steamed bamboo shoots, and sautéed vegetables inside.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "chicken",
+    "vegetarian",
+    "gluten-free",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/petit-poulet-algerian-vegetables-bamboo-steamed-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:36:34.975Z"
+}
