@@ -1,0 +1,79 @@
+{
+  "slug": "pungent-dutch-dishes-bake--chinese",
+  "title": "Dutch Pungent Vegetable Dishes",
+  "description": "A classic Chinese-inspired vegetable dish with a pungent twist, baked to perfection.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pungent Onions",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Dutch Potatoes",
+      "amount": "3 medium",
+      "notes": ""
+    },
+    {
+      "name": "Dishes Oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bake Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel and chop the Dutch potatoes into bite-sized pieces.",
+    "Heat the Dishes Oil in a large skillet over medium-high heat.",
+    "Add the Pungent Onions and cook until caramelized, about 5 minutes.",
+    "Add the chopped potatoes, Soy Sauce, Garlic Powder, and Bake Ginger to the skillet.",
+    "Stir to combine and cook for an additional 2-3 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes, or until the potatoes are tender.",
+    "Season with Black Pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "dinner",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-dutch-dishes-bake--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:59:48.282Z"
+}
