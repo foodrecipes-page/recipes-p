@@ -1,0 +1,79 @@
+{
+  "slug": "pungent-australian-comte-pavlova",
+  "title": "Australian Pavlova with Comte Cheese",
+  "description": "A classic Australian dessert featuring a crispy meringue shell topped with whipped cream and Comte cheese, adding a rich and creamy texture.",
+  "cuisine": "Australian",
+  "diet": [
+    "dairy",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Australian egg whites",
+      "amount": "3 large",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": "Powdered sugar for dusting"
+    },
+    {
+      "name": "Comte cheese",
+      "amount": "1 block (8 oz)",
+      "notes": "Softened to room temperature"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "Whipped to stiff peaks"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Fresh berries (strawberries, blueberries, raspberries)",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen, thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 150°C (300°F).",
+    "Line a baking sheet with parchment paper.",
+    "In a large mixing bowl, beat the egg whites until soft peaks form.",
+    "Gradually add the granulated sugar and continue beating until stiff peaks form.",
+    "Transfer the meringue to the prepared baking sheet and shape into a circle.",
+    "Bake for 1 1/2 hours or until the meringue is crisp and dry.",
+    "Allow the meringue to cool completely.",
+    "In a separate bowl, whip the heavy cream until stiff peaks form.",
+    "Add the softened Comte cheese and vanilla extract (if using) and mix until combined.",
+    "To assemble the pavlova, place the cooled meringue on a serving plate and top with the whipped cream and Comte cheese mixture.",
+    "Arrange the fresh berries on top of the whipped cream and Comte cheese mixture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "pavlova",
+    "cheese",
+    "dessert",
+    "meringue"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-australian-comte-pavlova",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:53:57.634Z"
+}
