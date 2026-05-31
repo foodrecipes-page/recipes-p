@@ -1,0 +1,70 @@
+{
+  "slug": "padron-parchment",
+  "title": "Roasted Padron Peppers with Balsamic Glaze",
+  "description": "A simple and flavorful side dish, perfect for any occasion. Roasting brings out the natural sweetness in padron peppers.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Padron peppers",
+      "amount": "12-15",
+      "notes": "any color"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "1/4 cup",
+      "notes": "reduced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Parchment paper",
+      "amount": "large sheet",
+      "notes": "for roasting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Cut padron peppers in half, removing seeds and membranes.",
+    "Place peppers on parchment paper, cut side up.",
+    "Drizzle olive oil over peppers and sprinkle with salt.",
+    "Roast in preheated oven for 15-20 minutes, or until blistered.",
+    "Reduce balsamic vinegar in a saucepan over low heat until thickened.",
+    "Serve roasted peppers with reduced balsamic glaze.",
+    "Optional: garnish with fresh herbs or grated cheese."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "padron-peppers",
+    "roasted-peppers",
+    "spanish-cuisine",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/padron-parchment",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T00:40:00.298Z"
+}
