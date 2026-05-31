@@ -1,0 +1,94 @@
+{
+  "slug": "post-workout-smoky-tunisian-ground-meat-tagine",
+  "title": "Smoky Tunisian Meat Tagine",
+  "description": "A flavorful and aromatic North African stew originating from the city of Tunis, typically cooked in a clay pot called a tagine. This recipe features ground meat and a blend of smoky spices.",
+  "cuisine": "North African",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground meat",
+      "amount": "1 pound",
+      "notes": "Beef or lamb work well"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Smoky spice blend",
+      "amount": "2 teaspoons",
+      "notes": "Available at most spice stores or online"
+    },
+    {
+      "name": "Tunisian chili paste",
+      "amount": "1 teaspoon",
+      "notes": "Also known as harissa"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Water or broth",
+      "amount": "2 cups",
+      "notes": "Chicken or beef broth work well"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a clay pot or Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for another minute.",
+    "Add the ground meat and cook, breaking it up with a spoon, until it is no longer pink, about 5 minutes.",
+    "Add the smoky spice blend, Tunisian chili paste, cumin, coriander, salt, and black pepper. Stir to combine.",
+    "Add the water or broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 30 minutes.",
+    "Serve hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "stew",
+    "meat",
+    "tagine",
+    "aromatic"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/post-workout-smoky-tunisian-ground-meat-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:47:51.343Z"
+}
