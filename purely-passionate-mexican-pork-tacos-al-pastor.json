@@ -1,0 +1,102 @@
+{
+  "slug": "purely-passionate-mexican-pork-tacos-al-pastor",
+  "title": "Carnitas Tacos with Pineapple Salsa",
+  "description": "A twist on traditional carnitas, these tacos are filled with tender pork, crispy pineapple salsa, and fresh cilantro.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 (2-pound) piece",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Orange juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Pineapple",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Jalapeño",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10 corn tortillas",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 300°F (150°C).",
+    "2. In a large Dutch oven, combine the pork, lime juice, orange juice, chili powder, cumin, and salt.",
+    "3. Cover the pot and transfer it to the oven.",
+    "4. Braise the pork for 2 1/2 hours, or until tender and easily shredded.",
+    "5. While the pork is cooking, prepare the pineapple salsa by combining the pineapple, red onion, and jalapeño in a bowl.",
+    "6. Season the salsa with salt to taste.",
+    "7. Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "8. Shred the cooked pork with two forks and season with salt to taste.",
+    "9. Assemble the tacos by spooning the pork onto a warmed tortilla and topping with pineapple salsa and cilantro.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "pork",
+    "carnitas",
+    "pineapple salsa"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-passionate-mexican-pork-tacos-al-pastor",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:47:52.063Z"
+}
