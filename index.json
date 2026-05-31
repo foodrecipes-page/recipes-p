@@ -487,16 +487,16 @@
   },
   {
     "slug": "pan-seared-dutch-mussels-paella",
-    "title": "Pan Seared Dutch Mussels Paella",
+    "title": "Spanish Paella with Mussels",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
-      "family-friendly",
-      "one-pan",
-      "seafood"
+      "spanish",
+      "seafood",
+      "paella",
+      "mussels",
+      "dinner"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 40,
+    "cuisine": "Spanish",
+    "totalTimeMin": 27,
     "shard": "p"
   },
   {
@@ -9973,18 +9973,15 @@
   },
   {
     "slug": "puffed-russian-potato-pancakes",
-    "title": "Puffed Russian Potato Pancakes",
+    "title": "Potato and Puffed Pancake Stacks",
     "tags": [
-      "chewy-chocolate",
-      "comfort-food",
-      "fodmap-friendly",
-      "nostalgic",
-      "puffed",
-      "savory",
-      "scallop-shell"
+      "breakfast",
+      "pancakes",
+      "potato",
+      "eastern-european"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 17,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
@@ -13080,6 +13077,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-ukrainian-beef-stir-fry--indian",
+    "title": "Stir Fry Peppery Beef",
+    "tags": [
+      "beef",
+      "indian",
+      "stir-fry",
+      "peppery"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
     "shard": "p"
   }
 ]
