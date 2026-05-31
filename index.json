@@ -13088,5 +13088,30 @@
     "cuisine": "Indian",
     "totalTimeMin": 35,
     "shard": "p"
+  },
+  {
+    "slug": "peppery-chewy-dutch-onion-stir-fry--chinese",
+    "title": "Stir-Fried Peppery Beef",
+    "tags": [
+      "chinese",
+      "beef",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "pillowy-fatty-moroccan-mitsuba-tagine--german",
+    "title": "Pillowy German Sausage Stuffed Mitsuba",
+    "tags": [
+      "german",
+      "sausage",
+      "mitsuba",
+      "tagine"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "p"
   }
 ]
