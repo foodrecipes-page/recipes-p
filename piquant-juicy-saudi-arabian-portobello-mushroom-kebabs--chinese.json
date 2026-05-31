@@ -1,0 +1,72 @@
+{
+  "slug": "piquant-juicy-saudi-arabian-portobello-mushroom-kebabs--chinese",
+  "title": "Saudi Arabian Portobello Mushroom Kebabs with Chinese Twist",
+  "description": "A fusion of flavors, combining the juiciness of portobello mushrooms with the spices of Saudi Arabian cuisine, all wrapped in a Chinese-inspired kebab.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Portobello mushrooms",
+      "amount": "4",
+      "notes": "Large caps, stems removed"
+    },
+    {
+      "name": "Piquant sauce",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Saudi Arabian kebab spice mix",
+      "amount": "2 tsp",
+      "notes": "Available at Middle Eastern markets"
+    },
+    {
+      "name": "Arabian pita bread",
+      "amount": "4",
+      "notes": "Warm or toasted"
+    },
+    {
+      "name": "Juicy bell pepper",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing kebabs"
+    }
+  ],
+  "instructions": [
+    "Preheat grill or grill pan to medium-high heat.",
+    "In a small bowl, mix together piquant sauce and Saudi Arabian kebab spice mix.",
+    "Thread mushrooms, bell pepper, and pita bread onto skewers.",
+    "Brush kebabs with vegetable oil and season with piquant sauce mixture.",
+    "Grill kebabs for 8-10 minutes, turning occasionally, until mushrooms are tender.",
+    "Warm or toast pita bread and serve with grilled kebabs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "saudi-arabian",
+    "kebabs",
+    "portobello-mushrooms",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-juicy-saudi-arabian-portobello-mushroom-kebabs--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:23:01.844Z"
+}
