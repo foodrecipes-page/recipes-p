@@ -1,0 +1,71 @@
+{
+  "slug": "pan-seared-pull-uruguayan-cheese-wok-fried--chinese",
+  "title": "Uruguayan Cheese Empanadas",
+  "description": "A twist on traditional empanadas with a Uruguayan touch, featuring melted cheese and a crispy exterior.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wonton Wrappers",
+      "amount": "12-14 wrappers"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Beef",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the wok to medium-high heat.",
+    "Add the beef and cook until browned, breaking it up into small pieces.",
+    "Add the onion and cook until softened, about 2-3 minutes.",
+    "Add the shredded cheese and stir until melted and well combined.",
+    "In a separate pan, scramble the egg and set aside.",
+    "Place a wonton wrapper on a flat surface and place a tablespoon of the beef and cheese mixture in the center.",
+    "Brush the edges of the wrapper with water and fold the wrapper into a triangle, pressing the edges together to seal.",
+    "Repeat with the remaining wrappers and filling.",
+    "Heat a wok or large skillet over medium heat and add a small amount of oil to coat the bottom.",
+    "Add the empanadas and cook until golden brown on both sides, about 2-3 minutes per side.",
+    "Serve the empanadas hot with the scrambled egg on top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "uruguayan",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-pull-uruguayan-cheese-wok-fried--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T20:26:57.385Z"
+}
