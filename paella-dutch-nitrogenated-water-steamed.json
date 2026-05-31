@@ -1,0 +1,49 @@
+{
+  "slug": "paella-dutch-nitrogenated-water-steamed",
+  "title": "Steamed Paella",
+  "description": "A unique twist on traditional paella, using steamed ingredients for a healthier take. This dish is perfect for a light meal or snack.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "paella",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "steamed",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Combine paella and water in a steamer.",
+    "Steam for 10-12 minutes or until the paella is cooked through.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "vegetarian",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/paella-dutch-nitrogenated-water-steamed",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:55:59.046Z"
+}
