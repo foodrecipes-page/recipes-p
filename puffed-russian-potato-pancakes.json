@@ -1,0 +1,80 @@
+{
+  "slug": "puffed-russian-potato-pancakes",
+  "title": "Potato and Puffed Pancake Stacks",
+  "description": "A layered breakfast dish featuring crispy potato pancakes, puffed pancakes, and a hint of Russian flair.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Puffed Pancakes",
+      "amount": "6-8",
+      "notes": ""
+    },
+    {
+      "name": "Ruskie Pancakes (Potato Pancakes)",
+      "amount": "4-6",
+      "notes": "Grate potatoes before mixing."
+    },
+    {
+      "name": "Butter or Vegan Butter Substitute",
+      "amount": "2 tablespoons",
+      "notes": "For serving"
+    },
+    {
+      "name": "Sour Cream or Non-dairy Alternative",
+      "amount": "1 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Diced Chives (optional)",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated Ruskie Pancakes and a pinch of salt. Mix well.",
+    "Divide mixture into 4-6 portions, depending on desired pancake size.",
+    "Form each portion into a round pancake. Heat a non-stick pan with a small amount of oil over medium heat.",
+    "Cook pancakes for 4-5 minutes or until golden brown and crispy.",
+    "Flip pancakes and cook for an additional 2-3 minutes.",
+    "In a separate pan, toast Puffed Pancakes over low heat until crispy.",
+    "To assemble the dish, stack 2-3 potato pancakes, followed by a toasted puffed pancake.",
+    "Drizzle with butter or vegan butter substitute and top with a dollop of sour cream or non-dairy alternative.",
+    "Garnish with diced chives if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "potato",
+    "eastern-european"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": "5g",
+    "carbs": "45g",
+    "fat": "15g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/puffed-russian-potato-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T01:51:34.738Z"
+}
