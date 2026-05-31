@@ -13071,5 +13071,17 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "p"
+  },
+  {
+    "slug": "pan-seared-pull-uruguayan-cheese-wok-fried--chinese",
+    "title": "Uruguayan Cheese Empanadas",
+    "tags": [
+      "empanadas",
+      "uruguayan",
+      "cheese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 50,
+    "shard": "p"
   }
 ]
