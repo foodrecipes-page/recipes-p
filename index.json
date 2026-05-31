@@ -58,13 +58,15 @@
   },
   {
     "slug": "padron-parchment",
-    "title": "Padron Parchment",
+    "title": "Roasted Padron Peppers with Balsamic Glaze",
     "tags": [
-      "padron",
-      "fermented",
-      "venezuelan"
+      "padron-peppers",
+      "roasted-peppers",
+      "spanish-cuisine",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Venezuelan",
+    "cuisine": "Spanish",
     "totalTimeMin": 25,
     "shard": "p"
   },
@@ -2620,16 +2622,18 @@
   },
   {
     "slug": "peppery-crunchy-irish-english-muffin-braise",
-    "title": "Peppery Crunchy Irish English Muffin Braise",
+    "title": "English Peppery Braised Muffin",
     "tags": [
-      "peppery",
-      "crunchy",
-      "irish",
+      "breakfast",
+      "brunch",
+      "sausages",
+      "mushrooms",
       "english-muffin",
-      "braise"
+      "braise",
+      "cheddar-cheese"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 35,
+    "cuisine": "British",
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
