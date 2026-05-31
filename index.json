@@ -13057,5 +13057,19 @@
     "cuisine": "mexican",
     "totalTimeMin": 45,
     "shard": "p"
+  },
+  {
+    "slug": "piquant-juicy-saudi-arabian-portobello-mushroom-kebabs--chinese",
+    "title": "Saudi Arabian Portobello Mushroom Kebabs with Chinese Twist",
+    "tags": [
+      "chinese",
+      "saudi-arabian",
+      "kebabs",
+      "portobello-mushrooms",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "p"
   }
 ]
