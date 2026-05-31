@@ -1,0 +1,70 @@
+{
+  "slug": "peppery-silky-spanish-stir-fry",
+  "title": "Spanish Stir Fry",
+  "description": "A quick and easy Spanish-inspired stir fry made with silky and peppery ingredients.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bell Peppers",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Silky Mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Spanish Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Fry Sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add garlic and sauté for 1 minute.",
+    "Add bell peppers and sauté for 3-4 minutes.",
+    "Add mushrooms and stir-fry for 4-5 minutes.",
+    "Stir in fry sauce and cook for another minute.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped cilantro.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-silky-spanish-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T03:11:57.421Z"
+}
