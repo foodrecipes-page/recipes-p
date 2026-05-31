@@ -6019,18 +6019,15 @@
   },
   {
     "slug": "pillowy-fatty-moroccan-mitsuba-tagine",
-    "title": "pillowy fatty moroccan mitsuba tagine",
+    "title": "Moroccan Chicken Tagine with Mitsuba",
     "tags": [
-      "double-fried",
-      "fatty",
-      "kfc-style",
       "moroccan",
-      "pillowy",
+      "chicken",
       "tagine",
-      "vegetarian"
+      "mitsuba"
     ],
-    "cuisine": "morrocan",
-    "totalTimeMin": 50,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
@@ -12353,17 +12350,14 @@
   },
   {
     "slug": "purely-grilled-mediterranean-saskatoon-berry-skewers",
-    "title": "Purely Grilled Mediterranean Saskatoon Berry Skewers",
+    "title": "Saskatoon Berry Skewers with Mediterranean Glaze",
     "tags": [
-      "fruit-based",
-      "grilled",
-      "low-glycemic",
-      "mediterranean",
-      "quick-dinner",
-      "weeknight"
+      "saskatoon-berries",
+      "grilled-dessert",
+      "summer-recipe"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 25,
+    "cuisine": "Canadian",
+    "totalTimeMin": 27,
     "shard": "p"
   },
   {
