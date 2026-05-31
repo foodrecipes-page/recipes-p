@@ -13020,5 +13020,30 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "p"
+  },
+  {
+    "slug": "peppery-american-vegetable-casserole--vegan",
+    "title": "Vegan Peppery Casserole",
+    "tags": [
+      "vegan",
+      "casserole",
+      "plant-based",
+      "comfort-food"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-american-vegetable-casserole--italian",
+    "title": "Italian Casserole",
+    "tags": [
+      "italian",
+      "casserole",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "p"
   }
 ]
