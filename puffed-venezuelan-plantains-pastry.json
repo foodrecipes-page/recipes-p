@@ -1,0 +1,64 @@
+{
+  "slug": "puffed-venezuelan-plantains-pastry",
+  "title": "Crispy Puffed Pastry Plantains",
+  "description": "Crisp, golden plantains wrapped in a flaky pastry crust, inspired by Venezuelan cuisine.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Puffed Pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Venezuelan Plantains",
+      "amount": "2-3 ripe",
+      "notes": "peeled"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel the plantains and slice them into 1/2-inch thick rounds.",
+    "Roll out the puffed pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Place the plantain slices on one half of the pastry, leaving a 1/2-inch border around the edges.",
+    "Sprinkle with salt and granulated sugar, if desired.",
+    "Fold the other half of the pastry over the plantains and press the edges to seal.",
+    "Brush the pastry with a little water and cut a few slits in the top to allow steam to escape.",
+    "Place the plantains on a baking sheet lined with parchment paper and bake for 25-30 minutes, or until the pastry is golden brown.",
+    "Remove the plantains from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "snack",
+    "pastry",
+    "plantains"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/puffed-venezuelan-plantains-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T03:59:36.803Z"
+}
