@@ -1,0 +1,81 @@
+{
+  "slug": "puffed-crunchy-hangover-cure-portuguese-dried-white-navy-beans-bake",
+  "title": "Portuguese White Bean Bake",
+  "description": "A hearty and comforting Portuguese-inspired white bean bake, perfect for a cozy evening.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white beans",
+      "amount": "1 can (15 oz)",
+      "notes": ""
+    },
+    {
+      "name": "dried portuguese bread",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "portuguese cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "crunchy breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "bake",
+      "amount": "1 tsp, ground",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine white beans, breadcrumbs, cheese, and bake. Mix well.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Drizzle with olive oil and sprinkle with salt and pepper.",
+    "Bake for 25-30 minutes, or until golden brown and crispy on top.",
+    "Serve warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "white-bean-bake",
+    "comfort-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/puffed-crunchy-hangover-cure-portuguese-dried-white-navy-beans-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:49:24.442Z"
+}
