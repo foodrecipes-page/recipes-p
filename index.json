@@ -1723,14 +1723,14 @@
   },
   {
     "slug": "peppery-chewy-dutch-onion-stir-fry",
-    "title": "Peppery Chewy Dutch Onion Stir-fry",
+    "title": "Dutch Pepper Stir Fry",
     "tags": [
-      "peppery",
-      "chewy",
-      "dutch"
+      "pepper",
+      "stir-fry",
+      "dutch-oven"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 25,
+    "cuisine": "Asian",
+    "totalTimeMin": 15,
     "shard": "p"
   },
   {
