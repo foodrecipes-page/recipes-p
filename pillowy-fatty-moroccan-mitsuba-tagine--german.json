@@ -1,0 +1,76 @@
+{
+  "slug": "pillowy-fatty-moroccan-mitsuba-tagine--german",
+  "title": "Pillowy German Sausage Stuffed Mitsuba",
+  "description": "A savory twist on traditional German sausage, featuring mitsuba and a flavorful tagine spice blend.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mitsuba",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "German Sausage",
+      "amount": "1 pound",
+      "notes": "Use a high-quality, fatty sausage"
+    },
+    {
+      "name": "Pillowy Buns",
+      "amount": "4-6 buns",
+      "notes": "German-style buns or similar"
+    },
+    {
+      "name": "Moroccan Spices",
+      "amount": "2 teaspoons",
+      "notes": "Use a pre-mixed tagine spice blend"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing buns"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Split the pillowy buns in half and place on a baking sheet.",
+    "Brush the tops with olive oil and toast in the oven for 5 minutes.",
+    "While the buns are toasting, slice the mitsuba leaves and set aside.",
+    "Cook the German sausage in a skillet over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "Add the Moroccan spices to the skillet and stir to combine.",
+    "To assemble the sausages, place a cooked sausage half in each toasted bun and top with a few leaves of mitsuba.",
+    "Drizzle with melted butter and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "sausage",
+    "mitsuba",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-fatty-moroccan-mitsuba-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T05:30:47.708Z"
+}
