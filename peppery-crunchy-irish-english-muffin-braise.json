@@ -1,0 +1,88 @@
+{
+  "slug": "peppery-crunchy-irish-english-muffin-braise",
+  "title": "English Peppery Braised Muffin",
+  "description": "A hearty, comforting dish that combines the flavors of English breakfast and peppery spices. Serve with a side of crunchy freshness.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "peppery sausage",
+      "amount": "2"
+    },
+    {
+      "name": "english muffin",
+      "amount": "4"
+    },
+    {
+      "name": "irish braise",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mushrooms, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crunchy bacon",
+      "amount": "4 slices"
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the bacon in a pan until crispy, then set aside.",
+    "Add the sliced mushrooms to the pan and cook until they release their moisture and start browning.",
+    "Add the chopped onion and minced garlic to the pan and cook until the onion is translucent.",
+    "Add the peppery sausage to the pan and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the irish braise, all-purpose flour, and butter to the pan, stirring to combine.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, stirring occasionally.",
+    "Split the english muffins in half and toast until lightly browned.",
+    "Assemble the dish by spooning the sausage and braising mixture onto the muffins, topping with grated cheddar cheese and crispy bacon.",
+    "Bake in the preheated oven for 10-12 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "sausages",
+    "mushrooms",
+    "english-muffin",
+    "braise",
+    "cheddar-cheese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crunchy-irish-english-muffin-braise",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T00:30:31.648Z"
+}
