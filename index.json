@@ -70,17 +70,14 @@
   },
   {
     "slug": "paella-dutch-nitrogenated-water-steamed",
-    "title": "Paella Dutch Nitrogenated Water Steamed",
+    "title": "Steamed Paella",
     "tags": [
-      "cedar-plank",
-      "date-night",
-      "dutch",
-      "high-protein",
-      "one-pan",
-      "pressure-cooker"
+      "healthy",
+      "vegetarian",
+      "steamed"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "p"
   },
   {
@@ -836,16 +833,15 @@
   },
   {
     "slug": "pan-seared-pull-uruguayan-cheese-wok-fried",
-    "title": "Pan-Seared Pull Uruguayan Cheese Wok-Fried",
+    "title": "Uruguayan Fried Cheese",
     "tags": [
-      "high-protein",
-      "latin-american",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "breakfast",
+      "uruguayan",
+      "comfort-food",
+      "cheese"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 25,
+    "totalTimeMin": 13,
     "shard": "p"
   },
   {
