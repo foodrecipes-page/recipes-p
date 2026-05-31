@@ -4671,16 +4671,14 @@
   },
   {
     "slug": "peppery-silky-spanish-stir-fry",
-    "title": "Peppery Silky Spanish Stir-fry",
+    "title": "Spanish Stir Fry",
     "tags": [
-      "peppery",
-      "silky",
       "spanish",
-      "nut-free",
-      "solo-dinner"
+      "stir-fry",
+      "vegetarian"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -10001,16 +9999,15 @@
   },
   {
     "slug": "puffed-venezuelan-plantains-pastry",
-    "title": "Puffed Venezuelan Plantains Pastry",
+    "title": "Crispy Puffed Pastry Plantains",
     "tags": [
-      "breakfast",
-      "dairy-free",
-      "gluten-free",
-      "one-pan",
-      "weeknight"
+      "vegan",
+      "snack",
+      "pastry",
+      "plantains"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
