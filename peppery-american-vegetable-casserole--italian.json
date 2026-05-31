@@ -1,0 +1,83 @@
+{
+  "slug": "peppery-american-vegetable-casserole--italian",
+  "title": "Italian Casserole",
+  "description": "A hearty Italian-inspired casserole made with tender vegetables and flavorful seasonings.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peppery vegetables",
+      "amount": "1 cup",
+      "notes": "such as bell peppers and zucchini"
+    },
+    {
+      "name": "American casserole",
+      "amount": "1 (8 oz) package",
+      "notes": "such as macaroni"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Marinara sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded mozzarella cheese",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the American casserole according to package instructions.",
+    "In a large skillet, sauté the peppery vegetables in a little bit of oil until tender.",
+    "Add the Italian seasoning, garlic powder, and salt to the skillet and stir to combine.",
+    "In a large mixing bowl, combine the cooked casserole, sautéed vegetables, and marinara sauce. Mix well to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with shredded mozzarella cheese.",
+    "Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and sprinkle with grated Parmesan cheese.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "casserole",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-american-vegetable-casserole--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:00:11.169Z"
+}
