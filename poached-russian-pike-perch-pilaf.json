@@ -1,0 +1,76 @@
+{
+  "slug": "poached-russian-pike-perch-pilaf",
+  "title": "Pan-Seared Russian Pike with Pilaf",
+  "description": "A flavorful fish dish with pilaf and a hint of Russian spices.",
+  "cuisine": "Russian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pike fillets",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "pilaf",
+      "amount": ".5 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped dill",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Heat olive oil in a large skillet over medium-high heat.",
+    "2. Add pike fillets and cook for 3-4 minutes per side, until cooked through.",
+    "3. Remove pike from skillet and set aside.",
+    "4. Add pilaf to skillet and cook until lightly toasted.",
+    "5. Stir in lemon juice, dill, salt, and pepper.",
+    "6. Serve pilaf alongside seared pike."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian-food",
+    "pike-recipe",
+    "pilaf-recipe"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/poached-russian-pike-perch-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:45:42.714Z"
+}
