@@ -1,0 +1,92 @@
+{
+  "slug": "pan-seared-dutch-mussels-paella",
+  "title": "Spanish Paella with Mussels",
+  "description": "A hearty seafood paella dish made with mussels, perfect for a dinner gathering.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mussels",
+      "amount": "1 pound, scrubbed and debearded",
+      "notes": null
+    },
+    {
+      "name": "paella",
+      "amount": "1 cup",
+      "notes": "Spanish-style rice dish"
+    },
+    {
+      "name": "dutch oven",
+      "amount": "1",
+      "notes": "for cooking"
+    },
+    {
+      "name": "pan",
+      "amount": "1",
+      "notes": "for searing mussels"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "for authentic flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the mussels and sear until they start to open, about 2-3 minutes.",
+    "Remove the mussels from the pan and set aside.",
+    "Add the minced garlic to the pan and sauté for 1 minute.",
+    "Add the paella to the pan and stir to coat with the garlic and oil.",
+    "Add 4 cups of water to the pan and bring to a boil.",
+    "Add the mussels back to the pan and cover with a lid.",
+    "Transfer the pan to the preheated oven and cook for 10-12 minutes, or until the mussels are cooked through and the paella is tender.",
+    "Remove the pan from the oven and season with smoked paprika, salt, and black pepper.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "seafood",
+    "paella",
+    "mussels",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-dutch-mussels-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T02:11:33.084Z"
+}
