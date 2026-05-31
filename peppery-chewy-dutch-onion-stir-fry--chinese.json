@@ -1,0 +1,74 @@
+{
+  "slug": "peppery-chewy-dutch-onion-stir-fry--chinese",
+  "title": "Stir-Fried Peppery Beef",
+  "description": "A classic Chinese dish that combines the flavors of peppery beef with stir-fried onions and other ingredients.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Slice into thin rings"
+    },
+    {
+      "name": "peppery",
+      "amount": "1 teaspoon",
+      "notes": "Ground peppercorns"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tablespoons",
+      "notes": "Vegetable oil for stir-frying"
+    },
+    {
+      "name": "dutch",
+      "amount": "2 cloves",
+      "notes": "Minced garlic"
+    },
+    {
+      "name": "fry",
+      "amount": "1 cup",
+      "notes": "Sliced bell peppers"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes.",
+    "Remove the beef from the wok and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the wok.",
+    "Add the sliced onions and cook until they start to soften, about 2-3 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced bell peppers and cook until they start to soften, about 2-3 minutes.",
+    "Return the beef to the wok and stir in the ground peppercorns.",
+    "Cook for an additional 1-2 minutes, until the beef is cooked through.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "beef",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-chewy-dutch-onion-stir-fry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T05:24:51.033Z"
+}
