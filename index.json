@@ -9271,18 +9271,14 @@
   },
   {
     "slug": "poached-russian-pike-perch-pilaf",
-    "title": "Poached Russian Pike-perch Pilaf",
+    "title": "Pan-Seared Russian Pike with Pilaf",
     "tags": [
-      "balsamic-glaze",
-      "high-protein",
-      "kid-friendly",
-      "macrobiotic-friendly",
-      "one-pan",
-      "russian-cuisine",
-      "weeknight"
+      "russian-food",
+      "pike-recipe",
+      "pilaf-recipe"
     ],
-    "cuisine": "russian",
-    "totalTimeMin": 30,
+    "cuisine": "Russian",
+    "totalTimeMin": 22,
     "shard": "p"
   },
   {
@@ -9891,18 +9887,15 @@
   },
   {
     "slug": "puffed-crunchy-hangover-cure-portuguese-dried-white-navy-beans-bake",
-    "title": "Puffed Crunchy Hangover-Cure Portuguese Dried White Navy Bean Bake",
+    "title": "Portuguese White Bean Bake",
     "tags": [
-      "breakfast",
-      "easy-to-make",
-      "hangover-cure",
-      "macrobiotic-friendly",
-      "one-pan",
       "portuguese",
-      "weeknight"
+      "white-bean-bake",
+      "comfort-food",
+      "vegetarian"
     ],
-    "cuisine": "portuguese",
-    "totalTimeMin": 45,
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -12486,16 +12479,16 @@
   },
   {
     "slug": "purely-passionate-mexican-pork-tacos-al-pastor",
-    "title": "Purely Passionate Mexican Pork Tacos Al Pastor",
+    "title": "Carnitas Tacos with Pineapple Salsa",
     "tags": [
-      "fermented-food",
-      "macrobiotic-friendly",
-      "mexican-food",
-      "pork-recipes",
-      "tacos-al-pastor"
+      "mexican",
+      "tacos",
+      "pork",
+      "carnitas",
+      "pineapple salsa"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 390,
+    "cuisine": "mexican",
+    "totalTimeMin": 170,
     "shard": "p"
   },
   {
@@ -13016,6 +13009,20 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 27,
+    "shard": "p"
+  },
+  {
+    "slug": "peppermint-saute--mexican",
+    "title": "Peppermint Mexican Chocolate Churros",
+    "tags": [
+      "mexican",
+      "chocolate",
+      "peppermint",
+      "churros",
+      "dessert"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "p"
   }
 ]
