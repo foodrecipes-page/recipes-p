@@ -10106,16 +10106,14 @@
   },
   {
     "slug": "puffy-plump-thai-chickpeas-pad-thai",
-    "title": "Puffy Plump Thai Chickpeas Pad Thai",
+    "title": "Thai Chickpea Pad",
     "tags": [
-      "banana-leaf",
-      "brunch-ideas",
-      "one-pot",
-      "thai-cuisine",
-      "vegan-friendly"
+      "thai",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -13044,6 +13042,20 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-australian-comte-pavlova--mexican",
+    "title": "Comte and Australian Pavlova Flan",
+    "tags": [
+      "mexican",
+      "cheese",
+      "dairy",
+      "pavlova",
+      "flan"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
     "shard": "p"
   }
 ]
