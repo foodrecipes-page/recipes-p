@@ -1,0 +1,81 @@
+{
+  "slug": "peppermint-saute--mexican",
+  "title": "Peppermint Mexican Chocolate Churros",
+  "description": "Crispy churros filled with a refreshing peppermint Mexican chocolate filling, perfect for a dessert or snack.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "grated Mexican chocolate",
+      "amount": "1 cup"
+    },
+    {
+      "name": "peppermint extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 inches"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "2. In a medium bowl, whisk together the flour, confectioners' sugar, and salt.",
+    "3. In a large bowl, whisk together the eggs, Mexican chocolate, peppermint extract, and heavy cream.",
+    "4. Add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "5. Knead the dough for 5 minutes until smooth.",
+    "6. Cover the dough and let it rest for 30 minutes.",
+    "7. Pipe the dough into long strips and fry in the hot oil for 2-3 minutes on each side.",
+    "8. Drain the churros on paper towels and dust with confectioners' sugar.",
+    "9. To make the filling, mix together the Mexican chocolate and peppermint extract in a small bowl.",
+    "10. Fill a piping bag with the filling and pipe into the cooled churros.",
+    "11. Dust with powdered sugar and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chocolate",
+    "peppermint",
+    "churros",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppermint-saute--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:49:42.247Z"
+}
