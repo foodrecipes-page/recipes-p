@@ -1,0 +1,93 @@
+{
+  "slug": "purely-plantbased-tunisian-lentil-tagine",
+  "title": "Tunisian Lentil Tagine",
+  "description": "A hearty and flavorful stew from Tunisia made with lentils and a blend of aromatic spices.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup",
+      "notes": "brown or green"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 tsp",
+      "notes": "or ras el hanout"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add carrots and bell pepper and cook for 5 minutes.",
+    "Add lentils, diced tomatoes, broth, spice blend, and salt. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 30 minutes.",
+    "Stir in parsley and cook for an additional 5 minutes.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-plantbased-tunisian-lentil-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:53:44.825Z"
+}
