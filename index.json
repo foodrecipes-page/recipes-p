@@ -13104,5 +13104,18 @@
     "cuisine": "german",
     "totalTimeMin": 35,
     "shard": "p"
+  },
+  {
+    "slug": "pillowy-fatty-moroccan-mitsuba-tagine--french",
+    "title": "Moroccan Chicken Tagine",
+    "tags": [
+      "chicken",
+      "moroccan",
+      "couscous",
+      "preserved-lemon"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "p"
   }
 ]
