@@ -1,0 +1,88 @@
+{
+  "slug": "peppery-peruvian-dum-noodles",
+  "title": "Peruvian Noodle Stir Fry",
+  "description": "A spicy and flavorful stir fry recipe using Peruvian peppery noodles and a variety of ingredients. This dish is perfect for a quick and easy meal.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peruvian noodles",
+      "amount": "8 oz",
+      "notes": "peppery flavor"
+    },
+    {
+      "name": "Dum (used as a vegetable)",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for stir frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add garlic and ginger; stir-fry for 30 seconds.",
+    "Add noodles and stir-fry for 2-3 minutes.",
+    "Add dum, soy sauce, and hoisin sauce (if using); stir-fry for 1-2 minutes.",
+    "Sprinkle sesame seeds (if using) and scallions on top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "noodle",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-peruvian-dum-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T09:16:59.063Z"
+}
