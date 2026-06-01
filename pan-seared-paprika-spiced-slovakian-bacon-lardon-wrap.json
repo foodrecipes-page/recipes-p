@@ -1,0 +1,71 @@
+{
+  "slug": "pan-seared-paprika-spiced-slovakian-bacon-lardon-wrap",
+  "title": "Slovakian Bacon Wrap",
+  "description": "A delicious Slovakian-inspired wrap filled with crispy bacon and wrapped in a warm, spiced tortilla.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "preferably Slovakian bacon"
+    },
+    {
+      "name": "Lardon",
+      "amount": "2 tbsp",
+      "notes": "crispy, chopped"
+    },
+    {
+      "name": "Tortilla",
+      "amount": "1",
+      "notes": "large flour tortilla"
+    },
+    {
+      "name": "Paprika",
+      "amount": "2 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "Pan",
+      "amount": ".",
+      "notes": "for searing bacon"
+    },
+    {
+      "name": "Spiced",
+      "amount": ".",
+      "notes": "for seasoning tortilla"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan over medium heat.",
+    "2. Sear the bacon slices until crispy, then set aside.",
+    "3. Slice the tortilla in half lengthwise and toast in the pan for 2-3 minutes.",
+    "4. Sprinkle the smoked paprika over the tortilla and toss to coat.",
+    "5. Add the crispy bacon and chopped lardon to the tortilla and wrap tightly.",
+    "6. Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "bacon",
+    "wrap",
+    "slovakian",
+    "breakfast-lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-paprika-spiced-slovakian-bacon-lardon-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T12:53:50.879Z"
+}
