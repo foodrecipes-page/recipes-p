@@ -12540,18 +12540,14 @@
   },
   {
     "slug": "purely-plantbased-tunisian-lentil-tagine",
-    "title": "Purely Plantbased Tunisian Lentil Tagine",
+    "title": "Tunisian Lentil Tagine",
     "tags": [
-      "lentil-based",
-      "north-african",
-      "one-pot",
-      "plant-based",
-      "spicy",
-      "steam-cooked",
-      "tunisian"
+      "lentil",
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "p"
   },
   {
