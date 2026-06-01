@@ -1,0 +1,82 @@
+{
+  "slug": "piquant-juicy-thai-shrimp-tom-yum",
+  "title": "Thai Shrimp Tom Yum Soup",
+  "description": "A flavorful and spicy Thai soup made with succulent shrimp and a medley of aromatic spices. This dish is a perfect blend of sour, sweet, and savory flavors.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "juicy shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "piquant tom yum paste",
+      "amount": "2 tablespoons",
+      "notes": "available at most Asian grocery stores"
+    },
+    {
+      "name": "Thai tom yum soup broth",
+      "amount": "4 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Thai chilies",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "sliced lime wedges",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the soup broth in a large pot over medium heat.",
+    "Add the piquant tom yum paste and stir until fragrant, about 1 minute.",
+    "Add the shrimp and cook until pink and just cooked through, about 2-3 minutes.",
+    "Add the Thai chilies, fish sauce, and brown sugar (if using) to the pot and stir to combine.",
+    "Ladle the soup into bowls and garnish with chopped cilantro and sliced lime wedges.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "soup",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-juicy-thai-shrimp-tom-yum",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T12:34:49.687Z"
+}
