@@ -796,13 +796,15 @@
   },
   {
     "slug": "pan-seared-paprika-spiced-slovakian-bacon-lardon-wrap",
-    "title": "Pan-Seared Paprika-Spiced Slovakian Bacon Lardon Wrap",
+    "title": "Slovakian Bacon Wrap",
     "tags": [
+      "bacon",
+      "wrap",
       "slovakian",
-      "dinner"
+      "breakfast-lunch"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 20,
     "shard": "p"
   },
   {
@@ -3907,18 +3909,16 @@
   },
   {
     "slug": "peppery-juicy-norwegian-potato-biryani",
-    "title": "Peppery Juicy Norwegian Potato Biryani",
+    "title": "Pan-Seared Norwegian Salmon with Spicy Potato Wedges",
     "tags": [
-      "norwegian",
-      "potato",
-      "biryani",
-      "vegan",
-      "dairy-free",
-      "comfort-food",
-      "lazy-sunday"
+      "salmon",
+      "potatoes",
+      "scandinavian",
+      "gluten-free",
+      "pescatarian"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 55,
+    "cuisine": "Scandinavian",
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
