@@ -1,0 +1,52 @@
+{
+  "slug": "paella-dutch-nitrogenated-water-steamed--french",
+  "title": "French Steamed Paella",
+  "description": "A French twist on the classic Spanish dish, steaming the paella for a lighter and fluffier texture. This recipe serves 4 and is perfect for a weeknight dinner.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paella",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dutch",
+      "amount": "1 tablespoon",
+      "notes": "for steamer basket"
+    }
+  ],
+  "instructions": [
+    "Rinse the paella and cut it into 1-inch pieces.",
+    "Prepare the steamer by filling the bottom of a large pot with water and bringing it to a boil.",
+    "Reduce the heat to a simmer, and place the steamer basket into the pot.",
+    "Add the paella to the steamer basket, cover, and steam for 12-15 minutes or until cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "steamed",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/paella-dutch-nitrogenated-water-steamed--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T11:56:21.894Z"
+}
