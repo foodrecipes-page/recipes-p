@@ -1,0 +1,88 @@
+{
+  "slug": "peppery-tender-greek-lamb-stew",
+  "title": "Tender Greek Stew",
+  "description": "A hearty and flavorful stew made with tender lamb and a blend of Greek spices.",
+  "cuisine": "Greek",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "Cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "Peppery",
+      "amount": "2 tablespoons",
+      "notes": "Freshly ground pepper"
+    },
+    {
+      "name": "Greek",
+      "amount": "2 cloves",
+      "notes": "Minced garlic"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 cups",
+      "notes": "Canned, diced"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "Dry"
+    },
+    {
+      "name": "Stew",
+      "amount": "4 cups",
+      "notes": "Chicken broth"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "Crumbed, for serving (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the garlic, onion, and pepper; cook until the onion is translucent, about 5 minutes.",
+    "Add the tomato, red wine, and stew; bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the lamb is tender, about 2 1/2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with parsley and crumbled feta cheese (if using)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "greek",
+    "stew",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-tender-greek-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:18:05.789Z"
+}
