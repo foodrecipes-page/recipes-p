@@ -7420,17 +7420,15 @@
   },
   {
     "slug": "piquant-juicy-thai-shrimp-tom-yum",
-    "title": "Piquant Juicy Thai Shrimp Tom Yum",
+    "title": "Thai Shrimp Tom Yum Soup",
     "tags": [
-      "keto-friendly",
-      "low-carb",
-      "one-pot",
+      "thai",
+      "soup",
       "seafood",
-      "spicy-food",
-      "thai-cuisine"
+      "spicy"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 27,
+    "totalTimeMin": 15,
     "shard": "p"
   },
   {
@@ -13116,6 +13114,18 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
+    "slug": "paella-dutch-nitrogenated-water-steamed--french",
+    "title": "French Steamed Paella",
+    "tags": [
+      "french",
+      "steamed",
+      "paella"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
     "shard": "p"
   }
 ]
