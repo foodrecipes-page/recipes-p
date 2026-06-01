@@ -4396,17 +4396,16 @@
   },
   {
     "slug": "peppery-peruvian-dum-noodles",
-    "title": "Peppery Peruvian Dum Noodles",
+    "title": "Peruvian Noodle Stir Fry",
     "tags": [
       "peruvian",
-      "keto",
-      "noodles",
-      "peppery",
-      "lunch",
-      "dum"
+      "noodle",
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "peruvian",
-    "totalTimeMin": 20,
+    "cuisine": "Asian",
+    "totalTimeMin": 15,
     "shard": "p"
   },
   {
