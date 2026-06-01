@@ -4828,19 +4828,15 @@
   },
   {
     "slug": "peppery-tender-greek-lamb-stew",
-    "title": "Peppery Tender Greek Lamb Stew",
+    "title": "Tender Greek Stew",
     "tags": [
-      "peppery",
-      "tender",
-      "cozy",
-      "greek",
-      "low-sodium",
       "lamb",
-      "sherry",
-      "stew"
+      "greek",
+      "stew",
+      "comfort food"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 105,
+    "totalTimeMin": 170,
     "shard": "p"
   },
   {
