@@ -1,0 +1,79 @@
+{
+  "slug": "peppery-juicy-norwegian-potato-biryani",
+  "title": "Pan-Seared Norwegian Salmon with Spicy Potato Wedges",
+  "description": "A flavorful dish featuring pan-seared Norwegian salmon paired with spicy potato wedges. The peppery flavor of the potatoes complements the juicy salmon perfectly.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian Salmon Fillets (4)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes (4)",
+      "amount": "2",
+      "notes": "Large potatoes"
+    },
+    {
+      "name": "Peppery Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "Infused with peppercorns"
+    },
+    {
+      "name": "Jalapeno Peppers (2)",
+      "amount": "2",
+      "notes": "Diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Wedges (4)",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the potatoes into wedges and place on a baking sheet.",
+    "Drizzle with peppery olive oil and sprinkle with salt, black pepper, and diced jalapenos. Toss to coat.",
+    "Bake in the oven for 20-25 minutes or until crispy.",
+    "While the potatoes are baking, season the salmon fillets with salt and black pepper.",
+    "Heat a skillet over medium-high heat and add a small amount of peppery olive oil. Sear the salmon fillets for 2-3 minutes on each side or until cooked through.",
+    "Serve the salmon with the spicy potato wedges and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salmon",
+    "potatoes",
+    "scandinavian",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-juicy-norwegian-potato-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T13:33:01.728Z"
+}
