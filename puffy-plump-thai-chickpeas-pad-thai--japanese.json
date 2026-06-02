@@ -1,0 +1,89 @@
+{
+  "slug": "puffy-plump-thai-chickpeas-pad-thai--japanese",
+  "title": "Japanese-Style Pad Thai with Chickpeas",
+  "description": "A fusion twist on the classic Thai dish, using Japanese flavors and chickpeas for added protein.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "pad thai",
+      "amount": "8 oz",
+      "notes": "rice noodles"
+    },
+    {
+      "name": "thai",
+      "amount": "2 tbsp",
+      "notes": "red curry paste"
+    },
+    {
+      "name": "puffy",
+      "amount": "2 cups",
+      "notes": "mixed greens"
+    },
+    {
+      "name": "plump",
+      "amount": "1 cup",
+      "notes": "sliced mushrooms"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp",
+      "notes": "for sweetening"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the pad thai noodles according to package instructions.",
+    "In a large skillet or wok, heat 1 tablespoon of peanut oil over medium-high heat.",
+    "Add the plump and cook until browned, about 3-4 minutes.",
+    "Add the chickpeas and cook for an additional 2 minutes.",
+    "Add the Thai red curry paste and cook for 1 minute, stirring constantly.",
+    "Add the cooked noodles, soy sauce, and brown sugar. Stir-fry for 2-3 minutes.",
+    "Toss in the mixed greens and cook until wilted.",
+    "Transfer the Pad Thai to a serving platter and garnish with chopped green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pad thai",
+    "chickpea",
+    "japanese",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/puffy-plump-thai-chickpeas-pad-thai--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T20:07:38.878Z"
+}
