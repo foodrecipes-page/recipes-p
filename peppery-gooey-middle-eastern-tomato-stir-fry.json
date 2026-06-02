@@ -1,0 +1,68 @@
+{
+  "slug": "peppery-gooey-middle-eastern-tomato-stir-fry",
+  "title": "Middle Eastern Stir Fry",
+  "description": "A flavorful and easy-to-make stir fry dish inspired by Middle Eastern cuisine. Perfect for a quick dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peppery stir-fry sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "goey honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "eastern spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 cup"
+    },
+    {
+      "name": "middle eastern oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion and bell pepper, cook until tender.",
+    "Add tomato, cook until softened.",
+    "Add stir-fry sauce, honey, and spices, stir to combine.",
+    "Cook for an additional 2-3 minutes.",
+    "Serve hot, garnished with additional spices if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle eastern",
+    "stir fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-gooey-middle-eastern-tomato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:40:18.601Z"
+}
