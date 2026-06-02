@@ -1,0 +1,97 @@
+{
+  "slug": "peppery-dense-german-pork-stew",
+  "title": "German Pork Stew",
+  "description": "A hearty and flavorful stew made with tender pork and a blend of traditional German spices.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "2 tablespoons",
+      "notes": "whole"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrot and potato to the pot and cook for 5 minutes.",
+    "Add the peppercorns, thyme, and rosemary to the pot and cook for 1 minute.",
+    "Add the flour to the pot and cook for 1 minute.",
+    "Add the beef broth and red wine to the pot, stirring to combine.",
+    "Return the pork to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Braise the stew for 2 1/2 hours, or until the pork is tender.",
+    "Remove the pot from the oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "pork-recipes",
+    "stew-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-dense-german-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:23:45.384Z"
+}
