@@ -1,0 +1,94 @@
+{
+  "slug": "paleo-friendly-pan-seared-tunisian-lamb-tagine",
+  "title": "Pan-Seared Tunisian Lamb Tagine",
+  "description": "A flavorful and aromatic dish inspired by the traditional North African cuisine, this pan-seared lamb tagine is a perfect blend of spices and tender meat.",
+  "cuisine": "North African",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pan over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pan and set aside.",
+    "Add the onion, garlic, and ginger to the pan and cook until the onion is translucent, about 5 minutes.",
+    "Add the cumin, coriander, cayenne pepper, salt, and black pepper to the pan and cook for 1 minute.",
+    "Add the browned lamb back to the pan and stir to coat with the spice mixture.",
+    "Reduce heat to low and simmer, covered, for 10 minutes or until the lamb is tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paleo",
+    "lamb",
+    "tagine",
+    "north african"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/paleo-friendly-pan-seared-tunisian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:34:00.842Z"
+}
