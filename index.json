@@ -230,16 +230,14 @@
   },
   {
     "slug": "paleo-friendly-pan-seared-tunisian-lamb-tagine",
-    "title": "Paleo-Friendly Pan-Seared Tunisian Lamb Tagine",
+    "title": "Pan-Seared Tunisian Lamb Tagine",
     "tags": [
-      "breakfast-option",
-      "high-protein",
-      "one-pan",
-      "paleo-friendly",
-      "tunisian-cuisine",
-      "weeknight"
+      "paleo",
+      "lamb",
+      "tagine",
+      "north african"
     ],
-    "cuisine": "Tunisian",
+    "cuisine": "North African",
     "totalTimeMin": 45,
     "shard": "p"
   },
@@ -2718,16 +2716,14 @@
   },
   {
     "slug": "peppery-dense-german-pork-stew",
-    "title": "Peppery Dense German Pork Stew",
+    "title": "German Pork Stew",
     "tags": [
       "german-cuisine",
       "pork-recipes",
-      "comfort-food",
-      "winter-dishes",
       "stew-recipes"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 110,
+    "cuisine": "german",
+    "totalTimeMin": 170,
     "shard": "p"
   },
   {
@@ -3486,13 +3482,11 @@
   },
   {
     "slug": "peppery-gooey-middle-eastern-tomato-stir-fry",
-    "title": "Peppery Gooey Middle Eastern Tomato Stir-fry",
+    "title": "Middle Eastern Stir Fry",
     "tags": [
-      "middle-eastern",
-      "peppery",
-      "gooey",
-      "tomato-stir-fry",
-      "halal-friendly"
+      "middle eastern",
+      "stir fry",
+      "vegetarian"
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 25,
