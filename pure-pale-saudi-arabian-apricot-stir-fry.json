@@ -1,0 +1,80 @@
+{
+  "slug": "pure-pale-saudi-arabian-apricot-stir-fry",
+  "title": "Saudi Arabian Apricot Stir Fry",
+  "description": "A flavorful and aromatic stir fry made with pure saudi spices and pale apricots.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Apricots",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Pure Saudi spices",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pale oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the pale oil in a large skillet or wok over medium-high heat.",
+    "Add the onion, ginger, and garlic and stir-fry until the onion is translucent.",
+    "Add the apricots and stir-fry for 2-3 minutes.",
+    "Add the pure Saudi spices and stir-fry for 1 minute.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot garnished with additional apricots if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "apricot",
+    "middle-eastern",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pure-pale-saudi-arabian-apricot-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T16:52:08.016Z"
+}
