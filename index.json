@@ -13119,5 +13119,18 @@
     "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "p"
+  },
+  {
+    "slug": "puffy-plump-thai-chickpeas-pad-thai--japanese",
+    "title": "Japanese-Style Pad Thai with Chickpeas",
+    "tags": [
+      "pad thai",
+      "chickpea",
+      "japanese",
+      "fusion"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "p"
   }
 ]
