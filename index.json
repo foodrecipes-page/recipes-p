@@ -5022,15 +5022,14 @@
   },
   {
     "slug": "peppery-velvety-garlic-korean-stir-fry",
-    "title": "Peppery Velvety Garlic Korean Stir-fry",
+    "title": "Spicy Korean Stir Fry",
     "tags": [
-      "peppery",
-      "velvety",
-      "korean-dish",
-      "sous-vide"
+      "korean",
+      "stir-fry",
+      "spicy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 18,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -8540,17 +8539,14 @@
   },
   {
     "slug": "pleasantly-poached-croatian-vegetable-bowl",
-    "title": "Pleasantly Poached Croatian Vegetable Bowl",
+    "title": "Vegetable Poached Delight in a Croatian Bowl",
     "tags": [
-      "croatian",
-      "kosher-friendly",
-      "one-pan",
       "vegetarian",
-      "veggie-bowl",
-      "weeknight"
+      "croatian",
+      "poached"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 40,
+    "cuisine": "croatian",
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
