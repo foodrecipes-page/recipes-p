@@ -1,0 +1,67 @@
+{
+  "slug": "peppery-irish-cheese-flatbread",
+  "title": "Irish Peppery Flatbread",
+  "description": "A simple flatbread recipe with a peppery twist, perfect for a quick snack or side dish.",
+  "cuisine": "irish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 piece",
+      "notes": null
+    },
+    {
+      "name": "Peppery cheese",
+      "amount": "1/4 cup, crumbled",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon, freshly ground",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/8 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Place the flatbread on a baking sheet.",
+    "Drizzle the olive oil over the flatbread.",
+    "Sprinkle the crumbled peppery cheese over the flatbread.",
+    "Season with salt and freshly ground pepper.",
+    "Bake for 5-7 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for 1-2 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 5,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "flatbread",
+    "pepper",
+    "cheese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-irish-cheese-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T05:39:51.833Z"
+}
