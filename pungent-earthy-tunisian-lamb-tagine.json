@@ -1,0 +1,84 @@
+{
+  "slug": "pungent-earthy-tunisian-lamb-tagine",
+  "title": "Tunisian Lamb Tagine",
+  "description": "A hearty and aromatic stew originating from Tunisia, made with tender lamb, pungent spices, and earthy vegetables.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 (1.5-2 pounds)",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Tunisian Spice Blend",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with a combination of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Pungent Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Earthy Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Sweat-Inducing Red Pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tagine Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb pieces on all sides, then set aside.",
+    "Add the garlic, carrots, and red pepper to the pot, and cook until the vegetables are tender.",
+    "Add the Tunisian spice blend, cumin, salt, and pepper, and stir to combine.",
+    "Return the lamb to the pot, and pour in 2 cups of water.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Serve hot, garnished with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "north-african",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-earthy-tunisian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T03:19:00.285Z"
+}
