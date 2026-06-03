@@ -10558,17 +10558,15 @@
   },
   {
     "slug": "pungent-earthy-tunisian-lamb-tagine",
-    "title": "Pungent Earthy Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "halal-friendly",
-      "lamb-recipes",
-      "lotus-leaf",
+      "lamb",
+      "stew",
       "north-african",
-      "stews",
-      "tunisian-cuisine"
+      "tunisian"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 110,
     "shard": "p"
   },
   {
