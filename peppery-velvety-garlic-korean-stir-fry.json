@@ -1,0 +1,68 @@
+{
+  "slug": "peppery-velvety-garlic-korean-stir-fry",
+  "title": "Spicy Korean Stir Fry",
+  "description": "A spicy and savory stir fry made with Korean chili flakes, garlic, and your choice of protein.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peppery stir-fry sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Velvety vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Protein of your choice (chicken, beef or tofu)",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Mixed vegetables (bell peppers, carrots, broccoli)",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the protein and cook until browned.",
+    "Add the mixed vegetables and cook until tender.",
+    "Stir in the peppery stir-fry sauce and Korean chili flakes.",
+    "Cook for an additional 1-2 minutes.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "stir-fry",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-velvety-garlic-korean-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T23:00:39.390Z"
+}
