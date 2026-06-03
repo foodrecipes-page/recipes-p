@@ -3690,17 +3690,16 @@
   },
   {
     "slug": "peppery-irish-cheese-flatbread",
-    "title": "Peppery Irish Cheese Flatbread",
+    "title": "Irish Peppery Flatbread",
     "tags": [
       "irish",
-      "cheese",
       "flatbread",
-      "tandoor",
-      "peppery",
-      "highprotein"
+      "pepper",
+      "cheese",
+      "snack"
     ],
     "cuisine": "irish",
-    "totalTimeMin": 12,
+    "totalTimeMin": 7,
     "shard": "p"
   },
   {
