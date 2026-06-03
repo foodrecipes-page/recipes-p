@@ -1,0 +1,74 @@
+{
+  "slug": "peppery-hangover-malaysian-ginger-soup",
+  "title": "Spicy Malaysian Ginger Soup",
+  "description": "A hearty and flavorful soup that's perfect for a cold day or a hangover remedy. The combination of ginger, peppery notes, and malaysian spices will leave you feeling warm and refreshed.",
+  "cuisine": "Southeast Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "peppery greens",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "veggie broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "malaysian spice blend",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add garlic and sauté for 1 minute.",
+    "Add ginger and sauté for another minute.",
+    "Pour in broth and bring to a boil.",
+    "Reduce heat and add coconut milk.",
+    "Stir in malaysian spice blend.",
+    "Add peppery greens and simmer for 5 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "vegetarian",
+    "ginger",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-hangover-malaysian-ginger-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:18:43.313Z"
+}
