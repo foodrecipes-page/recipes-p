@@ -13128,5 +13128,17 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "p"
+  },
+  {
+    "slug": "purely-grilled-mediterranean-saskatoon-berry-skewers--german",
+    "title": "Grilled Sausages with Saskatoon Berry Skewers",
+    "tags": [
+      "german-food",
+      "grilled-sausages",
+      "saskatoon-berry-skewers"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "p"
   }
 ]
