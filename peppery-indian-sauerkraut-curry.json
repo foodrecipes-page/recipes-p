@@ -1,0 +1,72 @@
+{
+  "slug": "peppery-indian-sauerkraut-curry",
+  "title": "Sauerkraut and Peppery Curry",
+  "description": "A twist on traditional curry with a tangy sauerkraut twist, adding a punch of peppery flavor.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sauerkraut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Peppery Curry Powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion, ginger, and garlic. Cook until onion is translucent.",
+    "Add curry powder and cook for 1 minute.",
+    "Add sauerkraut, tomatoes, salt, and black pepper. Stir well.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "curry",
+    "sauerkraut",
+    "peppery"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-indian-sauerkraut-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:03:45.181Z"
+}
