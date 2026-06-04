@@ -1,0 +1,89 @@
+{
+  "slug": "pul-biber-sous-vide-tabbouleh",
+  "title": "Sous Vide Biber Steak with Tabbouleh",
+  "description": "A simple and flavorful dish featuring sous vide biber steak served with a refreshing tabbouleh salad.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Biber steak",
+      "amount": "4 (6 oz each)",
+      "notes": "preferably at room temperature"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "coarse salt for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Pul",
+      "amount": "1 cup",
+      "notes": "bulgur or cracked wheat"
+    },
+    {
+      "name": "Tabbouleh",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Sous vide machine",
+      "amount": "",
+      "notes": "for precise temperature control"
+    },
+    {
+      "name": "Sous vide bag",
+      "amount": "",
+      "notes": "food-safe and suitable for sous vide"
+    }
+  ],
+  "instructions": [
+    "Season the biber steak with salt and black pepper.",
+    "Heat the olive oil in a skillet over medium-high heat.",
+    "Sear the biber steak for 1-2 minutes per side, then transfer to a sous vide bag.",
+    "Seal the sous vide bag and cook in the sous vide machine at 130°F (54°C) for 1 hour.",
+    "While the steak is cooking, prepare the tabbouleh according to package instructions.",
+    "Remove the steak from the sous vide bag and let it rest for 5 minutes.",
+    "Slice the steak against the grain and serve with the tabbouleh salad.",
+    "Drizzle with lemon juice and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sous-vide",
+    "biber",
+    "tabbouleh",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pul-biber-sous-vide-tabbouleh",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T12:26:12.040Z"
+}
