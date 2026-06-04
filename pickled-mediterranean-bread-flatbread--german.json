@@ -1,0 +1,75 @@
+{
+  "slug": "pickled-mediterranean-bread-flatbread--german",
+  "title": "Mediterranean Open-Faced Bratwurst",
+  "description": "A twist on traditional German Bratwurst, served on toasted flatbread with pickled flavors.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bratwurst",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "flatbread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "pickled onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "German mustard",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Bacon bits",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the Bratwurst into 1-inch pieces.",
+    "Cook the Bratwurst in a pan over medium-high heat until browned, about 5 minutes.",
+    "Toast the flatbread slices in the oven for 2-3 minutes.",
+    "Assemble the Bratwurst on toasted flatbread with pickled onions, olives, mustard, cheese, and bacon bits.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "bratwurst",
+    "flatbread",
+    "pickled",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pickled-mediterranean-bread-flatbread--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T20:13:24.619Z"
+}
