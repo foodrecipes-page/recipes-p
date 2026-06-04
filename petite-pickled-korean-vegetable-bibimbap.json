@@ -1,0 +1,71 @@
+{
+  "slug": "petite-pickled-korean-vegetable-bibimbap",
+  "title": "Korean-Style Pickled Vegetable Bibimbap",
+  "description": "A flavorful and nutritious Korean-inspired dish featuring pickled vegetables on top of a bed of rice, served with a fried egg and a variety of toppings.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "amount": "1 head, broken into florets"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium, peeled and grated"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup, cooked"
+    },
+    {
+      "name": "Fried Egg",
+      "amount": "1",
+      "notes": "cooked to desired doneness"
+    },
+    {
+      "name": "Gochujang Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the rice according to package instructions.",
+    "In a large bowl, combine the cauliflower, carrot, and cucumber.",
+    "In a small bowl, whisk together the gochujang sauce, sesame oil, and 1 tablespoon of water.",
+    "Add the sauce to the vegetables and toss to coat.",
+    "Heat a non-stick pan over medium-high heat.",
+    "Add a small amount of oil to the pan and fry the egg to desired doneness.",
+    "Divide the cooked rice onto two plates.",
+    "Top each plate with a portion of the pickled vegetables, a fried egg, and a sprinkle of sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "bibimbap",
+    "pickled",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/petite-pickled-korean-vegetable-bibimbap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T13:55:03.384Z"
+}
