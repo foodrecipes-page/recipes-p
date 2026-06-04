@@ -1,0 +1,87 @@
+{
+  "slug": "peppery-american-vegetable-casserole--thai",
+  "title": "Thai Peppery Casserole",
+  "description": "A flavorful Thai dish with a twist, using peppery flavors in a casserole. Perfect for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "American Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Peppery Veggies",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Casserole Sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook American Rice according to package instructions.",
+    "Heat Vegetable Oil in a pan over medium heat.",
+    "Add Thai Red Curry Paste and cook for 1 minute.",
+    "Add Peppery Veggies and cook until tender.",
+    "Stir in Casserole Sauce, Fish Sauce, Soy Sauce, and Sugar.",
+    "Combine cooked Rice with the sauce mixture.",
+    "Transfer to a baking dish and top with additional Peppery Veggies if desired.",
+    "Bake for 20-25 minutes or until hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaicuisine",
+    "peppery",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-american-vegetable-casserole--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T09:37:19.654Z"
+}
