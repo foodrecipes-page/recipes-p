@@ -1,0 +1,70 @@
+{
+  "slug": "pickled-mediterranean-bread-flatbread--french",
+  "title": "French Flatbread Pizza",
+  "description": "A simple French-inspired flatbread pizza topped with Mediterranean flavors.",
+  "cuisine": "French",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Mediterranean pickled peppers",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mediterranean pickled onions",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "1 tablespoon, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Place the flatbread on a baking sheet.",
+    "3. Spread the pickled peppers and onions over the flatbread.",
+    "4. Top with mozzarella cheese.",
+    "5. Sprinkle with chopped rosemary.",
+    "6. Season with salt and black pepper.",
+    "7. Bake for 8-10 minutes, or until the cheese is melted and bubbly.",
+    "8. Remove from the oven and let cool for a few minutes.",
+    "9. Slice and serve."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "pizza",
+    "flatbread",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pickled-mediterranean-bread-flatbread--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T20:13:18.606Z"
+}
