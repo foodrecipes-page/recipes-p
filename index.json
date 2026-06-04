@@ -13135,5 +13135,30 @@
     "cuisine": "german",
     "totalTimeMin": 35,
     "shard": "p"
+  },
+  {
+    "slug": "peppery-ukrainian-beef-stir-fry--chinese",
+    "title": "Stir Fry Beef",
+    "tags": [
+      "beef",
+      "chinese",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "purely-passionate-mexican-pork-tacos-al-pastor--german",
+    "title": "German-Style Pork Tacos",
+    "tags": [
+      "german",
+      "mexican",
+      "tacos",
+      "grill"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "p"
   }
 ]
