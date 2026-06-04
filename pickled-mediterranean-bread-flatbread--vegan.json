@@ -1,0 +1,66 @@
+{
+  "slug": "pickled-mediterranean-bread-flatbread--vegan",
+  "title": "Mediterranean Flatbread Wrap",
+  "description": "A delicious and easy-to-make vegan flatbread wrap filled with Mediterranean flavors and topped with pickled vegetables.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Mediterranean Hummus",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chopped Cucumber",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped Red Onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Pickled Vegetables",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan or griddle over medium heat.",
+    "Warm the flatbread for 1-2 minutes on each side.",
+    "Spread the hummus on the flatbread.",
+    "Top with chopped cucumber, red onion, and pickled vegetables.",
+    "Sprinkle with fresh parsley.",
+    "Fold the flatbread in half to enclose the filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "vegan",
+    "flatbread",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pickled-mediterranean-bread-flatbread--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T20:13:39.162Z"
+}
