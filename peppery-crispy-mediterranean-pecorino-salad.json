@@ -1,0 +1,67 @@
+{
+  "slug": "peppery-crispy-mediterranean-pecorino-salad",
+  "title": "Pecorino and Mediterranean Salad",
+  "description": "A refreshing salad featuring the flavors of the Mediterranean with the tanginess of Pecorino cheese.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups",
+      "notes": "Any combination of lettuce, arugula, and spinach"
+    },
+    {
+      "name": "Pecorino Cheese",
+      "amount": "1 cup, shredded",
+      "notes": "You can also use Parmesan cheese"
+    },
+    {
+      "name": "Meditteranean Salad Dressing",
+      "amount": "1/4 cup",
+      "notes": "See below for recipe"
+    },
+    {
+      "name": "1/4 cup Crispy Capers",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "1/4 cup Peppery Olives",
+      "amount": "1/4 cup",
+      "notes": "Pitted"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the mixed greens.",
+    "2. In a small bowl, whisk together the Mediterranean salad dressing ingredients: 2 tablespoons olive oil, 2 tablespoons lemon juice, 1 minced garlic clove, 1 teaspoon dried oregano, and salt and pepper to taste.",
+    "3. Drizzle the dressing over the greens and toss to combine.",
+    "4. Sprinkle the Pecorino cheese, crispy capers, and peppery olives over the top.",
+    "5. Toss gently to combine.",
+    "6. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "italian",
+    "easy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crispy-mediterranean-pecorino-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:15:56.065Z"
+}
