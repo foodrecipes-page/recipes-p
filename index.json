@@ -5710,17 +5710,15 @@
   },
   {
     "slug": "petite-pickled-korean-vegetable-bibimbap",
-    "title": "Petite Pickled Korean Vegetable Bibimbap",
+    "title": "Korean-Style Pickled Vegetable Bibimbap",
     "tags": [
-      "easy-meal",
-      "korean-food",
-      "lunch-ideas",
-      "plant-based",
-      "vegan",
+      "korean",
+      "bibimbap",
+      "pickled",
       "vegetarian"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -10088,14 +10086,15 @@
   },
   {
     "slug": "pul-biber-sous-vide-tabbouleh",
-    "title": "Pul Biber Sous-Vide Tabbouleh",
+    "title": "Sous Vide Biber Steak with Tabbouleh",
     "tags": [
-      "pul biber",
       "sous-vide",
-      "tabbouleh"
+      "biber",
+      "tabbouleh",
+      "middle-eastern"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 60,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 75,
     "shard": "p"
   },
   {
