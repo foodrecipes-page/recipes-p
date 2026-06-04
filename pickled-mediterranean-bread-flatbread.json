@@ -1,0 +1,75 @@
+{
+  "slug": "pickled-mediterranean-bread-flatbread",
+  "title": "Mediterranean Flatbread Pizza",
+  "description": "A delicious flatbread pizza topped with mediterranean flavors. Perfect as a snack or light dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 piece (8 inch/20 cm in diameter)",
+      "notes": ""
+    },
+    {
+      "name": "Pizza sauce",
+      "amount": "1/4 cup (60 ml)",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1/2 cup (120 g)",
+      "notes": ""
+    },
+    {
+      "name": "Pickled red onion",
+      "amount": "1/4 cup (30 g)",
+      "notes": ""
+    },
+    {
+      "name": "Olives",
+      "amount": "1/4 cup (30 g)",
+      "notes": ""
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1/4 cup (30 g)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Roll out the flatbread to a thickness of 1/4 inch (6 mm).",
+    "Spread the pizza sauce over the flatbread, leaving a 1/2 inch (1 cm) border around the edges.",
+    "Sprinkle the mozzarella cheese over the sauce.",
+    "Top with pickled red onion, olives, and artichoke hearts.",
+    "Season with salt and pepper to taste.",
+    "Bake for 12-15 minutes or until the crust is golden brown and the cheese is melted.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving.",
+    "Optional: Add fresh basil leaves on top for extra flavor and color.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "mediterranean",
+    "pizza"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pickled-mediterranean-bread-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:27:25.679Z"
+}
