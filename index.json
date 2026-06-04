@@ -1157,14 +1157,15 @@
   },
   {
     "slug": "parsnip-jalebi",
-    "title": "Parsnip Jalebi",
+    "title": "Pan-Roasted Parsnip with Jalebi Crunch",
     "tags": [
-      "parsi",
+      "vegetarian",
+      "indian",
+      "parsnip",
       "jalebi",
-      "chettinad",
-      "vegan-friendly"
+      "gluten-free"
     ],
-    "cuisine": "Indian (Chettinad)",
+    "cuisine": "Indian",
     "totalTimeMin": 35,
     "shard": "p"
   },
@@ -10403,14 +10404,13 @@
   },
   {
     "slug": "pungent-croatian-sundried-cheese-bake",
-    "title": "Pungent Croatian Sundried Cheese Bake",
+    "title": "Croatian Pungent Sundried Cheese Bake",
     "tags": [
-      "diabetic-friendly",
-      "european",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "croatian",
+      "pungent",
+      "sundried",
+      "cheese",
+      "bake"
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 35,
