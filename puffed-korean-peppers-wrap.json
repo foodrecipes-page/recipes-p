@@ -1,0 +1,93 @@
+{
+  "slug": "puffed-korean-peppers-wrap",
+  "title": "Spicy Korean Pepper Wrap",
+  "description": "A flavorful and spicy wrap filled with crispy puffed rice, crunchy Korean peppers, and a hint of savory flavor.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Puffed Rice",
+      "amount": "1 cup",
+      "notes": "any brand will do"
+    },
+    {
+      "name": "Korean Peppers",
+      "amount": "2",
+      "notes": "also known as gochugaru, adjust to taste"
+    },
+    {
+      "name": "Tortilla Wrap",
+      "amount": "1",
+      "notes": "any brand will do"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium or gluten-free option available"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp",
+      "notes": "seasoned or plain, both work"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tsp",
+      "notes": "spicy Korean chili paste"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Green Onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook the puffed rice according to package instructions.",
+    "Cut the Korean peppers into thin slices.",
+    "In a small bowl, whisk together soy sauce, rice vinegar, gochujang, and sesame oil.",
+    "In a separate bowl, mix together the cooked puffed rice and the sliced Korean peppers.",
+    "Add the sauce mixture to the rice mixture and stir until combined.",
+    "Warm the tortilla wrap in a dry pan or in the microwave for 10-15 seconds.",
+    "Spoon the rice mixture onto the wrap, leaving a small border around the edges.",
+    "Top with green onion and salt to taste.",
+    "Fold the wrap in half to enclose the filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "spicy",
+    "wrap",
+    "snack",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/puffed-korean-peppers-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:11:30.064Z"
+}
