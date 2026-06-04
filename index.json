@@ -3654,18 +3654,15 @@
   },
   {
     "slug": "peppery-indian-sauerkraut-curry",
-    "title": "Peppery Indian Sauerkraut Curry",
+    "title": "Sauerkraut and Peppery Curry",
     "tags": [
-      "indian-cuisine",
-      "low-carb",
-      "gluten-free",
+      "indian",
       "curry",
       "sauerkraut",
-      "cozy",
       "peppery"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
