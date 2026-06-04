@@ -1,0 +1,62 @@
+{
+  "slug": "pan-seared-peppery-malaysian-fernbrake-gosari-wrap",
+  "title": "Pan-Seared Gosari Wrap",
+  "description": "A simple and flavorful wrap filled with stir-fried gosari, fernbrake, and a hint of malaysian spices.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "gosari",
+      "amount": "8 oz"
+    },
+    {
+      "name": "fernbrake",
+      "amount": "1 cup"
+    },
+    {
+      "name": "peppery sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "malaysian chili paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pan",
+      "amount": ""
+    },
+    {
+      "name": "seared",
+      "amount": ""
+    },
+    {
+      "name": "wrap",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat the pan over medium-high heat.",
+    "Add the gosari and stir-fry until crispy.",
+    "Add the fernbrake and peppery sauce, and stir-fry until the fernbrake is tender.",
+    "Add the malaysian chili paste and stir-fry for 1 minute.",
+    "Wrap the filling in a wrap and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "gosari",
+    "fernbrake",
+    "malaysian",
+    "wrap"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-peppery-malaysian-fernbrake-gosari-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:03:00.952Z"
+}
