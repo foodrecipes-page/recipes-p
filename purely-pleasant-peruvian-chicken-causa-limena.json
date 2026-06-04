@@ -1,0 +1,84 @@
+{
+  "slug": "purely-pleasant-peruvian-chicken-causa-limena",
+  "title": "Peruvian Causa Rellena de Pollo",
+  "description": "A Peruvian-inspired dish consisting of a causa (potato) filling, topped with a chicken salad and garnished with Peruvian-style sauce.",
+  "cuisine": "peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": null
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2",
+      "notes": null
+    },
+    {
+      "name": "hard-boiled egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Peruvian ají amarillo sauce",
+      "amount": "2 tablespoons",
+      "notes": "see note"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes until tender. Let cool and mash.",
+    "Grill or bake the chicken until cooked through. Let cool and shred.",
+    "Chop the red onion and hard-boiled egg.",
+    "In a bowl, mix together the mashed potatoes, shredded chicken, chopped onion, egg, sour cream, mayonnaise, and Dijon mustard.",
+    "Season the mixture with salt and pepper to taste.",
+    "To assemble, spread a layer of the potato mixture on a plate or bowl, followed by a spoonful of the chicken salad.",
+    "Garnish with Peruvian-style sauce.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "causa",
+    "peruvian",
+    "chicken",
+    "potato"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-pleasant-peruvian-chicken-causa-limena",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T09:26:01.396Z"
+}
