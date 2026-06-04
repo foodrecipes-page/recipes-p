@@ -7534,16 +7534,15 @@
   },
   {
     "slug": "piquant-middle-eastern-shrimp-pilaf",
-    "title": "Piquant Middle Eastern Shrimp Pilaf",
+    "title": "Shrimp and Rice Pilaf",
     "tags": [
-      "middle-eastern",
-      "one-pan",
-      "paleo-friendly",
-      "seafood",
-      "weeknight"
+      "shrimp",
+      "rice",
+      "pilaf",
+      "middle-eastern"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
@@ -13156,6 +13155,97 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
+    "slug": "pickled-mediterranean-bread-flatbread--keto",
+    "title": "Breaded Mediterranean Pickle Bites",
+    "tags": [
+      "keto",
+      "mediterranean",
+      "appetizer",
+      "bread"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 22,
+    "shard": "p"
+  },
+  {
+    "slug": "pickled-mediterranean-bread-flatbread--mexican",
+    "title": "Mexican Flatbread Nachos",
+    "tags": [
+      "mexican",
+      "nachos",
+      "flatbread",
+      "appetizer"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "pickled-mediterranean-bread-flatbread--indian",
+    "title": "Indian-Style Pickled Mediterranean Flatbread",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "flatbread",
+      "pickled"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 10,
+    "shard": "p"
+  },
+  {
+    "slug": "pickled-mediterranean-bread-flatbread--french",
+    "title": "French Flatbread Pizza",
+    "tags": [
+      "french",
+      "pizza",
+      "flatbread",
+      "mediterranean"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 15,
+    "shard": "p"
+  },
+  {
+    "slug": "pickled-mediterranean-bread-flatbread--thai",
+    "title": "Spicy Med Thai Flatbread",
+    "tags": [
+      "snack",
+      "thai",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 18,
+    "shard": "p"
+  },
+  {
+    "slug": "pickled-mediterranean-bread-flatbread--german",
+    "title": "Mediterranean Open-Faced Bratwurst",
+    "tags": [
+      "german",
+      "bratwurst",
+      "flatbread",
+      "pickled",
+      "mediterranean"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "pickled-mediterranean-bread-flatbread--vegan",
+    "title": "Mediterranean Flatbread Wrap",
+    "tags": [
+      "mediterranean",
+      "vegan",
+      "flatbread",
+      "wrap"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 7,
     "shard": "p"
   }
 ]
