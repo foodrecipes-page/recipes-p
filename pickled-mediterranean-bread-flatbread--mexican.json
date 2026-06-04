@@ -1,0 +1,77 @@
+{
+  "slug": "pickled-mediterranean-bread-flatbread--mexican",
+  "title": "Mexican Flatbread Nachos",
+  "description": "A twist on traditional nachos using crispy flatbread and topped with creamy pickled jalapeños.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "8-10 slices"
+    },
+    {
+      "name": "Pickled Jalapeños",
+      "amount": "1/2 cup, sliced"
+    },
+    {
+      "name": "Mediterranean Feta Cheese",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "Bread Crumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Shredded Cheese (Monterey Jack or Cheddar)",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the flatbread into triangles or use as is.",
+    "Arrange the flatbread on a baking sheet.",
+    "Bake for 8-10 minutes or until crispy.",
+    "While the flatbread is baking, mix the crumbled feta cheese with bread crumbs and chopped cilantro.",
+    "Once the flatbread is crispy, remove from the oven and top with the feta cheese mixture.",
+    "Follow with a layer of sliced pickled jalapeños, sour cream, and salsa.",
+    "Finish with shredded cheese and return to the oven for an additional 2-3 minutes or until the cheese is melted and bubbly.",
+    "Remove from the oven and garnish with additional cilantro if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "nachos",
+    "flatbread",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pickled-mediterranean-bread-flatbread--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T20:13:14.937Z"
+}
