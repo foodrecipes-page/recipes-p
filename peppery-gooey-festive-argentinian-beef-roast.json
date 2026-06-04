@@ -1,0 +1,72 @@
+{
+  "slug": "peppery-gooey-festive-argentinian-beef-roast",
+  "title": "Argentinian Roast Beef",
+  "description": "A classic Argentinian-inspired roast beef dish, perfect for a hearty dinner. The peppery flavors of the roast complement the festive season.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian roast",
+      "amount": "1 (1.5-2 kg) piece",
+      "notes": "ask your butcher for a prime cut"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "you can also use red wine as a substitute"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "2 tablespoons",
+      "notes": "freshly ground is best"
+    },
+    {
+      "name": "salt",
+      "amount": "2 teaspoons",
+      "notes": "use kosher or sea salt for the best flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced or crushed to your liking"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "optional, but adds a nice depth to the dish"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for basting the roast"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C).",
+    "Season the roast with salt, pepper, and thyme (if using).",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Sear the roast on all sides until browned, about 2-3 minutes per side.",
+    "Remove the roast from the pot and set it aside. Add the beef broth to the pot, scraping up any browned bits from the bottom.",
+    "Return the roast to the pot, cover it with a lid, and transfer it to the preheated oven.",
+    "Roast the beef for 20 minutes per pound, or until it reaches your desired level of doneness. Use a meat thermometer to check for internal temperature: 130°F (54°C) for medium-rare, 140°F (60°C) for medium, and 150°F (65°C) for medium-well.",
+    "Baste the roast with the pan juices every 20 minutes or so to keep it moist and promote even browning.",
+    "Once the roast is cooked to your liking, remove it from the oven and let it rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "argentinian",
+    "beef",
+    "roast",
+    "dinner"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-gooey-festive-argentinian-beef-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T16:40:19.649Z"
+}
