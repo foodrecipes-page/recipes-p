@@ -1,0 +1,74 @@
+{
+  "slug": "parsnip-jalebi",
+  "title": "Pan-Roasted Parsnip with Jalebi Crunch",
+  "description": "A sweet and savory vegetarian dish that combines the natural sweetness of parsnips with the crunchy texture of jalebi.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "parsnip",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "jalebi",
+      "amount": "4-6 pieces",
+      "notes": "crushed into small pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Toss the parsnip cubes with olive oil, salt, black pepper, and garam masala on a baking sheet.",
+    "Roast in the oven for 20-25 minutes, or until the parsnips are tender and caramelized.",
+    "While the parsnips are roasting, heat a small amount of oil in a pan over medium heat.",
+    "Add the crushed jalebi to the pan and cook until crispy and golden brown.",
+    "Once the parsnips are done, remove them from the oven and let them cool slightly.",
+    "Toss the roasted parsnips with the crispy jalebi pieces and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "indian",
+    "parsnip",
+    "jalebi",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/parsnip-jalebi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:58:10.908Z"
+}
