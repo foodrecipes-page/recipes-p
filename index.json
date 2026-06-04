@@ -807,16 +807,15 @@
   },
   {
     "slug": "pan-seared-peppery-malaysian-fernbrake-gosari-wrap",
-    "title": "Pan-Seared Peppery Malaysian Fernbrake-Gosari Wrap",
+    "title": "Pan-Seared Gosari Wrap",
     "tags": [
+      "gosari",
+      "fernbrake",
       "malaysian",
-      "one-pan",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "wrap"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 25,
+    "cuisine": "malaysian",
+    "totalTimeMin": 15,
     "shard": "p"
   },
   {
@@ -12557,17 +12556,15 @@
   },
   {
     "slug": "purely-pleasant-peruvian-chicken-causa-limena",
-    "title": "Purely Pleasant Peruvian Chicken Causa Limena",
+    "title": "Peruvian Causa Rellena de Pollo",
     "tags": [
-      "chicken-recipes",
-      "comfort-food",
-      "gluten-free",
-      "low-fat",
-      "peruvian-cuisine",
-      "weeknight-dinner"
+      "causa",
+      "peruvian",
+      "chicken",
+      "potato"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 70,
+    "cuisine": "peruvian",
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
@@ -13158,6 +13155,18 @@
       "grill"
     ],
     "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-american-vegetable-casserole--thai",
+    "title": "Thai Peppery Casserole",
+    "tags": [
+      "thaicuisine",
+      "peppery",
+      "casserole"
+    ],
+    "cuisine": "Thai",
     "totalTimeMin": 40,
     "shard": "p"
   }
