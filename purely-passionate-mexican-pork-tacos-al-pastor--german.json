@@ -1,0 +1,78 @@
+{
+  "slug": "purely-passionate-mexican-pork-tacos-al-pastor--german",
+  "title": "German-Style Pork Tacos",
+  "description": "A fusion of German and Mexican flavors, these pork tacos are a delicious twist on traditional cuisine.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Mexican al pastor seasoning",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Purely German beer (such as weissbier)",
+      "amount": "1/4 cup",
+      "notes": "used for marinade"
+    },
+    {
+      "name": "Tacos",
+      "amount": "8-10 corn tortillas",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 375°F (190°C).",
+    "In a large bowl, whisk together beer, al pastor seasoning, and a pinch of salt. Add the pork shoulder and marinate for at least 30 minutes.",
+    "Remove the pork from the marinade, letting any excess liquid drip off.",
+    "Grill the pork for 5-7 minutes per side, or until it reaches an internal temperature of 145°F (63°C).",
+    "Transfer the pork to a cutting board and let it rest for 5 minutes before slicing it thinly against the grain.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a few slices of the pork onto a tortilla, followed by a sprinkle of onion, cilantro, and a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "mexican",
+    "tacos",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-passionate-mexican-pork-tacos-al-pastor--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:51:13.357Z"
+}
