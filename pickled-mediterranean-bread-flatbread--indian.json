@@ -1,0 +1,74 @@
+{
+  "slug": "pickled-mediterranean-bread-flatbread--indian",
+  "title": "Indian-Style Pickled Mediterranean Flatbread",
+  "description": "A fusion Indian dish using crispy flatbread topped with pickled Mediterranean vegetables.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mediterranean flatbread",
+      "amount": "1 piece",
+      "notes": null
+    },
+    {
+      "name": "Pickled Mediterranean vegetables",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Place the flatbread on a baking sheet.",
+    "Sprinkle the garam masala over the flatbread.",
+    "Drizzle the olive oil over the flatbread.",
+    "Bake in the preheated oven for 5-7 minutes or until crispy.",
+    "While the flatbread is baking, mix the pickled Mediterranean vegetables and lemon juice in a bowl.",
+    "Sprinkle the chopped cilantro over the pickled vegetables.",
+    "Once the flatbread is ready, top it with the pickled Mediterranean vegetables.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "flatbread",
+    "pickled"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pickled-mediterranean-bread-flatbread--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T20:13:16.609Z"
+}
