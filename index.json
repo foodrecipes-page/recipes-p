@@ -44,16 +44,14 @@
   },
   {
     "slug": "padded-syrian-lentils-stew",
-    "title": "Padded Syrian Lentils Stew",
+    "title": "Padded Lentil Stew",
     "tags": [
-      "brunch",
-      "easy",
-      "one-pot",
-      "pressure-cook",
-      "sugar-free"
+      "lentils",
+      "padded",
+      "stew"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 30,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
@@ -2260,17 +2258,15 @@
   },
   {
     "slug": "peppery-crispy-mediterranean-pecorino-salad",
-    "title": "Peppery Crispy Mediterranean Pecorino Salad",
+    "title": "Pecorino and Mediterranean Salad",
     "tags": [
-      "peppery",
-      "crispy",
-      "mediterranean",
-      "festive",
-      "pecorino",
+      "salad",
+      "italian",
+      "easy",
       "vegetarian"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 15,
+    "cuisine": "Italian",
+    "totalTimeMin": 10,
     "shard": "p"
   },
   {
@@ -9904,17 +9900,17 @@
   },
   {
     "slug": "puffed-korean-peppers-wrap",
-    "title": "Puffed Korean Peppers Wrap",
+    "title": "Spicy Korean Pepper Wrap",
     "tags": [
-      "asy-to-make",
-      "breakfast",
-      "brunch",
-      "easy-korean-dish",
-      "k-fusion",
-      "korean"
+      "korean",
+      "spicy",
+      "wrap",
+      "snack",
+      "vegan",
+      "gluten-free"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 27,
+    "totalTimeMin": 10,
     "shard": "p"
   },
   {
