@@ -1,0 +1,84 @@
+{
+  "slug": "pickled-mediterranean-bread-flatbread--keto",
+  "title": "Breaded Mediterranean Pickle Bites",
+  "description": "A keto twist on a classic appetizer, these bite-sized morsels combine crispy flatbread with tangy pickled and mediterranean flavors.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 package (6-8 pieces)",
+      "notes": ""
+    },
+    {
+      "name": "Pickled cucumbers",
+      "amount": "1 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean feta cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut flatbread into 1-inch (2.5 cm) squares.",
+    "In a shallow dish, mix together almond flour, egg, salt, and black pepper.",
+    "Dip each flatbread square into the almond flour mixture, coating both sides.",
+    "Place coated flatbread squares on a baking sheet lined with parchment paper.",
+    "Drizzle with olive oil and sprinkle with crumbled feta cheese.",
+    "Bake for 10-12 minutes, or until crispy and golden brown.",
+    "Top each square with a spoonful of chopped pickled cucumbers.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "mediterranean",
+    "appetizer",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pickled-mediterranean-bread-flatbread--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T20:13:11.164Z"
+}
