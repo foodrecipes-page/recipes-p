@@ -5751,16 +5751,14 @@
   },
   {
     "slug": "pickled-mediterranean-bread-flatbread",
-    "title": "Pickled Mediterranean Bread Flatbread",
+    "title": "Mediterranean Flatbread Pizza",
     "tags": [
-      "gluten-free",
-      "low-carb",
+      "flatbread",
       "mediterranean",
-      "one-pan",
-      "weeknight"
+      "pizza"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 22,
     "shard": "p"
   },
   {
