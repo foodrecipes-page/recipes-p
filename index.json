@@ -1402,15 +1402,14 @@
   },
   {
     "slug": "pepper-solo",
-    "title": "Pepper Solo",
+    "title": "Pepper Stir Fry",
     "tags": [
-      "british-dinner",
-      "umami-pepper",
-      "raw-friendly",
-      "silky-sauce"
+      "stir-fry",
+      "vegetarian",
+      "quick-dinner"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 10,
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
