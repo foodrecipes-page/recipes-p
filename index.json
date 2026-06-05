@@ -10659,17 +10659,15 @@
   },
   {
     "slug": "pungent-fried-russian-chicken-kebabs",
-    "title": "Pungent Fried Russian Chicken Kebabs",
+    "title": "Russian Chicken Kebabs",
     "tags": [
-      "chicken-drumsticks",
-      "deep-fried",
-      "high-protein",
-      "kosher-friendly",
-      "russian-food",
-      "weeknight"
+      "chicken",
+      "kebabs",
+      "russian",
+      "grilled"
     ],
-    "cuisine": "russian",
-    "totalTimeMin": 35,
+    "cuisine": "Russian",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -13246,6 +13244,19 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 7,
+    "shard": "p"
+  },
+  {
+    "slug": "pickled-mediterranean-bread-flatbread--vegetarian",
+    "title": "Mediterranean Flatbread Pizza",
+    "tags": [
+      "mediterranean",
+      "italian",
+      "vegetarian",
+      "pizza"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 22,
     "shard": "p"
   }
 ]
