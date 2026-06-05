@@ -13257,5 +13257,20 @@
     "cuisine": "Mediterranean",
     "totalTimeMin": 22,
     "shard": "p"
+  },
+  {
+    "slug": "parsnip-jalebi--german",
+    "title": "Kartoffelpuffer mit Zimt und Zucker (German Sweet Potato Pancakes)",
+    "tags": [
+      "german",
+      "sweet-potato",
+      "pancakes",
+      "dessert",
+      "fall",
+      "winter"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "p"
   }
 ]
