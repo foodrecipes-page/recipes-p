@@ -1,0 +1,72 @@
+{
+  "slug": "pepper-solo",
+  "title": "Pepper Stir Fry",
+  "description": "A simple and quick stir fry made with bell peppers and served with rice. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Solo",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "vegetable or peanut oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add garlic and cook for 1 minute until fragrant.",
+    "Add bell peppers and cook for 3-4 minutes until tender.",
+    "Add Solo and stir to combine.",
+    "Season with soy sauce and salt to taste.",
+    "Serve hot over rice.",
+    "Optional: add other vegetables such as carrots or broccoli to the stir fry."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pepper-solo",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T22:42:27.901Z"
+}
