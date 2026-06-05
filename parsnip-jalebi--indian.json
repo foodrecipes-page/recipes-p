@@ -1,0 +1,97 @@
+{
+  "slug": "parsnip-jalebi--indian",
+  "title": "Parsnip Jalebi Fry",
+  "description": "A spicy and sweet twist on the classic Indian street food, Jalebi. By substituting the traditional fermented batter with a simple parsnip and spice mixture, we create a crispy and addictive snack.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Parsnip",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Jalebi batter (store-bought)",
+      "amount": "1 packet",
+      "notes": "note: use the powdered mix only"
+    },
+    {
+      "name": "Rice flour",
+      "amount": "1/4 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Garlic paste",
+      "amount": "1/2 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Garam masala powder",
+      "amount": "1/2 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Oil for frying",
+      "amount": "1/2 cup",
+      "notes": "vegetable or canola oil"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the grated parsnip, lemon juice, ginger paste, garlic paste, red chili powder, garam masala powder, and salt.",
+    "Gradually add the store-bought jalebi batter powder to the bowl and mix until the parsnip mixture is well coated.",
+    "Heat oil in a deep frying pan over medium heat.",
+    "Using a slotted spoon, drop small amounts of the parsnip-jalebi mixture into the hot oil.",
+    "Fry the jalebi until golden brown and crispy, about 2-3 minutes on each side.",
+    "Using a slotted spoon, remove the jalebi from the oil and drain on paper towels.",
+    "Repeat the frying process with the remaining parsnip-jalebi mixture.",
+    "Serve the parsnip jalebi hot with a dollop of your favorite chutney or a sprinkle of powdered sugar.",
+    "Dust the jalebi with rice flour before serving for an extra crispy texture.",
+    "Enjoy your crispy and addictive Parsnip Jalebi Fry!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "vegetarian",
+    "vegan",
+    "parnsip-jalebi"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/parsnip-jalebi--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T07:43:41.548Z"
+}
