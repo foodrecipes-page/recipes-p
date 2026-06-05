@@ -5774,18 +5774,16 @@
   },
   {
     "slug": "piercingly-spicy-croatian-pepper-grill",
-    "title": "Piercingly Spicy Croatian Pepper Grill",
+    "title": "Grilled Croatian Sausage with Spicy Peppers",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "hot-stone-plate",
-      "one-pan",
-      "spicy",
-      "vegan",
-      "weeknight"
+      "sausages",
+      "peppers",
+      "grilled",
+      "croatian",
+      "breakfast"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -13271,6 +13269,20 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
+    "slug": "parsnip-jalebi--indian",
+    "title": "Parsnip Jalebi Fry",
+    "tags": [
+      "indian",
+      "snack",
+      "vegetarian",
+      "vegan",
+      "parnsip-jalebi"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "p"
   }
 ]
