@@ -1,0 +1,82 @@
+{
+  "slug": "pickled-mediterranean-bread-flatbread--vegetarian",
+  "title": "Mediterranean Flatbread Pizza",
+  "description": "A vegetarian flatbread pizza topped with Mediterranean flavors and pickled vegetables.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Mediterranean pickled vegetables",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Roll out the flatbread to a thickness of about 1/8 inch.",
+    "Spread the olive oil evenly over the flatbread, leaving a 1/2 inch border around the edges.",
+    "Sprinkle the minced garlic over the olive oil.",
+    "Top the flatbread with the Mediterranean pickled vegetables, feta cheese, and chopped parsley.",
+    "Season with salt, black pepper, and red pepper flakes to taste.",
+    "Bake in the preheated oven for 12-15 minutes, or until the crust is golden brown and the cheese is melted.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving.",
+    "Slice the flatbread into wedges or squares and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "italian",
+    "vegetarian",
+    "pizza"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pickled-mediterranean-bread-flatbread--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T21:20:43.347Z"
+}
