@@ -1,0 +1,78 @@
+{
+  "slug": "pungent-fried-russian-chicken-kebabs",
+  "title": "Russian Chicken Kebabs",
+  "description": "Grilled Russian-style chicken kebabs with a pungent flavor, perfect for a quick lunch or dinner.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Pungent sauce (see notes)",
+      "amount": "1/2 cup",
+      "notes": "Mix together 1/4 cup mayonnaise, 1 tablespoon Dijon mustard, 1 tablespoon chopped fresh dill, and 1 minced garlic clove."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fried onions (see notes)",
+      "amount": "1/2 cup",
+      "notes": "Fry 1/2 cup sliced onions in 1 tablespoon olive oil until golden brown."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut chicken into 1 1/2-inch pieces and thread onto skewers.",
+    "In a small bowl, mix together pungent sauce ingredients.",
+    "Brush chicken with olive oil and season with salt and black pepper.",
+    "Grill chicken for 8-10 minutes, turning occasionally, until cooked through.",
+    "Brush chicken with pungent sauce during last 2 minutes of grilling.",
+    "Serve chicken hot, garnished with fried onions and chopped parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "kebabs",
+    "russian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-fried-russian-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T21:37:48.690Z"
+}
