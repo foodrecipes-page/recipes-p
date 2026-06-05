@@ -1,0 +1,71 @@
+{
+  "slug": "puffed-korean-peppers-wrap--chinese",
+  "title": "Korean Puffed Pepper Wrap",
+  "description": "A Chinese-inspired dish featuring a crispy puffed pepper wrap filled with spicy Korean chili flakes and crunchy vegetables.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Puffed pepper wrap",
+      "amount": "4-6 wraps",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "gochugaru"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "Sliced cucumbers",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Sliced carrots",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or wok over medium-high heat.",
+    "Add a small amount of oil and cook the sliced bell peppers until tender.",
+    "Add the sliced cucumbers, carrots, and green onions to the skillet and cook for an additional 2-3 minutes.",
+    "In a small bowl, mix together the Korean chili flakes and a pinch of salt.",
+    "Add the chili flake mixture to the skillet and stir to combine.",
+    "Warm the puffed pepper wraps in the microwave for 10-15 seconds.",
+    "Assemble the wraps by placing a portion of the vegetable mixture onto each wrap.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "korean",
+    "snack",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/puffed-korean-peppers-wrap--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T10:26:30.130Z"
+}
