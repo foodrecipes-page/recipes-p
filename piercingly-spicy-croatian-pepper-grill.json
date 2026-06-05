@@ -1,0 +1,70 @@
+{
+  "slug": "piercingly-spicy-croatian-pepper-grill",
+  "title": "Grilled Croatian Sausage with Spicy Peppers",
+  "description": "A traditional Croatian-inspired dish featuring spicy sausages grilled to perfection and served with crunchy peppers.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Croatian sausages",
+      "amount": "4",
+      "notes": "Look for spicy options"
+    },
+    {
+      "name": "Spicy peppers",
+      "amount": "2",
+      "notes": "Pepperoncini or similar"
+    },
+    {
+      "name": "Piercingly sharp cheddar cheese",
+      "amount": "1 block",
+      "notes": "Optional"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (375°F).",
+    "Grill sausages for 5-7 minutes on each side, or until cooked through.",
+    "Meanwhile, grill peppers on each side for 3-5 minutes, or until slightly charred.",
+    "Slice peppers into thin strips.",
+    "If using cheese, slice into thin strips and set aside.",
+    "Once sausages are cooked, let them rest for 2 minutes.",
+    "Serve sausages with grilled peppers and onion.",
+    "Optional: top with sharp cheddar cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sausages",
+    "peppers",
+    "grilled",
+    "croatian",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piercingly-spicy-croatian-pepper-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T09:08:37.870Z"
+}
