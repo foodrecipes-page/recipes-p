@@ -13284,5 +13284,18 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "p"
+  },
+  {
+    "slug": "puffed-korean-peppers-wrap--chinese",
+    "title": "Korean Puffed Pepper Wrap",
+    "tags": [
+      "chinese",
+      "korean",
+      "snack",
+      "wrap"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "p"
   }
 ]
