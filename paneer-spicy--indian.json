@@ -1,78 +1,80 @@
 {
   "slug": "paneer-spicy--indian",
   "title": "Spicy Paneer Energy Balls",
-  "description": "A healthy Indian-inspired snack made with paneer and spices, perfect for a quick energy boost.",
+  "description": "A delicious and healthy Indian-inspired dinner recipe made with paneer, perfect for a quick meal or snack.",
   "cuisine": "indian",
   "diet": [
     "vegetarian",
     "gluten-free"
   ],
-  "meal": "snack",
+  "meal": "dinner",
   "ingredients": [
     {
-      "name": "Spicy Paneer",
-      "amount": "1 cup",
-      "notes": null
+      "name": "paneer",
+      "amount": "1 1/2 cups",
+      "notes": "crumbly paneer"
     },
     {
-      "name": "Whole Wheat Flour",
+      "name": "spicy",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh chilies"
+    },
+    {
+      "name": "oats",
       "amount": "1/2 cup",
-      "notes": null
+      "notes": "rolled oats"
     },
     {
-      "name": "Ginger Powder",
-      "amount": "1 tsp",
-      "notes": null
-    },
-    {
-      "name": "Cumin Powder",
-      "amount": "1 tsp",
-      "notes": null
-    },
-    {
-      "name": "Red Chili Powder",
-      "amount": "1/2 tsp",
-      "notes": null
-    },
-    {
-      "name": "Salt",
-      "amount": "1/4 tsp",
-      "notes": null
-    },
-    {
-      "name": "Ghee or Oil",
+      "name": "honey",
       "amount": "2 tbsp",
-      "notes": null
+      "notes": "optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "ghee",
+      "amount": "1 tsp",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
     }
   ],
   "instructions": [
-    "Preheat the oven to 350°F (180°C).",
-    "In a mixing bowl, combine spicy paneer, whole wheat flour, ginger powder, cumin powder, red chili powder, and salt.",
-    "Add ghee or oil to the mixture and mix well.",
-    "Knead the mixture until it forms a dough.",
-    "Make small balls from the dough, about 1-inch in diameter.",
-    "Place the energy balls on a baking sheet lined with parchment paper.",
-    "Bake in the preheated oven for 15-20 minutes, or until lightly browned.",
-    "Let the energy balls cool completely before serving."
+    "1. In a large mixing bowl, combine crumbly paneer, chopped chilies, oats, honey, lemon juice, and salt. Mix well.",
+    "2. Add ghee to the mixture and mix until it forms a dough.",
+    "3. Knead the dough for 2-3 minutes until it becomes smooth.",
+    "4. Divide the dough into small balls, about 1-inch in diameter.",
+    "5. Roll each ball between your palms to shape into smooth energy balls.",
+    "6. Place the energy balls on a baking sheet lined with parchment paper.",
+    "7. Refrigerate the energy balls for at least 30 minutes to set.",
+    "8. Serve chilled, or store in an airtight container for up to 5 days."
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 20,
-  "totalTimeMin": 35,
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
   "servings": 8,
   "difficulty": "easy",
   "tags": [
-    "indian-snack",
+    "indian",
     "energy-balls",
-    "paneer"
+    "paneer",
+    "snack",
+    "healthy"
   ],
   "nutrition": {
     "calories": 120,
-    "protein": 5,
+    "protein": 8,
     "carbs": 15,
-    "fat": 4
+    "fat": 6
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/paneer-spicy--indian",
   "providerUsed": "groq",
-  "createdAt": "2026-06-05T16:41:00.181Z"
+  "createdAt": "2026-06-05T16:41:05.771Z"
 }
