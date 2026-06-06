@@ -7248,18 +7248,15 @@
   },
   {
     "slug": "piquant-irish-rocket-salad",
-    "title": "Piquant Irish Rocket Salad",
+    "title": "Irish Salad with Piquant Vinaigrette",
     "tags": [
-      "citrusy",
-      "energizing",
       "irish",
-      "kombu",
-      "pescatarian",
-      "rocket",
-      "salad"
+      "salad",
+      "lunch",
+      "veggie"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 15,
+    "totalTimeMin": 10,
     "shard": "p"
   },
   {
