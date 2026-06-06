@@ -1,16 +1,17 @@
 {
   "slug": "puffy-plump-thai-chickpeas-pad-thai--vegetarian",
-  "title": "Thai Chickpea Stir Fry",
-  "description": "A spicy and flavorful vegetarian dish made with chickpeas and a variety of Thai ingredients. This recipe is quick to make and can be customized to suit your taste.",
+  "title": "Pad Thai with Chickpeas",
+  "description": "A vegetarian twist on the classic Thai noodle dish, made with chickpeas and a sweet and sour sauce.",
   "cuisine": "Thai",
   "diet": [
     "vegetarian"
   ],
-  "meal": "dinner",
+  "meal": "lunch",
   "ingredients": [
     {
-      "name": "pad thai noodles",
-      "amount": "8 oz"
+      "name": "rice noodles",
+      "amount": "1 package",
+      "notes": "about 1/2 pound"
     },
     {
       "name": "chickpeas",
@@ -18,61 +19,71 @@
       "notes": "drained and rinsed"
     },
     {
-      "name": "plump peanuts",
-      "amount": "1/4 cup",
-      "notes": "chopped"
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
     },
     {
-      "name": "thai red curry paste",
-      "amount": "2 tbsp"
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
     },
     {
-      "name": "puffy rice vinegar",
-      "amount": "2 tbsp"
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
     },
     {
-      "name": "chicken broth",
-      "amount": "2 cups"
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
     },
     {
-      "name": "brown sugar",
-      "amount": "1 tbsp"
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
     },
     {
       "name": "sugar",
-      "amount": "1 tsp"
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pad thai seasoning",
+      "amount": "1 packet"
+    },
+    {
+      "name": "chopped peanuts",
+      "amount": "1/4 cup",
+      "notes": "optional"
     }
   ],
   "instructions": [
-    "Cook pad thai noodles according to package instructions.",
-    "In a large skillet, heat 1 tbsp of oil over medium-high heat.",
-    "Add the curry paste and cook for 1 minute, stirring constantly.",
-    "Add the chickpeas, peanuts, and sauce ingredients to the skillet.",
-    "Bring the mixture to a simmer and cook for 5 minutes, stirring occasionally.",
-    "Add the cooked noodles to the skillet and toss to combine.",
-    "Cook for an additional 2 minutes, until the noodles are well coated with the sauce.",
-    "Serve hot and enjoy!"
+    "Cook the rice noodles according to package instructions. Drain and set aside.",
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the chickpeas and cook for 2-3 minutes.",
+    "In a small bowl, whisk together the tamarind paste, soy sauce, and sugar.",
+    "Add the tamarind mixture to the skillet and stir to combine.",
+    "Add the cooked noodles to the skillet and stir-fry for 2-3 minutes.",
+    "Sprinkle the pad thai seasoning over the noodles and stir-fry for another minute.",
+    "Transfer the noodles to a serving platter and top with chopped peanuts, if using.",
+    "Serve immediately and enjoy!"
   ],
-  "prepTimeMin": 10,
-  "cookTimeMin": 15,
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
   "totalTimeMin": 25,
   "servings": 4,
-  "difficulty": "easy",
+  "difficulty": "medium",
   "tags": [
-    "thai",
-    "stir-fry",
-    "chickpeas",
-    "vegetarian",
-    "easy"
+    "pad-thai",
+    "thai-food",
+    "vegetarian-options"
   ],
   "nutrition": {
-    "calories": 420,
-    "protein": 18,
-    "carbs": 60,
-    "fat": 20
+    "calories": 450,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/puffy-plump-thai-chickpeas-pad-thai--vegetarian",
   "providerUsed": "groq",
-  "createdAt": "2026-06-03T01:17:07.112Z"
+  "createdAt": "2026-06-03T02:46:25.071Z"
 }
