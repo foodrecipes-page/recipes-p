@@ -1,0 +1,97 @@
+{
+  "slug": "piercingly-spicy-croatian-pepper-grill--thai",
+  "title": "Grilled Thai Pepper Chicken",
+  "description": "A spicy Thai-inspired dish featuring grilled chicken and pepper, served with a side of traditional Thai flavors.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "4 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Thai red pepper",
+      "amount": "2",
+      "notes": "seeded, sliced"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": "for grilling"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated, for marinade"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced, for marinade"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine fish sauce, soy sauce, brown sugar, ginger, garlic, and lime juice to make the marinade.",
+    "2. Place the chicken in a large bowl and pour the marinade over it. Toss to coat and refrigerate for at least 2 hours or overnight.",
+    "3. Preheat the grill to medium-high heat.",
+    "4. Remove the chicken from the marinade and season with salt and pepper.",
+    "5. Grill the chicken for 5-7 minutes per side, or until it reaches an internal temperature of 165°F.",
+    "6. Meanwhile, brush the slices of Thai red pepper with coconut oil and grill for 2-3 minutes per side, or until they are slightly charred.",
+    "7. Once the chicken is cooked, let it rest for 5 minutes before slicing it thinly.",
+    "8. Serve the grilled chicken with the charred Thai red peppers and garnish with chopped cilantro.",
+    "9. Serve with steamed jasmine rice or noodles, if desired.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "grilled",
+    "chicken",
+    "pepper",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piercingly-spicy-croatian-pepper-grill--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T11:54:25.917Z"
+}
