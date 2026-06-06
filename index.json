@@ -13306,5 +13306,17 @@
     "cuisine": "thai",
     "totalTimeMin": 40,
     "shard": "p"
+  },
+  {
+    "slug": "pleasantly-poached-croatian-vegetable-bowl--indian",
+    "title": "Vegetable Korma",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "korma"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "p"
   }
 ]
