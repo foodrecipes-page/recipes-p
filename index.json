@@ -7309,16 +7309,16 @@
   },
   {
     "slug": "piquant-jamaican-fish-stew",
-    "title": "Piquant Jamaican Fish Stew",
+    "title": "Spicy Jamaican Stew",
     "tags": [
-      "comfort-food",
-      "jamaican-cuisine",
-      "one-pot",
-      "seafood",
-      "spicy"
+      "caribbean",
+      "fish",
+      "jamaican",
+      "stew",
+      "seafood"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 45,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -9214,17 +9214,15 @@
   },
   {
     "slug": "poached-russian-gooey-currant-stir-fry",
-    "title": "Poached Russian Gooey Currant Stir-fry",
+    "title": "Currant Russian Pancakes",
     "tags": [
-      "poached",
-      "stir-fry",
-      "salty",
-      "gooey",
-      "post-workout",
-      "russian-dish"
+      "breakfast",
+      "pancakes",
+      "currant",
+      "russian"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 40,
+    "cuisine": "European",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
