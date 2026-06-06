@@ -13334,16 +13334,28 @@
   },
   {
     "slug": "puffy-plump-thai-chickpeas-pad-thai--vegetarian",
-    "title": "Thai Chickpea Stir Fry",
+    "title": "Pad Thai with Chickpeas",
     "tags": [
-      "thai",
-      "stir-fry",
-      "chickpeas",
-      "vegetarian",
-      "easy"
+      "pad-thai",
+      "thai-food",
+      "vegetarian-options"
     ],
     "cuisine": "Thai",
     "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "paneer-spicy--indian",
+    "title": "Spicy Paneer Energy Balls",
+    "tags": [
+      "indian",
+      "energy-balls",
+      "paneer",
+      "snack",
+      "healthy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 10,
     "shard": "p"
   }
 ]
