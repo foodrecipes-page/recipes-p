@@ -1,0 +1,87 @@
+{
+  "slug": "poached-russian-gooey-currant-stir-fry",
+  "title": "Currant Russian Pancakes",
+  "description": "A delicious and fluffy pancake recipe using currant and Russian flavors for a unique breakfast treat.",
+  "cuisine": "European",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "currant",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "replace with gluten-free flour for dietary restrictions"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "egg substitute",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "melted vegan butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "poached",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "stir",
+      "amount": "1 tsp",
+      "notes": "ground cinnamon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, sugar, and stir.",
+    "In a separate bowl, whisk together the egg substitute, almond milk, and melted vegan butter.",
+    "Add the wet ingredients to the dry ingredients and stir until combined.",
+    "Gently fold in the currant and poached.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet.",
+    "Cook for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve warm with your favorite toppings.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Reheat in a toaster or toaster oven before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "currant",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/poached-russian-gooey-currant-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T14:27:00.319Z"
+}
