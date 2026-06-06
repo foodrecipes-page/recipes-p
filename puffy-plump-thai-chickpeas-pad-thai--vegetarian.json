@@ -1,0 +1,78 @@
+{
+  "slug": "puffy-plump-thai-chickpeas-pad-thai--vegetarian",
+  "title": "Thai Chickpea Stir Fry",
+  "description": "A spicy and flavorful vegetarian dish made with chickpeas and a variety of Thai ingredients. This recipe is quick to make and can be customized to suit your taste.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pad thai noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "plump peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "thai red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "puffy rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook pad thai noodles according to package instructions.",
+    "In a large skillet, heat 1 tbsp of oil over medium-high heat.",
+    "Add the curry paste and cook for 1 minute, stirring constantly.",
+    "Add the chickpeas, peanuts, and sauce ingredients to the skillet.",
+    "Bring the mixture to a simmer and cook for 5 minutes, stirring occasionally.",
+    "Add the cooked noodles to the skillet and toss to combine.",
+    "Cook for an additional 2 minutes, until the noodles are well coated with the sauce.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "chickpeas",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/puffy-plump-thai-chickpeas-pad-thai--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T01:17:07.112Z"
+}
