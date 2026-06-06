@@ -13297,5 +13297,19 @@
     "cuisine": "chinese",
     "totalTimeMin": 18,
     "shard": "p"
+  },
+  {
+    "slug": "piercingly-spicy-croatian-pepper-grill--thai",
+    "title": "Grilled Thai Pepper Chicken",
+    "tags": [
+      "thai",
+      "grilled",
+      "chicken",
+      "pepper",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "p"
   }
 ]
