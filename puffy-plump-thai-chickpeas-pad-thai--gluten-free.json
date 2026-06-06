@@ -1,0 +1,83 @@
+{
+  "slug": "puffy-plump-thai-chickpeas-pad-thai--gluten-free",
+  "title": "Thai Chickpea Stir Fry",
+  "description": "A quick and easy gluten-free Thai-inspired stir fry made with chickpeas and served as a snack.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": null
+    },
+    {
+      "name": "puffy",
+      "amount": "2 cups (puffed rice cereal)",
+      "notes": "crushed"
+    },
+    {
+      "name": "plump",
+      "amount": "2 tablespoons (pumpkin seeds)",
+      "notes": "toasted"
+    },
+    {
+      "name": "Thai chili sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "fish sauce (gluten-free)",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "Add the toasted pumpkin seeds and cook for 1 minute, until fragrant.",
+    "Add the crushed puffed rice cereal and cook for 2 minutes, until lightly browned.",
+    "Add the chickpeas, Thai chili sauce, lime juice, fish sauce, and brown sugar. Stir to combine.",
+    "Cook for an additional 2-3 minutes, until the chickpeas are coated in the sauce.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with additional toasted pumpkin seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chickpea",
+    "stir-fry",
+    "gluten-free",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "11g",
+    "carbs": "55g",
+    "fat": "8g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/puffy-plump-thai-chickpeas-pad-thai--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T00:05:07.445Z"
+}
