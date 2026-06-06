@@ -13318,5 +13318,32 @@
     "cuisine": "indian",
     "totalTimeMin": 30,
     "shard": "p"
+  },
+  {
+    "slug": "puffy-plump-thai-chickpeas-pad-thai--gluten-free",
+    "title": "Thai Chickpea Stir Fry",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "chickpeas",
+      "gluten-free"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 18,
+    "shard": "p"
+  },
+  {
+    "slug": "puffy-plump-thai-chickpeas-pad-thai--vegetarian",
+    "title": "Thai Chickpea Stir Fry",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "chickpeas",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "p"
   }
 ]
