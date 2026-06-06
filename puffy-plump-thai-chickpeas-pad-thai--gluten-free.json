@@ -1,83 +1,90 @@
 {
   "slug": "puffy-plump-thai-chickpeas-pad-thai--gluten-free",
   "title": "Thai Chickpea Stir Fry",
-  "description": "A quick and easy gluten-free Thai-inspired stir fry made with chickpeas and served as a snack.",
+  "description": "A quick and flavorful stir fry made with chickpeas, Thai spices, and a hint of puffy texture. Perfect for a gluten-free meal.",
   "cuisine": "Thai",
   "diet": [
     "gluten-free"
   ],
-  "meal": "snack",
+  "meal": "dinner",
   "ingredients": [
     {
       "name": "chickpeas",
       "amount": "1 can (14 oz)",
-      "notes": null
+      "notes": "drained and rinsed"
     },
     {
       "name": "puffy",
-      "amount": "2 cups (puffed rice cereal)",
+      "amount": "1 cup",
       "notes": "crushed"
     },
     {
-      "name": "plump",
-      "amount": "2 tablespoons (pumpkin seeds)",
-      "notes": "toasted"
+      "name": "thai",
+      "amount": "2 tbsp",
+      "notes": "red curry paste"
     },
     {
-      "name": "Thai chili sauce",
-      "amount": "2 tablespoons",
-      "notes": null
+      "name": "pad",
+      "amount": "1 cup",
+      "notes": "rice noodles"
     },
     {
-      "name": "lime juice",
-      "amount": "1 tablespoon",
-      "notes": null
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable oil"
     },
     {
-      "name": "fish sauce (gluten-free)",
-      "amount": "1 teaspoon",
-      "notes": null
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
     },
     {
-      "name": "brown sugar",
-      "amount": "1 teaspoon",
-      "notes": null
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
     },
     {
       "name": "salt",
-      "amount": "1/4 teaspoon",
-      "notes": null
+      "amount": "to taste",
+      "notes": "optional"
     }
   ],
   "instructions": [
-    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
-    "Add the toasted pumpkin seeds and cook for 1 minute, until fragrant.",
-    "Add the crushed puffed rice cereal and cook for 2 minutes, until lightly browned.",
-    "Add the chickpeas, Thai chili sauce, lime juice, fish sauce, and brown sugar. Stir to combine.",
-    "Cook for an additional 2-3 minutes, until the chickpeas are coated in the sauce.",
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add curry paste and cook for another minute, until fragrant.",
+    "Add chickpeas, puffy, and noodles. Stir-fry for 2-3 minutes, until combined.",
+    "Add soy sauce and sugar (if using). Stir-fry for another minute.",
     "Season with salt to taste.",
-    "Serve hot, garnished with additional toasted pumpkin seeds if desired."
+    "Serve hot, garnished with fresh herbs (optional).",
+    "Cook time may vary depending on your wok or skillet. Adjust as needed.",
+    "Adjust seasoning and sauce as needed.",
+    "Serve immediately and enjoy!"
   ],
   "prepTimeMin": 10,
-  "cookTimeMin": 10,
-  "totalTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
   "servings": 4,
-  "difficulty": "medium",
+  "difficulty": "easy",
   "tags": [
     "thai",
-    "chickpea",
     "stir-fry",
-    "gluten-free",
-    "snack"
+    "chickpeas",
+    "gluten-free"
   ],
   "nutrition": {
-    "calories": 320,
-    "protein": "11g",
-    "carbs": "55g",
-    "fat": "8g"
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/puffy-plump-thai-chickpeas-pad-thai--gluten-free",
   "providerUsed": "groq",
-  "createdAt": "2026-06-03T00:05:07.445Z"
+  "createdAt": "2026-06-03T01:16:53.800Z"
 }
