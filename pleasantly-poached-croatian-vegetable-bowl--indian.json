@@ -1,0 +1,66 @@
+{
+  "slug": "pleasantly-poached-croatian-vegetable-bowl--indian",
+  "title": "Vegetable Korma",
+  "description": "A creamy Indian dish made with a variety of vegetables in a mild spiced sauce. Serve over rice or with naan bread.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pleasantly",
+      "amount": "1",
+      "notes": "use a flavorful oil like vegetable or canola"
+    },
+    {
+      "name": "poached",
+      "amount": "1",
+      "notes": "use low-sodium chicken broth"
+    },
+    {
+      "name": "croatian",
+      "amount": "1 cup",
+      "notes": "any variety of bell pepper works"
+    },
+    {
+      "name": "vegetable",
+      "amount": "2",
+      "notes": "such as carrots, zucchini, and yellow squash"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add bell peppers and cook until tender, about 3-4 minutes.",
+    "Add the chopped vegetables and cook until they start to soften, about 5 minutes.",
+    "Stir in the curry powder and cook for 1 minute.",
+    "Add the poached and cook until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "korma"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pleasantly-poached-croatian-vegetable-bowl--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T17:25:57.105Z"
+}
