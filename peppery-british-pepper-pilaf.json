@@ -1,0 +1,77 @@
+{
+  "slug": "peppery-british-pepper-pilaf",
+  "title": "Peppery British Pilaf",
+  "description": "A flavorful and aromatic British-inspired pilaf dish infused with the spiciness of pepper and peppery notes.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Peppercorns",
+      "amount": "2tsp",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pilaf spice mix",
+      "amount": "2tsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "600ml",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan and sauté the onion until translucent.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the rice and cook for 2 minutes.",
+    "Add the pilaf spice mix and cook for 1 minute.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce heat to low, cover and simmer for 20 minutes.",
+    "Fluff the pilaf with a fork and season with peppercorns and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "pilaf",
+    "peppery"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-british-pepper-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:10:49.894Z"
+}
