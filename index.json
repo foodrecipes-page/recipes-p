@@ -6262,16 +6262,14 @@
   },
   {
     "slug": "pillowy-quick-uruguayan-herbal-dish-one-pot",
-    "title": "pillowy quick uruguayan herbal dish",
+    "title": "Uruguayan Pillowy Delight",
     "tags": [
-      "diabetic-friendly",
-      "herbal",
-      "one-pot",
       "uruguayan",
-      "weeknight"
+      "vegetarian",
+      "quick-and-easy"
     ],
     "cuisine": "uruguayan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -6394,18 +6392,14 @@
   },
   {
     "slug": "pillowy-turkish-iceberg-lettuce-kuru-fasulye",
-    "title": "Pillowy Turkish Iceberg Lettuce Kuru Fasulye",
+    "title": "Stuffed Turkish Lettuce Wraps",
     "tags": [
-      "bhuna",
-      "keto-friendly",
-      "lettuce",
-      "low-carb",
-      "romantic",
-      "stew",
-      "turkish"
+      "turkish",
+      "vegetarian",
+      "wraps"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 75,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -8630,17 +8624,15 @@
   },
   {
     "slug": "pleasingly-dense-mexican-chwinamul-rajas-con-crema",
-    "title": "Pleasingly Dense Mexican Chwinamul Rajas Con Crema",
+    "title": "Mexican Rajas con Crema Casserole",
     "tags": [
-      "clay-pot-cooking",
-      "comfort-food",
-      "low-fat",
-      "mexican-food",
-      "rajas-con-crema",
-      "vegetarian"
+      "mexican",
+      "casserole",
+      "crema",
+      "rajas"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
@@ -12191,17 +12183,16 @@
   },
   {
     "slug": "purely-crisp-japanese-tofu-noodles",
-    "title": "Purely Crisp Japanese Tofu Noodles",
+    "title": "Japanese Tofu Noodle Stir-Fry",
     "tags": [
-      "healthy-recipe",
-      "japanese-cuisine",
-      "noodle-dish",
-      "ovo-vegetarian",
-      "post-workout",
-      "quick-meal"
+      "vegetarian",
+      "gluten-free",
+      "stir-fry",
+      "noodles",
+      "tofu"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
