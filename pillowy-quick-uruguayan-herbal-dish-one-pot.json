@@ -1,0 +1,66 @@
+{
+  "slug": "pillowy-quick-uruguayan-herbal-dish-one-pot",
+  "title": "Uruguayan Pillowy Delight",
+  "description": "A quick and delicious dish made with uruguayan flair. Perfect for a weeknight dinner.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pillowy",
+      "amount": "1 package"
+    },
+    {
+      "name": "one",
+      "amount": "1",
+      "notes": "one egg"
+    },
+    {
+      "name": "herbal",
+      "amount": "1 cup",
+      "notes": "fresh herbs such as parsley or cilantro"
+    },
+    {
+      "name": "pot",
+      "amount": "1 medium",
+      "notes": "diced potatoes"
+    },
+    {
+      "name": "quick",
+      "amount": "1 cup",
+      "notes": "quick-cooking vegetables such as bell peppers or zucchini"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Boil the diced potatoes in a pot of salted water until they are tender.",
+    "In a separate pot, sauté the quick-cooking vegetables until they are softened.",
+    "In a large bowl, combine the cooked potatoes, sautéed vegetables, and fresh herbs.",
+    "Crack in the egg and mix until the ingredients are well combined.",
+    "Pour the mixture into a baking dish and top with the pillowy dough.",
+    "Bake in the preheated oven for 20-25 minutes, or until the dough is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "vegetarian",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-quick-uruguayan-herbal-dish-one-pot",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:58:25.508Z"
+}
