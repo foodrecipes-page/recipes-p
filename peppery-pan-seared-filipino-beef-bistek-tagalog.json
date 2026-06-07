@@ -1,0 +1,79 @@
+{
+  "slug": "peppery-pan-seared-filipino-beef-bistek-tagalog",
+  "title": "Bistek Tagalog",
+  "description": "A classic Filipino dish made with thinly sliced beef, onions, and a hint of patis. This recipe is a simple and flavorful take on the traditional bistek tagalog.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (thinly sliced)",
+      "amount": "1 pound",
+      "notes": "preferably ribeye or sirloin"
+    },
+    {
+      "name": "onion (thinly sliced)",
+      "amount": "1 medium",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "patis (fish sauce)",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "patis (fish sauce)",
+      "amount": "1 tablespoon",
+      "notes": "optional, for added flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add beef and cook until browned, about 3-4 minutes per side.",
+    "Remove beef from pan and set aside.",
+    "Add more oil if necessary, then sauté onions until caramelized, about 5 minutes.",
+    "Add patis and stir to combine.",
+    "Return beef to pan and pour in patis mixture.",
+    "Simmer for 2-3 minutes, or until sauce has thickened.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with sliced onions and a sprinkle of black pepper."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bistek",
+    "filipino",
+    "beef",
+    "onion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-pan-seared-filipino-beef-bistek-tagalog",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:09:57.935Z"
+}
