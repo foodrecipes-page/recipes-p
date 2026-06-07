@@ -1,0 +1,80 @@
+{
+  "slug": "peppery-jamaican-chicken-stew",
+  "title": "Jamaican Chicken Stew",
+  "description": "A hearty and flavorful stew made with chicken, jamaican spices, and a kick of peppery heat.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "meat",
+    "spicy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1.5 lbs"
+    },
+    {
+      "name": "jamaican spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "stew meat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the jamaican spice blend and peppercorns to the pot and cook for 1 minute.",
+    "Add the diced tomatoes, stew meat, and chicken broth to the pot.",
+    "Return the chicken to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the chicken is cooked through.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "caribbean",
+    "stew",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-jamaican-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:42:38.521Z"
+}
