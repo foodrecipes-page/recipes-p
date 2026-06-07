@@ -1,0 +1,66 @@
+{
+  "slug": "pillowy-turkish-iceberg-lettuce-kuru-fasulye",
+  "title": "Stuffed Turkish Lettuce Wraps",
+  "description": "A flavorful and refreshing take on traditional wraps, featuring tender lettuce leaves filled with a savory mixture of kuru, fasulye, and spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lettuce",
+      "amount": "1 head"
+    },
+    {
+      "name": "kuru",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fasulye",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pillowy bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "turkish spices",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "iceberg lettuce",
+      "amount": "1 head (for garnish)"
+    }
+  ],
+  "instructions": [
+    "1. Wash and dry the lettuce leaves.",
+    "2. In a pan, heat the Turkish spices over medium heat.",
+    "3. Add the kuru and fasulye, cooking until the mixture is heated through.",
+    "4. Lay a lettuce leaf flat and spoon a small amount of the kuru-fasulye mixture onto the center of the leaf.",
+    "5. Top with a slice of pillowy bread.",
+    "6. Fold the lettuce leaves over the filling to create a wrap.",
+    "7. Repeat with the remaining ingredients.",
+    "8. Garnish with iceberg lettuce and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "vegetarian",
+    "wraps"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-turkish-iceberg-lettuce-kuru-fasulye",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:45:07.830Z"
+}
