@@ -1,0 +1,75 @@
+{
+  "slug": "purple-tinged-paleo-friend-ethiopian-noodles-tagine",
+  "title": "Ethiopian Noodle Stew",
+  "description": "A flavorful and hearty stew made with noodles, inspired by Ethiopian cuisine. This paleo-friendly dish is perfect for a cozy dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ethiopian noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Purple cabbage",
+      "amount": "1 medium head",
+      "notes": "shredded"
+    },
+    {
+      "name": "Tinged carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Paleo beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Friend onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tagine spices",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onions and cook until softened, about 5 minutes.",
+    "Add the shredded cabbage and sliced carrots, cook for an additional 5 minutes.",
+    "Add the paleo beef broth and tagine spices, bring to a boil.",
+    "Reduce heat to low and simmer for 10-15 minutes, or until the noodles are tender.",
+    "Add the Ethiopian noodles to the pot and cook for an additional 2-3 minutes, or until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paleo",
+    "ethiopian",
+    "stew",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purple-tinged-paleo-friend-ethiopian-noodles-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:42:27.896Z"
+}
