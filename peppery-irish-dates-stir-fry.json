@@ -1,0 +1,53 @@
+{
+  "slug": "peppery-irish-dates-stir-fry",
+  "title": "Irish Date Stir Fry",
+  "description": "A sweet and savory stir fry dish featuring Irish bacon and dates.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish bacon",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Dates",
+      "amount": "4",
+      "notes": "pitted"
+    },
+    {
+      "name": "Peppery",
+      "amount": "1 tsp",
+      "notes": "black pepper"
+    }
+  ],
+  "instructions": [
+    "Cook Irish bacon in a pan over medium heat until crispy.",
+    "Add pitted dates to the pan and cook for 2-3 minutes.",
+    "Stir in black pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "vegan-adjacent",
+    "breakfast-staple"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-irish-dates-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:11:44.466Z"
+}
