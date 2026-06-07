@@ -3740,10 +3740,15 @@
   },
   {
     "slug": "peppery-jamaican-chicken-stew",
-    "title": "Peppery Jamaican Chicken Stew",
-    "tags": [],
-    "cuisine": "Jamaican",
-    "totalTimeMin": null,
+    "title": "Jamaican Chicken Stew",
+    "tags": [
+      "chicken",
+      "caribbean",
+      "stew",
+      "spicy"
+    ],
+    "cuisine": "Caribbean",
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
@@ -12846,17 +12851,15 @@
   },
   {
     "slug": "purple-tinged-paleo-friend-ethiopian-noodles-tagine",
-    "title": "Ethiopian Inspired Purple Noodles Tagine",
+    "title": "Ethiopian Noodle Stew",
     "tags": [
-      "ethiopian",
-      "gluten-free",
-      "nightshade-free",
-      "one-pan",
       "paleo",
-      "weeknight"
+      "ethiopian",
+      "stew",
+      "noodles"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
