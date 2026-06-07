@@ -1,0 +1,84 @@
+{
+  "slug": "paleo-friendly-date-night-egyptian-katsuobushi-tagine",
+  "title": "Egyptian Night Tagine",
+  "description": "A hearty and aromatic tagine recipe made with Egyptian spices, night shade-free ingredients, and served with crusty bread.",
+  "cuisine": "North African",
+  "diet": [
+    "paleo",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "date",
+      "amount": "1 cup pitted and chopped"
+    },
+    {
+      "name": "night",
+      "amount": "1 cup chopped (use eggplant or portobello mushrooms as substitute)",
+      "notes": "Note: Use a night shade-free option if necessary."
+    },
+    {
+      "name": "egyptian",
+      "amount": "1 tsp ground coriander"
+    },
+    {
+      "name": "egyptian",
+      "amount": "1 tsp ground cumin"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 large, diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large, diced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay tagine or Dutch oven over medium heat.",
+    "Add onion and garlic, cooking until softened.",
+    "Add cumin, coriander, and paprika, cooking for 1 minute.",
+    "Add night and tagine, cooking for 5 minutes.",
+    "Add dates and salt, cooking for an additional 5 minutes.",
+    "Simmer over low heat for 20-25 minutes or until the flavors have melded together and the night is tender.",
+    "Serve hot with crusty bread, garnished with fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tagine",
+    "egyptian",
+    "paleo",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/paleo-friendly-date-night-egyptian-katsuobushi-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:12:07.454Z"
+}
