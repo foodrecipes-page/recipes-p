@@ -3690,16 +3690,14 @@
   },
   {
     "slug": "peppery-irish-dates-stir-fry",
-    "title": "Peppery Irish Dates Stir-fry",
+    "title": "Irish Date Stir Fry",
     "tags": [
-      "peppery",
-      "crisp",
-      "irish-dates",
-      "full-fat-sour-cream",
-      "nut-free"
+      "irish",
+      "vegan-adjacent",
+      "breakfast-staple"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 13,
     "shard": "p"
   },
   {
@@ -5633,16 +5631,16 @@
   },
   {
     "slug": "peruvian-style-pan-seared-peruvian-beef-saltado",
-    "title": "Peruvian-Style Pan-Seared Peruvian Beef Saltado",
+    "title": "Peruvian Beef Stir Fry: Saltado",
     "tags": [
       "beef",
-      "one-pan",
       "peruvian",
-      "sugar-free",
-      "szechuan-peppercorns"
+      "stir-fry",
+      "saltado",
+      "rice"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
