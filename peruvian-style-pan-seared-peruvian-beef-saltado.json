@@ -1,0 +1,92 @@
+{
+  "slug": "peruvian-style-pan-seared-peruvian-beef-saltado",
+  "title": "Peruvian Beef Stir Fry: Saltado",
+  "description": "A classic Peruvian stir-fry dish made with beef, onions, tomatoes, and French fries, served with rice.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips (sirloin or ribeye)",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "French fries",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1 small",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the beef strips and cook until browned, about 3-4 minutes. Remove from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the sliced onion and cook until translucent, about 3-4 minutes.",
+    "Add the diced tomato and cook for an additional 2 minutes.",
+    "Add the French fries and cook until they start to brown, about 2-3 minutes.",
+    "Add the cooked beef back into the skillet and stir to combine with the vegetables and French fries.",
+    "Add the soy sauce and aji amarillo pepper (if using) to the skillet and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve the Peruvian beef stir-fry over rice and enjoy!",
+    "Optional: Add a fried egg on top of the stir-fry for a more authentic Peruvian Saltado experience."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "peruvian",
+    "stir-fry",
+    "saltado",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 45,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peruvian-style-pan-seared-peruvian-beef-saltado",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:29:01.071Z"
+}
