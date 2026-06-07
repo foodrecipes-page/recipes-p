@@ -1641,16 +1641,14 @@
   },
   {
     "slug": "peppery-british-pepper-pilaf",
-    "title": "Peppery British Pepper Pilaf",
+    "title": "Peppery British Pilaf",
     "tags": [
       "british",
-      "comfort-food",
-      "low-sodium",
-      "meal-prep",
-      "weeknight"
+      "pilaf",
+      "peppery"
     ],
     "cuisine": "British",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
