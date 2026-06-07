@@ -1440,16 +1440,12 @@
   },
   {
     "slug": "peppered-filipino-shrimp-spring-rolls",
-    "title": "Peppered Filipino Shrimp Spring-Rolls",
+    "title": "Filipino-Style Shrimp and Spring Rolls",
     "tags": [
-      "clotted-cream",
-      "dashi",
-      "filipino",
-      "low-carb-friendly",
-      "lumpia",
-      "peppery",
       "shrimp",
-      "spring-rolls"
+      "spring-rolls",
+      "filipino",
+      "vegetarian"
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 35,
@@ -4361,17 +4357,15 @@
   },
   {
     "slug": "peppery-pan-seared-filipino-beef-bistek-tagalog",
-    "title": "Peppery Pan-Seared Filipino Beef Bistek Tagalog",
+    "title": "Bistek Tagalog",
     "tags": [
-      "beef",
-      "breakfast",
-      "eggs",
+      "bistek",
       "filipino",
-      "one-pan",
-      "tagalog"
+      "beef",
+      "onion"
     ],
-    "cuisine": "filipino",
-    "totalTimeMin": 25,
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
