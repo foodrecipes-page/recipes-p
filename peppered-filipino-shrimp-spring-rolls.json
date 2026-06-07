@@ -1,0 +1,83 @@
+{
+  "slug": "peppered-filipino-shrimp-spring-rolls",
+  "title": "Filipino-Style Shrimp and Spring Rolls",
+  "description": "Crispy Filipino-style spring rolls filled with succulent shrimp and crunchy vegetables, served with a sweet and sour dipping sauce.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "spring rolls",
+      "amount": "1 package",
+      "notes": "peppered"
+    },
+    {
+      "name": "spring onions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Prepare the shrimp by marinating them in a mixture of minced garlic, salt, and pepper for at least 30 minutes.",
+    "Heat oil in a pan over medium heat and sauté the shrimp until they are pink and cooked through.",
+    "In a separate pan, heat oil over medium heat and sauté the chopped spring onions and shredded cabbage until they are tender.",
+    "Add the grated carrots to the pan and cook for an additional 2 minutes.",
+    "In a large bowl, combine the cooked shrimp, sautéed vegetables, and chopped cabbage.",
+    "Fill the peppered spring rolls with the shrimp and vegetable mixture, leaving a small border around the edges.",
+    "Seal the spring rolls by brushing the edges with a little water and pressing them together.",
+    "Heat oil in a deep frying pan over medium heat and fry the spring rolls until they are golden brown and crispy.",
+    "Drain the fried spring rolls on paper towels and serve hot with a sweet and sour dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "shrimp",
+    "spring-rolls",
+    "filipino",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppered-filipino-shrimp-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:04:55.406Z"
+}
