@@ -1,0 +1,80 @@
+{
+  "slug": "purely-crisp-japanese-tofu-noodles",
+  "title": "Japanese Tofu Noodle Stir-Fry",
+  "description": "Quick and easy Japanese-inspired stir-fry with noodles, crispy tofu, and vegetables.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (12 oz)",
+      "notes": "Crispy"
+    },
+    {
+      "name": "Japanese Noodles",
+      "amount": "8 oz",
+      "notes": "Soba or Udon"
+    },
+    {
+      "name": "Purely Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "For frying"
+    },
+    {
+      "name": "Crisp Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Purely Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Crisp Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and grated ginger and stir-fry for 1 minute.",
+    "Add the block of tofu and cook until golden brown on all sides, about 5-7 minutes.",
+    "Add the noodles to the skillet and stir-fry for 2-3 minutes.",
+    "In a small bowl, whisk together soy sauce and 1 tablespoon of water.",
+    "Pour the soy sauce mixture over the noodles and tofu, and stir-fry for another 2-3 minutes.",
+    "Transfer the noodles and tofu to a serving dish, and garnish with chopped green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "stir-fry",
+    "noodles",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-crisp-japanese-tofu-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:45:39.176Z"
+}
