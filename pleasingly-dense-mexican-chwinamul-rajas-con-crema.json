@@ -1,0 +1,76 @@
+{
+  "slug": "pleasingly-dense-mexican-chwinamul-rajas-con-crema",
+  "title": "Mexican Rajas con Crema Casserole",
+  "description": "A creamy and flavorful Mexican casserole featuring roasted rajas and a rich crema topping. This dish is perfect for a cozy dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rajas",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Con",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Crema",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chwinamul",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "Pleasingly",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh cilantro"
+    },
+    {
+      "name": "Dense",
+      "amount": "1/2 cup",
+      "notes": "grated Monterey Jack cheese"
+    },
+    {
+      "name": "Mexican",
+      "amount": "1 tsp",
+      "notes": "dried oregano"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, roast the rajas over medium heat until tender.",
+    "In a separate pan, sauté the con until softened.",
+    "In a large bowl, combine the rajas, con, chwinamul, and crema.",
+    "Stir in the pleasingly and dense.",
+    "Transfer the mixture to a baking dish and top with additional crema.",
+    "Bake for 20-25 minutes or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "casserole",
+    "crema",
+    "rajas"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pleasingly-dense-mexican-chwinamul-rajas-con-crema",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:54:22.524Z"
+}
