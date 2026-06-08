@@ -1,0 +1,78 @@
+{
+  "slug": "peppery-dense-croatian-asparagus-paella",
+  "title": "Pan-Seared Asparagus Paella",
+  "description": "A flavorful twist on the classic Spanish dish, featuring tender asparagus and a hint of peppery spice.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "croatian olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "peppery smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "for added depth"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "to season"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "to season"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and sauté for 1 minute, until fragrant.",
+    "Add the asparagus to the skillet and sauté for 3-4 minutes, until tender.",
+    "Add the paella rice to the skillet and stir to combine with the asparagus and garlic.",
+    "Add the smoked paprika and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the rice is lightly toasted.",
+    "Season with salt and pepper to taste.",
+    "Serve the paella hot, garnished with additional asparagus if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asparagus",
+    "paella",
+    "spanish",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-dense-croatian-asparagus-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:14:03.773Z"
+}
