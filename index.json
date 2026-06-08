@@ -13390,5 +13390,70 @@
     "cuisine": "thai",
     "totalTimeMin": 22,
     "shard": "p"
+  },
+  {
+    "slug": "paneer-spicy--japanese",
+    "title": "Spicy Paneer Teriyaki",
+    "tags": [
+      "japanese-cuisine",
+      "paneer-recipes",
+      "spicy-food"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "paneer-spicy--french",
+    "title": "Spicy Paneer Crepes",
+    "tags": [
+      "paneer",
+      "crepes",
+      "spicy"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "paneer-spicy--vegan",
+    "title": "Spicy Paneer-Free Vegan Wrap",
+    "tags": [
+      "vegan",
+      "spicy",
+      "wrap",
+      "tofu",
+      "chickpeas",
+      "vegetables"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "paneer-spicy--keto",
+    "title": "Spicy Paneer Keto Kebabs",
+    "tags": [
+      "indian",
+      "keto",
+      "paneer",
+      "spicy"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 23,
+    "shard": "p"
+  },
+  {
+    "slug": "paneer-spicy--german",
+    "title": "Paneer Spätzle mit Spicy Soße",
+    "tags": [
+      "german",
+      "spätzle",
+      "paneer",
+      "spicy"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "p"
   }
 ]
