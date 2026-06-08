@@ -5280,16 +5280,18 @@
   },
   {
     "slug": "perfectly-crisp-spanish-andouille-paella",
-    "title": "Perfectly Crisp Spanish Andouille Paella",
+    "title": "Spanish-Style Paella with Crisp Chorizo",
     "tags": [
-      "andouille-sausage",
-      "crispy-rice",
-      "one-pan",
-      "spanish-cuisine",
-      "sunday-dinner"
+      "spanish",
+      "paella",
+      "chorizo",
+      "andouille",
+      "sausage",
+      "rice",
+      "seafood"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "p"
   },
   {
@@ -7126,16 +7128,16 @@
   },
   {
     "slug": "piquant-french-tofu-galette",
-    "title": "Piquant French Tofu Galette",
+    "title": "French Galette with Piquant Tofu Filling",
     "tags": [
-      "french-inspired",
-      "low-fat",
-      "steamed-dish",
-      "tofu-based",
-      "vegetarian-friendly"
+      "vegetarian",
+      "french",
+      "galette",
+      "piquant",
+      "tofu"
     ],
     "cuisine": "French",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
@@ -13333,6 +13335,60 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 10,
+    "shard": "p"
+  },
+  {
+    "slug": "paneer-spicy--mexican",
+    "title": "Spicy Paneer Quesadilla",
+    "tags": [
+      "mexican",
+      "indian",
+      "vegetarian",
+      "quesadilla",
+      "paneer"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "paneer-spicy--italian",
+    "title": "Spicy Paneer Fettuccine",
+    "tags": [
+      "italian",
+      "creamy",
+      "spicy",
+      "paneer",
+      "fettuccine"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
+    "slug": "paneer-spicy--chinese",
+    "title": "Spicy Paneer Stir Fry",
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "paneer",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "paneer-spicy--thai",
+    "title": "Thai Paneer Stir Fry",
+    "tags": [
+      "thai",
+      "paneer",
+      "stir-fry",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 22,
     "shard": "p"
   }
 ]
