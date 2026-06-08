@@ -1,0 +1,71 @@
+{
+  "slug": "paneer-spicy--german",
+  "title": "Paneer Spätzle mit Spicy Soße",
+  "description": "A German-inspired dish featuring crispy Spätzle topped with a creamy Paneer sauce.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "spicy sauce (optional)",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine flour, eggs, water, and salt. Mix until a smooth batter forms.",
+    "Bring a large pot of salted water to a boil. Using a Spätzlepresse or a colander with large holes, press the batter into the water.",
+    "Cook the Spätzle for 2-3 minutes, until they float to the surface. Remove with a slotted spoon.",
+    "In a separate pan, melt butter over medium heat.",
+    "Add Paneer to the pan and cook until golden brown, about 3-4 minutes.",
+    "If using, add the spicy sauce to the pan and stir to combine.",
+    "Serve the Paneer mixture over the Spätzle.",
+    "Optional: garnish with chopped fresh herbs, such as parsley or chives."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "spätzle",
+    "paneer",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/paneer-spicy--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:39:38.469Z"
+}
