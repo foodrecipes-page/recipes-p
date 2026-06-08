@@ -1,0 +1,97 @@
+{
+  "slug": "paneer-spicy--vegan",
+  "title": "Spicy Paneer-Free Vegan Wrap",
+  "description": "A flavorful and healthy vegan wrap filled with a spicy paneer substitute and fresh vegetables.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (12 oz)",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Spicy Sauce (Vegan)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Tortilla Wrap (Vegan)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Lettuce",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet over medium heat.",
+    "2. Cut the tofu into small cubes and remove excess moisture with a paper towel.",
+    "3. Add the tofu to the skillet and cook for 3-4 minutes, until golden brown.",
+    "4. Add the chickpeas, red onion, cucumber, and red bell pepper to the skillet and cook for an additional 4-5 minutes.",
+    "5. In a small bowl, mix together the lime juice and spicy sauce.",
+    "6. Add the cilantro and sauce mixture to the skillet and stir to combine.",
+    "7. Warm the tortilla wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "8. Assemble the wrap by adding the tofu and vegetable mixture to the center of the wrap, followed by sliced lettuce.",
+    "9. Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "10. Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "spicy",
+    "wrap",
+    "tofu",
+    "chickpeas",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/paneer-spicy--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:39:34.871Z"
+}
