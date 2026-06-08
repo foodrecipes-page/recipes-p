@@ -8998,16 +8998,16 @@
   },
   {
     "slug": "poached-butter-brazilian-stir-fry",
-    "title": "Poached Butter Brazilian Stir-fry",
+    "title": "Brazilian-Style Poached Salmon with Butter Sauce",
     "tags": [
-      "poached-butter",
-      "creamy-indulgent",
-      "brazilian-dish",
-      "tabasco-sauce",
-      "low-sodium-friendly"
+      "brazilian",
+      "poached",
+      "salmon",
+      "butter",
+      "healthy"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 20,
     "shard": "p"
   },
   {
@@ -13454,6 +13454,20 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "paneer-spicy--vegetarian",
+    "title": "Spicy Paneer Tikka",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "paneer",
+      "spicy",
+      "tikka"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
     "shard": "p"
   }
 ]
