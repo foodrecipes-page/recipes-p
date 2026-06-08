@@ -1,0 +1,83 @@
+{
+  "slug": "paneer-spicy--french",
+  "title": "Spicy Paneer Crepes",
+  "description": "A French-inspired crepe filled with spicy paneer cheese. Perfect for a quick dinner or snack.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "8 oz"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, eggs, milk, and a pinch of salt.",
+    "Heat a non-stick pan or crepe pan over medium heat.",
+    "Pour a small amount of batter into the pan and tilt to evenly coat the bottom.",
+    "Cook for 1-2 minutes, until the edges start to curl.",
+    "Loosen the crepe with a spatula and flip.",
+    "Cook for another minute, until the other side is lightly browned.",
+    "Repeat with the remaining batter, until all crepes are made.",
+    "In a pan, melt butter over medium heat.",
+    "Add chili flakes and cook for 1 minute, until fragrant.",
+    "Add paneer and cook until lightly browned, about 3-4 minutes.",
+    "Season with salt and black pepper to taste.",
+    "To assemble, place a crepe on a plate, add a spoonful of spicy paneer, and fold the crepe in half.",
+    "Repeat with the remaining crepes and paneer mixture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paneer",
+    "crepes",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/paneer-spicy--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:38:12.030Z"
+}
