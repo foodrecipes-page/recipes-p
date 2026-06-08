@@ -1,0 +1,85 @@
+{
+  "slug": "peppery-juicy-croatian-farfalle-pasta",
+  "title": "Croatian Pasta with Peppery Flair",
+  "description": "A simple yet flavorful pasta dish that combines the tanginess of Croatia with the kick of peppery notes.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "farfalle",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "peppery",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "juicy",
+      "amount": "2 cups cherry tomatoes, halved",
+      "notes": ""
+    },
+    {
+      "name": "croatian",
+      "amount": "1 tsp dried oregano",
+      "notes": ""
+    },
+    {
+      "name": "pasta",
+      "amount": "2 tbsp olive oil",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "parmesan",
+      "amount": "1/2 cup grated",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook farfalle according to package instructions until al dente.",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add peppery and cook for 1-2 minutes until fragrant.",
+    "Add cherry tomatoes and cook for 3-4 minutes until they start to release their juices.",
+    "Stir in dried oregano and cook for an additional minute.",
+    "Add cooked farfalle to the skillet and toss with the tomato mixture.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot topped with grated parmesan cheese.",
+    "Enjoy your Croatian pasta dish!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "easy",
+    "italian-pasta",
+    "italian-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-juicy-croatian-farfalle-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:44:59.657Z"
+}
