@@ -3827,19 +3827,16 @@
   },
   {
     "slug": "peppery-juicy-croatian-farfalle-pasta",
-    "title": "Peppery Juicy Croatian Farfalle Pasta",
+    "title": "Croatian Pasta with Peppery Flair",
     "tags": [
+      "italian",
       "pasta",
-      "farfalle",
-      "croatian",
-      "low-carb",
-      "roast",
-      "peppery",
-      "sick-day",
-      "dinner"
+      "easy",
+      "italian-pasta",
+      "italian-dinner"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 30,
+    "cuisine": "Italian",
+    "totalTimeMin": 20,
     "shard": "p"
   },
   {
