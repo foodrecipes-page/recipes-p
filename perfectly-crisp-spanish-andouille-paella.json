@@ -1,0 +1,96 @@
+{
+  "slug": "perfectly-crisp-spanish-andouille-paella",
+  "title": "Spanish-Style Paella with Crisp Chorizo",
+  "description": "A traditional Spanish paella dish made with crispy chorizo and perfectly cooked rice. Perfect for a hearty dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish chorizo",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Andouille sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium, diced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Gambas",
+      "amount": "1 pound, peeled and deveined"
+    },
+    {
+      "name": "Shrimp broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the sliced chorizo and cook until crispy, about 5 minutes. Remove from the pan and set aside.",
+    "Add the sliced Andouille sausage to the pan and cook until browned, about 5 minutes. Remove from the pan and set aside with the chorizo.",
+    "Add the diced onion, red bell pepper, and tomato to the pan. Cook until the vegetables are tender, about 5 minutes.",
+    "Add the paella rice to the pan and cook for 1-2 minutes, stirring constantly.",
+    "Add the shrimp broth, smoked paprika, salt, and black pepper to the pan. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Add the cooked chorizo and sausage back to the pan and stir to combine.",
+    "Add the peeled and deveined gambas to the pan and cook for an additional 2-3 minutes, or until they are pink and cooked through.",
+    "Serve the paella hot, garnished with lemon wedges and chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "chorizo",
+    "andouille",
+    "sausage",
+    "rice",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/perfectly-crisp-spanish-andouille-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:29:00.800Z"
+}
