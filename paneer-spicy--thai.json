@@ -1,0 +1,81 @@
+{
+  "slug": "paneer-spicy--thai",
+  "title": "Thai Paneer Stir Fry",
+  "description": "A spicy and flavorful Thai-inspired dish made with paneer, vegetables, and a blend of aromatic spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1"
+    },
+    {
+      "name": "onions",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a pan over medium-high heat.",
+    "Add the garlic, ginger, and chili peppers, and stir-fry for 1 minute.",
+    "Add the bell peppers and onions, and stir-fry for 2-3 minutes.",
+    "Add the soy sauce, fish sauce, and brown sugar, and stir-fry for 1 minute.",
+    "Add the paneer and stir-fry for 2-3 minutes, or until golden brown.",
+    "Serve hot and garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "paneer",
+    "stir-fry",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/paneer-spicy--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:35:53.988Z"
+}
