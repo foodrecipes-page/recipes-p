@@ -1,0 +1,82 @@
+{
+  "slug": "pillowy-turkish-dumplings-pilaf",
+  "title": "Pillowy Turkish Dumplings with Pilaf",
+  "description": "A traditional Turkish dish featuring pillowy dumplings served with a flavorful pilaf.",
+  "cuisine": "Turkish",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pillowy dough",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Turkish pilaf rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the pillowy dough ingredients. Knead for 10 minutes.",
+    "Divide the dough into 20-25 equal pieces. Roll each piece into a ball and then flatten it slightly into a disk shape.",
+    "Heat a large skillet over medium-high heat. Add the ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Add the pilaf rice to the skillet and stir to combine with the meat mixture.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover the skillet.",
+    "Simmer the pilaf for 20-25 minutes or until the liquid has been absorbed and the rice is tender.",
+    "While the pilaf is cooking, bring a large pot of salted water to a boil.",
+    "Gently add the pillowy dumplings to the boiling water and cook for 10-15 minutes or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and place them on a plate.",
+    "To serve, place a few dumplings on a plate and spoon some of the pilaf alongside the dumplings. Garnish with parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "dumplings",
+    "pilaf",
+    "meat",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-turkish-dumplings-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:17:53.331Z"
+}
