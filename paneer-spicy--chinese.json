@@ -1,0 +1,85 @@
+{
+  "slug": "paneer-spicy--chinese",
+  "title": "Spicy Paneer Stir Fry",
+  "description": "A Chinese-inspired stir fry dish made with paneer cheese and a spicy kick. This dish is quick, easy, and packed with flavor.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "200g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add garlic and ginger and stir-fry until fragrant, about 30 seconds.",
+    "Add chili flakes and stir-fry for another minute.",
+    "Add soy sauce, rice vinegar, and sugar, and stir to combine.",
+    "Add paneer and stir-fry until coated in the sauce.",
+    "Stir in scallions and cook for another minute.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot over rice or noodles.",
+    "Garnish with additional scallions if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "paneer",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/paneer-spicy--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:35:11.831Z"
+}
