@@ -1,0 +1,80 @@
+{
+  "slug": "paneer-spicy--keto",
+  "title": "Spicy Paneer Keto Kebabs",
+  "description": "A keto-friendly Indian-inspired dish made with paneer, spices, and a hint of smokiness.",
+  "cuisine": "Indian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g"
+    },
+    {
+      "name": "spicy",
+      "amount": "1 tsp",
+      "notes": "use store-bought or homemade spice mix"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Cut the paneer into 1-inch cubes and set aside.",
+    "In a small bowl, mix together the ghee, salt, black pepper, cumin powder, coriander powder, and cayenne pepper.",
+    "Thread the paneer cubes onto skewers, leaving a small space between each piece.",
+    "Brush the paneer with the spice mixture, making sure they're evenly coated.",
+    "Heat a non-stick skillet or grill over medium-high heat.",
+    "Add the paneer skewers and cook for 2-3 minutes per side, or until golden brown.",
+    "Garnish with chopped cilantro and serve hot.",
+    "Serve with a side of keto-friendly greens or a salad for a well-rounded meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "keto",
+    "paneer",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 5,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/paneer-spicy--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:39:36.605Z"
+}
