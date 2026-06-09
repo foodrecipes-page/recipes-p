@@ -1,0 +1,70 @@
+{
+  "slug": "peppery-tender-french-turnip-hash",
+  "title": "Pan-Seared Turnip Hash",
+  "description": "A crispy and flavorful turnip hash, perfect as a side dish or snack. The peppery flavor of the turnips pairs well with the tender french fries.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Turnips",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "French Fries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Hash Browns",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Peppercorns",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Peel and dice the turnips into 1-inch pieces.",
+    "2. Heat 1 tablespoon of butter in a large skillet over medium-high heat.",
+    "3. Add the turnips to the skillet and cook for 5-7 minutes, or until they start to brown.",
+    "4. Add the French fries and hash browns to the skillet and cook for an additional 2-3 minutes.",
+    "5. Season with salt and peppercorns to taste.",
+    "6. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "side-dish",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-tender-french-turnip-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T02:43:21.031Z"
+}
