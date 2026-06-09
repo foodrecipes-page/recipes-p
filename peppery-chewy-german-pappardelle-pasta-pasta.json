@@ -1,0 +1,80 @@
+{
+  "slug": "peppery-chewy-german-pappardelle-pasta-pasta",
+  "title": "Spicy German Pappardelle Pasta",
+  "description": "A spicy twist on traditional German pasta dishes, combining chewy sausage with peppery flavors.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pappardelle pasta",
+      "amount": "12 oz",
+      "notes": null
+    },
+    {
+      "name": "Peppery sausage",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Chewy German bacon",
+      "amount": "6 slices",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook the pappardelle pasta according to package directions.",
+    "In a large skillet, cook the German bacon over medium-high heat until crispy.",
+    "Add the peppery sausage to the skillet and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the garlic, chili flakes, salt, and black pepper to the skillet and cook for 1 minute.",
+    "Add the cooked pappardelle pasta to the skillet and toss with the sausage and bacon mixture.",
+    "Serve hot, topped with additional chili flakes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pasta",
+    "spicy",
+    "sausage",
+    "bacon"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-chewy-german-pappardelle-pasta-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T02:42:13.969Z"
+}
