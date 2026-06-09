@@ -2004,17 +2004,16 @@
   },
   {
     "slug": "peppery-crisp-egyptian-kidney-beans-bake",
-    "title": "Peppery Crisp Egyptian Kidney Beans Bake",
+    "title": "Egyptian-Style Stuffed Peppers",
     "tags": [
-      "paleo-friendly",
+      "vegetarian",
+      "european",
+      "easy-meals",
       "kidney-beans",
-      "bake",
-      "egyptian",
-      "peppery",
-      "romantic"
+      "bell-peppers"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 55,
     "shard": "p"
   },
   {
@@ -5791,18 +5790,15 @@
   },
   {
     "slug": "piled-american-rice-fried-rice",
-    "title": "Piled American Rice Fried-Rice",
+    "title": "Korean-Style Fried Rice",
     "tags": [
-      "comfort-food",
-      "dense",
+      "korean",
       "fried-rice",
-      "one-pot",
-      "smoky",
-      "tandoor",
-      "vegan"
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 20,
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
