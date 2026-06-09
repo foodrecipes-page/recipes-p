@@ -1424,18 +1424,14 @@
   },
   {
     "slug": "peppered-american-chocolate-stew",
-    "title": "Peppered American Chocolate Stew",
+    "title": "American Stew Recipe",
     "tags": [
       "american",
-      "dark-chocolate",
-      "dense",
-      "halal-friendly",
-      "peppery",
-      "romantic",
+      "beef",
       "stew"
     ],
     "cuisine": "American",
-    "totalTimeMin": 110,
+    "totalTimeMin": 100,
     "shard": "p"
   },
   {
@@ -8754,17 +8750,16 @@
   },
   {
     "slug": "plump-indian-samphire-naan",
-    "title": "Plump Indian Samphire Naan",
+    "title": "Grilled Naan with Samphire and Spices",
     "tags": [
-      "dinner-ideas",
-      "gluten-free",
-      "homemade-naan",
-      "indian-cuisine",
-      "lunch-ideas",
-      "vegetarian-friendly"
+      "indian",
+      "grilled",
+      "vegetarian",
+      "snack",
+      "easy"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -9062,14 +9057,15 @@
   },
   {
     "slug": "poached-herbal-herbs-soup",
-    "title": "Poached Herbal Herbs Soup",
+    "title": "Herbal Soup",
     "tags": [
-      "poached-herb-soup",
-      "mediterranean-dish",
-      "sugar-free-friendly"
+      "soup",
+      "herbal",
+      "vegetarian",
+      "easy"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "cuisine": "vegetarian",
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
