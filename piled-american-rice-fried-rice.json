@@ -1,0 +1,85 @@
+{
+  "slug": "piled-american-rice-fried-rice",
+  "title": "Korean-Style Fried Rice",
+  "description": "A simple and flavorful fried rice recipe inspired by Korean cuisine, made with crispy rice, savory vegetables, and spicy gochujang. Perfect for a quick weeknight dinner or meal prep.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for frying"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "frozen peas and carrots",
+      "amount": "1 cup",
+      "notes": "thawed"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped scallions and cook until crispy, about 3-4 minutes.",
+    "Push the scallions to one side of the pan.",
+    "Add the cooked rice to the other side of the pan and stir-fry for about 5 minutes, breaking up any clumps.",
+    "Add the gochujang, soy sauce, and sesame oil (if using) to the rice and stir-fry for another minute.",
+    "Add the frozen peas and carrots to the rice and stir-fry until they are thawed and heated through.",
+    "Season with salt to taste.",
+    "Transfer the fried rice to a serving platter and top with crispy scallions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "fried-rice",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piled-american-rice-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T18:48:52.664Z"
+}
