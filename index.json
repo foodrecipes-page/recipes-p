@@ -184,15 +184,14 @@
   },
   {
     "slug": "paleo-citrus-king-prawn-appetizer",
-    "title": "Paleo Citrus King Prawn Appetizer",
+    "title": "King Prawn Citrus Appetizer",
     "tags": [
       "paleo",
       "citrus",
-      "king prawn",
-      "appetizer"
+      "king-prawn"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 45,
+    "cuisine": "paleo",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -9512,18 +9511,14 @@
   },
   {
     "slug": "potent-flaky-korean-uruguayan-rest-meat-empanadas",
-    "title": "Potent Flaky Korean Uruguayan Rest Meat Empanadas",
+    "title": "Uruguayan Beef Empanadas",
     "tags": [
-      "doenjang",
+      "beef",
       "empanadas",
-      "gluten-free",
-      "korean-uruguayan-fusion",
-      "lunch",
-      "rest-meat",
-      "snack"
+      "uruguayan"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
