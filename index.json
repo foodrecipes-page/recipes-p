@@ -8236,16 +8236,15 @@
   },
   {
     "slug": "piquant-vietnamese-long-beans-canh-chua",
-    "title": "Piquant Vietnamese Long Beans Canh Chua",
+    "title": "Vietnamese-Style Pickled Beans",
     "tags": [
-      "asian-soup",
-      "canh-chua",
-      "one-pot",
-      "quick",
-      "vegetarian"
+      "vietnamese",
+      "pickled",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "p"
   },
   {
