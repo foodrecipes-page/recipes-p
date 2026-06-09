@@ -1,0 +1,84 @@
+{
+  "slug": "peppered-american-chocolate-stew",
+  "title": "American Stew Recipe",
+  "description": "A hearty American stew made with tender beef and vegetables, perfect for a cold winter's night.",
+  "cuisine": "American",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peppered beef stew meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "american stew",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat the stew meat in a large Dutch oven over medium-high heat until browned, about 5 minutes.",
+    "2. Add the onion, carrot, and potato to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "3. Add the beef broth, water, salt, and pepper to the pot and stir to combine.",
+    "4. Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the meat is tender.",
+    "5. Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 90,
+  "totalTimeMin": 100,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "beef",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppered-american-chocolate-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T18:28:47.104Z"
+}
