@@ -1720,18 +1720,16 @@
   },
   {
     "slug": "peppery-chewy-german-pappardelle-pasta-pasta",
-    "title": "Peppery Chewy German Pappardelle Pasta",
+    "title": "Spicy German Pappardelle Pasta",
     "tags": [
-      "chewy",
-      "german-cuisine",
-      "gluten-free-friendly",
-      "high-protein",
-      "one-pan",
-      "peppery",
-      "weeknight"
+      "german",
+      "pasta",
+      "spicy",
+      "sausage",
+      "bacon"
     ],
     "cuisine": "german",
-    "totalTimeMin": 28,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -3795,10 +3793,15 @@
   },
   {
     "slug": "peppery-juicy-argentinian-hazelnuts-burger",
-    "title": "Peppery Juicy Argentinian Hazelnuts Burger",
-    "tags": [],
-    "cuisine": "Argentinian",
-    "totalTimeMin": null,
+    "title": "Argentinian-Style Grilled Burger",
+    "tags": [
+      "argentinian",
+      "beef",
+      "burger",
+      "grilled"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 18,
     "shard": "p"
   },
   {
@@ -4774,18 +4777,14 @@
   },
   {
     "slug": "peppery-tender-french-turnip-hash",
-    "title": "Peppery Tender French Turnip Hash",
+    "title": "Pan-Seared Turnip Hash",
     "tags": [
-      "peppery",
-      "paleo",
-      "french",
-      "turnip-hash",
-      "monsoon",
-      "sauté",
-      "quick-lunch"
+      "breakfast",
+      "side-dish",
+      "snack"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 20,
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
