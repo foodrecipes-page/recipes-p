@@ -1,0 +1,80 @@
+{
+  "slug": "pan-seared-filipino-vegetable-lumpia",
+  "title": "Filipino Lumpia (Vegetable Spring Rolls)",
+  "description": "A classic Filipino dish, Lumpia is a delicious vegetable spring roll that is crispy on the outside and tender on the inside. Serve as a snack or side dish.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shredded cabbage",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded zucchini",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a pan over medium heat.",
+    "In a large bowl, combine the shredded cabbage, carrots, and zucchini.",
+    "If using shrimp, add to the bowl and mix well.",
+    "In a separate bowl, mix together the flour and water to form a dough.",
+    "Wrap the dough around the vegetable mixture, forming a tight cylinder.",
+    "Fry the lumpia in the hot oil until golden brown and crispy.",
+    "Drain on paper towels and serve hot.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lumpia",
+    "filipino",
+    "spring-rolls",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-filipino-vegetable-lumpia",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T01:19:10.602Z"
+}
