@@ -1,0 +1,76 @@
+{
+  "slug": "paleo-citrus-king-prawn-appetizer",
+  "title": "King Prawn Citrus Appetizer",
+  "description": "A quick and easy paleo appetizer featuring king prawns, citrus, and a hint of spice.",
+  "cuisine": "paleo",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "King prawns",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Zest of 1 lime",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a bowl, whisk together lime juice, lime zest, ginger, garlic, salt, and pepper.",
+    "Add the king prawns to the bowl and toss to coat with the marinade.",
+    "Heat the coconut oil in a skillet over medium-high heat.",
+    "Add the marinated prawns to the skillet and cook for 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and bake for 5-7 minutes.",
+    "Serve the prawns hot with additional lime wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paleo",
+    "citrus",
+    "king-prawn"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 4,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/paleo-citrus-king-prawn-appetizer",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T04:03:59.524Z"
+}
