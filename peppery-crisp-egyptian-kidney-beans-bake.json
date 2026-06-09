@@ -1,0 +1,94 @@
+{
+  "slug": "peppery-crisp-egyptian-kidney-beans-bake",
+  "title": "Egyptian-Style Stuffed Peppers",
+  "description": "A flavorful and nutritious dish made by filling bell peppers with a mixture of rice, kidney beans, and spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 large bell peppers",
+      "amount": "any color",
+      "notes": "crisp and sweet"
+    },
+    {
+      "name": "1 cup cooked kidney beans",
+      "amount": "",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "1 cup cooked white rice",
+      "amount": "",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "1 medium onion, finely chopped",
+      "amount": "",
+      "notes": "peppery flavor"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": "add depth to the dish"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "",
+      "notes": "healthy fats"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": "authentic Egyptian flavor"
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "amount": "",
+      "notes": "add a smoky flavor"
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "",
+      "notes": "season to taste"
+    },
+    {
+      "name": "1 cup shredded mozzarella cheese (optional)",
+      "amount": "",
+      "notes": "add creaminess"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Cut off the tops of the bell peppers and remove seeds and membranes.",
+    "3. In a large bowl, combine cooked kidney beans, cooked rice, chopped onion, minced garlic, olive oil, cumin, paprika, salt, and pepper. Mix well.",
+    "4. Stuff each bell pepper with the bean and rice mixture, filling to the top.",
+    "5. Place the stuffed peppers in a baking dish and cover with aluminum foil.",
+    "6. Bake for 25 minutes, then remove foil and top with shredded mozzarella cheese (if using).",
+    "7. Return to oven and bake for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "european",
+    "easy-meals",
+    "kidney-beans",
+    "bell-peppers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crisp-egyptian-kidney-beans-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T18:53:38.247Z"
+}
