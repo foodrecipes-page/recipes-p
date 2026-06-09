@@ -1,0 +1,90 @@
+{
+  "slug": "piquant-silky-portuguese-chicken-skillet",
+  "title": "Portuguese Chicken Skillet",
+  "description": "A savory and spicy Portuguese-inspired chicken skillet dish, perfect for a weeknight dinner.",
+  "cuisine": "portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "piquant sauce",
+      "amount": "1/4 cup",
+      "notes": "see notes for homemade sauce recipe"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for skillet"
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "large, oven-safe"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional, for heat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season chicken with salt, black pepper, and chili flakes.",
+    "Heat olive oil in the skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5-6 minutes.",
+    "Transfer skillet to the oven and cook for 10-12 minutes.",
+    "Remove skillet from oven and stir in piquant sauce.",
+    "Add diced onion and minced garlic to the skillet and cook for 1-2 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "chicken",
+    "skillet",
+    "spicy",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-silky-portuguese-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T06:51:28.923Z"
+}
