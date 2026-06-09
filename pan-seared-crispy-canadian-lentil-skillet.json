@@ -1,0 +1,89 @@
+{
+  "slug": "pan-seared-crispy-canadian-lentil-skillet",
+  "title": "Canadian Lentil Skillet",
+  "description": "A hearty and flavorful skillet dish featuring sautéed lentils, crispy Canadian bacon, and a touch of pan-seared goodness.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Canadian bacon",
+      "amount": "4 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "divided"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the Canadian bacon and cook until crispy, about 3-4 minutes per side. Remove from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet.",
+    "Add the sliced onion and bell pepper and cook until softened, about 5 minutes.",
+    "Add the garlic, tomato paste, cooked lentils, salt, and pepper. Stir to combine.",
+    "Return the cooked Canadian bacon to the skillet and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the flavors have melded together.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "lentils",
+    "canadian-bacon",
+    "skillet-dish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-crispy-canadian-lentil-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T06:18:47.702Z"
+}
