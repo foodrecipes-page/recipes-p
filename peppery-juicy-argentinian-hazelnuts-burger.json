@@ -1,0 +1,82 @@
+{
+  "slug": "peppery-juicy-argentinian-hazelnuts-burger",
+  "title": "Argentinian-Style Grilled Burger",
+  "description": "A flavorful burger recipe inspired by Argentinian cuisine, featuring a juicy patty topped with a peppery sauce and crunchy hazelnuts.",
+  "cuisine": "argentinian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "2 tsp",
+      "notes": "freshly cracked"
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Argentinian chimichurri sauce",
+      "amount": "4 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "buns",
+      "amount": "4",
+      "notes": "gluten-free or regular"
+    },
+    {
+      "name": "cheese",
+      "amount": "4 slices",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Form beef into 4 patties and season with salt and pepper.",
+    "Grill patties for 4-5 minutes per side or until cooked to desired doneness.",
+    "Meanwhile, toast buns on the grill.",
+    "Assemble burgers with chimichurri sauce, onion, garlic, and cheese (if using).",
+    "Top with chopped hazelnuts and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "burger",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-juicy-argentinian-hazelnuts-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:23:05.315Z"
+}
