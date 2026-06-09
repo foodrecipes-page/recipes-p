@@ -1,0 +1,75 @@
+{
+  "slug": "potent-flaky-korean-uruguayan-rest-meat-empanadas",
+  "title": "Uruguayan Beef Empanadas",
+  "description": "A traditional Uruguayan dish, these empanadas are filled with seasoned beef and onions, perfect for a snack or dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uruguayan beef",
+      "amount": "500g",
+      "notes": "Ground beef"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Flaky pastry",
+      "amount": "2 packages",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "Optional, for spicy flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion to the pan and cook until softened.",
+    "Add the Korean chili flakes, salt, and black pepper to the pan and stir to combine.",
+    "Roll out the flaky pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Cut out circles of pastry using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon or two of the beef mixture in the center of each pastry circle.",
+    "Brush the edges of the pastry with a little water and fold the pastry in half to form a triangle or a square shape.",
+    "Press the edges of the pastry together to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops of the empanadas with a little water and bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "empanadas",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/potent-flaky-korean-uruguayan-rest-meat-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T04:30:00.454Z"
+}
