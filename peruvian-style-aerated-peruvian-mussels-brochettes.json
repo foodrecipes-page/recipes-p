@@ -1,0 +1,80 @@
+{
+  "slug": "peruvian-style-aerated-peruvian-mussels-brochettes",
+  "title": "Grilled Peruvian Mussels Brochettes",
+  "description": "A Peruvian-inspired dish featuring succulent mussels and flavorful brochettes, perfect for a quick and delicious meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mussels",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian-Style Marinade",
+      "amount": "",
+      "notes": "Mix 1/4 cup olive oil, 2 cloves garlic minced, 1 tablespoon aji amarillo pepper paste, and 1 tablespoon lime juice"
+    },
+    {
+      "name": "Brochettes",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Aerated Lemon",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, combine mussels, Peruvian-Style Marinade, and 1/4 cup chopped cilantro. Toss to coat.",
+    "3. Thread brochettes onto skewers.",
+    "4. Grill brochettes for 3-4 minutes per side, or until slightly charred.",
+    "5. Grill mussels for 2-3 minutes per side, or until they open.",
+    "6. Serve mussels in brochettes, garnished with aerated lemon and additional cilantro if desired.",
+    "7. Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "mussels",
+    "peruvian",
+    "brochettes",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peruvian-style-aerated-peruvian-mussels-brochettes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T20:31:25.117Z"
+}
