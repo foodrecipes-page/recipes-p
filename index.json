@@ -405,17 +405,15 @@
   },
   {
     "slug": "pan-seared-crispy-canadian-lentil-skillet",
-    "title": "Pan Seared Crispy Canadian Lentil Skillet",
+    "title": "Canadian Lentil Skillet",
     "tags": [
-      "canadian-cuisine",
-      "crispy-lentils",
-      "flexitarian",
-      "lentil-recipes",
-      "monsoon-dishes",
-      "one-pan"
+      "breakfast",
+      "lentils",
+      "canadian-bacon",
+      "skillet-dish"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -7808,16 +7806,15 @@
   },
   {
     "slug": "piquant-silky-portuguese-chicken-skillet",
-    "title": "Piquant Silky Portuguese Chicken Skillet",
+    "title": "Portuguese Chicken Skillet",
     "tags": [
-      "anti-inflammatory",
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "portuguese",
+      "chicken",
+      "skillet",
+      "spicy",
+      "dinner"
     ],
-    "cuisine": "Portuguese",
+    "cuisine": "portuguese",
     "totalTimeMin": 35,
     "shard": "p"
   },
