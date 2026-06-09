@@ -1,0 +1,85 @@
+{
+  "slug": "plump-indian-samphire-naan",
+  "title": "Grilled Naan with Samphire and Spices",
+  "description": "A flavorful Indian-inspired dish featuring grilled naan bread topped with sautéed samphire and aromatic spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "plump naan bread",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "samphire",
+      "amount": "1 bunch",
+      "notes": "trimmed and cleaned"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Brush the naan bread with ghee or oil and season with salt.",
+    "Grill the naan bread for 2-3 minutes on each side, until lightly charred.",
+    "Meanwhile, heat a tablespoon of oil in a pan over medium heat.",
+    "Add the samphire to the pan and sauté for 3-4 minutes, until tender.",
+    "Stir in the cumin, coriander, and cayenne pepper.",
+    "To assemble the dish, place a grilled naan bread on a plate and top with a spoonful of the samphire mixture.",
+    "Serve immediately, with a lemon wedge on the side.",
+    "Repeat with the remaining naan bread and samphire mixture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "grilled",
+    "vegetarian",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/plump-indian-samphire-naan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T17:28:22.641Z"
+}
