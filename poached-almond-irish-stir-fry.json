@@ -1,0 +1,76 @@
+{
+  "slug": "poached-almond-irish-stir-fry",
+  "title": "Almond Irish Poached Oatmeal",
+  "description": "A delicious and comforting breakfast dish made with poached oats, almond milk, and a hint of Irish flair.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "almond milk",
+      "amount": "2 cups",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "irish butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "stir-fry sweetener",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring the almond milk to a simmer over medium heat.",
+    "Add the rolled oats and stir to combine.",
+    "Reduce heat to low and cook, covered, for 5-7 minutes, or until the oats have absorbed most of the liquid.",
+    "Stir in the Irish butter and sweetener (if using).",
+    "Season with salt and cinnamon (if using).",
+    "Serve hot, topped with additional sweetener or cinnamon if desired.",
+    "Prepare a poaching liquid by bringing 2 cups of water to a boil in a small saucepan.",
+    "Reduce heat to a simmer and add a pinch of salt.",
+    "Poach the oats for 2-3 minutes, or until they have absorbed most of the liquid and have a creamy consistency.",
+    "Serve the poached oats over the cooked oatmeal and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "oatmeal",
+    "almond-milk",
+    "irish-butter"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/poached-almond-irish-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:42:29.686Z"
+}
