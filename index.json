@@ -9766,16 +9766,14 @@
   },
   {
     "slug": "protein-packed-mediterranean-beef-bake",
-    "title": "Protein-Packed Mediterranean Beef Bake",
+    "title": "Mediterranean Beef Bake",
     "tags": [
-      "protein-rich",
-      "post-workout",
-      "baked",
+      "mediterranean",
       "beef",
-      "mediterranean"
+      "bake"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "p"
   },
   {
