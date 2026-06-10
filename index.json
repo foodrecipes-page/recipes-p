@@ -2444,16 +2444,15 @@
   },
   {
     "slug": "peppery-crumbly-brazilian-cucumber-soup",
-    "title": "Peppery Crumbly Brazilian Cucumber Soup",
+    "title": "Peppery Cucumber Soup",
     "tags": [
-      "brazilian",
-      "cucumber-soup",
-      "gluten-free",
-      "one-pot",
-      "vegetarian"
+      "soup",
+      "cucumber",
+      "peppery",
+      "latin-american"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 30,
+    "cuisine": "latin american",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
