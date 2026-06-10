@@ -1,0 +1,92 @@
+{
+  "slug": "protein-packed-mediterranean-beef-bake",
+  "title": "Mediterranean Beef Bake",
+  "description": "A hearty beef bake with a Mediterranean twist, packed with flavors and nutrients.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (1.5 lbs)",
+      "amount": "1.5 lbs",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "Olive Oil (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Lemon Juice (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic (3 cloves)",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Feta Cheese (1/2 cup)",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Tomato (1 cup)",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Kalamata Olives (1/2 cup)",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Fresh Parsley (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pepper (to taste)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, salt, and pepper.",
+    "Add the beef to the bowl and toss to coat.",
+    "Transfer the beef to a baking dish and top with feta cheese, tomato, olives, and parsley.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the beef is cooked to your desired level of doneness.",
+    "Let the dish rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "beef",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/protein-packed-mediterranean-beef-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T15:14:16.017Z"
+}
