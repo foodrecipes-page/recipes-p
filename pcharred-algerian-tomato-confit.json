@@ -1,0 +1,68 @@
+{
+  "slug": "pcharred-algerian-tomato-confit",
+  "title": "Pan-Seared Algerian Confit Chicken with Tomato",
+  "description": "A flavorful North African-inspired dish featuring tender confit chicken, pan-seared to perfection and served with a fresh tomato sauce.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb confit chicken",
+      "amount": "",
+      "notes": "preferably homemade or store-bought"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "1 medium tomato",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "1/4 cup pcharred",
+      "amount": "",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "optional: salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat olive oil in a large skillet over medium-high heat.",
+    "2. Add the confit chicken and sear until golden brown on both sides, about 5-7 minutes.",
+    "3. Remove the chicken from the skillet and set aside.",
+    "4. Reduce heat to medium and add the chopped tomato.",
+    "5. Cook, stirring occasionally, until the tomato is tender and lightly caramelized, about 10 minutes.",
+    "6. Stir in the chopped pcharred and cook for an additional 1-2 minutes.",
+    "7. Add the cooked chicken back into the skillet and toss to coat with the tomato sauce.",
+    "8. Season with salt and pepper to taste.",
+    "9. Serve immediately, garnished with additional pcharred if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "north-african",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pcharred-algerian-tomato-confit",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T09:12:35.941Z"
+}
