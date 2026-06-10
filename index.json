@@ -1191,17 +1191,14 @@
   },
   {
     "slug": "pcharred-algerian-tomato-confit",
-    "title": "PCharred Algerian Tomato Confit",
+    "title": "Pan-Seared Algerian Confit Chicken with Tomato",
     "tags": [
-      "algerian",
-      "charred-tomato",
-      "low-fat",
-      "orange-juice",
-      "solo-dinner",
-      "vegan-friendly"
+      "chicken",
+      "north-african",
+      "gluten-free"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
@@ -6153,16 +6150,15 @@
   },
   {
     "slug": "pillowy-mustardy-uruguayan-rice-bake",
-    "title": "pillowy mustardy uruguayan rice bake",
+    "title": "Uruguayan Rice Bake",
     "tags": [
-      "brown-rice",
-      "low-fodmap",
-      "romantic",
-      "salt-bake",
-      "uruguayan"
+      "uruguayan",
+      "rice",
+      "bake",
+      "comfort-food"
     ],
-    "cuisine": "uruguayan",
-    "totalTimeMin": 58,
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
