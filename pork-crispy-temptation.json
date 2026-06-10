@@ -1,0 +1,78 @@
+{
+  "slug": "pork-crispy-temptation",
+  "title": "Pan-Seared Pork Chops with Crispy Temptation",
+  "description": "Juicy pork chops topped with a crispy and savory temption crust, perfect for a quick weeknight dinner.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork chops",
+      "amount": "4 (1-inch thick)",
+      "notes": null
+    },
+    {
+      "name": "Temptation",
+      "amount": "1 cup, crushed",
+      "notes": "Use as topping"
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season pork chops with salt, pepper, and garlic powder.",
+    "Heat olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear pork chops for 2-3 minutes per side, or until browned.",
+    "Transfer skillet to the oven and bake for 12-15 minutes, or until cooked through.",
+    "While pork chops are cooking, mix bread crumbs and crushed temptation in a small bowl.",
+    "Remove pork chops from oven and top each chop with the bread crumb mixture.",
+    "Return skillet to the stovetop and cook over medium heat until the topping is crispy and golden brown.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "crispy",
+    "temptation",
+    "dinner",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pork-crispy-temptation",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T17:38:12.503Z"
+}
