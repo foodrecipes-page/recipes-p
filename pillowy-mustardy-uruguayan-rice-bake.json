@@ -1,0 +1,78 @@
+{
+  "slug": "pillowy-mustardy-uruguayan-rice-bake",
+  "title": "Uruguayan Rice Bake",
+  "description": "A hearty, comforting Uruguayan-inspired casserole, perfect for a cozy evening.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Uruguayan rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pillowy rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "bake",
+      "amount": "2",
+      "notes": "large eggs"
+    },
+    {
+      "name": "mustardy",
+      "amount": "2 tbsp",
+      "notes": "Dijon mustard"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large saucepan, bring 2 cups of water to a boil.",
+    "Add 1 cup of Uruguayan rice and cook according to package directions.",
+    "In a separate bowl, whisk together 2 large eggs and 2 tbsp of Dijon mustard.",
+    "Once the rice is cooked, stir in the egg mixture and season with salt and black pepper.",
+    "Transfer the mixture to a baking dish and top with 1 cup of pillowy rice.",
+    "Bake for 20-25 minutes or until the rice is golden brown and set.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "rice",
+    "bake",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-mustardy-uruguayan-rice-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T08:39:41.431Z"
+}
