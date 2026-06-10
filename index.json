@@ -1338,15 +1338,14 @@
   },
   {
     "slug": "pear-pearls",
-    "title": "Pear Pearls",
+    "title": "Poached Pear with Honey",
     "tags": [
+      "dessert",
       "pear",
-      "air-fry",
-      "bitter",
-      "crunchy"
+      "honey"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 16,
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -8929,15 +8928,15 @@
   },
   {
     "slug": "poached-almond-irish-stir-fry",
-    "title": "Poached Almond Irish Stir-fry",
+    "title": "Almond Irish Poached Oatmeal",
     "tags": [
-      "poached",
-      "stir-fry",
+      "breakfast",
+      "oatmeal",
       "almond-milk",
-      "monsoon"
+      "irish-butter"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 20,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "p"
   },
   {
@@ -9275,16 +9274,16 @@
   },
   {
     "slug": "pork-crispy-temptation",
-    "title": "Pork Crispy Temptation",
+    "title": "Pan-Seared Pork Chops with Crispy Temptation",
     "tags": [
       "pork",
       "crispy",
-      "tangy",
-      "ukrainian",
-      "gluten-free"
+      "temptation",
+      "dinner",
+      "quick"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
