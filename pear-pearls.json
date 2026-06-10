@@ -1,0 +1,61 @@
+{
+  "slug": "pear-pearls",
+  "title": "Poached Pear with Honey",
+  "description": "A simple and delicious dessert featuring poached pears with a drizzle of honey.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pear",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Peel and core the pears.",
+    "In a large saucepan, combine the water and lemon juice.",
+    "Bring the water to a boil, then reduce the heat to a simmer.",
+    "Add the pears to the saucepan and poach for 15-20 minutes, or until tender.",
+    "Remove the pears from the saucepan and place on a plate.",
+    "Drizzle with honey and serve."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "pear",
+    "honey"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 0.5,
+    "carbs": 35,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pear-pearls",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T17:30:37.576Z"
+}
