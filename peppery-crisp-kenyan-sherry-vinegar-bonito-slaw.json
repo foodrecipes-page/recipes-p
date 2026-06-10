@@ -1,0 +1,78 @@
+{
+  "slug": "peppery-crisp-kenyan-sherry-vinegar-bonito-slaw",
+  "title": "Kenyan Slaw with Bonito Flakes",
+  "description": "A refreshing slaw inspired by Kenyan flavors, topped with crispy bonito flakes.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Napa Cabbage",
+      "amount": "1 head",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Grated"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Kenyan Slaw",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Bonito Flakes",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "2 tablespoons",
+      "notes": "Or other vinegar of choice"
+    },
+    {
+      "name": "Sherry",
+      "amount": "1 tablespoon",
+      "notes": "Dry sherry or substitute with white wine vinegar"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine shredded cabbage, grated carrots, and diced red bell pepper.",
+    "2. In a small bowl, whisk together apple cider vinegar and sherry.",
+    "3. Pour the dressing over the slaw mixture and toss to coat.",
+    "4. Taste and adjust the seasoning as needed.",
+    "5. Just before serving, sprinkle bonito flakes on top (if using).",
+    "6. Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "slaw",
+    "bonito",
+    "snack",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crisp-kenyan-sherry-vinegar-bonito-slaw",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T15:48:10.532Z"
+}
