@@ -1,0 +1,89 @@
+{
+  "slug": "purely-umami-chinese-beef-hot-pot",
+  "title": "Beef and Pot Stir Fry",
+  "description": "A classic Chinese-inspired stir-fry made with tender beef, crunchy vegetables, and savory pot sauce. Serve hot over a bed of rice for a satisfying meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye)",
+      "amount": "1 pound",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "Pot sauce",
+      "amount": "2 tablespoons",
+      "notes": "Use a store-bought or homemade chili bean paste"
+    },
+    {
+      "name": "Purely vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium",
+      "notes": "Sliced into thin rings"
+    },
+    {
+      "name": "Chopped bell pepper",
+      "amount": "1 medium",
+      "notes": "Sliced into thin strips"
+    },
+    {
+      "name": "Sliced mushrooms",
+      "amount": "1 cup",
+      "notes": "Button or cremini work well"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "For added umami flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Optional"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large skillet or wok over medium-high heat.",
+    "2. Add beef and cook until browned, about 3-4 minutes.",
+    "3. Remove beef from skillet and set aside.",
+    "4. Add onion and bell pepper to skillet and cook until tender, about 4-5 minutes.",
+    "5. Add mushrooms to skillet and cook until tender, about 2-3 minutes.",
+    "6. Add pot sauce to skillet and stir-fry for 1 minute.",
+    "7. Add cooked beef back into skillet and stir-fry for 1-2 minutes.",
+    "8. Season with soy sauce, salt, and pepper to taste.",
+    "9. Serve hot over a bed of rice.",
+    "10. Garnish with chopped green onions or sesame seeds, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "chinese",
+    "stirfry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-umami-chinese-beef-hot-pot",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T07:28:17.011Z"
+}
