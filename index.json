@@ -2005,14 +2005,13 @@
   },
   {
     "slug": "peppery-crisp-kenyan-sherry-vinegar-bonito-slaw",
-    "title": "Peppery, Crisp Kenyan Sherry Vinegar, Bonito Slaw",
+    "title": "Kenyan Slaw with Bonito Flakes",
     "tags": [
-      "healthy",
       "kenyan",
-      "low-calorie",
-      "quick",
-      "summer",
-      "vegan-friendly"
+      "slaw",
+      "bonito",
+      "snack",
+      "veggie"
     ],
     "cuisine": "kenyan",
     "totalTimeMin": 10,
@@ -8145,17 +8144,14 @@
   },
   {
     "slug": "piquant-ukrainian-narutomaki-pasta",
-    "title": "Piquant Ukrainian Narutomaki Pasta",
+    "title": "Ukrainian Piquant Pasta",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "easy",
-      "egg-free",
-      "pescatarian",
-      "quick"
+      "ukrainian",
+      "pasta",
+      "vegetarian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -12192,17 +12188,15 @@
   },
   {
     "slug": "purely-decadent-canadian-pecan-tart",
-    "title": "Purely Decadent Canadian Pecan Tart",
+    "title": "Decadent Canadian Pecan Tart",
     "tags": [
-      "canadian-dish",
-      "date-night",
-      "decadent-dessert",
-      "pecan-nuts",
-      "tempered-chocolate",
-      "vegetarian"
+      "canadian",
+      "dessert",
+      "tart",
+      "pecan"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 70,
     "shard": "p"
   },
   {
