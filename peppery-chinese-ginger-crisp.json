@@ -1,0 +1,90 @@
+{
+  "slug": "peppery-chinese-ginger-crisp",
+  "title": "Crisp Peppery Stir Fry",
+  "description": "A quick and easy stir fry with a peppery kick, featuring crisp vegetables and savory ginger.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "peppercorns",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chinese broccoli",
+      "amount": "1 bunch",
+      "notes": "crisp florets"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "crisp, sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "crisp lettuce",
+      "amount": "1 head",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add ginger and garlic and stir-fry until fragrant, about 30 seconds.",
+    "Add broccoli and bell peppers and stir-fry until tender-crisp, about 3-4 minutes.",
+    "In a small bowl, whisk together soy sauce, rice vinegar, and sugar.",
+    "Pour sauce over vegetables and stir-fry for 1 minute.",
+    "Season with salt to taste.",
+    "Serve over shredded lettuce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "asian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-chinese-ginger-crisp",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T08:17:38.180Z"
+}
