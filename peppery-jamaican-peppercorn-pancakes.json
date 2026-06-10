@@ -1,0 +1,68 @@
+{
+  "slug": "peppery-jamaican-peppercorn-pancakes",
+  "title": "Spicy Jamaican Pancakes",
+  "description": "A twist on classic pancakes with a spicy Jamaican kick.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "peppery pancakes mix",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "peppercorn",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a bowl, whisk together pancake mix, jerk seasoning, and peppercorn.",
+    "2. In another bowl, whisk milk and eggs together.",
+    "3. Add wet ingredients to dry ingredients and mix until combined.",
+    "4. Heat a non-stick pan with butter.",
+    "5. Drop batter by 1/4 cupfuls onto pan.",
+    "6. Cook for 2-3 minutes or until bubbles appear.",
+    "7. Flip and cook for another 1-2 minutes.",
+    "8. Serve warm with your favorite toppings."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "caribbean",
+    "spicy",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-jamaican-peppercorn-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:24:30.279Z"
+}
