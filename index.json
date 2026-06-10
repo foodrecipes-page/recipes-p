@@ -1823,17 +1823,14 @@
   },
   {
     "slug": "peppery-chinese-ginger-crisp",
-    "title": "Peppery Chinese Ginger Crisp",
+    "title": "Crisp Peppery Stir Fry",
     "tags": [
-      "peppery",
-      "crisp",
-      "crowd-pleaser",
-      "chinese",
-      "ginger",
-      "gluten-free"
+      "stir-fry",
+      "vegetarian",
+      "asian"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 55,
+    "cuisine": "Asian",
+    "totalTimeMin": 18,
     "shard": "p"
   },
   {
@@ -12763,17 +12760,14 @@
   },
   {
     "slug": "purely-umami-chinese-beef-hot-pot",
-    "title": "Purely Umami Chinese Beef Hot Pot",
+    "title": "Beef and Pot Stir Fry",
     "tags": [
-      "flexitarian",
-      "high-protein",
-      "one-pot",
-      "post-workout",
-      "umami-rich",
-      "weeknight"
+      "beef",
+      "chinese",
+      "stirfry"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
