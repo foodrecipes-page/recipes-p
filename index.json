@@ -3729,15 +3729,15 @@
   },
   {
     "slug": "peppery-jamaican-peppercorn-pancakes",
-    "title": "Peppery Jamaican Peppercorn Pancakes",
+    "title": "Spicy Jamaican Pancakes",
     "tags": [
-      "peppery",
-      "flaky",
-      "jamaican",
-      "vegetarian"
+      "breakfast",
+      "caribbean",
+      "spicy",
+      "pancakes"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 20,
     "shard": "p"
   },
   {
