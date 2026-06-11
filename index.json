@@ -852,17 +852,15 @@
   },
   {
     "slug": "pan-seared-punjabi-wonton-dumplings",
-    "title": "Pan Seared Punjabi Wonton Dumplings",
+    "title": "Pan-Seared Punjabi Dumplings",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "indian-cuisine",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "punjabi",
+      "dumplings",
+      "fusion",
+      "veggie"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -10224,17 +10222,15 @@
   },
   {
     "slug": "pungent-chewy-norwegian-beans-bouillabaisse",
-    "title": "pungent chewy norwegian beans bouillabaisse",
+    "title": "Norwegian Bean Bouillabaisse",
     "tags": [
-      "date-night",
-      "high-protein",
-      "keto",
-      "low-carb",
       "norwegian",
-      "spherified"
+      "vegetarian",
+      "stew",
+      "beans"
     ],
-    "cuisine": "norwegian",
-    "totalTimeMin": 75,
+    "cuisine": "Norwegian",
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
