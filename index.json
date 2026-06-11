@@ -10886,17 +10886,15 @@
   },
   {
     "slug": "pungent-mediterranean-bacon-roast",
-    "title": "Pungent Mediterranean Bacon Roast",
+    "title": "Roast Mediterranean Lamb with Bacon",
     "tags": [
-      "brunch",
-      "comfort-food",
-      "high-protein",
+      "lamb",
       "mediterranean",
-      "one-pan",
-      "weeknight"
+      "bacon",
+      "roast"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 80,
+    "totalTimeMin": 55,
     "shard": "p"
   },
   {
