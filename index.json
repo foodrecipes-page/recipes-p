@@ -1794,10 +1794,15 @@
   },
   {
     "slug": "peppery-chewy-slovakian-tamarind-dumplings",
-    "title": "Peppery Chewy Slovakian Tamarind Dumplings",
-    "tags": [],
+    "title": "Slovakian Dumplings with Tamarind Sauce",
+    "tags": [
+      "slovakian",
+      "dumplings",
+      "tamarind",
+      "vegetarian"
+    ],
     "cuisine": "Slovakian",
-    "totalTimeMin": null,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -11814,17 +11819,15 @@
   },
   {
     "slug": "pure-gooey-middle-eastern-scamorza-labneh",
-    "title": "Gooey Middle Eastern Scamorza Labneh",
+    "title": "Scorched Scamorza with Middle Eastern Flair",
     "tags": [
-      "appetizer",
-      "cheese",
-      "gluten-free",
+      "dessert",
+      "vegetarian",
       "middle-eastern",
-      "snack",
-      "vegetarian"
+      "cheese"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 32,
+    "totalTimeMin": 20,
     "shard": "p"
   },
   {
