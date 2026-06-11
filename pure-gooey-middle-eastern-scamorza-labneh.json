@@ -1,0 +1,81 @@
+{
+  "slug": "pure-gooey-middle-eastern-scamorza-labneh",
+  "title": "Scorched Scamorza with Middle Eastern Flair",
+  "description": "A Middle Eastern-inspired dessert featuring the smoky flavors of scorched scamorza, perfectly complemented by the creamy texture of labneh.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "dairy",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "scorza cheese",
+      "amount": "8 ounces",
+      "notes": "preferably an Italian-style smoked mozzarella"
+    },
+    {
+      "name": "labneh cheese",
+      "amount": "12 ounces",
+      "notes": "thick and creamy yogurt cheese"
+    },
+    {
+      "name": "honey",
+      "amount": "1 cup",
+      "notes": "preferably a pure, raw honey"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon",
+      "notes": "a Middle Eastern spice with a tangy, slightly sour flavor"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "or other chopped nuts of your choice"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Cut the scamorza cheese into 1-inch (2.5 cm) thick slices.",
+    "Place the scamorza slices on a baking sheet lined with parchment paper.",
+    "Drizzle with honey and sprinkle with sumac, pine nuts, and a pinch of salt.",
+    "Bake for 8-10 minutes, or until the scamorza is golden brown and slightly charred.",
+    "While the scamorza is baking, mix the labneh cheese with a pinch of salt and a drizzle of honey.",
+    "Once the scamorza is done, remove it from the oven and let it cool for a few minutes.",
+    "Serve the scorched scamorza with the labneh mixture spooned over the top.",
+    "Garnish with chopped fresh mint leaves and a drizzle of pomegranate molasses.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "vegetarian",
+    "middle-eastern",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pure-gooey-middle-eastern-scamorza-labneh",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T01:41:36.122Z"
+}
