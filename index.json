@@ -4420,16 +4420,16 @@
   },
   {
     "slug": "peppery-quick-adventurous-ukranian-fajita-tagine",
-    "title": "Peppery Quick Adventurous Ukrainian Fajita Tagine",
+    "title": "Spicy Fajita-Tagine Chicken",
     "tags": [
-      "cheese-lovers",
-      "high-protein",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "chicken",
+      "fajita",
+      "tagine",
+      "moroccan",
+      "mexican"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 40,
+    "cuisine": "Mexican-Moroccan",
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
@@ -10034,17 +10034,15 @@
   },
   {
     "slug": "pulling-pan-seared-mexican-cheese-paella",
-    "title": "Pulling Pan-Seared Mexican Cheese Paella",
+    "title": "Mexican Paella",
     "tags": [
-      "cheesy",
-      "date-night",
-      "high-protein",
       "mexican",
-      "one-pan",
-      "weeknight"
+      "paella",
+      "seafood",
+      "rice"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
