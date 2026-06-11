@@ -8187,16 +8187,14 @@
   },
   {
     "slug": "piquant-venezuelan-tofu-curry",
-    "title": "Piquant Venezuelan tofu curry",
+    "title": "Venezuelan Curry Tofu",
     "tags": [
-      "creamy",
-      "fermented",
-      "one-pot",
-      "quick",
-      "spicy",
-      "vegan"
+      "vegan",
+      "latinamerican",
+      "curry",
+      "tofu"
     ],
-    "cuisine": "Venezuelan",
+    "cuisine": "Latin American",
     "totalTimeMin": 45,
     "shard": "p"
   },
@@ -10309,16 +10307,16 @@
   },
   {
     "slug": "pungent-crisp-vietnamese-papelon-mi-quang",
-    "title": "Pungent Crisp Vietnamese Papelon Mi Quang",
+    "title": "Vietnamese Papelon Salad",
     "tags": [
+      "vietnamese",
+      "salad",
+      "vegetarian",
       "gluten-free",
-      "kid-friendly",
-      "one-pan",
-      "vietnamese-cuisine",
-      "whole30-friendly"
+      "quick"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "p"
   },
   {
