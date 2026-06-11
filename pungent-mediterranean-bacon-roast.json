@@ -1,0 +1,81 @@
+{
+  "slug": "pungent-mediterranean-bacon-roast",
+  "title": "Roast Mediterranean Lamb with Bacon",
+  "description": "A flavorful and aromatic roast lamb dish infused with the bold tastes of the Mediterranean, paired with crispy bacon.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roast lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "Bacon",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "50ml",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "Rinse the lamb shoulder and pat it dry.",
+    "In a small bowl, mix together the minced garlic, chopped rosemary, salt, and black pepper.",
+    "Rub the garlic-rosemary mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Heat the olive oil in a large oven-safe pan over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the pan to the preheated oven and roast the lamb for 20 minutes.",
+    "While the lamb is roasting, cook the bacon in a separate pan until crispy.",
+    "Remove the lamb from the oven and let it rest for 10 minutes before slicing.",
+    "Serve the sliced lamb with crispy bacon on top and garnish with additional rosemary if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "mediterranean",
+    "bacon",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 0,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-mediterranean-bacon-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T23:41:25.677Z"
+}
