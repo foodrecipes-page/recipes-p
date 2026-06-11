@@ -1,0 +1,95 @@
+{
+  "slug": "piquant-venezuelan-tofu-curry",
+  "title": "Venezuelan Curry Tofu",
+  "description": "A flavorful and spicy curry dish from Venezuela using tofu and piquant peppers.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "250g",
+      "notes": "Drain and cut into small cubes"
+    },
+    {
+      "name": "Piquant Peppers",
+      "amount": "4",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Venezuelan Curry Powder",
+      "amount": "2 tsp",
+      "notes": "Available at most Latin American markets"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the piquant peppers and cook for 2 minutes.",
+    "Add the tofu and cook until golden brown, about 5 minutes.",
+    "Add the Venezuelan curry powder and cook for 1 minute, stirring constantly.",
+    "Add the tomato and cook until the sauce has thickened, about 10 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped cilantro.",
+    "Serve with rice, beans, or roasted vegetables if desired.",
+    "Optional: Add some heat with diced hot peppers or red pepper flakes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "latinamerican",
+    "curry",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-venezuelan-tofu-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:48:50.755Z"
+}
