@@ -2353,14 +2353,16 @@
   },
   {
     "slug": "peppery-croatian-chicken-wings-stir-fry",
-    "title": "Peppery Croatian Chicken Wings Stir-fry",
+    "title": "Spicy Chicken Wings",
     "tags": [
-      "peppery-chicken-wings",
-      "halal-friendly",
-      "adventurous-croatian-dish"
+      "chicken",
+      "wings",
+      "snack",
+      "croatian",
+      "spicy"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
