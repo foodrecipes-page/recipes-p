@@ -1,0 +1,65 @@
+{
+  "slug": "pungent-crisp-vietnamese-papelon-mi-quang",
+  "title": "Vietnamese Papelon Salad",
+  "description": "A refreshing Vietnamese-inspired salad featuring crunchy papelon and crisp vegetables.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "Papelon",
+      "amount": "2 cups, torn into bite-sized pieces"
+    },
+    {
+      "name": "Crisp lettuce",
+      "amount": "1 head, chopped"
+    },
+    {
+      "name": "Pungent onions",
+      "amount": "1/2 cup, thinly sliced"
+    },
+    {
+      "name": "Vietnamese herbs (such as mint, basil, cilantro)",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Mi rice noodles",
+      "amount": "1 cup, cooked and cooled"
+    },
+    {
+      "name": "Quang-style chili sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the papelon, lettuce, onions, and herbs.",
+    "2. Cook the mi rice noodles according to the package instructions and add to the bowl.",
+    "3. Drizzle the quang-style chili sauce over the top of the salad and toss to combine.",
+    "4. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "salad",
+    "vegetarian",
+    "gluten-free",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-crisp-vietnamese-papelon-mi-quang",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T22:00:26.239Z"
+}
