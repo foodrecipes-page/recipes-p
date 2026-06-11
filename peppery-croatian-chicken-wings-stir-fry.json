@@ -1,0 +1,69 @@
+{
+  "slug": "peppery-croatian-chicken-wings-stir-fry",
+  "title": "Spicy Chicken Wings",
+  "description": "A simple recipe for spicy chicken wings, marinated in a mix of Croatian and peppery flavors.",
+  "cuisine": "Croatian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken wings",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Croatian paprika",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Peppercorns",
+      "amount": "1 tsp",
+      "notes": "whole"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a blender or food processor, combine Croatian paprika, peppercorns, garlic, salt, and black pepper.",
+    "Add olive oil to the blender and blend until you get a smooth paste.",
+    "Place the chicken wings in a large bowl and toss them with the spice paste until they are evenly coated.",
+    "Line a baking sheet with aluminum foil and spray with cooking spray. Arrange the chicken wings on the baking sheet.",
+    "Bake the chicken wings for 25-30 minutes or until they are cooked through. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "wings",
+    "snack",
+    "croatian",
+    "spicy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-croatian-chicken-wings-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:06:50.675Z"
+}
