@@ -1,0 +1,93 @@
+{
+  "slug": "pulling-pan-seared-mexican-cheese-paella",
+  "title": "Mexican Paella",
+  "description": "A classic Mexican-inspired dish made with savory seafood and spices, cooked to perfection in a flavorful paella.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mexican cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Mussels",
+      "amount": "1 pound",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a paella pan over medium-high heat.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add shrimp and mussels and cook until pink, about 2-3 minutes.",
+    "Add paella rice and stir to coat with oil and mix with seafood.",
+    "Add tomato paste, cumin, chili powder, salt, and pepper. Stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes or until rice is tender.",
+    "Stir in Mexican cheese and cook until melted and bubbly.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "paella",
+    "seafood",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pulling-pan-seared-mexican-cheese-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T02:52:50.018Z"
+}
