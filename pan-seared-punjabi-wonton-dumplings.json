@@ -1,0 +1,83 @@
+{
+  "slug": "pan-seared-punjabi-wonton-dumplings",
+  "title": "Pan-Seared Punjabi Dumplings",
+  "description": "A fusion of Indian and Chinese flavors, these pan-seared dumplings are a hearty and satisfying meal. Serve with your favorite chutney or sauce.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "20-24 wrappers"
+    },
+    {
+      "name": "punjabi spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine the flour, water, and punjabi spice blend. Mix until a dough forms.",
+    "2. Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "3. Divide the dough into 20-24 equal portions.",
+    "4. Roll out each portion into a thin circle.",
+    "5. Place a wonton wrapper in the center of each dough circle.",
+    "6. Add a small spoonful of the onion-garam masala mixture to the center of each wonton wrapper.",
+    "7. Fold the dough over the filling to form a triangle or a square shape.",
+    "8. Press the edges together to seal the dumpling.",
+    "9. Heat 1 tablespoon of ghee or oil in a large non-stick pan over medium heat.",
+    "10. Add the dumplings to the pan and cook for 2-3 minutes on each side, until golden brown.",
+    "11. Serve the dumplings hot with your favorite chutney or sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "punjabi",
+    "dumplings",
+    "fusion",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "5g",
+    "carbs": "30g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-punjabi-wonton-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:05:39.781Z"
+}
