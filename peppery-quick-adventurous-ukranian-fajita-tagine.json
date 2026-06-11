@@ -1,0 +1,95 @@
+{
+  "slug": "peppery-quick-adventurous-ukranian-fajita-tagine",
+  "title": "Spicy Fajita-Tagine Chicken",
+  "description": "A fusion dish combining the bold flavors of fajita seasoning with the aromatic spices of a traditional tagine, served with fluffy basmati rice and steamed vegetables.",
+  "cuisine": "Mexican-Moroccan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "peppery fajita seasoning",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "ukranian paprika",
+      "amount": "1 teaspoon",
+      "notes": "sweet or smoked, your choice"
+    },
+    {
+      "name": "adventurous tagine spice blend",
+      "amount": "1 teaspoon",
+      "notes": "see notes"
+    },
+    {
+      "name": "quick basmati rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the chicken breast and pat dry with paper towels.",
+    "In a small bowl, mix together fajita seasoning, paprika, and tagine spice blend. Rub the spice mixture all over the chicken breast, making sure to coat evenly.",
+    "Heat 1 tablespoon of olive oil in a large Dutch oven over medium-high heat. Add the chicken breast and sear for 2-3 minutes on each side, or until browned.",
+    "Transfer the chicken to a plate and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the pot, then add the chopped onions and cook until translucent, about 5 minutes.",
+    "Add the sliced bell peppers to the pot and cook for an additional 3-4 minutes.",
+    "Add the minced garlic to the pot and cook for 1 minute, stirring constantly.",
+    "Return the chicken breast to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and bake for 20-25 minutes, or until the chicken is cooked through.",
+    "While the chicken is cooking, prepare the basmati rice according to package instructions.",
+    "Once the chicken is done, remove the pot from the oven and let it rest for 5 minutes.",
+    "Fluff the cooked basmati rice with a fork and serve alongside the chicken, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "fajita",
+    "tagine",
+    "moroccan",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 34,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-quick-adventurous-ukranian-fajita-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T03:19:51.500Z"
+}
