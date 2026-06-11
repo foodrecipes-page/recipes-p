@@ -1,0 +1,71 @@
+{
+  "slug": "peppery-chewy-slovakian-tamarind-dumplings",
+  "title": "Slovakian Dumplings with Tamarind Sauce",
+  "description": "A hearty Slovakian-inspired dish featuring tender dumplings in a tangy tamarind sauce.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Slovakian dumplings",
+      "amount": "400g"
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "2 tbsp",
+      "notes": "see notes on preparation"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "for the sauce"
+    },
+    {
+      "name": "Peppery salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chewy bread",
+      "amount": "2 slices",
+      "notes": "for serving"
+    },
+    {
+      "name": "Herbs",
+      "amount": "to taste",
+      "notes": "such as parsley or dill"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Carefully add the Slovakian dumplings to the boiling water.",
+    "Cook for 10-12 minutes or until the dumplings are cooked through.",
+    "While the dumplings are cooking, combine the tamarind paste and water in a saucepan.",
+    "Bring the mixture to a simmer over medium heat.",
+    "Reduce the heat to low and let the sauce simmer for 5 minutes.",
+    "Serve the cooked dumplings with the tamarind sauce spooned over the top.",
+    "Garnish with chopped herbs and serve with chewy bread on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "dumplings",
+    "tamarind",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-chewy-slovakian-tamarind-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T00:43:39.757Z"
+}
