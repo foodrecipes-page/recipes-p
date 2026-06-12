@@ -1,0 +1,63 @@
+{
+  "slug": "piquant-smoky-mexican-chiles-grill",
+  "title": "Mexican Smoky Chiles",
+  "description": "A flavorful dish with a smoky twist, perfect for a quick lunch. Chiles add a spicy kick to this easy recipe.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mexican chiles",
+      "amount": "4",
+      "notes": "You can use any type of mild chiles you prefer"
+    },
+    {
+      "name": "Piquant sauce",
+      "amount": "1/4 cup",
+      "notes": "You can adjust the amount to your desired level of spiciness"
+    },
+    {
+      "name": "Smoky chipotle peppers",
+      "amount": "1-2",
+      "notes": "Use 1 if you prefer a milder flavor, 2 for a spicier taste"
+    },
+    {
+      "name": "Grill",
+      "amount": "",
+      "notes": "You'll need a grill to cook the chiles"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill to medium heat.",
+    "Place the chiles on the grill and cook for 2-3 minutes per side, or until they're slightly charred.",
+    "Transfer the chiles to a bowl and let them cool down.",
+    "Once the chiles are cool enough to handle, peel off the skin, remove the seeds, and chop them into small pieces.",
+    "In a pan, heat the piquant sauce over medium heat.",
+    "Add the chopped chiles and smoky chipotle peppers to the pan and stir well.",
+    "Let the mixture simmer for 2-3 minutes, or until it thickens slightly.",
+    "Serve the Mexican Smoky Chiles warm, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "smoky",
+    "chiles",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-smoky-mexican-chiles-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:44:58.175Z"
+}
