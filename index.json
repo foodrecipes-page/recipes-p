@@ -2695,17 +2695,14 @@
   },
   {
     "slug": "peppery-dense-german-smoked-salmon-stir-fry",
-    "title": "Peppery Dense German Smoked Salmon Stir-fry",
+    "title": "Smoked Salmon German Stir Fry",
     "tags": [
-      "peppery",
-      "dense",
       "german",
-      "smoked salmon",
-      "stir-fry",
-      "gluten-free"
+      "salmon",
+      "stir-fry"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 35,
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -2855,15 +2852,12 @@
   },
   {
     "slug": "peppery-filipino-chicken-breast-bowl",
-    "title": "Peppery Filipino Chicken Breast Bowl",
+    "title": "Filipino Peppery Chicken Breast",
     "tags": [
-      "filipino",
-      "healthy",
-      "no-cook",
-      "crisp",
       "chicken",
-      "rice",
-      "bowls"
+      "filipino",
+      "peppery",
+      "easy"
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 30,
@@ -3923,16 +3917,15 @@
   },
   {
     "slug": "peppery-kenyan-potato-wrap",
-    "title": "Peppery Kenyan Potato Wrap",
+    "title": "Kenyan-Style Wrap",
     "tags": [
-      "comfort-food",
-      "kenyan-cuisine",
-      "lacto-vegetarian",
-      "pandan-leaf",
-      "potato-dish"
+      "snack",
+      "veggie",
+      "easy",
+      "quick"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -7879,16 +7872,15 @@
   },
   {
     "slug": "piquant-smoky-mexican-chiles-grill",
-    "title": "Piquant Smoky Mexican Chiles Grill",
+    "title": "Mexican Smoky Chiles",
     "tags": [
-      "chile",
-      "grill",
-      "low-glycemic",
       "mexican",
-      "vegan"
+      "smoky",
+      "chiles",
+      "grill"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -10195,18 +10187,14 @@
   },
   {
     "slug": "pungent-charred-german-sausage-skillet",
-    "title": "Pungent Charred German Sausage Skillet",
+    "title": "Charred German Sausage Skillet",
     "tags": [
-      "german-cuisine",
-      "gluten-free",
-      "high-protein",
-      "keto-friendly",
-      "one-pan-meal",
-      "skillet-dinner",
-      "weeknight-meal"
+      "german",
+      "sausage",
+      "breakfast"
     ],
-    "cuisine": "german",
-    "totalTimeMin": 35,
+    "cuisine": "German",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
