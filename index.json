@@ -5707,14 +5707,14 @@
   },
   {
     "slug": "pickled-garlic-mediterranean-stir-fry",
-    "title": "Pickled Garlic Mediterranean Stir-fry",
+    "title": "Mediterranean Stir Fry",
     "tags": [
-      "pickled-garlic",
-      "mediterranean-stir-fry",
-      "whole30-friendly"
+      "mediterranean",
+      "stir-fry",
+      "vegetarian"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "p"
   },
   {
@@ -12102,17 +12102,15 @@
   },
   {
     "slug": "purely-creamy-american-cucumber-salad",
-    "title": "Purely Creamy American Cucumber Salad",
+    "title": "Creamy American Salad",
     "tags": [
-      "crowd-pleaser",
-      "low-fat",
-      "macrobiotic-friendly",
-      "quick-snack",
-      "refreshing",
-      "vegetarian"
+      "salad",
+      "easy",
+      "lunch",
+      "dinner"
     ],
     "cuisine": "American",
-    "totalTimeMin": 25,
+    "totalTimeMin": 10,
     "shard": "p"
   },
   {
