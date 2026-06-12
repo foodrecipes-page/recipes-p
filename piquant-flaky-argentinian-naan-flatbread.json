@@ -1,0 +1,96 @@
+{
+  "slug": "piquant-flaky-argentinian-naan-flatbread",
+  "title": "Argentinian Grilled Steak with Chimichurri",
+  "description": "A classic Argentine asado with juicy grilled steak and herby chimichurri sauce served with crispy flatbread.",
+  "cuisine": "argentinian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flank Steak",
+      "amount": "1.5 pounds",
+      "notes": "About 1.5 inches thick"
+    },
+    {
+      "name": "Piquant Flatbread",
+      "amount": "4-6 pieces",
+      "notes": "Best served warm"
+    },
+    {
+      "name": "Argentinian Chimichurri Sauce",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "Optional for some heat"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "High-quality extra virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Optional"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the steak with salt, black pepper, and red pepper flakes.",
+    "Grill the steak for 5-7 minutes per side, or until it reaches your desired level of doneness.",
+    "Transfer the steak to a plate and let it rest for 5 minutes.",
+    "Meanwhile, toast the flatbread on the grill or in the oven until crispy.",
+    "To make the chimichurri sauce, combine parsley, garlic, red pepper flakes, red wine vinegar, and olive oil in a bowl.",
+    "Season with salt and black pepper to taste.",
+    "Serve the grilled steak with chimichurri sauce and warm flatbread on the side.",
+    "Enjoy immediately!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "grilled",
+    "steak",
+    "chimichurri",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-flaky-argentinian-naan-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:40:29.515Z"
+}
