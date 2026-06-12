@@ -1,0 +1,81 @@
+{
+  "slug": "peach-tempeh-stir-fry",
+  "title": "Stir Fry with Caramelized Peaches and Tempeh",
+  "description": "A sweet and savory stir-fry made with tempeh, peaches, and a hint of Asian spices.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peach",
+      "amount": "2 medium",
+      "notes": "canned peaches can be used as a substitute"
+    },
+    {
+      "name": "tempeh",
+      "amount": "8 oz",
+      "notes": "marinated in soy sauce and maple syrup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinating tempeh"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp",
+      "notes": "for marinating tempeh"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated and added to stir-fry"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced and added to stir-fry"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped and added as garnish"
+    }
+  ],
+  "instructions": [
+    "Marinate tempeh in a mixture of soy sauce and maple syrup for at least 30 minutes.",
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add ginger and garlic to the skillet and stir-fry for 1 minute.",
+    "Add tempeh to the skillet and cook for 3-4 minutes, or until golden brown.",
+    "Add peaches to the skillet and stir-fry for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "peach",
+    "tempeh"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peach-tempeh-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T10:37:40.770Z"
+}
