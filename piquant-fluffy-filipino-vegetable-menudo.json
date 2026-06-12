@@ -1,0 +1,81 @@
+{
+  "slug": "piquant-fluffy-filipino-vegetable-menudo",
+  "title": "Filipino Vegetable Menudo",
+  "description": "A flavorful and spicy Filipino-inspired stew made with menudo and vegetables, perfect for a weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "mildly spicy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Menudo",
+      "amount": "1 cup",
+      "notes": "canned or homemade"
+    },
+    {
+      "name": "Piquant Vegetable",
+      "amount": "2 cups",
+      "notes": "such as bell peppers or chayote"
+    },
+    {
+      "name": "Fluffy vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pot over medium heat.",
+    "Sauté the onion and garlic until softened.",
+    "Add the menudo, piquant vegetable, and tomato.",
+    "Stir in the fish sauce (if using) and season with salt.",
+    "Bring to a boil, then reduce the heat and simmer for 20 minutes.",
+    "Serve hot, garnished with chopped green onions (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "vegetarian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-fluffy-filipino-vegetable-menudo",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T10:12:03.910Z"
+}
