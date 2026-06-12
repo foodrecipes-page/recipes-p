@@ -1,0 +1,85 @@
+{
+  "slug": "purely-smoky-vietnamese-pork-bun-cha",
+  "title": "Vietnamese-Style Pork Meatballs with Rice Bun",
+  "description": "A fusion recipe of Vietnamese and smoky flavors featuring pork meatballs served on a crunchy rice bun. Pair with your favorite dipping sauce.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Purely rice bun",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Pork",
+      "amount": "500g",
+      "notes": "Ground"
+    },
+    {
+      "name": "Smoky fish sauce",
+      "amount": "2 tbsp",
+      "notes": "Use as marinade"
+    },
+    {
+      "name": "Vietnamese chili sauce",
+      "amount": "1 tbsp",
+      "notes": "Use as marinade"
+    },
+    {
+      "name": "Vietnamese coriander",
+      "amount": "1 tbsp",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mix pork, egg, salt, and black pepper in a bowl.",
+    "Add smoky fish sauce and Vietnamese chili sauce to the bowl and mix well.",
+    "Shape the mixture into meatballs.",
+    "Heat a pan with some oil over medium heat.",
+    "Add the meatballs to the pan and cook until browned on all sides.",
+    "Transfer the meatballs to a baking tray and bake at 180°C for 12 minutes.",
+    "Split the rice bun in half lengthwise.",
+    "Place a few meatballs on each bun half.",
+    "Sprinkle chopped Vietnamese coriander on top of the meatballs.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "snack",
+    "meatballs",
+    "rice-bun"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-smoky-vietnamese-pork-bun-cha",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T12:48:50.068Z"
+}
