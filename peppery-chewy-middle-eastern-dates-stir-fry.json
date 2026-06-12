@@ -1,0 +1,74 @@
+{
+  "slug": "peppery-chewy-middle-eastern-dates-stir-fry",
+  "title": "Stir Fry with Middle Eastern Flair",
+  "description": "A flavorful and exotic stir fry dish inspired by the Middle Eastern cuisine, featuring chewy and peppery flavors.",
+  "cuisine": "middle eastern",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Chewy",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Peppery",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the onion and cook for 3-4 minutes or until translucent.",
+    "Add the garlic and ginger and cook for 1 minute, until fragrant.",
+    "Add the chewy and peppery ingredients and cook for 2-3 minutes, until they start to soften.",
+    "Add the dates and stir-fry for another 2-3 minutes, until the ingredients are well combined.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle eastern",
+    "stir fry",
+    "dates"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-chewy-middle-eastern-dates-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T08:35:03.674Z"
+}
