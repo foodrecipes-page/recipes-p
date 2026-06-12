@@ -1,0 +1,80 @@
+{
+  "slug": "purely-crispy-brazilian-chicken-skewers",
+  "title": "Brazilian Chicken Skewers",
+  "description": "Grilled chicken skewers with a Brazilian twist, marinated in a mixture of spices and herbs.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, cut into 1-inch pieces"
+    },
+    {
+      "name": "pineapple",
+      "amount": "1 cup, chunks"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup, chunks"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1/2 cup, chunks"
+    },
+    {
+      "name": "crispy purely",
+      "amount": "1/4 cup, crushed"
+    },
+    {
+      "name": "chili powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brazilian seasoning",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, mix together chili powder, garlic powder, and Brazilian seasoning.",
+    "Add chicken, pineapple, onion, and bell pepper to the bowl, and toss to coat with the spice mixture.",
+    "Thread chicken and vegetables onto skewers, leaving a little space between each piece.",
+    "Brush skewers with olive oil and season with salt.",
+    "Grill skewers for 10-12 minutes, turning occasionally, until chicken is cooked through.",
+    "Serve immediately, garnished with crispy purely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "skewers",
+    "chicken",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-crispy-brazilian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T09:06:01.717Z"
+}
