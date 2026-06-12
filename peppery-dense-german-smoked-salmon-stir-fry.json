@@ -1,0 +1,73 @@
+{
+  "slug": "peppery-dense-german-smoked-salmon-stir-fry",
+  "title": "Smoked Salmon German Stir Fry",
+  "description": "A quick and flavorful German-inspired stir fry featuring smoked salmon and a variety of spices.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "peppery german sausage",
+      "amount": "1 pound",
+      "notes": " sliced into thin rounds"
+    },
+    {
+      "name": "smoked salmon fillet",
+      "amount": "6 ounces",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "dense german bread",
+      "amount": "4 slices",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the sliced sausage and cook until browned, about 3-4 minutes.",
+    "Remove the sausage from the skillet and set aside.",
+    "Add the sliced onion and bell pepper to the skillet and cook until tender, about 4-5 minutes.",
+    "Add the smoked salmon to the skillet and cook for an additional 2-3 minutes, until heated through.",
+    "Return the cooked sausage to the skillet and stir in the stir-fry sauce.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Serve the smoked salmon mixture over the sliced German bread.",
+    "Garnish with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "salmon",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-dense-german-smoked-salmon-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:34:56.572Z"
+}
