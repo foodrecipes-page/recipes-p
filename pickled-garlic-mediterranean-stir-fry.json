@@ -1,0 +1,72 @@
+{
+  "slug": "pickled-garlic-mediterranean-stir-fry",
+  "title": "Mediterranean Stir Fry",
+  "description": "A quick and flavorful stir fry featuring Mediterranean ingredients",
+  "cuisine": null,
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Pickled Red Onions",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mediterranean Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Stir Fry Vegetables",
+      "amount": "1 cup mixed ( bell peppers, carrots, broccoli )"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup crumbled"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat Mediterranean Olive Oil in a large skillet over medium-high heat.",
+    "Add Garlic and sauté for 1 minute.",
+    "Add Stir Fry Vegetables and cook until tender.",
+    "Stir in Pickled Red Onions and cook for an additional 2 minutes.",
+    "Top with Feta Cheese and Fresh Parsley.",
+    "Season with Salt and Black Pepper to taste."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pickled-garlic-mediterranean-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T07:22:39.740Z"
+}
