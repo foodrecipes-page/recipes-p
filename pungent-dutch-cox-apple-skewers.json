@@ -1,0 +1,69 @@
+{
+  "slug": "pungent-dutch-cox-apple-skewers",
+  "title": "Grilled Dutch Apple Skewers",
+  "description": "A sweet and tangy dessert recipe featuring tender Dutch apples grilled to perfection. Perfect for a summer evening.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dutch apple",
+      "amount": "2",
+      "notes": "Cores removed"
+    },
+    {
+      "name": "Pungent",
+      "amount": "1/4 cup",
+      "notes": "Honey"
+    },
+    {
+      "name": "Cox",
+      "amount": "1/4 cup",
+      "notes": "Sliced almonds"
+    },
+    {
+      "name": "Apple",
+      "amount": "1/2 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium heat.",
+    "Thread apple pieces onto skewers.",
+    "In a small bowl, mix together honey and sliced almonds.",
+    "Brush the honey-almond mixture onto the apple pieces.",
+    "Season with salt and pepper to taste.",
+    "Grill skewers for 8-10 minutes or until apples are tender.",
+    "Serve warm and enjoy!",
+    "Optional: Drizzle with additional honey for extra sweetness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "summer",
+    "dessert",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 30,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-dutch-cox-apple-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:40:12.772Z"
+}
