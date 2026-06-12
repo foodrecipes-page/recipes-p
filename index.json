@@ -1740,17 +1740,14 @@
   },
   {
     "slug": "peppery-chewy-middle-eastern-dates-stir-fry",
-    "title": "Peppery Chewy Middle Eastern Dates Stir-fry",
+    "title": "Stir Fry with Middle Eastern Flair",
     "tags": [
-      "peppery",
-      "chewy",
-      "middle-eastern",
-      "hangover-cure",
-      "blackcurrant-jam",
-      "halal-friendly"
+      "middle eastern",
+      "stir fry",
+      "dates"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 15,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -12143,18 +12140,15 @@
   },
   {
     "slug": "purely-crispy-brazilian-chicken-skewers",
-    "title": "Purely Crispy Brazilian Chicken Skewers",
+    "title": "Brazilian Chicken Skewers",
     "tags": [
-      "brazilian",
-      "chicken",
-      "crispy",
       "grilled",
-      "herbal",
-      "high-protein",
-      "sick-day"
+      "skewers",
+      "chicken",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 27,
     "shard": "p"
   },
   {
