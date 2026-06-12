@@ -1,0 +1,50 @@
+{
+  "slug": "peppery-creamy-saudi-arabian-rolled-oats-grill",
+  "title": "Grilled Arabian Oat Delight",
+  "description": "A flavorful and healthy dish that combines the best of the Middle East with a hint of spice. Perfect for a quick snack or side!",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rolled Oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Saudian Spices (peppery, creamy)",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium heat.",
+    "In a bowl, mix together oats and saudian spices.",
+    "Form into patties.",
+    "Grill for 5 minutes per side, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "oats",
+    "snack",
+    "healthy",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-creamy-saudi-arabian-rolled-oats-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T09:40:35.613Z"
+}
