@@ -1,0 +1,63 @@
+{
+  "slug": "pungent-charred-german-sausage-skillet",
+  "title": "Charred German Sausage Skillet",
+  "description": "A hearty, charred German sausage skillet made with flavorful sausages and crispy vegetables.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "German Sausage",
+      "amount": "1 pound",
+      "notes": "You can use any type of German sausage, such as bratwurst or knockwurst."
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": "A cast-iron skillet works best for this recipe."
+    },
+    {
+      "name": "Pungent Onion",
+      "amount": "1 large",
+      "notes": "You can use any type of onion, but a pungent one will add more flavor."
+    },
+    {
+      "name": "Charred Bell Pepper",
+      "amount": "2",
+      "notes": "You can char the bell pepper by holding it over the flame on your stovetop."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "You can also use black pepper or any other seasoning you like."
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium-high heat.",
+    "Add the sliced onions and cook until they're caramelized, stirring occasionally.",
+    "Add the charred bell peppers and cook for another 2-3 minutes.",
+    "Add the German sausage to the skillet and cook until browned, about 5 minutes.",
+    "Season with salt and serve hot.",
+    "Serve with crusty bread or over mashed potatoes for a filling breakfast."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "sausage",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-charred-german-sausage-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:14:31.761Z"
+}
