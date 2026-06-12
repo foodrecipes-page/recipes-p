@@ -1245,13 +1245,13 @@
   },
   {
     "slug": "peach-tempeh-stir-fry",
-    "title": "Peach Tempeh Stir-Fry",
+    "title": "Stir Fry with Caramelized Peaches and Tempeh",
     "tags": [
-      "peach-tempeh-stir-fry",
-      "garlic-pork-stir-fry",
-      "pescatarian-friendly"
+      "stir-fry",
+      "peach",
+      "tempeh"
     ],
-    "cuisine": "Dutch",
+    "cuisine": "Asian",
     "totalTimeMin": 25,
     "shard": "p"
   },
@@ -1933,16 +1933,16 @@
   },
   {
     "slug": "peppery-creamy-saudi-arabian-rolled-oats-grill",
-    "title": "Peppery Creamy Saudi-Arabian Rolled Oats Grill",
+    "title": "Grilled Arabian Oat Delight",
     "tags": [
-      "grill",
-      "lacto-vegetarian",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "grilled",
+      "oats",
+      "snack",
+      "healthy",
+      "easy"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 30,
+    "totalTimeMin": 20,
     "shard": "p"
   },
   {
@@ -7057,17 +7057,14 @@
   },
   {
     "slug": "piquant-fluffy-filipino-vegetable-menudo",
-    "title": "Piquant Fluffy Filipino Vegetable Menudo",
+    "title": "Filipino Vegetable Menudo",
     "tags": [
-      "comfort-food",
-      "filipino-food",
-      "one-pot",
-      "spicy",
+      "filipino",
       "vegetarian",
-      "weeknight-meal"
+      "stew"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
@@ -10530,14 +10527,16 @@
   },
   {
     "slug": "pungent-fiery-mediterranean-gochugaru-pilaf",
-    "title": "Pungent Fiery Mediterranean Gochugaru Pilaf",
+    "title": "Spicy Mediterranean Pilaf",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "spicy",
+      "mediterranean",
+      "pilaf",
+      "lunch",
+      "vegetarian"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
