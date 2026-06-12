@@ -1,0 +1,71 @@
+{
+  "slug": "peppery-gooey-malaysian-fish-pancakes",
+  "title": "Pan-Seared Fish with Malaysian Pancakes",
+  "description": "A spicy and savory dish featuring pan-seared fish served with crispy Malaysian-style pancakes. This dish is perfect for a light dinner or lunch.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillet",
+      "amount": "4 oz",
+      "notes": "Any white fish works well"
+    },
+    {
+      "name": "Pancake mix",
+      "amount": "1 cup",
+      "notes": "Use a gluten-free mix for a gluten-free option"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beat the egg before adding it to the pancake mix"
+    },
+    {
+      "name": "Peppery sauce",
+      "amount": "2 tbsp",
+      "notes": "Store-bought or homemade peppery sauce works well"
+    },
+    {
+      "name": "Gooey sauce",
+      "amount": "1 tbsp",
+      "notes": "Similar to hoisin sauce"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For pan-frying the fish"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Season the fish fillet with salt and pepper. Pan-fry the fish for 3-4 minutes on each side, or until cooked through.",
+    "While the fish is cooking, mix the pancake mix and egg in a bowl. Add the gooey sauce and mix well.",
+    "Pour the pancake mix mixture into a non-stick pan or skillet. Cook for 2-3 minutes on each side, or until the pancakes are golden brown.",
+    "Serve the pan-seared fish with the Malaysian pancakes and a drizzle of peppery sauce.",
+    "Enjoy your delicious Pan-Seared Fish with Malaysian Pancakes!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "pancakes",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-gooey-malaysian-fish-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T05:56:47.605Z"
+}
