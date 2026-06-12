@@ -12634,18 +12634,15 @@
   },
   {
     "slug": "purely-smoky-vietnamese-pork-bun-cha",
-    "title": "Purely Smoky Vietnamese Pork Bun Cha",
+    "title": "Vietnamese-Style Pork Meatballs with Rice Bun",
     "tags": [
-      "grilled-pork",
-      "mediterranean-friendly",
-      "pickled-vegetables",
-      "rice-noodles",
-      "smoky-flavors",
-      "street-food",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "snack",
+      "meatballs",
+      "rice-bun"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
