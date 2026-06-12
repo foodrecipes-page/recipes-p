@@ -1,0 +1,81 @@
+{
+  "slug": "pungent-fiery-mediterranean-gochugaru-pilaf",
+  "title": "Spicy Mediterranean Pilaf",
+  "description": "A flavorful and spicy pilaf dish inspired by Mediterranean cuisine, featuring a blend of aromatic spices and the heat of gochugaru.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pungent Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fiery Red Pepper",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Mediterranean Oregano",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Gochugaru",
+      "amount": "1/4 tsp",
+      "notes": "Korean red pepper flakes"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add minced garlic and sauté for 1 minute until fragrant.",
+    "Add diced red pepper and cook for 3-4 minutes until tender.",
+    "Add pilaf and stir to combine with garlic and pepper.",
+    "Add Mediterranean oregano, gochugaru, salt, and black pepper.",
+    "Stir to combine and cook for 2 minutes.",
+    "Squeeze lemon juice over the pilaf and stir to combine.",
+    "Transfer pilaf to a serving dish and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "mediterranean",
+    "pilaf",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-fiery-mediterranean-gochugaru-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T11:36:57.727Z"
+}
