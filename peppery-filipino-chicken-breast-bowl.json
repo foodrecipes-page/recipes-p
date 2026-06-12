@@ -1,0 +1,85 @@
+{
+  "slug": "peppery-filipino-chicken-breast-bowl",
+  "title": "Filipino Peppery Chicken Breast",
+  "description": "A twist on traditional chicken breast with a flavorful peppery Filipino-inspired sauce. Perfect for a quick and easy dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "peppercorns",
+      "amount": "2 tbsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken breast with salt and black pepper.",
+    "Heat oil in a skillet over medium-high heat.",
+    "Sear the chicken breast until browned on both sides, about 2-3 minutes per side.",
+    "Transfer the chicken to a baking dish and bake for 15-20 minutes or until cooked through.",
+    "While the chicken cooks, heat the oil in a small saucepan over medium heat.",
+    "Add the minced garlic and chopped onion and sauté until fragrant, about 1-2 minutes.",
+    "Add the soy sauce, fish sauce, brown sugar, and black pepper to the saucepan.",
+    "Bring the sauce to a simmer and cook until thickened, about 2-3 minutes.",
+    "Serve the chicken breast with the peppery Filipino-inspired sauce spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "filipino",
+    "peppery",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-filipino-chicken-breast-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:51:52.778Z"
+}
