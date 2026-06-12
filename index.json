@@ -3398,17 +3398,14 @@
   },
   {
     "slug": "peppery-gooey-malaysian-fish-pancakes",
-    "title": "Peppery Gooey Malaysian Fish Pancakes",
+    "title": "Pan-Seared Fish with Malaysian Pancakes",
     "tags": [
-      "malaysian",
       "fish",
-      "pancake",
-      "diabetic-friendly",
-      "low-carb",
-      "breakfast"
+      "pancakes",
+      "malaysian"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 22,
     "shard": "p"
   },
   {
@@ -7003,17 +7000,16 @@
   },
   {
     "slug": "piquant-flaky-argentinian-naan-flatbread",
-    "title": "Piquant Flaky Argentinian Naan Flatbread",
+    "title": "Argentinian Grilled Steak with Chimichurri",
     "tags": [
-      "citrus",
-      "flaky",
-      "low-carb",
-      "post-workout",
-      "vegan",
-      "whole30"
+      "argentinian",
+      "grilled",
+      "steak",
+      "chimichurri",
+      "flatbread"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 27,
+    "cuisine": "argentinian",
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
