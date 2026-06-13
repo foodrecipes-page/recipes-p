@@ -5619,14 +5619,16 @@
   },
   {
     "slug": "pesto-saudia-olive-stir-fry",
-    "title": "Pesto Saudia Olive Stir-fry",
+    "title": "Saudi-Style Stir-Fried Pesto Chicken",
     "tags": [
-      "pesto",
+      "saudi",
       "stir-fry",
-      "saudi-arabian"
+      "chicken",
+      "pesto",
+      "arabic"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 20,
+    "cuisine": "saudi",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -11409,18 +11411,16 @@
   },
   {
     "slug": "pungent-snappy-norwegian-kanten-agar-bowl",
-    "title": "Pungent Snappy Norwegian Kanten Agar Bowl",
+    "title": "Norwegian Panna Cotta with Kanten",
     "tags": [
-      "high-protein",
-      "norwegian-cuisine",
-      "plant-based",
-      "post-workout",
-      "pungent",
-      "snappy",
-      "vegan-friendly"
+      "dessert",
+      "creamy",
+      "norwegian",
+      "kanten",
+      "agar"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 20,
+    "cuisine": "Nordic",
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
@@ -12284,18 +12284,16 @@
   },
   {
     "slug": "purely-molten-slovakian-chicken-pilaf",
-    "title": "Purely Molten Slovakian Chicken Pilaf",
+    "title": "Slovakian Chicken Pilaf",
     "tags": [
-      "comfort-food",
-      "easy-to-make",
-      "jain-friendly",
-      "one-pot",
+      "chicken",
+      "pilaf",
       "slovakian",
-      "vegetarian",
-      "weeknight"
+      "sausage",
+      "comfort food"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 27,
     "shard": "p"
   },
   {
