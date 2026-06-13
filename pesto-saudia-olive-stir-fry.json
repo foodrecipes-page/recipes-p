@@ -1,0 +1,82 @@
+{
+  "slug": "pesto-saudia-olive-stir-fry",
+  "title": "Saudi-Style Stir-Fried Pesto Chicken",
+  "description": "A flavorful and aromatic dish from Saudi cuisine, featuring chicken cooked in a mix of pesto, olive oil, and spices.",
+  "cuisine": "saudi",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "pesto",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "saudi",
+      "amount": "1 tsp",
+      "notes": "ground spices mix"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium",
+      "notes": "for garnish"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned on both sides, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the pesto and stir-fry for 1-2 minutes.",
+    "Return the chicken to the skillet and stir-fry for another 2-3 minutes.",
+    "Season with salt and Saudi ground spices mix to taste.",
+    "Serve hot, garnished with chopped parsley.",
+    "Serve with steamed rice or as a main dish.",
+    "Enjoy your delicious Saudi-style stir-fried pesto chicken!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi",
+    "stir-fry",
+    "chicken",
+    "pesto",
+    "arabic"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pesto-saudia-olive-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:32:27.346Z"
+}
