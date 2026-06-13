@@ -1,0 +1,67 @@
+{
+  "slug": "pungent-snappy-norwegian-kanten-agar-bowl",
+  "title": "Norwegian Panna Cotta with Kanten",
+  "description": "A creamy dessert made with Norwegian kanten and agar. Perfect for warm evenings.",
+  "cuisine": "Nordic",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "kanten",
+      "amount": "250g"
+    },
+    {
+      "name": "agar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pungent",
+      "amount": "1/2 cup",
+      "notes": "such as activated charcoal powder"
+    },
+    {
+      "name": "snappy",
+      "amount": "1/4 cup",
+      "notes": "such as snappy ginger"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Soak the kanten in water for 4 hours.",
+    "Drain the kanten and blend with agar in a saucepan.",
+    "Add pungent and snappy to the saucepan.",
+    "Cook over low heat, stirring constantly, until the mixture thickens.",
+    "Pour the mixture into bowls.",
+    "Refrigerate until set.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "creamy",
+    "norwegian",
+    "kanten",
+    "agar"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-snappy-norwegian-kanten-agar-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:30:39.260Z"
+}
