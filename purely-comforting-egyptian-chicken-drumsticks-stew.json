@@ -1,0 +1,96 @@
+{
+  "slug": "purely-comforting-egyptian-chicken-drumsticks-stew",
+  "title": "Egyptian Chicken Stew",
+  "description": "A hearty and comforting stew made with tender chicken, vegetables, and aromatic spices. Enjoy as a satisfying meal.",
+  "cuisine": "egyptian",
+  "diet": [
+    "comforting"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Remove chicken and set aside.",
+    "Add onion, garlic, carrot, and potato to the pot.",
+    "Cook, stirring occasionally, until vegetables are slightly tender.",
+    "Add tomato paste and cook, stirring constantly, for 1 minute.",
+    "Add chicken broth and bring to a boil.",
+    "Return chicken to the pot and cover with a lid.",
+    "Transfer pot to the preheated oven and braise for 25-30 minutes, or until chicken is cooked through.",
+    "Stir in cumin and coriander. Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "comfort-food",
+    "stew",
+    "egyptian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-comforting-egyptian-chicken-drumsticks-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:14:54.611Z"
+}
