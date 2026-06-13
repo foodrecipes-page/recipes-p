@@ -3682,14 +3682,14 @@
   },
   {
     "slug": "peppery-italian-bread-flour-stir-fry",
-    "title": "Italian Peppery Focaccia",
+    "title": "Italian-Style Crispy Bread",
     "tags": [
-      "italian-focaccia",
-      "peppery-bread",
-      "simple-snack"
+      "italian",
+      "bread",
+      "snack"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 15,
+    "totalTimeMin": 22,
     "shard": "p"
   },
   {
@@ -12000,17 +12000,15 @@
   },
   {
     "slug": "purely-comforting-egyptian-chicken-drumsticks-stew",
-    "title": "Egyptian Chicken Drumsticks Stew",
+    "title": "Egyptian Chicken Stew",
     "tags": [
+      "chicken",
       "comfort-food",
-      "gluten-free",
-      "high-protein",
-      "middle-eastern",
-      "one-pot",
-      "weeknight"
+      "stew",
+      "egyptian-cuisine"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 60,
+    "cuisine": "egyptian",
+    "totalTimeMin": 55,
     "shard": "p"
   },
   {
