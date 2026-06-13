@@ -1,0 +1,75 @@
+{
+  "slug": "purely-pickled-argentinian-white-yam-empanadas",
+  "title": "Argentinian Empanadas with Pickled Yam",
+  "description": "A twist on traditional empanadas, filled with pickled yam and served with a side of purely Argentinean flair.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Argentinian empanadas",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Purely chimichurri sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Pickled yam",
+      "amount": "1 small yam, peeled and diced",
+      "notes": "see pickling instructions below"
+    },
+    {
+      "name": "White onion",
+      "amount": "1/4 cup, diced",
+      "notes": "optional, for added flavor"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "optional, for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the empanadas in half and fill each half with a spoonful of pickled yam.",
+    "Drizzle with chimichurri sauce and sprinkle with parsley, if using.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 10-12 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "pickled-yam",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-pickled-argentinian-white-yam-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T17:25:32.106Z"
+}
