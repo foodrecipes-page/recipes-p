@@ -1,0 +1,84 @@
+{
+  "slug": "peppery-juicy-german-tiger-prawns-brochette",
+  "title": "Prawns and Tiger Brochette",
+  "description": "A flavorful and easy-to-make dish featuring succulent prawns and tiger meat, skewered and grilled to perfection.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free",
+    "seafood-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Prawns",
+      "amount": "1 pound",
+      "notes": "Shell-on"
+    },
+    {
+      "name": "Tiger",
+      "amount": "1 pound",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Peppery German Brochette Sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Juicy Tiger Marinade",
+      "amount": "1/4 cup",
+      "notes": "See instructions for ingredients"
+    },
+    {
+      "name": "Tiger Marinade (see instructions for ingredients)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "German Tiger Peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Tiger Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Oil for brushing",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a bowl, whisk together German Tiger Peppers, Tiger Marinade, and Oil for brushing.",
+    "3. Add the sliced tiger to the marinade and mix well.",
+    "4. Thread tiger onto German Brochette, leaving a little space between each piece.",
+    "5. Season with Tiger Salt to taste.",
+    "6. Grill the brochette for 6-8 minutes per side, or until the tiger is cooked through.",
+    "7. Meanwhile, peel and de-vein the prawns and season with salt.",
+    "8. Grill the prawns for 2-3 minutes per side, or until they are pink and cooked through.",
+    "9. Serve the tiger and prawns hot with Peppery German Brochette Sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "grilling",
+    "seafood",
+    "asian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-juicy-german-tiger-prawns-brochette",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T20:10:17.767Z"
+}
