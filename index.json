@@ -3682,14 +3682,13 @@
   },
   {
     "slug": "peppery-italian-bread-flour-stir-fry",
-    "title": "Peppery Italian Bread Flour Stir-fry",
+    "title": "Italian Peppery Focaccia",
     "tags": [
-      "peppery",
-      "crispy",
-      "italian",
-      "bread-flour"
+      "italian-focaccia",
+      "peppery-bread",
+      "simple-snack"
     ],
-    "cuisine": "Sicilian",
+    "cuisine": "Italian",
     "totalTimeMin": 15,
     "shard": "p"
   },
@@ -11255,16 +11254,14 @@
   },
   {
     "slug": "pungent-quick-fix-oaxacan-bay-leaves-fried-dough-balls",
-    "title": "Pungent Quick-Fix Oaxacan Bay Leaves Fried Dough Balls",
+    "title": "Oaxacan Fried Dough Balls",
     "tags": [
       "mexican",
-      "snack-attack",
-      "sweet-and-savory",
-      "vegan-friendly",
-      "weeknight"
+      "fried-dough",
+      "snack"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 18,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -12341,17 +12338,15 @@
   },
   {
     "slug": "purely-pickled-argentinian-white-yam-empanadas",
-    "title": "Purely Pickled Argentinian White Yam Empanadas",
+    "title": "Argentinian Empanadas with Pickled Yam",
     "tags": [
-      "argentinian-cuisine",
+      "argentinian",
       "empanadas",
-      "gluten-free-options",
-      "pickled-vegetables",
-      "vegetarian-dishes",
-      "yuzu-recipes"
+      "pickled-yam",
+      "snack"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
