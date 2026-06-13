@@ -9228,14 +9228,16 @@
   },
   {
     "slug": "poppy-seed-bliss",
-    "title": "Poppy Seed Bliss",
+    "title": "Blissful Poppy Seed Bliss Balls",
     "tags": [
+      "healthy",
+      "snack",
+      "oats",
       "poppy-seeds",
-      "bliss",
-      "croatian"
+      "bliss"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 40,
+    "cuisine": "american",
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
