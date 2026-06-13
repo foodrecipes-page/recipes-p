@@ -1,58 +1,68 @@
 {
   "slug": "peppery-italian-bread-flour-stir-fry",
-  "title": "Italian Peppery Focaccia",
-  "description": "A simple Italian flatbread infused with peppery flavors. Perfect for dipping or as a side.",
+  "title": "Italian-Style Crispy Bread",
+  "description": "A crispy bread recipe with an Italian twist. Perfect as a snack or side dish.",
   "cuisine": "Italian",
   "diet": [
-    "vegetarian",
     "gluten"
   ],
   "meal": "snack",
   "ingredients": [
     {
-      "name": "Italian bread",
+      "name": "Peppery Italian Bread",
       "amount": "1 loaf",
-      "notes": ""
+      "notes": null
     },
     {
       "name": "Flour",
-      "amount": "1 cup",
-      "notes": ""
+      "amount": "1/2 cup",
+      "notes": "for dusting"
     },
     {
-      "name": "Peppery",
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Garlic Powder",
       "amount": "1 tsp",
-      "notes": "optional, for extra flavor"
+      "notes": null
     }
   ],
   "instructions": [
-    "Preheat the oven to 425°F (220°C).",
-    "Preheat a large skillet over medium heat.",
-    "Slice the Italian bread into 1-inch thick slices.",
-    "In a bowl, mix together the flour and sliced bread.",
-    "Transfer the mixture to the preheated skillet and cook for 2 minutes on each side.",
-    "Transfer the skillet to the oven and bake for 8-10 minutes, or until golden brown.",
-    "Remove from the oven and sprinkle with peppery for extra flavor.",
-    "Let cool for a few minutes before serving."
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the Italian bread into 1-inch slices.",
+    "Place the bread slices on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the bread slices.",
+    "Sprinkle salt and garlic powder evenly over the bread slices.",
+    "Dust the bread slices with flour.",
+    "Bake for 10-12 minutes or until crispy and golden brown.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm and enjoy."
   ],
-  "prepTimeMin": 5,
-  "cookTimeMin": 10,
-  "totalTimeMin": 15,
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "italian-focaccia",
-    "peppery-bread",
-    "simple-snack"
+    "italian",
+    "bread",
+    "snack"
   ],
   "nutrition": {
-    "calories": 220,
+    "calories": 160,
     "protein": 4,
-    "carbs": 40,
-    "fat": 2
+    "carbs": 30,
+    "fat": 4
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/peppery-italian-bread-flour-stir-fry",
   "providerUsed": "groq",
-  "createdAt": "2026-06-09T17:57:53.191Z"
+  "createdAt": "2026-06-10T21:13:32.066Z"
 }
