@@ -1,0 +1,93 @@
+{
+  "slug": "purely-molten-slovakian-chicken-pilaf",
+  "title": "Slovakian Chicken Pilaf",
+  "description": "A hearty Slovakian-inspired dish featuring chicken and pilaf, cooked to perfection.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "slovakian sausage",
+      "amount": "4 ounces",
+      "notes": "such as kielbasa"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned on both sides, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the sausage to the skillet and cook until browned, about 2-3 minutes.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the pilaf to the skillet and cook for 1-2 minutes, stirring constantly.",
+    "Add the chicken broth to the skillet and bring to a boil.",
+    "Return the chicken to the skillet and reduce heat to low.",
+    "Simmer, covered, for 10-12 minutes or until the chicken is cooked through and the pilaf is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "pilaf",
+    "slovakian",
+    "sausage",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-molten-slovakian-chicken-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:29:55.478Z"
+}
