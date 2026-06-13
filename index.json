@@ -1097,16 +1097,15 @@
   },
   {
     "slug": "paneer-date-night-delight",
-    "title": "Paneer Date Night Delight",
+    "title": "Paneer Date Delight",
     "tags": [
       "paneer",
-      "date-night",
-      "russian-dish",
-      "creaminess",
-      "low-carb-friendly"
+      "dates",
+      "dessert",
+      "north-indian"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 50,
+    "cuisine": "North Indian",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -9697,17 +9696,16 @@
   },
   {
     "slug": "promptly-packed-saudi-arabian-toor-dal-onigiri",
-    "title": "Promptly Packed Saudi Arabian Toor Dal Onigiri",
+    "title": "Saudi Arabian Toor Dal Wrap",
     "tags": [
-      "low-fat",
-      "one-pan",
-      "quick-fix",
       "saudi-arabian",
-      "snack",
-      "vegetarian"
+      "indian",
+      "vegetarian",
+      "gluten-free",
+      "lunch"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
