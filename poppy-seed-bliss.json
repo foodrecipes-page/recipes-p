@@ -1,0 +1,76 @@
+{
+  "slug": "poppy-seed-bliss",
+  "title": "Blissful Poppy Seed Bliss Balls",
+  "description": "A sweet and crunchy treat made with poppy seeds and blissful oats, perfect for a healthy snack.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "poppy seeds",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "bliss",
+      "amount": "1 cup",
+      "notes": "blanched almonds"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine oats, poppy seeds, and bliss.",
+    "In a separate bowl, mix together honey and coconut oil until well combined.",
+    "Add vanilla extract to the honey mixture and stir well.",
+    "Pour the wet ingredients into the dry ingredients and mix until a dough forms.",
+    "Cover the dough and refrigerate for at least 30 minutes.",
+    "Once chilled, use a small cookie scoop to form the dough into balls.",
+    "Place the balls on a baking sheet lined with parchment paper.",
+    "Refrigerate for an additional 30 minutes to set.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "snack",
+    "oats",
+    "poppy-seeds",
+    "bliss"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/poppy-seed-bliss",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T03:26:24.283Z"
+}
