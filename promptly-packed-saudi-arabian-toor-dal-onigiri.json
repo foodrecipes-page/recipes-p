@@ -1,0 +1,82 @@
+{
+  "slug": "promptly-packed-saudi-arabian-toor-dal-onigiri",
+  "title": "Saudi Arabian Toor Dal Wrap",
+  "description": "A flavorful and nutritious wrap filled with Saudi Arabian-inspired Toor Dal, served with a side of Japanese-style Onigiri.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Toor Dal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion, ginger, and garlic. Cook until onion is translucent.",
+    "Add cumin, coriander, and turmeric. Cook for 1 minute.",
+    "Add Toor Dal and water. Bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Season with salt to taste.",
+    "Warm Onigiri according to package instructions.",
+    "Fill each Onigiri with Toor Dal mixture.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "indian",
+    "vegetarian",
+    "gluten-free",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/promptly-packed-saudi-arabian-toor-dal-onigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:23:09.107Z"
+}
