@@ -1,0 +1,66 @@
+{
+  "slug": "pungent-quick-fix-oaxacan-bay-leaves-fried-dough-balls",
+  "title": "Oaxacan Fried Dough Balls",
+  "description": "A crispy, cheesy fried dough ball recipe inspired by Mexican flavors.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dough",
+      "amount": "1 package of pizza dough",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "oaxacan cheese",
+      "amount": "1 cup shredded",
+      "notes": "queso fresco or asadero work well"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 whole",
+      "notes": "for flavoring the oil"
+    },
+    {
+      "name": "fried",
+      "amount": "vegetable oil for frying",
+      "notes": "about 2-3 inches deep in a pot"
+    },
+    {
+      "name": "fix",
+      "amount": "1 tablespoon",
+      "notes": "all-purpose flour, for dusting"
+    }
+  ],
+  "instructions": [
+    "1. Heat the oil in a large pot over medium-high heat until it reaches 375°F.",
+    "2. Cut the pizza dough into small balls, about 1 1/2 inches in diameter.",
+    "3. Dust the dough balls with flour to prevent sticking.",
+    "4. Fry the dough balls in batches until golden brown, about 2-3 minutes per side.",
+    "5. Using a slotted spoon, remove the fried dough balls from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "6. Sprinkle the oaxacan cheese over the fried dough balls.",
+    "7. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "fried-dough",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-quick-fix-oaxacan-bay-leaves-fried-dough-balls",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T18:08:34.460Z"
+}
