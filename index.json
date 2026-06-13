@@ -4121,19 +4121,15 @@
   },
   {
     "slug": "peppery-mediterranean-runner-bean-salad",
-    "title": "Peppery Mediterranean Runner Bean Salad",
+    "title": "Runner Bean Salad",
     "tags": [
-      "vegan",
-      "air-fry",
-      "mediterranean",
-      "salad",
-      "weeknight",
-      "peppery",
       "runner-bean",
-      "quick"
+      "salad",
+      "vegetarian",
+      "vegan"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 27,
+    "totalTimeMin": 10,
     "shard": "p"
   },
   {
