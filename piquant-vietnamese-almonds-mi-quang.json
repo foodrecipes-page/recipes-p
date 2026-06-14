@@ -1,0 +1,61 @@
+{
+  "slug": "piquant-vietnamese-almonds-mi-quang",
+  "title": "Vietnamese Almond Crusted Piquant Delight",
+  "description": "A fusion of flavors with a crunchy almond crust on a piquant delight, inspired by Vietnamese cuisine.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Piquant",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vietnamese Mi",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Quang (Vietnamese rice noodles)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Rinse the piquant and dry with paper towels.",
+    "In a food processor, grind the almonds into a fine crumb.",
+    "In a shallow dish, mix the ground almonds and Vietnamese mi.",
+    "Dip each piquant piece into the almond mixture, coating evenly.",
+    "Place the coated piquant on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until the almond crust is golden brown.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "snack",
+    "vietnamese",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-vietnamese-almonds-mi-quang",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:33:42.033Z"
+}
