@@ -5286,16 +5286,15 @@
   },
   {
     "slug": "perfectly-paired-mediterranean-lamb-kebabs",
-    "title": "Perfectly Paired Mediterranean Lamb Kebabs",
+    "title": "Greek Lamb Kebabs with Mediterranean Flair",
     "tags": [
-      "keto-friendly",
-      "lamb-recipes",
-      "low-carb",
-      "mediterranean-inspired",
-      "puff-pastry"
+      "greek",
+      "kebabs",
+      "lamb",
+      "mediterranean"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 38,
     "shard": "p"
   },
   {
@@ -6831,16 +6830,14 @@
   },
   {
     "slug": "piquant-crispy-kenyan-chicken-kebabs",
-    "title": "Piquant Crispy Kenyan Chicken Kebabs",
+    "title": "Kenyan Kebabs with Spicy Piquant Sauce",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "mediterranean-inspired",
-      "one-pan",
-      "weeknight"
+      "kenyan",
+      "kebabs",
+      "spicy",
+      "chicken"
     ],
-    "cuisine": "Kenyan",
+    "cuisine": "kenyan",
     "totalTimeMin": 35,
     "shard": "p"
   },
