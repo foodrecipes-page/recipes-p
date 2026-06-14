@@ -3480,16 +3480,15 @@
   },
   {
     "slug": "peppery-gooey-tunisian-romano-pepper-tagine",
-    "title": "Peppery Gooey Tunisian Romano Pepper Tagine",
+    "title": "Tunisian Chicken Tagine",
     "tags": [
-      "tunisian-cuisine",
-      "romano-peppers",
-      "slow-cooked",
-      "fodmap-friendly",
-      "brunch-recipe"
+      "chicken",
+      "tagine",
+      "north-african",
+      "gluten-free"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 140,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
