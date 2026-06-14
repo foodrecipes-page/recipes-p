@@ -1,0 +1,73 @@
+{
+  "slug": "peppery-saudia-asparagus-stir-fry",
+  "title": "Asparagus Stir Fry",
+  "description": "A quick and easy vegetable stir fry recipe with asparagus, perfect for a weeknight dinner. This dish is low in calories and rich in vitamins.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Asparagus",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Peppery oil",
+      "amount": "2 tablespoons",
+      "notes": "Such as sesame or vegetable oil"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Saudia seasoning",
+      "amount": "1 teaspoon",
+      "notes": "Such as curry or chili powder"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Optional"
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of peppery oil in a large skillet or wok over medium-high heat.",
+    "Add the asparagus and cook for 3-4 minutes, or until tender.",
+    "Add the garlic powder and saudia seasoning, and stir to combine.",
+    "Reduce heat to medium-low and add the remaining 1 tablespoon of peppery oil.",
+    "Stir in the stir-fry sauce, if using.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asparagus",
+    "stir-fry",
+    "vegetarian",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-saudia-asparagus-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:49:53.208Z"
+}
