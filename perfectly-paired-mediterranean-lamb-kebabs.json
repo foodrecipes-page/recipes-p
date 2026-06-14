@@ -1,0 +1,93 @@
+{
+  "slug": "perfectly-paired-mediterranean-lamb-kebabs",
+  "title": "Greek Lamb Kebabs with Mediterranean Flair",
+  "description": "A delicious and flavorful summer dish, perfect for grilling. The combination of lamb, vegetables, and herbs creates a tasty and refreshing meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "Mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. In a large bowl, whisk together olive oil, lemon juice, garlic, salt, and black pepper.",
+    "3. Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "4. Thread the lamb, onion, bell pepper, and zucchini onto skewers.",
+    "5. Brush the grill with olive oil to prevent sticking.",
+    "6. Grill the kebabs for 8-10 minutes per side, or until the lamb is cooked to your desired level of doneness.",
+    "7. During the last 2 minutes of grilling, brush the kebabs with lemon juice and sprinkle with mint leaves.",
+    "8. Serve the kebabs hot, garnished with additional mint leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "kebabs",
+    "lamb",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/perfectly-paired-mediterranean-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:05:15.841Z"
+}
