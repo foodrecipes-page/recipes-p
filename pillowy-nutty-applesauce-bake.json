@@ -1,0 +1,74 @@
+{
+  "slug": "pillowy-nutty-applesauce-bake",
+  "title": "Nutty Bake Muffins",
+  "description": "Moist and flavorful muffins with a hint of nutty flavor, perfect for a quick breakfast or snack.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "chopped nuts",
+      "amount": "1/2 cup",
+      "notes": "walnuts or almonds"
+    },
+    {
+      "name": "applesauce",
+      "amount": "1/2 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "Cut puff pastry into 6-8 squares, depending on desired muffin size.",
+    "In a small bowl, mix together chopped nuts, applesauce, sugar, eggs, and vanilla extract.",
+    "Place a spoonful of the nut mixture onto one half of each pastry square, leaving a 1/2-inch border around the edges.",
+    "Fold the other half of the pastry square over the filling, pressing edges to seal.",
+    "Use a knife or fork to create a decorative edge around the muffin.",
+    "Place the muffins on the prepared baking sheet, leaving about 1 inch of space between each muffin.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Remove from oven and let cool on a wire rack for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "muffins",
+    "nutty",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-nutty-applesauce-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:00:58.907Z"
+}
