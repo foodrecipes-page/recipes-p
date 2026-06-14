@@ -1,0 +1,94 @@
+{
+  "slug": "pillowy-adventurous-portuguese-tagine",
+  "title": "Portuguese Chicken Tagine",
+  "description": "A hearty and flavorful chicken tagine recipe with the warmth of portuguese spices.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "meat-dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "pillowy white rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "adventurous portuguese spices",
+      "amount": "1 tablespoon",
+      "notes": "tagine spice blend"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a large tagine or Dutch oven over medium-high heat.",
+    "Add the chopped onions and cook until they start to brown, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chicken thighs, and cook until browned on all sides, about 5-7 minutes.",
+    "Add the portuguese spices, salt, and black pepper, and stir to combine.",
+    "Add the canned diced tomatoes and chicken broth, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 30-40 minutes, or until the chicken is cooked through.",
+    "Serve the tagine over pillowy white rice.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "tagine",
+    "portuguese",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-adventurous-portuguese-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T08:07:02.481Z"
+}
