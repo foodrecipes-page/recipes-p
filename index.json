@@ -8910,16 +8910,15 @@
   },
   {
     "slug": "poached-british-butter-sun-dried-tomato",
-    "title": "Poached British Butter Sun-Dried Tomato",
+    "title": "Sun-Dried Tomato Pasta",
     "tags": [
-      "british-dishes",
-      "sun-dried-tomatoes",
-      "poached-meal",
-      "raw-friendly",
-      "cozy-dinner"
+      "pasta",
+      "chicken",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "British",
-    "totalTimeMin": 15,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
