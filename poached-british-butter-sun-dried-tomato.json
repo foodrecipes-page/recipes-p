@@ -1,0 +1,80 @@
+{
+  "slug": "poached-british-butter-sun-dried-tomato",
+  "title": "Sun-Dried Tomato Pasta",
+  "description": "A simple British-inspired pasta dish featuring sun-dried tomatoes and poached chicken.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sun-dried tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Poached chicken breast",
+      "amount": "1 breast"
+    },
+    {
+      "name": "Pasta (gluten-free)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Parmesan cheese (vegetarian)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil (extra virgin)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat.",
+    "Add the sun-dried tomatoes and cook for 2-3 minutes, until fragrant.",
+    "Add the poached chicken breast to the skillet and stir to combine with the tomatoes and butter.",
+    "Season with salt and black pepper to taste.",
+    "In a separate bowl, combine the cooked pasta, chicken and tomato mixture, and toss to combine.",
+    "Top with grated Parmesan cheese and chopped fresh basil.",
+    "Drizzle with olive oil and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "chicken",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/poached-british-butter-sun-dried-tomato",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:45:14.106Z"
+}
