@@ -1,0 +1,63 @@
+{
+  "slug": "pretty-egyptian-white-cornmeal-pilaf",
+  "title": "Egyptian Corn Fritters",
+  "description": "Crispy fritters filled with a sweet corn and pilaf mixture, perfect for a snack or side dish.",
+  "cuisine": "egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "white pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pretty corn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "egyptian spices",
+      "amount": "1 tsp",
+      "notes": "cumin, paprika, salt"
+    },
+    {
+      "name": "egyptian olive oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine cornmeal, pilaf, and spices.",
+    "Add the corn and mix well.",
+    "Gradually add the olive oil and mix until the mixture forms a thick batter.",
+    "Using a 1/4 cup measuring cup, scoop the batter into hot oil (350°F).",
+    "Fry for 3-4 minutes on each side, or until golden brown.",
+    "Drain on paper towels and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn",
+    "fritters",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pretty-egyptian-white-cornmeal-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:46:50.889Z"
+}
