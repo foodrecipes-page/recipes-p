@@ -6155,17 +6155,15 @@
   },
   {
     "slug": "pillowy-nutty-applesauce-bake",
-    "title": "pillowy nutty applesauce bake",
+    "title": "Nutty Bake Muffins",
     "tags": [
-      "applesauce",
       "breakfast",
-      "brunch",
-      "low-fat",
-      "polish",
-      "pressure-cooker"
+      "muffins",
+      "nutty",
+      "bake"
     ],
-    "cuisine": "polish",
-    "totalTimeMin": 24,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -9509,15 +9507,15 @@
   },
   {
     "slug": "powdered-sugar-moroccan-vegetables-tagine",
-    "title": "Powdered Sugar Moroccan Vegetables Tagine",
+    "title": "Moroccan Vegetable Tagine",
     "tags": [
-      "air-fryer",
-      "meal-prep",
       "moroccan",
-      "vegetarian"
+      "vegetarian",
+      "stew",
+      "tagine"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 27,
+    "totalTimeMin": 50,
     "shard": "p"
   },
   {
