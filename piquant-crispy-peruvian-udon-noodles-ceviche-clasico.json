@@ -1,0 +1,84 @@
+{
+  "slug": "piquant-crispy-peruvian-udon-noodles-ceviche-clasico",
+  "title": "Peruvian Ceviche Udon Noodle Bowl",
+  "description": "A twist on traditional Peruvian ceviche, this dish combines the flavors of the sea with the comforting texture of udon noodles.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Udon Noodles",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Ceviche",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Crispy Fried Shallots",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Piquant Sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Peruvian Corn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook the udon noodles according to the package instructions.",
+    "Shred the cooked noodles into bite-sized pieces.",
+    "In a large bowl, combine the ceviche, crispy fried shallots, and piquant sauce.",
+    "Add the shredded noodles to the bowl and toss to combine.",
+    "Stir in the chopped cilantro, salt, and pepper to taste.",
+    "Serve the Peruvian ceviche udon noodle bowl immediately.",
+    "Garnish with additional crispy fried shallots and cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "ceviche",
+    "noodles",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-crispy-peruvian-udon-noodles-ceviche-clasico",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T04:25:45.152Z"
+}
