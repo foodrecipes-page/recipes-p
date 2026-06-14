@@ -1,0 +1,94 @@
+{
+  "slug": "piquant-crispy-kenyan-chicken-kebabs",
+  "title": "Kenyan Kebabs with Spicy Piquant Sauce",
+  "description": "A flavorful and spicy dish originating from Kenya, featuring marinated kebabs served with a piquant sauce.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Kenyan Piquant Sauce",
+      "amount": "1/4 cup",
+      "notes": "available at most African grocery stores"
+    },
+    {
+      "name": "Crispy Onions",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kebabs Skewers",
+      "amount": "10-12",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together coconut oil, garlic powder, salt, black pepper, and paprika.",
+    "Add in the chicken breast and marinate for at least 30 minutes.",
+    "Preheat grill to medium-high heat.",
+    "Thread the chicken, onions, and kebabs skewers onto skewers.",
+    "Grill for 8-10 minutes per side, or until the chicken is cooked through.",
+    "While the kebabs are cooking, mix together Kenyan Piquant Sauce and lime juice in a small bowl.",
+    "Serve the kebabs with the piquant sauce spooned over the top.",
+    "Garnish with crispy onions and additional piquant sauce if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "kebabs",
+    "spicy",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-crispy-kenyan-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:03:15.839Z"
+}
