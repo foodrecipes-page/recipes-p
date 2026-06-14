@@ -4494,15 +4494,14 @@
   },
   {
     "slug": "peppery-saudia-asparagus-stir-fry",
-    "title": "Peppery Saudia Asparagus Stir-fry",
+    "title": "Asparagus Stir Fry",
     "tags": [
-      "peppery",
-      "saudi-arabian",
       "asparagus",
       "stir-fry",
-      "crispy"
+      "vegetarian",
+      "low-carb"
     ],
-    "cuisine": "Saudi Arabian",
+    "cuisine": null,
     "totalTimeMin": 15,
     "shard": "p"
   },
@@ -9636,18 +9635,14 @@
   },
   {
     "slug": "pretty-egyptian-white-cornmeal-pilaf",
-    "title": "Pretty Egyptian White Cornmeal Pilaf",
+    "title": "Egyptian Corn Fritters",
     "tags": [
-      "egyptian-cuisine",
-      "healthy",
-      "jain-friendly",
-      "one-pan",
-      "quick-fix",
-      "vegetarian",
-      "weeknight"
+      "corn",
+      "fritters",
+      "vegetarian"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 25,
+    "cuisine": "egyptian",
+    "totalTimeMin": 18,
     "shard": "p"
   },
   {
