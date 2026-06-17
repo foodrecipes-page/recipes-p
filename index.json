@@ -5271,16 +5271,14 @@
   },
   {
     "slug": "perfectly-crunchy-dutch-pretzels-toast",
-    "title": "Perfectly Crunchy Dutch Pretzels Toast",
+    "title": "Crunchy Pretzel Toast",
     "tags": [
-      "crunchy-snack",
-      "dutch-cuisine",
-      "easy-to-make",
-      "quick-snack",
-      "sesame-seeds",
-      "vegetarian-friendly"
+      "snack",
+      "easy",
+      "quick",
+      "breakfast"
     ],
-    "cuisine": "Dutch",
+    "cuisine": "American",
     "totalTimeMin": 15,
     "shard": "p"
   },
