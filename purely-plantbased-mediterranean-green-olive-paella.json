@@ -1,0 +1,98 @@
+{
+  "slug": "purely-plantbased-mediterranean-green-olive-paella",
+  "title": "Paella with Green Vegetables",
+  "description": "A vegetarian paella recipe featuring green vegetables and a mediterranean twist.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "plantbased"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "preferably Spanish"
+    },
+    {
+      "name": "green olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the green olives and artichoke hearts, and cook for 2 minutes.",
+    "Add the frozen peas and green beans, and cook for 3-4 minutes.",
+    "Add the rice and stir to coat with the oil and mix with the vegetables.",
+    "Add the lemon juice, tomato paste (if using), salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "mediterranean",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-plantbased-mediterranean-green-olive-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T01:35:23.913Z"
+}
