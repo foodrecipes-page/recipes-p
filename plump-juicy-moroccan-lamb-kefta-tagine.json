@@ -1,0 +1,94 @@
+{
+  "slug": "plump-juicy-moroccan-lamb-kefta-tagine",
+  "title": "Moroccan Lamb Tagine",
+  "description": "A classic Moroccan dish made with tender lamb and flavorful spices, cooked to perfection in a traditional clay pot.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb kefta",
+      "amount": "1 pound",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay pot or Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add cumin, coriander, cinnamon, salt, and pepper. Cook for 1 minute.",
+    "Add lamb kefta and cook until browned on all sides, about 5 minutes.",
+    "Add 1 cup of water to the pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes or until lamb is tender.",
+    "Garnish with parsley and serve over couscous or rice.",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "tagine",
+    "kefta"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/plump-juicy-moroccan-lamb-kefta-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:30:07.107Z"
+}
