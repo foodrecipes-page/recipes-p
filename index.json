@@ -1322,15 +1322,15 @@
   },
   {
     "slug": "pear-melange-grilled-salad",
-    "title": "Pear Melange Grilled Salad",
+    "title": "Grilled Pear Salad",
     "tags": [
-      "pear",
-      "grilled",
       "salad",
-      "vegetarian"
+      "grilled",
+      "pear",
+      "healthy"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "cuisine": "American",
+    "totalTimeMin": 15,
     "shard": "p"
   },
   {
@@ -4090,13 +4090,12 @@
   },
   {
     "slug": "peppery-mediterranean-oregano-stir-fry",
-    "title": "Peppery Mediterranean Oregano Stir-fry",
+    "title": "Spicy Mediterranean Chicken Stir Fry",
     "tags": [
-      "peppery",
-      "crisp",
+      "chicken",
       "mediterranean",
-      "monsoon",
-      "oyster-plant-dried"
+      "stir-fry",
+      "gluten-free"
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 25,
@@ -8356,17 +8355,15 @@
   },
   {
     "slug": "pleasantly-chewy-croatian-fennel-frittata",
-    "title": "Pleasantly Chewy Croatian Fennel Frittata",
+    "title": "Croatian Frittata with Fennel",
     "tags": [
-      "brunch",
-      "croatian",
+      "frittata",
       "fennel",
-      "lacto-vegetarian",
-      "one-pan",
-      "umami"
+      "croatian",
+      "breakfast"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
