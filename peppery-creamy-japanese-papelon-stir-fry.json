@@ -1,0 +1,58 @@
+{
+  "slug": "peppery-creamy-japanese-papelon-stir-fry",
+  "title": "Spicy Papelon Stir Fry",
+  "description": "A simple and flavorful papelon-based stir fry with a kick of heat.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "papelon",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "peppery",
+      "amount": "1/4 cup sliced"
+    },
+    {
+      "name": "creamy",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "japanese",
+      "amount": "1 tablespoon soy sauce"
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium-high heat.",
+    "Add the sliced papelon and cook for 2-3 minutes.",
+    "Add the sliced peppery and cook for another 2 minutes.",
+    "Add the creamy and stir well.",
+    "Add the Japanese soy sauce and stir-fry for 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "papelon",
+    "peppery",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-creamy-japanese-papelon-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:02:28.351Z"
+}
