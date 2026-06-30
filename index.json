@@ -3938,16 +3938,15 @@
   },
   {
     "slug": "peppery-light-british-peaches-pie-and-mash",
-    "title": "Peppery Light British Peaches Pie-and-Mash",
+    "title": "Classic British Peach Pie",
     "tags": [
       "british",
-      "comfort-food",
-      "low-carb",
-      "mains",
-      "weeknight"
+      "peach",
+      "pie",
+      "dessert"
     ],
-    "cuisine": "british",
-    "totalTimeMin": 55,
+    "cuisine": "British",
+    "totalTimeMin": 60,
     "shard": "p"
   },
   {
