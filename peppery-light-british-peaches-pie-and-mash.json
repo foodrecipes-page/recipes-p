@@ -1,0 +1,65 @@
+{
+  "slug": "peppery-light-british-peaches-pie-and-mash",
+  "title": "Classic British Peach Pie",
+  "description": "A traditional British dessert featuring peaches in a sweet and flaky pie crust. Perfect for warm summer days or as a comforting treat any time of the year.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Peaches",
+      "amount": "4 ripe peaches, sliced"
+    },
+    {
+      "name": "Peppery Pastry Dough",
+      "amount": "1 sheet of puff pastry, thawed"
+    },
+    {
+      "name": "Light Brown Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Mash",
+      "amount": "2 tbsp for dusting"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 egg, beaten (for egg wash)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the puff pastry dough to a thickness of about 1/8 inch.",
+    "Place the sliced peaches in the center of the dough, leaving a 1-inch border around the edges.",
+    "Dust the peaches with a little mash and sprinkle with brown sugar.",
+    "Brush the edges of the dough with the beaten egg for a golden glaze.",
+    "Fold the dough over the peaches to form a pie crust, pressing the edges to seal.",
+    "Cut a few slits in the top crust to allow steam to escape.",
+    "Brush the top crust with the remaining egg wash.",
+    "Place the pie on a baking sheet lined with parchment paper and bake for 40-45 minutes, or until the crust is golden brown.",
+    "Let the pie cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "peach",
+    "pie",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-light-british-peaches-pie-and-mash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T01:58:45.339Z"
+}
