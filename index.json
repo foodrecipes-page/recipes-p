@@ -1875,16 +1875,15 @@
   },
   {
     "slug": "peppery-creamy-japanese-papelon-stir-fry",
-    "title": "Peppery Creamy Japanese Papelon Stir-fry",
+    "title": "Spicy Papelon Stir Fry",
     "tags": [
-      "peppery",
-      "creamy",
-      "japanese",
+      "stir-fry",
       "papelon",
-      "plant-based"
+      "peppery",
+      "vegetarian"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 30,
+    "cuisine": "Asian",
+    "totalTimeMin": 20,
     "shard": "p"
   },
   {
@@ -8273,17 +8272,15 @@
   },
   {
     "slug": "plant-based-chinese-fish-shui-zhu-yu",
-    "title": "Plant Based Chinese Fish Shui Zhu Yu",
+    "title": "Zhu Shui Yu Stir Fry",
     "tags": [
-      "chinese-food",
-      "flaky",
-      "nutty",
-      "plant-based",
-      "post-workout",
-      "stone-bowl"
+      "chinese",
+      "stir-fry",
+      "vegetarian",
+      "vegan"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
     "shard": "p"
   },
   {
@@ -8700,16 +8697,15 @@
   },
   {
     "slug": "plump-juicy-moroccan-lamb-kefta-tagine",
-    "title": "Moroccan Lamb Kefta Tagine",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "flavorful-dinners",
-      "lamb-recipes",
-      "moroccan-cuisine",
-      "one-pot-meals",
-      "special-occasions"
+      "moroccan",
+      "lamb",
+      "tagine",
+      "kefta"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 180,
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
