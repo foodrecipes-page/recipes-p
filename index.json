@@ -6221,17 +6221,15 @@
   },
   {
     "slug": "pillowy-roasted-japanese-chicken-noodles",
-    "title": "Pillowy Roasted Japanese Chicken Noodles",
+    "title": "Chicken Katsu Noodle Stir Fry",
     "tags": [
-      "japanese-cuisine",
-      "lemon-glaze",
-      "mediterranean-friendly",
-      "noodle-dish",
-      "post-workout",
-      "roasted-chicken"
+      "japanese",
+      "stir-fry",
+      "noodles",
+      "chicken"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
