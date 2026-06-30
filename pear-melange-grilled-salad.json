@@ -1,0 +1,78 @@
+{
+  "slug": "pear-melange-grilled-salad",
+  "title": "Grilled Pear Salad",
+  "description": "A refreshing and healthy salad made with grilled pears, mixed greens, and a hint of melange.",
+  "cuisine": "American",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pear",
+      "amount": "2",
+      "notes": "Grilled and sliced"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups",
+      "notes": "Fresh and crisp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For dressing"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1 tbsp",
+      "notes": "For dressing"
+    },
+    {
+      "name": "melange",
+      "amount": "1 tsp",
+      "notes": "For flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium heat.",
+    "Wash and slice the pear into wedges.",
+    "Grill the pear for 2-3 minutes per side, or until caramelized.",
+    "In a large bowl, combine the mixed greens and grilled pear.",
+    "Drizzle with olive oil and balsamic vinegar.",
+    "Sprinkle with melange and season with salt and pepper.",
+    "Toss to combine and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "grilled",
+    "pear",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pear-melange-grilled-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:44:46.983Z"
+}
