@@ -1,0 +1,62 @@
+{
+  "slug": "peppery-italian-pepper-crumble",
+  "title": "Peppery Crumble Crusted Pepper Fritters",
+  "description": "A savory fritter filled with crunchy pepper and topped with a crumbly Italian crust.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pepper",
+      "amount": "250g",
+      "notes": "any color"
+    },
+    {
+      "name": "Peppery",
+      "amount": "2 tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Italian crumble",
+      "amount": "100g",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Chop the pepper into small pieces and set aside.",
+    "Mix the peppery crumbs with a pinch of salt and set aside.",
+    "In a large bowl, combine the chopped pepper and peppery crumbs.",
+    "Divide the mixture into 6-8 portions, depending on desired fritter size.",
+    "Shape each portion into a ball and then flatten slightly into a disk.",
+    "Coat each fritter with the Italian crumble mixture.",
+    "Place the fritters on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "pepper",
+    "italian",
+    "crumble",
+    "fritter",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-italian-pepper-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T01:44:09.717Z"
+}
