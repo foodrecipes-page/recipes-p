@@ -1,0 +1,95 @@
+{
+  "slug": "pungent-moroccan-farfalle-khlea",
+  "title": "Moroccan Chicken and Farfalle",
+  "description": "A flavorful and aromatic pasta dish with chicken, inspired by Moroccan cuisine.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Khlea",
+      "amount": "2 tablespoons",
+      "notes": "Moroccan preserved lemon"
+    },
+    {
+      "name": "farfalle",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the farfalle according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the chicken breast and cook until browned on both sides and cooked through, about 5-6 minutes per side.",
+    "Transfer the chicken to a plate and set aside.",
+    "In the same skillet, add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the ground cumin, smoked paprika, salt, and black pepper.",
+    "Add the chopped Khlea and cook for an additional 2 minutes.",
+    "Add the cooked farfalle to the skillet and toss with the sauce.",
+    "Slice the cooked chicken and add it to the pasta.",
+    "Toss everything together and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "chicken",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 50,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-moroccan-farfalle-khlea",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:56:48.749Z"
+}
