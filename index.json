@@ -3692,14 +3692,16 @@
   },
   {
     "slug": "peppery-italian-pepper-crumble",
-    "title": "Peppery Italian Pepper Crumble",
+    "title": "Peppery Crumble Crusted Pepper Fritters",
     "tags": [
-      "peppery",
-      "dense",
-      "italian"
+      "pepper",
+      "italian",
+      "crumble",
+      "fritter",
+      "snack"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 27,
     "shard": "p"
   },
   {
@@ -12355,17 +12357,14 @@
   },
   {
     "slug": "purely-plantbased-mediterranean-green-olive-paella",
-    "title": "Purely Plantbased Mediterranean Green Olive Paella",
+    "title": "Paella with Green Vegetables",
     "tags": [
-      "fondue-pot",
-      "gluten-free",
+      "paella",
       "mediterranean",
-      "one-pot",
-      "plant-based",
-      "vegan"
+      "vegetarian"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
