@@ -1,0 +1,79 @@
+{
+  "slug": "piquant-german-potatoes-bake",
+  "title": "German Potato Bake",
+  "description": "A hearty German-inspired dish featuring potatoes baked in a creamy sauce.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "piquant sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "german cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Pierce the potatoes with a fork a few times to allow steam to escape.",
+    "Rub the potatoes with olive oil and season with salt and pepper.",
+    "Place the potatoes directly on the middle rack of the oven.",
+    "Bake the potatoes for 45-60 minutes or until they're tender when pierced with a fork.",
+    "While the potatoes are baking, mix the piquant sauce and german cheese in a bowl.",
+    "Once the potatoes are done, remove them from the oven and let them cool for a few minutes.",
+    "Slice the potatoes in half lengthwise and fill them with the piquant cheese mixture.",
+    "Return the stuffed potatoes to the oven and bake for an additional 10-15 minutes or until the cheese is melted and bubbly.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "potatoes",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-german-potatoes-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T05:35:07.188Z"
+}
