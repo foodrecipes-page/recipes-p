@@ -1,0 +1,94 @@
+{
+  "slug": "pungent-malaysian-chicken-noodles",
+  "title": "Malaysian Chicken Noodle Soup",
+  "description": "A flavorful and comforting soup originating from Malaysia, made with tender chicken, springy noodles, and a blend of aromatic spices.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "Halal",
+    "Gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, boneless and skinless, cut into bite-sized pieces"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces, dried"
+    },
+    {
+      "name": "pungent",
+      "amount": "2 cloves, minced",
+      "notes": "galangal or ginger"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "limes",
+      "amount": "2, juiced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, heat 2 tablespoons of oil over medium heat.",
+    "2. Add the minced pungent (or ginger) and cook for 1 minute.",
+    "3. Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "4. Add the minced garlic and cook for another minute.",
+    "5. Add the chicken breast and cook until browned, about 5 minutes.",
+    "6. Add the chicken broth, coconut milk, fish sauce, lime juice, salt, and pepper.",
+    "7. Bring the mixture to a boil, then reduce the heat to low and simmer for 10-12 minutes or until the chicken is cooked through.",
+    "8. Cook the rice noodles according to package instructions.",
+    "9. Add the cooked noodles to the pot and stir to combine.",
+    "10. Taste and adjust the seasoning as needed.",
+    "11. Serve hot and garnish with chopped cilantro, if desired.",
+    "12. Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "chicken",
+    "noodle",
+    "soup",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-malaysian-chicken-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T18:19:55.783Z"
+}
