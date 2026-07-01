@@ -1,0 +1,87 @@
+{
+  "slug": "pungent-pan-seared-russian-beef-casserole",
+  "title": "Beef Russian Casserole",
+  "description": "A hearty casserole dish featuring seared beef in a savory Russian-inspired sauce, topped with a crispy crust.",
+  "cuisine": "Russian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1.5 pounds",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "Pungent Mushroom Gravy Mix",
+      "amount": "1 packet",
+      "notes": " Russian-style"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "for sauce"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the beef with salt and pepper.",
+    "Sear the beef in a large pan over medium-high heat until browned on all sides, about 5 minutes.",
+    "Transfer the beef to a plate and set aside.",
+    "In the same pan, add 2 tablespoons of butter and sauté the mixture from the gravy mix until fragrant.",
+    "Add the beef broth and heavy cream, whisking until smooth.",
+    "Return the beef to the pan and simmer until the sauce thickens, about 10 minutes.",
+    "Meanwhile, prepare the casserole by greasing a 9x13-inch baking dish with butter.",
+    "Arrange the beef in the prepared dish, then spoon the sauce over the top.",
+    "In a small bowl, mix the flour and a pinch of salt and pepper. Sprinkle the mixture evenly over the sauce.",
+    "Dot the top of the casserole with the remaining 2 tablespoons of butter.",
+    "Bake in the preheated oven until the crust is golden brown and the casserole is hot and bubbly, about 25-30 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "casserole",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-pan-seared-russian-beef-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T21:38:18.356Z"
+}
