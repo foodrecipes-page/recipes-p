@@ -3174,18 +3174,15 @@
   },
   {
     "slug": "peppery-french-coconut-crumble",
-    "title": "Peppery French Coconut Crumble",
+    "title": "Coconut Crumble French Toast",
     "tags": [
-      "peppery",
-      "crumbly",
-      "energizing",
+      "breakfast",
       "french",
       "coconut",
-      "breakfast",
-      "snack"
+      "crumble"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 35,
+    "cuisine": "french",
+    "totalTimeMin": 22,
     "shard": "p"
   },
   {
