@@ -2544,18 +2544,15 @@
   },
   {
     "slug": "peppery-crumbly-vietnamese-chinese-cabbage-crumble",
-    "title": "Peppery Crumbly Vietnamese Chinese Cabbage Crlme",
+    "title": "Vietnamese-Style Crispy Cabbage Spring Rolls",
     "tags": [
-      "peppery",
-      "crumbly",
-      "midnight-craving",
+      "snack",
+      "spring-rolls",
       "vietnamese",
-      "chinese-cabbage",
-      "slow-cook",
-      "sugar-free-friendly"
+      "vegetarian"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -3660,15 +3657,16 @@
   },
   {
     "slug": "peppery-irish-glucose-crumble",
-    "title": "Peppery Irish Glucose Crumble",
+    "title": "Peppery Irish Crumble Muffins",
     "tags": [
-      "peppery",
-      "crunchy",
       "irish",
-      "diabetic-friendly"
+      "peppery",
+      "muffins",
+      "breakfast",
+      "snack"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 15,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -5943,17 +5941,14 @@
   },
   {
     "slug": "pillowy-fermented-moroccan-lentils-bissara",
-    "title": "Pillowy Fermented Moroccan Lentils Bissara",
+    "title": "Moroccan Lentil Soup",
     "tags": [
-      "fermented",
-      "gluten-free",
-      "lentils",
-      "moroccan",
-      "one-pot",
-      "vegan"
+      "lentil-soup",
+      "moroccan-cuisine",
+      "vegetarian"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
@@ -10979,17 +10974,14 @@
   },
   {
     "slug": "pungent-pan-seared-russian-beef-casserole",
-    "title": "Pungent Pan-Seared Russian Beef Casserole",
+    "title": "Beef Russian Casserole",
     "tags": [
       "beef",
       "casserole",
-      "high-protein",
-      "main-course",
-      "one-pan",
-      "weeknight"
+      "russian"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 50,
     "shard": "p"
   },
   {
