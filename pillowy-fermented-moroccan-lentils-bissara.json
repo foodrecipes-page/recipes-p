@@ -1,0 +1,74 @@
+{
+  "slug": "pillowy-fermented-moroccan-lentils-bissara",
+  "title": "Moroccan Lentil Soup",
+  "description": "A hearty and flavorful soup made with lentils, onions, and spices, inspired by Moroccan cuisine.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup, rinsed and drained"
+    },
+    {
+      "name": "pillowy bread",
+      "amount": "2 cups, torn into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "fermented olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "moroccan spices",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "bissara",
+      "amount": "2 tablespoons (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat the fermented olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the Moroccan spices and cook for 1 minute, stirring constantly.",
+    "Add the lentils, torn bread, water, and salt. Bring to a boil, then reduce the heat and simmer for 20 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Taste and adjust the seasoning as needed.",
+    "If using bissara, stir it in just before serving.",
+    "Serve hot, garnished with additional Moroccan spices if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil-soup",
+    "moroccan-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-fermented-moroccan-lentils-bissara",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:36:17.017Z"
+}
