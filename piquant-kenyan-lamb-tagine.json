@@ -1,0 +1,96 @@
+{
+  "slug": "piquant-kenyan-lamb-tagine",
+  "title": "Kenyan Lamb Tagine",
+  "description": "A hearty Kenyan-inspired stew made with tender lamb and aromatic spices, cooked in a flavorful tagine.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "piquant peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large tagine or Dutch oven over medium-high heat.",
+    "Brown the lamb pieces in batches, then set aside.",
+    "Add more oil if needed, then sauté the sliced piquant peppers until tender.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger; cook for 1 minute.",
+    "Add the ground cumin, coriander, cayenne pepper, salt, and black pepper; cook for 1 minute.",
+    "Add the browned lamb back to the tagine, along with any accumulated juices.",
+    "Add enough water to cover the lamb and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1.5 hours or until the lamb is tender.",
+    "Skim off any excess fat and serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "stew",
+    "lamb",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-kenyan-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:26:15.363Z"
+}
