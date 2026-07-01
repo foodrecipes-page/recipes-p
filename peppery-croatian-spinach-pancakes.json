@@ -1,0 +1,74 @@
+{
+  "slug": "peppery-croatian-spinach-pancakes",
+  "title": "Croatian Pancake Breakfast",
+  "description": "A hearty breakfast featuring croatian pancakes, fresh spinach, and a peppery kick. Perfect for a weekend morning.",
+  "cuisine": "Croatian",
+  "diet": [
+    "breakfast",
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Croatian Pancakes",
+      "amount": "4-6 pancakes",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Spinach",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Peppery Fresh Chives",
+      "amount": "2 tablespoons, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cook the croatian pancakes according to the package instructions.",
+    "2. In a pan, melt 1 tablespoon of butter over medium heat.",
+    "3. Add the chopped chives and cook for 1-2 minutes until fragrant.",
+    "4. Add the fresh spinach to the pan and cook until wilted.",
+    "5. Serve the spinach mixture on top of the cooked pancakes.",
+    "6. Drizzle with the remaining 1 tablespoon of butter.",
+    "7. Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "vegetarian",
+    "pancakes",
+    "croatian",
+    "spinach"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-croatian-spinach-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:32:19.503Z"
+}
