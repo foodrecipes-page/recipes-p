@@ -1,0 +1,74 @@
+{
+  "slug": "peppery-french-coconut-crumble",
+  "title": "Coconut Crumble French Toast",
+  "description": "A twist on the classic French toast, infused with coconut flavor and topped with a crunchy crumble.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "4 slices of French bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "1 cup of coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "2 eggs"
+    },
+    {
+      "name": "1/4 cup of unsweetened shredded coconut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "1/4 cup of granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "2 tbsp of unsalted butter, melted",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut crumble topping (recipe below)",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, whisk together coconut milk, eggs, and sugar until well combined.",
+    "2. Heat a non-stick skillet or griddle over medium heat.",
+    "3. Dip each slice of French bread into the coconut milk mixture, coating both sides evenly.",
+    "4. Place the coated bread slices on the skillet or griddle.",
+    "5. Cook for 2-3 minutes or until golden brown, flip and cook for another 2-3 minutes or until golden brown.",
+    "6. Repeat with the remaining bread slices.",
+    "7. While the French toast is cooking, prepare the coconut crumble topping.",
+    "8. To assemble the dish, place 2 slices of French toast on a plate, top with a dollop of whipped cream or coconut whipped cream, and sprinkle with coconut crumble topping.",
+    "9. Serve immediately and enjoy!",
+    "10. Garnish with additional shredded coconut and a sprinkle of granulated sugar, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "french",
+    "coconut",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-french-coconut-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:09:43.856Z"
+}
