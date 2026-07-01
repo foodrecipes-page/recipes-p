@@ -1,0 +1,72 @@
+{
+  "slug": "piquant-pan-seared-turkish-meat-icli-kofte",
+  "title": "Turkish Meat Kofte",
+  "description": "A flavorful and textured Turkish dish featuring meat kofte, served with a side of piquant sauce.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground meat (beef & lamb mix)",
+      "amount": "1 pound",
+      "notes": "80/20 ratio"
+    },
+    {
+      "name": "Icli pepper paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Turkish spices",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the pan to medium-high heat.",
+    "2. Using your hands, mix ground meat, icli pepper paste, Turkish spices, salt, black pepper, and breadcrumbs in a bowl.",
+    "3. Gradually add chopped onion and continue mixing until everything is well combined.",
+    "4. Using your hands, shape the mixture into small meat kofte (about 1 1/2 inches in diameter).",
+    "5. Add a small amount of oil to the preheated pan and sear the meat kofte until browned on all sides.",
+    "6. Transfer the kofte to a plate and let them rest for 5 minutes.",
+    "7. Serve hot with a side of piquant sauce, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "meat",
+    "kofte",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-pan-seared-turkish-meat-icli-kofte",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:08:36.362Z"
+}
