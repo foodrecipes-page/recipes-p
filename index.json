@@ -7557,17 +7557,15 @@
   },
   {
     "slug": "piquant-pan-seared-turkish-meat-icli-kofte",
-    "title": "Piquant Pan-Seared Turkish Icli Kofte",
+    "title": "Turkish Meat Kofte",
     "tags": [
-      "kid-friendly",
-      "lamb",
-      "one-pan",
-      "ovo-vegetarian",
       "turkish",
-      "weeknight"
+      "meat",
+      "kofte",
+      "snack"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 35,
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
@@ -10612,15 +10610,16 @@
   },
   {
     "slug": "pungent-gooey-tunisian-date-night-dish-tagine",
-    "title": "Tunisian Soy-Glazed Tagine",
+    "title": "Tunisian Chicken Tagine",
     "tags": [
-      "date-night",
-      "lacto-vegetarian",
-      "soy-glazed",
-      "tunisian"
+      "tagine",
+      "chicken",
+      "dates",
+      "honey",
+      "north-african"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
