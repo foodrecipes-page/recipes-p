@@ -1,0 +1,69 @@
+{
+  "slug": "peppery-fluffy-mediterranean-lettuce-salad",
+  "title": "Fluffy Mediterranean Salad",
+  "description": "A simple and refreshing salad made with fluffy ingredients and a hint of Mediterranean flavor.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fluffy rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Mediterranean olives",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Lettuce",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Salad dressing",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Peppery feta cheese",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Fluffy croutons",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the fluffy rice, Mediterranean olives, and lettuce.",
+    "2. In a small bowl, whisk together the salad dressing and a pinch of salt.",
+    "3. Pour the dressing over the rice mixture and toss to combine.",
+    "4. Top the salad with the peppery feta cheese and fluffy croutons (if using).",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "salad",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-fluffy-mediterranean-lettuce-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:41:43.899Z"
+}
