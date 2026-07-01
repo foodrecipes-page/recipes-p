@@ -1,0 +1,85 @@
+{
+  "slug": "pungent-show-off-italian-v-sterbottensost-cheese-orecchiette",
+  "title": "Orecchiette with Sterbotten Sost and Italian Herbs",
+  "description": "A classic Italian pasta dish with the rich flavors of Sterbotten Sost cheese and fresh herbs.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Orecchiette pasta",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Sterbotten Sost cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "Fresh Italian parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the orecchiette pasta according to package instructions until al dente.",
+    "Reserve 1 cup of pasta water before draining.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the garlic and cook for 1-2 minutes until fragrant.",
+    "Add the Sterbotten Sost cheese and stir until melted.",
+    "Add the cooked orecchiette pasta to the skillet and toss with the cheese sauce.",
+    "Stir in the reserved pasta water and season with salt and black pepper to taste.",
+    "Garnish with chopped parsley and basil.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "cheese",
+    "italian-herbs"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 50,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-show-off-italian-v-sterbottensost-cheese-orecchiette",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:12:03.857Z"
+}
