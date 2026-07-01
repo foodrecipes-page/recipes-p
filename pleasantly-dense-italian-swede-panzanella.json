@@ -1,0 +1,76 @@
+{
+  "slug": "pleasantly-dense-italian-swede-panzanella",
+  "title": "Swedish Panzanella Salad",
+  "description": "A hearty, dense salad from Sweden, inspired by Italian cuisine. Perfect for a satisfying meal.",
+  "cuisine": "Swedish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Swede",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Panzanella bread",
+      "amount": "1 baguette",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss cubed swede with 1 tbsp olive oil and season with salt and pepper. Spread on a baking sheet and roast for 20-25 minutes or until tender.",
+    "In a large bowl, combine roasted swede, bread cubes, and chopped parsley.",
+    "In a small bowl, whisk together balsamic vinegar and 1 tbsp olive oil. Pour over the bread mixture and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "swedish",
+    "italian",
+    "salad",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pleasantly-dense-italian-swede-panzanella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:29:43.613Z"
+}
