@@ -3132,23 +3132,14 @@
   },
   {
     "slug": "peppery-fluffy-mediterranean-lettuce-salad",
-    "title": "Peppery Fluffy Mediterranean Lettuce Salad",
+    "title": "Fluffy Mediterranean Salad",
     "tags": [
-      "peppery",
-      "fluffy",
       "mediterranean",
       "salad",
-      "halal-friendly",
-      "vegetarian",
-      "quick",
-      "easy",
-      "solo-dinner",
-      "lettuce",
-      "chickpeas",
-      "feta"
+      "vegetarian"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 20,
+    "cuisine": null,
+    "totalTimeMin": 10,
     "shard": "p"
   },
   {
@@ -7326,16 +7317,15 @@
   },
   {
     "slug": "piquant-kenyan-lamb-tagine",
-    "title": "Piquant Kenyan Lamb Tagine",
+    "title": "Kenyan Lamb Tagine",
     "tags": [
-      "african-cuisine",
-      "clay-cooked",
-      "lamb-based",
-      "one-pot",
-      "spicy"
+      "kenyan",
+      "stew",
+      "lamb",
+      "tagine"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 110,
+    "totalTimeMin": 180,
     "shard": "p"
   },
   {
@@ -11261,18 +11251,15 @@
   },
   {
     "slug": "pungent-show-off-italian-v-sterbottensost-cheese-orecchiette",
-    "title": "Pungent Show-off Italian V ST\u0012rbottensost Cheese Orecchiette",
+    "title": "Orecchiette with Sterbotten Sost and Italian Herbs",
     "tags": [
-      "gluten-free",
-      "high-protein",
       "italian",
-      "ligurian",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "pasta",
+      "cheese",
+      "italian-herbs"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
