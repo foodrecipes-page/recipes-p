@@ -8196,15 +8196,13 @@
   },
   {
     "slug": "piquant-welsh-collards-skillet",
-    "title": "Piquant Welsh Collards Skillet",
+    "title": "Collard Greens with Welsh Rarebit",
     "tags": [
-      "keto-friendly",
-      "one-pan",
-      "quick-meal",
-      "vegetarian",
-      "weeknight"
+      "collard-greens",
+      "welsh-rarebit",
+      "vegetarian"
     ],
-    "cuisine": "Welsh",
+    "cuisine": null,
     "totalTimeMin": 25,
     "shard": "p"
   },
