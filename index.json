@@ -2420,10 +2420,16 @@
   },
   {
     "slug": "peppery-croatian-spinach-pancakes",
-    "title": "Peppery Croatian Spinach Pancakes",
-    "tags": [],
+    "title": "Croatian Pancake Breakfast",
+    "tags": [
+      "breakfast",
+      "vegetarian",
+      "pancakes",
+      "croatian",
+      "spinach"
+    ],
     "cuisine": "Croatian",
-    "totalTimeMin": null,
+    "totalTimeMin": 20,
     "shard": "p"
   },
   {
