@@ -1,0 +1,57 @@
+{
+  "slug": "piquant-welsh-collards-skillet",
+  "title": "Collard Greens with Welsh Rarebit",
+  "description": "A twist on the classic Welsh dish, adding some spicy piquant flavor to the greens.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "collards",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "piquant",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Welsh",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "skillet",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil. Blanch the collards for 5 minutes, then drain.",
+    "In a skillet, melt 2 tablespoons of butter over medium heat.",
+    "Add 1/4 cup of piquant to the skillet and cook for 1 minute.",
+    "Add 1/2 cup of Welsh to the skillet and stir to combine.",
+    "Add the blanched collards to the skillet and toss to coat with the Welsh Rarebit sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "collard-greens",
+    "welsh-rarebit",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-welsh-collards-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:07:10.038Z"
+}
