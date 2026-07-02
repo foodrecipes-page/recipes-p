@@ -8094,17 +8094,16 @@
   },
   {
     "slug": "piquant-umami-greek-lamb-keftedes",
-    "title": "Piquant Umami Greek Lamb Keftedes",
+    "title": "Traditional Greek Lamb Koftas",
     "tags": [
-      "crowd-pleasers",
-      "donabe-recipes",
-      "gluten-free",
-      "greek-cuisine",
-      "lamb-recipes",
-      "umami-flavors"
+      "greek",
+      "lamb",
+      "keftedes",
+      "piquant",
+      "umami"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 40,
+    "totalTimeMin": 32,
     "shard": "p"
   },
   {
