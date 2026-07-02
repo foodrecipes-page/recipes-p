@@ -1,0 +1,64 @@
+{
+  "slug": "peppery-fluffy-american-cherry-cobbler",
+  "title": "American Cherry Cobbler",
+  "description": "A classic American dessert featuring sweet cherries topped with a crumbly biscuit crust.",
+  "cuisine": "American",
+  "diet": [
+    "gluten",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cherry",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fluffy",
+      "amount": "1 1/2 sticks unsalted butter, cold and cut into small pieces"
+    },
+    {
+      "name": "american",
+      "amount": "1 1/2 cups all-purpose flour"
+    },
+    {
+      "name": "peppery",
+      "amount": "1 tsp ground cinnamon"
+    },
+    {
+      "name": "cobbler",
+      "amount": "1/2 cup granulated sugar"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a large bowl, combine the cherries, granulated sugar, and ground cinnamon. Let it sit for about 15 minutes, until the cherries start to release their juice.",
+    "Roll out the cold butter and flour mixture into a large rectangle.",
+    "Pour the cherry mixture into a 9x9-inch baking dish.",
+    "Place the rectangular dough on top of the cherry mixture, pressing the edges to seal.",
+    "Bake for 40-50 minutes, or until the crust is golden brown and the filling is bubbly.",
+    "Remove from the oven and let it cool for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "cherry",
+    "cobbler",
+    "dessert",
+    "fruit"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-fluffy-american-cherry-cobbler",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T13:56:27.816Z"
+}
