@@ -1,0 +1,61 @@
+{
+  "slug": "peppery-australian-pork-belly-crisp-slices",
+  "title": "Crispy Australian Pork Belly",
+  "description": "A mouth-watering dish featuring tender pork belly, crispy skin, and a touch of peppery flavor. This recipe is perfect for a special occasion dinner.",
+  "cuisine": "australian",
+  "diet": [
+    "pork",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 kg"
+    },
+    {
+      "name": "peppery",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "crisp slices",
+      "amount": "1 cup"
+    },
+    {
+      "name": "australian",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C.",
+    "Score the fat layer on the pork belly in a crisscross pattern.",
+    "Rub the pork belly with peppery and australian spice blends.",
+    "Place the pork belly on a baking sheet lined with aluminum foil.",
+    "Roast the pork belly in the preheated oven for 20 minutes per kilogram.",
+    "Remove the pork belly from the oven and let it rest for 10 minutes.",
+    "Increase the oven temperature to 240°C.",
+    "Place the crisp slices on a baking sheet and bake for 5-7 minutes, or until crispy.",
+    "Slice the pork belly into thick strips and serve with the crispy slices on top.",
+    "Garnish with additional peppery and australian seasoning, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "australian-cuisine",
+    "pork-belly",
+    "crispy-skin"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-australian-pork-belly-crisp-slices",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:46:24.844Z"
+}
