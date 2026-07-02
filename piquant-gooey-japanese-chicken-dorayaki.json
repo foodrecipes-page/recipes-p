@@ -1,0 +1,77 @@
+{
+  "slug": "piquant-gooey-japanese-chicken-dorayaki",
+  "title": "Japanese-Style Chicken Dorayaki",
+  "description": "A sweet and savory twist on traditional dorayaki, filled with juicy chicken and gooey goodness.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Dorayaki batter mix",
+      "amount": "1 package",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "Gooey syrup (honey or maple)",
+      "amount": "1/4 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Piquant sauce (soy sauce or sriracha)",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Japanese-style filling (red bean paste or kinako)",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or griddle to 375°F (190°C).",
+    "In a small bowl, whisk together dorayaki batter mix and 1/2 cup water. Let it rest for 5 minutes.",
+    "Brush a small amount of vegetable oil on the pan or griddle.",
+    "Pour 1-2 tablespoons of dorayaki batter onto the pan and cook for 2-3 minutes, until the bottom is golden brown.",
+    "Flip the dorayaki and cook for an additional 1-2 minutes, until the other side is also golden brown.",
+    "Meanwhile, grill or pan-fry the chicken breast until it reaches an internal temperature of 165°F (74°C). Let it rest for 5 minutes before slicing.",
+    "Assemble the dorayaki by spreading a small amount of gooey syrup on one half, followed by a slice of chicken, a spoonful of piquant sauce, and a sprinkle of Japanese-style filling (if using).",
+    "Top with the other half of the dorayaki and garnish with sesame seeds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "dorayaki",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 32,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-gooey-japanese-chicken-dorayaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:13:41.556Z"
+}
