@@ -3062,14 +3062,13 @@
   },
   {
     "slug": "peppery-fluffy-american-cherry-cobbler",
-    "title": "Peppery Fluffy American Cherry Cobbler",
+    "title": "American Cherry Cobbler",
     "tags": [
-      "cherry-cobbler",
-      "american-desserts",
-      "sugar-free",
-      "low-carb",
-      "peppery",
-      "fluffy"
+      "american",
+      "cherry",
+      "cobbler",
+      "dessert",
+      "fruit"
     ],
     "cuisine": "American",
     "totalTimeMin": 60,
@@ -10178,16 +10177,15 @@
   },
   {
     "slug": "pungent-creamy-russian-buckwheat-pilaf",
-    "title": "Pungent Creamy Russian Buckwheat Pilaf",
+    "title": "Russian Buckwheat Pilaf",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "buckwheat",
+      "pilaf",
+      "russian",
+      "comfort-food"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
