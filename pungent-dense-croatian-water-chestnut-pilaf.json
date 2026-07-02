@@ -1,0 +1,67 @@
+{
+  "slug": "pungent-dense-croatian-water-chestnut-pilaf",
+  "title": "Croatian-Style Chestnut Pilaf",
+  "description": "A hearty and flavorful pilaf dish made with chestnuts, perfect for a cold winter's day.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dense Croatian bread",
+      "amount": "2 cups, cubed",
+      "notes": ""
+    },
+    {
+      "name": "Chestnut",
+      "amount": "1 cup, peeled and chopped",
+      "notes": ""
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Pungent",
+      "amount": "1 tsp, dried thyme",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 cup of water in a large saucepan over medium-high heat.",
+    "Add the cubed bread and cook until lightly toasted.",
+    "Add the chopped chestnuts and cook for 2-3 minutes.",
+    "Add the pilaf and stir to combine.",
+    "Add the remaining 1 cup of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until the liquid is absorbed.",
+    "Stir in the dried thyme.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chestnut",
+    "pilaf",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-dense-croatian-water-chestnut-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T23:42:20.235Z"
+}
