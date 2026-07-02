@@ -1,0 +1,89 @@
+{
+  "slug": "peppery-algerian-lamb-tagine",
+  "title": "Algerian Lamb Tagine",
+  "description": "A traditional North African stew made with lamb, spices, and dried fruits. Perfect for a cold winter evening.",
+  "cuisine": "Algerian",
+  "diet": [
+    "Gluten-Free",
+    "Meat-Based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 tbsp",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "peppery olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add lamb and cook until browned, about 5 minutes.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add spice blend, salt, and pepper, and stir to combine.",
+    "Add apricots and olives, and stir to combine.",
+    "Transfer to a preheated oven and cook at 300°F (150°C) for 2 hours.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "algerian",
+    "tagine",
+    "stew",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T10:36:35.157Z"
+}
