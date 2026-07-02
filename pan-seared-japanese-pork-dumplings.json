@@ -1,0 +1,73 @@
+{
+  "slug": "pan-seared-japanese-pork-dumplings",
+  "title": "Pan-Seared Pork Dumplings",
+  "description": "A delicious and easy-to-make Japanese-inspired dish featuring pork dumplings seared to perfection. Serve with your favorite dipping sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, ground",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for wrapping dumplings"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp",
+      "notes": "for pan-searing"
+    },
+    {
+      "name": "Dumpling wrappers",
+      "amount": "20-25",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the ground pork, flour, and a pinch of salt. Mix well.",
+    "2. Lay a dumpling wrapper on a flat surface. Place a tablespoon of the pork mixture in the center of the wrapper.",
+    "3. Dip your finger in water and run it along the edges of the wrapper. Fold the wrapper into a half-moon shape, pressing the edges together to seal the dumpling.",
+    "4. Repeat with the remaining wrappers and pork mixture.",
+    "5. Heat a large non-stick pan over medium-high heat. Add 1 tablespoon of sesame oil.",
+    "6. When the oil is hot, add a few dumplings to the pan (do not overcrowd). Pan-fry until the bottoms are golden brown.",
+    "7. Flip the dumplings over and cook for an additional 2-3 minutes.",
+    "8. Serve the dumplings hot with your favorite dipping sauce. Enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "pork",
+    "dumplings",
+    "pan-seared"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-japanese-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:52:34.020Z"
+}
