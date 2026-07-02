@@ -1,0 +1,66 @@
+{
+  "slug": "peppery-nutmeg-turkish-cod-stir-fry",
+  "title": "Pan-Seared Cod with Spices",
+  "description": "A flavorful and easy-to-make cod dish seasoned with a blend of aromatic spices, perfect for a weeknight dinner.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "peppery",
+      "amount": "1 tsp",
+      "notes": "ground black pepper"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp",
+      "notes": "ground nutmeg"
+    },
+    {
+      "name": "turkish",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Rinse the cod fillets and pat them dry with a paper towel.",
+    "Season the cod with ground black pepper and nutmeg.",
+    "Heat the olive oil in a non-stick skillet over medium heat.",
+    "Add the cod fillets to the skillet and cook for 3-4 minutes on each side, until cooked through.",
+    "Serve the cod hot, garnished with chopped parsley if desired.",
+    "Serve with a side of stir-fried vegetables or a salad for a well-rounded meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cod",
+    "spicy",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-nutmeg-turkish-cod-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T23:27:31.589Z"
+}
