@@ -1,0 +1,79 @@
+{
+  "slug": "pressure-packed-coriander-crumble",
+  "title": "Pressure Cooker Crumble Crusted Coriander Fish",
+  "description": "A delicious and easy-to-make fish dish with a flavorful crumble crust, all cooked to perfection in a pressure cooker.",
+  "cuisine": "mexican",
+  "diet": [
+    "fish",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": "Fresh fish"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1/2 cup",
+      "notes": "Freshly chopped"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "Panko"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Crumble topping",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the fish fillets and pat them dry with paper towels.",
+    "Season the fish with salt and pepper.",
+    "In a small bowl, mix together the chopped coriander, breadcrumbs, and butter until well combined.",
+    "Place a tablespoon of the crumble topping on each fish fillet, pressing it gently onto the fish.",
+    "Place the fish fillets in the pressure cooker and add a cup of water.",
+    "Close the lid and set the pressure cooker to high pressure for 3 minutes.",
+    "Let the pressure release naturally for 5 minutes, then quick-release any remaining pressure.",
+    "Remove the fish from the pressure cooker and serve with a squeeze of lime juice and a sprinkle of garlic powder, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pressure-cooker",
+    "fish",
+    "coriander",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pressure-packed-coriander-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:58:35.955Z"
+}
