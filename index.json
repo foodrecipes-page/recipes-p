@@ -6078,17 +6078,15 @@
   },
   {
     "slug": "pillowy-moroccan-lamb-tagine-bowl",
-    "title": "Pillowy Moroccan Lamb Tagine Bowl",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "high-protein",
-      "lamb",
       "moroccan",
-      "one-pan",
-      "pastry",
-      "weeknight"
+      "lamb",
+      "tagine",
+      "stew"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 210,
+    "totalTimeMin": 125,
     "shard": "p"
   },
   {
