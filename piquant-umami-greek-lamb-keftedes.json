@@ -1,0 +1,70 @@
+{
+  "slug": "piquant-umami-greek-lamb-keftedes",
+  "title": "Traditional Greek Lamb Koftas",
+  "description": "A classic Greek dish featuring lamb koftas served with a side of tangy piquant sauce. Perfect for a summer evening or a special occasion.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "Ground lamb is best for koftas"
+    },
+    {
+      "name": "Greek",
+      "amount": "1 tsp",
+      "notes": "Dried oregano adds a classic Greek flavor"
+    },
+    {
+      "name": "Umami",
+      "amount": "1 tsp",
+      "notes": "Worcestershire sauce adds depth to the lamb"
+    },
+    {
+      "name": "Piquant",
+      "amount": "2 tbsp",
+      "notes": "A tangy sauce made with piquant, great with grilled meats"
+    },
+    {
+      "name": "Keftedes",
+      "amount": "1 cup",
+      "notes": "Greek bread crumbs help bind the lamb mixture"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium high heat.",
+    "2. In a large bowl, combine lamb, Greek, Umami, salt, and pepper. Mix well with your hands.",
+    "3. Add Keftedes to the lamb mixture and mix until just combined.",
+    "4. Divide the mixture into 8 equal parts and shape each part into a kofta.",
+    "5. Brush the koftas with olive oil and grill for 4-5 minutes per side, or until cooked through.",
+    "6. Meanwhile, heat the Piquant sauce in a small saucepan over low heat.",
+    "7. Serve the lamb koftas with a side of Piquant sauce for dipping.",
+    "8. Enjoy with a side of roasted vegetables or a salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "keftedes",
+    "piquant",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-umami-greek-lamb-keftedes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:09:10.254Z"
+}
