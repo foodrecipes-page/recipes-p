@@ -1,0 +1,67 @@
+{
+  "slug": "pungent-creamy-russian-buckwheat-pilaf",
+  "title": "Russian Buckwheat Pilaf",
+  "description": "A hearty and flavorful buckwheat pilaf, inspired by traditional Russian cuisine. This comforting side dish is perfect for any meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "buckwheat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pungent onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "creamy butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pilaf",
+      "amount": "2 cups (chicken or vegetable broth)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large saucepan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the buckwheat and cook for 1-2 minutes, stirring frequently.",
+    "Add the pilaf and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes, or until the liquid is absorbed.",
+    "Fluff the pilaf with a fork and season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buckwheat",
+    "pilaf",
+    "russian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-creamy-russian-buckwheat-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:47:51.066Z"
+}
