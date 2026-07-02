@@ -1,0 +1,73 @@
+{
+  "slug": "peppery-crispy-slovakian-cod-stir-fry",
+  "title": "Slovakian Cod Fritters",
+  "description": "Crispy, flavorful fritters made with cod and traditional Slovakian spices. Perfect as an appetizer or snack.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "1 pound",
+      "notes": "Deboned and flaked"
+    },
+    {
+      "name": "Peppery breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Panko or regular breadcrumbs with dried pepper"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "For dusting"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Slovakian stir-fry mix",
+      "amount": "1/4 cup",
+      "notes": "Available at most specialty stores or online"
+    },
+    {
+      "name": "Fry oil",
+      "amount": "1 cup",
+      "notes": "Vegetable or canola oil for frying"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix together cod, peppery breadcrumbs, flour, eggs, and Slovakian stir-fry mix.",
+    "Heat about 1/2 inch of fry oil in a large skillet over medium-high heat.",
+    "Using a spoon, drop small amounts of the cod mixture into the hot oil, flattening slightly.",
+    "Fry for about 3-4 minutes or until golden brown and crispy. Flip and fry for another 2-3 minutes.",
+    "Remove the fritters from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "Serve immediately with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "fish",
+    "fritters",
+    "appetizer",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crispy-slovakian-cod-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:41:39.864Z"
+}
