@@ -1,0 +1,91 @@
+{
+  "slug": "perfectly-pan-seared-portuguese-chicken-skillet",
+  "title": "Pan-Seared Portuguese Chicken",
+  "description": "A classic Portuguese dish featuring pan-seared chicken breasts, marinated in a blend of herbs and spices. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "portuguese",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Season the chicken breasts with salt and black pepper.",
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Sear the chicken breasts for 3-4 minutes on each side, or until browned.",
+    "Transfer the chicken to a plate and set aside.",
+    "Reduce heat to medium and add the remaining 1 tablespoon of olive oil to the skillet.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Pour in the chicken broth, white wine, and lemon juice, scraping up any browned bits from the bottom of the skillet.",
+    "Bring the mixture to a simmer and cook for 5 minutes, or until slightly reduced.",
+    "Return the chicken breasts to the skillet and spoon some of the sauce over the top of each breast.",
+    "Continue to cook for an additional 5 minutes, or until the chicken is cooked through and the sauce has thickened.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "portuguese",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/perfectly-pan-seared-portuguese-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T15:05:01.681Z"
+}
