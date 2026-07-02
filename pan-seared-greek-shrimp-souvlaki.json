@@ -1,0 +1,94 @@
+{
+  "slug": "pan-seared-greek-shrimp-souvlaki",
+  "title": "Greek Shrimp Souvlaki",
+  "description": "A quick and flavorful Mediterranean-inspired souvlaki recipe featuring succulent shrimp. Serve with pita bread or over a bed of rice.",
+  "cuisine": "Greek",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "12",
+      "notes": " peeled and deveined"
+    },
+    {
+      "name": "lemon",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "souvlaki seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pita bread",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill or grill pan to medium-high heat.",
+    "Thread shrimp onto skewers.",
+    "In a small bowl, whisk together lemon juice, olive oil, garlic, oregano, salt, and souvlaki seasoning.",
+    "Brush the mixture evenly onto both sides of the shrimp.",
+    "Grill the shrimp for 2-3 minutes per side, or until pink and cooked through.",
+    "Serve the shrimp on a bed of salad greens, topped with tomato and red onion.",
+    "Serve with pita bread for a traditional souvlaki experience.",
+    "Garnish with lemon wedges and parsley, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "shrimp",
+    "souvlaki",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 24,
+    "carbs": 8,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-greek-shrimp-souvlaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:15:06.263Z"
+}
