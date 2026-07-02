@@ -620,17 +620,15 @@
   },
   {
     "slug": "pan-seared-japanese-pork-dumplings",
-    "title": "Pan Seared Japanese Pork Dumplings",
+    "title": "Pan-Seared Pork Dumplings",
     "tags": [
+      "japanese",
+      "pork",
       "dumplings",
-      "japanese-cuisine",
-      "pan-seared",
-      "pork-dishes",
-      "steamed-food",
-      "tohoku-specialties"
+      "pan-seared"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
