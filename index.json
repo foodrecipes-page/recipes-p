@@ -2297,10 +2297,16 @@
   },
   {
     "slug": "peppery-crispy-slovakian-cod-stir-fry",
-    "title": "Peppery Crispy Slovakian Cod Stir-fry",
-    "tags": [],
-    "cuisine": "Slovak",
-    "totalTimeMin": null,
+    "title": "Slovakian Cod Fritters",
+    "tags": [
+      "slovakian",
+      "fish",
+      "fritters",
+      "appetizer",
+      "snack"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
