@@ -1,0 +1,65 @@
+{
+  "slug": "pungent-garlicky-greek-cheese-curds-revithia",
+  "title": "Feta Revithia Fritters",
+  "description": "Crunchy, garlicky, and cheesy fritters filled with the goodness of Greek revithia. Perfect for a snack or light lunch.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "revithia",
+      "amount": "1 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": "pungent"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine revithia, feta cheese, garlic, flour, and bread crumbs.",
+    "Mix well until all ingredients are well combined.",
+    "Add a pinch of salt to taste.",
+    "Using your hands, shape the mixture into small patties.",
+    "Heat about 1/2 inch of olive oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add a few patties to the skillet (do not overcrowd).",
+    "Cook for about 3-4 minutes on each side, until golden brown and crispy.",
+    "Repeat with the remaining patties.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fritters",
+    "snack",
+    "greek",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-garlicky-greek-cheese-curds-revithia",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T23:22:57.808Z"
+}
