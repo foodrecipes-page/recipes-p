@@ -1,0 +1,96 @@
+{
+  "slug": "pillowy-moroccan-lamb-tagine-bowl",
+  "title": "Moroccan Lamb Tagine",
+  "description": "A hearty, aromatic stew originating from Morocco, slow-cooked in a clay pot called a tagine. This recipe combines the rich flavors of lamb, spices, and dried fruits.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "Bone-in or boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "Pillowy couscous",
+      "amount": "1 cup",
+      "notes": "Rinse according to package instructions"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Middle Eastern markets or online"
+    },
+    {
+      "name": "Tagine pot",
+      "amount": "1",
+      "notes": "Alternatively, use a Dutch oven"
+    },
+    {
+      "name": "Bowl of water",
+      "amount": "1 cup",
+      "notes": "For deglazing the pot"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Pitted prunes",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For browning the lamb"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in the tagine pot or Dutch oven over medium-high heat.",
+    "2. Brown the lamb pieces on all sides, about 5 minutes.",
+    "3. Add the Moroccan spice blend and cook for 1 minute, stirring constantly.",
+    "4. Add the water and bring to a boil.",
+    "5. Reduce the heat to low, cover the pot, and simmer for 1 1/2 hours.",
+    "6. Add the dried apricots and prunes, and continue to simmer for another 30 minutes.",
+    "7. Fluff the couscous and serve alongside the lamb and sauce.",
+    "8. Deglaze the pot with a little water if the sauce is too thick.",
+    "9. Season with salt and black pepper to taste.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 105,
+  "totalTimeMin": 125,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "tagine",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-moroccan-lamb-tagine-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T09:53:56.020Z"
+}
