@@ -1472,16 +1472,16 @@
   },
   {
     "slug": "peppery-algerian-lamb-tagine",
-    "title": "Peppery Algerian Lamb Tagine",
+    "title": "Algerian Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "lamb-based",
-      "north-african",
-      "one-pot",
-      "slow-cooked"
+      "lamb",
+      "algerian",
+      "tagine",
+      "stew",
+      "north-african"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 170,
+    "totalTimeMin": 140,
     "shard": "p"
   },
   {
@@ -1569,16 +1569,14 @@
   },
   {
     "slug": "peppery-australian-pork-belly-crisp-slices",
-    "title": "Peppery Australian Pork Belly Crisp Slices",
+    "title": "Crispy Australian Pork Belly",
     "tags": [
-      "peppery",
-      "australian",
-      "pork belly",
-      "crisp",
-      "date night"
+      "australian-cuisine",
+      "pork-belly",
+      "crispy-skin"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 35,
+    "cuisine": "australian",
+    "totalTimeMin": 150,
     "shard": "p"
   },
   {
