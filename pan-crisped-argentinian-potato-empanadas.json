@@ -1,0 +1,63 @@
+{
+  "slug": "pan-crisped-argentinian-potato-empanadas",
+  "title": "Argentinian Potato Empanadas",
+  "description": "A classic Argentinian dish, these potato empanadas are crispy on the outside and fluffy on the inside.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "2 large"
+    },
+    {
+      "name": "argentinian",
+      "amount": "1 tablespoon",
+      "notes": "Olive oil or lard for frying"
+    },
+    {
+      "name": "pan",
+      "amount": "1 large non-stick"
+    },
+    {
+      "name": "empanadas",
+      "amount": "4-6"
+    }
+  ],
+  "instructions": [
+    "Preheat the pan to medium-high heat.",
+    "Peel and dice the potatoes into small pieces.",
+    "Heat the argentinian in the pan and add the diced potatoes.",
+    "Cook the potatoes for 10-12 minutes or until they are tender.",
+    "Flour the surface and roll out the empanadas.",
+    "Place a spoonful of the cooked potatoes onto one half of each empanada.",
+    "Fold the other half over the filling and press the edges to seal.",
+    "Brush the tops of the empanadas with argentinian.",
+    "Heat the pan to medium heat and fry the empanadas for 2-3 minutes on each side.",
+    "Serve the empanadas hot and crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "potato",
+    "empanadas",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-crisped-argentinian-potato-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:17:18.762Z"
+}
