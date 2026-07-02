@@ -313,18 +313,16 @@
   },
   {
     "slug": "pan-crisped-argentinian-potato-empanadas",
-    "title": "Pan Crisped Argentinian Potato Empanadas",
+    "title": "Argentinian Potato Empanadas",
     "tags": [
       "argentinian",
-      "empanadas",
-      "pan-fried",
       "potato",
-      "shojin",
+      "empanadas",
       "snack",
       "vegetarian"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
@@ -535,17 +533,15 @@
   },
   {
     "slug": "pan-seared-greek-shrimp-souvlaki",
-    "title": "Pan Seared Greek Shrimp Souvlaki",
+    "title": "Greek Shrimp Souvlaki",
     "tags": [
-      "gluten-free",
-      "greek-cuisine",
-      "low-carb",
-      "one-pan",
-      "quick-dinner",
-      "seafood"
+      "greek",
+      "shrimp",
+      "souvlaki",
+      "mediterranean"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "p"
   },
   {
@@ -4192,15 +4188,14 @@
   },
   {
     "slug": "peppery-mexican-onion-crisp",
-    "title": "Peppery Mexican Onion Crisp",
+    "title": "Crisp Onion Fritters",
     "tags": [
-      "peppery",
-      "crisp",
       "mexican",
-      "halal-friendly"
+      "snack",
+      "fritters"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 50,
+    "totalTimeMin": 21,
     "shard": "p"
   },
   {
@@ -4293,19 +4288,14 @@
   },
   {
     "slug": "peppery-nutmeg-turkish-cod-stir-fry",
-    "title": "Peppery Nutmeg Turkish Cod Stir‑fry",
+    "title": "Pan-Seared Cod with Spices",
     "tags": [
-      "peppery",
-      "nutmeg",
-      "turkish",
       "cod",
-      "stir-fry",
-      "kid-friendly",
-      "quick",
-      "healthy"
+      "spicy",
+      "seafood"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 20,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 22,
     "shard": "p"
   },
   {
@@ -7100,16 +7090,14 @@
   },
   {
     "slug": "piquant-gooey-japanese-chicken-dorayaki",
-    "title": "Piquant Gooey Japanese Chicken Dorayaki",
+    "title": "Japanese-Style Chicken Dorayaki",
     "tags": [
-      "double-fry",
-      "flexitarian-friendly",
-      "gooey-food",
-      "japanese-street-food",
-      "midnight-cravings"
+      "chicken",
+      "dorayaki",
+      "japanese"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -10322,15 +10310,13 @@
   },
   {
     "slug": "pungent-dense-croatian-water-chestnut-pilaf",
-    "title": "Pungent, Dense Croatian Water Chestnut Pilaf",
+    "title": "Croatian-Style Chestnut Pilaf",
     "tags": [
-      "croatian",
-      "kid-friendly",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "chestnut",
+      "pilaf",
+      "croatian"
     ],
-    "cuisine": "croatian",
+    "cuisine": "Croatian",
     "totalTimeMin": 35,
     "shard": "p"
   },
@@ -10551,17 +10537,15 @@
   },
   {
     "slug": "pungent-garlicky-greek-cheese-curds-revithia",
-    "title": "Pungent Garlicky Greek Cheese Curds Revithia",
+    "title": "Feta Revithia Fritters",
     "tags": [
-      "cheesy",
-      "crowd-pleaser",
-      "garlicky",
-      "greek-cuisine",
-      "one-pan",
-      "pescatarian"
+      "fritters",
+      "snack",
+      "greek",
+      "cheese"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
