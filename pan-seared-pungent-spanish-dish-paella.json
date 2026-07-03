@@ -1,0 +1,87 @@
+{
+  "slug": "pan-seared-pungent-spanish-dish-paella",
+  "title": "Spanish Paella",
+  "description": "A classic Spanish dish made with saffron-infused rice, succulent seafood, and smoky chorizo.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chorizo",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Mussels",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Saffron",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chorizo and cook until browned, about 2-3 minutes.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the tomato and cook for 2 minutes.",
+    "Add the rice and stir to coat with the oil and mix with the vegetables.",
+    "Add the saffron, smoked paprika, and 2 cups of water.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Add the mussels and shrimp and cook until the seafood is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "seafood",
+    "chorizo"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-pungent-spanish-dish-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T03:01:18.344Z"
+}
