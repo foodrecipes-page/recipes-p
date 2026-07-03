@@ -633,15 +633,15 @@
   },
   {
     "slug": "pan-seared-japanese-veal-kushikatsu",
-    "title": "Pan-Seared Japanese Veal Kushikatsu",
+    "title": "Pan-Seared Veal Kushikatsu",
     "tags": [
-      "high-protein",
       "japanese",
-      "keto",
-      "one-pan"
+      "deep-fried",
+      "veal",
+      "kushikatsu"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 32,
     "shard": "p"
   },
   {
