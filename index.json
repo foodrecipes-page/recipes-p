@@ -830,15 +830,14 @@
   },
   {
     "slug": "pan-seared-pungent-spanish-dish-paella",
-    "title": "Pan-Seared Spanish Paella",
+    "title": "Spanish Paella",
     "tags": [
-      "low-calorie",
-      "one-pan",
       "spanish",
-      "veggie-packed",
-      "weeknight"
+      "paella",
+      "seafood",
+      "chorizo"
     ],
-    "cuisine": "spanish",
+    "cuisine": "Spanish",
     "totalTimeMin": 40,
     "shard": "p"
   },
@@ -2650,17 +2649,15 @@
   },
   {
     "slug": "peppery-crunchy-vegetarian-cannellini-beans-stir-fry",
-    "title": "Peppery Crunchy Vegetarian Cannellini Beans Stir-fry",
+    "title": "Cannellini Bean Stir Fry",
     "tags": [
-      "peppery",
-      "crunchy",
-      "vegan",
+      "easy",
+      "italian",
       "stir-fry",
-      "monsoon",
-      "vz"
+      "vegetarian"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 55,
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
