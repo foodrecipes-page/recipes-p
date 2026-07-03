@@ -1,0 +1,86 @@
+{
+  "slug": "pan-seared-japanese-veal-kushikatsu",
+  "title": "Pan-Seared Veal Kushikatsu",
+  "description": "A Japanese-inspired dish featuring crispy veal cutlets, deep-fried to perfection. Pair it with a side of tangy dipping sauce for a delightful culinary experience.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Veal Cutlets",
+      "amount": "4",
+      "notes": "Thinly sliced veal breast"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Japanese-style breadcrumbs"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup",
+      "notes": "For dredging"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten for egg wash"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 cup",
+      "notes": "For deep-frying"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "For dipping sauce"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp",
+      "notes": "For dipping sauce"
+    },
+    {
+      "name": "Grated Daikon",
+      "amount": "1/2 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, mix together flour, a pinch of salt, and a few grinds of black pepper.",
+    "2. In a separate dish, beat the egg for the egg wash.",
+    "3. In a third dish, place the Panko breadcrumbs.",
+    "4. Dredge the veal cutlets in the flour mixture, shaking off excess.",
+    "5. Dip the floured veal cutlets in the egg wash, coating completely.",
+    "6. Roll the egg-coated veal cutlets in the Panko breadcrumbs, pressing gently to adhere.",
+    "7. Heat about 1/2 inch of vegetable oil in a large skillet over medium-high heat.",
+    "8. Fry the breaded veal cutlets in batches until golden brown and crispy, about 3-4 minutes per side.",
+    "9. Using a slotted spoon, remove the fried veal cutlets from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "10. Serve the pan-seared veal kushikatsu hot with a side of tangy dipping sauce made by mixing soy sauce and rice vinegar in a small bowl."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "deep-fried",
+    "veal",
+    "kushikatsu"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-japanese-veal-kushikatsu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:45:43.935Z"
+}
