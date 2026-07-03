@@ -30,16 +30,15 @@
   },
   {
     "slug": "packed-syrian-blackeye-pea-stew",
-    "title": "Packed Syrian Blackeye Pea Stew",
+    "title": "Syrian Blackeye Stew",
     "tags": [
-      "dairy-free",
-      "hearty",
-      "mediterranean",
-      "one-pot",
-      "weeknight"
+      "syrian",
+      "stew",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 75,
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
@@ -2259,15 +2258,16 @@
   },
   {
     "slug": "peppery-crispy-pumpkin-croissant",
-    "title": "Peppery Crispy Pumpkin Croissant",
+    "title": "Pumpkin and Peppery Croissant Strata",
     "tags": [
-      "peppery",
-      "crispy",
+      "breakfast",
+      "strata",
       "pumpkin",
-      "egg-free"
+      "peppery",
+      "croissant"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 45,
+    "cuisine": "breakfast",
+    "totalTimeMin": 50,
     "shard": "p"
   },
   {
@@ -7569,16 +7569,15 @@
   },
   {
     "slug": "piquant-peruvian-peruvian-lamb-seco-de-cordero",
-    "title": "Piquant Peruvian Peruvian Lamb Seco de Cordero",
+    "title": "Peruvian Lamb Seco",
     "tags": [
-      "lamb",
-      "one-pan",
       "peruvian",
-      "quick-fix",
-      "vegan"
+      "lamb",
+      "seco",
+      "stew"
     ],
-    "cuisine": "peruvian",
-    "totalTimeMin": 40,
+    "cuisine": "Peruvian",
+    "totalTimeMin": 170,
     "shard": "p"
   },
   {
