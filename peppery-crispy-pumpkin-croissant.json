@@ -1,0 +1,70 @@
+{
+  "slug": "peppery-crispy-pumpkin-croissant",
+  "title": "Pumpkin and Peppery Croissant Strata",
+  "description": "A layered breakfast dish featuring the flaky goodness of croissants, the warmth of pumpkin, and the spiciness of peppery goodness.",
+  "cuisine": "breakfast",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Croissant",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Pumpkin puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Peppery cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Egg",
+      "amount": "6 eggs"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large bowl, whisk together eggs, pumpkin puree, salt, and black pepper.",
+    "3. In a separate bowl, tear the croissant pieces into small bits.",
+    "4. In a greased 9x13-inch baking dish, create a layer of croissant bits.",
+    "5. Pour half of the egg mixture over the croissant layer.",
+    "6. Sprinkle with half of the peppery cheese.",
+    "7. Repeat the layers, starting with the croissant bits, then the remaining egg mixture, and finally the remaining cheese.",
+    "8. Bake for 35-40 minutes, or until the strata is golden brown and set.",
+    "9. Remove from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "strata",
+    "pumpkin",
+    "peppery",
+    "croissant"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crispy-pumpkin-croissant",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:49:58.143Z"
+}
