@@ -1,0 +1,70 @@
+{
+  "slug": "paleo-perfectly-french-purple-sprouting-broccoli-gratin",
+  "title": "Purple Sprouting Broccoli Gratin",
+  "description": "A paleo and perfectly satisfying casserole made with purple sprouting broccoli, a French classic with a twist.",
+  "cuisine": "French",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Purple Sprouting Broccoli",
+      "amount": "1 large head"
+    },
+    {
+      "name": "Perfectly French Béchamel Sauce (see notes)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Paleo Breadcrumbs (see notes)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Rinse the broccoli and trim the ends. Cut into florets and set aside.",
+    "Make the Béchamel sauce by melting 4 tablespoons of butter in a saucepan over medium heat.",
+    "Whisk in 2 tablespoons of paleo flour and cook for 1 minute.",
+    "Slowly add 1 cup of non-dairy milk, whisking constantly.",
+    "Bring the mixture to a simmer and cook until thickened, about 5 minutes.",
+    "Stir in 1/2 cup of grated paleo-friendly cheese (such as cashew or soy-based).",
+    "In a separate pan, toast the breadcrumbs in a little bit of oil until lightly browned.",
+    "In a greased 9x13 inch baking dish, create a layer of broccoli florets.",
+    "Pour some of the Béchamel sauce over the broccoli.",
+    "Sprinkle toasted breadcrumbs over the sauce.",
+    "Repeat the layers one more time, finishing with a layer of sauce and breadcrumbs.",
+    "Cover the dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paleo",
+    "gluten-free",
+    "french",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/paleo-perfectly-french-purple-sprouting-broccoli-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:48:11.443Z"
+}
