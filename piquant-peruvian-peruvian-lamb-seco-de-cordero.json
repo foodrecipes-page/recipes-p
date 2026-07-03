@@ -1,0 +1,81 @@
+{
+  "slug": "piquant-peruvian-peruvian-lamb-seco-de-cordero",
+  "title": "Peruvian Lamb Seco",
+  "description": "A traditional Peruvian dish made with tender lamb, spices, and a rich sauce, served with rice.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound boneless shoulder",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian Peruvian Spices",
+      "amount": "2 tablespoons",
+      "notes": "Available in most Latin American markets"
+    },
+    {
+      "name": "Piquant Onion",
+      "amount": "1 large, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Seco Tomato Sauce",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Cordero Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "De White Wine",
+      "amount": "1/2 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the lamb with salt, black pepper, and Peruvian spices. Let it sit at room temperature for 30 minutes.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb on all sides until browned, about 5 minutes. Remove from the pot and set aside.",
+    "Reduce heat to medium and add the sliced onion. Cook, stirring occasionally, until the onion is softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the tomato sauce and white wine (if using). Stir to combine and bring to a simmer.",
+    "Return the lamb to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise the lamb for 2 1/2 hours, or until tender.",
+    "Remove the pot from the oven and let the lamb rest for 10 minutes before slicing.",
+    "Serve the lamb with the sauce spooned over the top, accompanied by rice and steamed vegetables.",
+    "Let the dish rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "lamb",
+    "seco",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-peruvian-peruvian-lamb-seco-de-cordero",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:48:45.074Z"
+}
