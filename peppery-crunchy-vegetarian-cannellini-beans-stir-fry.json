@@ -1,0 +1,72 @@
+{
+  "slug": "peppery-crunchy-vegetarian-cannellini-beans-stir-fry",
+  "title": "Cannellini Bean Stir Fry",
+  "description": "A quick and easy vegetarian stir fry using cannellini beans and crunchy vegetables.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cannellini beans",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "peppery",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup",
+      "notes": "sliced bell peppers"
+    },
+    {
+      "name": "beans",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tbsp",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "fry",
+      "amount": "1 tsp",
+      "notes": "soy sauce"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the sliced bell peppers and cook for 3 minutes until tender.",
+    "Add the cannellini beans, soy sauce, and cooked beans to the skillet.",
+    "Stir-fry everything together for 2-3 minutes until heated through.",
+    "Serve hot over rice or noodles.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "italian",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crunchy-vegetarian-cannellini-beans-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T03:00:36.332Z"
+}
