@@ -1,0 +1,57 @@
+{
+  "slug": "peppery-dutch-cheese-flatbread",
+  "title": "Grilled Dutch Cheese Flatbread",
+  "description": "A simple and flavorful flatbread topped with melted cheese and a peppery twist.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "2 slices",
+      "notes": "preferably Dutch flatbread"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": "mild Dutch cheese"
+    },
+    {
+      "name": "Peppery Spread",
+      "amount": "2 tbsp",
+      "notes": "available in most supermarkets"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Place flatbread slices on the grill for 2-3 minutes or until lightly toasted.",
+    "Flip the flatbread over and top with shredded cheese.",
+    "Return the flatbread to the grill for another 2-3 minutes or until the cheese is melted.",
+    "Remove from heat and spread with peppery spread.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "flatbread",
+    "cheese",
+    "peppery"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-dutch-cheese-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:49:47.576Z"
+}
