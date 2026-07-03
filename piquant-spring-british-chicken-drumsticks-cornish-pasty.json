@@ -1,0 +1,64 @@
+{
+  "slug": "piquant-spring-british-chicken-drumsticks-cornish-pasty",
+  "title": "Traditional Cornish Chicken Pasty",
+  "description": "A twist on the classic Cornish pasty, filled with chicken and vegetables.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Spring onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Piquant potato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "British beef broth",
+      "amount": "250ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 200°C (400°F).",
+    "2. Peel and chop the potatoes, then boil in salted water until tender.",
+    "3. Chop the spring onion and mix with the cooked potatoes.",
+    "4. Season the chicken breast with salt and pepper, then grill until cooked through.",
+    "5. In a large bowl, combine the cooked chicken, potato mixture, and beef broth.",
+    "6. Roll out the pastry on a floured surface, about 3mm thick.",
+    "7. Spoon the filling onto one half of the pastry, leaving a 1cm border.",
+    "8. Brush the edges with a little water, then fold the pastry over the filling.",
+    "9. Press the edges to seal, then use a knife to cut a few slits in the top.",
+    "10. Brush the pastry with a little milk or beaten egg, then bake for 25-30 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "cornish",
+    "pastymeal"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-spring-british-chicken-drumsticks-cornish-pasty",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T23:49:05.826Z"
+}
