@@ -4815,18 +4815,15 @@
   },
   {
     "slug": "peppery-turkish-pepper-biryani",
-    "title": "Peppery Turkish Pepper Biryani",
+    "title": "Biryani Peppery Chicken",
     "tags": [
-      "turkish",
-      "peppery",
-      "biryani",
-      "vegan",
-      "pescatarian",
-      "fluffy",
-      "nostalgic"
+      "chicken",
+      "rice",
+      "indian",
+      "spicy"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 25,
+    "cuisine": "indian",
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
@@ -5933,19 +5930,16 @@
   },
   {
     "slug": "pillowy-french-almonds-tart",
-    "title": "Pillowy French Almond Tart",
+    "title": "Tart Almond Crumble",
     "tags": [
+      "tart",
       "almond",
-      "baking",
-      "crowd-pleaser",
+      "crumble",
       "dessert",
-      "easy-to-make",
-      "french",
-      "nut-based",
-      "weeknight"
+      "pastry"
     ],
     "cuisine": "French",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
