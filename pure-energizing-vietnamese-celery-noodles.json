@@ -1,0 +1,74 @@
+{
+  "slug": "pure-energizing-vietnamese-celery-noodles",
+  "title": "Vietnamese Noodle Salad",
+  "description": "A refreshing and healthy salad made with Vietnamese noodles, energizing ingredients, and crunchy vegetables.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vietnamese noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Pure celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Energizing",
+      "amount": "1/4 cup chopped fresh mint leaves"
+    },
+    {
+      "name": "Noodles seasoning",
+      "amount": "2 tbsp soy sauce"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the Vietnamese noodles according to package instructions.",
+    "Chop the celery into thin slices.",
+    "Mince the fresh mint leaves.",
+    "In a large bowl, combine the cooked noodles, chopped celery, and mint leaves.",
+    "In a small bowl, whisk together the soy sauce, sesame oil, lime juice, salt, and pepper.",
+    "Pour the dressing over the noodle mixture and toss to combine.",
+    "Serve immediately and garnish with additional mint leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "noodle-salad",
+    "salad",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pure-energizing-vietnamese-celery-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T03:52:42.166Z"
+}
