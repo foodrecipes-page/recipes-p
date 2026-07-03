@@ -7948,17 +7948,14 @@
   },
   {
     "slug": "piquant-spring-british-chicken-drumsticks-cornish-pasty",
-    "title": "Piquant Spring British Chicken Drumsticks Cornish Pasty",
+    "title": "Traditional Cornish Chicken Pasty",
     "tags": [
-      "date-night",
-      "english-cuisine",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "spring-recipe"
+      "british",
+      "cornish",
+      "pastymeal"
     ],
     "cuisine": "British",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
@@ -9771,18 +9768,15 @@
   },
   {
     "slug": "puffed-pastry-australian-hake-en-croute",
-    "title": "Puffed Pastry Australian Hake En-Croute",
+    "title": "Hake in Australian Pastry Croute",
     "tags": [
       "australian",
-      "en-croute",
-      "hake",
-      "low-sodium",
-      "puff-pastry",
-      "seafood",
-      "special-occasion"
+      "fish",
+      "pastry",
+      "croute"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
