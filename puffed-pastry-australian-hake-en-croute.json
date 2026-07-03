@@ -1,0 +1,85 @@
+{
+  "slug": "puffed-pastry-australian-hake-en-croute",
+  "title": "Hake in Australian Pastry Croute",
+  "description": "A flaky pastry crust filled with pan-seared hake, perfect for a light dinner. This dish is inspired by traditional Australian cuisine.",
+  "cuisine": "australian",
+  "diet": [
+    "fish",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hake fillet",
+      "amount": "4",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "puffed pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "australian pastry croute",
+      "amount": "1 package",
+      "notes": "available in most supermarkets"
+    },
+    {
+      "name": "en sauce",
+      "amount": "1 cup",
+      "notes": " store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the hake fillet into 4 equal pieces and season with salt and pepper.",
+    "Heat the olive oil in a non-stick pan over medium heat and fry the hake pieces until golden brown on both sides.",
+    "Roll out the puffed pastry to a thickness of about 1/8 inch (3 mm).",
+    "Cut out four squares of pastry, each about 3 inches (7.5 cm) on each side.",
+    "Place a piece of hake in the center of each pastry square and brush the edges with a little water.",
+    "Fold the pastry over the hake, pressing the edges to seal. Brush the tops with a little water and sprinkle with australian pastry croute.",
+    "Place the pastries on a baking tray lined with parchment paper and bake for 15-20 minutes, or until golden brown.",
+    "Serve hot with a drizzle of en sauce and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "fish",
+    "pastry",
+    "croute"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/puffed-pastry-australian-hake-en-croute",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T00:27:02.969Z"
+}
