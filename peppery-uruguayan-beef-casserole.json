@@ -1,0 +1,82 @@
+{
+  "slug": "peppery-uruguayan-beef-casserole",
+  "title": "Uruguayan Beef Casserole",
+  "description": "A hearty beef casserole dish from Uruguay, made with tender beef and a rich, flavorful sauce.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb beef (chuck or round)",
+      "amount": "1 lb",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "1 onion",
+      "amount": "",
+      "notes": "Chopped"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "Minced"
+    },
+    {
+      "name": "1 cup beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 cup casserole",
+      "amount": "1 cup",
+      "notes": "Crushed"
+    },
+    {
+      "name": "1 tsp dried oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/2 tsp black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Peppery"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat. Add the beef and cook until browned, about 5 minutes.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent.",
+    "Add the beef broth, casserole, oregano, paprika, and pepper to the pot. Stir to combine.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Bake for 1 1/2 hours, or until the beef is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the casserole hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "beef",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-uruguayan-beef-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:51:37.723Z"
+}
