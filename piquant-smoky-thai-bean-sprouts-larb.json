@@ -1,0 +1,80 @@
+{
+  "slug": "piquant-smoky-thai-bean-sprouts-larb",
+  "title": "Spicy Larb Bean Stir Fry",
+  "description": "A spicy and savory stir fry made with Thai-inspired flavors and piquant bean sprouts.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bean Sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bean (cooked)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Piquant Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Thai Larb Spice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic (minced)",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Soy Sauce (low-sodium)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chili Flakes (optional)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the cooked bean and stir to combine with the garlic.",
+    "Add the bean sprouts, piquant sauce, Thai larb spice, smoked paprika, and soy sauce. Stir to combine.",
+    "Cook for 2-3 minutes, until the sprouts are slightly tender.",
+    "Season with salt and chili flakes (if using).",
+    "Serve hot and garnish with additional Thai larb spice (if desired)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "vegan",
+    "stir-fry",
+    "bean-sprouts"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-smoky-thai-bean-sprouts-larb",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:56:43.781Z"
+}
