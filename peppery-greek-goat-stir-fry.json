@@ -1,0 +1,61 @@
+{
+  "slug": "peppery-greek-goat-stir-fry",
+  "title": "Goat Feta Stuffed Peppers",
+  "description": "A flavorful and healthy dish where bell peppers are stuffed with a tangy goat feta mixture and baked to perfection.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 bell peppers, any color",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup goat feta cheese",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp dried oregano",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C)",
+    "Cut off the tops of the peppers and remove seeds and membranes",
+    "In a bowl, mix together feta, parsley, garlic, and oregano",
+    "Stuff each pepper with the feta mixture and place in a baking dish",
+    "Cover with foil and bake for 25 minutes",
+    "Remove foil and bake for an additional 10-15 minutes"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "goat",
+    "feta",
+    "stuffed-peppers"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-greek-goat-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:13:11.639Z"
+}
