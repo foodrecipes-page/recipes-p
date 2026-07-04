@@ -1,0 +1,82 @@
+{
+  "slug": "passion-bitter-treat",
+  "title": "Passion Fruit Tart",
+  "description": "A sweet and tangy dessert using fresh passion fruit, perfect for warm weather.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Passion fruit",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, whisk together flour and salt. Add confectioners' sugar and whisk until combined.",
+    "Add unsalted butter and use a pastry blender or your fingertips to work it into the flour mixture until it resembles coarse crumbs.",
+    "Press mixture into a 9-inch tart pan with a removable bottom.",
+    "Bake for 20-25 minutes or until lightly golden.",
+    "Let cool completely.",
+    "Cut passion fruit in half and scoop out the pulp with a spoon.",
+    "Arrange the pulp over the cooled tart base.",
+    "In a small bowl, whisk together egg and a pinch of salt.",
+    "Pour the egg mixture over the passion fruit pulp.",
+    "Bake for an additional 10-12 minutes or until the filling is set.",
+    "Let cool to room temperature before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "tart",
+    "passionfruit",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/passion-bitter-treat",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:20:34.363Z"
+}
