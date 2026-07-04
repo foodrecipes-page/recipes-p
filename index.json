@@ -9614,13 +9614,12 @@
   },
   {
     "slug": "promptly-pan-seared-middle-eastern-lamb-kebabs",
-    "title": "Promptly Pan Seared Middle Eastern Lamb Kebabs",
+    "title": "Middle Eastern Style Lamb Kebabs",
     "tags": [
-      "halal-friendly",
-      "korean-brass-bowl",
-      "lamb-kebabs",
+      "lamb",
+      "kebabs",
       "middle-eastern",
-      "quick-dinner"
+      "grilled"
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 35,
@@ -10386,17 +10385,16 @@
   },
   {
     "slug": "pungent-fermented-russian-dish-pilaf",
-    "title": "Pungent Fermented Russian Dish Pilaf",
+    "title": "Bulgarian Beef Pilaf",
     "tags": [
-      "dairy-free",
-      "fermented",
-      "gluten-free",
-      "one-pan",
+      "bulgarian",
+      "beef",
+      "pilaf",
       "russian",
-      "vegan",
-      "weeknight"
+      "fermented",
+      "comfort-food"
     ],
-    "cuisine": "russian",
+    "cuisine": "Bulgarian",
     "totalTimeMin": 40,
     "shard": "p"
   },
