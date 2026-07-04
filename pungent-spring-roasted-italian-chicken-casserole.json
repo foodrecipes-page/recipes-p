@@ -1,0 +1,73 @@
+{
+  "slug": "pungent-spring-roasted-italian-chicken-casserole",
+  "title": "Chicken Pungent Casserole",
+  "description": "A hearty and flavorful casserole made with chicken, spring vegetables, and a blend of cheeses.",
+  "cuisine": null,
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Pungent onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Spring carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Roasted bell peppers",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Italian cheese blend",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Casserole pasta",
+      "amount": "8 oz",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the pasta according to package instructions.",
+    "In a large skillet, sauté the onion and carrots until tender.",
+    "Add the bell peppers and cook for an additional 2 minutes.",
+    "Add the chicken to the skillet and cook until browned.",
+    "Transfer the chicken and vegetable mixture to a 9x13 inch baking dish.",
+    "In a separate bowl, combine the Italian cheese blend and cooked pasta.",
+    "Top the chicken and vegetable mixture with the pasta and cheese mixture.",
+    "Bake for 25-30 minutes, or until the casserole is hot and the cheese is melted."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "casserole",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-spring-roasted-italian-chicken-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:40:24.070Z"
+}
