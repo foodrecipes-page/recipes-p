@@ -1,0 +1,87 @@
+{
+  "slug": "pungent-fermented-russian-dish-pilaf",
+  "title": "Bulgarian Beef Pilaf",
+  "description": "A hearty and flavorful traditional Bulgarian dish made with beef, rice, and spices.",
+  "cuisine": "Bulgarian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "White Rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Pungent Onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fermented Sour Cream",
+      "amount": "250ml",
+      "notes": "adds tanginess"
+    },
+    {
+      "name": "Russian Dill",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Pilaf Spices",
+      "amount": "1 tsp",
+      "notes": "includes paprika, cumin, coriander"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large pan over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the pilaf spices and cook for 1 minute.",
+    "Add the uncooked rice and stir to coat with the oil and mix with the beef and spices.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Fluff the pilaf with a fork and stir in the chopped dill and sour cream.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bulgarian",
+    "beef",
+    "pilaf",
+    "russian",
+    "fermented",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-fermented-russian-dish-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T21:45:50.702Z"
+}
