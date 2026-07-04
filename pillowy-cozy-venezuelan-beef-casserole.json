@@ -1,0 +1,90 @@
+{
+  "slug": "pillowy-cozy-venezuelan-beef-casserole",
+  "title": "Venezuelan Beef Casserole",
+  "description": "A hearty, comforting casserole filled with Venezuelan flavors and tender beef.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": "ground beef"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Casserole",
+      "amount": "1",
+      "notes": "9x13 inch dish"
+    },
+    {
+      "name": "Venezuelan cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cook the beef in a large skillet over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the tomato sauce and bring to a simmer.",
+    "Season the beef mixture with salt and pepper to taste.",
+    "Transfer the beef mixture to the casserole dish.",
+    "Top the beef mixture with the shredded cheese.",
+    "Drizzle the olive oil over the top of the cheese.",
+    "Bake the casserole in the preheated oven for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "cheese",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-cozy-venezuelan-beef-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:53:09.662Z"
+}
