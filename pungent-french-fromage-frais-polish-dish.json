@@ -1,0 +1,67 @@
+{
+  "slug": "pungent-french-fromage-frais-polish-dish",
+  "title": "French Pungent Puff Pastry",
+  "description": "A French-inspired puff pastry filled with creamy cheese and topped with a tangy frais.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "fromage",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "frais",
+      "amount": "1/2 cup crumbled"
+    },
+    {
+      "name": "pungent",
+      "amount": "1 tablespoon, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry to a thickness of 1/8 inch.",
+    "Mix fromage, frais, and pungent in a bowl.",
+    "Spread the cheese mixture onto one half of the pastry, leaving a 1/2 inch border.",
+    "Fold the other half of the pastry over the filling, pressing edges to seal.",
+    "Brush the pastry with egg wash and cut a few slits in the top.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pastry",
+    "cheese",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-french-fromage-frais-polish-dish",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:56:13.260Z"
+}
