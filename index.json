@@ -2612,16 +2612,15 @@
   },
   {
     "slug": "peppery-crunchy-saudia-veggie-pilaf",
-    "title": "Peppery Crunchy Saudia Veggie Pilaf",
+    "title": "Saudi Pilaf Crunch",
     "tags": [
-      "saudia",
-      "veggie",
+      "saudi",
       "pilaf",
-      "peppery",
-      "crunchy"
+      "crunchy",
+      "veggie"
     ],
-    "cuisine": "Saudia (Middle Eastern)",
-    "totalTimeMin": 5,
+    "cuisine": "Saudi",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -5866,16 +5865,14 @@
   },
   {
     "slug": "pillowy-cozy-venezuelan-beef-casserole",
-    "title": "Pillowy Cozy Venezuelan Beef Casserole",
+    "title": "Venezuelan Beef Casserole",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "low-carb",
-      "one-pan",
-      "venezuelan-cuisine"
+      "beef",
+      "cheese",
+      "venezuelan"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
