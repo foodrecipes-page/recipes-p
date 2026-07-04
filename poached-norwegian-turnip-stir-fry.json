@@ -1,0 +1,78 @@
+{
+  "slug": "poached-norwegian-turnip-stir-fry",
+  "title": "Pan-Seared Norwegian Salmon with Turnip",
+  "description": "A simple yet flavorful dish showcasing the delicate taste of Norwegian salmon paired with a turnip side dish.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian Salmon Fillets",
+      "amount": "4 fillets (6 oz each)",
+      "notes": "Fresh and sustainably sourced"
+    },
+    {
+      "name": "Turnips",
+      "amount": "2 large turnips, peeled and cubed",
+      "notes": "Choose firm and dense turnips for best results"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "High-quality extra virgin olive oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Freshly ground sea salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground black pepper"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed lemon juice"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "Season the salmon fillets with salt and black pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the salmon fillets for 3-4 minutes per side or until cooked through.",
+    "Remove the salmon from the skillet and set aside.",
+    "In the same skillet, add the cubed turnips and cook for 5-7 minutes or until tender.",
+    "Stir in the lemon juice and cook for an additional minute.",
+    "Serve the pan-seared salmon with the turnip side dish and garnish with parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "scandinavian",
+    "fish",
+    "salmon",
+    "turnip"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/poached-norwegian-turnip-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T23:18:52.169Z"
+}
