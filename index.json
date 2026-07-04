@@ -10500,17 +10500,15 @@
   },
   {
     "slug": "pungent-garlicky-polish-garlic-bowl",
-    "title": "Pungent Garlicky Polish Garlic Bowl",
+    "title": "Polish Garlic Soup",
     "tags": [
-      "garlicky",
-      "high-protein",
-      "one-pan",
-      "polish",
-      "sous-vide",
-      "weeknight"
+      "soup",
+      "vegetarian",
+      "garlic",
+      "polish"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 190,
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
