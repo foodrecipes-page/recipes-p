@@ -1,0 +1,74 @@
+{
+  "slug": "piquant-flaky-egyptian-fennel-tagine",
+  "title": "Egyptian Fennel Tagine",
+  "description": "A flavorful and aromatic North African stew made with fennel, piquant spices, and tender meat. Traditionally cooked in a clay pot with a conical lid, this tagine is a hearty and comforting meal.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flaky beef",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 2-inch cubes"
+    },
+    {
+      "name": "Fennel",
+      "amount": "2 medium bulbs",
+      "notes": "Cut into 8 wedges"
+    },
+    {
+      "name": "Piquant spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Egyptian spices",
+      "amount": "1 teaspoon",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of a clay tagine or large Dutch oven over medium heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the fennel and cook until starting to soften, about 5 minutes.",
+    "Add the piquant spice blend, Egyptian spices, and chicken broth.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 hours, or until the meat is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley and lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "beef",
+    "fennel",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-flaky-egyptian-fennel-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:58:48.983Z"
+}
