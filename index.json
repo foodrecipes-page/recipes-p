@@ -1151,14 +1151,13 @@
   },
   {
     "slug": "passion-bitter-treat",
-    "title": "Passion Bitter Treat",
+    "title": "Passion Fruit Tart",
     "tags": [
-      "passion-bitter-treat",
-      "sous-vide",
-      "vegan-dessert",
-      "indian-recipe"
+      "tart",
+      "passionfruit",
+      "dessert"
     ],
-    "cuisine": "Indian",
+    "cuisine": "French",
     "totalTimeMin": 60,
     "shard": "p"
   },
