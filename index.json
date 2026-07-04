@@ -4084,16 +4084,15 @@
   },
   {
     "slug": "peppery-mediterranean-peppery-potatoes-bake",
-    "title": "Peppery Mediterranean Potatoes Bake",
+    "title": "Baked Mediterranean Potatoes",
     "tags": [
-      "peppery",
-      "potato",
-      "bake",
+      "potatoes",
       "mediterranean",
-      "date-night",
-      "low-sodium"
+      "side-dish",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "mediterranean",
+    "cuisine": "Mediterranean",
     "totalTimeMin": 40,
     "shard": "p"
   },
@@ -6361,14 +6360,12 @@
     "slug": "pillowy-vietnamese-rice-bowl",
     "title": "Pillowy Vietnamese Rice Bowl",
     "tags": [
-      "date-night",
-      "gluten-free",
-      "keto",
-      "one-pan",
-      "vegetarian"
+      "vietnamese",
+      "rice",
+      "bowl"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 45,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
@@ -10461,17 +10458,14 @@
   },
   {
     "slug": "pungent-french-fromage-frais-polish-dish",
-    "title": "Pungent French Fromage Frais Polish Delight",
+    "title": "French Pungent Puff Pastry",
     "tags": [
-      "date-night",
-      "french-inspired",
-      "one-pan",
-      "paleo-friendly",
-      "polish-cuisine",
-      "romantic"
+      "pastry",
+      "cheese",
+      "french"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 50,
+    "cuisine": "French",
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
@@ -11979,16 +11973,15 @@
   },
   {
     "slug": "purely-creamy-dutch-vegetable-stew",
-    "title": "Purely Creamy Dutch Vegetable Stew",
+    "title": "Dutch Vegetable Stew",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
-      "gluten-free",
-      "one-pot",
-      "vegetarian"
+      "dutch",
+      "vegetarian",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
