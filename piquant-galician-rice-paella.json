@@ -1,0 +1,59 @@
+{
+  "slug": "piquant-galician-rice-paella",
+  "title": "Galician Paella",
+  "description": "Traditional Spanish one-pot dish from the Galicia region, featuring piquant and savory flavors.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Galician",
+      "amount": "2 cups",
+      "notes": "Uncooked rice"
+    },
+    {
+      "name": "piquant",
+      "amount": "1 cup",
+      "notes": "Mixed seafood and vegetables"
+    },
+    {
+      "name": "paella",
+      "amount": "2 tablespoons",
+      "notes": "Paella rice variety"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan over medium-high heat.",
+    "Add piquant and cook, stirring occasionally, until heated through.",
+    "Add Galician and stir to coat with oil.",
+    "Add 2 1/4 cups water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Increase heat to high and cook, uncovered, until liquid has evaporated and rice is tender.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "galician",
+    "rice",
+    "seafood",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 55,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-galician-rice-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:48:07.991Z"
+}
