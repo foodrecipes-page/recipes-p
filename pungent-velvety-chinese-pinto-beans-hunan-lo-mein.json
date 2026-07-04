@@ -1,0 +1,84 @@
+{
+  "slug": "pungent-velvety-chinese-pinto-beans-hunan-lo-mein",
+  "title": "Pungent Hunan Mein",
+  "description": "A spicy and savory stir-fry dish made with pungent lo mein noodles, hunan peppers, and chinese vegetables.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lo Mein Noodles",
+      "amount": "1 package (8 oz)",
+      "notes": null
+    },
+    {
+      "name": "Hunan Peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Pungent Vegetables",
+      "amount": "1 cup",
+      "notes": "chopped (such as Chinese broccoli)"
+    },
+    {
+      "name": "Chinese Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Pinto Beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Hunan Spice",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Cook Lo Mein Noodles according to package instructions. Drain and set aside.",
+    "Heat 1 tbsp of oil in a wok or large skillet over medium-high heat.",
+    "Add Hunan peppers and cook for 1-2 minutes until fragrant.",
+    "Add pungent vegetables and cook until tender.",
+    "Add Chinese garlic and cook for 1 minute.",
+    "Add cooked Pinto Beans and stir-fry for 2-3 minutes.",
+    "Add cooked Lo Mein Noodles and stir-fry for 1-2 minutes.",
+    "In a small bowl, whisk together soy sauce, rice vinegar, and Hunan spice.",
+    "Pour sauce over noodles and vegetables and stir-fry for an additional 1-2 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "hunan",
+    "mein",
+    "stir-fry",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-velvety-chinese-pinto-beans-hunan-lo-mein",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:01:01.091Z"
+}
