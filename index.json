@@ -3485,13 +3485,14 @@
   },
   {
     "slug": "peppery-greek-goat-stir-fry",
-    "title": "Peppery Greek Goat Stir-fry",
+    "title": "Goat Feta Stuffed Peppers",
     "tags": [
-      "peppery-greek-goat-stir-fry",
-      "jain-friendly-dish"
+      "goat",
+      "feta",
+      "stuffed-peppers"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": null,
+    "totalTimeMin": 50,
     "shard": "p"
   },
   {
@@ -4899,18 +4900,14 @@
   },
   {
     "slug": "peppery-uruguayan-beef-casserole",
-    "title": "Peppery Uruguayan Beef Casserole",
+    "title": "Uruguayan Beef Casserole",
     "tags": [
       "uruguayan",
       "beef",
-      "casserole",
-      "sous-vide",
-      "one-pot",
-      "peppery",
-      "tender"
+      "casserole"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 1455,
+    "totalTimeMin": 110,
     "shard": "p"
   },
   {
