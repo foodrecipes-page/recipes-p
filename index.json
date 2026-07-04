@@ -7836,17 +7836,15 @@
   },
   {
     "slug": "piquant-smoky-thai-bean-sprouts-larb",
-    "title": "Piquant Smoky Thai Bean Sprouts Larb",
+    "title": "Spicy Larb Bean Stir Fry",
     "tags": [
-      "grilled",
-      "macrobiotic",
-      "smoky",
-      "spicy",
-      "thai-cuisine",
-      "vegetarian"
+      "thai",
+      "vegan",
+      "stir-fry",
+      "bean-sprouts"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 30,
+    "totalTimeMin": 15,
     "shard": "p"
   },
   {
@@ -10285,16 +10283,15 @@
   },
   {
     "slug": "pungent-dense-jamaican-medjool-dates-tagine",
-    "title": "pungent dense jamaican medjool dates tagine",
+    "title": "Sweet Jamaican Date Tagine",
     "tags": [
-      "candy-canes",
-      "high-carb",
-      "jamaican",
-      "medjool-dates",
-      "one-pan",
-      "weeknight"
+      "dates",
+      "jamaican-spice",
+      "tagine",
+      "north-african",
+      "dessert"
     ],
-    "cuisine": "jamaican",
+    "cuisine": "North African",
     "totalTimeMin": 30,
     "shard": "p"
   },
