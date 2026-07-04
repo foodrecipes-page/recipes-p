@@ -1,0 +1,60 @@
+{
+  "slug": "pungent-dense-jamaican-medjool-dates-tagine",
+  "title": "Sweet Jamaican Date Tagine",
+  "description": "A rich and flavorful dessert made with sweet dates, Jamaican spices, and medjool dates, perfect for a special treat. The tagine cooking method adds depth to the dish without added sugar.",
+  "cuisine": "North African",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Medjool dates",
+      "amount": "12",
+      "notes": "pitted"
+    },
+    {
+      "name": "Pungent dates",
+      "amount": "6",
+      "notes": "pitted"
+    },
+    {
+      "name": "Jamaican spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Tagine",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the medjool and pungent dates and remove the pits.",
+    "2. In a large tagine, combine the dates, Jamaican spice blend, and 1 cup of water.",
+    "3. Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "4. Remove the tagine from the heat and let it cool slightly.",
+    "5. Serve the tagine warm, garnished with additional dates if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dates",
+    "jamaican-spice",
+    "tagine",
+    "north-african",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-dense-jamaican-medjool-dates-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:45:52.011Z"
+}
