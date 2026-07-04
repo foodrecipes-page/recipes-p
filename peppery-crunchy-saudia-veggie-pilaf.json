@@ -1,0 +1,65 @@
+{
+  "slug": "peppery-crunchy-saudia-veggie-pilaf",
+  "title": "Saudi Pilaf Crunch",
+  "description": "A flavorful and crunchy Saudi-inspired dish, perfect for a light lunch. This recipe combines the crunch of fresh veggies with the savory taste of pilaf.",
+  "cuisine": "Saudi",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pilaf",
+      "amount": "2 cups",
+      "notes": "cooking liquid not included"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Veggie",
+      "amount": "1 cup",
+      "notes": "any combination of carrots, zucchini, bell peppers"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "0.5 cup",
+      "notes": "chopped almonds or pistachios"
+    },
+    {
+      "name": "Peppery",
+      "amount": "1 teaspoon",
+      "notes": "ground black pepper to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the veggie mixture and cook until tender.",
+    "Add the pilaf and stir to combine.",
+    "Season with peppery and serve hot.",
+    "Garnish with crunchy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi",
+    "pilaf",
+    "crunchy",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crunchy-saudia-veggie-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:27:55.217Z"
+}
