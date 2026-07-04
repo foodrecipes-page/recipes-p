@@ -4942,20 +4942,15 @@
   },
   {
     "slug": "peppery-velvety-irish-shiitake-stew",
-    "title": "Peppery Velvety Irish Shiitake Stew",
+    "title": "Irish Stew with Shiitake Mushrooms",
     "tags": [
-      "peppery",
-      "velvety",
-      "stew",
-      "irish",
-      "gluten-free",
-      "weeknight",
-      "shiitake",
-      "creamy",
-      "savory"
+      "irish-stew",
+      "beef-stew",
+      "mushroom-stew",
+      "comfort-food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 75,
+    "totalTimeMin": 150,
     "shard": "p"
   },
   {
@@ -7044,18 +7039,17 @@
   },
   {
     "slug": "piquant-galician-rice-paella",
-    "title": "Piquant Galician Rice Paella",
+    "title": "Galician Paella",
     "tags": [
-      "comfort-food",
-      "egg-free",
+      "spanish",
+      "paella",
       "galician",
-      "one-pan",
-      "paella-valenciana",
-      "savory",
-      "vegan"
+      "rice",
+      "seafood",
+      "vegetarian"
     ],
-    "cuisine": "spanish",
-    "totalTimeMin": 45,
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
