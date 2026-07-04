@@ -6935,16 +6935,15 @@
   },
   {
     "slug": "piquant-flaky-egyptian-fennel-tagine",
-    "title": "Piquant Flaky Egyptian Fennel Tagine",
+    "title": "Egyptian Fennel Tagine",
     "tags": [
-      "anti-inflammatory",
-      "date-night",
-      "high-fiber",
-      "low-sodium",
-      "romantic"
+      "north-african",
+      "beef",
+      "fennel",
+      "stew"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 75,
+    "cuisine": "North African",
+    "totalTimeMin": 140,
     "shard": "p"
   },
   {
@@ -11377,17 +11376,13 @@
   },
   {
     "slug": "pungent-spring-roasted-italian-chicken-casserole",
-    "title": "Pungent Spring Roasted Italian Chicken Casserole",
+    "title": "Chicken Pungent Casserole",
     "tags": [
-      "calabrian",
+      "chicken",
       "casserole",
-      "high-protein",
-      "italian",
-      "one-pan",
-      "spring",
-      "weeknight"
+      "italian"
     ],
-    "cuisine": "italian",
+    "cuisine": null,
     "totalTimeMin": 45,
     "shard": "p"
   },
@@ -11538,18 +11533,16 @@
   },
   {
     "slug": "pungent-velvety-chinese-pinto-beans-hunan-lo-mein",
-    "title": "Pungent, Velvety Chinese Pinto Beans Hunan Lo Mein",
+    "title": "Pungent Hunan Mein",
     "tags": [
-      "chinese-inspired",
-      "high-protein",
+      "chinese",
       "hunan",
-      "one-pan",
-      "vegetarian-friendly",
-      "weeknight",
-      "wok-hei"
+      "mein",
+      "stir-fry",
+      "spicy"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 20,
     "shard": "p"
   },
   {
