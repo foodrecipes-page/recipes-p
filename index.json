@@ -1279,16 +1279,14 @@
   },
   {
     "slug": "peanut-dutch-breeze",
-    "title": "Peanut Dutch Breeze",
+    "title": "Peanut Butter and Breeze Cookies",
     "tags": [
-      "dutch",
-      "smoky",
-      "fluffy",
-      "kid-friendly",
-      "diabetic-friendly"
+      "cookies",
+      "peanut-butter",
+      "dutch"
     ],
-    "cuisine": "Asian-Inspired",
-    "totalTimeMin": 40,
+    "cuisine": "Dutch",
+    "totalTimeMin": 20,
     "shard": "p"
   },
   {
@@ -2121,18 +2119,14 @@
   },
   {
     "slug": "peppery-crispy-chinese-basil-bake",
-    "title": "Peppery Crispy Chinese Basil Bake",
+    "title": "Baked Basil Chicken",
     "tags": [
-      "vegan",
-      "gluten-free",
-      "chinese",
-      "basil",
-      "bake",
-      "crispy",
-      "peppery"
+      "italian",
+      "chicken",
+      "basil"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 45,
+    "cuisine": "Italian",
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
