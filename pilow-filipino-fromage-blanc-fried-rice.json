@@ -1,0 +1,66 @@
+{
+  "slug": "pilow-filipino-fromage-blanc-fried-rice",
+  "title": "Filipino Fried Rice with Cheese",
+  "description": "A simple Filipino dish made with fried rice, cheese, and a few other ingredients.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cooked white rice",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Fromage blanc",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Filipino seasoning",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Fried garlic",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add garlic and cook until fragrant.",
+    "Add cooked rice to the pan, stir-frying until combined with garlic and oil.",
+    "Add fromage blanc and stir-fry until heated through.",
+    "Add Filipino seasoning and stir-fry for 1 minute.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "fried-rice",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pilow-filipino-fromage-blanc-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T05:35:30.560Z"
+}
