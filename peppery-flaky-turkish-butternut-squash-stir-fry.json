@@ -1,0 +1,62 @@
+{
+  "slug": "peppery-flaky-turkish-butternut-squash-stir-fry",
+  "title": "Stir-Fried Butternut Squash",
+  "description": "A simple and flavorful dish made with butternut squash and turkish spices. Can be served as a side or main course.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butternut squash",
+      "amount": "1 medium, peeled and cubed"
+    },
+    {
+      "name": "Turkish pepper",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "Flaky salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced pepper and cook for 2-3 minutes, until slightly softened.",
+    "Add the cubed butternut squash and cook for 5-7 minutes, until tender and lightly browned.",
+    "Season with flaky salt and garlic (if using).",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "sides",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-flaky-turkish-butternut-squash-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:44:15.653Z"
+}
