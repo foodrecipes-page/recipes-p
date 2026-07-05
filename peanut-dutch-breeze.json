@@ -1,0 +1,71 @@
+{
+  "slug": "peanut-dutch-breeze",
+  "title": "Peanut Butter and Breeze Cookies",
+  "description": "A delicious and crunchy cookie recipe with peanut butter and breeze that is perfect for a snack or dessert.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peanut butter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "breeze",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper.",
+    "In a large bowl, cream peanut butter and sugar until smooth.",
+    "Beat in eggs until well combined.",
+    "In a separate bowl, whisk together flour, baking soda, and salt.",
+    "Gradually add dry ingredients to wet ingredients and mix until a dough forms.",
+    "Roll dough into balls and place on prepared baking sheet.",
+    "Bake for 10-12 minutes or until lightly golden.",
+    "Let cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "cookies",
+    "peanut-butter",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peanut-dutch-breeze",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T19:15:23.437Z"
+}
