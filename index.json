@@ -5123,14 +5123,12 @@
     "slug": "peppy-mediterranean-leek-soup",
     "title": "Peppy Mediterranean Leek Soup",
     "tags": [
-      "peppy",
+      "soup",
       "mediterranean",
-      "lemon-grass",
-      "fluffy",
-      "cozy",
-      "sugar-free-friendly"
+      "peppy",
+      "leek"
     ],
-    "cuisine": "Mediterranean",
+    "cuisine": null,
     "totalTimeMin": 35,
     "shard": "p"
   },
@@ -5295,16 +5293,15 @@
   },
   {
     "slug": "perfectly-pan-seared-russian-steak-dumplings",
-    "title": "Perfectly Pan Seared Russian Steak Dumplings",
+    "title": "Russian Pan-Seared Steak with Dumplings",
     "tags": [
-      "comfort-food",
-      "halal-friendly",
+      "russian",
       "pan-seared",
-      "russian-cuisine",
-      "steak-dumplings"
+      "steak",
+      "dumplings"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
