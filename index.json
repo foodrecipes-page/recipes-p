@@ -3395,16 +3395,15 @@
   },
   {
     "slug": "peppery-gooey-mexican-ground-cinnamon-stir-fry",
-    "title": "Peppery Gooey Mexican Ground Cinnamon Stir-fry",
+    "title": "Cinnamon Mexican Breakfast Burritos",
     "tags": [
-      "peppery",
-      "gooey",
+      "breakfast",
       "mexican",
-      "cinnamon",
-      "whole30-friendly"
+      "beef",
+      "cheese"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 65,
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
