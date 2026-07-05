@@ -7429,16 +7429,15 @@
   },
   {
     "slug": "piquant-nutty-korean-pepper-jorim",
-    "title": "Piquant Nutty Korean Pepper Jorim",
+    "title": "Spicy Korean Pepper Jorim",
     "tags": [
-      "jorim",
+      "spicy",
       "korean",
-      "nutty",
-      "paleo-friendly",
-      "spicy"
+      "pepper",
+      "jorim"
     ],
-    "cuisine": "korean",
-    "totalTimeMin": 55,
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
