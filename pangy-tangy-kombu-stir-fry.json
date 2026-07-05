@@ -1,0 +1,69 @@
+{
+  "slug": "pangy-tangy-kombu-stir-fry",
+  "title": "Miso Kombu Soup",
+  "description": "A Japanese-inspired soup made with kombu seaweed and a hint of miso paste. This comforting dish is perfect for a chilly evening.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pangy",
+      "amount": "2 cups",
+      "notes": "Pangy leaves"
+    },
+    {
+      "name": "Tangy",
+      "amount": "1 cup",
+      "notes": "Tangy stems"
+    },
+    {
+      "name": "Kombu",
+      "amount": "4 pieces",
+      "notes": "Dried kombu seaweed"
+    },
+    {
+      "name": "Stir",
+      "amount": "2 tablespoons",
+      "notes": "Olive oil for stir-frying"
+    },
+    {
+      "name": "Fry",
+      "amount": "1 cup",
+      "notes": "Your preferred vegetable oil for frying"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add kombu seaweed and cook for 2 minutes.",
+    "Add pangy leaves and tangy stems, stir-frying until they start to soften.",
+    "Pour in 4 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Use a spoon to remove kombu seaweed from the pot.",
+    "Add miso paste and stir until dissolved.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pangy-tangy-kombu-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T00:52:11.512Z"
+}
