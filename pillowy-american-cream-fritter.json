@@ -1,0 +1,58 @@
+{
+  "slug": "pillowy-american-cream-fritter",
+  "title": "American Cream Fritter Pancakes",
+  "description": "A delightful breakfast treat that brings together the sweetness of pancakes and the crunch of fritters.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pillowy American Pancake Mix",
+      "amount": "1 box",
+      "notes": "Make sure to choose a mix with buttermilk"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "For extra richness"
+    },
+    {
+      "name": "Powdered Sugar",
+      "amount": "1/4 cup",
+      "notes": "For dusting fritters"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Follow the pancake mix instructions to make the batter.",
+    "Add heavy cream to the batter and mix until smooth.",
+    "Heat a non-stick pan with butter or oil over medium heat.",
+    "Drop 1/4 cup of the batter into the pan and cook for 2-3 minutes.",
+    "Flip the fritters and cook for an additional 2-3 minutes.",
+    "Repeat with the remaining batter.",
+    "Dust the fritters with powdered sugar and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "fritters",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-american-cream-fritter",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T03:47:29.463Z"
+}
