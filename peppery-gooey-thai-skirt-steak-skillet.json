@@ -1,0 +1,69 @@
+{
+  "slug": "peppery-gooey-thai-skirt-steak-skillet",
+  "title": "Pan-Seared Skirt Steak with Thai Peppercorn Sauce",
+  "description": "A flavorful and spicy skirt steak dish, served with a creamy Thai peppercorn sauce. Perfect for a quick weeknight dinner.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Skirt steak",
+      "amount": "1.5 pounds",
+      "notes": "Flank steak can be used as a substitute"
+    },
+    {
+      "name": "Gooey brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Thai peppercorns",
+      "amount": "1 tablespoon",
+      "notes": "Can be found in most Asian markets"
+    },
+    {
+      "name": "Skillet",
+      "amount": null,
+      "notes": "For serving"
+    },
+    {
+      "name": "Peppery thyme",
+      "amount": "1 tablespoon",
+      "notes": "Fresh or dried, as desired"
+    }
+  ],
+  "instructions": [
+    "Season the skirt steak with salt, pepper, and thyme.",
+    "Heat a skillet over high heat and sear the steak for 2-3 minutes per side.",
+    "Transfer the steak to a plate and cover with foil to keep warm.",
+    "Reduce heat to medium and add the brown sugar to the skillet.",
+    "Scrape up any browned bits from the bottom of the pan and cook for 1 minute.",
+    "Add the Thai peppercorns and cook for an additional minute.",
+    "Stir in 2 tablespoons of water to create a sauce.",
+    "Return the steak to the skillet and spoon the sauce over the top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "skirt steak",
+    "thai cuisine",
+    "steak recipe",
+    "easy dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-gooey-thai-skirt-steak-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T09:23:36.145Z"
+}
