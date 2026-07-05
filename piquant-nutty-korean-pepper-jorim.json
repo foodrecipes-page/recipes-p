@@ -1,0 +1,69 @@
+{
+  "slug": "piquant-nutty-korean-pepper-jorim",
+  "title": "Spicy Korean Pepper Jorim",
+  "description": "A spicy and savory Korean-inspired dish made with piquant and nutty flavors, featuring pepper and jorim ingredients.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pepper",
+      "amount": "2 cups",
+      "notes": "any color"
+    },
+    {
+      "name": "jorim",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "piquant",
+      "amount": "2 tablespoons",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/4 cup",
+      "notes": "chopped nuts (walnuts or almonds)"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add pepper and cook for 5 minutes.",
+    "Add jorim and stir to combine.",
+    "Add piquant and stir to combine.",
+    "Add nutty and stir to combine.",
+    "Cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "korean",
+    "pepper",
+    "jorim"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-nutty-korean-pepper-jorim",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T01:08:44.175Z"
+}
