@@ -1,0 +1,72 @@
+{
+  "slug": "piquant-velvety-french-mung-bean-sprouts-bowl",
+  "title": "French Bean and Sprouts Bowl",
+  "description": "A simple and nutritious bowl filled with sautéed mung bean and sprouts, served with a side of piquant sauce.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mung bean",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "piquant sauce ingredients (soy sauce, vinegar, garlic, ginger)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "velvety sauce ingredients (soy sauce, honey, rice vinegar)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "french bread, crusty",
+      "amount": "1 slice"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add mung bean and sprouts, and stir-fry for 3-4 minutes.",
+    "In a separate bowl, mix together piquant sauce ingredients.",
+    "Add piquant sauce to the mung bean mixture and stir-fry for another minute.",
+    "Season with salt to taste.",
+    "To make velvety sauce, mix together soy sauce, honey, and rice vinegar.",
+    "Serve mung bean and sprouts mixture in a bowl, drizzle with velvety sauce, and serve with a side of crusty French bread.",
+    "Optional: top with additional piquant sauce for extra flavor."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-velvety-french-mung-bean-sprouts-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T23:18:13.946Z"
+}
