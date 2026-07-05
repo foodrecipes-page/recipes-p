@@ -1,0 +1,71 @@
+{
+  "slug": "peppery-crispy-chinese-basil-bake",
+  "title": "Baked Basil Chicken",
+  "description": "A simple, flavorful dish that combines the richness of baked chicken with the freshness of basil.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 lbs"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "peppery parmesan cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crispy breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Rinse the chicken breast and pat it dry with paper towels.",
+    "3. In a bowl, mix together chopped basil, parmesan cheese, and breadcrumbs.",
+    "4. Season the chicken with salt and pepper.",
+    "5. Dip each chicken breast into the olive oil, then coat in the basil mixture.",
+    "6. Place the coated chicken on a baking sheet lined with parchment paper.",
+    "7. Bake for 25-30 minutes or until the chicken is cooked through.",
+    "8. Let the chicken rest for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "basil"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crispy-chinese-basil-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T20:21:36.114Z"
+}
