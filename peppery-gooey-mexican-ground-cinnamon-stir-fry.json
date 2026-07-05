@@ -1,0 +1,75 @@
+{
+  "slug": "peppery-gooey-mexican-ground-cinnamon-stir-fry",
+  "title": "Cinnamon Mexican Breakfast Burritos",
+  "description": "A delicious and spicy breakfast burrito filled with ground beef, wrapped in a warm tortilla.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "peppery stir fry mix",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "tortillas",
+      "amount": "4-6"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mexican seasoning",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fry oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Brown the ground beef in a large skillet over medium-high heat.",
+    "Add the peppery stir fry mix, cinnamon, and mexican seasoning to the skillet and stir until the mixture is fragrant.",
+    "Cook the tortillas in a separate skillet over medium heat until they are warm and pliable.",
+    "Spoon the beef mixture onto the center of a tortilla and top with shredded cheese.",
+    "Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll the burrito up.",
+    "Cook the burritos in a large skillet over medium-high heat for 2-3 minutes on each side, until the tortillas are crispy and the cheese is melted.",
+    "Serve the burritos hot with sour cream and your favorite toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "mexican",
+    "beef",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-gooey-mexican-ground-cinnamon-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T17:38:26.313Z"
+}
