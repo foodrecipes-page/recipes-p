@@ -5737,17 +5737,15 @@
   },
   {
     "slug": "pillowy-american-cream-fritter",
-    "title": "Pillowy American Cream Fritter",
+    "title": "American Cream Fritter Pancakes",
     "tags": [
-      "american",
-      "dessert",
-      "fried",
-      "one-pan",
-      "sweet",
-      "weeknight"
+      "breakfast",
+      "pancakes",
+      "fritters",
+      "american"
     ],
     "cuisine": "American",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
