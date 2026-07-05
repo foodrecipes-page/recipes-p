@@ -1,0 +1,87 @@
+{
+  "slug": "panang-curry-brise-ferment",
+  "title": "Thai Panang Curry with Beef",
+  "description": "A rich and creamy Thai curry made with beef, coconut milk, and the warm flavors of panang curry paste. Serve over steamed rice for a satisfying meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (1 pound)",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "panang curry paste",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large pan over medium-high heat.",
+    "2. Add the beef and cook until browned, about 3-4 minutes.",
+    "3. Remove the beef from the pan and set aside.",
+    "4. Add more oil to the pan if necessary, then add the panang curry paste and cook, stirring constantly, for 1-2 minutes.",
+    "5. Add the coconut milk, fish sauce (if using), and sugar to the pan, and bring to a simmer.",
+    "6. Return the beef to the pan and cook until heated through.",
+    "7. Stir in the peanuts and cilantro.",
+    "8. Season with salt to taste.",
+    "9. Serve over steamed rice.",
+    "10. Garnish with additional cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaicurry",
+    "beef",
+    "coconutmilk",
+    "panangcurry",
+    "peanuts"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/panang-curry-brise-ferment",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:41:19.188Z"
+}
