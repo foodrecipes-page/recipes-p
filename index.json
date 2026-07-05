@@ -1047,17 +1047,16 @@
   },
   {
     "slug": "panang-curry-brise-ferment",
-    "title": "Panang Curry Brise Ferment",
+    "title": "Thai Panang Curry with Beef",
     "tags": [
-      "panang curry",
-      "ferment",
-      "whole30",
-      "egyptian",
-      "light",
-      "romantic"
+      "thaicurry",
+      "beef",
+      "coconutmilk",
+      "panangcurry",
+      "peanuts"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "cuisine": "Thai",
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
@@ -3440,17 +3439,15 @@
   },
   {
     "slug": "peppery-gooey-thai-skirt-steak-skillet",
-    "title": "Peppery Gooey Thai Skirt Steak Skillet",
+    "title": "Pan-Seared Skirt Steak with Thai Peppercorn Sauce",
     "tags": [
-      "thai",
-      "skillet",
-      "brunch",
-      "halal-friendly",
-      "peppery",
-      "gourmet"
+      "skirt steak",
+      "thai cuisine",
+      "steak recipe",
+      "easy dinner"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 25,
+    "cuisine": "Asian",
+    "totalTimeMin": 22,
     "shard": "p"
   },
   {
