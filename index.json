@@ -1100,16 +1100,14 @@
   },
   {
     "slug": "pangy-tangy-kombu-stir-fry",
-    "title": "Pangy Tangy Kombu Stir-fry",
+    "title": "Miso Kombu Soup",
     "tags": [
-      "gluten-free",
-      "keto-appropriate",
-      "quick-dinner",
-      "sustainable-ingredients",
-      "vegan-friendly"
+      "soup",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 19,
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
