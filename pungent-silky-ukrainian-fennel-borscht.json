@@ -1,0 +1,73 @@
+{
+  "slug": "pungent-silky-ukrainian-fennel-borscht",
+  "title": "Ukrainian Borscht Soup",
+  "description": "A traditional Ukrainian beet-based soup with a blend of vegetables and a hint of fennel. This hearty soup is perfect for a cold winter evening.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 cups, peeled and diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup, peeled and grated"
+    },
+    {
+      "name": "fennel",
+      "amount": "1 bulb, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "pungent garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "ukrainian borscht",
+      "amount": "1 cup, canned or homemade"
+    },
+    {
+      "name": "silky sour cream",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced carrots and cook for 5 minutes.",
+    "Add the diced beets and cook for 10 minutes.",
+    "Add the diced fennel and cook for 5 minutes.",
+    "Add the canned or homemade borscht and stir to combine.",
+    "Bring the soup to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the sour cream and serve hot.",
+    "Garnish with chopped fresh dill or chives, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "ukrainian",
+    "beets",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-silky-ukrainian-fennel-borscht",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T04:42:03.992Z"
+}
