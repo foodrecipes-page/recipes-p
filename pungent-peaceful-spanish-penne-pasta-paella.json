@@ -1,0 +1,75 @@
+{
+  "slug": "pungent-peaceful-spanish-penne-pasta-paella",
+  "title": "Spanish Paella Pasta Bake",
+  "description": "A twist on the classic Spanish dish, combining the flavors of paella with the comfort of a pasta bake. Perfect for a cozy night in.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz penne pasta",
+      "notes": ""
+    },
+    {
+      "name": "spanish",
+      "amount": "1 cup uncooked Spanish rice",
+      "notes": ""
+    },
+    {
+      "name": "peaceful",
+      "amount": "1 can (14.5 oz) diced tomatoes",
+      "notes": ""
+    },
+    {
+      "name": "paella",
+      "amount": "1 cup store-bought or homemade paella seasoning",
+      "notes": ""
+    },
+    {
+      "name": "pungent",
+      "amount": "1 small onion, diced",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook the penne pasta according to package instructions until al dente.",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the diced tomatoes, paella seasoning, and cooked Spanish rice to the skillet.",
+    "Stir to combine and cook for an additional 2-3 minutes.",
+    "In a large baking dish, combine the cooked pasta, tomato and rice mixture.",
+    "Stir to combine and top with the remaining 1 tablespoon of olive oil.",
+    "Bake in the preheated oven for 15-20 minutes, or until the top is golden brown and the casserole is hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "pasta",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-peaceful-spanish-penne-pasta-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T16:46:29.317Z"
+}
