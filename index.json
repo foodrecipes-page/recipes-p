@@ -6374,17 +6374,14 @@
   },
   {
     "slug": "pilow-filipino-fromage-blanc-fried-rice",
-    "title": "Pillow Filipino Fromage-Blanc Fried Rice",
+    "title": "Filipino Fried Rice with Cheese",
     "tags": [
       "filipino",
-      "fromage-blanc",
-      "indulgent",
-      "one-pan",
-      "pillowy",
-      "weeknight"
+      "fried-rice",
+      "cheese"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "p"
   },
   {
