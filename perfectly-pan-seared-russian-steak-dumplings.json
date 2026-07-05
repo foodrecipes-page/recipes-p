@@ -1,0 +1,88 @@
+{
+  "slug": "perfectly-pan-seared-russian-steak-dumplings",
+  "title": "Russian Pan-Seared Steak with Dumplings",
+  "description": "A hearty and flavorful dish featuring a perfectly pan-seared Russian-style steak served with homemade dumplings.",
+  "cuisine": "Russian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russian Steak",
+      "amount": "1.5 pounds",
+      "notes": "preferably ribeye or strip loin"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup",
+      "notes": "used for dumpling coating"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "used as dumpling binder"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "used in dumpling dough"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "seasoning for steak"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "seasoning for steak"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "used for pan-searing steak"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": "used for thickening gravy"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "1 cup",
+      "notes": "used for dumpling cooking liquid"
+    }
+  ],
+  "instructions": [
+    "Season the steak with salt and black pepper.",
+    "Heat a skillet over medium-high heat. Add butter and sear the steak for 2-3 minutes per side.",
+    "Remove the steak from the skillet and set aside to rest.",
+    "In a separate bowl, mix together flour, egg, and milk to form a dough.",
+    "Divide the dough into 8-10 equal pieces. Roll each piece into a ball and flatten slightly into a disk.",
+    "Dust the dumplings with flour and add to the skillet used for the steak.",
+    "Pour beef broth into the skillet and bring to a boil. Reduce heat to low and simmer for 10-12 minutes, or until dumplings are cooked through.",
+    "Slice the rested steak against the grain. Serve with dumplings and pan juices."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "pan-seared",
+    "steak",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 53,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/perfectly-pan-seared-russian-steak-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:34:26.287Z"
+}
