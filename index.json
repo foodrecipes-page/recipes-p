@@ -9375,16 +9375,14 @@
   },
   {
     "slug": "potent-umami-russian-beef-stew",
-    "title": "Potent Umami Russian Beef Stew",
+    "title": "Russian Beef Stew",
     "tags": [
-      "high-protein",
-      "one-pot",
+      "beef-stew",
       "russian-cuisine",
-      "sous-vide",
-      "umami-rich"
+      "heart-healthy"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 150,
     "shard": "p"
   },
   {
