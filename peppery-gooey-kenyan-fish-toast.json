@@ -1,0 +1,62 @@
+{
+  "slug": "peppery-gooey-kenyan-fish-toast",
+  "title": "Kenyan Fish Sandwich",
+  "description": "A delicious and easy-to-make sandwich inspired by Kenyan cuisine, featuring pan-seared fish and served on toasted bread.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fish",
+      "amount": "4 fillets (6 oz each)",
+      "notes": ""
+    },
+    {
+      "name": "peppery",
+      "amount": "1 tsp black pepper",
+      "notes": ""
+    },
+    {
+      "name": "goey",
+      "amount": "2 tbsp butter",
+      "notes": ""
+    },
+    {
+      "name": "toast",
+      "amount": "4 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet over medium heat.",
+    "2. Season the fish with black pepper.",
+    "3. Add butter to the skillet and let it melt.",
+    "4. Add the fish to the skillet and cook for 3-4 minutes per side.",
+    "5. Meanwhile, toast the bread slices.",
+    "6. Assemble the sandwich by placing the cooked fish on the toast.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "fish",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-gooey-kenyan-fish-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T16:51:16.394Z"
+}
