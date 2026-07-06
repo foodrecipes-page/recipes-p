@@ -1,0 +1,77 @@
+{
+  "slug": "piquant-springy-british-northern-irish-basil-salad",
+  "title": "Herb-Crusted Northern Delight",
+  "description": "A flavorful dish featuring the unique taste of northern ingredients, topped with fresh basil and a side of piquant salad.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "northern",
+      "amount": "1 pound",
+      "notes": "chopped"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "piquant",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "springy",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "british",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "salad",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mix together northern, basil, piquant, springy, and british.",
+    "Brush olive oil on both sides of the northern mixture.",
+    "Place the northern mixture on a baking sheet and bake for 20 minutes.",
+    "Meanwhile, prepare the salad by mixing together salad and piquant.",
+    "Once the northern mixture is done, let it cool for a few minutes.",
+    "Serve with the salad on the side and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbs",
+    "northern-recipe",
+    "irish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-springy-british-northern-irish-basil-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:50:59.623Z"
+}
