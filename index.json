@@ -3138,18 +3138,15 @@
   },
   {
     "slug": "peppery-fluffy-spanish-chickpea-polish-dish",
-    "title": "Peppery Fluffy Spanish Chickpea Polish Dish",
+    "title": "Polish Chickpea Fritters",
     "tags": [
-      "peppery",
-      "fluffy",
-      "spanish",
-      "date-night",
-      "paprika",
-      "smoked",
-      "kosher"
+      "chickpea",
+      "fritters",
+      "polish",
+      "snack"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 40,
+    "cuisine": "Polish",
+    "totalTimeMin": 18,
     "shard": "p"
   },
   {
@@ -3194,15 +3191,15 @@
   },
   {
     "slug": "peppery-gooey-dutch-chickpeas-stir-fry",
-    "title": "Peppery Gooey Dutch Chickpeas Stir-fry",
+    "title": "Spicy Chickpea Stir Fry",
     "tags": [
-      "peppery",
-      "gooey",
-      "dutch",
-      "spicy"
+      "spicy",
+      "chickpeas",
+      "stir-fry",
+      "quick-dinner"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "cuisine": "asian",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -6578,17 +6575,15 @@
   },
   {
     "slug": "piquant-briny-italian-feta-cheese-carbonara",
-    "title": "Piquant Briny Italian Feta Cheese Carbonara",
+    "title": "Feta and Italian Carbonara Pasta",
     "tags": [
-      "high-protein",
-      "italian-cuisine",
-      "one-pan",
-      "quick-fix",
-      "vegetarian",
-      "weeknight"
+      "italian",
+      "pasta",
+      "cheese",
+      "easy"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 20,
     "shard": "p"
   },
   {
@@ -12087,17 +12082,15 @@
   },
   {
     "slug": "purely-malty-tunisian-lamb-tagine",
-    "title": "Purely Malty Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "fruity",
-      "hearty",
-      "lamb-based",
+      "lamb",
+      "tagine",
       "north-african",
-      "one-pot"
+      "stew"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 170,
+    "cuisine": "North African",
+    "totalTimeMin": 205,
     "shard": "p"
   },
   {
