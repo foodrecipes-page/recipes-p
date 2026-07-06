@@ -2052,10 +2052,15 @@
   },
   {
     "slug": "peppery-crispy-algerian-fish-tagine",
-    "title": "Peppery Crispy Algerian Fish Tagine",
-    "tags": [],
+    "title": "Delicious Algerian Fish Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "fish-recipes",
+      "easy-dinner-ideas",
+      "moroccan-spices"
+    ],
     "cuisine": "Algerian",
-    "totalTimeMin": null,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -7908,18 +7913,14 @@
   },
   {
     "slug": "piquant-springy-british-northern-irish-basil-salad",
-    "title": "Piquant Springy British (Northern-Irish) Basil Salad",
+    "title": "Herb-Crusted Northern Delight",
     "tags": [
-      "british",
-      "herbal",
-      "low-glycemic",
-      "northern-irish",
-      "salad",
-      "spring",
-      "vegetarian"
+      "herbs",
+      "northern-recipe",
+      "irish-cuisine"
     ],
-    "cuisine": "British-Northern Irish",
-    "totalTimeMin": 45,
+    "cuisine": "Irish",
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -11271,18 +11272,14 @@
   },
   {
     "slug": "pungent-sour-indian-korean-pear-curry",
-    "title": "Pungent Sour Indian Korean Pear Curry",
+    "title": "Indian-Style Pear Curry",
     "tags": [
-      "dairy-free",
-      "fluffy",
-      "indian-korean",
-      "one-pot",
-      "sour",
-      "vegetarian",
-      "weeknight"
+      "indian",
+      "curry",
+      "dessert"
     ],
-    "cuisine": "Indian Korean",
-    "totalTimeMin": 35,
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
