@@ -1490,17 +1490,14 @@
   },
   {
     "slug": "peppery-american-cocoa-beverage",
-    "title": "Peppery American Cocoa Beverage",
+    "title": "Peppery American Mocha",
     "tags": [
-      "breakfast",
-      "hot-chocolate",
-      "low-fat",
-      "one-pan",
-      "peppery",
-      "weeknight"
+      "coffee",
+      "chocolate",
+      "mocha"
     ],
     "cuisine": "American",
-    "totalTimeMin": 20,
+    "totalTimeMin": 10,
     "shard": "p"
   },
   {
@@ -4440,17 +4437,14 @@
   },
   {
     "slug": "peppery-rye-salt-dutch-cheese-supper",
-    "title": "Peppery Rye-Salt Dutch Cheese Supper",
+    "title": "Cheesy Rye Supper",
     "tags": [
-      "ayurvedic",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "slow-cooker",
-      "weeknight"
+      "cheesy",
+      "comfort-food",
+      "rye-bread"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 45,
+    "cuisine": "american",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -9008,14 +9002,14 @@
   },
   {
     "slug": "poached-pecan-italian-stir-fry",
-    "title": "Poached Pecan Italian Stir-fry",
+    "title": "Pecan Crusted Italian Fish",
     "tags": [
       "italian",
-      "stir-fry",
-      "sweetened-condensed-milk"
+      "fish",
+      "pecan-crusted"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 27,
     "shard": "p"
   },
   {
@@ -11060,16 +11054,15 @@
   },
   {
     "slug": "pungent-polish-fish-stew",
-    "title": "pungent polish fish stew",
+    "title": "Polish Fish Stew",
     "tags": [
-      "easy-to-make",
-      "high-protein",
-      "one-pan",
-      "pescatarian-friendly",
-      "weeknight"
+      "polish",
+      "fish",
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "polish",
-    "totalTimeMin": 45,
+    "cuisine": "Polish",
+    "totalTimeMin": 33,
     "shard": "p"
   },
   {
@@ -11445,16 +11438,16 @@
   },
   {
     "slug": "pungent-turkish-beef-pita-based-dishes",
-    "title": "Pungent Turkish Beef Pita-Based Dishes (Iskender Form)",
+    "title": "Turkish Beef Pita Dishes",
     "tags": [
-      "beef",
-      "low-sodium",
-      "one-pan",
       "turkish",
-      "weeknight"
+      "beef",
+      "pita",
+      "lunch",
+      "dinner"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 27,
     "shard": "p"
   },
   {
