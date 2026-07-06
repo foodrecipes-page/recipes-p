@@ -3340,17 +3340,14 @@
   },
   {
     "slug": "peppery-gooey-kenyan-fish-toast",
-    "title": "Peppery Gooey Kenyan Fish Toast",
+    "title": "Kenyan Fish Sandwich",
     "tags": [
-      "peppery",
-      "gooey",
-      "kid-friendly",
-      "fish-toasted",
       "kenyan",
-      "low-sugar"
+      "fish",
+      "sandwich"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 20,
+    "cuisine": "kenyan",
+    "totalTimeMin": 18,
     "shard": "p"
   },
   {
