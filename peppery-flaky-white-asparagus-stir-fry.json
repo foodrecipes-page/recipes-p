@@ -1,0 +1,68 @@
+{
+  "slug": "peppery-flaky-white-asparagus-stir-fry",
+  "title": "Pan-Seared Asparagus with White Fish",
+  "description": "A simple and flavorful dish featuring pan-seared white fish and asparagus, perfect for a quick dinner.",
+  "cuisine": "seafood",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillet",
+      "amount": "2",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "fresh asparagus spears",
+      "amount": "12",
+      "notes": "Trimmed"
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "peppery black pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For pan-frying"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the asparagus spears and pat dry with paper towels.",
+    "2. Season the fish fillet with salt and pepper on both sides.",
+    "3. Heat the olive oil in a large skillet over medium-high heat.",
+    "4. Add the fish fillet to the skillet and cook for 3-4 minutes on the first side, or until golden brown.",
+    "5. Flip the fish and cook for an additional 3-4 minutes, or until cooked through.",
+    "6. Meanwhile, add the asparagus spears to the skillet and cook for 3-5 minutes, or until tender.",
+    "7. Serve the fish and asparagus hot, garnished with additional salt and pepper if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "seafood",
+    "asparagus",
+    "white fish",
+    "quick dinner"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 4,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-flaky-white-asparagus-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:08:53.041Z"
+}
