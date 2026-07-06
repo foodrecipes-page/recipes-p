@@ -1,0 +1,67 @@
+{
+  "slug": "peppery-fluffy-spanish-chickpea-polish-dish",
+  "title": "Polish Chickpea Fritters",
+  "description": "Crispy and flavorful fritters made with chickpeas, perfect as a snack or light meal. Serve with a side of tangy polish sauce.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpea",
+      "amount": "1 can (14.5 oz), drained and rinsed"
+    },
+    {
+      "name": "polish",
+      "amount": "1 tablespoon, chopped fresh parsley"
+    },
+    {
+      "name": "peppery",
+      "amount": "1/2 teaspoon, ground black pepper"
+    },
+    {
+      "name": "fluffy",
+      "amount": "2 cups, all-purpose flour"
+    },
+    {
+      "name": "spanish",
+      "amount": "1/4 cup, olive oil"
+    },
+    {
+      "name": "dish",
+      "amount": "salt, to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (180°C).",
+    "In a large bowl, mash chickpeas using a fork or a potato masher.",
+    "Add flour, parsley, black pepper, and salt to the bowl. Mix well.",
+    "Using your hands, shape the mixture into small patties.",
+    "Carefully place the patties into the hot oil and fry for 2-3 minutes on each side.",
+    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters hot with a side of polish sauce, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chickpea",
+    "fritters",
+    "polish",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-fluffy-spanish-chickpea-polish-dish",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T20:32:39.397Z"
+}
