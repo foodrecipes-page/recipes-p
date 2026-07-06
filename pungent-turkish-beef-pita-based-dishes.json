@@ -1,0 +1,68 @@
+{
+  "slug": "pungent-turkish-beef-pita-based-dishes",
+  "title": "Turkish Beef Pita Dishes",
+  "description": "A flavorful and satisfying Turkish-inspired dish featuring tender beef, crispy pita, and a pungent sauce. Perfect for a hearty lunch or dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Pita",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Based",
+      "amount": "1 cup",
+      "notes": "Diced onions, garlic, and parsley"
+    },
+    {
+      "name": "Turkish",
+      "amount": "2 tablespoons",
+      "notes": "Ground cumin, paprika, and coriander"
+    },
+    {
+      "name": "Pungent",
+      "amount": "1 tablespoon",
+      "notes": "Red pepper flakes"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F.",
+    "2. Slice the beef into thin strips and season with salt, pepper, and Turkish spices.",
+    "3. Heat a large skillet over medium-high heat and cook the beef for 3-4 minutes per side, or until browned and cooked through.",
+    "4. Meanwhile, toast the pita in the oven for 2-3 minutes, or until crispy.",
+    "5. In a small bowl, mix together the based ingredients and pungent spices.",
+    "6. To assemble the dishes, place a piece of toasted pita on each plate, then top with a few slices of cooked beef and spoon some of the based sauce over the top.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "beef",
+    "pita",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-turkish-beef-pita-based-dishes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T09:24:55.510Z"
+}
