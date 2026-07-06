@@ -1,0 +1,83 @@
+{
+  "slug": "peppery-crispy-algerian-fish-tagine",
+  "title": "Delicious Algerian Fish Tagine",
+  "description": "A flavorful fish dish from Algeria, made with a rich and spicy tagine sauce. This dish is perfect for a weeknight dinner.",
+  "cuisine": "Algerian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillets",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Algerian Tagine Spice Blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Peppercorns",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the garlic and ginger and cook for another minute.",
+    "Add the fish fillets and cook until browned on both sides, about 3-4 minutes.",
+    "Add the Algerian tagine spice blend, crispy peppercorns, and salt. Stir to combine.",
+    "Add enough water to the saucepan to cover the fish. Bring to a simmer.",
+    "Reduce the heat to low and let cook, covered, for 8-10 minutes, or until the fish is cooked through.",
+    "Serve hot, garnished with crispy peppercorns and a side of couscous or rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "fish-recipes",
+    "easy-dinner-ideas",
+    "moroccan-spices"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crispy-algerian-fish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T05:38:24.326Z"
+}
