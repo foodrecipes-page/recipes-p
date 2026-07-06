@@ -1,0 +1,83 @@
+{
+  "slug": "pungent-polish-fish-stew",
+  "title": "Polish Fish Stew",
+  "description": "A hearty and flavorful stew originating from Poland, featuring fish as the main protein. This dish is perfect for a cold winter evening.",
+  "cuisine": "Polish",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (cod or tilapia)",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Pungent Onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Polish Rye Bread",
+      "amount": "2 cups",
+      "notes": "cubed"
+    },
+    {
+      "name": "Stew Vegetable Mix",
+      "amount": "1 cup",
+      "notes": "frozen, thawed"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large pot over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add cubed rye bread and cook for an additional 2 minutes.",
+    "Add thawed stew vegetable mix, beef broth, salt, and black pepper.",
+    "Bring mixture to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "Add fish to the pot and cook until cooked through, about 8-10 minutes.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "fish",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-polish-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T08:51:20.019Z"
+}
