@@ -1,0 +1,83 @@
+{
+  "slug": "piquant-briny-italian-feta-cheese-carbonara",
+  "title": "Feta and Italian Carbonara Pasta",
+  "description": "A classic Italian pasta dish with a twist, adding feta cheese for a tangy flavor.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta (italian spaghetti)",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup crumbled",
+      "notes": ""
+    },
+    {
+      "name": "italian cheese (parmesan)",
+      "amount": "1/2 cup grated",
+      "notes": ""
+    },
+    {
+      "name": "carbonara cheese sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "briny olives",
+      "amount": "10 pitted",
+      "notes": ""
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook spaghetti according to package instructions.",
+    "In a large skillet, heat 1 tbsp of oil over medium heat. Add garlic and cook for 1 minute.",
+    "Add the carbonara cheese sauce to the skillet and stir until melted.",
+    "Add the crumbled feta cheese to the skillet and stir until combined.",
+    "Add the cooked spaghetti to the skillet and toss with the cheese sauce until well coated.",
+    "Add the briny olives and italian seasoning to the skillet and toss to combine.",
+    "Season with black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "cheese",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 30,
+    "carbs": 80,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-briny-italian-feta-cheese-carbonara",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T20:30:31.271Z"
+}
