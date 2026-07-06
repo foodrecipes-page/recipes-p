@@ -1,0 +1,73 @@
+{
+  "slug": "pungent-sour-indian-korean-pear-curry",
+  "title": "Indian-Style Pear Curry",
+  "description": "A sweet and tangy curry made with pears and a blend of Indian spices. This dish is perfect for a chilly evening.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pear",
+      "amount": "2"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and sauté until softened.",
+    "Add curry powder, garam masala, and cinnamon. Cook for 1 minute.",
+    "Add pears and cook for 5 minutes.",
+    "Stir in greek yogurt and cook for another minute.",
+    "Season with salt to taste.",
+    "Serve hot with rice or naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-sour-indian-korean-pear-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:51:24.101Z"
+}
