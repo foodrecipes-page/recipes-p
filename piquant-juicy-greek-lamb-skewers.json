@@ -1,0 +1,74 @@
+{
+  "slug": "piquant-juicy-greek-lamb-skewers",
+  "title": "Greek Lamb Skewers",
+  "description": "A flavorful and refreshing dish that combines the rich taste of lamb with the brightness of a Greek-inspired marinade.",
+  "cuisine": "Greek",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb (leg or shoulder), cut into 1-inch cubes",
+      "amount": "1 1/2 pounds",
+      "notes": "Make sure to trim any excess fat"
+    },
+    {
+      "name": "Piquant (such as oregano, thyme, and rosemary) olive oil",
+      "amount": "1/4 cup",
+      "notes": "Combine oregano, thyme, and rosemary in a bowl"
+    },
+    {
+      "name": "Juicy (such as lemon juice) and Greek yogurt",
+      "amount": "2 tablespoons and 2 tablespoons",
+      "notes": "Use a 2:1 ratio of lemon juice to yogurt"
+    },
+    {
+      "name": "Skewers",
+      "amount": "12-15 wooden skewers",
+      "notes": "Soak skewers in water for at least 30 minutes"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Adjust seasoning to taste"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Mince garlic just before using"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine lamb cubes, piquant olive oil, juicy and Greek yogurt mixture, salt, pepper, and garlic.",
+    "Mix well to coat lamb evenly.",
+    "Thread lamb cubes, cherry tomatoes, and onions onto skewers.",
+    "Brush skewers with a little more piquant olive oil.",
+    "Grill skewers for 8-10 minutes per side, or until lamb reaches an internal temperature of 145°F for medium-rare.",
+    "Let skewers rest for 5 minutes before serving.",
+    "Serve with a side of Greek salad or roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "43g",
+    "carbs": "10g",
+    "fat": "22g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-juicy-greek-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T21:34:43.726Z"
+}
