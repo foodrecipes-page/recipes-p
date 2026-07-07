@@ -1,0 +1,79 @@
+{
+  "slug": "purely-grilled-croatian-monkfish-skewers",
+  "title": "Grilled Monkfish Skewers with Croatian Salsa",
+  "description": "A flavorful and light seafood dish featuring grilled monkfish skewers served with a fresh and tangy Croatian-inspired salsa.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Monkfish",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Purely Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Leeks",
+      "amount": "2",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Croatian Salsa (see below)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread monkfish, leeks, red bell pepper, and red onion onto skewers.",
+    "3. Brush skewers with olive oil and season with salt and pepper.",
+    "4. Grill skewers for 8-10 minutes per side, or until monkfish is cooked through.",
+    "5. Meanwhile, prepare Croatian salsa by combining chopped red onion, parsley, dill, garlic, and lemon juice in a bowl.",
+    "6. Serve grilled skewers with Croatian salsa on the side.",
+    "7. Garnish with additional parsley and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "grilled",
+    "skewers",
+    "salsa",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-grilled-croatian-monkfish-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T02:11:39.177Z"
+}
