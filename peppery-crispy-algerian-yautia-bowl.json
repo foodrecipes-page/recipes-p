@@ -1,0 +1,79 @@
+{
+  "slug": "peppery-crispy-algerian-yautia-bowl",
+  "title": "Roasted Yautia Bowl",
+  "description": "A flavorful and nutritious bowl dish featuring roasted yautia, crispy spices, and a hint of peppery flavor.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yautia",
+      "amount": "2 large tubers",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "crispy spices",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "algerian seasoning",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss the chopped yautia with olive oil, crispy spices, peppercorns, Algerian seasoning, and salt in a bowl until well coated.",
+    "Spread the yautia mixture on a baking sheet in a single layer.",
+    "Roast in the preheated oven for 20-25 minutes, or until tender and lightly browned.",
+    "Remove from the oven and let cool slightly.",
+    "Transfer the roasted yautia to a bowl and drizzle with lemon juice.",
+    "Serve hot, garnished with additional crispy spices if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "roasted",
+    "yautia",
+    "latin-american",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crispy-algerian-yautia-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T01:38:50.034Z"
+}
