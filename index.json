@@ -7180,17 +7180,15 @@
   },
   {
     "slug": "piquant-juicy-greek-lamb-skewers",
-    "title": "Piquant Juicy Greek Lamb Skewers",
+    "title": "Greek Lamb Skewers",
     "tags": [
-      "fermented-food",
-      "greek-food",
-      "grilled-meats",
-      "lamb-recipes",
-      "satvik-friendly",
-      "weeknight"
+      "greek",
+      "lamb",
+      "skewers",
+      "grilled"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 32,
+    "totalTimeMin": 38,
     "shard": "p"
   },
   {
@@ -8681,17 +8679,15 @@
   },
   {
     "slug": "plush-korean-oreos-muchim",
-    "title": "Plush Korean Oreos Muchim",
+    "title": "Korean-Style Muchim-Plush Bites",
     "tags": [
-      "easy",
-      "korean-dessert",
-      "nostalgic",
-      "one-pan",
-      "shaggy",
-      "sweet"
+      "snack",
+      "dessert",
+      "korean",
+      "easy-to-make"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
