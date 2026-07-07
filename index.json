@@ -5786,17 +5786,15 @@
   },
   {
     "slug": "pillowy-argentinian-bread-empanadas",
-    "title": "Pillowy Argentinian Bread Empanadas",
+    "title": "Argentinian Empanadas",
     "tags": [
-      "argentinian-cuisine",
-      "bread-based",
-      "diabetic-friendly",
+      "argentinian",
+      "beef",
       "empanadas",
-      "homemade",
-      "snack-food"
+      "snack"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
@@ -8397,17 +8395,15 @@
   },
   {
     "slug": "pleasingly-buttery-portuguese-pumpkin-stew",
-    "title": "Pleasingly Buttery Portuguese Pumpkin Stew",
+    "title": "Pumpkin Stew",
     "tags": [
-      "comfort-food",
-      "one-pot",
-      "portuguese-cuisine",
-      "pumpkin-recipe",
+      "pumpkin",
       "stew",
-      "vegetarian"
+      "portuguese",
+      "comfort-food"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
