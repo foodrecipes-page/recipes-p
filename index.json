@@ -5005,15 +5005,14 @@
   },
   {
     "slug": "peppery-velvety-tempeh-midnight-craving-pasta",
-    "title": "Peppery Velvety Tempeh Midnight-Craving Pasta",
+    "title": "Velvety Tempeh Pasta",
     "tags": [
-      "peppery",
-      "velvety",
-      "tempeh",
-      "vegetarian"
+      "pasta",
+      "vegetarian",
+      "comfort-food"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 50,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
