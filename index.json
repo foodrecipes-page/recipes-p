@@ -2077,16 +2077,16 @@
   },
   {
     "slug": "peppery-crispy-algerian-yautia-bowl",
-    "title": "Peppery Crispy Algerian Yautia Bowl",
+    "title": "Roasted Yautia Bowl",
     "tags": [
-      "algerian",
-      "crowd-pleaser",
-      "one-pan",
-      "spicy",
-      "vegan"
+      "roasted",
+      "yautia",
+      "latin-american",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 30,
+    "cuisine": "Latin American",
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -11990,16 +11990,16 @@
   },
   {
     "slug": "purely-grilled-croatian-monkfish-skewers",
-    "title": "Purely Grilled Croatian Monkfish Skewers",
+    "title": "Grilled Monkfish Skewers with Croatian Salsa",
     "tags": [
-      "binchotan-grill",
-      "croatian-cuisine",
-      "grilled-seafood",
-      "lacto-vegetarian",
-      "monsoon-dish"
+      "seafood",
+      "grilled",
+      "skewers",
+      "salsa",
+      "mediterranean"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 28,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 36,
     "shard": "p"
   },
   {
