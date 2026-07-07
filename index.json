@@ -10185,17 +10185,15 @@
   },
   {
     "slug": "pungent-crunchy-greek-beans-gigantes-plaki",
-    "title": "Pungent Crunchy Greek Beans Gigantes Plaki",
+    "title": "Gigantes Plaki",
     "tags": [
-      "ayurvedic-friendly",
-      "crunchy-top",
-      "greek-cuisine",
-      "one-pan",
+      "greek",
       "vegetarian",
-      "weeknight"
+      "bean-based",
+      "tomato-sauce"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -11132,16 +11130,15 @@
   },
   {
     "slug": "pungent-silky-british-chopped-tomatoes-dish",
-    "title": "Pungent Silky British Chopped Tomatoes Dish",
+    "title": "British Beef and Tomato Stew",
     "tags": [
-      "diabetic-friendly",
-      "high-fiber",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "beef",
+      "stew",
+      "british",
+      "comfort-food"
     ],
     "cuisine": "british",
-    "totalTimeMin": 40,
+    "totalTimeMin": 120,
     "shard": "p"
   },
   {
