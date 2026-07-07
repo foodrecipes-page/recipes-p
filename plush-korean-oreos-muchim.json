@@ -1,0 +1,62 @@
+{
+  "slug": "plush-korean-oreos-muchim",
+  "title": "Korean-Style Muchim-Plush Bites",
+  "description": "A unique fusion of Korean flavors with a crunchy, sweet twist. Perfect as a snack or dessert.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Plush",
+      "amount": "200g"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Muchim (Korean-style coleslaw)",
+      "amount": "100g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a bowl, mix together Plush, Korean chili flakes, and sesame oil.",
+    "Add granulated sugar and mix until well combined.",
+    "Scoop small balls of the mixture onto a baking sheet.",
+    "Bake for 15-20 minutes or until lightly golden.",
+    "Allow to cool before serving.",
+    "Serve with Muchim on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "snack",
+    "dessert",
+    "korean",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/plush-korean-oreos-muchim",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T21:47:21.772Z"
+}
