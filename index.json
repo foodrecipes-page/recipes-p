@@ -11821,18 +11821,15 @@
   },
   {
     "slug": "purely-comforting-irish-broad-beans-stew",
-    "title": "Purely Comforting Irish Broad Beans Stew",
+    "title": "Irish Bean Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "irish-cuisine",
-      "one-pot",
-      "raw-friendly",
-      "sous-vide",
-      "vegetarian-stew"
+      "comforting",
+      "irish",
+      "stew",
+      "lunch"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 150,
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
