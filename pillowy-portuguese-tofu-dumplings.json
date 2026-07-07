@@ -1,0 +1,75 @@
+{
+  "slug": "pillowy-portuguese-tofu-dumplings",
+  "title": "Portuguese-Style Dumpling Stew",
+  "description": "A hearty stew made with pillowy biscuits, portuguese sausage, and tender dumplings.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pillowy biscuits",
+      "amount": "1 package"
+    },
+    {
+      "name": "Portuguese sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "marinated in portuguese spices"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "1 package"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large Dutch oven, cook the sausage over medium heat until browned.",
+    "3. Add the onion and garlic to the pot and cook until softened.",
+    "4. Add the vegetable broth, tofu, and dumplings to the pot.",
+    "5. Bring the stew to a boil, then cover and transfer to the preheated oven.",
+    "6. Bake for 30 minutes, or until the biscuits are golden brown and the stew is hot and bubbly.",
+    "7. Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "stew",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-portuguese-tofu-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T08:12:34.502Z"
+}
