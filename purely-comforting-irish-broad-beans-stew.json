@@ -1,0 +1,77 @@
+{
+  "slug": "purely-comforting-irish-broad-beans-stew",
+  "title": "Irish Bean Stew",
+  "description": "A hearty and comforting Irish stew made with tender broad beans, smoked bacon, and a rich broth.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "broad beans",
+      "amount": "1 cup, fresh or 1 can, drained and rinsed"
+    },
+    {
+      "name": "smoked bacon",
+      "amount": "6 slices, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium, peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large, peeled and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the diced bacon and cook until browned, about 5 minutes.",
+    "Remove the cooked bacon and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped carrot and potato, cook for 5 minutes.",
+    "Add the broad beans, chicken broth, and browned bacon back into the pot.",
+    "Stir in the flour to thicken the stew.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "irish",
+    "stew",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-comforting-irish-broad-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T00:52:05.188Z"
+}
