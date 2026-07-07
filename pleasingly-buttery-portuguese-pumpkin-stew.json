@@ -1,0 +1,84 @@
+{
+  "slug": "pleasingly-buttery-portuguese-pumpkin-stew",
+  "title": "Pumpkin Stew",
+  "description": "A comforting, buttery pumpkin stew from Portugal, perfect for a chilly evening.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pumpkin",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, melt the butter over medium heat.",
+    "2. Add the onion and cook until softened, about 5 minutes.",
+    "3. Add the garlic and cook for 1 minute.",
+    "4. Add the carrot and celery and cook for 5 minutes.",
+    "5. Add the pumpkin and cook for 5 minutes.",
+    "6. Pour in the broth and bring to a boil.",
+    "7. Reduce heat to low, cover, and simmer for 20-25 minutes, or until the pumpkin is tender.",
+    "8. Season with salt and pepper to taste.",
+    "9. Serve hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pumpkin",
+    "stew",
+    "portuguese",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pleasingly-buttery-portuguese-pumpkin-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T12:20:47.625Z"
+}
