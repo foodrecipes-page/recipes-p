@@ -1,0 +1,64 @@
+{
+  "slug": "pungent-crunchy-greek-beans-gigantes-plaki",
+  "title": "Gigantes Plaki",
+  "description": "A classic Greek dish made with large lima beans in a rich tomato sauce, often served as a side or main course.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gigantes (large lima beans)",
+      "amount": "1 cup, drained and rinsed"
+    },
+    {
+      "name": "plaki tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pungent red onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "crunchy fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "greek extra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook, stirring occasionally, until softened and lightly browned, about 8 minutes.",
+    "Add the tomato sauce and stir to combine.",
+    "Add the gigantes, salt, and pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook, covered, until the beans are tender, about 20-25 minutes.",
+    "Stir in the chopped parsley.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "vegetarian",
+    "bean-based",
+    "tomato-sauce"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-crunchy-greek-beans-gigantes-plaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T09:52:03.333Z"
+}
