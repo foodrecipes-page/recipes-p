@@ -1,0 +1,88 @@
+{
+  "slug": "purely-citrusy-korean-vegetables-hwajeon",
+  "title": "Hwajeon with Citrus and Vegetables",
+  "description": "A traditional Korean hwajeon pancake infused with citrus flavors and topped with a variety of colorful vegetables.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Korean rice flour",
+      "amount": "2 cups",
+      "notes": "preferably pure rice flour"
+    },
+    {
+      "name": "Pure water",
+      "amount": "1 cup",
+      "notes": "approximately"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Zest of 1 orange",
+      "amount": "1 tablespoon",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Zest of 1 lemon",
+      "amount": "1 tablespoon",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Citrus syrup",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Shredded carrots",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Shredded zucchini",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the Korean rice flour and pure water until a smooth batter forms.",
+    "Add the chopped green onions, orange zest, lemon zest, and citrus syrup to the batter, and mix well.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Brush the pan with vegetable oil and pour in the batter.",
+    "Cook for 2-3 minutes or until the bottom is golden brown.",
+    "Flip the pancake and cook for an additional 1-2 minutes or until the other side is also golden brown.",
+    "Transfer the pancake to a plate and top with shredded carrots and zucchini if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hwajeon",
+    "korean-pancake",
+    "citrus",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-citrusy-korean-vegetables-hwajeon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T14:18:07.214Z"
+}
