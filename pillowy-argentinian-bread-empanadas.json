@@ -1,0 +1,65 @@
+{
+  "slug": "pillowy-argentinian-bread-empanadas",
+  "title": "Argentinian Empanadas",
+  "description": "Traditional Argentinian empanadas filled with beef and spices, perfect for a snack or light meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pillowy dough",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Argentinian seasoned beef",
+      "amount": "1 pound",
+      "notes": "Ground beef with paprika, garlic, and cumin"
+    },
+    {
+      "name": "Bread",
+      "amount": "2 slices",
+      "notes": "Used for breadcrumbs"
+    },
+    {
+      "name": "Empanada shells",
+      "amount": "1 package",
+      "notes": "Frozen or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pillowy dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the Argentinian seasoned beef in the center of each dough circle.",
+    "Top with a sprinkle of breadcrumbs.",
+    "Fold the dough in half and press the edges to seal.",
+    "Brush the tops with egg wash.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "empanadas",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-argentinian-bread-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T12:13:38.433Z"
+}
