@@ -1,0 +1,91 @@
+{
+  "slug": "peppery-croatian-pork-crustacean",
+  "title": "Pork and Croation Peppery Crab Cakes",
+  "description": "A delicious and spicy twist on traditional crab cakes, featuring pork and Croatian peppery flavors.",
+  "cuisine": "Croatian",
+  "diet": [
+    "seafood",
+    "pork"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Croatian peppercorns",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pork",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "crustacean",
+      "amount": "1 cup",
+      "notes": "jumbo lump crab meat"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a medium bowl, mix together breadcrumbs, onion, and garlic.",
+    "In a large bowl, gently combine pork, crustacean, egg, mayonnaise, salt, and black pepper.",
+    "Add the breadcrumb mixture to the pork mixture and stir until just combined.",
+    "Cover the mixture and refrigerate for 30 minutes.",
+    "Using your hands, shape the mixture into 6-8 patties.",
+    "Place the patties on a baking sheet lined with parchment paper.",
+    "Bake for 18-20 minutes or until cooked through.",
+    "Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "crab",
+    "pork",
+    "croatian",
+    "seafood",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-croatian-pork-crustacean",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T18:38:04.033Z"
+}
