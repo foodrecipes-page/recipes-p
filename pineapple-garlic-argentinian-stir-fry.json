@@ -1,0 +1,70 @@
+{
+  "slug": "pineapple-garlic-argentinian-stir-fry",
+  "title": "Argentinian Pineapple Stir Fry",
+  "description": "A sweet and savory stir fry dish blending the flavors of Argentina with the tropical taste of pineapple.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Argentinian chorizo (or substitute with beef strips)",
+      "amount": "1/2 pound",
+      "notes": "Cooked to an internal temperature of at least 160°F"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chorizo and cook until browned, about 3-4 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the pineapple and stir fry for 2-3 minutes.",
+    "Season with soy sauce, salt, and pepper to taste.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "pineapple",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pineapple-garlic-argentinian-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T08:41:32.789Z"
+}
