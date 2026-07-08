@@ -3303,20 +3303,15 @@
   },
   {
     "slug": "peppery-gooey-indian-baby-new-potatoes-curry",
-    "title": "Baby New Potato Curry with Garam Masala",
+    "title": "New Potato Curry",
     "tags": [
-      "indian-cuisine",
+      "indian",
       "curry",
-      "vegetarian-curry",
-      "vegan-curry",
-      "gluten-free-curry",
       "new-potatoes",
-      "baby-potatoes",
-      "comfort-food",
-      "homestyle-curry"
+      "easy-recipe"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 30,
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -10569,16 +10564,15 @@
   },
   {
     "slug": "pungent-italian-beans-risotto",
-    "title": "Pungent Italian Beans Risotto",
+    "title": "Italian White Bean Risotto",
     "tags": [
-      "high-fiber",
       "italian",
-      "lactose-free",
-      "low-calorie",
-      "one-pan",
-      "weeknight"
+      "risotto",
+      "beans",
+      "veggie",
+      "parmesan"
     ],
-    "cuisine": "italian",
+    "cuisine": "Italian",
     "totalTimeMin": 40,
     "shard": "p"
   },
