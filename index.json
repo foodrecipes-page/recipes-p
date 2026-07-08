@@ -4829,15 +4829,15 @@
   },
   {
     "slug": "peppery-ukrainian-paprika-crispy-stir-fry",
-    "title": "Peppery Ukrainian Paprika Crispy Stir-fry",
+    "title": "Crispy Ukrainian Peppery Stir Fry",
     "tags": [
+      "ukrainian",
+      "stir-fry",
       "peppery",
-      "crispy",
-      "indulgent",
-      "ukrainian"
+      "crispy"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 20,
     "shard": "p"
   },
   {
@@ -7380,18 +7380,16 @@
   },
   {
     "slug": "piquant-nutty-algerian-lamb-tagine",
-    "title": "Piquant Nutty Algerian Lamb Tagine",
+    "title": "Algerian Lamb Tagine",
     "tags": [
-      "algerian-cuisine",
-      "ayurvedic-friendly",
-      "cheese-pull",
-      "dinner-ideas",
-      "gluten-free",
-      "lamb-recipes",
-      "nutty-flavors"
+      "algerian",
+      "north-african",
+      "stew",
+      "meat",
+      "lamb"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 190,
+    "cuisine": "algerian",
+    "totalTimeMin": 180,
     "shard": "p"
   },
   {
