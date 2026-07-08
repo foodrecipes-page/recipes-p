@@ -1,0 +1,61 @@
+{
+  "slug": "peppery-ukrainian-red-curry-paste-flatbread",
+  "title": "Ukrainian Red Curry Flatbread",
+  "description": "A spicy and flavorful flatbread infused with the bold flavors of Ukrainian red curry.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ukrainian red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "flatbread",
+      "amount": "1 large piece"
+    },
+    {
+      "name": "peppery flatbread seasoning",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Slice the flatbread into 1-inch pieces.",
+    "3. In a small bowl, mix together the Ukrainian red curry paste, peppery flatbread seasoning, salt, and red pepper flakes.",
+    "4. Brush the mixture onto the flatbread pieces, making sure to get both sides.",
+    "5. Drizzle with water and toss to coat.",
+    "6. Bake for 10-12 minutes or until crispy and golden brown.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "curry",
+    "flatbread",
+    "snack",
+    "gluten-free"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-ukrainian-red-curry-paste-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:24:07.705Z"
+}
