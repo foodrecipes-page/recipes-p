@@ -1,0 +1,57 @@
+{
+  "slug": "paprika-pesto-pasta",
+  "title": "Pesto Pasta",
+  "description": "Quick and flavorful pasta dish with the classic Italian flavors of pesto.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "pesto",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 tsp",
+      "notes": "optional for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook pasta according to package instructions.",
+    "In a large skillet, heat the pesto over low heat.",
+    "Add cooked pasta to the skillet with pesto and toss to coat.",
+    "Season with salt and pepper to taste.",
+    "Garnish with paprika if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pesto",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/paprika-pesto-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T03:51:54.592Z"
+}
