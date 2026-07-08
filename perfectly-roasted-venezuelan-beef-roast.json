@@ -1,0 +1,91 @@
+{
+  "slug": "perfectly-roasted-venezuelan-beef-roast",
+  "title": "Venezuelan Roasted Beef",
+  "description": "A classic Venezuelan dish featuring a slow-roasted beef, served with a side of vegetables.",
+  "cuisine": "South American",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (2 pounds)",
+      "amount": "2 pounds",
+      "notes": "Chuck roast or round roast"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the beef with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef on all sides until browned, about 2-3 minutes per side.",
+    "Remove the beef from the pot and set it aside.",
+    "Reduce the heat to medium and add the minced garlic, chopped onion, and sliced red bell pepper.",
+    "Cook until the vegetables are tender, about 5 minutes.",
+    "Add the tomato paste and cook for an additional 1-2 minutes.",
+    "Return the beef to the pot and add the beef broth.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Roast the beef for 2-3 hours, or until it reaches an internal temperature of 160°F (71°C).",
+    "Let the beef rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    " venezuelan",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/perfectly-roasted-venezuelan-beef-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T01:44:23.558Z"
+}
