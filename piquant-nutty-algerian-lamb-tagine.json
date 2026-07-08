@@ -1,0 +1,83 @@
+{
+  "slug": "piquant-nutty-algerian-lamb-tagine",
+  "title": "Algerian Lamb Tagine",
+  "description": "A rich and flavorful North African stew made with tender lamb, aromatic spices, and a blend of sweet and tangy flavors.",
+  "cuisine": "algerian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, bone-in",
+      "amount": "1.5 kg",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Algerian spice blend",
+      "amount": "2 tbsp",
+      "notes": "Available at North African markets or online"
+    },
+    {
+      "name": "Piquant sauce",
+      "amount": "1 cup",
+      "notes": "A mixture of lemon juice, garlic, and spices"
+    },
+    {
+      "name": "Tagine broth",
+      "amount": "2 cups",
+      "notes": "Available at North African markets or online"
+    },
+    {
+      "name": "Lamb stock",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Crusty bread",
+      "amount": "1 loaf",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a large clay or ceramic tagine over medium heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 10 minutes.",
+    "Add the Algerian spice blend and cook for 1 minute, stirring constantly.",
+    "Add the piquant sauce, tagine broth, and lamb stock. Bring to a boil, then reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley and cilantro, and accompanied by crusty bread."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "north-african",
+    "stew",
+    "meat",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-nutty-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T17:32:21.053Z"
+}
