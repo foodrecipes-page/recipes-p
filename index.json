@@ -2145,17 +2145,16 @@
   },
   {
     "slug": "peppery-crispy-german-potato-stir-fry",
-    "title": "Peppery Crispy German Potato Stir-fry",
+    "title": "German Potato Stir Fry",
     "tags": [
-      "peppery",
-      "crispy",
       "german",
-      "brandy",
-      "ferment",
-      "low-carb"
+      "potato",
+      "stir-fry",
+      "lunch",
+      "vegetarian"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 55,
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
