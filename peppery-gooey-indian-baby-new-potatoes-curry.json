@@ -1,0 +1,71 @@
+{
+  "slug": "peppery-gooey-indian-baby-new-potatoes-curry",
+  "title": "New Potato Curry",
+  "description": "A flavorful and easy-to-make curry dish featuring tender new potatoes in a rich and slightly spicy sauce.",
+  "cuisine": "indian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "new potatoes",
+      "amount": "4-5 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "peppery curry powder",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "baby potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and halved"
+    },
+    {
+      "name": "gooey tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "curry",
+      "amount": "1/4 cup water"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add curry powder and cook for 1-2 minutes, until fragrant.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add cubed new potatoes, halved baby potatoes, and curry water.",
+    "Bring to a boil, then reduce heat and simmer for 15-20 minutes, or until potatoes are tender.",
+    "Stir in salt to taste.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "curry",
+    "new-potatoes",
+    "easy-recipe"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-gooey-indian-baby-new-potatoes-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T22:45:52.631Z"
+}
