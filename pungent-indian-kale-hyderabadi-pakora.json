@@ -1,0 +1,88 @@
+{
+  "slug": "pungent-indian-kale-hyderabadi-pakora",
+  "title": "Hyderabadi Kale Pakora",
+  "description": "Crispy fritters made with kale and a blend of Indian spices. A classic Hyderabadi street food.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "2 cups, chopped",
+      "notes": "curly or lacinato work well"
+    },
+    {
+      "name": "Indian Pungent Spice Blend",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Hyderabadi Spice Blend",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Gram Flour",
+      "amount": "1 cup",
+      "notes": "also known as chickpea flour"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup, finely chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1/4 cup, grated",
+      "notes": "optional"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "optional"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "Oil",
+      "amount": "1 cup, for frying"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine kale, Indian Pungent Spice Blend, Hyderabadi Spice Blend, and a pinch of salt. Mix well.",
+    "2. Add gram flour, onion, ginger, and garlic (if using) to the bowl. Mix until a thick batter forms.",
+    "3. Heat oil in a deep frying pan over medium-high heat.",
+    "4. Using a spoon, drop small portions of the kale mixture into the hot oil, flattening them slightly.",
+    "5. Fry until golden brown, about 3-4 minutes.",
+    "6. Drain on paper towels and serve hot with lemon juice.",
+    "7. Serve with a side of chutney or raita for added flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "kale",
+    "pakora",
+    "snack",
+    "hyderabadi"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 24,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-indian-kale-hyderabadi-pakora",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T18:18:40.284Z"
+}
