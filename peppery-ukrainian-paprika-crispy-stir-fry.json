@@ -1,0 +1,67 @@
+{
+  "slug": "peppery-ukrainian-paprika-crispy-stir-fry",
+  "title": "Crispy Ukrainian Peppery Stir Fry",
+  "description": "A simple and flavorful stir fry dish featuring crispy texture and peppery flavor from Ukrainian peppercorns.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ukrainian peppercorns",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Crispy fried shallots",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced onion and bell pepper and stir-fry until tender.",
+    "Add the Ukrainian peppercorns and stir-fry for 1 minute.",
+    "Add the crispy fried shallots and paprika, and stir-fry for another minute.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "stir-fry",
+    "peppery",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-ukrainian-paprika-crispy-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:34:35.848Z"
+}
