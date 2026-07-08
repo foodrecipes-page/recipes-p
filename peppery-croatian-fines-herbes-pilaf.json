@@ -1,0 +1,79 @@
+{
+  "slug": "peppery-croatian-fines-herbes-pilaf",
+  "title": "Croatian Peppery Pilaf",
+  "description": "A flavorful and aromatic pilaf from Croatia, infused with peppercorns and herbs.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian pilaf rice",
+      "amount": "1 cup",
+      "notes": "Choose a long-grain rice"
+    },
+    {
+      "name": "Peppercorns",
+      "amount": "2 tsp",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Herbes",
+      "amount": "2 tsp",
+      "notes": "Dried mixed herbs"
+    },
+    {
+      "name": "Fines herbes",
+      "amount": "1 tsp",
+      "notes": "Chopped fresh herbs"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "For cooking the pilaf"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a medium saucepan over medium heat.",
+    "Add the peppercorns and let them infuse for 1 minute.",
+    "Add the chopped herbes and cook for another minute.",
+    "Add the pilaf rice and stir to coat with the oil and mix with the herbs.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes or until the rice is cooked.",
+    "Fluff the pilaf with a fork and season with salt to taste.",
+    "Serve hot, garnished with additional herbes if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "pilaf",
+    "herbs",
+    "peppercorns"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-croatian-fines-herbes-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T06:08:44.268Z"
+}
