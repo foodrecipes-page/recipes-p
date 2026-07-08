@@ -1,0 +1,63 @@
+{
+  "slug": "peppery-mediterranean-eggwhite-stir-fry",
+  "title": "Peppery Mediterranean Omelette",
+  "description": "A fluffy omelette filled with the flavors of the Mediterranean, perfect for breakfast or brunch. This recipe is a great way to get a dose of protein and vegetables to start your day.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggwhite",
+      "amount": "2"
+    },
+    {
+      "name": "peppery",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Crack the eggwhite into a bowl and whisk it until it's frothy.",
+    "Heat a non-stick pan over medium heat and add the peppery and mediterranean.",
+    "Pour the eggwhite over the vegetables and cook until the edges start to set.",
+    "Use a spatula to gently lift and fold the edges of the omelette towards the center.",
+    "Continue cooking and folding until the omelette is almost set.",
+    "Use the spatula to carefully fold the omelette in half.",
+    "Cook for another minute and then slide the omelette out of the pan onto a plate.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "omelette",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 18,
+    "carbs": 2,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-mediterranean-eggwhite-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T08:11:49.294Z"
+}
