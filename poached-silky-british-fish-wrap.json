@@ -1,0 +1,81 @@
+{
+  "slug": "poached-silky-british-fish-wrap",
+  "title": "Poached Fish Wrap",
+  "description": "A light and refreshing British-inspired dish featuring poached fish in a silky wrap.",
+  "cuisine": "British",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "4",
+      "notes": "Any white fish works well, such as cod or haddock."
+    },
+    {
+      "name": "silky wrap",
+      "amount": "4",
+      "notes": "A gluten-free wrap or tortilla is best."
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "2",
+      "notes": "Optional, for serving."
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "To taste."
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": "To taste."
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing the fish."
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "Optional, for garnish."
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or sauté pan over medium heat.",
+    "Add the olive oil and gently place the fish fillets in the pan.",
+    "Poach the fish for 3-4 minutes on each side, or until cooked through.",
+    "Meanwhile, toast the wraps in a toaster or under the broiler.",
+    "Place a cooked fish fillet on each wrap, followed by a squeeze of lemon juice (if using).",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped parsley (if using).",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "gluten-free",
+    "lunch",
+    "british",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/poached-silky-british-fish-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T05:20:47.412Z"
+}
