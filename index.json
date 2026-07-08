@@ -1111,14 +1111,14 @@
   },
   {
     "slug": "paprika-pesto-pasta",
-    "title": "Paprika Pesto Pasta",
+    "title": "Pesto Pasta",
     "tags": [
-      "paprika pesto",
-      "italian pasta",
-      "slovakian cuisine"
+      "italian",
+      "pesto",
+      "pasta"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "cuisine": "Italian",
+    "totalTimeMin": 18,
     "shard": "p"
   },
   {
@@ -7554,18 +7554,15 @@
   },
   {
     "slug": "piquant-pungent-thai-brown-lentils-green-curry",
-    "title": "Piquant Pungent Thai Brown Lentils Green Curry",
+    "title": "Thai Green Curry with Brown Lentils",
     "tags": [
-      "curry",
-      "easydinner",
-      "glutenfree",
-      "lentils",
-      "onepan",
-      "thaifood",
-      "vegetarian"
+      "thai-curry",
+      "lentil-recipe",
+      "vegetarian",
+      "vegan"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
