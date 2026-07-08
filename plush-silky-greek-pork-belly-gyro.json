@@ -1,0 +1,93 @@
+{
+  "slug": "plush-silky-greek-pork-belly-gyro",
+  "title": "Classic Pork Gyro",
+  "description": "A traditional Greek-inspired dish featuring tender pork, crunchy veggies, and creamy tzatziki sauce. Enjoy as a satisfying dinner or lunch option.",
+  "cuisine": "Greek",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "500g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "silk",
+      "amount": "0",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "200g",
+      "notes": "for tzatziki sauce"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "for tzatziki sauce"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "for tzatziki sauce"
+    },
+    {
+      "name": "tomato",
+      "amount": "2",
+      "notes": "for gyro"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 head",
+      "notes": "for gyro"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4",
+      "notes": "for gyro"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Season the pork belly with salt and cook for 5-6 minutes per side, or until it reaches an internal temperature of 63°C.",
+    "Let the pork rest for 5 minutes before slicing it thinly.",
+    "Meanwhile, prepare the tzatziki sauce by combining Greek yogurt, cucumber, onion, and olive oil in a bowl.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "Assemble the gyro by spreading tzatziki sauce on the pita, followed by sliced pork, tomato, lettuce, and onion.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "pork",
+    "gyro",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/plush-silky-greek-pork-belly-gyro",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T17:04:22.848Z"
+}
