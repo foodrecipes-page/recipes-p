@@ -4855,19 +4855,16 @@
   },
   {
     "slug": "peppery-ukrainian-red-curry-paste-flatbread",
-    "title": "Peppery Ukrainian Red-Curry-Paste Flatbread",
+    "title": "Ukrainian Red Curry Flatbread",
     "tags": [
-      "diabetic-friendly",
-      "easy-to-make",
-      "flatbread",
-      "post-workout",
-      "red-curry-paste",
-      "snack",
       "ukrainian",
-      "weeknight"
+      "curry",
+      "flatbread",
+      "snack",
+      "gluten-free"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 22,
     "shard": "p"
   },
   {
@@ -5347,17 +5344,14 @@
   },
   {
     "slug": "perfectly-roasted-venezuelan-beef-roast",
-    "title": "Perfectly Roasted Venezuelan Beef Roast",
+    "title": "Venezuelan Roasted Beef",
     "tags": [
-      "romantic-dinner",
-      "satvik-friendly",
-      "slow-cooked",
-      "south-american",
-      "special-occasion",
-      "tender-beef"
+      "beef",
+      " venezuelan",
+      "roasted"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 180,
+    "cuisine": "South American",
+    "totalTimeMin": 150,
     "shard": "p"
   },
   {
