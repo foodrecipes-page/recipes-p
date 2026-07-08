@@ -4021,10 +4021,14 @@
   },
   {
     "slug": "peppery-mediterranean-eggwhite-stir-fry",
-    "title": "Peppery Mediterranean Eggwhite Stir‑fry",
-    "tags": [],
+    "title": "Peppery Mediterranean Omelette",
+    "tags": [
+      "breakfast",
+      "omelette",
+      "mediterranean"
+    ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": null,
+    "totalTimeMin": 15,
     "shard": "p"
   },
   {
@@ -6396,14 +6400,14 @@
   },
   {
     "slug": "pineapple-garlic-argentinian-stir-fry",
-    "title": "Pineapple Garlic Argentinian Stir-fry",
+    "title": "Argentinian Pineapple Stir Fry",
     "tags": [
-      "pork-stir-fry",
-      "hangover-food",
-      "argentinean-dish"
+      "argentinian",
+      "pineapple",
+      "stir-fry"
     ],
-    "cuisine": "Argentinean",
-    "totalTimeMin": 35,
+    "cuisine": "argentinian",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
