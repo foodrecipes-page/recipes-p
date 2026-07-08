@@ -1952,17 +1952,16 @@
   },
   {
     "slug": "peppery-crisp-argentinian-fish-ceviche",
-    "title": "Peppery Crisp Argentinian Fish Ceviche",
+    "title": "Ceviche de Pescado",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "latin-american",
-      "one-bowl",
-      "seafood",
-      "weeknight"
+      "ceviche",
+      "fish",
+      "south-american",
+      "appetizer",
+      "gluten-free"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 40,
+    "cuisine": "South American",
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
@@ -2365,15 +2364,15 @@
   },
   {
     "slug": "peppery-croatian-fines-herbes-pilaf",
-    "title": "Peppery Croatian Fines-Herbes Pilaf",
+    "title": "Croatian Peppery Pilaf",
     "tags": [
-      "breakfast",
-      "gluten-free",
-      "one-pan",
-      "weeknight"
+      "croatian",
+      "pilaf",
+      "herbs",
+      "peppercorns"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -8300,17 +8299,16 @@
   },
   {
     "slug": "pleasantly-salty-canadian-toor-dal-dal",
-    "title": "Pleasantly Salty Canadian Toor Dal",
+    "title": "Canadian Dal Stew",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
-      "high-protein",
-      "one-pot",
+      "dal",
+      "toor",
+      "canadian",
       "vegetarian",
-      "weeknight"
+      "gluten-free"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "cuisine": "Indian-Canadian",
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
