@@ -5999,18 +5999,14 @@
   },
   {
     "slug": "pillowy-malty-ethiopian-mixed-grain-gored-gored",
-    "title": "Pillowy Malty Ethiopian Mixed Grain Gored Gored",
+    "title": "Ethiopian Gored Gored Stew",
     "tags": [
-      "comfort-food",
-      "ethiopian-cuisine",
-      "gluten-free",
-      "homemade",
-      "plant-based",
-      "traditional",
-      "vegan"
+      "ethiopian",
+      "beef",
+      "stew"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 60,
     "shard": "p"
   },
   {
@@ -8699,17 +8695,16 @@
   },
   {
     "slug": "plush-silky-greek-pork-belly-gyro",
-    "title": "Plush Silky Greek Pork Belly Gyro",
+    "title": "Classic Pork Gyro",
     "tags": [
-      "anti-inflammatory",
-      "dairy-free",
-      "gluten-free",
-      "greek-food",
-      "pork-belly",
-      "wine-based"
+      "greek",
+      "pork",
+      "gyro",
+      "lunch",
+      "dinner"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 240,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -10546,15 +10541,16 @@
   },
   {
     "slug": "pungent-indian-kale-hyderabadi-pakora",
-    "title": "Pungent Indian Kale Hyderabadi Pakora",
+    "title": "Hyderabadi Kale Pakora",
     "tags": [
       "indian",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "kale",
+      "pakora",
+      "snack",
+      "hyderabadi"
     ],
-    "cuisine": "indian",
-    "totalTimeMin": 35,
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -12228,15 +12224,15 @@
   },
   {
     "slug": "purely-poached-filipino-chicken-biryani",
-    "title": "Purely Poached Filipino Chicken Biryani",
+    "title": "Chicken Biryani with Poached Egg",
     "tags": [
-      "brunch-ideas",
-      "chicken-recipes",
-      "filipino-cuisine",
-      "rice-bowls",
-      "steamed-dishes"
+      "indian",
+      "chicken",
+      "rice",
+      "egg",
+      "biryani"
     ],
-    "cuisine": "Filipino",
+    "cuisine": "Indian",
     "totalTimeMin": 50,
     "shard": "p"
   },
