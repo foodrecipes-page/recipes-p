@@ -1,0 +1,94 @@
+{
+  "slug": "pungent-uruguayan-manchego-one-pot",
+  "title": "Uruguayan Pungent Cheese Fritters",
+  "description": "A simple recipe that combines the flavors of Uruguayan cheese with pungent ingredients, perfect as a snack or appetizer.",
+  "cuisine": "Uruguayan",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Manchego cheese, crumbled",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "One (1) ripe pungent garlic clove, minced",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "1 large onion, thinly sliced",
+      "amount": "1 onion",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup grated Manchego cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 large egg, lightly beaten",
+      "amount": "1 egg",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil in a deep frying pan over medium-high heat to 375°F (190°C).",
+    "2. In a large bowl, mix together the crumbled Manchego cheese, minced garlic, flour, paprika, and salt.",
+    "3. Add the sliced onions to the bowl and toss until they are evenly coated with the cheese mixture.",
+    "4. Using your hands, shape the onion mixture into small patties.",
+    "5. Dip each patty into the beaten egg and then roll it in the grated Manchego cheese to coat.",
+    "6. Carefully place the fritters into the hot oil and fry for 3-4 minutes on each side, or until they are golden brown.",
+    "7. Using a slotted spoon, remove the fritters from the oil and place them on a paper towel-lined plate to drain.",
+    "8. Serve the fritters hot and enjoy!",
+    "9. Note: You can also bake the fritters in a preheated oven at 375°F (190°C) for 12-15 minutes, or until they are crispy and golden brown.",
+    "10. Repeat the process with the remaining ingredients."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "cheese",
+    "fritters",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 16,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-uruguayan-manchego-one-pot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T12:51:12.942Z"
+}
