@@ -1,0 +1,90 @@
+{
+  "slug": "piquant-pungent-thai-brown-lentils-green-curry",
+  "title": "Thai Green Curry with Brown Lentils",
+  "description": "A flavorful and nutritious curry made with brown lentils and a blend of Thai spices. Perfect for a quick and easy dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "green curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "pungent onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "pungent garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "thai",
+      "amount": "1 teaspoon",
+      "notes": " Thai red pepper flakes"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "handful",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add curry paste and cook for 1 minute.",
+    "Add coconut milk and bring to a simmer.",
+    "Add lentils and water and cook until lentils are tender.",
+    "Season with Thai red pepper flakes and salt.",
+    "Serve hot garnished with cilantro.",
+    "Serve with brown rice or noodles.",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-curry",
+    "lentil-recipe",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-pungent-thai-brown-lentils-green-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T03:46:59.193Z"
+}
