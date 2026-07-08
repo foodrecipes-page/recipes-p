@@ -1,0 +1,68 @@
+{
+  "slug": "plumpride-tomateux",
+  "title": "Tomateux and Plumpride Tart",
+  "description": "A sweet and savory tart featuring the unique flavors of Tomateux and Plumpride.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tomateux",
+      "amount": "2 cups, sliced"
+    },
+    {
+      "name": "Plumpride",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup, melted"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1, beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the almond flour to a thickness of 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "Arrange the Tomateux and Plumpride in a pattern on the dough.",
+    "Drizzle the melted butter over the fruit.",
+    "Sprinkle the granulated sugar over the fruit.",
+    "Pour the beaten egg over the fruit.",
+    "Bake for 35-40 minutes or until the crust is golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "tart",
+    "fruit",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/plumpride-tomateux",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T04:06:08.772Z"
+}
