@@ -1,0 +1,80 @@
+{
+  "slug": "peppery-crisp-argentinian-fish-ceviche",
+  "title": "Ceviche de Pescado",
+  "description": "A refreshing and light South American-inspired dish, perfect for warm weather. This ceviche is made with the freshest catch of the day, marinated in a zesty mixture of lime juice and mixed with crunchy vegetables.",
+  "cuisine": "South American",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "appetizer/snack",
+  "ingredients": [
+    {
+      "name": "Fresh Fish (such as sea bass or halibut)",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Argentinian Red Onion",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Crisp Corn Kernels",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Peppery Red Bell Pepper",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cut the fish into small pieces and place in a large bowl.",
+    "In a small bowl, mix together the lime juice, fish sauce, and a pinch of salt and pepper.",
+    "Pour the marinade over the fish and let it sit at room temperature for 10-15 minutes.",
+    "Just before serving, stir in the chopped red onion, corn kernels, and red bell pepper.",
+    "Taste and adjust the seasoning as needed.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the ceviche chilled, garnished with additional lime wedges and red onion if desired.",
+    "Serve immediately, as the fish will continue to 'cook' in the lime juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ceviche",
+    "fish",
+    "south-american",
+    "appetizer",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crisp-argentinian-fish-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T07:27:16.215Z"
+}
