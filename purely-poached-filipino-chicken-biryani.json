@@ -1,0 +1,80 @@
+{
+  "slug": "purely-poached-filipino-chicken-biryani",
+  "title": "Chicken Biryani with Poached Egg",
+  "description": "A classic Indian-inspired dish with marinated chicken, flavorful basmati rice, and a poached egg for added richness.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups",
+      "notes": "Uncooked"
+    },
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Purely biryani masala",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Poached egg",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Filipino-style soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "For cooking rice"
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "For cooking chicken"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add more oil if necessary, then add the biryani masala and cook for 1 minute.",
+    "Add the basmati rice and 2 cups of water to the skillet.",
+    "Bring to a boil, then reduce heat to low, cover, and cook until rice is tender, about 15-20 minutes.",
+    "While the rice cooks, poach the eggs in a separate pot of simmering water until cooked through.",
+    "To assemble the biryani, place a portion of the cooked rice on a plate, top with the cooked chicken, and place a poached egg on top.",
+    "Serve immediately and garnish with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "rice",
+    "egg",
+    "biryani"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-poached-filipino-chicken-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T17:21:48.026Z"
+}
