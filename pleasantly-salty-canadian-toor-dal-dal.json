@@ -1,0 +1,80 @@
+{
+  "slug": "pleasantly-salty-canadian-toor-dal-dal",
+  "title": "Canadian Dal Stew",
+  "description": "Hearty Canadian-inspired stew made with dal, toor, and pleasantly flavored spices.",
+  "cuisine": "Indian-Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "toor",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add ginger and garlic and cook for an additional 1-2 minutes.",
+    "Add dal and toor, and stir to combine.",
+    "Add curry powder and salt, and stir to combine.",
+    "Pour in 4 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes, or until dal and toor are tender.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dal",
+    "toor",
+    "canadian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pleasantly-salty-canadian-toor-dal-dal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T07:19:25.634Z"
+}
