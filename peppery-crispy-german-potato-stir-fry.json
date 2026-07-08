@@ -1,0 +1,63 @@
+{
+  "slug": "peppery-crispy-german-potato-stir-fry",
+  "title": "German Potato Stir Fry",
+  "description": "A hearty and flavorful German-inspired potato stir fry that's easy to make and packed with nutrients.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "peppery",
+      "amount": "2 tablespoons",
+      "notes": "crushed peppercorns"
+    },
+    {
+      "name": "crispy",
+      "amount": "1 cup",
+      "notes": "sliced crispy onions"
+    },
+    {
+      "name": "german",
+      "amount": "2 tablespoons",
+      "notes": "german-style mustard"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the diced potato and cook for 5 minutes, or until they start to brown.",
+    "Add the crushed peppercorns and cook for 1 minute.",
+    "Add the sliced crispy onions and cook for an additional 2 minutes.",
+    "Stir in the german-style mustard and cook for 1 minute.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "potato",
+    "stir-fry",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crispy-german-potato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T15:19:55.046Z"
+}
