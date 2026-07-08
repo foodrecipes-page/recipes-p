@@ -8597,14 +8597,14 @@
   },
   {
     "slug": "plumpride-tomateux",
-    "title": "PlumPride Tomateux",
+    "title": "Tomateux and Plumpride Tart",
     "tags": [
-      "plum-tomato-dish",
-      "filipino-dessert",
-      "high-protein-meal"
+      "tart",
+      "fruit",
+      "dessert"
     ],
-    "cuisine": "Philippine",
-    "totalTimeMin": null,
+    "cuisine": "French",
+    "totalTimeMin": 55,
     "shard": "p"
   },
   {
@@ -9000,16 +9000,17 @@
   },
   {
     "slug": "poached-silky-british-fish-wrap",
-    "title": "Poached Silky British Fish Wrap",
+    "title": "Poached Fish Wrap",
     "tags": [
+      "fish",
+      "gluten-free",
+      "lunch",
       "british",
-      "fish-wrapped",
-      "poached",
-      "egg-free-friendly",
-      "quick-meal"
+      "easy",
+      "quick"
     ],
     "cuisine": "British",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "p"
   },
   {
