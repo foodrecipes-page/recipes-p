@@ -6786,15 +6786,14 @@
   },
   {
     "slug": "piquant-dutch-chicken-casserole",
-    "title": "Piquant Dutch Chicken Casserole",
+    "title": "Dutch Chicken Casserole",
     "tags": [
-      "comfort-food",
-      "dinner",
-      "family-friendly",
-      "one-pot",
-      "quick"
+      "dutch",
+      "chicken",
+      "casserole",
+      "comfort-food"
     ],
-    "cuisine": "Dutch",
+    "cuisine": null,
     "totalTimeMin": 50,
     "shard": "p"
   },
