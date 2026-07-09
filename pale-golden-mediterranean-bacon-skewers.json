@@ -1,0 +1,71 @@
+{
+  "slug": "pale-golden-mediterranean-bacon-skewers",
+  "title": "Grilled Mediterranean Skewers with Bacon",
+  "description": "A delicious and easy-to-make skewer recipe with a Mediterranean twist, featuring crispy bacon and marinated vegetables. Perfect for a quick dinner or BBQ.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "amount": "8 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Pale Skewers",
+      "amount": "12-15",
+      "notes": "wooden skewers"
+    },
+    {
+      "name": "Golden Bell Peppers",
+      "amount": "1 large",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "Mediterranean Olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": "cut into large slices"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread the vegetables and bacon onto the skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with salt, pepper, and oregano.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the bacon is crispy and the vegetables are tender.",
+    "Serve hot with your favorite sides or salads."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "skewers",
+    "bacon",
+    "mediterranean",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pale-golden-mediterranean-bacon-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T01:50:40.512Z"
+}
