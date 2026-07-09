@@ -7016,16 +7016,15 @@
   },
   {
     "slug": "piquant-gooey-tunisian-eggplant-tagine",
-    "title": "Piquant Gooey Tunisian Eggplant Tagine",
+    "title": "Tunisian Eggplant Tagine",
     "tags": [
-      "comfort-food",
       "north-african",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "eggplant",
+      "tagine",
+      "vegetarian"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 65,
     "shard": "p"
   },
   {
