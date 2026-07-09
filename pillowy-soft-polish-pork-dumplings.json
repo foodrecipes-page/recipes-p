@@ -1,0 +1,88 @@
+{
+  "slug": "pillowy-soft-polish-pork-dumplings",
+  "title": "Polish-Style Pork and Dumplings",
+  "description": "A hearty and comforting Polish-inspired dish featuring tender pork and soft dumplings.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Dumpling dough",
+      "amount": "1 package (usually found in the refrigerated section)",
+      "notes": "Thaw according to package instructions"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Polish sausage",
+      "amount": "1/2 pound",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Soft flour",
+      "amount": "2 tablespoons",
+      "notes": "For dusting dumplings"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork cubes with salt and black pepper.",
+    "In a large skillet, cook the pork over medium-high heat until browned on all sides, about 5 minutes.",
+    "Transfer the pork to a baking dish and set aside.",
+    "Add the chopped onion to the skillet and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced Polish sausage to the skillet and cook until browned, about 3 minutes.",
+    "Roll out the dumpling dough to a thickness of about 1/4 inch.",
+    "Cut the dough into 8 equal pieces and roll each into a ball.",
+    "Dust the dumplings with soft flour, then flatten each into a disk shape.",
+    "Place the dumplings on top of the pork in the baking dish.",
+    "Cover the baking dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 15 minutes, or until the dumplings are golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "comfort-food",
+    "pork",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 32,
+    "carbs": 40,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-soft-polish-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T10:45:56.000Z"
+}
