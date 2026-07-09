@@ -1,0 +1,71 @@
+{
+  "slug": "peppy-gooey-filipino-date-stir-fry",
+  "title": "Stir-Fried Peppers with Gooey Date Sauce",
+  "description": "Sweet and spicy stir-fry dish with gooey date sauce and colorful peppers.",
+  "cuisine": "asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peppy",
+      "amount": "4"
+    },
+    {
+      "name": "gooey",
+      "amount": "1 cup",
+      "notes": "dates"
+    },
+    {
+      "name": "filipino",
+      "amount": "1 tablespoon",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "date",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "fry",
+      "amount": "1 teaspoon",
+      "notes": "ground black pepper"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the sliced peppy and cook until tender, about 3-4 minutes.",
+    "Add the chopped date and cook for another 2-3 minutes, until the mixture is caramelized.",
+    "In a small bowl, whisk together the soy sauce, stir, and fry. Pour the sauce over the peppy and date mixture.",
+    "Stir-fry everything together for 1-2 minutes, until the sauce has thickened.",
+    "Serve immediately and enjoy!",
+    "Note: Adjust the amount of soy sauce to taste, and add more filipino for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppy-gooey-filipino-date-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T23:01:02.556Z"
+}
