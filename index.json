@@ -3533,13 +3533,14 @@
   },
   {
     "slug": "peppery-indian-date-crumble",
-    "title": "Peppery Indian Date Crumble",
+    "title": "Spiced Date Crumble",
     "tags": [
-      "peppery",
-      "indian-date-crumble",
-      "midnight-craving"
+      "indian",
+      "sweet",
+      "spicy",
+      "dessert"
     ],
-    "cuisine": "Indian",
+    "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "p"
   },
@@ -6155,17 +6156,15 @@
   },
   {
     "slug": "pillowy-soft-polish-pork-dumplings",
-    "title": "Pillowy Soft Polish Pork Dumplings",
+    "title": "Polish-Style Pork and Dumplings",
     "tags": [
+      "polish",
       "comfort-food",
-      "delicious",
-      "homemade",
-      "low-fat",
-      "polish-cuisine",
-      "sous-vide"
+      "pork",
+      "dumplings"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 150,
+    "totalTimeMin": 60,
     "shard": "p"
   },
   {
