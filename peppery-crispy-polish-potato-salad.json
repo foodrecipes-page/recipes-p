@@ -1,0 +1,67 @@
+{
+  "slug": "peppery-crispy-polish-potato-salad",
+  "title": "Polish Potato Salad with Crispy Peppercorns",
+  "description": "A hearty potato salad with a twist of peppery flavor and crispy texture, perfect for a side dish or light lunch.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/2 cup",
+      "notes": "to taste"
+    },
+    {
+      "name": "dill pickle relish",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "crispy peppercorns",
+      "amount": "2 tbsp",
+      "notes": "see notes below"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Boil the diced potatoes in salted water until tender.",
+    "Drain the potatoes and let them cool to room temperature.",
+    "In a large bowl, whisk together the mayonnaise and dill pickle relish (if using).",
+    "Add the cooled potatoes to the bowl and toss to coat with the mayonnaise mixture.",
+    "Sprinkle the crispy peppercorns over the top of the potatoes and toss to combine.",
+    "Season the salad with salt and pepper to taste.",
+    "Garnish with chopped fresh dill and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "potato-salad",
+    "crispy-peppercorns",
+    "eastern-european"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crispy-polish-potato-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T08:56:52.091Z"
+}
