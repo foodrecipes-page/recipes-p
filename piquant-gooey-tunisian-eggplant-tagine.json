@@ -1,0 +1,78 @@
+{
+  "slug": "piquant-gooey-tunisian-eggplant-tagine",
+  "title": "Tunisian Eggplant Tagine",
+  "description": "A flavorful North African-inspired eggplant dish cooked in a rich tunisian tagine.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Piquant olives",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gooey honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the eggplant into 1-inch cubes and season with salt and black pepper.",
+    "In a large bowl, mix together the tunisian spice blend, olive oil, and honey.",
+    "Add the eggplant cubes to the bowl and toss to coat with the spice mixture.",
+    "Transfer the eggplant mixture to a large tagine or Dutch oven.",
+    "Cover the tagine with a lid and bake for 30 minutes.",
+    "After 30 minutes, stir in the piquant olives and continue baking for an additional 15 minutes.",
+    "Remove from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "eggplant",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-gooey-tunisian-eggplant-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T21:25:45.501Z"
+}
