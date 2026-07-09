@@ -2230,19 +2230,14 @@
   },
   {
     "slug": "peppery-crispy-polish-potato-salad",
-    "title": "Peppery Crispy Polish Potato Salad",
+    "title": "Polish Potato Salad with Crispy Peppercorns",
     "tags": [
-      "peppery",
-      "crispy",
-      "festive",
-      "polish",
-      "low-fat",
-      "stilton",
-      "bhuna",
-      "potato-salad"
+      "potato-salad",
+      "crispy-peppercorns",
+      "eastern-european"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
