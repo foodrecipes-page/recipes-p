@@ -1,0 +1,79 @@
+{
+  "slug": "piquant-dutch-chicken-casserole",
+  "title": "Dutch Chicken Casserole",
+  "description": "A hearty, comforting casserole made with chicken, piquant dutch cheese, and a crispy crust.",
+  "cuisine": null,
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "piquant dutch cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "dutch cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup all-purpose flour",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup milk",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons unsalted butter",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper, to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together flour, piquant dutch cheese, and dutch cheese.",
+    "Add the chicken to the bowl and toss to coat with the cheese mixture.",
+    "In a separate bowl, whisk together milk and melted butter.",
+    "Pour the milk mixture over the chicken and toss to coat.",
+    "Transfer the chicken mixture to a 9x13 inch baking dish.",
+    "Bake for 30-35 minutes, or until the chicken is cooked through and the top is golden brown.",
+    "Remove from oven and let cool for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "chicken",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-dutch-chicken-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T06:34:45.381Z"
+}
