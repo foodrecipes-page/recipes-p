@@ -1,0 +1,81 @@
+{
+  "slug": "purely-roasted-japanese-peanut-ozoni",
+  "title": "Japanese-Style Roasted Peanut Ozoni",
+  "description": "A traditional Japanese soup with a twist, featuring roasted peanuts and served as a light, comforting meal. Ozoni is typically served on New Year's Day to bring good luck.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Roasted Peanuts",
+      "amount": "1 cup",
+      "notes": "salted and chopped"
+    },
+    {
+      "name": "Pure Japanese Miso Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Japanese Green Tea",
+      "amount": "4 cups",
+      "notes": "hot"
+    },
+    {
+      "name": "Kombu Seaweed",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "Silken Tofu",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Grated Ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine kombu seaweed and 4 cups of Japanese green tea. Bring to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "Remove kombu seaweed and add silken tofu, roasted peanuts, miso paste, soy sauce, and grated ginger to the pot.",
+    "Stir to combine and cook for an additional 5 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Ladle into bowls and garnish with scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "soup",
+    "japanese",
+    "comfort-food",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-roasted-japanese-peanut-ozoni",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T09:49:03.494Z"
+}
