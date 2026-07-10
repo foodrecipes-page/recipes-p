@@ -4386,10 +4386,16 @@
   },
   {
     "slug": "peppery-roasted-spanish-radish-roast",
-    "title": "Peppery Roasted Spanish Radish Roast",
-    "tags": [],
+    "title": "Roasted Radish and Peppery Tapas",
+    "tags": [
+      "spanish",
+      "radish",
+      "pepper",
+      "tapas",
+      "appetizer"
+    ],
     "cuisine": "Spanish",
-    "totalTimeMin": null,
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
