@@ -1,0 +1,98 @@
+{
+  "slug": "pure-indulgent-peruvian-prawns-ceviche",
+  "title": "Prawns Ceviche Peruano",
+  "description": "A refreshing Peruvian dish that combines succulent prawns, citrus juices, onions, and spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Large prawns",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "1/2 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Red pepper",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Aji amarillo pepper",
+      "amount": "1",
+      "notes": "diced, or substitute with jalapeño"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the prawns under cold water and pat them dry with paper towels.",
+    "In a large bowl, combine the prawns, lime juice, lemon juice, red onion, red pepper, garlic, and aji amarillo pepper.",
+    "Mix well to combine, then refrigerate for at least 30 minutes to allow the prawns to 'cook' in the citrus juices.",
+    "Just before serving, stir in the chopped cilantro and season with salt and black pepper to taste.",
+    "Serve the ceviche immediately, garnished with additional cilantro if desired.",
+    "Note: This dish should be served immediately, as the prawns will continue to 'cook' in the citrus juices.",
+    "If you prefer your ceviche more 'cooked,' you can add some ice to the bowl and refrigerate for an additional 15-30 minutes.",
+    "However, be careful not to overcook the prawns, as they can become tough and rubbery.",
+    "Serve with corn kernels, sweet potato, or crispy corn tortillas for a more authentic Peruvian experience.",
+    "Adjust the amount of aji amarillo pepper to your desired level of spiciness.",
+    "If you can't find aji amarillo peppers, you can substitute with jalapeño or serrano peppers.",
+    "To serve, use a slotted spoon to remove the prawns from the marinade and place them on a plate or in a bowl.",
+    "Garnish with additional cilantro and a squeeze of lime juice, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "prawns",
+    "ceviche",
+    "peruvian",
+    "latin-american",
+    "seafood",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pure-indulgent-peruvian-prawns-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T06:02:16.929Z"
+}
