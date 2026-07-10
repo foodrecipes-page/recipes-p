@@ -1,0 +1,88 @@
+{
+  "slug": "peppery-roasted-spanish-radish-roast",
+  "title": "Roasted Radish and Peppery Tapas",
+  "description": "A simple yet flavorful Spanish-inspired tapas dish featuring roasted radish and peppery tapenade. Perfect for a snack or appetizer.",
+  "cuisine": "Spanish",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Radish",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Peppercorns",
+      "amount": "2 tablespoons",
+      "notes": "freshly cracked"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Roasted red pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Bread",
+      "amount": "4-6 slices",
+      "notes": "Spanish or rustic bread"
+    },
+    {
+      "name": "Manchego cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 425°F (220°C).",
+    "2. Cut the radish into thin slices and place on a baking sheet.",
+    "3. Drizzle with olive oil and sprinkle with garlic, salt, and black pepper.",
+    "4. Roast in the oven for 15-20 minutes, or until tender and lightly caramelized.",
+    "5. Meanwhile, toast the bread until crispy.",
+    "6. Spread the toasted bread with tapenade made from roasted red pepper and peppercorns.",
+    "7. Top with shaved Manchego cheese and a sprinkle of black pepper.",
+    "8. Serve the roasted radish on top of the tapenade and cheese.",
+    "9. Drizzle with olive oil and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "radish",
+    "pepper",
+    "tapas",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-roasted-spanish-radish-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T12:15:23.588Z"
+}
