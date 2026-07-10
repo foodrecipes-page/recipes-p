@@ -7451,17 +7451,16 @@
   },
   {
     "slug": "piquant-perfumed-moroccan-chicken-tagine",
-    "title": "Piquant Perfumed Moroccan Chicken Tagine",
+    "title": "Moroccan Chicken Tagine",
     "tags": [
-      "bamboo-tray",
-      "chicken",
-      "gluten-free",
-      "low-glycemic",
       "moroccan",
-      "special-occasion"
+      "chicken",
+      "stew",
+      "dinner",
+      "gluten-free"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 90,
     "shard": "p"
   },
   {
