@@ -3438,16 +3438,14 @@
   },
   {
     "slug": "peppery-greek-cookies-crumble",
-    "title": "Peppery Greek Cookies Crumble",
+    "title": "Greek Crumble Cookies",
     "tags": [
-      "peppery",
-      "dense",
-      "greek",
-      "midnight-craving",
-      "vegan-friendly"
+      "cookies",
+      "crumble",
+      "greek"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 25,
+    "totalTimeMin": 28,
     "shard": "p"
   },
   {
@@ -8861,16 +8859,16 @@
   },
   {
     "slug": "poached-korean-seaweed-stir-fry",
-    "title": "Poached Korean Seaweed Stir-fry",
+    "title": "Stir-Fried Seaweed with Korean Seasoning",
     "tags": [
-      "poached",
       "korean",
+      "asian",
       "stir-fry",
-      "vegan",
-      "dairy-free-friendly"
+      "seaweed",
+      "vegetarian"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 15,
+    "cuisine": "Asian",
+    "totalTimeMin": 20,
     "shard": "p"
   },
   {
