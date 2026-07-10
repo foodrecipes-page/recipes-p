@@ -1,0 +1,80 @@
+{
+  "slug": "peppery-greek-cookies-crumble",
+  "title": "Greek Crumble Cookies",
+  "description": "A twist on the classic cookie, adding a crunchy crumble topping for a delightful treat.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peppery greek cookies",
+      "amount": "1 package",
+      "notes": "store-bought"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "3/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "crumble topping",
+      "amount": "1 cup",
+      "notes": "store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "In a medium bowl, whisk together flour, granulated sugar, and brown sugar.",
+    "Add in the unsalted butter and mix until a dough forms.",
+    "Roll out the dough on a floured surface to about 1/4 inch thickness.",
+    "Cut into desired shapes using a cookie cutter.",
+    "Place cookies on the prepared baking sheet, leaving about 1 inch of space between each cookie.",
+    "Bake for 12-15 minutes, or until lightly golden brown.",
+    "While cookies are baking, prepare the crumble topping by mixing it with a fork until crumbly.",
+    "Remove cookies from the oven and sprinkle the crumble topping evenly over each cookie.",
+    "Return to the oven and bake for an additional 2-3 minutes, or until the crumble topping is lightly golden brown.",
+    "Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "cookies",
+    "crumble",
+    "greek"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-greek-cookies-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:48:07.415Z"
+}
