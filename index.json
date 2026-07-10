@@ -1445,15 +1445,14 @@
   },
   {
     "slug": "peppermint-spice-steak",
-    "title": "Peppermint Spice Steak",
+    "title": "Peppermint Crusted Steak",
     "tags": [
-      "peppermint-spice-steak",
-      "saudi-arabian-dish",
-      "beef-cuisine",
-      "nut-free-friendly"
+      "beef",
+      "peppermint",
+      "steak"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
