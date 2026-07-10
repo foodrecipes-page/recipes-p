@@ -1,0 +1,76 @@
+{
+  "slug": "peppery-juicy-chinese-pork-dumplings",
+  "title": "Pan-Seared Pork Dumplings",
+  "description": "A simple and flavorful dish featuring juicy pork and crispy dumplings.",
+  "cuisine": "Chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork",
+      "amount": "1 pound",
+      "notes": "Ground pork"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "20-24 count",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Peppery Oil",
+      "amount": "2 tablespoons",
+      "notes": "Vegetable oil with a dash of black pepper"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of peppery oil in a large skillet over medium-high heat.",
+    "2. Add the minced garlic and grated ginger, cooking for 1 minute until fragrant.",
+    "3. Add the ground pork, breaking it up with a spoon as it cooks.",
+    "4. Cook the pork until it is no longer pink, about 5-7 minutes.",
+    "5. Add the dumplings to the skillet, cooking for 2-3 minutes on each side until golden brown.",
+    "6. Transfer the dumplings to a plate and drizzle with soy sauce.",
+    "7. Serve the dumplings hot with a drizzle of sesame oil, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dinner",
+    "homemade-dumplings"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-juicy-chinese-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T20:03:33.608Z"
+}
