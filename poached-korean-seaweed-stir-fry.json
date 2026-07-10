@@ -1,0 +1,78 @@
+{
+  "slug": "poached-korean-seaweed-stir-fry",
+  "title": "Stir-Fried Seaweed with Korean Seasoning",
+  "description": "A quick and easy stir-fry recipe featuring the unique flavor of seaweed and Korean seasoning.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "wakame seaweed",
+      "amount": "1/2 cup dried"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the wakame seaweed and cook for 2-3 minutes, until rehydrated.",
+    "Add the Korean chili flakes, soy sauce, brown sugar, and rice vinegar. Stir to combine.",
+    "Cook for an additional 1-2 minutes, until the seaweed is well coated with the sauce.",
+    "Serve hot, garnished with additional chili flakes if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "asian",
+    "stir-fry",
+    "seaweed",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/poached-korean-seaweed-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:56:28.238Z"
+}
