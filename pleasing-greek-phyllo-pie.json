@@ -1,0 +1,78 @@
+{
+  "slug": "pleasing-greek-phyllo-pie",
+  "title": "Phyllo Pie",
+  "description": "A traditional Greek dessert with layers of flaky phyllo pastry and a sweet, creamy filling.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Phyllo pastry",
+      "amount": "1 package (thawed)"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Bee's wax or cooking spray",
+      "amount": "for greasing phyllo"
+    },
+    {
+      "name": "Walnuts (optional)",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Thaw phyllo pastry according to package instructions. Cover with a damp cloth to prevent drying.",
+    "In a bowl, mix together yogurt, honey, cinnamon, and vanilla extract.",
+    "Unroll phyllo pastry and cut into 4 equal pieces.",
+    "Brush each piece with butter or cooking spray.",
+    "Place a piece of phyllo pastry in a baking dish and brush with butter or cooking spray.",
+    "Spread a layer of the yogurt mixture on top of the phyllo pastry.",
+    "Repeat the layers two more times, ending with a layer of phyllo pastry on top.",
+    "Bake for 25-30 minutes, or until the top is golden brown.",
+    "If using walnuts, sprinkle on top of the phyllo pastry during the last 5 minutes of baking.",
+    "Remove from oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "dessert",
+    "phyllo",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pleasing-greek-phyllo-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T23:18:18.410Z"
+}
