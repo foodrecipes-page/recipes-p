@@ -1,0 +1,54 @@
+{
+  "slug": "peppermint-spice-steak",
+  "title": "Peppermint Crusted Steak",
+  "description": "A refreshing twist on a classic steak dish, featuring a peppermint crust and a hint of spice.",
+  "cuisine": "American",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Steak",
+      "amount": "1.5 lbs",
+      "notes": "Ribeye or strip loin work well"
+    },
+    {
+      "name": "Peppermint",
+      "amount": "2 tbsp, crushed",
+      "notes": null
+    },
+    {
+      "name": "Spice",
+      "amount": "1 tsp, ground",
+      "notes": "such as black pepper or paprika"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the steak with the crushed peppermint and ground spice.",
+    "Heat a skillet over medium-high heat and sear the steak for 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and cook to desired doneness.",
+    "Let the steak rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "peppermint",
+    "steak"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 0,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppermint-spice-steak",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T08:19:55.182Z"
+}
