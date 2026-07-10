@@ -1,0 +1,80 @@
+{
+  "slug": "pan-seared-spanish-trout-ensaimada",
+  "title": "Pan-Seared Spanish Trout",
+  "description": "A simple and flavorful Spanish-inspired dish featuring pan-seared trout. Serve with a side of crusty bread for a delightful meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Trout fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable trout fillets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality extra virgin olive oil"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced garlic for added flavor"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed lemon juice"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use kosher salt for a more delicate flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Use freshly ground black pepper"
+    },
+    {
+      "name": "Ensalada de tomate",
+      "amount": "1 cup",
+      "notes": "A simple salad of diced tomatoes, onions, and olive oil"
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium-high heat.",
+    "Add 1 tablespoon of olive oil to the pan and swirl it around.",
+    "Add the trout fillets to the pan, skin side up.",
+    "Cook for 3-4 minutes or until the skin is crispy and golden brown.",
+    "Flip the trout over and cook for an additional 3-4 minutes or until cooked through.",
+    "Remove the trout from the pan and set aside.",
+    "Reduce the heat to medium and add the minced garlic to the pan.",
+    "Cook for 1 minute or until fragrant.",
+    "Add the lemon juice to the pan and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve the trout with the ensalada de tomate and drizzle with the pan sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "fish",
+    "trout"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-spanish-trout-ensaimada",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T22:48:09.622Z"
+}
