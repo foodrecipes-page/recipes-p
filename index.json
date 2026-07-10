@@ -3732,16 +3732,11 @@
   },
   {
     "slug": "peppery-juicy-chinese-pork-dumplings",
-    "title": "Peppery Juicy Chinese Pork Dumplings",
+    "title": "Pan-Seared Pork Dumplings",
     "tags": [
-      "asian",
-      "dairy-free",
-      "pork",
-      "dumplings",
-      "comfort",
-      "nostalgic",
-      "peppery",
-      "juicy"
+      "chinese",
+      "dinner",
+      "homemade-dumplings"
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 35,
@@ -6697,17 +6692,16 @@
   },
   {
     "slug": "piquant-crispy-algerian-lamb-tagine",
-    "title": "Piquant Crispy Algerian Lamb Tagine",
+    "title": "Algerian Lamb Tagine",
     "tags": [
-      "algerian-cuisine",
-      "gluten-free",
-      "lamb-recipes",
-      "middle-eastern",
-      "one-pan",
-      "special-occasion"
+      "algerian",
+      "lamb",
+      "tagine",
+      "stew",
+      "north-african"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 110,
     "shard": "p"
   },
   {
