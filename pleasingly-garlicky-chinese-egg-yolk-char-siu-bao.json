@@ -1,0 +1,73 @@
+{
+  "slug": "pleasingly-garlicky-chinese-egg-yolk-char-siu-bao",
+  "title": "Char Siu Egg Bao",
+  "description": "A classic Cantonese breakfast or snack dish featuring a soft egg and sweet char siu filling in a fluffy bao.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pleasingly soft bao dough",
+      "amount": "4-6 pieces",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "garlicky char siu sauce",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "egg",
+      "amount": "2",
+      "notes": "large eggs"
+    },
+    {
+      "name": "char siu filling",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a steamer with a heatproof plate.",
+    "Place the bao dough pieces on the plate, cover with a clean cloth.",
+    "Steam for 10-12 minutes or until the bao is soft and fluffy.",
+    "In a separate pan, heat the char siu sauce over low heat.",
+    "Add the char siu filling and stir until heated through.",
+    "Crack an egg into a small bowl.",
+    "Once the bao is cooked, place a piece on a flat surface.",
+    "Create a small well in the center of the bao.",
+    "Pour the egg into the well and cook for 2-3 minutes or until the whites are set.",
+    "Add a spoonful of the char siu filling on top of the egg.",
+    "Garnish with chopped scallions.",
+    "Repeat with the remaining ingredients."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": "2-4",
+  "difficulty": "medium",
+  "tags": [
+    "char-siu",
+    "bao",
+    "egg-bao",
+    "breakfast",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pleasingly-garlicky-chinese-egg-yolk-char-siu-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T21:41:05.220Z"
+}
