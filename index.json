@@ -914,17 +914,14 @@
   },
   {
     "slug": "pan-seared-spanish-trout-ensaimada",
-    "title": "Pan Seared Spanish Trout Ensaimada",
+    "title": "Pan-Seared Spanish Trout",
     "tags": [
-      "comfort-food",
-      "one-pan",
-      "plant-based",
-      "seafood",
-      "spanish-cuisine",
-      "valencian"
+      "spanish",
+      "fish",
+      "trout"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 22,
     "shard": "p"
   },
   {
@@ -8417,16 +8414,16 @@
   },
   {
     "slug": "pleasingly-garlicky-chinese-egg-yolk-char-siu-bao",
-    "title": "Pleasingly Garlicky Chinese Egg Yolk Char Siu Bao",
+    "title": "Char Siu Egg Bao",
     "tags": [
-      "chinese-food",
-      "comfort-food",
-      "garlicky",
-      "steamed-buns",
-      "vegetarian"
+      "char-siu",
+      "bao",
+      "egg-bao",
+      "breakfast",
+      "snack"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 52,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
