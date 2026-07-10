@@ -1,0 +1,95 @@
+{
+  "slug": "piquant-perfumed-moroccan-chicken-tagine",
+  "title": "Moroccan Chicken Tagine",
+  "description": "A traditional North African stew made with chicken, spices, and dried fruits, cooked to perfection in a clay pot.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken",
+      "amount": "1 1/2 pounds boneless, skinless thighs",
+      "notes": "Cut into 8 pieces"
+    },
+    {
+      "name": "Moroccan",
+      "amount": "2 tablespoons",
+      "notes": "Ground spice blend"
+    },
+    {
+      "name": "piquant",
+      "amount": "1 teaspoon",
+      "notes": "Ground chili pepper"
+    },
+    {
+      "name": "perfumed",
+      "amount": "1 teaspoon",
+      "notes": "Ground cinnamon"
+    },
+    {
+      "name": "tagine",
+      "amount": "1",
+      "notes": "Tradition clay cooking pot or Dutch oven"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the tagine or Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add Moroccan spice blend, piquant, and perfumed spices. Cook for 1 minute.",
+    "Add dried apricots, chicken broth, and bring to a boil.",
+    "Cover the pot and transfer to the oven. Cook at 300°F (150°C) for 30 minutes.",
+    "Remove the pot from the oven and let it rest for 10 minutes.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "chicken",
+    "stew",
+    "dinner",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-perfumed-moroccan-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T02:02:05.944Z"
+}
