@@ -1,0 +1,75 @@
+{
+  "slug": "poached-moroccan-courgette-stir-fry",
+  "title": "Moroccan-Style Stir-Fried Courgette",
+  "description": "A healthy and flavorful stir-fry inspired by Moroccan cuisine, made with courgette, garlic, and spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Courgette",
+      "amount": "1 medium",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon, grated"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and grated ginger, and cook for 1-2 minutes until fragrant.",
+    "Add the sliced courgette and cook for 3-4 minutes until tender.",
+    "Add the cumin powder, paprika, salt, and black pepper, and stir to combine.",
+    "Continue cooking for an additional 2-3 minutes until the flavors are well combined.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "stir-fry",
+    "courgette",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/poached-moroccan-courgette-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T05:52:50.339Z"
+}
