@@ -323,19 +323,15 @@
   },
   {
     "slug": "pan-roasted-greek-lamb-souvlaki-kadhai",
-    "title": "Pan-Roasted Greek Lamb Souvlaki Kadhai",
+    "title": "Lamb Souvlaki with Roasted Vegetables",
     "tags": [
-      "crispy",
       "greek",
-      "herbal",
-      "high-protein",
       "lamb",
-      "one-pan",
       "souvlaki",
-      "weeknight"
+      "roasted-vegetables"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
@@ -1156,13 +1152,11 @@
   },
   {
     "slug": "pastoral-croatian-rice-flour-bake",
-    "title": "Pastoral Croatian Rice Flour Bake",
+    "title": "Croatian Pastel",
     "tags": [
-      "brunch",
-      "low-carb",
-      "one-pot",
-      "savory",
-      "vegetarian"
+      "pastel",
+      "croatian-dessert",
+      "sweet-pastry"
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 40,
