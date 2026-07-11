@@ -1,0 +1,98 @@
+{
+  "slug": "peppery-flaky-korean-turkey-ham-stir-fry",
+  "title": "Korean-Style Turkey Stir Fry",
+  "description": "A quick and flavorful stir fry featuring turkey, ham, and a hint of Korean chili flakes.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peppery turkey breast",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "ham",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "flaky korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional, for added heat"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir frying"
+    },
+    {
+      "name": "stir-fry mix",
+      "amount": "1 cup",
+      "notes": "any combination of your favorite stir-fry vegetables"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "for balance of flavors"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of cooking oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced turkey and cook until browned, about 3-4 minutes.",
+    "Remove the turkey from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of cooking oil to the skillet.",
+    "Add the diced ham and cook until browned, about 2-3 minutes.",
+    "Add the flaky korean chili flakes (if using) and cook for 1 minute.",
+    "Add the stir-fry mix and cook until the vegetables are tender-crisp, about 3-4 minutes.",
+    "Return the cooked turkey to the skillet and stir in the soy sauce and brown sugar.",
+    "Cook for an additional 1-2 minutes, until the turkey is coated in the sauce.",
+    "Stir in the minced garlic and cook for 1 minute.",
+    "Serve hot, garnished with chopped green onions and sesame seeds (if using).",
+    "Enjoy your delicious Korean-Style Turkey Stir Fry!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-cuisine",
+    "turkey",
+    "stir-fry",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-flaky-korean-turkey-ham-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T01:33:45.132Z"
+}
