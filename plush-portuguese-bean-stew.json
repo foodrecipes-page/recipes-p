@@ -1,0 +1,78 @@
+{
+  "slug": "plush-portuguese-bean-stew",
+  "title": "Hearty Portuguese Bean Stew",
+  "description": "A rich and comforting stew made with tender beans, soft plush, and a blend of spices.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "plush",
+      "amount": "2 cups, cut into 2-inch pieces"
+    },
+    {
+      "name": "portuguese bean",
+      "amount": "1 cup, drained and rinsed"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add plush and cook until browned, about 5 minutes.",
+    "Add stew, tomato paste, beef broth, red wine, and thyme.",
+    "Bring to a boil, then reduce heat and simmer, covered, for 20-25 minutes.",
+    "Add beans and cook for an additional 10-15 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "stew",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/plush-portuguese-bean-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:14:15.177Z"
+}
