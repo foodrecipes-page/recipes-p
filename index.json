@@ -1852,17 +1852,15 @@
   },
   {
     "slug": "peppery-creamy-middle-eastern-egg-noodles-stir-fry",
-    "title": "Peppery Creamy Middle Eastern Egg Noodles Stir-fry",
+    "title": "Creamy Middle Eastern Noodle Stir Fry",
     "tags": [
-      "peppery",
-      "creamy",
+      "noodle",
+      "egg",
       "middle-eastern",
-      "egg-noodles",
-      "stir-fry",
-      "vegetarian"
+      "quick-and-easy"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "p"
   },
   {
@@ -2901,10 +2899,15 @@
   },
   {
     "slug": "peppery-flaky-korean-turkey-ham-stir-fry",
-    "title": "Peppery Flaky Korean Turkey Ham Stir‑fry",
-    "tags": [],
+    "title": "Korean-Style Turkey Stir Fry",
+    "tags": [
+      "korean-cuisine",
+      "turkey",
+      "stir-fry",
+      "easy-dinner"
+    ],
     "cuisine": "Korean",
-    "totalTimeMin": null,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -3572,16 +3575,16 @@
   },
   {
     "slug": "peppery-irish-cheese-flatbread",
-    "title": "Irish Peppery Flatbread",
+    "title": "Irish Flatbread with Peppery Cheese",
     "tags": [
       "irish",
       "flatbread",
-      "pepper",
       "cheese",
-      "snack"
+      "snack",
+      "easy"
     ],
-    "cuisine": "irish",
-    "totalTimeMin": 7,
+    "cuisine": "Irish",
+    "totalTimeMin": 15,
     "shard": "p"
   },
   {
