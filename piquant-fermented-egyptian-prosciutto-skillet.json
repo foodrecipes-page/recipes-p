@@ -1,0 +1,77 @@
+{
+  "slug": "piquant-fermented-egyptian-prosciutto-skillet",
+  "title": "Egyptian Skillet Delight",
+  "description": "A flavorful and savory dish that combines the tanginess of piquant and fermented ingredients with the crunch of prosciutto. Perfect for a quick and easy dinner.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Prosciutto",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fermented Egyptian Skillet Sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Piquant Peppers",
+      "amount": "2 medium",
+      "notes": "any color"
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": "stainless steel or cast iron"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium-high heat.",
+    "Cook the prosciutto slices for 2-3 minutes on each side, or until crispy.",
+    "Remove the prosciutto from the skillet and set aside.",
+    "Add the fermented Egyptian skillet sauce to the skillet and stir to combine with any remaining prosciutto drippings.",
+    "Add the piquant peppers to the skillet and cook for 3-4 minutes, or until tender.",
+    "Season with salt and black pepper to taste.",
+    "Return the prosciutto to the skillet and stir to combine with the peppers and sauce.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "egyptian",
+    "skillet",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-fermented-egyptian-prosciutto-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T18:43:14.436Z"
+}
