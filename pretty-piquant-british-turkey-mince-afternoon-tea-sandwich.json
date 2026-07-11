@@ -1,0 +1,71 @@
+{
+  "slug": "pretty-piquant-british-turkey-mince-afternoon-tea-sandwich",
+  "title": "British Afternoon Tea Sandwich",
+  "description": "A classic British tea sandwich filled with seasoned turkey and served at afternoon tea.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Turkey breast",
+      "amount": "250g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Butter or spread",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "1. In a bowl, combine the minced onion and chopped parsley.",
+    "2. Season the turkey breast with salt and pepper.",
+    "3. Add the seasoned turkey to the bowl with the onion and parsley, and mix well.",
+    "4. Slice the bread into thin slices.",
+    "5. Butter or spread one side of each bread slice.",
+    "6. Place a small amount of the turkey mixture onto one slice of bread, and top with another slice.",
+    "7. Press gently to adhere the slices together.",
+    "8. Cut the sandwiches into quarters or halves, depending on preference.",
+    "9. Serve at room temperature or chilled.",
+    "10. Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "teatime",
+    "sandwich",
+    "turkey"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pretty-piquant-british-turkey-mince-afternoon-tea-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T03:41:34.448Z"
+}
