@@ -1,0 +1,62 @@
+{
+  "slug": "pastoral-croatian-rice-flour-bake",
+  "title": "Croatian Pastel",
+  "description": "A traditional Croatian pastry filled with a sweet rice and flour mixture.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "bake",
+      "amount": "1/2 cup",
+      "notes": "milk and sugar"
+    },
+    {
+      "name": "pastoral",
+      "amount": "1/4 cup",
+      "notes": "chopped walnuts"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Mix flour, rice, and bake in a bowl.",
+    "Roll out the dough to a thickness of 1/4 inch.",
+    "Cut out circles of dough using a cookie cutter.",
+    "Place a spoonful of the rice mixture in the center of each circle.",
+    "Fold the dough over the filling to form a triangle.",
+    "Press the edges together to seal the pastry.",
+    "Brush the tops with a little water and bake for 20-25 minutes.",
+    "Serve warm, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "pastel",
+    "croatian-dessert",
+    "sweet-pastry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pastoral-croatian-rice-flour-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T14:07:31.405Z"
+}
