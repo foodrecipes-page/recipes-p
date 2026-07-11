@@ -1,0 +1,92 @@
+{
+  "slug": "peppery-silky-saudi-arabian-beans-dal",
+  "title": "Saudi Arabian Dal Stew",
+  "description": "A flavorful and nutritious stew originating from Saudi Arabia, made with aromatic spices and protein-rich dal.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "arabian",
+      "amount": "2 tablespoons",
+      "notes": "use a mix of ground spices including cumin, coriander, and turmeric"
+    },
+    {
+      "name": "dal",
+      "amount": "1 cup",
+      "notes": "red or yellow split lentils work well"
+    },
+    {
+      "name": "peppery",
+      "amount": "1 teaspoon",
+      "notes": "black or white pepper"
+    },
+    {
+      "name": "silky",
+      "amount": "1/2 cup",
+      "notes": "use coconut milk or heavy cream for a rich texture"
+    },
+    {
+      "name": "beans",
+      "amount": "1 cup",
+      "notes": "kidney beans or cannellini beans work well"
+    },
+    {
+      "name": "saudi",
+      "amount": "2 tablespoons",
+      "notes": "use a mix of olive oil and safflower oil"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "use vegetable or chicken broth for added flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the saudi oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the dal, beans, water, salt, and arabian spice mix. Bring to a boil, then reduce the heat to low and simmer for 20-25 minutes, or until the dal is tender.",
+    "Stir in the silky coconut milk and cook for an additional 5 minutes, or until heated through.",
+    "Serve hot, garnished with chopped fresh cilantro or parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "dal-stew",
+    "lentil-stew",
+    "vegetarian-stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-silky-saudi-arabian-beans-dal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T03:37:43.229Z"
+}
