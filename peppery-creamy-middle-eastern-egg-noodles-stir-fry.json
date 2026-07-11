@@ -1,0 +1,64 @@
+{
+  "slug": "peppery-creamy-middle-eastern-egg-noodles-stir-fry",
+  "title": "Creamy Middle Eastern Noodle Stir Fry",
+  "description": "A quick and easy stir fry made with noodles, egg, and creamy sauce, inspired by the flavors of the Middle East.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "250g"
+    },
+    {
+      "name": "egg",
+      "amount": "2"
+    },
+    {
+      "name": "peppery",
+      "amount": "1/4 cup",
+      "notes": "pepper in a saucepan"
+    },
+    {
+      "name": "creamy",
+      "amount": "2 tablespoons",
+      "notes": "sauce"
+    },
+    {
+      "name": "middle eastern",
+      "amount": "1 teaspoon",
+      "notes": "spice blend"
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions.",
+    "In a saucepan, heat 1 tablespoon of creamy sauce over low heat.",
+    "Crack in the eggs and scramble them until cooked through.",
+    "Add the cooked noodles to the saucepan and stir to combine.",
+    "Add the peppery and middle eastern ingredients to the saucepan and stir to combine.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "noodle",
+    "egg",
+    "middle-eastern",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-creamy-middle-eastern-egg-noodles-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T01:40:59.189Z"
+}
