@@ -1,0 +1,85 @@
+{
+  "slug": "potent-crispy-peruvian-chicken-skillet",
+  "title": "Crispy Chicken Skillet with Peruvian Flair",
+  "description": "A flavorful and spicy skillet dish featuring crispy chicken, potent spices, and a hint of Peruvian flair.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "peruvian chili powder",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "crispy onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "large, oven-safe"
+    },
+    {
+      "name": "potent cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable or peanut oil"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken with peruvian chili powder, salt, and pepper.",
+    "Heat the oil in the skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add the crispy onions and potent cilantro to the skillet and cook for 1 minute.",
+    "Transfer the skillet to the oven and bake for 10-12 minutes, or until the chicken is cooked through.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Serve the crispy chicken skillet hot, garnished with additional potent cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "skillet",
+    "peruvian",
+    "spicy",
+    "latin-american"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/potent-crispy-peruvian-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T18:36:46.826Z"
+}
