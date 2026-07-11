@@ -1,0 +1,85 @@
+{
+  "slug": "pungent-norwegian-uni-gratin",
+  "title": "Pan-Seared Uni with Pungent Gratin",
+  "description": "A delicate Norwegian-inspired dish featuring seared uni topped with a pungent gratin.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uni",
+      "amount": "4 pieces",
+      "notes": "fresh sea urchin"
+    },
+    {
+      "name": "pungent",
+      "amount": "2 cloves",
+      "notes": "garlic"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "heavy cream"
+    }
+  ],
+  "instructions": [
+    "Season the uni with salt and pepper.",
+    "Heat butter in a skillet over medium-high heat. Add pungent and cook for 1 minute.",
+    "Add white wine and cook until reduced by half, about 2 minutes.",
+    "Add lemon juice and cook for an additional minute.",
+    "Add uni to the skillet and cook for 2-3 minutes on each side, until cooked through.",
+    "Transfer the uni to a plate and top with a spoonful of the pungent gratin.",
+    "To make the gratin, mix parmesan cheese and flour in a bowl.",
+    "Add heavy cream to the bowl and mix until smooth.",
+    "Pour the gratin mixture over the uni and serve immediately.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "seafood",
+    "uni",
+    "gratin",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-norwegian-uni-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T22:31:44.131Z"
+}
