@@ -1,0 +1,80 @@
+{
+  "slug": "packed-dense-spanish-perilla-leaf-paella",
+  "title": "Spanish Perilla Paella",
+  "description": "A traditional Spanish paella recipe with the addition of perilla leaves for a unique twist. Perfect for a summer dinner party.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Perilla leaves",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dense tomatoes",
+      "amount": "2"
+    },
+    {
+      "name": "Packed olives",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Leafy artichoke hearts",
+      "amount": "1 can"
+    },
+    {
+      "name": "Spanish smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the packed perilla leaves and cook until wilted, about 2 minutes.",
+    "Add the Spanish rice and cook, stirring constantly, for 2-3 minutes.",
+    "Add the dense tomatoes, leafy artichoke hearts, and smoked paprika. Stir to combine.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the rice is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional perilla leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "perilla",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 55,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/packed-dense-spanish-perilla-leaf-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T18:02:48.434Z"
+}
