@@ -1767,17 +1767,15 @@
   },
   {
     "slug": "peppery-chewy-syrian-kielbasa-casserole",
-    "title": "Peppery Chewy Syrian Kielbasa Casserole",
+    "title": "Kielbasa Casserole",
     "tags": [
-      "one-pot",
-      "broil",
-      "pescatarian",
-      "chewy",
-      "peppery",
-      "syrian"
+      "kielbasa",
+      "casserole",
+      "comfort-food",
+      "main-course"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 30,
+    "cuisine": "American",
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
@@ -6822,17 +6820,16 @@
   },
   {
     "slug": "piquant-fermented-egyptian-prosciutto-skillet",
-    "title": "Piquant Fermented Egyptian Prosciutto Skillet",
+    "title": "Egyptian Skillet Delight",
     "tags": [
-      "cozy-dinner",
-      "egyptian-cuisine",
-      "fermented-food",
-      "gluten-free",
-      "one-pan",
-      "vegetarian-friendly"
+      "easy",
+      "egyptian",
+      "skillet",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -8170,13 +8167,13 @@
   },
   {
     "slug": "pleasant-indian-fish-tikka-masala",
-    "title": "Pleasant Indian Fish Tikka Masala",
+    "title": "Bengali-Style Fish Tikka Masala",
     "tags": [
-      "cheesy",
-      "indian-cuisine",
-      "kid-friendly",
-      "one-pan",
-      "pescatarian"
+      "indian",
+      "fish",
+      "tikka-masala",
+      "dinner",
+      "easy-to-make"
     ],
     "cuisine": "Indian",
     "totalTimeMin": 40,
