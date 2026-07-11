@@ -1,0 +1,71 @@
+{
+  "slug": "peppery-slovakian-date-stir-fry",
+  "title": "Slovakian Pepper Meatballs",
+  "description": "A hearty dish from Slovakia, these meatballs are made with beef and pork, flavoured with peppers and spices.",
+  "cuisine": "Slovak",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peppery beef",
+      "amount": "250g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "pork",
+      "amount": "250g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "roughly chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Slovakian peppercorns",
+      "amount": "2tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "In a bowl, mix together beef, pork, onion, garlic, peppercorns and salt.",
+    "Form into small meatballs and place on a baking tray.",
+    "Bake for 20-25 minutes or until cooked through.",
+    "Serve hot with your favourite sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "meat",
+    "beef",
+    "pork",
+    "slovakian",
+    "pepper"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 30,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-slovakian-date-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T11:38:07.015Z"
+}
