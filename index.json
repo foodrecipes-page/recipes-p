@@ -4524,10 +4524,15 @@
   },
   {
     "slug": "peppery-silky-saudi-arabian-beans-dal",
-    "title": "Peppery Silky Saudi Arabian Beans Dal",
-    "tags": [],
+    "title": "Saudi Arabian Dal Stew",
+    "tags": [
+      "saudi-arabian",
+      "dal-stew",
+      "lentil-stew",
+      "vegetarian-stew"
+    ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": null,
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
@@ -8884,16 +8889,15 @@
   },
   {
     "slug": "poached-norwegian-gruyere-crust",
-    "title": "Poached Norwegian Gruyère Crust",
+    "title": "Crust Crusted Poached Salmon with Gruyere Sauce",
     "tags": [
-      "norwegian",
-      "gruyère",
-      "poached",
-      "paleo-friendly",
-      "juicy"
+      "salmon",
+      "gruyere",
+      "crust",
+      "easy-dinner"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 75,
+    "cuisine": "European",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -9474,17 +9478,15 @@
   },
   {
     "slug": "pretty-piquant-british-turkey-mince-afternoon-tea-sandwich",
-    "title": "Pretty Piquant British Turkey Mince Afternoon Tea Sandwich",
+    "title": "British Afternoon Tea Sandwich",
     "tags": [
-      "afternoon-tea",
-      "british-cuisine",
-      "easy-to-make",
-      "nutty-flavors",
-      "satvik-friendly",
-      "weeknight"
+      "british",
+      "teatime",
+      "sandwich",
+      "turkey"
     ],
     "cuisine": "British",
-    "totalTimeMin": 45,
+    "totalTimeMin": 15,
     "shard": "p"
   },
   {
