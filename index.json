@@ -5674,18 +5674,16 @@
   },
   {
     "slug": "piled-high-in-bento-box-argentinian-lamb-asado",
-    "title": "Piled High in Bento Box Argentinian Lamb Asado",
+    "title": "Argentinian Asado Lamb",
     "tags": [
-      "argentinian",
-      "asado",
       "grilled",
       "lamb",
-      "one-pan",
-      "pastry",
-      "weeknight"
+      "asado",
+      "argentinian",
+      "summer"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 230,
+    "totalTimeMin": 60,
     "shard": "p"
   },
   {
