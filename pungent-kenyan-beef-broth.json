@@ -1,0 +1,82 @@
+{
+  "slug": "pungent-kenyan-beef-broth",
+  "title": "Kenyan Beef Stew",
+  "description": "A hearty, flavorful stew inspired by the cuisine of Kenya, featuring tender beef and a rich, savory broth.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "broth",
+      "amount": "2 cups",
+      "notes": "beef broth"
+    },
+    {
+      "name": "pungent",
+      "amount": "1 tablespoon",
+      "notes": "grated ginger or garlic"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the broth, pungent, salt, and pepper, and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours, or until the beef is tender.",
+    "Add the tomato and water (if using) and continue to simmer for another 30 minutes.",
+    "Serve hot, garnished with chopped fresh herbs (optional).",
+    "Serve over rice, noodles, or with some crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "beef",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-kenyan-beef-broth",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T13:57:46.525Z"
+}
