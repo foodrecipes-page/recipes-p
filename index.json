@@ -7900,17 +7900,15 @@
   },
   {
     "slug": "piquant-turkish-eggplant-dolma",
-    "title": "Piquant Turkish Eggplant Dolma",
+    "title": "Turkish Stuffed Eggplant Dolma",
     "tags": [
-      "dairy-free",
-      "dinner",
-      "eggplant",
-      "low-carb",
-      "one-pot",
-      "turkish"
+      "turkish",
+      "stuffed-eggplant",
+      "dolma",
+      "vegetarian"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 55,
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
