@@ -16,16 +16,15 @@
   },
   {
     "slug": "packed-dense-spanish-perilla-leaf-paella",
-    "title": "Spanish Perilla Leaf Paella",
+    "title": "Spanish Perilla Paella",
     "tags": [
-      "mildly-spicy",
-      "one-pan",
-      "rice-based",
-      "spanish-cuisine",
-      "weeknight"
+      "spanish",
+      "paella",
+      "perilla",
+      "vegetarian"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -4339,14 +4338,11 @@
   },
   {
     "slug": "peppery-quick-indian-kidney-beans-rajma",
-    "title": "Peppery Quick Indian Kidney Beans Rajma",
+    "title": "Rajma Masala",
     "tags": [
-      "halal-friendly",
-      "high-protein",
-      "indian-cuisine",
-      "one-pot",
-      "quick-fix",
-      "spicy"
+      "indian",
+      "kidney-beans",
+      "lentil-curry"
     ],
     "cuisine": "Indian",
     "totalTimeMin": 35,
@@ -7689,18 +7685,15 @@
   },
   {
     "slug": "piquant-smoky-greek-feta-tiropita",
-    "title": "Piquant Smoky Greek Feta Tiropita",
+    "title": "Greek Tiropita",
     "tags": [
-      "filo-dough",
-      "greek-food",
-      "jain-friendly",
-      "smoky",
-      "snack-time",
-      "spicy",
-      "vegetarian"
+      "greek",
+      "cheese",
+      "pie",
+      "snack"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
@@ -9270,17 +9263,16 @@
   },
   {
     "slug": "potent-crispy-peruvian-chicken-skillet",
-    "title": "Potent Crispy Peruvian Chicken Skillet",
+    "title": "Crispy Chicken Skillet with Peruvian Flair",
     "tags": [
       "chicken",
-      "dairy-free",
-      "gluten-free",
-      "one-pot",
+      "skillet",
       "peruvian",
-      "weeknight"
+      "spicy",
+      "latin-american"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "cuisine": "Latin American",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
