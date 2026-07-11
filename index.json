@@ -10574,16 +10574,14 @@
   },
   {
     "slug": "pungent-kenyan-beef-broth",
-    "title": "Pungent Kenyan Beef Broth",
+    "title": "Kenyan Beef Stew",
     "tags": [
-      "beef-broth",
-      "comfort-food",
-      "easy-dinner",
       "kenyan",
-      "sick-day"
+      "beef",
+      "stew"
     ],
-    "cuisine": "kenyan",
-    "totalTimeMin": 70,
+    "cuisine": "Kenyan",
+    "totalTimeMin": 110,
     "shard": "p"
   },
   {
@@ -11624,15 +11622,13 @@
   },
   {
     "slug": "pureed-syrian-mulukhiyah-stew",
-    "title": "Pureed Syrian Mulukhiyah Stew",
+    "title": "Mulukhiyah Stew",
     "tags": [
-      "comfort-food",
-      "kid-friendly",
-      "kosher-friendly",
-      "one-pot",
-      "syrian-cuisine"
+      "mulukhiyah",
+      "middle eastern",
+      "stew"
     ],
-    "cuisine": "Syrian",
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 40,
     "shard": "p"
   },
