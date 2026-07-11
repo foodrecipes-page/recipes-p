@@ -8694,15 +8694,16 @@
   },
   {
     "slug": "plush-vietnamese-stilton-pho",
-    "title": "Plush Vietnamese Stilton Pho",
+    "title": "Stilton and Plush Pho",
     "tags": [
-      "date-night",
-      "easy",
-      "lacto-vegetarian",
-      "pho"
+      "pho",
+      "stilton",
+      "noodles",
+      "cheese",
+      "vegan"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 15,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
