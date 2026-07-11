@@ -8863,14 +8863,15 @@
   },
   {
     "slug": "poached-moroccan-courgette-stir-fry",
-    "title": "Poached Moroccan Courgette Stir-fry",
+    "title": "Moroccan-Style Stir-Fried Courgette",
     "tags": [
-      "moroccan-dish",
-      "poached-courgette",
-      "vegetarian-protein"
+      "moroccan",
+      "stir-fry",
+      "courgette",
+      "vegetarian"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "p"
   },
   {
