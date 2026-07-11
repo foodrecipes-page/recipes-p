@@ -1,0 +1,62 @@
+{
+  "slug": "peppery-chewy-italian-lamb-stir-fry",
+  "title": "Pan-Seared Lamb Chops with Italian Seasoning",
+  "description": "A simple and flavorful dish featuring lamb chops seasoned with Italian herbs, then seared to perfection. This recipe is perfect for a quick weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Chops",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Peppery Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Stir-fried Onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the peppery olive oil in a skillet over medium-high heat.",
+    "Season the lamb chops with Italian seasoning.",
+    "Sear the lamb chops in the skillet for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "Transfer the lamb chops to a plate and let rest for a few minutes.",
+    "Stir-fry the onions in the same skillet until they're softened and lightly browned.",
+    "Serve the lamb chops with the stir-fried onions on top.",
+    "Enjoy your delicious and easy-to-make lamb chops!",
+    "Note: Use a meat thermometer to ensure the lamb chops have reached a safe internal temperature of 145°F (63°C) for medium-rare."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "lamb",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-chewy-italian-lamb-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T22:35:15.321Z"
+}
