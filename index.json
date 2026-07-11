@@ -1691,17 +1691,14 @@
   },
   {
     "slug": "peppery-chewy-italian-lamb-stir-fry",
-    "title": "Peppery Chewy Italian Lamb Stir-fry",
+    "title": "Pan-Seared Lamb Chops with Italian Seasoning",
     "tags": [
-      "peppery",
-      "chewy",
       "italian",
       "lamb",
-      "stir-fry",
-      "nut-free-friendly"
+      "gluten-free"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -6266,19 +6263,15 @@
   },
   {
     "slug": "pillowy-vietnamese-cod-bao",
-    "title": "pillowy vietnamese cod bao",
+    "title": "Baked Cod with Vietnamese Bao and Dipping Sauce",
     "tags": [
-      "ayurvedic-tamasic-friendly",
       "fish",
-      "fish-sauce",
-      "kid-friendly",
-      "one-pan",
-      "snack",
-      "vegetarian",
-      "vietnamese"
+      "vietnamese",
+      "bao",
+      "dipping sauce"
     ],
-    "cuisine": "vietnamese",
-    "totalTimeMin": 45,
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -8634,17 +8627,14 @@
   },
   {
     "slug": "plush-portuguese-bean-stew",
-    "title": "Plush Portuguese Bean Stew",
+    "title": "Hearty Portuguese Bean Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "mediterranean-inspired",
-      "one-pot",
-      "portuguese-cuisine",
-      "vegetarian"
+      "portuguese",
+      "stew",
+      "beans"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 55,
     "shard": "p"
   },
   {
@@ -10706,16 +10696,15 @@
   },
   {
     "slug": "pungent-norwegian-uni-gratin",
-    "title": "Pungent Norwegian Uni Gratin",
+    "title": "Pan-Seared Uni with Pungent Gratin",
     "tags": [
+      "seafood",
+      "uni",
       "gratin",
-      "high-protein",
-      "post-workout",
-      "sea-urchin",
-      "weeknight"
+      "norwegian"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
