@@ -1,0 +1,86 @@
+{
+  "slug": "pureed-syrian-mulukhiyah-stew",
+  "title": "Mulukhiyah Stew",
+  "description": "A hearty and flavorful Middle Eastern stew made with mulukhiyah and served with a side of pureed sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mulukhiyah",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "canned or homemade"
+    },
+    {
+      "name": "pureed",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped mulukhiyah and cook for 5 minutes, or until it starts to soften.",
+    "Add the stew, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20-25 minutes, or until the mulukhiyah is tender.",
+    "Serve the stew with a side of pureed sauce, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mulukhiyah",
+    "middle eastern",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pureed-syrian-mulukhiyah-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T14:07:30.366Z"
+}
