@@ -1,0 +1,78 @@
+{
+  "slug": "pan-roasted-greek-lamb-souvlaki-kadhai",
+  "title": "Lamb Souvlaki with Roasted Vegetables",
+  "description": "A classic Greek-inspired dish featuring marinated lamb souvlaki served with a variety of roasted vegetables.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Souvlaki",
+      "amount": "500g",
+      "notes": "marinated for at least 30 minutes"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Greek oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Season the lamb souvlaki with salt, pepper, and Greek oregano.",
+    "Heat a pan over medium-high heat and cook the lamb souvlaki for 3-4 minutes per side, or until browned.",
+    "Transfer the lamb to a baking sheet and roast in the oven for 10-12 minutes, or until cooked through.",
+    "Toss the red bell pepper and yellow onion with olive oil, salt, and pepper on a separate baking sheet.",
+    "Roast the vegetables in the oven for 20-25 minutes, or until tender and lightly charred.",
+    "Stir in the kalamata olives and feta cheese with the roasted vegetables.",
+    "Serve the lamb souvlaki with the roasted vegetables and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "souvlaki",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-roasted-greek-lamb-souvlaki-kadhai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T12:22:07.891Z"
+}
