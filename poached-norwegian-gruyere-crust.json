@@ -1,0 +1,74 @@
+{
+  "slug": "poached-norwegian-gruyere-crust",
+  "title": "Crust Crusted Poached Salmon with Gruyere Sauce",
+  "description": "A simple yet elegant dish that combines the delicate flavors of poached salmon with the richness of a crust crust and the creaminess of gruyere sauce.",
+  "cuisine": "European",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillet (6 oz)",
+      "amount": "1",
+      "notes": "Norwegian"
+    },
+    {
+      "name": "Crust (1 cup)",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Gruyere cheese (1 cup)",
+      "amount": "",
+      "notes": "grated"
+    },
+    {
+      "name": "Butter (2 tbsp)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice (2 tbsp)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the salmon fillet with salt and pepper.",
+    "Dip the salmon fillet in the crust, pressing the crust onto the fish to adhere.",
+    "Place the crust-coated salmon on a baking sheet lined with parchment paper.",
+    "Drizzle the top of the salmon with a little bit of butter and lemon juice.",
+    "Bake the salmon in the preheated oven for 12-15 minutes, or until cooked through.",
+    "While the salmon is baking, melt the remaining butter in a saucepan over medium heat.",
+    "Add the grated Gruyere cheese to the saucepan and stir until melted and smooth.",
+    "Serve the salmon with the Gruyere sauce spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "salmon",
+    "gruyere",
+    "crust",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/poached-norwegian-gruyere-crust",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T02:52:11.261Z"
+}
