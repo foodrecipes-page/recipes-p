@@ -6518,17 +6518,15 @@
   },
   {
     "slug": "piquant-brazilian-gouda-skewers",
-    "title": "Piquant Brazilian Gouda Skewers",
+    "title": "Grilled Gouda Skewers",
     "tags": [
-      "brazilian",
-      "cheese",
       "grilled",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "cheese",
+      "appetizer",
+      "snack"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 28,
+    "cuisine": "Dutch",
+    "totalTimeMin": 18,
     "shard": "p"
   },
   {
