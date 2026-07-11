@@ -1,0 +1,78 @@
+{
+  "slug": "piquant-smoky-greek-feta-tiropita",
+  "title": "Greek Tiropita",
+  "description": "A classic Greek savory cheese pie, flaky and flavorful. Perfect as a snack or light lunch.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tiropita dough",
+      "amount": "1 package",
+      "notes": "available at most Greek markets"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 block",
+      "notes": "crumbly and salty"
+    },
+    {
+      "name": "piquant peppers",
+      "amount": "2",
+      "notes": "adds a bit of heat"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 tsp",
+      "notes": "smoky flavor"
+    },
+    {
+      "name": "greek herbs",
+      "amount": "1 tsp",
+      "notes": "dried oregano and thyme"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out tiropita dough to a thickness of 1/8 inch.",
+    "In a bowl, mix crumbled feta cheese, chopped piquant peppers, smoked paprika, Greek herbs, salt, and black pepper.",
+    "Spread the feta mixture evenly over the dough, leaving a 1/2 inch border around the edges.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Brush the top of the tiropita with a little water and sprinkle with a pinch of salt.",
+    "Bake for 25-30 minutes, or until golden brown.",
+    "Serve warm, sliced into wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "cheese",
+    "pie",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-smoky-greek-feta-tiropita",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T17:51:02.410Z"
+}
