@@ -1,0 +1,66 @@
+{
+  "slug": "peppery-crispy-kenyan-haddock-skewers",
+  "title": "Kenyan-Style Grilled Haddock Skewers",
+  "description": "A flavorful and healthy seafood skewer recipe inspired by Kenyan cuisine, featuring haddock, peppers, and onions.",
+  "cuisine": "kenyan",
+  "diet": [
+    "seafood",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Haddock fillets",
+      "amount": "4",
+      "notes": "about 1 pound total"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "2",
+      "notes": "sliced into large pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "sliced into large pieces"
+    },
+    {
+      "name": "Kenyan seasoning",
+      "amount": "2 tablespoons",
+      "notes": "available at most African markets"
+    },
+    {
+      "name": "Crusty bread",
+      "amount": "4-6 pieces",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread haddock, red bell pepper, and onion onto skewers.",
+    "Season with Kenyan seasoning and brush with olive oil.",
+    "Grill the skewers for 8-10 minutes per side, or until the fish is cooked through.",
+    "Serve with crusty bread for dipping in the juices."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "seafood",
+    "grilled",
+    "kenyan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crispy-kenyan-haddock-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:25:58.546Z"
+}
