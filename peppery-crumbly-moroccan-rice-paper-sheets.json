@@ -1,0 +1,63 @@
+{
+  "slug": "peppery-crumbly-moroccan-rice-paper-sheets",
+  "title": "Moroccan Stuffed Crispy Rice Sheets",
+  "description": "A crispy Moroccan-inspired dish made with stuffed rice sheets. Perfect as a snack or dessert.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "peppery",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh peppercorns"
+    },
+    {
+      "name": "crumbly",
+      "amount": "1/2 cup",
+      "notes": "crumbly pastry or crackers"
+    },
+    {
+      "name": "moroccan",
+      "amount": "2 tsp",
+      "notes": "ground cumin and coriander"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Prepare the rice according to the package instructions.",
+    "Mix the chopped peppercorns, crumbly pastry, and Moroccan spices into the cooked rice.",
+    "Lay out the sheets of paper (or parchment paper) on a flat surface.",
+    "Place a tablespoon of the rice mixture onto one corner of each sheet.",
+    "Fold the sheet into a triangle, pressing the edges to seal.",
+    "Brush the tops with a little water and sprinkle with a pinch of salt.",
+    "Bake for 15-20 minutes or until crispy and golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "snack",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crumbly-moroccan-rice-paper-sheets",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T02:01:02.686Z"
+}
