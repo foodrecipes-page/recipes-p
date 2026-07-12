@@ -9059,15 +9059,12 @@
   },
   {
     "slug": "pork-flavored-thai-rice-tom-kha-noodle",
-    "title": "Pork-Flavored Thai Rice Tom Kha Noodle",
+    "title": "Thai Pork Noodle Soup",
     "tags": [
-      "coconutmilk",
-      "highprotein",
-      "jain",
+      "pork",
       "noodle",
-      "thaifood",
-      "tomkha",
-      "weeknight"
+      "soup",
+      "thai"
     ],
     "cuisine": "Thai",
     "totalTimeMin": 35,
@@ -11197,17 +11194,14 @@
   },
   {
     "slug": "pungent-southern-thai-duck-curry",
-    "title": "Pungent Southern Thai Duck Curry",
+    "title": "Spicy Thai Duck Curry",
     "tags": [
-      "duck-recipes",
-      "korean-brass-bowl",
-      "raw-friendly",
-      "southern-thai",
-      "spicy",
-      "thai-curry"
+      "thai-cuisine",
+      "curry",
+      "duck"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
