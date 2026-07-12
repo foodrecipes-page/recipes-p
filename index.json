@@ -2815,17 +2815,16 @@
   },
   {
     "slug": "peppery-filipino-kabanos-skewers",
-    "title": "Peppery Filipino Kabanos Skewers",
+    "title": "Filipino Kabanos Skewers",
     "tags": [
-      "filipino-food",
-      "gluten-free",
+      "filipino",
+      "kabanos",
       "grilled",
-      "meat-based",
-      "mediterranean-friendly",
-      "quick-fix"
+      "skewers",
+      "snack"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 25,
+    "totalTimeMin": 27,
     "shard": "p"
   },
   {
@@ -6484,18 +6483,15 @@
   },
   {
     "slug": "piquant-bitter-dutch-millet-stew",
-    "title": "Piquant Bitter Dutch Millet Stew",
+    "title": "Millet Stew with Piquant Flavor",
     "tags": [
-      "bitter",
-      "date-night",
-      "dutch",
       "millet",
-      "paleo-friendly",
-      "slow-cook",
-      "spicy"
+      "stew",
+      "piquant",
+      "vegetarian"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 165,
+    "cuisine": "international",
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
