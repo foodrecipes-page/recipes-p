@@ -1,0 +1,73 @@
+{
+  "slug": "piquant-bitter-dutch-millet-stew",
+  "title": "Millet Stew with Piquant Flavor",
+  "description": "A hearty millet stew infused with a tangy piquant flavor. Perfect for a cold winter evening.",
+  "cuisine": "international",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "millet",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dutch carrots",
+      "amount": "2 medium, peeled and chopped"
+    },
+    {
+      "name": "piquant",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "stew tomatoes",
+      "amount": "1 can (14.5 oz), diced"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp oil in a large pan over medium heat.",
+    "Add millet and cook for 2-3 minutes, until lightly toasted.",
+    "Add chopped carrots, piquant, and bitter melon. Cook for 5 minutes.",
+    "Add diced tomatoes, water, salt, and pepper. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer for 20-25 minutes, or until millet is tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "millet",
+    "stew",
+    "piquant",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-bitter-dutch-millet-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:50:22.425Z"
+}
