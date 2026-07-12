@@ -582,17 +582,16 @@
   },
   {
     "slug": "pan-seared-italian-pork-chops-gratin",
-    "title": "Pan Seared Italian Pork Chops Gratin",
+    "title": "Pan-Seared Pork Chops with Italian Gratin",
     "tags": [
-      "comfort-food",
-      "high-protein",
       "italian",
-      "one-pan",
-      "pork-chops",
-      "weeknight"
+      "pork",
+      "gratin",
+      "creamy",
+      "parmesan"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 50,
+    "cuisine": "italian",
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -2156,16 +2155,15 @@
   },
   {
     "slug": "peppery-crispy-kenyan-haddock-skewers",
-    "title": "Peppery Crispy Kenyan Haddock Skewers",
+    "title": "Kenyan-Style Grilled Haddock Skewers",
     "tags": [
-      "kenyan-cuisine",
-      "low-carb",
-      "gluten-free",
       "seafood",
-      "fermented-food"
+      "grilled",
+      "kenyan",
+      "gluten-free"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "kenyan",
+    "totalTimeMin": 28,
     "shard": "p"
   },
   {
@@ -8446,14 +8444,15 @@
   },
   {
     "slug": "plum-jamded-greek-citrus-crumble",
-    "title": "Plum Jam-Dotted Greek Citrus Crumble",
+    "title": "Citrus Crumble Plum Crisp",
     "tags": [
-      "plum-jam",
-      "greek-yogurt",
-      "orange-juice-crumble"
+      "plum",
+      "crumble",
+      "dessert",
+      "citrus"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 50,
     "shard": "p"
   },
   {
@@ -11969,17 +11968,14 @@
   },
   {
     "slug": "purely-lacquered-mediterranean-eggplant-skewers",
-    "title": "Purely Lacquered Mediterranean Eggplant Skewers",
+    "title": "Grilled Eggplant Skewers with Mediterranean Flavor",
     "tags": [
-      "healthy-eating",
-      "macrobiotic-diet",
-      "mediterranean-diet",
-      "monsoon-recipes",
-      "vegan-friendly",
-      "vegetarian-recipe"
+      "eggplant",
+      "skewers",
+      "grilled"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 18,
     "shard": "p"
   },
   {
