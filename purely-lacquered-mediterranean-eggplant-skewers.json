@@ -1,0 +1,72 @@
+{
+  "slug": "purely-lacquered-mediterranean-eggplant-skewers",
+  "title": "Grilled Eggplant Skewers with Mediterranean Flavor",
+  "description": "A simple and flavorful grilled eggplant recipe that combines the sweetness of eggplant with the savory flavors of the Mediterranean.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 large"
+    },
+    {
+      "name": "Mediterranean skewers (available in most supermarkets)",
+      "amount": "1 pack"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Lacquered cherry tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut the eggplant into 1-inch cubes.",
+    "Thread the eggplant, cherry tomatoes, garlic, and parsley onto the skewers.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Grill the skewers for 3-4 minutes per side, or until the eggplant is tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "eggplant",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-lacquered-mediterranean-eggplant-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:46:05.041Z"
+}
