@@ -1,0 +1,67 @@
+{
+  "slug": "peppery-gooey-mediterranean-feta-dumplings",
+  "title": "Mediterranean Feta Dumplings",
+  "description": "A crispy, savory dumpling filled with a tangy feta cheese and mediterranean herb mixture. Perfect for a snack or light meal.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dumplings",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "feta",
+      "amount": "1/2 cup crumbled",
+      "notes": "low-fat or reduced-sodium"
+    },
+    {
+      "name": "peppery",
+      "amount": "2 tablespoons chopped fresh parsley",
+      "notes": "or dill for variation"
+    },
+    {
+      "name": "gooey",
+      "amount": "1 tablespoon olive oil",
+      "notes": "for cooking"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "1 tablespoon chopped kalamata olives",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Wrap each dumpling with a small piece of parchment paper and secure with a toothpick.",
+    "In a small bowl, mix together crumbled feta, chopped parsley, and chopped olives.",
+    "Place a spoonful of the feta mixture onto each dumpling.",
+    "Brush the tops with olive oil and sprinkle with a pinch of salt.",
+    "Bake for 12-15 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": "2-3",
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "cheese",
+    "dumplings",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 14,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-gooey-mediterranean-feta-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:32:35.937Z"
+}
