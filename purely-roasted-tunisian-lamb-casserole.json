@@ -1,0 +1,90 @@
+{
+  "slug": "purely-roasted-tunisian-lamb-casserole",
+  "title": "Tunisian Lamb Casserole",
+  "description": "A hearty and flavorful casserole dish featuring lamb and a blend of Tunisian spices.",
+  "cuisine": "North African",
+  "diet": [
+    "Gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Stir in the Tunisian spice blend and cook for 1 minute.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the chickpeas, rice, and water. Stir to combine.",
+    "Bring the mixture to a boil, then cover the Dutch oven and transfer it to the preheated oven.",
+    "Bake for 30 minutes, then reduce the heat to 325°F (165°C) and continue baking for an additional 20-25 minutes, or until the lamb is tender.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tunisian",
+    "casserole",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-roasted-tunisian-lamb-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:52:43.931Z"
+}
