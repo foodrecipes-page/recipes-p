@@ -1,0 +1,56 @@
+{
+  "slug": "peppery-crumbly-canadian-rolled-oats-stir-fry",
+  "title": "Crunchy Canadian Oat Bites",
+  "description": "A sweet and crunchy snack made with rolled oats and a hint of Canadian flavor. Perfect for on-the-go.",
+  "cuisine": "North American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Peppery",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Canadian",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Crumbly",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a large mixing bowl, combine rolled oats, peppery, and crumbly.",
+    "Add Canadian flavorings and stir until well combined.",
+    "Use a spoon to drop small balls of the mixture onto a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until lightly golden brown.",
+    "Allow to cool completely before storing in an airtight container."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "oats",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crumbly-canadian-rolled-oats-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:58:07.547Z"
+}
