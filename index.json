@@ -4278,14 +4278,16 @@
   },
   {
     "slug": "peppery-peruvian-tortilla-wrap",
-    "title": "Peppery Peruvian Tortilla Wrap",
+    "title": "Crispy Peruvian Tortilla Wrap",
     "tags": [
-      "peppery",
       "peruvian",
-      "low-calorie-friendly"
+      "tortilla",
+      "wrap",
+      "lunch",
+      "vegetarian"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "p"
   },
   {
@@ -11205,17 +11207,16 @@
   },
   {
     "slug": "pungent-spicy-tunisian-vegetable-tagine",
-    "title": "Pungent Spicy Tunisian Vegetable Tagine",
+    "title": "Tunisian Vegetable Tagine",
     "tags": [
-      "flavorful",
-      "one-pot",
-      "spicy",
+      "north-african",
+      "vegetarian",
       "stew",
-      "tunisian",
-      "vegetarian"
+      "tagine",
+      "middle-eastern"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
