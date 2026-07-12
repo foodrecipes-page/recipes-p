@@ -1065,14 +1065,15 @@
   },
   {
     "slug": "paneer-blanched-taj-mahal",
-    "title": "Paneer Blanched Taj Mahal",
+    "title": "Taj Mahal Paneer Tikka",
     "tags": [
+      "indian",
       "paneer",
-      "taj mahal",
+      "tikka",
       "vegetarian"
     ],
-    "cuisine": "vegetarian",
-    "totalTimeMin": 40,
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
@@ -10388,17 +10389,16 @@
   },
   {
     "slug": "pungent-goey-malaysian-feta-curry",
-    "title": "Pungent Gooey Malaysian Feta Curry",
+    "title": "Malaysian Curry Feta Fritters",
     "tags": [
-      "comfort-food",
+      "malaysian",
       "curry",
       "feta",
-      "malaysian",
-      "one-pan",
-      "weeknight"
+      "fritters",
+      "snack"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
