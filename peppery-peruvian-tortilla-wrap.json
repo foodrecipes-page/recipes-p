@@ -1,0 +1,81 @@
+{
+  "slug": "peppery-peruvian-tortilla-wrap",
+  "title": "Crispy Peruvian Tortilla Wrap",
+  "description": "A twist on traditional wraps, this Peruvian-inspired dish combines crispy tortilla with peppery flavors.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tortilla",
+      "amount": "2",
+      "notes": "Large flour tortillas"
+    },
+    {
+      "name": "Peppery Sauce",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1/4 cup",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "Wrap Filling",
+      "amount": "1 cup",
+      "notes": "Cooked beans, corn, and diced vegetables"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "For frying tortilla"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Fry tortilla for 2-3 minutes on each side, until crispy and golden.",
+    "Transfer tortilla to a paper towel-lined plate to drain excess oil.",
+    "Spread peppery sauce evenly over the tortilla, leaving a 1-inch border around the edges.",
+    "Sprinkle shredded cheese over the sauce.",
+    "Add wrap filling, followed by a sprinkle of chopped cilantro.",
+    "Drizzle lime juice over the top.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cut into halves or quarters, depending on serving size.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "tortilla",
+    "wrap",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-peruvian-tortilla-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:57:01.398Z"
+}
