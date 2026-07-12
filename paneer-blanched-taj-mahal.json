@@ -1,0 +1,97 @@
+{
+  "slug": "paneer-blanched-taj-mahal",
+  "title": "Taj Mahal Paneer Tikka",
+  "description": "Marinated paneer cooked in a creamy tomato sauce and served with basmati rice. A classic Indian dish inspired by the flavors of the Taj Mahal.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "blanched"
+    },
+    {
+      "name": "taj mahal curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together the yogurt, curry paste, ghee or oil, cumin powder, coriander powder, and cayenne pepper. Add the paneer and mix to coat.",
+    "2. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "3. Heat a large skillet over medium-high heat. Remove the paneer from the marinade and cook until golden brown on all sides, about 5-7 minutes.",
+    "4. Transfer the paneer to a plate and set aside.",
+    "5. In the same skillet, add the diced onion and cook until translucent, about 3-4 minutes.",
+    "6. Add the grated ginger and cook for an additional minute.",
+    "7. Add the diced tomatoes and cook until they start to break down, about 3-4 minutes.",
+    "8. Add the cooked paneer back to the skillet and stir to combine with the tomato sauce.",
+    "9. Reduce the heat to medium-low and simmer, uncovered, for 5-7 minutes.",
+    "10. Taste and adjust the seasoning as needed.",
+    "11. Serve the paneer tikka hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "paneer",
+    "tikka",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/paneer-blanched-taj-mahal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T03:48:38.809Z"
+}
