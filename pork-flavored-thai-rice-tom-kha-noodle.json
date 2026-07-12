@@ -1,0 +1,77 @@
+{
+  "slug": "pork-flavored-thai-rice-tom-kha-noodle",
+  "title": "Thai Pork Noodle Soup",
+  "description": "A flavorful and spicy Thai-inspired noodle soup made with pork, rice noodles, and a flavorful tom kha broth.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "flavored pork broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces",
+      "notes": "dried"
+    },
+    {
+      "name": "tom kha paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "granulated"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Bring the pork broth to a boil in a large pot.",
+    "Add the tom kha paste and stir to combine.",
+    "Add the sliced pork and cook until browned.",
+    "Add the rice noodles and cook according to package instructions.",
+    "Stir in the fish sauce and sugar, if using.",
+    "Taste and adjust the seasoning with lime juice.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "noodle",
+    "soup",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pork-flavored-thai-rice-tom-kha-noodle",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:49:53.891Z"
+}
