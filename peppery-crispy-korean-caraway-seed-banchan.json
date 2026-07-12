@@ -1,0 +1,74 @@
+{
+  "slug": "peppery-crispy-korean-caraway-seed-banchan",
+  "title": "Spicy Korean-Style Fried Chicken Banchan",
+  "description": "A crispy and spicy Korean-inspired banchan dish using fried chicken. Best served as an appetizer or snack.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "peppery seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "crispy rice",
+      "amount": "1/2 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for frying"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, mix together flour, peppery seasoning.",
+    "2. Dredge chicken pieces in flour mixture.",
+    "3. Dip floured chicken in crispy rice for coating.",
+    "4. Heat 1-inch of vegetable oil in a large skillet over medium-high heat.",
+    "5. Fry chicken in batches until golden brown and cooked through.",
+    "6. In a small bowl, whisk together soy sauce.",
+    "7. Brush soy sauce mixture on fried chicken.",
+    "8. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "fried-chicken",
+    "spicy",
+    "banchan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crispy-korean-caraway-seed-banchan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:47:04.892Z"
+}
