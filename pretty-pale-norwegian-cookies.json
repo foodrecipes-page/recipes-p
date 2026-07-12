@@ -1,0 +1,73 @@
+{
+  "slug": "pretty-pale-norwegian-cookies",
+  "title": "Norwegian Cookies",
+  "description": "A traditional Norwegian cookie recipe with butter, sugar, and cardamom.",
+  "cuisine": "norwegian",
+  "diet": [
+    "dairy",
+    "sugar"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Whisk together the butter and sugar until light and fluffy.",
+    "Add the flour, cardamom, and vanilla extract to the butter mixture. Whisk until just combined.",
+    "Beat in the eggs until smooth.",
+    "Use a cookie scoop or spoon to drop rounded balls of dough onto a baking sheet lined with parchment paper.",
+    "Leave about 2 inches of space between each cookie.",
+    "Bake for 10-12 minutes, or until lightly golden.",
+    "Remove from the oven and let cool on the baking sheet for 5 minutes.",
+    "Transfer the cookies to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "cookies",
+    "norwegian",
+    "traditional",
+    "cardamom"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pretty-pale-norwegian-cookies",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T02:07:17.020Z"
+}
