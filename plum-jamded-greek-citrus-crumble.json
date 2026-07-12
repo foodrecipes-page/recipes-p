@@ -1,0 +1,66 @@
+{
+  "slug": "plum-jamded-greek-citrus-crumble",
+  "title": "Citrus Crumble Plum Crisp",
+  "description": "A sweet dessert combining the flavors of citrus and plum with a crunchy crumble topping.",
+  "cuisine": null,
+  "diet": [
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "plum",
+      "amount": "2 cups, fresh or frozen"
+    },
+    {
+      "name": "citrus",
+      "amount": "2 tablespoons, freshly squeezed orange juice"
+    },
+    {
+      "name": "greek",
+      "amount": "1/2 cup, greek yogurt"
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup, all-purpose flour"
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup, rolled oats"
+    },
+    {
+      "name": "crumble",
+      "amount": "1/2 cup, brown sugar"
+    },
+    {
+      "name": "crumble",
+      "amount": "1/2 cup, unsalted butter, melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, mix together the plums and citrus juice.",
+    "In a separate bowl, combine the greek yogurt and a pinch of salt.",
+    "Transfer the plum mixture to a 9x9-inch baking dish and top with the yogurt mixture.",
+    "In another bowl, combine the flour, oats, and brown sugar.",
+    "Add the melted butter to the dry ingredients and mix until crumbly.",
+    "Spread the crumble topping evenly over the plum mixture.",
+    "Bake for 40-50 minutes or until the topping is golden brown and the fruit is tender.",
+    "Serve warm with vanilla ice cream or whipped cream."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "plum",
+    "crumble",
+    "dessert",
+    "citrus"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/plum-jamded-greek-citrus-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:46:07.071Z"
+}
