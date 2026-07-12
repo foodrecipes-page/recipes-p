@@ -422,17 +422,15 @@
   },
   {
     "slug": "pan-seared-croatian-sausages-skewers",
-    "title": "Pan Seared Croatian Sausages Skewers",
+    "title": "Croatian Sausage Skewers",
     "tags": [
-      "croatian-cuisine",
-      "easy-dinner",
-      "german-inspired",
-      "low-fat",
-      "one-pan",
-      "weeknight"
+      "croatian",
+      "skewers",
+      "sausages",
+      "grilled"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 26,
     "shard": "p"
   },
   {
@@ -2415,16 +2413,14 @@
   },
   {
     "slug": "peppery-crumbly-canadian-rolled-oats-stir-fry",
-    "title": "Peppery Crumbly Canadian Rolled Oats Stir-fry",
+    "title": "Crunchy Canadian Oat Bites",
     "tags": [
-      "peppery",
-      "crumbly",
       "canadian",
-      "rolled oats",
-      "stir-fry"
+      "oats",
+      "snack"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "cuisine": "North American",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -6595,17 +6591,15 @@
   },
   {
     "slug": "piquant-chewy-german-beef-tagine",
-    "title": "Piquant Chewy German Beef Tagine",
+    "title": "German Beef Tagine Stew",
     "tags": [
-      "chewy",
-      "comfort-food",
       "german",
-      "mustard-ginger",
-      "paleo",
-      "tagine"
+      "beef",
+      "stew",
+      "hearty"
     ],
     "cuisine": "German",
-    "totalTimeMin": 75,
+    "totalTimeMin": 110,
     "shard": "p"
   },
   {
