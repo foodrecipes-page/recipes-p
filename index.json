@@ -7015,16 +7015,13 @@
     "slug": "piquant-indian-rice-kashmiri-khichdi",
     "title": "Kashmiri Khichdi",
     "tags": [
-      "gluten-free",
       "indian",
-      "kashmiri",
+      "breakfast",
       "lentils",
-      "rice-dish",
-      "vegetarian",
-      "weeknight"
+      "rice"
     ],
-    "cuisine": "indian",
-    "totalTimeMin": 40,
+    "cuisine": "Indian",
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
@@ -8459,14 +8456,15 @@
   },
   {
     "slug": "plum-pride-file-filipino-vegetable-dish",
-    "title": "Plum Pride Filé Filipino Vegetable Dish",
+    "title": "Plum Vegetable Stir Fry",
     "tags": [
-      "plum-joy",
-      "filipino-fiesta",
-      "vegetarian-friendly"
+      "stir-fry",
+      "vegetarian",
+      "gluten-free",
+      "quick"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 60,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -12220,17 +12218,15 @@
   },
   {
     "slug": "purely-roasted-tunisian-lamb-casserole",
-    "title": "Purely Roasted Tunisian Lamb Casserole",
+    "title": "Tunisian Lamb Casserole",
     "tags": [
+      "lamb",
+      "tunisian",
       "casserole",
-      "lamb-recipes",
-      "low-fat",
-      "one-pan",
-      "roasted-meat",
-      "tunisian-cuisine"
+      "north-african"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 90,
+    "cuisine": "North African",
+    "totalTimeMin": 70,
     "shard": "p"
   },
   {
