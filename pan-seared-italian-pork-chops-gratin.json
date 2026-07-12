@@ -1,0 +1,95 @@
+{
+  "slug": "pan-seared-italian-pork-chops-gratin",
+  "title": "Pan-Seared Pork Chops with Italian Gratin",
+  "description": "Tender pork chops seared to perfection, served with a creamy Italian-inspired gratin.",
+  "cuisine": "italian",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4",
+      "notes": "1.5 pounds, boneless"
+    },
+    {
+      "name": "grated Parmesan",
+      "amount": "1/2 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for searing"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "for gratin"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "for gratin"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "2 tablespoons",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season pork chops with salt and pepper.",
+    "Dust pork chops with flour.",
+    "Heat olive oil in a skillet over medium-high heat.",
+    "Sear pork chops for 2-3 minutes per side, or until browned.",
+    "Transfer skillet to preheated oven and bake for 12-15 minutes, or until cooked through.",
+    "While pork chops are cooking, prepare gratin.",
+    "In a separate saucepan, melt butter over medium heat.",
+    "Add garlic and cook for 1 minute, or until fragrant.",
+    "Pour in heavy cream and bring to a simmer.",
+    "Reduce cream by half, stirring constantly.",
+    "Stir in Parmesan and Italian seasoning.",
+    "Transfer gratin to a serving dish and top with seared pork chops.",
+    "Garnish with parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pork",
+    "gratin",
+    "creamy",
+    "parmesan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 20,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-italian-pork-chops-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:44:58.908Z"
+}
