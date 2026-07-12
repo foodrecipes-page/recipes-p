@@ -1,0 +1,90 @@
+{
+  "slug": "peppery-filipino-kabanos-skewers",
+  "title": "Filipino Kabanos Skewers",
+  "description": "A fusion of Filipino and Eastern European flavors, these skewers are perfect for a quick and easy snack or appetizer.",
+  "cuisine": "Filipino",
+  "diet": [
+    "pork"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kabanos",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Peppery Filipino Pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Skewers",
+      "amount": "1 package",
+      "notes": "wooden or metal, 10-12 inches long"
+    },
+    {
+      "name": "Pineapple",
+      "amount": "1 cup",
+      "notes": "fresh, chunks"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup",
+      "notes": "fresh, chunks"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 cup",
+      "notes": "fresh, chunks"
+    },
+    {
+      "name": "Bamboo sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Patis",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Soak bamboo skewers in water for at least 30 minutes.",
+    "3. Thread 1-2 pieces of kabanos onto each skewer.",
+    "4. Thread 1-2 pieces of peppery Filipino pork onto each skewer.",
+    "5. Thread 1 piece of pineapple, onion, and tomato onto each skewer.",
+    "6. Brush bamboo sauce on both sides of the kabanos and pork.",
+    "7. Grill skewers for 5-7 minutes per side, or until kabanos is lightly charred.",
+    "8. Brush with patis during last minute of grilling.",
+    "9. Serve hot, garnished with garlic."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "kabanos",
+    "grilled",
+    "skewers",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-filipino-kabanos-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:50:29.359Z"
+}
