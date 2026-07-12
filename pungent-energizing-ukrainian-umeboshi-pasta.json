@@ -1,0 +1,68 @@
+{
+  "slug": "pungent-energizing-ukrainian-umeboshi-pasta",
+  "title": "Ukrainian Umeboshi Pasta",
+  "description": "A fusion of traditional Ukrainian flavors and Japanese umeboshi plums, served on top of a simple pasta dish.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "umeboshi plums",
+      "amount": "4-6 plums, chopped"
+    },
+    {
+      "name": "pungent garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "energizing olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ukrainian dill",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions.",
+    "In a pan, heat olive oil over medium heat.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add chopped umeboshi plums and cook for 2-3 minutes.",
+    "Add chopped dill and cook for another minute.",
+    "Combine cooked pasta and plum mixture.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "japanese",
+    "vegan",
+    "pasta",
+    "umeboshi"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-energizing-ukrainian-umeboshi-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:47:47.061Z"
+}
