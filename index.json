@@ -2170,18 +2170,15 @@
   },
   {
     "slug": "peppery-crispy-korean-caraway-seed-banchan",
-    "title": "peppery crispy korean caraway seed banchan",
+    "title": "Spicy Korean-Style Fried Chicken Banchan",
     "tags": [
-      "caraway-seed",
-      "gluten-free",
-      "high-protein",
-      "korean-side-dish",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "korean",
+      "fried-chicken",
+      "spicy",
+      "banchan"
     ],
-    "cuisine": "korean",
-    "totalTimeMin": 32,
+    "cuisine": "Korean",
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
@@ -4615,14 +4612,16 @@
   },
   {
     "slug": "peppery-syrian-cheese-crumble",
-    "title": "Peppery Syrian Cheese Crumble",
+    "title": "Syrian Peppery Crumble Frittata",
     "tags": [
-      "peppery",
-      "crumble",
-      "syracuse"
+      "breakfast",
+      "brunch",
+      "middle-eastern",
+      "vegetarian",
+      "egg-dish"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 20,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
