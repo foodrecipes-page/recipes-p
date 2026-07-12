@@ -1,0 +1,81 @@
+{
+  "slug": "pungent-southern-thai-duck-curry",
+  "title": "Spicy Thai Duck Curry",
+  "description": "A flavorful and spicy curry made with tender duck, served with steamed rice. This Thai-inspired dish is perfect for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "pungent"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Southern-style okra",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add curry paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add duck breast and cook, until browned on all sides.",
+    "Add coconut milk, okra, fish sauce, brown sugar, and rice vinegar. Stir to combine.",
+    "Bring the mixture to a simmer, then reduce heat to low and cook, covered, for 20-25 minutes, or until duck is cooked through.",
+    "Season with salt to taste.",
+    "Serve with steamed rice and garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-cuisine",
+    "curry",
+    "duck"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-southern-thai-duck-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:28:33.315Z"
+}
