@@ -1,0 +1,73 @@
+{
+  "slug": "plum-pride-file-filipino-vegetable-dish",
+  "title": "Plum Vegetable Stir Fry",
+  "description": "A simple and flavorful stir fry made with plums, vegetables, and a hint of sweetness. Perfect as a side dish or a quick snack.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "plum",
+      "amount": "2 cups, sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced vegetables and cook until tender, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced plums and cook for 2-3 minutes, until they start to soften.",
+    "In a small bowl, whisk together soy sauce and honey until well combined.",
+    "Pour the sauce over the plum and vegetable mixture, and stir to coat.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "gluten-free",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/plum-pride-file-filipino-vegetable-dish",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:55:39.467Z"
+}
