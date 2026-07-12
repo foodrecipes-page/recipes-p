@@ -1,0 +1,93 @@
+{
+  "slug": "piquant-chewy-german-beef-tagine",
+  "title": "German Beef Tagine Stew",
+  "description": "A hearty German-inspired stew with tender beef and a rich tagine flavor. Piquant and chewy textures add depth to this comforting dish.",
+  "cuisine": "German",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "german",
+      "amount": "1 tablespoon",
+      "notes": "German seasoning blend"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 tablespoon",
+      "notes": "tagine spice blend"
+    },
+    {
+      "name": "chewy",
+      "amount": "1 cup",
+      "notes": "chewy bread, cubed"
+    },
+    {
+      "name": "piquant",
+      "amount": "1/4 cup",
+      "notes": "piquant sauce (such as chutney)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add onion, carrot, and potato; cook until the vegetables are slightly tender, about 5 minutes.",
+    "Add German seasoning, tagine spice, and piquant sauce; stir to combine.",
+    "Add beef broth and water (if using); bring to a boil.",
+    "Reduce heat to low and simmer, covered, until the beef is tender, about 1 1/2 hours.",
+    "Add cubed chewy bread and cook for an additional 10 minutes.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "stew",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-chewy-german-beef-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:44:05.639Z"
+}
