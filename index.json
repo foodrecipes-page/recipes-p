@@ -3339,10 +3339,16 @@
   },
   {
     "slug": "peppery-gooey-mediterranean-feta-dumplings",
-    "title": "Peppery Gooey Mediterranean Feta Dumplings",
-    "tags": [],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": null,
+    "title": "Mediterranean Feta Dumplings",
+    "tags": [
+      "mediterranean",
+      "cheese",
+      "dumplings",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 22,
     "shard": "p"
   },
   {
@@ -7907,17 +7913,15 @@
   },
   {
     "slug": "piquant-turkish-steak-tagine",
-    "title": "Piquant Turkish Steak Tagine",
+    "title": "Turkish Steak Tagine",
     "tags": [
-      "gluten-free",
-      "low-carb",
-      "one-pot",
-      "skirt-steak",
-      "tandoor-clay-pot",
-      "turkish-cuisine"
+      "beef",
+      "stew",
+      "turkish",
+      "piquant"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 110,
+    "totalTimeMin": 140,
     "shard": "p"
   },
   {
@@ -10217,16 +10221,16 @@
   },
   {
     "slug": "pungent-energizing-ukrainian-umeboshi-pasta",
-    "title": "Pungent Energizing Ukrainian Umeboshi Pasta",
+    "title": "Ukrainian Umeboshi Pasta",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
+      "ukrainian",
+      "japanese",
       "vegan",
-      "weeknight"
+      "pasta",
+      "umeboshi"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
