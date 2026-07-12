@@ -1,0 +1,85 @@
+{
+  "slug": "piquant-turkish-steak-tagine",
+  "title": "Turkish Steak Tagine",
+  "description": "A flavorful and aromatic tagine dish from Turkish cuisine, made with tender steak and a rich piquant sauce.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "steak",
+      "amount": "500g",
+      "notes": "beef steak, cut into 1-inch cubes"
+    },
+    {
+      "name": "piquant",
+      "amount": "2 tbsp",
+      "notes": "harissa-like spice blend"
+    },
+    {
+      "name": "turkish",
+      "amount": "1 tbsp",
+      "notes": "paprika, sumac, cumin"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 medium",
+      "notes": "a type of slow-cooked stew"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the garlic and onion and cook until softened, about 5 minutes.",
+    "Add the steak and cook until browned on all sides, about 5-7 minutes.",
+    "Add the piquant, turkish, and tagine to the pot and stir to coat the steak.",
+    "Add the diced tomatoes and stir to combine.",
+    "Bring the mixture to a simmer, then cover the pot and transfer it to the oven.",
+    "Bake at 300°F (150°C) for 1-2 hours, or until the steak is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "turkish",
+    "piquant"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-turkish-steak-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:58:26.081Z"
+}
