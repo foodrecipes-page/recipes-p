@@ -1,0 +1,94 @@
+{
+  "slug": "pungent-spicy-tunisian-vegetable-tagine",
+  "title": "Tunisian Vegetable Tagine",
+  "description": "A flavorful North African stew made with tender vegetables and aromatic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 tsp",
+      "notes": "available at Middle Eastern markets"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": null
+    },
+    {
+      "name": "Pungent olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Spicy harissa",
+      "amount": "1 tsp",
+      "notes": "available at North African markets"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the onions, garlic, and harissa. Cook, stirring occasionally, for 5 minutes.",
+    "Add the carrots, potatoes, zucchini, and bell pepper. Cook, stirring occasionally, for 10 minutes.",
+    "Add the Tunisian spice blend, olives, and vegetable broth. Bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20 minutes or until the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "vegetarian",
+    "stew",
+    "tagine",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-spicy-tunisian-vegetable-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:07:14.819Z"
+}
