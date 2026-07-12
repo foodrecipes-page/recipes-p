@@ -1,0 +1,69 @@
+{
+  "slug": "pungent-goey-malaysian-feta-curry",
+  "title": "Malaysian Curry Feta Fritters",
+  "description": "A unique twist on traditional fritters, these bite-sized treats combine the creamy tang of feta with the bold flavors of Malaysian curry.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Pungent",
+      "amount": "1/2 cup",
+      "notes": "minced"
+    },
+    {
+      "name": "Goey",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Malaysian curry",
+      "amount": "2 tbsp",
+      "notes": "curry paste"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine crumbled feta cheese, minced pungent, melted goey, and curry paste. Mix well.",
+    "2. Gradually add flour to the bowl, mixing until a dough forms.",
+    "3. Divide the dough into small balls, about 1-inch in diameter.",
+    "4. Heat oil in a deep frying pan over medium heat.",
+    "5. When the oil is hot, add the fritter balls and fry until golden brown.",
+    "6. Remove the fritters from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "7. Serve warm and enjoy!",
+    "8. Optional: garnish with additional pungent or goey for added flavor and texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "curry",
+    "feta",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-goey-malaysian-feta-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:38:04.351Z"
+}
