@@ -1190,17 +1190,16 @@
   },
   {
     "slug": "peaceful-middle-eastern-lamb-tagine",
-    "title": "Peaceful Middle Eastern Lamb Tagine",
+    "title": "Lamb Tagine with Peas and Barley",
     "tags": [
-      "comfort-food",
+      "moroccan",
       "lamb",
-      "lazy-sunday",
-      "middle-eastern",
-      "one-pot",
-      "stew"
+      "tagine",
+      "barley",
+      "peas"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 170,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 65,
     "shard": "p"
   },
   {
@@ -9910,16 +9909,15 @@
   },
   {
     "slug": "pungent-australian-stout-grill",
-    "title": "Pungent Australian Stout Grill",
+    "title": "Stout Australian Beef Burgers",
     "tags": [
       "australian",
-      "beer",
+      "beef",
       "grill",
-      "high-protein",
-      "weeknight"
+      "burgers"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -11882,17 +11880,16 @@
   },
   {
     "slug": "purely-grassy-mexican-lamb-birria",
-    "title": "Purely Grassy Mexican Lamb Birria",
+    "title": "Birria Lamb Tacos",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "lamb-recipes",
-      "mexican-food",
-      "one-pot",
-      "stone-bowl"
+      "mexican",
+      "lamb",
+      "tacos",
+      "birria",
+      "hominy"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 110,
+    "cuisine": "mexican",
+    "totalTimeMin": 150,
     "shard": "p"
   },
   {
