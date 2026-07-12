@@ -1,0 +1,88 @@
+{
+  "slug": "pungent-australian-stout-grill",
+  "title": "Stout Australian Beef Burgers",
+  "description": "A pungent and savory take on the classic burger, with a focus on australian flavors and grilled to perfection.",
+  "cuisine": "australian",
+  "diet": [
+    "beef",
+    "meat",
+    "grill"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef patties",
+      "amount": "4",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "australian bush tomatoes",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "stout beer",
+      "amount": "1/4 cup",
+      "notes": "reduced to sauce consistency"
+    },
+    {
+      "name": "grill seasoning",
+      "amount": "1 tsp",
+      "notes": "paprika, garlic powder, onion powder"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "kosher salt"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "pungent blue cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "brioche buns",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "arugula",
+      "amount": "1 cup",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season beef patties with grill seasoning, salt, and peppercorns.",
+    "Grill patties for 4-5 minutes per side, or until cooked to desired level of doneness.",
+    "Meanwhile, toast brioche buns on the grill.",
+    "Top each bun with a beef patty, a spoonful of stout beer reduction, a few slices of pungent blue cheese, and some arugula.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "beef",
+    "grill",
+    "burgers"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-australian-stout-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T09:23:41.072Z"
+}
