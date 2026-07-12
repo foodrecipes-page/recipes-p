@@ -1,0 +1,73 @@
+{
+  "slug": "piquant-indian-rice-kashmiri-khichdi",
+  "title": "Kashmiri Khichdi",
+  "description": "A flavorful and comforting Indian-inspired rice dish.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Khichdi",
+      "amount": "2 cups",
+      "notes": "split red lentils and rice"
+    },
+    {
+      "name": "Kashmiri",
+      "amount": "1 teaspoon",
+      "notes": "ground Kashmiri chili powder"
+    },
+    {
+      "name": "Piquant",
+      "amount": "1 tablespoon",
+      "notes": "ghee or vegetable oil"
+    },
+    {
+      "name": "Indian",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the piquant in a large saucepan over medium heat.",
+    "Add the Indian and cook, stirring occasionally, for 1 minute.",
+    "Add the khichdi and cook, stirring constantly, for 2 minutes.",
+    "Add 4 cups of water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Fluff the khichdi with a fork and season with salt to taste.",
+    "Serve hot.",
+    "Garnish with additional khichdi, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "breakfast",
+    "lentils",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-indian-rice-kashmiri-khichdi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:24:28.637Z"
+}
