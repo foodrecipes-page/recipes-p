@@ -2478,15 +2478,14 @@
   },
   {
     "slug": "peppery-crumbly-moroccan-rice-paper-sheets",
-    "title": "Peppery Crumbly Moroccan Rice Paper Sheets",
+    "title": "Moroccan Stuffed Crispy Rice Sheets",
     "tags": [
       "moroccan",
-      "rice-paper",
-      "crumbly",
-      "peppery"
+      "snack",
+      "dessert"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 10,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -9454,18 +9453,15 @@
   },
   {
     "slug": "pretty-pale-norwegian-cookies",
-    "title": "Pretty Pale Norwegian Cookies",
+    "title": "Norwegian Cookies",
     "tags": [
-      "cedar-plank",
-      "gluten-free",
-      "grassy",
-      "norwegian-cuisine",
-      "raw-friendly",
-      "shattering",
-      "spherified"
+      "cookies",
+      "norwegian",
+      "traditional",
+      "cardamom"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 78,
+    "cuisine": "norwegian",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
