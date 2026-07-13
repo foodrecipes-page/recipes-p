@@ -293,17 +293,16 @@
   },
   {
     "slug": "pan-baked-moroccan-tofu-mesmen",
-    "title": "Pan-baked Moroccan Tofu Mesmen",
+    "title": "Moroccan Tofu Mesmen",
     "tags": [
-      "gluten-free",
-      "meal-prep",
       "moroccan",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "tofu",
+      "mesmen",
+      "lunch",
+      "dinner"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -7271,18 +7270,14 @@
   },
   {
     "slug": "piquant-mexican-monterey-jack-huaraches",
-    "title": "Piquant Mexican Monterey Jack Huaraches",
+    "title": "Monterey Jack Quesadilla",
     "tags": [
-      "breakfast",
-      "fermented",
       "mexican",
-      "no-garlic",
-      "no-onion",
-      "quick",
-      "vegetarian"
+      "cheese",
+      "quesadilla"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 40,
+    "totalTimeMin": 15,
     "shard": "p"
   },
   {
@@ -8466,13 +8461,11 @@
   },
   {
     "slug": "plump-dutch-uni-pancakes",
-    "title": "Plump Dutch Uni Pancakes",
+    "title": "Dutch Pancake with Caramelized Uni",
     "tags": [
-      "dutch-pancakes",
-      "quick-fix",
-      "render-fat-cooking",
-      "uni-recipes",
-      "vegetarian-friendly"
+      "breakfast",
+      "pancakes",
+      "uni"
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 25,
@@ -11287,16 +11280,15 @@
   },
   {
     "slug": "pungent-tender-australian-mincemeat-fritters",
-    "title": "Pungent Tender Australian Mincemeat Fritters",
+    "title": "Pungent Mincemeat Fritters",
     "tags": [
-      "australian-cuisine",
-      "deep-fried",
-      "jain-friendly",
-      "snack-food",
-      "vegetarian"
+      "australian",
+      "fritters",
+      "mincemeat",
+      "snack"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 18,
     "shard": "p"
   },
   {
