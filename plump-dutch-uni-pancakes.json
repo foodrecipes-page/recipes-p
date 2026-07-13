@@ -1,0 +1,78 @@
+{
+  "slug": "plump-dutch-uni-pancakes",
+  "title": "Dutch Pancake with Caramelized Uni",
+  "description": "A sweet and savory pancake recipe featuring caramelized uni and a dollop of whipped cream.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "plump uni",
+      "amount": "6 oz"
+    },
+    {
+      "name": "dutch pancakes",
+      "amount": "4"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "whipped"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, melt 1 tablespoon of butter over medium heat.",
+    "Add the granulated sugar and cook for 2-3 minutes, stirring occasionally, until caramelized.",
+    "Add the plump uni to the skillet and cook for 2-3 minutes, until lightly browned.",
+    "In a separate bowl, whisk together the heavy cream and maple syrup until stiff peaks form.",
+    "Heat a non-stick pan over medium heat and add the remaining 1 tablespoon of butter.",
+    "Cook the Dutch pancakes according to package instructions.",
+    "Serve the pancakes with the caramelized uni, whipped cream, and a sprinkle of kosher salt.",
+    "Garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "uni"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/plump-dutch-uni-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T20:50:36.301Z"
+}
