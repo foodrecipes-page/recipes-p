@@ -1,0 +1,70 @@
+{
+  "slug": "placid-irish-tomato-stew",
+  "title": "Irish Placid Stew",
+  "description": "A hearty and comforting Irish-inspired stew made with tender placid, flavorful irish, and rich tomato sauce.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Placid",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Irish",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 cups, diced"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Flour",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add chopped irish and cook until browned, about 5 minutes.",
+    "Add diced tomato, salt, and black pepper. Cook for 3-4 minutes.",
+    "Add placid, water, and flour. Stir to combine.",
+    "Bring the stew to a boil, then reduce heat to low and simmer for 1 hour.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "irish",
+    "placid",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/placid-irish-tomato-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T22:22:51.331Z"
+}
