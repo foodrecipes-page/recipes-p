@@ -1,0 +1,86 @@
+{
+  "slug": "pan-roasted-syrian-potato-roast",
+  "title": "Roasted Syrian Potato Pan Roast",
+  "description": "A hearty and flavorful dish combining roasted Syrian spices with pan-seared potatoes.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "roasted",
+      "amount": "2 tbsp",
+      "notes": "Syrian spice blend"
+    },
+    {
+      "name": "syrian",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "pan",
+      "amount": "",
+      "notes": "olive oil for cooking"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon",
+      "amount": "2 tbsp",
+      "notes": "juiced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp olive oil in a large pan over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the cubed potatoes and cook for 5 minutes until they start to brown.",
+    "Add the roasted Syrian spice blend and cook for 1 minute.",
+    "Stir in the salt, black pepper, and lemon juice.",
+    "Reduce heat to medium-low and simmer for 15-20 minutes or until the potatoes are cooked through.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "vegetarian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-roasted-syrian-potato-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T01:01:36.388Z"
+}
