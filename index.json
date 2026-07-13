@@ -9361,14 +9361,15 @@
   },
   {
     "slug": "prawny-romance",
-    "title": "Prawny Romance",
+    "title": "Romance Prawn Stir Fry",
     "tags": [
+      "quick",
+      "easy",
       "prawns",
-      "pressure-cooking",
-      "salty-romantic-dish"
+      "romance-sauce"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 8,
+    "cuisine": "Asian",
+    "totalTimeMin": 22,
     "shard": "p"
   },
   {
