@@ -7077,17 +7077,15 @@
   },
   {
     "slug": "piquant-jamaican-minced-beef-stew",
-    "title": "Piquant Jamaican Minced Beef Stew",
+    "title": "Jamaican Beef Stew",
     "tags": [
-      "comfort-food",
+      "beef",
+      "stew",
       "jamaican",
-      "lazy-sunday",
-      "minced-beef",
-      "one-pot",
-      "whole30-friendly"
+      "comfort food"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "jamaican",
+    "totalTimeMin": 95,
     "shard": "p"
   },
   {
@@ -11285,17 +11283,15 @@
   },
   {
     "slug": "pungent-thai-chicken-skewers",
-    "title": "Pungent Thai Chicken Skewers",
+    "title": "Thai Chicken Skewers",
     "tags": [
-      "grilled",
-      "high-protein",
-      "monsoon",
-      "one-pan",
       "thai",
-      "weeknight"
+      "grilled",
+      "chicken",
+      "skewers"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 50,
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -11626,16 +11622,13 @@
   },
   {
     "slug": "purely-char-grilled-algerian-samphire-skewers",
-    "title": "Char Grilled Algerian Samphire Skewers",
+    "title": "Grilled Shrimp and Char Skewers with Algerian Spices and Samphire",
     "tags": [
-      "algerian-cuisine",
-      "copper-mug",
-      "grilled",
-      "low-carb",
       "seafood",
-      "whole30"
+      "grill",
+      "summer"
     ],
-    "cuisine": "Algerian",
+    "cuisine": "Mediterranean",
     "totalTimeMin": 25,
     "shard": "p"
   },
