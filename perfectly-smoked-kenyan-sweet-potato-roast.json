@@ -1,0 +1,95 @@
+{
+  "slug": "perfectly-smoked-kenyan-sweet-potato-roast",
+  "title": "Kenyan Sweet Potato Stew",
+  "description": "A hearty and flavorful stew made with perfectly cooked sweet potatoes, smoked meat, and Kenyan spices.",
+  "cuisine": "African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sweet Potatoes",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Meat (beef or pork)",
+      "amount": "1 pound",
+      "notes": "sliced into bite-sized pieces"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Curry Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium-high heat.",
+    "Add the sliced smoked meat and cook until browned, about 5 minutes.",
+    "Add the chopped onions and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the curry powder, cumin, salt, and black pepper, and stir to combine.",
+    "Add the chopped sweet potatoes and stir to combine.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to medium-low and simmer, covered, for 20-25 minutes, or until the sweet potatoes are tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african",
+    "stew",
+    "sweet-potatoes",
+    "smoked-meat"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/perfectly-smoked-kenyan-sweet-potato-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:54:16.526Z"
+}
