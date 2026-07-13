@@ -1,0 +1,92 @@
+{
+  "slug": "prawny-romance",
+  "title": "Romance Prawn Stir Fry",
+  "description": "Quick and flavorful stir-fry with romance sauce and prawns. Serve with steamed vegetables and rice for a delicious and easy meal.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Prawns",
+      "amount": "250g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Romance Sauce",
+      "amount": "2 tbsp",
+      "notes": "available in most supermarkets"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "100g",
+      "notes": "trimmed"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the prawns and cook until pink and just cooked through, about 2-3 minutes per side.",
+    "Remove the prawns from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the minced garlic and grated ginger and stir-fry for 30 seconds.",
+    "Add the sliced bell pepper and stir-fry for 2 minutes.",
+    "Add the trimmed snow peas and stir-fry for another minute.",
+    "Return the cooked prawns to the skillet and pour in the romance sauce.",
+    "Stir-fry everything together for 1-2 minutes until the sauce has thickened.",
+    "Season with soy sauce and sugar to taste.",
+    "Serve immediately over steamed rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "easy",
+    "prawns",
+    "romance-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/prawny-romance",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:05:05.133Z"
+}
