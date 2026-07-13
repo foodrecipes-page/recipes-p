@@ -332,16 +332,14 @@
   },
   {
     "slug": "pan-roasted-syrian-potato-roast",
-    "title": "Pan Roasted Syrian Potato Roast",
+    "title": "Roasted Syrian Potato Pan Roast",
     "tags": [
-      "gluten-free",
-      "potato-recipe",
-      "syrian-cuisine",
+      "middle-eastern",
       "vegetarian",
-      "weeknight-dinner"
+      "dinner"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 55,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
@@ -3126,16 +3124,15 @@
   },
   {
     "slug": "peppery-french-rhubarb-souffle",
-    "title": "Peppery French Rhubarb Souffle",
+    "title": "French Rhubarb Soufflé",
     "tags": [
-      "french-dessert",
-      "halal-friendly",
-      "kid-friendly",
-      "rhubarb-recipe",
-      "souffle-dish"
+      "souffle",
+      "rhubarb",
+      "french",
+      "dessert"
     ],
     "cuisine": "French",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
