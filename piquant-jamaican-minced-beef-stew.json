@@ -1,0 +1,96 @@
+{
+  "slug": "piquant-jamaican-minced-beef-stew",
+  "title": "Jamaican Beef Stew",
+  "description": "A hearty and flavorful stew made with tender beef and a blend of Jamaican spices.",
+  "cuisine": "jamaican",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "piquant",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "jamaican seasoning",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Remove beef from pot and set aside.",
+    "Add onion and garlic to pot and cook until softened, about 5 minutes.",
+    "Add flour and cook for 1 minute.",
+    "Gradually add broth and water, whisking constantly.",
+    "Bring to a boil, then reduce heat to low and simmer for 1 hour.",
+    "Add brown sugar and tomato paste and stir to combine.",
+    "Return beef to pot and simmer for an additional 30 minutes.",
+    "Season with piquant and Jamaican seasoning to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 75,
+  "totalTimeMin": 95,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "jamaican",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-jamaican-minced-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T03:25:26.425Z"
+}
