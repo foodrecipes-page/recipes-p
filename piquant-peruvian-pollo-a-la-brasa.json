@@ -1,0 +1,72 @@
+{
+  "slug": "piquant-peruvian-pollo-a-la-brasa",
+  "title": "Pollo a la Brasa",
+  "description": "A classic Peruvian-style roasted chicken dish with a piquant twist. Marinated in a blend of spices and herbs, then roasted to perfection.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pollo (whole chicken)",
+      "amount": "1"
+    },
+    {
+      "name": "Peruvian spices (ají amarillo, garlic, cumin)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Piquant sauce (optional)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "In a blender or food processor, combine Peruvian spices, lime juice, olive oil, salt, and black pepper. Blend until smooth.",
+    "Place the chicken in a large bowl and brush the spice mixture all over it, making sure to get some under the skin as well.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Remove the chicken from the refrigerator and let it sit at room temperature for 30 minutes.",
+    "Place the chicken in a roasting pan and put it in the oven.",
+    "Roast the chicken for 45-50 minutes, or until the skin is golden brown and the internal temperature reaches 165°F (74°C).",
+    "Let the chicken rest for 10-15 minutes before carving and serving.",
+    "If desired, serve with a side of piquant sauce for added flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "peruvian",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-peruvian-pollo-a-la-brasa",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T00:14:45.174Z"
+}
