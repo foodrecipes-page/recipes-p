@@ -2454,17 +2454,14 @@
   },
   {
     "slug": "peppery-crumbly-middle-eastern-fish-crumble",
-    "title": "Peppery Crumbly Middle Eastern Fish Crumble",
+    "title": "Middle Eastern Fish Cakes",
     "tags": [
-      "peppery",
-      "crumbly",
+      "fish-cakes",
       "middle-eastern",
-      "fish-crumble",
-      "monsoon",
-      "pescatarian-friendly"
+      "fish-dinner"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
@@ -5222,18 +5219,14 @@
   },
   {
     "slug": "perfectly-pan-seared-greek-peas-gratin",
-    "title": "Perfectly Pan-Seared Greek Peas Gratin",
+    "title": "Greek Peas Gratin",
     "tags": [
-      "comfort-food",
-      "gratin",
-      "high-protein",
-      "one-pan",
-      "spring",
-      "veggie-friendly",
-      "weeknight"
+      "vegetarian",
+      "side-dish",
+      "greek-cuisine"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 23,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -5354,17 +5347,15 @@
   },
   {
     "slug": "perfectly-smoked-kenyan-sweet-potato-roast",
-    "title": "Perfectly Smoked Kenyan Sweet Potato Roast",
+    "title": "Kenyan Sweet Potato Stew",
     "tags": [
-      "comfort-food",
-      "flexitarian",
-      "kinako",
-      "roasted-vegetables",
-      "smoked",
-      "sweet-potatoes"
+      "african",
+      "stew",
+      "sweet-potatoes",
+      "smoked-meat"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 70,
+    "cuisine": "African",
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
