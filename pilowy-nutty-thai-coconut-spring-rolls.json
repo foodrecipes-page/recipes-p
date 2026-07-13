@@ -1,0 +1,90 @@
+{
+  "slug": "pilowy-nutty-thai-coconut-spring-rolls",
+  "title": "Thai Spring Rolls with Coconut Dipping Sauce",
+  "description": "A refreshing and crispy Thai-inspired spring roll dish served with a creamy coconut dipping sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Spring Roll Wrappers",
+      "amount": "1 package",
+      "notes": "Found in most Asian grocery stores"
+    },
+    {
+      "name": "Pilowy Rice Noodles",
+      "amount": "1 cup",
+      "notes": "Cook according to package instructions"
+    },
+    {
+      "name": "Thai Peanut Sauce",
+      "amount": "1/4 cup",
+      "notes": "Available in most grocery stores"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1/2 cup",
+      "notes": "Chilled in the refrigerator"
+    },
+    {
+      "name": "Spring Onions",
+      "amount": "1/2 cup",
+      "notes": "Chopped and separated into green and white parts"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped and separated into leaves and stems"
+    },
+    {
+      "name": "Nutty Peanuts",
+      "amount": "1/4 cup",
+      "notes": "Chopped and toasted"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1 tablespoon",
+      "notes": "For frying the spring rolls"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Cook the rice noodles according to package instructions and set aside.",
+    "2. In a large bowl, combine the cooked noodles, chopped spring onions, chopped cilantro, and chopped peanuts.",
+    "3. Add the Thai peanut sauce and mix well to combine.",
+    "4. Lay a spring roll wrapper on a flat surface and place about 1 tablespoon of the noodle mixture in the center of the wrapper.",
+    "5. Brush the edges of the wrapper with coconut oil and fold the bottom half of the wrapper over the filling.",
+    "6. Fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "7. Repeat with the remaining wrappers and filling.",
+    "8. Heat about 1 inch of coconut oil in a large skillet or wok over medium-high heat.",
+    "9. When the oil is hot, add a few of the spring rolls to the skillet and fry until golden brown and crispy.",
+    "10. Remove the spring rolls from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "11. Serve the spring rolls hot with the coconut dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "spring-rolls",
+    "coconut-dipping-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pilowy-nutty-thai-coconut-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T21:58:01.860Z"
+}
