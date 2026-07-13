@@ -7451,16 +7451,14 @@
   },
   {
     "slug": "piquant-peruvian-pollo-a-la-brasa",
-    "title": "Piquant Peruvian Pollo a la Brasa",
+    "title": "Pollo a la Brasa",
     "tags": [
-      "easy",
-      "low-glycemic",
+      "chicken",
       "peruvian",
-      "pollo-a-la-brasa",
-      "quick"
+      "roasted"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 70,
     "shard": "p"
   },
   {
