@@ -5332,17 +5332,15 @@
   },
   {
     "slug": "perfectly-smoked-egyptian-lamb-tagine",
-    "title": "Smoked Egyptian Lamb Tagine",
+    "title": "Smoked Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "lamb-based",
-      "middle-eastern",
-      "slow-cooked",
-      "smoky",
-      "spicy"
+      "north-african",
+      "stew",
+      "lamb",
+      "smoked-meat"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "p"
   },
   {
@@ -11755,17 +11753,15 @@
   },
   {
     "slug": "purely-comforting-tunisian-pears-tagine",
-    "title": "Tunisian Pears Tagine",
+    "title": "Tunisian Pear Tagine",
     "tags": [
-      "comfort-food",
-      "north-african",
-      "pear-dishes",
-      "sugar-free",
-      "vegetarian",
-      "winter-dishes"
+      "pear",
+      "tunisian",
+      "comforting",
+      "dessert"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
