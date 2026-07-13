@@ -1,0 +1,84 @@
+{
+  "slug": "purely-char-grilled-algerian-samphire-skewers",
+  "title": "Grilled Shrimp and Char Skewers with Algerian Spices and Samphire",
+  "description": "A flavorful and spicy seafood dish, perfect for a summer evening. The combination of grilled shrimp and char skewers with algerian spices and samphire is a unique twist on traditional grill recipes.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "Gluten-Free",
+    "Seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Char",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Algerian Spices",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Samphire",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread shrimp and char onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together algerian spices, olive oil, lemon juice, salt, and pepper.",
+    "Brush the spice mixture onto both sides of the shrimp and char.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the shrimp are pink and the char is cooked through.",
+    "Meanwhile, trim the ends off the samphire and cut it into 1-inch pieces.",
+    "When the skewers are done, remove them from the grill and let them rest for a few minutes.",
+    "Serve the skewers hot with the samphire on the side.",
+    "Garnish with lemon wedges and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "grill",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-char-grilled-algerian-samphire-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T03:34:39.826Z"
+}
