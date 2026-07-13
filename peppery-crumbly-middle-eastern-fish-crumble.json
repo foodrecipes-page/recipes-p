@@ -1,0 +1,80 @@
+{
+  "slug": "peppery-crumbly-middle-eastern-fish-crumble",
+  "title": "Middle Eastern Fish Cakes",
+  "description": "A flavorful and crispy Middle Eastern-inspired fish cake dish. Serve with your favorite side or in a pita with your favorite toppings.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fish",
+      "amount": "1 pound",
+      "notes": "any firm white fish works"
+    },
+    {
+      "name": "Peppery Crumbly Eastern Bread",
+      "amount": "1 cup",
+      "notes": "crushed into fine crumbs"
+    },
+    {
+      "name": "Middle Eastern Spice Blend",
+      "amount": "2 teaspoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Eastern Egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, combine the fish, bread crumbs, spice blend, egg, garlic, and salt. Mix well.",
+    "Divide the mixture into 6-8 portions, depending on the desired size. Shape each portion into a patty.",
+    "Heat about 1/2 inch (1 cm) of olive oil in a large skillet over medium-high heat. Fry the patties for about 3-4 minutes on each side, until golden brown and cooked through.",
+    "Transfer the patties to a baking sheet lined with parchment paper. Bake in the preheated oven for about 10-12 minutes, until crispy on the outside and cooked through.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fish-cakes",
+    "middle-eastern",
+    "fish-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crumbly-middle-eastern-fish-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:15:58.480Z"
+}
