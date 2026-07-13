@@ -1,0 +1,66 @@
+{
+  "slug": "pale-nutty-irish-kombu-fried-rice",
+  "title": "Irish Rice Bowl",
+  "description": "A simple and delicious bowl dish inspired by Irish cuisine, featuring tender rice and a savory kombu broth.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish rice",
+      "amount": "1 cup",
+      "notes": "any type will do"
+    },
+    {
+      "name": "Kombu",
+      "amount": "4 sheets",
+      "notes": "cut into 4 pieces"
+    },
+    {
+      "name": "Pale vegetable broth",
+      "amount": "2 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Fried shallots",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring 2 cups of pale vegetable broth to a boil in a medium saucepan.",
+    "Add the kombu pieces and simmer for 5 minutes.",
+    "Add the Irish rice and stir to combine. Reduce heat to low, cover, and cook for 15-20 minutes.",
+    "While the rice is cooking, heat the fried shallots in a small pan over medium heat.",
+    "Fluff the cooked rice with a fork and stir in the heated fried shallots.",
+    "Serve the rice in a bowl and garnish with chopped scallions if desired.",
+    "Discard the kombu pieces before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "rice-bowl",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pale-nutty-irish-kombu-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T22:53:14.780Z"
+}
