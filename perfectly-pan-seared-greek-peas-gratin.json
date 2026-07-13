@@ -1,0 +1,74 @@
+{
+  "slug": "perfectly-pan-seared-greek-peas-gratin",
+  "title": "Greek Peas Gratin",
+  "description": "A creamy, flavorful side dish made with peas, feta cheese, and a crispy breadcrumb topping.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1/4 cup, grated"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large skillet, sauté the onion and garlic until softened.",
+    "3. Add the peas and cook until tender.",
+    "4. In a separate bowl, mix the feta cheese, gruyère cheese, and flour.",
+    "5. Add the butter to the skillet and stir until melted.",
+    "6. Pour the cheese mixture into the skillet and stir until combined.",
+    "7. Transfer the mixture to a baking dish.",
+    "8. Top with bread crumbs and bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "side-dish",
+    "greek-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/perfectly-pan-seared-greek-peas-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:56:21.998Z"
+}
