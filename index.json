@@ -154,16 +154,14 @@
   },
   {
     "slug": "pale-nutty-irish-kombu-fried-rice",
-    "title": "Pale Nutty Irish Kombu Fried Rice",
+    "title": "Irish Rice Bowl",
     "tags": [
-      "irish-cuisine",
-      "kosher-friendly",
-      "one-pan",
-      "seafood-free",
-      "weeknight"
+      "irish",
+      "rice-bowl",
+      "vegetarian"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
@@ -6320,16 +6318,14 @@
   },
   {
     "slug": "pilowy-nutty-thai-coconut-spring-rolls",
-    "title": "Pilowy Nutty Thai Coconut Spring-Rolls",
+    "title": "Thai Spring Rolls with Coconut Dipping Sauce",
     "tags": [
-      "plant-based",
+      "thai",
       "spring-rolls",
-      "thaifood",
-      "vegan",
-      "vegetarian"
+      "coconut-dipping-sauce"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -6416,13 +6412,16 @@
   },
   {
     "slug": "pink-honey-mexican-peach-stir-fry",
-    "title": "Pink Honey Mexican Peach Stir-fry",
+    "title": "Grilled Peach Glazed Pork Chops",
     "tags": [
-      "pink-peach",
-      "tadka-mexican-stir-fry"
+      "grilled",
+      "peach",
+      "honey",
+      "pork",
+      "glazed"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "cuisine": "American",
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -8055,14 +8054,12 @@
   },
   {
     "slug": "placid-irish-tomato-stew",
-    "title": "Placid Irish Tomato Stew",
+    "title": "Irish Placid Stew",
     "tags": [
-      "citrusy",
-      "comfort-food",
+      "stew",
       "irish",
-      "one-pot",
-      "tamasic-friendly",
-      "vegetarian"
+      "placid",
+      "hearty"
     ],
     "cuisine": "Irish",
     "totalTimeMin": 80,
