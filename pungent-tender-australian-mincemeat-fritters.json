@@ -1,0 +1,73 @@
+{
+  "slug": "pungent-tender-australian-mincemeat-fritters",
+  "title": "Pungent Mincemeat Fritters",
+  "description": "A flavorful and crispy fritter dish made with tender mincemeat.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mincemeat",
+      "amount": "1 cup",
+      "notes": "pungent"
+    },
+    {
+      "name": "Australian wheat flour",
+      "amount": "1 1/2 cups",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "Australian milk",
+      "amount": "1/2 cup",
+      "notes": "whole"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "chopped herbs",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the mincemeat and wheat flour.",
+    "In a separate bowl, whisk together the eggs and milk.",
+    "Add the egg mixture to the mincemeat mixture and mix until a dough forms.",
+    "Heat the vegetable oil in a deep frying pan over medium-high heat.",
+    "Using a spoon, drop the dough mixture into the hot oil, making sure not to overcrowd the pan.",
+    "Fry the fritters for 3-4 minutes on each side, or until golden brown and crispy.",
+    "Drain the fritters on paper towels and serve hot.",
+    "Optional: sprinkle chopped herbs on top of the fritters before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "fritters",
+    "mincemeat",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-tender-australian-mincemeat-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T20:15:01.915Z"
+}
