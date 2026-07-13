@@ -1,0 +1,99 @@
+{
+  "slug": "pan-baked-moroccan-tofu-mesmen",
+  "title": "Moroccan Tofu Mesmen",
+  "description": "A flavorful and spicy Moroccan-inspired dish featuring crispy tofu and served with a twist on traditional mesmen.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Mesmen",
+      "amount": "1 package (8 sheets)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or griddle over medium-high heat.",
+    "Cut the tofu into small cubes and place on a plate.",
+    "In a shallow dish, mix together flour, salt, cumin, and paprika.",
+    "Dredge the tofu cubes in the flour mixture, shaking off excess.",
+    "Add 1 tablespoon of olive oil to the preheated pan and cook the tofu until golden brown on all sides, about 5-7 minutes.",
+    "In a separate pan, heat the remaining olive oil over medium heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chili flakes and cook for 1 minute, stirring constantly.",
+    "Warm the mesmen sheets according to package instructions.",
+    "To assemble the dish, place a sheet of mesmen on a plate, followed by a few pieces of the cooked tofu, and top with the spicy onion and garlic mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "tofu",
+    "mesmen",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-baked-moroccan-tofu-mesmen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T20:16:01.144Z"
+}
