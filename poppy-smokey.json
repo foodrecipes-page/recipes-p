@@ -1,0 +1,85 @@
+{
+  "slug": "poppy-smokey",
+  "title": "Smokey Poppy Chicken Wings",
+  "description": "Crispy chicken wings with a smoky flavor and crunchy poppy seed topping.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken wings",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Smokey BBQ sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Poppy seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, mix together baking powder, garlic powder, salt, and black pepper.",
+    "Add chicken wings to the bowl and toss to coat evenly.",
+    "Line a baking sheet with aluminum foil and spray with cooking spray. Arrange chicken wings on the baking sheet.",
+    "Bake for 30 minutes.",
+    "While the chicken is baking, melt butter in a saucepan over medium heat.",
+    "Add smokey BBQ sauce to the saucepan and stir to combine.",
+    "Remove the chicken from the oven and toss with the BBQ sauce mixture until coated.",
+    "Sprinkle poppy seeds on top of the chicken wings.",
+    "Return the chicken to the oven and bake for an additional 10-15 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "bbq",
+    "poppy-seeds"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/poppy-smokey",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:19:06.317Z"
+}
