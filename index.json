@@ -3030,17 +3030,16 @@
   },
   {
     "slug": "peppery-fluffy-croatian-cassava-stir-fry",
-    "title": "Peppery Fluffy Croatian Cassava Stir-fry",
+    "title": "Croatian Cassava Fritters",
     "tags": [
-      "peppery",
-      "fluffy",
-      "lazy-sunday",
       "croatian",
-      "stir-fry",
-      "high-protein-friendly"
+      "cassava",
+      "fritters",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 95,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -7512,17 +7511,16 @@
   },
   {
     "slug": "piquant-roasted-ethiopian-lentil-stew",
-    "title": "Piquant Roasted Ethiopian Lentil Stew",
+    "title": "Ethiopian Lentil Stew",
     "tags": [
-      "african-cuisine",
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "one-pot",
-      "weeknight"
+      "lentil",
+      "stew",
+      "ethiopian",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
