@@ -1,0 +1,73 @@
+{
+  "slug": "peppery-fluffy-croatian-cassava-stir-fry",
+  "title": "Croatian Cassava Fritters",
+  "description": "Crispy fritters filled with cassava and spices, served with a side of tangy aioli. This dish is a staple in Croatian cuisine.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cassava",
+      "amount": "2 cups",
+      "notes": "Grate the cassava before using"
+    },
+    {
+      "name": "peppery cheese",
+      "amount": "1/2 cup",
+      "notes": "Shredded cheese for added flavor"
+    },
+    {
+      "name": "fluffy eggs",
+      "amount": "2",
+      "notes": "Beaten eggs for binding"
+    },
+    {
+      "name": "croatian seasoning",
+      "amount": "1 tsp",
+      "notes": "A blend of spices and herbs for authentic flavor"
+    },
+    {
+      "name": "stir oil",
+      "amount": "1/4 cup",
+      "notes": "Vegetable oil for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "Add as needed"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated cassava, shredded cheese, beaten eggs, and Croatian seasoning.",
+    "Heat the vegetable oil in a deep frying pan over medium-high heat.",
+    "Using a spoon, drop small balls of the cassava mixture into the hot oil.",
+    "Fry the fritters for 3-4 minutes on each side, until golden brown.",
+    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters hot with a side of tangy aioli for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "cassava",
+    "fritters",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-fluffy-croatian-cassava-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T00:00:57.186Z"
+}
