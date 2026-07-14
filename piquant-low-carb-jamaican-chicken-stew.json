@@ -1,0 +1,76 @@
+{
+  "slug": "piquant-low-carb-jamaican-chicken-stew",
+  "title": "Jamaican Chicken Stew",
+  "description": "A flavorful and spicy stew made with chicken, onions, garlic, bell peppers, and a hint of jamaican seasoning. Great for a weeknight dinner!",
+  "cuisine": "jamaican",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "piquant pepper sauce",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "low-carb stew seasoning",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add onion, garlic, and bell pepper; cook until tender, about 5 minutes.",
+    "Stir in piquant pepper sauce and low-carb stew seasoning; cook for 1 minute.",
+    "Pour in chicken broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 15-20 minutes or until chicken is cooked through.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "jamaican",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-low-carb-jamaican-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T19:48:41.073Z"
+}
