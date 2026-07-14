@@ -1,0 +1,81 @@
+{
+  "slug": "pan-seared-roman-chicken-pasta",
+  "title": "Roman Chicken Pasta Bake",
+  "description": "A simple and flavorful pasta dish featuring seared chicken and Roman herbs.",
+  "cuisine": "Italian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "Boneless, skinless"
+    },
+    {
+      "name": "pasta (ditalini or penne)",
+      "amount": "8 oz",
+      "notes": "Gluten-free option available"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For pan searing"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "roman herbs (such as thyme and rosemary)",
+      "amount": "2 tsp",
+      "notes": "Dried or fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Bring a large pot of salted water to a boil and cook pasta according to package instructions.",
+    "Season the chicken breast with salt and pepper.",
+    "In a large skillet, heat olive oil over medium-high heat.",
+    "Sear the chicken breast for 5-6 minutes per side or until cooked through.",
+    "Transfer the chicken to a plate and let it rest.",
+    "In the same skillet, add minced garlic and cook for 1 minute.",
+    "Add the cooked pasta to the skillet and toss with garlic and olive oil.",
+    "Add the roman herbs and toss to combine.",
+    "Transfer the pasta mixture to a baking dish and top with the seared chicken.",
+    "Bake in the preheated oven for 10-15 minutes or until the chicken is heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "chicken",
+    "roman-herbs"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-roman-chicken-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T03:15:30.112Z"
+}
