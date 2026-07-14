@@ -7588,17 +7588,15 @@
   },
   {
     "slug": "piquant-smoky-argentinian-rice-noodles",
-    "title": "Piquant Smoky Argentinian Rice Noodles",
+    "title": "Smoky Beef Noodle Stir Fry",
     "tags": [
       "argentinian",
-      "one-pan",
-      "shojin-friendly",
-      "smoky",
-      "vegetarian",
-      "weeknight"
+      "beef",
+      "noodles",
+      "stir-fry"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 35,
+    "cuisine": "argentinian",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
