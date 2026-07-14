@@ -1,0 +1,87 @@
+{
+  "slug": "purely-roasted-german-haricot-beans-grill",
+  "title": "German-Style Haricot Bean Gratin",
+  "description": "A hearty and comforting side dish featuring haricot beans in a creamy, cheesy gratin.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "haricot beans",
+      "amount": "1 can (14.5 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "unbleached"
+    },
+    {
+      "name": "purely butter (unsalted)",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "grill cheese (such as Emmental or Gruyère)",
+      "amount": "1 cup",
+      "notes": "grated and divided"
+    },
+    {
+      "name": "bechamel sauce (or substitute with heavy cream)",
+      "amount": "1 cup",
+      "notes": "see note"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Sauté the onion and garlic in butter until softened.",
+    "Add the caraway seeds (if using) and cook for 1 minute.",
+    "Stir in the haricot beans and cook until heated through.",
+    "Transfer the bean mixture to a baking dish.",
+    "Mix the flour with a splash of the bechamel sauce (or heavy cream) to make a slurry.",
+    "Add the grated cheese to the bechamel sauce (or heavy cream) and stir until melted.",
+    "Pour the cheese sauce over the bean mixture.",
+    "Top with additional grated cheese.",
+    "Cover with foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "vegetarian",
+    "beans",
+    "gratin"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-roasted-german-haricot-beans-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T09:21:20.370Z"
+}
