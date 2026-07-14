@@ -8996,15 +8996,14 @@
   },
   {
     "slug": "poppy-smokey",
-    "title": "Poppy Smokey",
+    "title": "Smokey Poppy Chicken Wings",
     "tags": [
-      "poppy-seeds",
-      "smoky-syrian-dish",
-      "grilled-appetizer",
-      "low-fat-friendly"
+      "chicken",
+      "bbq",
+      "poppy-seeds"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "cuisine": "American",
+    "totalTimeMin": 50,
     "shard": "p"
   },
   {
