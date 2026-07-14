@@ -9662,17 +9662,16 @@
   },
   {
     "slug": "puffy-bitter-slovakian-buckwheat-pancakes",
-    "title": "Puffy Bitter Slovakian Buckwheat Pancakes",
+    "title": "Slovakian Buckwheat Pancakes",
     "tags": [
-      "breakfast-idea",
-      "buckwheat-recipe",
-      "copper-cooking-vessel",
-      "fodmap-friendly",
-      "gluten-free",
-      "slovakian-cuisine"
+      "breakfast",
+      "slovakian",
+      "buckwheat",
+      "pancakes",
+      "gluten-free"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
@@ -12114,17 +12113,15 @@
   },
   {
     "slug": "purely-roasted-german-haricot-beans-grill",
-    "title": "Purely Roasted German Haricot Beans Grill",
+    "title": "German-Style Haricot Bean Gratin",
     "tags": [
       "german",
-      "light",
-      "roasted",
-      "shaggy",
-      "umami",
-      "vegetarian"
+      "vegetarian",
+      "beans",
+      "gratin"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 60,
+    "cuisine": "german",
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
