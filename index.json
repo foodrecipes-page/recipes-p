@@ -7249,17 +7249,14 @@
   },
   {
     "slug": "piquant-low-carb-jamaican-chicken-stew",
-    "title": "Piquant Low-Carb Jamaican Chicken Stew",
+    "title": "Jamaican Chicken Stew",
     "tags": [
-      "comfort-food",
-      "jamaican",
       "low-carb",
-      "one-pot",
-      "spicy",
-      "vegetable-rich"
+      "jamaican",
+      "stew"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 60,
+    "cuisine": "jamaican",
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
