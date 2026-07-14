@@ -1,0 +1,60 @@
+{
+  "slug": "peppery-tunisian-white-bread-grill",
+  "title": "Grilled Tunisian Bread",
+  "description": "A simple and flavorful bread dish from Tunisia, perfect for a light meal or snack.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tunisian bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "Peppery oil",
+      "amount": "2 tablespoons",
+      "notes": "use a peppery oil for best flavor"
+    },
+    {
+      "name": "White onion",
+      "amount": "1 medium",
+      "notes": "thinly slice for best caramelization"
+    },
+    {
+      "name": "Grill",
+      "amount": "",
+      "notes": "preheat to medium-high heat"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Slice the Tunisian bread into 1-inch thick slices.",
+    "Drizzle the peppery oil over the bread slices.",
+    "Place the bread slices on the grill and cook for 2-3 minutes on each side, or until lightly toasted and slightly charred.",
+    "While the bread is cooking, thinly slice the white onion.",
+    "Once the bread is done, top each slice with a few slices of onion.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "bread",
+    "tunisian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-tunisian-white-bread-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T21:59:58.405Z"
+}
