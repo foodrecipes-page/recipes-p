@@ -4748,17 +4748,15 @@
   },
   {
     "slug": "peppery-tunisian-white-bread-grill",
-    "title": "Peppery Tunisian White Bread Grill",
+    "title": "Grilled Tunisian Bread",
     "tags": [
-      "peppery",
-      "dense",
+      "grilled",
+      "bread",
       "tunisian",
-      "white bread",
-      "grill",
-      "low-sodium"
+      "snack"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 11,
+    "totalTimeMin": 10,
     "shard": "p"
   },
   {
