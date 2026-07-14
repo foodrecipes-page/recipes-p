@@ -1,0 +1,56 @@
+{
+  "slug": "piquant-aerated-canadien-tomato-tagine",
+  "title": "Tagine with Tomato and Piquant Sauce",
+  "description": "A flavorful North African-inspired stew made with tender tomatoes and a piquant sauce, served with aerated flatbread.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "piquant",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "aerated",
+      "amount": "1 loaf",
+      "notes": null
+    },
+    {
+      "name": "canadien cheese",
+      "amount": "1/4 cup shredded",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the tomatoes in half and place them in a large bowl.",
+    "In a small saucepan, heat the piquant sauce over medium heat.",
+    "Add the piquant sauce to the tomatoes and toss to coat.",
+    "Spoon the tomato mixture into a tagine or a large Dutch oven.",
+    "Cover the tagine with a lid or foil and bake for 25 minutes.",
+    "Slice the aerated flatbread into wedges and serve alongside the tagine.",
+    "If using cheese, sprinkle it on top of the tagine before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "stew",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-aerated-canadien-tomato-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T10:41:17.451Z"
+}
