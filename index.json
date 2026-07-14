@@ -5158,16 +5158,16 @@
   },
   {
     "slug": "perfectly-crumbly-tunisian-lamb-tagine",
-    "title": "Tunisian Lamb Tagine",
+    "title": "Lamb Tagine with Tunisian Flair",
     "tags": [
-      "halal-friendly",
-      "lamb-recipes",
-      "meal-prep",
-      "one-pot-meals",
-      "tunisian-cuisine"
+      "lamb",
+      "tagine",
+      "north-african",
+      "stew",
+      "slow-cooker"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 140,
     "shard": "p"
   },
   {
@@ -8034,15 +8034,16 @@
   },
   {
     "slug": "pita-fry-tofu-delight",
-    "title": "Pita Fry Tofu Delight",
+    "title": "Crispy Tofu Pita Sandwich",
     "tags": [
-      "pita",
       "tofu",
-      "sweet",
-      "fluffy"
+      "pita",
+      "quick",
+      "easy",
+      "vegetarian"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
