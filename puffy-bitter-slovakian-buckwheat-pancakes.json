@@ -1,0 +1,72 @@
+{
+  "slug": "puffy-bitter-slovakian-buckwheat-pancakes",
+  "title": "Slovakian Buckwheat Pancakes",
+  "description": "Traditional Slovakian buckwheat pancakes, a hearty breakfast treat with a delicate flavor.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Buckwheat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pancakes flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Slovakian water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Bitter ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Puffy baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine buckwheat flour, pancakes flour, and baking powder.",
+    "2. In a separate bowl, whisk together Slovakian water, eggs, and bitter ghee.",
+    "3. Add the wet ingredients to the dry ingredients and stir until combined.",
+    "4. Heat a non-stick pan over medium heat.",
+    "5. Drop the batter by 1/4 cupfuls onto the pan.",
+    "6. Cook the pancakes for 2-3 minutes, until bubbles appear on the surface.",
+    "7. Flip the pancakes and cook for an additional 1-2 minutes.",
+    "8. Serve the pancakes hot with your favorite toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "slovakian",
+    "buckwheat",
+    "pancakes",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/puffy-bitter-slovakian-buckwheat-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T09:49:43.644Z"
+}
