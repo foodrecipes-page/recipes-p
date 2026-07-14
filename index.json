@@ -2945,17 +2945,15 @@
   },
   {
     "slug": "peppery-flaky-spanish-chicken-paella",
-    "title": "Peppery Flaky Spanish Chicken Paella",
+    "title": "Spanish Paella",
     "tags": [
       "spanish",
-      "chicken",
       "paella",
-      "brown-rice",
-      "low-sodium",
+      "chicken",
       "gluten-free"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
