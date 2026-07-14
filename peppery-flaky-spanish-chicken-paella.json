@@ -1,0 +1,80 @@
+{
+  "slug": "peppery-flaky-spanish-chicken-paella",
+  "title": "Spanish Paella",
+  "description": "A traditional Spanish dish made with saffron-infused rice, chicken, and seafood.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "peppery chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "flaky smoked paprika",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "spanish saffron",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan or skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes. Remove from pan.",
+    "Add garlic and red bell pepper to pan and cook until tender, about 5 minutes.",
+    "Add rice to pan and cook for 1-2 minutes.",
+    "Add chicken broth, smoked paprika, and saffron to pan. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "Add chicken back to pan and cook until heated through.",
+    "Stir in artichoke hearts and cook for an additional 2-3 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "chicken",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-flaky-spanish-chicken-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T06:18:43.742Z"
+}
