@@ -1,0 +1,92 @@
+{
+  "slug": "perfectly-crumbly-tunisian-lamb-tagine",
+  "title": "Lamb Tagine with Tunisian Flair",
+  "description": "A hearty North African-inspired stew made with tender lamb and fragrant spices.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "Tunisian spices",
+      "amount": "2 tsp",
+      "notes": "blend of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Crumbly bread",
+      "amount": "1 cup",
+      "notes": "stale bread, torn into small pieces"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for browning the lamb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": "for sweetness"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large Dutch oven, heat the oil over medium-high heat.",
+    "Brown the lamb cubes in batches, then transfer to a plate.",
+    "Reduce heat to medium, add the onion, and cook until softened.",
+    "Add the garlic, Tunisian spices, and cook for 1 minute.",
+    "Add the cooked lamb, apricots, broth, and honey.",
+    "Bring to a simmer, then cover and transfer to the preheated oven.",
+    "Bake for 2 hours, or until the lamb is tender.",
+    "Stir in the crumbly bread, and cook for an additional 10 minutes.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "stew",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/perfectly-crumbly-tunisian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T15:18:38.260Z"
+}
