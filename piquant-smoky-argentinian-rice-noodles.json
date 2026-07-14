@@ -1,0 +1,76 @@
+{
+  "slug": "piquant-smoky-argentinian-rice-noodles",
+  "title": "Smoky Beef Noodle Stir Fry",
+  "description": "A quick and flavorful stir fry dish featuring smoky beef and noodles. This recipe is a hearty and comforting meal option.",
+  "cuisine": "argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoky Beef (1 pound)",
+      "amount": "1 lb",
+      "notes": "Sliced into thin strips"
+    },
+    {
+      "name": "Piquant Sauce (1/2 cup)",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Noodles (1 cup)",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Rice (1 1/2 cups)",
+      "amount": "1 1/2 cups",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Vegetable Oil (2 tablespoons)",
+      "amount": "2 tbsp",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Garlic (2 cloves)",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger (1-inch piece)",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and ginger and stir-fry for 1 minute, until fragrant.",
+    "Add the smoky beef and stir-fry for 3-4 minutes, until browned.",
+    "Add the piquant sauce and stir-fry for 1-2 minutes, until the sauce thickens.",
+    "Add the cooked noodles and stir-fry for 1-2 minutes, until the noodles are well coated with the sauce.",
+    "Serve the noodle stir fry hot, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "noodles",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-smoky-argentinian-rice-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T07:50:30.743Z"
+}
