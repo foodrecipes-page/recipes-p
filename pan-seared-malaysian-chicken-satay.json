@@ -1,0 +1,84 @@
+{
+  "slug": "pan-seared-malaysian-chicken-satay",
+  "title": "Malaysian Chicken Satay",
+  "description": "A popular Malaysian dish of grilled chicken satay, served with spicy peanut sauce.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "snack\"|\"dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into skewers"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "100ml",
+      "notes": "for marinade"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons",
+      "notes": "for grilling"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "for marinade"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 inches",
+      "notes": "for marinade"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced for marinade"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "handful",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Marinate chicken in coconut milk, soy sauce, brown sugar, ginger, and garlic for at least 2 hours.",
+    "Preheat grill or grill pan to medium-high heat.",
+    "Thread chicken onto skewers and brush with peanut oil.",
+    "Grill chicken for 5-6 minutes per side, or until cooked through.",
+    "Serve hot with spicy peanut sauce and garnished with coriander leaves."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "malaysian",
+    "grilled",
+    "satay",
+    "peanut-sauce",
+    "snack",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-malaysian-chicken-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T11:16:21.751Z"
+}
