@@ -1,0 +1,72 @@
+{
+  "slug": "pan-seared-american-tofu-skillet",
+  "title": "Pan Seared Tofu",
+  "description": "A simple and delicious American-style dish featuring crispy pan-seared tofu.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (12 oz)",
+      "notes": ""
+    },
+    {
+      "name": "pan",
+      "amount": "",
+      "notes": "for searing tofu"
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "for cooking tofu"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for pan-searing"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium-high heat.",
+    "Cut the tofu into 1-inch cubes and place on a plate.",
+    "Season the tofu with garlic powder and salt.",
+    "Add 1 tablespoon of olive oil to the preheated skillet.",
+    "Sear the tofu cubes until golden brown on all sides, about 3-4 minutes per side.",
+    "Remove the tofu from the skillet and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the pan-seared tofu hot, garnished with your favorite herbs or spices."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pan-seared-tofu",
+    "american-cuisine",
+    "vegetarian-recipe"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 4,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-american-tofu-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T11:48:37.535Z"
+}
