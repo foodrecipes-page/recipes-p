@@ -1,0 +1,88 @@
+{
+  "slug": "pleasantly-gooey-vietnamese-red-bean-paste-bun-bo-hue",
+  "title": "Hue-Style Beef Noodle Soup",
+  "description": "A spicy and flavorful Vietnamese noodle soup originating from Hue, made with beef, herbs, and spices.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (thinly sliced)",
+      "amount": "1 pound",
+      "notes": "Rare steak or thinly sliced beef works best"
+    },
+    {
+      "name": "Red bean paste",
+      "amount": "2 tablespoons",
+      "notes": "Can be substituted with sweetened red bean paste"
+    },
+    {
+      "name": "Gooey bun",
+      "amount": "4",
+      "notes": "Can be substituted with fresh spring rolls or rice paper"
+    },
+    {
+      "name": "Vietnamese chili sauce (nuoc cham)",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Asian grocery stores"
+    },
+    {
+      "name": "Hue-style beef broth",
+      "amount": "2 cups",
+      "notes": "Can be made with beef broth and spices"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1 cup",
+      "notes": "Fresh or dried noodles work best"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 bunch",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1 bunch",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Bring Hue-style beef broth to a boil in a large pot.",
+    "Add sliced beef to the pot and cook for 1-2 minutes.",
+    "Add red bean paste and cook for an additional minute.",
+    "Cook rice noodles according to package instructions.",
+    "Assemble noodle soup bowls with cooked noodles, beef, and broth.",
+    "Garnish with fresh cilantro, mint, and a lime wedge.",
+    "Serve immediately with Vietnamese chili sauce on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "noodle-soup",
+    "beef",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pleasantly-gooey-vietnamese-red-bean-paste-bun-bo-hue",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T13:25:30.501Z"
+}
