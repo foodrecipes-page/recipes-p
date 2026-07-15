@@ -1,0 +1,84 @@
+{
+  "slug": "pillowy-brazilian-renkon-lotus-root-confit",
+  "title": "Pan-Seared Brazilian Confit with Lotus Root and Renkon",
+  "description": "A flavorful and savory dish featuring the rich flavors of Brazilian confit, pan-seared with lotus root and served with renkon.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brazilian Confit",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Lotus Root",
+      "amount": "2 medium",
+      "notes": "Peel and slice into 1/2-inch thick rounds"
+    },
+    {
+      "name": "Renkon",
+      "amount": "1 medium",
+      "notes": "Slice into thin rounds"
+    },
+    {
+      "name": "Pillowy",
+      "amount": "2 tablespoons",
+      "notes": "Optional: Use as a garnish or add to pan for extra flavor"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For pan-searing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Mince and sauté with confit"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add garlic and sauté for 1-2 minutes until fragrant.",
+    "Add Brazilian confit and stir to coat with oil and garlic.",
+    "Add sliced lotus root and renkon to the skillet, stirring to combine with confit.",
+    "Cook for 3-4 minutes per side, or until lotus root and renkon are tender and lightly browned.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with pillowy if desired.",
+    "Optional: Add pillowy to the pan and stir to combine for an extra layer of flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "vegetarian",
+    "gluten-free",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-brazilian-renkon-lotus-root-confit",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T21:58:24.851Z"
+}
