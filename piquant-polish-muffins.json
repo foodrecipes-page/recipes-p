@@ -1,0 +1,85 @@
+{
+  "slug": "piquant-polish-muffins",
+  "title": "Polish-Style Piquant Muffins",
+  "description": "Moist and flavorful muffins infused with the spices of Polish cuisine, topped with a tangy piquant sauce.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Polish",
+      "amount": "1 cup  all-purpose flour"
+    },
+    {
+      "name": "piquant",
+      "amount": "2 tablespoons  piquant sauce"
+    },
+    {
+      "name": "muffins",
+      "amount": "4  muffins, crumbled"
+    },
+    {
+      "name": "1/2 cup milk",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon baking powder",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons unsalted butter, melted",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line a 12-cup muffin tin with paper liners.",
+    "In a medium bowl, whisk together flour, sugar, baking powder, and salt.",
+    "In a large bowl, whisk together milk, eggs, and melted butter.",
+    "Add the dry ingredients to the wet ingredients and stir until just combined.",
+    "Gently fold in the crumbled muffins.",
+    "Divide the batter evenly among the muffin cups.",
+    "Drizzle the piquant sauce over the muffins.",
+    "Bake for 18-20 minutes, or until a toothpick inserted into the center of a muffin comes out clean.",
+    "Allow the muffins to cool in the tin for 5 minutes, then transfer them to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "muffins",
+    "polish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-polish-muffins",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T17:18:53.378Z"
+}
