@@ -1477,16 +1477,16 @@
   },
   {
     "slug": "peppery-american-falafel-wrap",
-    "title": "Peppery American Falafel Wrap",
+    "title": "Classic Falafel Wrap",
     "tags": [
-      "easy-lunch",
-      "healthy-snack",
-      "middle-eastern-inspiration",
-      "vegan-option",
-      "weeknight"
+      "falafel",
+      "wrap",
+      "middle-eastern",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 23,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 15,
     "shard": "p"
   },
   {
