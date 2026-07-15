@@ -644,16 +644,18 @@
   },
   {
     "slug": "pan-seared-malaysian-chicken-satay",
-    "title": "Pan Seared Malaysian Chicken Satay",
+    "title": "Malaysian Chicken Satay",
     "tags": [
-      "caramelized-sugar",
-      "grilled-chicken",
-      "kosher-friendly",
-      "malaysian-cuisine",
-      "special-occasion"
+      "chicken",
+      "malaysian",
+      "grilled",
+      "satay",
+      "peanut-sauce",
+      "snack",
+      "dinner"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 50,
+    "cuisine": "malaysian",
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
@@ -5469,16 +5471,16 @@
   },
   {
     "slug": "peruvian-style-spicy-peruvian-nduja-anticuchos",
-    "title": "Peruvian-Style Spicy Peruvian nduja Anticuchos",
+    "title": "Peruvian Nduja Anticuchos",
     "tags": [
-      "high-protein",
-      "hot-pot",
-      "one-pan",
       "peruvian",
-      "spicy"
+      "spicy",
+      "nduja",
+      "anticuchos",
+      "beef-heart"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
@@ -8490,17 +8492,14 @@
   },
   {
     "slug": "plush-argentinian-beef-empanadas",
-    "title": "Plush Argentinian Beef Empanadas",
+    "title": "Argentinian Beef Empanadas",
     "tags": [
-      "argentinian-food",
-      "beef-recipes",
+      "beef",
       "empanadas",
-      "festive-food",
-      "shojin-friendly",
-      "steamed-dishes"
+      "argentinian"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 60,
+    "cuisine": "argentinian",
+    "totalTimeMin": 55,
     "shard": "p"
   },
   {
