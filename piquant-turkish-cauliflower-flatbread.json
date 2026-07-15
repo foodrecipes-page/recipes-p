@@ -1,0 +1,72 @@
+{
+  "slug": "piquant-turkish-cauliflower-flatbread",
+  "title": "Turkish Cauliflower Pockets",
+  "description": "A crispy, flavorful twist on traditional flatbread. Fill with roasted cauliflower, piquant sauce, and spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Cauliflower",
+      "amount": "1 head, broken into florets"
+    },
+    {
+      "name": "Piquant Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Turkish Red Pepper Flake",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss cauliflower with 1 tablespoon olive oil, salt, and black pepper. Spread on a baking sheet and roast for 20 minutes.",
+    "In a small bowl, mix piquant sauce and Turkish red pepper flake.",
+    "Warm flatbread by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble pockets by spooning roasted cauliflower onto flatbread, followed by a dollop of piquant sauce.",
+    "Fold flatbread in half to enclose filling.",
+    "Brush tops with remaining 1 tablespoon olive oil.",
+    "Bake for an additional 5-7 minutes, or until crispy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cauliflower",
+    "flatbread",
+    "middle-eastern",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-turkish-cauliflower-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T08:41:11.993Z"
+}
