@@ -12190,17 +12190,15 @@
   },
   {
     "slug": "purely-smoked-syrian-chicken-kebabs",
-    "title": "Purely Smoked Syrian Chicken Kebabs",
+    "title": "Smoked Kebab Shawarma",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
+      "kebab",
+      "shawarma",
       "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "lunch"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 10,
     "shard": "p"
   },
   {
