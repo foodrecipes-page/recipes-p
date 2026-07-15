@@ -359,17 +359,14 @@
   },
   {
     "slug": "pan-seared-american-tofu-skillet",
-    "title": "Pan Seared American Tofu Skillet",
+    "title": "Pan Seared Tofu",
     "tags": [
+      "pan-seared-tofu",
       "american-cuisine",
-      "breakfast-ideas",
-      "brunch-ideas",
-      "one-pan",
-      "tofu-recipes",
-      "vegan-friendly"
+      "vegetarian-recipe"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 40,
+    "cuisine": "american",
+    "totalTimeMin": 22,
     "shard": "p"
   },
   {
@@ -4606,21 +4603,14 @@
   },
   {
     "slug": "peppery-tender-australian-almond-bowl",
-    "title": "Peppery Tender Australian Almond Bowl",
+    "title": "Australian Peppercorn Crusted Almond Crusted Snapper",
     "tags": [
-      "vegetarian",
-      "tandoori",
-      "almond",
-      "peppery",
-      "raw-friendly",
-      "energetic",
-      "bowl",
-      "quick",
-      "healthy",
+      "australian",
+      "fish",
       "gluten-free"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "p"
   },
   {
@@ -6115,13 +6105,12 @@
   },
   {
     "slug": "pillowy-sweet-indian-rice-dosa",
-    "title": "Pillowy Sweet Indian Rice Dosa",
+    "title": "Delicious Sweet Dosa",
     "tags": [
-      "breakfast-idea",
-      "indian-recipe",
-      "plant-based",
-      "sweet-dosa",
-      "vegan-friendly"
+      "breakfast",
+      "indian",
+      "dosas",
+      "sweet"
     ],
     "cuisine": "Indian",
     "totalTimeMin": 50,
