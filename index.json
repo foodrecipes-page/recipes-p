@@ -2727,19 +2727,15 @@
   },
   {
     "slug": "peppery-dutch-lentils-hash",
-    "title": "Peppery Dutch Lentils Hash",
+    "title": "Dutch Hash with Lentils",
     "tags": [
       "breakfast",
-      "dinner",
-      "easy",
-      "gluten-free",
+      "lentils",
       "hash",
-      "lunch",
-      "plant-based",
-      "vegan"
+      "dutch"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -3308,17 +3304,15 @@
   },
   {
     "slug": "peppery-gooey-malaysian-semolina-stir-fry",
-    "title": "Peppery Gooey Malaysian Semolina Stir-fry",
+    "title": "Malaysian Semolina Fritters",
     "tags": [
       "malaysian",
-      "peppery",
-      "goey",
-      "kid-friendly",
-      "semolina",
-      "plant-based"
+      "dessert",
+      "fritters",
+      "semolina"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 20,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
