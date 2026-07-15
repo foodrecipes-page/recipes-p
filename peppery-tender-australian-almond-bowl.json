@@ -1,0 +1,74 @@
+{
+  "slug": "peppery-tender-australian-almond-bowl",
+  "title": "Australian Peppercorn Crusted Almond Crusted Snapper",
+  "description": "A delicate Australian snapper fillet coated with a mixture of almond meal and peppercorns, pan-seared to perfection. This dish is perfect for a special occasion dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian snapper fillet",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "almond meal",
+      "amount": "1 cup",
+      "notes": "ground almonds"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "2 tbsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juice"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Rinse the snapper fillets and pat them dry with paper towels.",
+    "3. In a shallow dish, mix together the almond meal and black peppercorns.",
+    "4. Dip each snapper fillet in the almond meal mixture, coating both sides evenly.",
+    "5. Heat the olive oil in a large skillet over medium-high heat.",
+    "6. Add the coated snapper fillets to the skillet and cook for 2-3 minutes on each side, or until golden brown.",
+    "7. Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until the snapper is cooked through.",
+    "8. Remove the skillet from the oven and sprinkle the snapper with salt and lemon juice.",
+    "9. Serve the Australian peppercorn crusted almond crusted snapper hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "fish",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-tender-australian-almond-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T11:41:05.236Z"
+}
