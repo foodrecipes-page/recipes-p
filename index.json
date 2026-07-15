@@ -1324,16 +1324,14 @@
   },
   {
     "slug": "penetrating-yunnan-peanuts-boil",
-    "title": "penetrating yunnan peanuts boil",
+    "title": "Penetrating Peanut Soup",
     "tags": [
-      "high-protein",
-      "mediterranean",
-      "one-pan",
-      "pressure-cooker",
-      "weeknight"
+      "peanut-soup",
+      "vegetarian-soup",
+      "asian-soup"
     ],
-    "cuisine": "chinese",
-    "totalTimeMin": 25,
+    "cuisine": "Asian",
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -6400,16 +6398,16 @@
   },
   {
     "slug": "pink-honey-mexican-peach-stir-fry",
-    "title": "Grilled Peach Glazed Pork Chops",
+    "title": "Pink Peach Stir Fry",
     "tags": [
-      "grilled",
       "peach",
-      "honey",
-      "pork",
-      "glazed"
+      "stir-fry",
+      "dinner",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -7442,17 +7440,14 @@
   },
   {
     "slug": "piquant-polish-muffins",
-    "title": "Piquant Polish Muffins",
+    "title": "Polish-Style Piquant Muffins",
     "tags": [
-      "clay-pot-cooking",
-      "low-calorie",
-      "polish-cuisine",
-      "tangy-treats",
-      "vegetarian-friendly",
-      "wooden-board-serving"
+      "breakfast",
+      "muffins",
+      "polish-cuisine"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 28,
     "shard": "p"
   },
   {
