@@ -1,0 +1,65 @@
+{
+  "slug": "pillowy-sweet-indian-rice-dosa",
+  "title": "Delicious Sweet Dosa",
+  "description": "A sweet twist on the classic Indian dosa, perfect for breakfast or as a snack. The pillowy texture of this dosa is achieved by the fermented batter.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pillowy",
+      "amount": "1 cup",
+      "notes": "fermented dosa batter"
+    },
+    {
+      "name": "sweet",
+      "amount": "1/2 cup",
+      "notes": "grated jaggery or sugar"
+    },
+    {
+      "name": "dosas",
+      "amount": "2-3",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Soak the rice in water for 4-5 hours.",
+    "Grind the soaked rice into a smooth batter.",
+    "Mix in the fermented pillowy dosa batter and sweet.",
+    "Heat a non-stick pan over medium heat.",
+    "Pour a ladle of the dosa batter onto the pan and spread it evenly.",
+    "Cook for 1-2 minutes or until the edges start to curl.",
+    "Flip the dosa and cook for another minute.",
+    "Repeat with the remaining batter to make more dosas.",
+    "Serve the sweet dosas hot with your favorite chutney or sambar."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "indian",
+    "dosas",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-sweet-indian-rice-dosa",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T12:54:56.655Z"
+}
