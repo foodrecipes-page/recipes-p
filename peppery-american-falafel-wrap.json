@@ -1,0 +1,92 @@
+{
+  "slug": "peppery-american-falafel-wrap",
+  "title": "Classic Falafel Wrap",
+  "description": "A flavorful and crunchy Middle Eastern-inspired wrap filled with crispy falafel, fresh veggies, and creamy tahini sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Falafel Mix",
+      "amount": "1 package (about 20 pieces)",
+      "notes": ""
+    },
+    {
+      "name": "Peppery Wrap",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Tomato, diced",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber, sliced",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion, thinly sliced",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Tahini Sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "American Cheese, sliced (optional)",
+      "amount": "1 slice",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce, shredded",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pickled Turnip, sliced (optional)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet or griddle over medium-high heat.",
+    "2. Cook the falafel according to package instructions.",
+    "3. Warm the wrap in the microwave for 10-15 seconds or in a dry skillet for a few seconds.",
+    "4. Spread a layer of tahini sauce on the wrap.",
+    "5. Add a few pieces of cooked falafel on top of the sauce.",
+    "6. Add diced tomato, cucumber, red onion, lettuce, and pickled turnip (if using).",
+    "7. Place a slice of American cheese on top (if using).",
+    "8. Fold the bottom half of the wrap up over the filling, then fold in the sides and roll up the wrap.",
+    "9. Cut the wrap in half and serve immediately.",
+    "10. Enjoy your delicious and easy falafel wrap!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "falafel",
+    "wrap",
+    "middle-eastern",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-american-falafel-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T14:56:38.714Z"
+}
