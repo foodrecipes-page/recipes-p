@@ -1,0 +1,63 @@
+{
+  "slug": "peppery-gooey-malaysian-semolina-stir-fry",
+  "title": "Malaysian Semolina Fritters",
+  "description": "A sweet and crispy dessert inspired by Malaysian cuisine. Crunchy on the outside, gooey on the inside.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "2 cups"
+    },
+    {
+      "name": "peppery",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "gooey",
+      "amount": "1/4 cup",
+      "notes": "honey"
+    },
+    {
+      "name": "fry",
+      "amount": "vegetable oil for frying"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Combine semolina, peppery, and honey in a large bowl.",
+    "Gradually add water, stirring until a thick batter forms.",
+    "Heat vegetable oil in a deep frying pan to 350°F (180°C).",
+    "Using a spoon, drop small amounts of the batter into the hot oil.",
+    "Fry for 3-4 minutes, or until golden brown and puffed up.",
+    "Using a slotted spoon, remove fritters from the oil and drain on paper towels.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "dessert",
+    "fritters",
+    "semolina"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-gooey-malaysian-semolina-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T21:01:36.055Z"
+}
