@@ -1,0 +1,91 @@
+{
+  "slug": "peruvian-style-spicy-peruvian-nduja-anticuchos",
+  "title": "Peruvian Nduja Anticuchos",
+  "description": "Spicy Peruvian-style beef heart skewers infused with nduja for a bold twist on a classic dish.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Beef heart",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Nduja",
+      "amount": "2 tablespoons",
+      "notes": "Spicy Italian sausage spread"
+    },
+    {
+      "name": "Peruvian seasoning",
+      "amount": "2 teaspoons",
+      "notes": "Or substitute with a mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together Peruvian seasoning, garlic, red onion, cilantro, lime juice, salt, and black pepper.",
+    "2. Add the beef heart pieces to the marinade and mix well to coat.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "4. Preheat a grill or grill pan to medium-high heat.",
+    "5. Thread the marinated beef heart pieces onto skewers.",
+    "6. Brush the grill or grill pan with oil to prevent sticking.",
+    "7. Grill the anticuchos for 2-3 minutes per side, or until cooked through.",
+    "8. While the anticuchos are cooking, heat the nduja in a small saucepan over low heat.",
+    "9. Once the anticuchos are cooked, brush them with the nduja sauce and serve hot.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "spicy",
+    "nduja",
+    "anticuchos",
+    "beef-heart"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peruvian-style-spicy-peruvian-nduja-anticuchos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T11:14:10.993Z"
+}
