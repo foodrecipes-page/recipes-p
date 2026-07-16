@@ -4765,18 +4765,15 @@
   },
   {
     "slug": "peppery-ukrainian-oats-hash",
-    "title": "Peppery Ukrainian Oats Hash",
+    "title": "Ukrainian Peppery Oat Hash",
     "tags": [
       "breakfast",
-      "easy-to-make",
-      "high-protein",
-      "lunch",
-      "meal-prep",
-      "one-pan",
-      "whole30"
+      "ukrainian",
+      "peppery",
+      "oatmeal"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 37,
+    "totalTimeMin": 50,
     "shard": "p"
   },
   {
@@ -5356,14 +5353,13 @@
   },
   {
     "slug": "perfectly-tender-moroccan-lamb-tagine",
-    "title": "Moroccan Lamb Tagine",
+    "title": "Classic Moroccan Lamb Tagine",
     "tags": [
-      "crowd-pleaser",
-      "lamb",
       "moroccan",
-      "one-pot",
-      "special-occasion",
-      "tagine"
+      "lamb",
+      "tagine",
+      "slow-cooker",
+      "braised"
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 180,
