@@ -1,0 +1,83 @@
+{
+  "slug": "peppery-moroccan-lamb-zaalouk",
+  "title": "Lamb Zaalouk Tagine",
+  "description": "A North African-inspired stew made with lamb, peppers, and eggplant in a rich and aromatic sauce.",
+  "cuisine": "North African",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "Bone-in, cut into 2-inch pieces"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "2",
+      "notes": "Diced"
+    },
+    {
+      "name": "Moroccan peppery spice mix",
+      "amount": "2 tsp",
+      "notes": "Available at most spice shops or online"
+    },
+    {
+      "name": "Zaalouk sauce",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For browning lamb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Eggplant",
+      "amount": "1",
+      "notes": "Diced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown lamb in batches until browned, about 5 minutes per batch.",
+    "Remove lamb from pot, set aside.",
+    "Add more oil if necessary, then sauté onion and garlic until softened.",
+    "Add bell pepper and eggplant, cook until tender.",
+    "Return lamb to pot, add zaalouk sauce and spice mix.",
+    "Cover and simmer for 1 1/2 hours, or until lamb is tender.",
+    "Serve over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "eggplant",
+    "moroccan",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": "35g",
+    "carbs": "25g",
+    "fat": "35g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-moroccan-lamb-zaalouk",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:01:01.266Z"
+}
