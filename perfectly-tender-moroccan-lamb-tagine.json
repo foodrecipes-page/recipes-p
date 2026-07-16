@@ -1,0 +1,116 @@
+{
+  "slug": "perfectly-tender-moroccan-lamb-tagine",
+  "title": "Classic Moroccan Lamb Tagine",
+  "description": "A traditional Moroccan stew cooked in a clay pot with tender lamb, aromatic spices, and dried fruits.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "pork-free",
+    "dairy-free",
+    "vegetarian-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 2-inch pieces",
+      "amount": "1.5 pounds",
+      "notes": "Bone-in or boneless"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking the lamb"
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium",
+      "notes": "About 2 cups"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": "About 1 tablespoon"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tablespoon",
+      "notes": "About 15g"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 teaspoon",
+      "notes": "About 5g"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon",
+      "notes": "About 5g"
+    },
+    {
+      "name": "Cinnamon powder",
+      "amount": "1/2 teaspoon",
+      "notes": "About 2g"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": "About 2g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "About 5g"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "About 2g"
+    },
+    {
+      "name": "Dried apricots, chopped",
+      "amount": "1 cup",
+      "notes": "About 120g"
+    },
+    {
+      "name": "Dried prunes, chopped",
+      "amount": "1 cup",
+      "notes": "About 120g"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "About 475ml"
+    }
+  ],
+  "instructions": [
+    "1. Heat the oil in the bottom of a clay tagine or a large Dutch oven over medium heat.",
+    "2. Brown the lamb pieces in batches, about 5 minutes per batch, then remove them from the pot.",
+    "3. Add the onion, garlic, and ginger to the pot and cook until the onion is softened, about 5 minutes.",
+    "4. Stir in the cumin, coriander, cinnamon, turmeric, salt, and black pepper. Cook for 1 minute.",
+    "5. Add the browned lamb, apricots, prunes, and chicken broth to the pot. Stir to combine.",
+    "6. Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "7. Braise the tagine for 2-1/2 to 3 hours, or until the lamb is tender and falls apart easily.",
+    "8. Serve the tagine hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "tagine",
+    "slow-cooker",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/perfectly-tender-moroccan-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:58:15.672Z"
+}
