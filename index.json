@@ -4143,16 +4143,15 @@
   },
   {
     "slug": "peppery-moroccan-lamb-zaalouk",
-    "title": "Peppery Moroccan Lamb Zaalouk",
+    "title": "Lamb Zaalouk Tagine",
     "tags": [
       "lamb",
+      "eggplant",
       "moroccan",
-      "one-pan",
-      "quick-fix",
-      "weeknight"
+      "tagine"
     ],
-    "cuisine": "moroccan",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 110,
     "shard": "p"
   },
   {
@@ -12969,6 +12968,18 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-mediterranean-peppery-potatoes-bake--mexican",
+    "title": "Mexican Peppery Potato Bake",
+    "tags": [
+      "mexican",
+      "potatoes",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 55,
     "shard": "p"
   }
 ]
