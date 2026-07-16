@@ -1,0 +1,65 @@
+{
+  "slug": "peppery-mediterranean-peppery-potatoes-bake--mexican",
+  "title": "Mexican Peppery Potato Bake",
+  "description": "A spicy twist on the classic potato bake, infused with the bold flavors of Mexico. Perfect for a weeknight dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "peppery sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mediterranean cheese",
+      "amount": "1/2 cup shredded"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Poke some holes in the potatoes with a fork to allow steam to escape.",
+    "Rub the potatoes with olive oil and season with salt and pepper.",
+    "Place the potatoes on a baking sheet and bake for 45 minutes.",
+    "While the potatoes are baking, mix the peppery sauce and mediterranean cheese in a bowl.",
+    "When the potatoes are done, remove them from the oven and top each potato with the peppery sauce mixture.",
+    "Sprinkle chopped cilantro on top and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "potatoes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-mediterranean-peppery-potatoes-bake--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:40:56.457Z"
+}
