@@ -1,0 +1,89 @@
+{
+  "slug": "paleo-citrus-king-prawn-appetizer--mexican",
+  "title": "Citrus Prawn Fajita",
+  "description": "A flavorful and zesty Mexican appetizer featuring succulent prawns, marinated in a citrus blend.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Prawns (12 count)",
+      "amount": "1 pound",
+      "notes": "Deveined and peeled"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Orange juice",
+      "amount": "1 tablespoon",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon",
+      "notes": "Dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Coarse"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of avocado oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and bell pepper, cooking for 3-4 minutes until tender.",
+    "Add the cumin, chili powder, salt, and black pepper to the skillet, stirring to combine.",
+    "Add the prawns to the skillet, cooking for 2-3 minutes per side until pink and cooked through.",
+    "Stir in the lime and orange juice, cooking for an additional minute.",
+    "Serve the prawns with the bell pepper and onion mixture, garnished with fresh cilantro if desired.",
+    "For added flavor, serve with warm flour or corn tortillas on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "citrus",
+    "prawn"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 24,
+    "carbs": 8,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/paleo-citrus-king-prawn-appetizer--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T06:44:50.498Z"
+}
