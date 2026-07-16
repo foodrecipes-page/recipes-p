@@ -1,0 +1,92 @@
+{
+  "slug": "peppery-crispy-middle-eastern-falafel",
+  "title": "Delicious Middle Eastern Falafel Wrap",
+  "description": "A flavorful and healthy wrap filled with crispy falafel, fresh vegetables, and creamy tahini sauce. This Middle Eastern-inspired dish is perfect for a quick and easy meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Falafel",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tahini sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pita bread",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Middle eastern seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy sumac",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a bowl, mix together falafel, middle eastern seasoning and crunchy sumac.",
+    "Spread the falafel mixture on a baking sheet and bake for 20 minutes.",
+    "Prepare the tahini sauce by mixing together tahini, lemon juice and water.",
+    "Warm the pita bread in the oven for 2 minutes.",
+    "Assemble the wrap by spreading the tahini sauce on the pita bread.",
+    "Add the falafel, lettuce, tomatoes, cucumber and red onion on top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "falafel",
+    "vegan",
+    "gluten-free",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crispy-middle-eastern-falafel",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T05:53:20.815Z"
+}
