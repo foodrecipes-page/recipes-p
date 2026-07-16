@@ -12994,5 +12994,18 @@
     "cuisine": "german",
     "totalTimeMin": 30,
     "shard": "p"
+  },
+  {
+    "slug": "purely-molten-slovakian-chicken-pilaf--german",
+    "title": "Slovakian Chicken Pilaf",
+    "tags": [
+      "german",
+      "pilaf",
+      "chicken",
+      "slovakian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "p"
   }
 ]
