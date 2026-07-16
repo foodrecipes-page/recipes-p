@@ -13036,5 +13036,18 @@
     "cuisine": "Mediterranean",
     "totalTimeMin": 15,
     "shard": "p"
+  },
+  {
+    "slug": "peppery-mediterranean-runner-bean-salad--mexican",
+    "title": "Southwestern Salad",
+    "tags": [
+      "southwestern",
+      "mexican",
+      "salad",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 15,
+    "shard": "p"
   }
 ]
