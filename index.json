@@ -6199,16 +6199,15 @@
   },
   {
     "slug": "pillowy-venezuelan-paprika-wrap",
-    "title": "pillowy venezuelan paprika wrap",
+    "title": "Pillowy Venezuelan Chicken Wrap",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "latinamerican",
+      "chicken",
+      "wrap",
+      "grilled"
     ],
-    "cuisine": "venezuelan",
-    "totalTimeMin": 35,
+    "cuisine": "Latin American",
+    "totalTimeMin": 27,
     "shard": "p"
   },
   {
@@ -12980,6 +12979,20 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 55,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-french-fromage-frais-polish-dish--german",
+    "title": "Savory German Sausage Skillet",
+    "tags": [
+      "german",
+      "breakfast",
+      "sausage",
+      "cheese",
+      "bread"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
     "shard": "p"
   }
 ]
