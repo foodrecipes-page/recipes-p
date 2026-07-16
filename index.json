@@ -13007,5 +13007,34 @@
     "cuisine": "german",
     "totalTimeMin": 25,
     "shard": "p"
+  },
+  {
+    "slug": "piquant-nutty-algerian-lamb-tagine--german",
+    "title": "Algerian Lamb Tagine with a German Twist",
+    "tags": [
+      "german",
+      "algerian",
+      "lamb",
+      "tagine",
+      "slow-cooker"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 500,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-mediterranean-runner-bean-salad--vegetarian",
+    "title": "Runner Bean Salad with Mediterranean Twist",
+    "tags": [
+      "runner-beans",
+      "mediterranean",
+      "salad",
+      "vegetarian",
+      "healthy",
+      "easy"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 15,
+    "shard": "p"
   }
 ]
