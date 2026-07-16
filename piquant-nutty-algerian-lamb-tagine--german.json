@@ -1,0 +1,70 @@
+{
+  "slug": "piquant-nutty-algerian-lamb-tagine--german",
+  "title": "Algerian Lamb Tagine with a German Twist",
+  "description": "A hearty and exotic German-inspired tagine made with tender lamb and aromatic spices.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1.5 pounds boneless lamb shoulder",
+      "notes": ""
+    },
+    {
+      "name": "piquant",
+      "amount": "2 tablespoons piquant spice blend",
+      "notes": ""
+    },
+    {
+      "name": "algerian",
+      "amount": "2 tablespoons algerian spice mix",
+      "notes": ""
+    },
+    {
+      "name": "nutty",
+      "amount": "2 tablespoons chopped walnuts",
+      "notes": ""
+    },
+    {
+      "name": "tagine",
+      "amount": "1 large tagine or Dutch oven",
+      "notes": "For slow cooking"
+    }
+  ],
+  "instructions": [
+    "Brown the lamb in a skillet over medium-high heat.",
+    "Add piquant spice blend and algerian spice mix, and cook for 1 minute.",
+    "Transfer the lamb to a slow cooker or tagine.",
+    "Add 1 cup of water, cover, and cook on low for 8 hours.",
+    "Add chopped walnuts and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot with crusty bread or over egg noodles.",
+    "Allow 30 minutes to rest before slicing the lamb.",
+    "Serve sliced lamb with the flavorful sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 480,
+  "totalTimeMin": 500,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "german",
+    "algerian",
+    "lamb",
+    "tagine",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 56,
+    "carbs": 15,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-nutty-algerian-lamb-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:12:18.805Z"
+}
