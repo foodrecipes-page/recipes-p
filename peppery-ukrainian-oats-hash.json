@@ -1,0 +1,89 @@
+{
+  "slug": "peppery-ukrainian-oats-hash",
+  "title": "Ukrainian Peppery Oat Hash",
+  "description": "A hearty, savory dish that combines the flavors of Ukraine with a peppery kick. Perfect for a cold morning.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "peppery potatoes",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ukrainian sausage",
+      "amount": "1 lb",
+      "notes": "such as kovbasa"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1/2 cup",
+      "notes": "quick-cooking"
+    },
+    {
+      "name": "hash browns",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine sliced potatoes and chopped onion. Drizzle with 1 tbsp butter and toss to coat.",
+    "Spread potatoes on a baking sheet and roast for 20-25 minutes, or until tender and golden brown.",
+    "While potatoes are roasting, cook Ukrainian sausage in a large skillet over medium-high heat, breaking up with a spoon as it cooks.",
+    "Add minced garlic to the skillet and cook for 1 minute.",
+    "Stir in hash browns and cook until heated through.",
+    "In a separate bowl, mix together oats and a pinch of salt.",
+    "Add cooked sausage mixture to the bowl with oats and stir to combine.",
+    "To assemble the dish, place a scoop of roasted potatoes on a plate, top with a spoonful of sausage and oat mixture, and garnish with chopped fresh herbs (if desired).",
+    "Serve hot and enjoy!",
+    "Note: Cooking time may vary depending on the size and number of servings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "ukrainian",
+    "peppery",
+    "oatmeal"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-ukrainian-oats-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:44:07.947Z"
+}
