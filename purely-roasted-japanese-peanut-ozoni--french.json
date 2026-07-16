@@ -1,0 +1,79 @@
+{
+  "slug": "purely-roasted-japanese-peanut-ozoni--french",
+  "title": "Pan-Seared Duck Breast with Cherry Compote",
+  "description": "A classic French dish featuring seared duck breast served with a rich cherry compote. This recipe showcases the simplicity and elegance of French cuisine.",
+  "cuisine": "french",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "4",
+      "notes": "Boneless"
+    },
+    {
+      "name": "Cherry jam",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Kosher or sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For searing"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "For cherry compote"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Season the duck breast with salt and black pepper.",
+    "3. Heat a skillet over medium-high heat and add the olive oil.",
+    "4. Sear the duck breast for 2-3 minutes on each side, or until browned.",
+    "5. Transfer the skillet to the oven and cook for 10-12 minutes, or until the duck reaches 130°F (54°C) for medium-rare.",
+    "6. Let the duck rest for 5 minutes before slicing.",
+    "7. In a saucepan, combine the cherry jam, red wine, and 1 cup of water.",
+    "8. Bring the mixture to a boil over high heat, then reduce the heat to medium-low and simmer for 10-15 minutes, or until the compote has thickened.",
+    "9. Garnish the duck with fresh thyme and serve with the cherry compote."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "duck",
+    "cherry-compote"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-roasted-japanese-peanut-ozoni--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:21:12.263Z"
+}
