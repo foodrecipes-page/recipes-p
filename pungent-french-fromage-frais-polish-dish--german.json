@@ -1,0 +1,80 @@
+{
+  "slug": "pungent-french-fromage-frais-polish-dish--german",
+  "title": "Savory German Sausage Skillet",
+  "description": "A hearty German-inspired dish featuring Polish sausage, onions, and french bread.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Polish sausage (such as Kielbasa)",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "French bread",
+      "amount": "1 loaf",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Cheddar cheese (fromage)",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Fresh parsley (frais)",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium-high heat.",
+    "Add sliced onion and cook for 5 minutes, or until translucent.",
+    "Add garlic and cook for an additional minute.",
+    "Add Polish sausage and cook for 5-7 minutes, or until browned.",
+    "Add cubed French bread and cook for 2-3 minutes, or until toasted.",
+    "Top with shredded cheddar cheese and cook until melted.",
+    "Stir in chopped parsley.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "breakfast",
+    "sausage",
+    "cheese",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-french-fromage-frais-polish-dish--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:03:36.357Z"
+}
