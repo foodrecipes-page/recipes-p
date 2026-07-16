@@ -2181,16 +2181,17 @@
   },
   {
     "slug": "peppery-crispy-middle-eastern-falafel",
-    "title": "Peppery, Crispy Middle Eastern Falafel",
+    "title": "Delicious Middle Eastern Falafel Wrap",
     "tags": [
-      "peppery",
-      "crispy",
-      "post-workout",
-      "french",
-      "halal-friendly"
+      "middle-eastern",
+      "falafel",
+      "vegan",
+      "gluten-free",
+      "wrap",
+      "lunch"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
@@ -13048,6 +13049,35 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 15,
+    "shard": "p"
+  },
+  {
+    "slug": "pan-seared-venezuelan-sweetcorn-paella--mexican",
+    "title": "Venezuelan Sweetcorn Paella",
+    "tags": [
+      "mexican",
+      "venezuelan",
+      "sweetcorn",
+      "paella",
+      "rice"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-crumbly-middle-eastern-fish-crumble--french",
+    "title": "Pan-Seared Fish with Crumbly Crust",
+    "tags": [
+      "fish",
+      "french",
+      "crunchy",
+      "seafood",
+      "baked",
+      "easy-to-make"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 22,
     "shard": "p"
   }
 ]
