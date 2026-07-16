@@ -1,0 +1,76 @@
+{
+  "slug": "peppery-crumbly-middle-eastern-fish-crumble--french",
+  "title": "Pan-Seared Fish with Crumbly Crust",
+  "description": "A French-inspired dish featuring pan-seared fish topped with a crumbly crust, perfect for a quick dinner.",
+  "cuisine": "french",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillet",
+      "amount": "4",
+      "notes": "white fish such as tilapia or cod"
+    },
+    {
+      "name": "crumbly eastern spice mix",
+      "amount": "2 tsp",
+      "notes": "available at most middle eastern grocery stores"
+    },
+    {
+      "name": "peppery breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "middle eastern olive oil",
+      "amount": "2 tbsp",
+      "notes": "rich in flavor and antioxidants"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably flaky sea salt"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "freshly ground black pepper"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the fish fillet with salt and pepper.",
+    "Mix the crumbly eastern spice mix with the peppery breadcrumbs.",
+    "Dip the fish fillet in the middle eastern olive oil, coating both sides.",
+    "Coat the fish fillet with the crumbly breadcrumb mixture, pressing gently to adhere.",
+    "Heat a non-stick skillet over medium-high heat. Add a small amount of middle eastern olive oil.",
+    "Sear the coated fish fillet for 2-3 minutes on each side, until golden brown.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, until cooked through.",
+    "Remove from the oven and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "french",
+    "crunchy",
+    "seafood",
+    "baked",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crumbly-middle-eastern-fish-crumble--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T05:44:01.248Z"
+}
