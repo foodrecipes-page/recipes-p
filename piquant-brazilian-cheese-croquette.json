@@ -1,0 +1,67 @@
+{
+  "slug": "piquant-brazilian-cheese-croquette",
+  "title": "Brazilian Cheese Croquettes",
+  "description": "A crispy, cheesy snack inspired by Brazilian cuisine. Piquant cheese adds a tangy twist.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Piquant cheese",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1/2 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Croquette",
+      "amount": "1",
+      "notes": "Pre-made, crushed"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oil in a deep frying pan to 350°F (180°C).",
+    "2. In a large bowl, combine shredded piquant cheese, grated cheese, breadcrumbs, and beaten egg.",
+    "3. Mix well and add crushed croquette.",
+    "4. Using your hands, shape the mixture into small balls.",
+    "5. When oil is hot, carefully add the cheese croquettes.",
+    "6. Fry for 2-3 minutes or until golden brown.",
+    "7. Drain excess oil on paper towels.",
+    "8. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "snack",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 12,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-brazilian-cheese-croquette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:33:18.787Z"
+}
