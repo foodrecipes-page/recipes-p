@@ -1,0 +1,82 @@
+{
+  "slug": "pan-seared-venezuelan-sweetcorn-paella--mexican",
+  "title": "Venezuelan Sweetcorn Paella",
+  "description": "A twist on traditional paella, this dish combines the bold flavors of Venezuela with the sweetness of corn.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pan",
+      "amount": "1"
+    },
+    {
+      "name": "seared",
+      "amount": ""
+    },
+    {
+      "name": "venezuelan sausage",
+      "amount": "1 lb"
+    },
+    {
+      "name": "sweetcorn",
+      "amount": "2 cups"
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the pan over medium-high heat.",
+    "Add the venezuelan sausage and sear until browned.",
+    "Add the paella rice and cook for 1-2 minutes.",
+    "Add the chicken broth, tomato paste, cumin, and paprika. Stir to combine.",
+    "Add the sweetcorn and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20-25 minutes.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "venezuelan",
+    "sweetcorn",
+    "paella",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-venezuelan-sweetcorn-paella--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T05:34:28.720Z"
+}
