@@ -1,0 +1,74 @@
+{
+  "slug": "peppery-mediterranean-runner-bean-salad--vegetarian",
+  "title": "Runner Bean Salad with Mediterranean Twist",
+  "description": "A fresh and flavorful salad featuring runner beans, peppery notes, and a mediterranean flair.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Runner beans",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Mediterranean salad mix",
+      "amount": "150g",
+      "notes": null
+    },
+    {
+      "name": "Peppery feta cheese",
+      "amount": "100g",
+      "notes": null
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Rinse the runner beans and trim the ends.",
+    "In a large bowl, combine the runner beans, Mediterranean salad mix, and peppery feta cheese.",
+    "In a small bowl, whisk together the olive oil, lemon juice, salt, and black pepper.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Serve immediately and enjoy!",
+    "Chill in the refrigerator for up to 2 hours before serving.",
+    "Garnish with additional peppery feta cheese if desired.",
+    "Serve as a side dish or add to a bed of greens for a light lunch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "runner-beans",
+    "mediterranean",
+    "salad",
+    "vegetarian",
+    "healthy",
+    "easy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-mediterranean-runner-bean-salad--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:13:55.524Z"
+}
