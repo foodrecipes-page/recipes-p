@@ -1,0 +1,80 @@
+{
+  "slug": "peppery-mediterranean-runner-bean-salad--mexican",
+  "title": "Southwestern Salad",
+  "description": "A flavorful and easy-to-make salad with a mexican twist. Perfect for a quick snack or light meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Runner Bean",
+      "amount": "1 cup, trimmed and sliced"
+    },
+    {
+      "name": "Peppery Salad",
+      "amount": "4 cups, chopped"
+    },
+    {
+      "name": "Canned Beans",
+      "amount": "1 can, drained and rinsed"
+    },
+    {
+      "name": "Mexican Seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "optional"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the sliced runner bean and chopped salad.",
+    "Drain and rinse the canned beans and add them to the bowl.",
+    "Sprinkle the mexican seasoning over the top and toss to coat.",
+    "In a small bowl, whisk together the lime juice and olive oil.",
+    "Pour the dressing over the salad and toss to coat.",
+    "Season with salt to taste.",
+    "Garnish with chopped cilantro and shredded cheese if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "southwestern",
+    "mexican",
+    "salad",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-mediterranean-runner-bean-salad--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T04:15:15.706Z"
+}
