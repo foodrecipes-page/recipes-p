@@ -6442,16 +6442,14 @@
   },
   {
     "slug": "piquant-brazilian-cheese-croquette",
-    "title": "Piquant Brazilian Cheese Croquette",
+    "title": "Brazilian Cheese Croquettes",
     "tags": [
-      "brazilian",
       "cheese",
-      "deep-fry",
-      "ovo-vegetarian",
-      "snack"
+      "snack",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 15,
     "shard": "p"
   },
   {
@@ -13078,6 +13076,30 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 22,
+    "shard": "p"
+  },
+  {
+    "slug": "paleo-citrus-king-prawn-appetizer--mexican",
+    "title": "Citrus Prawn Fajita",
+    "tags": [
+      "mexican",
+      "citrus",
+      "prawn"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 18,
+    "shard": "p"
+  },
+  {
+    "slug": "purely-roasted-japanese-peanut-ozoni--french",
+    "title": "Pan-Seared Duck Breast with Cherry Compote",
+    "tags": [
+      "french",
+      "duck",
+      "cherry-compote"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
     "shard": "p"
   }
 ]
