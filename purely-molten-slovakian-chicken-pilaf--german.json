@@ -1,0 +1,82 @@
+{
+  "slug": "purely-molten-slovakian-chicken-pilaf--german",
+  "title": "Slovakian Chicken Pilaf",
+  "description": "A hearty German-inspired pilaf dish featuring Slovakian flair and tender chicken.",
+  "cuisine": "german",
+  "diet": [
+    "lacto-ovo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "slovakian sausage",
+      "amount": "1/2 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium-high heat.",
+    "Add the Slovakian sausage and cook until browned, about 2-3 minutes.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the chicken breast and cook until browned on both sides, about 5-6 minutes.",
+    "Add the pilaf, caraway seeds, salt, and pepper. Stir to combine.",
+    "Reduce heat to low, cover, and simmer for 10-12 minutes, or until the chicken is cooked through and the pilaf is tender.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pilaf",
+    "chicken",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-molten-slovakian-chicken-pilaf--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:34:38.444Z"
+}
