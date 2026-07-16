@@ -1,0 +1,70 @@
+{
+  "slug": "peppery-fluffy-american-cherry-cobbler--keto",
+  "title": "Keto Cherry Cobbler",
+  "description": "A keto-friendly twist on the classic cherry cobbler, using almond flour and sugar-free sweetener.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cherry",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/2 cup",
+      "notes": "such as Swerve or Erythritol"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "butter, melted",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together almond flour, granulated sweetener, and a pinch of salt.",
+    "Add in melted butter and mix until crumbly.",
+    "Press mixture into the bottom of a 9x9 inch baking dish.",
+    "In a separate bowl, mix together cherry filling and a pinch of salt.",
+    "Pour cherry mixture over the crust.",
+    "In another bowl, whisk together eggs and a pinch of salt.",
+    "Pour egg mixture over the cherry filling.",
+    "Bake for 35-40 minutes or until the top is golden brown and the filling is bubbly.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "dessert",
+    "cobbler",
+    "cherry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-fluffy-american-cherry-cobbler--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:08:13.741Z"
+}
