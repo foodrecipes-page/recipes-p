@@ -13166,5 +13166,32 @@
     "cuisine": "german",
     "totalTimeMin": 22,
     "shard": "p"
+  },
+  {
+    "slug": "pungent-australian-comte-pavlova--italian",
+    "title": "Italian Pavlova Cake with Comte Cheese",
+    "tags": [
+      "italian",
+      "dessert",
+      "cheese",
+      "pavlova"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "piquant-pan-seared-turkish-meat-icli-kofte--vegan",
+    "title": "Turkish Vegan Icli Kofte",
+    "tags": [
+      "vegan",
+      "turkish",
+      "kofte",
+      "ici",
+      "lunch"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 30,
+    "shard": "p"
   }
 ]
