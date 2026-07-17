@@ -1,0 +1,79 @@
+{
+  "slug": "piquant-pan-seared-turkish-meat-icli-kofte--vegan",
+  "title": "Turkish Vegan Icli Kofte",
+  "description": "A vegan version of the traditional Turkish dish, made with plant-based ingredients to replicate the flavors and textures of the original.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Icli Kofte mix",
+      "amount": "1 package",
+      "notes": "Available at most Middle Eastern grocery stores or online"
+    },
+    {
+      "name": "Turkish bread",
+      "amount": "4 slices",
+      "notes": "Chopped into small pieces"
+    },
+    {
+      "name": "Roasted red peppers",
+      "amount": "2",
+      "notes": "Puréed and mixed with the Icli Kofte mix"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": "Chopped and used as garnish"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "Used for frying"
+    }
+  ],
+  "instructions": [
+    "Preheat the pan over medium heat.",
+    "Add 1 tablespoon of olive oil to the pan.",
+    "Fry the chopped Turkish bread until lightly browned, then set aside.",
+    "In a large bowl, combine the Icli Kofte mix, roasted red peppers, chickpeas, and lemon juice.",
+    "Mix well until all the ingredients are fully incorporated.",
+    "Shape the mixture into small patties.",
+    "Add the patties to the pan and sear for about 3-4 minutes on each side, until lightly browned.",
+    "Serve the Icli Kofte on top of the fried Turkish bread, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "turkish",
+    "kofte",
+    "ici",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-pan-seared-turkish-meat-icli-kofte--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:35:35.743Z"
+}
