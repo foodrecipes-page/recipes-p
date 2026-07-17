@@ -13191,5 +13191,32 @@
     "cuisine": "Turkish",
     "totalTimeMin": 30,
     "shard": "p"
+  },
+  {
+    "slug": "piquant-ukrainian-narutomaki-pasta--thai",
+    "title": "Spicy Pasta Stir-Fry",
+    "tags": [
+      "spicy",
+      "stir-fry",
+      "sauce",
+      "sausage",
+      "noodles"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-dutch-cox-apple-skewers--thai",
+    "title": "Grilled Thai Chicken Satay",
+    "tags": [
+      "thai",
+      "chicken",
+      "grill",
+      "satay"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "p"
   }
 ]
