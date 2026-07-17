@@ -1,0 +1,83 @@
+{
+  "slug": "pungent-dutch-cox-apple-skewers--thai",
+  "title": "Grilled Thai Chicken Satay",
+  "description": "A classic Thai dish of marinated chicken grilled to perfection and served with a sweet and spicy sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "marinade"
+    },
+    {
+      "name": "pungent",
+      "amount": "2 cloves",
+      "notes": "minced, marinade"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "skewers"
+    },
+    {
+      "name": "dutch",
+      "amount": "2 tablespoons",
+      "notes": "minced, marinade"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "marinade"
+    },
+    {
+      "name": "skewers",
+      "amount": "10",
+      "notes": "for grilling"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "2 tablespoons",
+      "notes": "sweet sauce"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "sweet sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a blender or food processor, combine coconut milk, minced pungent, minced dutch, apple cider vinegar, and a pinch of salt. Blend until smooth.",
+    "Thread chicken breast onto skewers, leaving a little space between each piece.",
+    "Brush the chicken with the marinade and let it sit for at least 30 minutes.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, mix coconut sugar and fish sauce to make the sweet sauce.",
+    "Serve the grilled chicken with the sweet sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "grill",
+    "satay"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-dutch-cox-apple-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:57:01.265Z"
+}
