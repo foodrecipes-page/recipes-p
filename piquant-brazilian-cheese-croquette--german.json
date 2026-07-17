@@ -1,0 +1,61 @@
+{
+  "slug": "piquant-brazilian-cheese-croquette--german",
+  "title": "German Cheese Croquette",
+  "description": "A German-inspired cheese croquette recipe with a crispy exterior and a gooey cheese center.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Croquette",
+      "amount": "1 package (about 20 pieces)",
+      "notes": null
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup shredded (such as cheddar or mozzarella)",
+      "notes": null
+    },
+    {
+      "name": "Piquant",
+      "amount": "2 tablespoons chopped fresh chives",
+      "notes": null
+    },
+    {
+      "name": "Brazilian",
+      "amount": "2 tablespoons all-purpose flour",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a bowl, mix together the shredded cheese and chopped chives.",
+    "3. Unwrap the croquettes and place them on a baking sheet lined with parchment paper.",
+    "4. Using a spoon, divide the cheese mixture among the croquettes, spooning it into the center of each one.",
+    "5. Close the croquettes and place them on the baking sheet.",
+    "6. Sprinkle the all-purpose flour over the top of the croquettes.",
+    "7. Bake for 10-12 minutes, or until the croquettes are golden brown and crispy.",
+    "8. Remove from the oven and let cool for a few minutes before serving.",
+    "9. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "cheese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-brazilian-cheese-croquette--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:07:11.514Z"
+}
