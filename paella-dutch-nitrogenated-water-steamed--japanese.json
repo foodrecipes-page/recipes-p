@@ -1,0 +1,66 @@
+{
+  "slug": "paella-dutch-nitrogenated-water-steamed--japanese",
+  "title": "Steamed Japanese Paella",
+  "description": "A unique twist on traditional Japanese cuisine, combining the flavors of steamed paella with Japanese ingredients.",
+  "cuisine": "japanese",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "paella",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dutch",
+      "amount": "1 tsp",
+      "notes": "dutch mustard"
+    },
+    {
+      "name": "steamed",
+      "amount": "1 cup",
+      "notes": "steamed vegetables (carrots, green beans)"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "nitrogenated",
+      "amount": "1 tsp",
+      "notes": "nitrogenated sake"
+    }
+  ],
+  "instructions": [
+    "In a large steamer basket, place the paella.",
+    "In a medium saucepan, combine 2 cups of water and 1 tsp of Dutch mustard.",
+    "Bring to a boil, then reduce heat and simmer for 5 minutes.",
+    "Add the steamed vegetables to the saucepan and stir to combine.",
+    "Pour the nitrogenated sake over the paella in the steamer basket.",
+    "Steam the paella for 10 minutes, or until cooked through.",
+    "Serve the steamed paella with the vegetable mixture spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "steamed",
+    "paella",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/paella-dutch-nitrogenated-water-steamed--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:15:22.623Z"
+}
