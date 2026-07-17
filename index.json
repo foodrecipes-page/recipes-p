@@ -13141,5 +13141,18 @@
     "cuisine": "french",
     "totalTimeMin": 40,
     "shard": "p"
+  },
+  {
+    "slug": "peppery-crunchy-irish-english-muffin-braise--gluten-free",
+    "title": "Irish Braise Stew",
+    "tags": [
+      "irish",
+      "beef",
+      "stew",
+      "gluten-free"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 140,
+    "shard": "p"
   }
 ]
