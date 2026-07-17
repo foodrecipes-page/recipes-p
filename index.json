@@ -13103,5 +13103,18 @@
     "cuisine": null,
     "totalTimeMin": 55,
     "shard": "p"
+  },
+  {
+    "slug": "peppery-crispy-german-potato-stir-fry--keto",
+    "title": "German-Style Keto Stir Fry",
+    "tags": [
+      "keto",
+      "german",
+      "stir-fry",
+      "breakfast-dinner"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 25,
+    "shard": "p"
   }
 ]
