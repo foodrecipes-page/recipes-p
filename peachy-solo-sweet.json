@@ -1,0 +1,55 @@
+{
+  "slug": "peachy-solo-sweet",
+  "title": "Sweet Peach Salad",
+  "description": "A refreshing summer salad made with sweet peaches, crisp greens, and a hint of citrus.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Peachy peaches",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Sweet greens",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Solo citrus vinaigrette",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Wash and chop the peaches into bite-sized pieces.",
+    "In a large bowl, combine the chopped peaches and sweet greens.",
+    "Drizzle the solo citrus vinaigrette over the top of the salad.",
+    "Toss to combine and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peach",
+    "salad",
+    "dessert",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peachy-solo-sweet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:45:09.807Z"
+}
