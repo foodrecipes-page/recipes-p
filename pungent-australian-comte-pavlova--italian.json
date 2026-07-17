@@ -1,0 +1,54 @@
+{
+  "slug": "pungent-australian-comte-pavlova--italian",
+  "title": "Italian Pavlova Cake with Comte Cheese",
+  "description": "A unique Italian dessert combining the Australian pavlova with French Comte cheese.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Australian pavlova",
+      "amount": "1 (store-bought or homemade)",
+      "notes": ""
+    },
+    {
+      "name": "Comte cheese",
+      "amount": "8 oz (225g)",
+      "notes": ""
+    },
+    {
+      "name": "pungent fig jam",
+      "amount": "1/4 cup (60g)",
+      "notes": ""
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup (15g)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 200°F (90°C).",
+    "2. Place the pavlova on a baking sheet and bake for 10 minutes.",
+    "3. Remove the pavlova from the oven and let it cool completely.",
+    "4. Crumbling the cooled pavlova into a bowl, mix in the Comte cheese.",
+    "5. Spoon the pungent fig jam over the pavlova mixture.",
+    "6. Sprinkle the fresh basil over the top.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "cheese",
+    "pavlova"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-australian-comte-pavlova--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:28:08.938Z"
+}
