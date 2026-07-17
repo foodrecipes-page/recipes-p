@@ -1,0 +1,90 @@
+{
+  "slug": "piquant-ukrainian-narutomaki-pasta--thai",
+  "title": "Spicy Pasta Stir-Fry",
+  "description": "A quick and spicy stir-fry dish with Ukrainian sausage and Japanese narutomaki, served over Thai-style pasta.",
+  "cuisine": "thai",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Piquant sauce",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Ukrainian sausage",
+      "amount": "1 lb",
+      "notes": "Slice into thin rounds"
+    },
+    {
+      "name": "Narutomaki",
+      "amount": "8 slices"
+    },
+    {
+      "name": "Thai-style pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chopped garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced Ukrainian sausage and cook until browned, about 3-4 minutes.",
+    "Remove the sausage from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the chopped garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced narutomaki and cook for 2-3 minutes, until lightly browned.",
+    "Add the Thai-style pasta to the skillet and stir to combine with the garlic and narutomaki.",
+    "Return the cooked sausage to the skillet and stir to combine with the pasta and narutomaki.",
+    "Pour the piquant sauce into the skillet and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped green onions and a sprinkle of fresh cilantro.",
+    "Sprinkle with additional piquant sauce if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "stir-fry",
+    "sauce",
+    "sausage",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-ukrainian-narutomaki-pasta--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:56:03.288Z"
+}
