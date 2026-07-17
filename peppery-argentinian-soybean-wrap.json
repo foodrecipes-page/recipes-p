@@ -1,0 +1,95 @@
+{
+  "slug": "peppery-argentinian-soybean-wrap",
+  "title": "Argentinian-Style Wrap",
+  "description": "A flavorful and spicy wrap inspired by Argentinian cuisine, filled with grilled meats and served with a side of tangy slaw.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "wrap",
+      "amount": "1",
+      "notes": "large flour tortilla"
+    },
+    {
+      "name": "peppery",
+      "amount": "1/2",
+      "notes": "pepperoncini peppers, sliced"
+    },
+    {
+      "name": "argentinian",
+      "amount": "1",
+      "notes": "grilled steak (flank or skirt steak)"
+    },
+    {
+      "name": "soybean",
+      "amount": "1/4 cup",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2",
+      "notes": "red onion, thinly sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1/2",
+      "notes": "diced"
+    },
+    {
+      "name": "avocado",
+      "amount": "1/2",
+      "notes": "mashed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the steak with salt and black pepper, and grill for 5-7 minutes per side, or until cooked to your desired level of doneness.",
+    "Let the steak rest for 5 minutes before slicing it thinly against the grain.",
+    "In a small bowl, whisk together soy sauce and a squeeze of lime juice.",
+    "In a large bowl, combine sliced peppers, onion, cucumber, and tomato.",
+    "Drizzle the soy sauce mixture over the vegetables and toss to coat.",
+    "Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spreading mashed avocado on the tortilla, followed by sliced steak, vegetables, and a sprinkle of salt and pepper.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "grilled",
+    "wrap",
+    "steak",
+    "soy sauce"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-argentinian-soybean-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:14:06.187Z"
+}
