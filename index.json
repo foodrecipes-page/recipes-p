@@ -2686,17 +2686,15 @@
   },
   {
     "slug": "peppery-dense-slovakian-curry-stew",
-    "title": "Slovakian Peppery Curry Stew",
+    "title": "Slovakian Pepper Stew",
     "tags": [
-      "curry",
-      "high-protein",
-      "one-pan",
-      "slovakian-cuisine",
-      "vegan-friendly",
-      "weeknight"
+      "slovakian",
+      "beef",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "slovakian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 80,
     "shard": "p"
   },
   {
