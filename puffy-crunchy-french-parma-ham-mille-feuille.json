@@ -1,0 +1,76 @@
+{
+  "slug": "puffy-crunchy-french-parma-ham-mille-feuille",
+  "title": "French Ham and Puff Pastry Mille-Feuille",
+  "description": "A classic French dessert made with layers of puff pastry, ham, and creamy filling, topped with a crunchy mille-feuille. Perfect for a sweet treat or a unique dinner option.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "Ham (Parma or French)",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Puffy Pastry",
+      "amount": "1 package",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Crunchy Pastry",
+      "amount": "1 package",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Mille-Feuille Cream",
+      "amount": "1 cup",
+      "notes": "or substitute with whipped cream"
+    },
+    {
+      "name": "French Chocolate",
+      "amount": "1 cup",
+      "notes": "chopped or shaved"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry sheet to a large rectangle.",
+    "Cut into 6 equal squares.",
+    "Place a slice of ham on each square, leaving a 1-inch border around the edges.",
+    "Fold the pastry over the ham to form a triangle, pressing edges to seal.",
+    "Brush tops with egg wash and bake for 15-20 minutes, or until golden brown.",
+    "Allow pastries to cool completely.",
+    "Cut the puffy pastry into thin strips and sprinkle with crunchy pastry crumbs.",
+    "Assemble the mille-feuille by layering a pastry square, a dollop of cream, and a sprinkle of chocolate.",
+    "Repeat for 3-4 layers, finishing with a pastry square on top.",
+    "Garnish with additional puffy pastry strips and crunchy pastry crumbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "pastry",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/puffy-crunchy-french-parma-ham-mille-feuille",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:43:03.439Z"
+}
