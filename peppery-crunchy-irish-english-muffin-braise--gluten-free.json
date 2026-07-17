@@ -1,0 +1,90 @@
+{
+  "slug": "peppery-crunchy-irish-english-muffin-braise--gluten-free",
+  "title": "Irish Braise Stew",
+  "description": "A hearty and comforting Irish stew made with tender beef and flavorful root vegetables, all in a rich and peppery broth.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "1 tablespoon",
+      "notes": "whole"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "dairy or non-dairy, gluten-free"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes. Remove from heat and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 3-4 minutes.",
+    "Add the chopped carrots and potatoes to the pot and cook for an additional 5 minutes.",
+    "Add the sliced mushrooms to the pot and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the browned beef back to the pot, along with the beef broth, peppercorns, and milk.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Braise the stew in the oven for 2-3 hours, or until the beef is tender and the vegetables are cooked through.",
+    "Remove the pot from the oven and stir in the gluten-free flour to thicken the stew.",
+    "Season the stew with salt and pepper to taste, then serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "beef",
+    "stew",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crunchy-irish-english-muffin-braise--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:51:01.715Z"
+}
