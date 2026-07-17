@@ -13116,5 +13116,29 @@
     "cuisine": "German",
     "totalTimeMin": 25,
     "shard": "p"
+  },
+  {
+    "slug": "paella-dutch-nitrogenated-water-steamed--japanese",
+    "title": "Steamed Japanese Paella",
+    "tags": [
+      "steamed",
+      "paella",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-italian-beans-risotto--french",
+    "title": "French-Style Risotto with Beans",
+    "tags": [
+      "french",
+      "risotto",
+      "beans"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "p"
   }
 ]
