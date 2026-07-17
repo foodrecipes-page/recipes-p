@@ -1516,17 +1516,16 @@
   },
   {
     "slug": "peppery-argentinian-soybean-wrap",
-    "title": "Peppery Argentinian Soybean Wrap",
+    "title": "Argentinian-Style Wrap",
     "tags": [
-      "peppery",
-      "tender",
       "argentinian",
-      "soybean",
-      "roast",
-      "vegan"
+      "grilled",
+      "wrap",
+      "steak",
+      "soy sauce"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "p"
   },
   {
