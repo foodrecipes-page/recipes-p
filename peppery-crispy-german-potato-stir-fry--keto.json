@@ -1,0 +1,79 @@
+{
+  "slug": "peppery-crispy-german-potato-stir-fry--keto",
+  "title": "German-Style Keto Stir Fry",
+  "description": "A quick and flavorful keto stir fry inspired by traditional German cuisine, featuring crispy potatoes and a peppery kick.",
+  "cuisine": "German",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Peppery Stir Fry Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Crispy German Bacon",
+      "amount": "6 slices",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of avocado oil in a large skillet over medium-high heat.",
+    "Add diced potatoes and cook until golden brown, about 5 minutes.",
+    "Add chopped garlic and cook for 1 minute.",
+    "Add chopped German bacon and cook until crispy, about 3 minutes.",
+    "Add peppery stir fry sauce and stir to combine.",
+    "Cook for an additional 2 minutes, until the sauce has thickened.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped parsley and serve hot.",
+    "Optional: Serve with a side of riced cauliflower or a green salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "german",
+    "stir-fry",
+    "breakfast-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 46
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crispy-german-potato-stir-fry--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:04:54.963Z"
+}
