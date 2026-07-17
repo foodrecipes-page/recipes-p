@@ -1,0 +1,67 @@
+{
+  "slug": "peppery-dense-slovakian-curry-stew",
+  "title": "Slovakian Pepper Stew",
+  "description": "A hearty, comforting Slovakian stew made with tender beef and a blend of spices.",
+  "cuisine": "slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "peppery onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "slovakian sausage",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "beef broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the onions and cook until tender, about 5 minutes.",
+    "Add the sausage and cook until browned, about 5 minutes.",
+    "Add the curry powder and stir to combine.",
+    "Add the stew and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 hour.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "beef",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-dense-slovakian-curry-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:49:06.567Z"
+}
