@@ -13154,5 +13154,17 @@
     "cuisine": "Irish",
     "totalTimeMin": 140,
     "shard": "p"
+  },
+  {
+    "slug": "piquant-brazilian-cheese-croquette--german",
+    "title": "German Cheese Croquette",
+    "tags": [
+      "german",
+      "cheese",
+      "snack"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 22,
+    "shard": "p"
   }
 ]
