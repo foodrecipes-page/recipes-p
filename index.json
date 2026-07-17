@@ -1220,14 +1220,15 @@
   },
   {
     "slug": "peachy-solo-sweet",
-    "title": "Peachy Solo-Sweet",
+    "title": "Sweet Peach Salad",
     "tags": [
-      "peachy-solo-sweet",
-      "sous-vide",
-      "vegan-brazilian"
+      "peach",
+      "salad",
+      "dessert",
+      "summer"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 150,
+    "cuisine": "American",
+    "totalTimeMin": 10,
     "shard": "p"
   },
   {
