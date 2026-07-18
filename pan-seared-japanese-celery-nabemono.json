@@ -1,0 +1,81 @@
+{
+  "slug": "pan-seared-japanese-celery-nabemono",
+  "title": "Japanese Nabemono Hot Pot",
+  "description": "A traditional Japanese hot pot dish that combines flavors and textures in a delicious meal. This recipe serves 4.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Sliced Mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bamboo Shoots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block"
+    },
+    {
+      "name": "Nabemono Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Cut the celery into bite-sized pieces and set aside.",
+    "2. Slice the mushrooms and bamboo shoots.",
+    "3. Cut the tofu into small cubes.",
+    "4. Heat the sesame oil in a large pot over medium heat.",
+    "5. Add the sliced mushrooms and bamboo shoots and cook until they start to brown.",
+    "6. Add the tofu and cook until it starts to brown.",
+    "7. Pour in the nabemono broth and bring to a boil.",
+    "8. Reduce the heat to low and simmer for 10 minutes.",
+    "9. Add the celery and cook for an additional 5 minutes.",
+    "10. Season with soy sauce and sesame seeds.",
+    "11. Serve hot with green onions on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "hot-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-japanese-celery-nabemono",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:03:26.500Z"
+}
