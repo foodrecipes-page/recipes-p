@@ -584,16 +584,14 @@
   },
   {
     "slug": "pan-seared-japanese-celery-nabemono",
-    "title": "Pan Seared Japanese Celery Nabemono",
+    "title": "Japanese Nabemono Hot Pot",
     "tags": [
+      "japanese",
       "hot-pot",
-      "japanese-cuisine",
-      "low-fat",
-      "one-pan",
-      "weeknight"
+      "vegetarian"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -13290,6 +13288,45 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
+    "slug": "puffy-crunchy-french-parma-ham-mille-feuille--italian",
+    "title": "Italian Ham and Puff Pastry",
+    "tags": [
+      "italian",
+      "pastry",
+      "snack"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "pleasantly-dense-italian-swede-panzanella--keto",
+    "title": "Swede Panzanella Bites",
+    "tags": [
+      "swede",
+      "panzanella",
+      "keto",
+      "snack",
+      "italian"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "pan-seared-croatian-sausages-skewers--gluten-free",
+    "title": "Croatian Sausage Skewers",
+    "tags": [
+      "gluten-free",
+      "grilled",
+      "summer",
+      "skewers"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 27,
     "shard": "p"
   }
 ]
