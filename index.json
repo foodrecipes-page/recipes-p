@@ -13278,5 +13278,18 @@
     "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "p"
+  },
+  {
+    "slug": "plum-jamded-greek-citrus-crumble--chinese",
+    "title": "Plum Crumble with Citrus Zest",
+    "tags": [
+      "plum",
+      "crumble",
+      "dessert",
+      "chinese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
+    "shard": "p"
   }
 ]
