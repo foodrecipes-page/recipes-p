@@ -1999,17 +1999,15 @@
   },
   {
     "slug": "peppery-crisp-russian-melon-soup",
-    "title": "Peppery Crisp Russian Melon Soup",
+    "title": "Crisp Melon Soup",
     "tags": [
-      "russian",
-      "melonsoup",
-      "peppery",
-      "crisp",
-      "vegetarian",
-      "dash-friendly"
+      "russian-cuisine",
+      "summer-soup",
+      "melon-soup",
+      "refreshing-soup"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -13266,6 +13264,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 165,
+    "shard": "p"
+  },
+  {
+    "slug": "pan-seared-croatian-sausages-skewers--french",
+    "title": "French-Style Pan-Seared Croatian Sausages",
+    "tags": [
+      "french",
+      "sausages",
+      "skewers",
+      "breakfast-for-dinner"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
     "shard": "p"
   }
 ]
