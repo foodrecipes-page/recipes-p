@@ -1,0 +1,87 @@
+{
+  "slug": "poached-silky-british-fish-wrap--italian",
+  "title": "Italian Fish Wrap",
+  "description": "A simple Italian-inspired fish wrap recipe featuring poached fish and silky mayonnaise.",
+  "cuisine": "italian",
+  "diet": [
+    "omnivore",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Poached Fish (Cod)",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Silky Mayonnaise",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "British Wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Poach the fish in boiling water for 8-10 minutes, or until it's cooked through.",
+    "3. Wrap the British wrap in foil and warm it in the oven for 2-3 minutes.",
+    "4. Spread the silky mayonnaise on the wrap.",
+    "5. Add the poached fish on top of the mayonnaise.",
+    "6. Sprinkle the Italian seasoning on the fish.",
+    "7. Squeeze the lemon juice on top of the fish.",
+    "8. Add the chopped fresh parsley on top.",
+    "9. Season with salt and black pepper to taste.",
+    "10. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "fish-wrap",
+    "lunch-ideas",
+    "poached-fish",
+    "italian-seasoning"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/poached-silky-british-fish-wrap--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:32:58.389Z"
+}
