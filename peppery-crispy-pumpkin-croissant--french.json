@@ -1,0 +1,77 @@
+{
+  "slug": "peppery-crispy-pumpkin-croissant--french",
+  "title": "Crispy Pumpkin Tart",
+  "description": "A French-inspired tart filled with roasted pumpkin and topped with a flaky croissant crust.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pumpkin",
+      "amount": "1 small, peeled and cubed",
+      "notes": null
+    },
+    {
+      "name": "Croissant",
+      "amount": "1 sheet, thawed",
+      "notes": null
+    },
+    {
+      "name": "Peppery",
+      "amount": "1 tsp, ground black pepper",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1, beaten",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp, flaky sea salt",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp, melted",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the croissant sheet and place it in a tart pan.",
+    "In a bowl, mix the pumpkin, egg, salt, and sugar. Set aside.",
+    "Brush the melted butter onto the croissant crust.",
+    "Spread the pumpkin mixture evenly over the croissant crust.",
+    "Sprinkle black pepper over the top.",
+    "Bake for 20-25 minutes or until the crust is golden brown.",
+    "Let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "pumpkin",
+    "tart",
+    "croissant",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crispy-pumpkin-croissant--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:05:14.541Z"
+}
