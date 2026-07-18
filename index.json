@@ -6464,16 +6464,15 @@
   },
   {
     "slug": "piquant-british-paella-rice-spotted-dick",
-    "title": "Piquant British Paella Rice Spotted Dick",
+    "title": "Spotted Dick Pudding",
     "tags": [
-      "british-dessert",
-      "deep-fried",
-      "kid-friendly",
-      "low-carb",
-      "steamed-pudding"
+      "pudding",
+      "dessert",
+      "british-cuisine",
+      "steamed"
     ],
     "cuisine": "British",
-    "totalTimeMin": 45,
+    "totalTimeMin": 140,
     "shard": "p"
   },
   {
@@ -13352,6 +13351,18 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
+    "slug": "peppy-mediterranean-leek-soup--chinese",
+    "title": "Braised Leek and Peppy Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "leek"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "p"
   }
 ]
