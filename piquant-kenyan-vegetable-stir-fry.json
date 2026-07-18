@@ -1,0 +1,75 @@
+{
+  "slug": "piquant-kenyan-vegetable-stir-fry",
+  "title": "Kenyan Vegetable Stir Fry",
+  "description": "A quick and flavorful Kenyan-inspired vegetable stir fry made with tender vegetables and a hint of spice.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kenyan Vegetable Mix (or a mix of bell peppers, carrots, and onions)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Piquant Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and ginger and stir-fry for 1 minute.",
+    "Add the Kenyan Vegetable Mix and stir-fry for 3-4 minutes, or until the vegetables are tender.",
+    "Add the Piquant Sauce and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "vegetarian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-kenyan-vegetable-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T14:15:23.902Z"
+}
