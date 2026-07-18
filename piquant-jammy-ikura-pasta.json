@@ -1,0 +1,74 @@
+{
+  "slug": "piquant-jammy-ikura-pasta",
+  "title": "Ikura Pasta",
+  "description": "A simple, yet elegant pasta dish featuring the rich flavor of ikura and the sweetness of jammy sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "Choose a gluten-free option if necessary"
+    },
+    {
+      "name": "ikura",
+      "amount": "6 oz",
+      "notes": "Fresh or frozen ikura is fine"
+    },
+    {
+      "name": "jammy sauce",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "Optional for garnish"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions until al dente.",
+    "Drain pasta and set aside.",
+    "In a pan, heat sesame oil over medium heat.",
+    "Add ikura and cook for 1-2 minutes, until lightly browned.",
+    "Stir in jammy sauce and cook for an additional 1-2 minutes.",
+    "Add cooked pasta to the pan and toss with ikura sauce.",
+    "Season with salt to taste.",
+    "Garnish with chopped scallions, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "seafood",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-jammy-ikura-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:03:37.681Z"
+}
