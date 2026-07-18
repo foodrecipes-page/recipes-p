@@ -1,0 +1,70 @@
+{
+  "slug": "puffy-crunchy-french-parma-ham-mille-feuille--italian",
+  "title": "Italian Ham and Puff Pastry",
+  "description": "A classic Italian pastry dish featuring ham and puff pastry, easy to make and delicious.",
+  "cuisine": "italian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Parma Ham",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Ham",
+      "amount": "4 slices"
+    },
+    {
+      "name": "French Mille-Feuille",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the puff pastry and cut into 12 equal squares.",
+    "Place a slice of Parma ham and a slice of ham in the center of each square.",
+    "Fold the pastry squares in half to enclose the filling and press the edges to seal.",
+    "Place the pastries on a baking sheet lined with parchment paper.",
+    "Brush the tops with butter and sprinkle with salt.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pastry",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/puffy-crunchy-french-parma-ham-mille-feuille--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T08:37:04.763Z"
+}
