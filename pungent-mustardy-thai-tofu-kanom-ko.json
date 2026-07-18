@@ -1,0 +1,82 @@
+{
+  "slug": "pungent-mustardy-thai-tofu-kanom-ko",
+  "title": "Thai-Style Pan-Seared Tofu with Kanom Krok",
+  "description": "A fusion of Thai flavors and crispy kanom krok, served with pan-seared tofu.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "Kanom krok batter mix",
+      "amount": "1 package (makes 12-15 krakraks)",
+      "notes": "follow package instructions for water ratio"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 cups",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional (omission recommended for pescatarian diets)"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tablespoon",
+      "notes": "or brown sugar"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Thai chili peppers",
+      "amount": "2-3",
+      "notes": "sliced or minced for added heat"
+    }
+  ],
+  "instructions": [
+    "1. Prepare kanom krok according to package instructions.",
+    "2. Pan-fry tofu cubes in 1 cup of vegetable oil until golden brown, about 3-4 minutes per side.",
+    "3. In a small saucepan, combine Thai red curry paste, fish sauce (if using), palm sugar, and 2 tablespoons of water. Heat over low heat, whisking until smooth.",
+    "4. Add pan-fried tofu to the sauce and stir to coat.",
+    "5. Serve tofu with a side of kanom krok, garnished with chopped cilantro and sliced Thai chili peppers.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "tofu",
+    "kanom-krok",
+    "pan-seared"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-mustardy-thai-tofu-kanom-ko",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:26:26.284Z"
+}
