@@ -1,0 +1,81 @@
+{
+  "slug": "plush-portuguese-bean-stew--german",
+  "title": "Bavarian Bean Stew",
+  "description": "A hearty and comforting German stew made with beans and a hint of portuguese spices.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beans",
+      "amount": "1 cup, dried",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "plush",
+      "amount": "2 tablespoons, vegetable oil",
+      "notes": ""
+    },
+    {
+      "name": "portuguese",
+      "amount": "1 teaspoon, paprika",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "1 can, diced tomatoes",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium, peeled and chopped",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks, chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the plush in a large pot over medium heat.",
+    "Add the onion, carrot, celery, and garlic. Cook until the vegetables are tender, about 5 minutes.",
+    "Add the soaked beans, diced tomatoes, and portuguese spices. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stew",
+    "beans",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/plush-portuguese-bean-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:59:09.610Z"
+}
