@@ -13216,5 +13216,32 @@
     "cuisine": "thai",
     "totalTimeMin": 30,
     "shard": "p"
+  },
+  {
+    "slug": "peppery-crispy-pumpkin-croissant--french",
+    "title": "Crispy Pumpkin Tart",
+    "tags": [
+      "french",
+      "pumpkin",
+      "tart",
+      "croissant",
+      "dessert"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
+    "slug": "piquant-fluffy-filipino-vegetable-menudo--keto",
+    "title": "Filipino-Style Menudo Keto Casserole",
+    "tags": [
+      "filipino",
+      "keto",
+      "casserole",
+      "menudo"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 40,
+    "shard": "p"
   }
 ]
