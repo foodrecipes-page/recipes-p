@@ -10548,16 +10548,15 @@
   },
   {
     "slug": "pungent-mustardy-thai-tofu-kanom-ko",
-    "title": "Pungent Mustardy Thai Tofu Kanom Ko",
+    "title": "Thai-Style Pan-Seared Tofu with Kanom Krok",
     "tags": [
-      "easy-meal",
-      "lazy-sunday",
-      "one-pan",
-      "thai-cuisine",
-      "vegan-friendly"
+      "thai",
+      "tofu",
+      "kanom-krok",
+      "pan-seared"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 40,
+    "totalTimeMin": 27,
     "shard": "p"
   },
   {
@@ -12072,17 +12071,16 @@
   },
   {
     "slug": "purely-roasted-peruvian-pineapple-tiradito",
-    "title": "Purely Roasted Peruvian Pineapple Tiradito",
+    "title": "Peruvian Grilled Steak with Pineapple Salsa",
     "tags": [
-      "dessert",
-      "gluten-free",
-      "low-sodium",
-      "peruvian-cuisine",
-      "roasted-fruit",
-      "tempering-chocolate"
+      "grilled",
+      "steak",
+      "peruvian",
+      "pineapple",
+      "salsa"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -13327,6 +13325,19 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 27,
+    "shard": "p"
+  },
+  {
+    "slug": "panang-curry-brise-ferment--keto",
+    "title": "Panang Brise Chicken Thighs",
+    "tags": [
+      "keto",
+      "thai",
+      "chicken",
+      "curry"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
     "shard": "p"
   }
 ]
