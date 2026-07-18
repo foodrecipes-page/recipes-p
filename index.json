@@ -13411,5 +13411,44 @@
     "cuisine": "thai",
     "totalTimeMin": 30,
     "shard": "p"
+  },
+  {
+    "slug": "piquant-turkish-cauliflower-flatbread--french",
+    "title": "Cauliflower Fritters with Piquant Aioli",
+    "tags": [
+      "french",
+      "cauliflower",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
+    "slug": "pan-seared-pull-uruguayan-cheese-wok-fried--keto",
+    "title": "Uruguayan Cheese Pull",
+    "tags": [
+      "uruguayan",
+      "cheese",
+      "keto",
+      "snack"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 15,
+    "shard": "p"
+  },
+  {
+    "slug": "plush-portuguese-bean-stew--german",
+    "title": "Bavarian Bean Stew",
+    "tags": [
+      "german",
+      "stew",
+      "beans",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "p"
   }
 ]
