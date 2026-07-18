@@ -4140,14 +4140,13 @@
   },
   {
     "slug": "peppery-moroccan-lamb-zaalouk",
-    "title": "Lamb Zaalouk Tagine",
+    "title": "Moroccan Lamb Stew",
     "tags": [
-      "lamb",
-      "eggplant",
       "moroccan",
-      "tagine"
+      "lamb",
+      "stew"
     ],
-    "cuisine": "North African",
+    "cuisine": "Moroccan",
     "totalTimeMin": 110,
     "shard": "p"
   },
@@ -8868,16 +8867,14 @@
   },
   {
     "slug": "polished-polish-salmon-pudding",
-    "title": "Polished Polish Salmon Pudding",
+    "title": "Salmon with Polish-Style Pudding Sauce",
     "tags": [
-      "baked",
-      "dessert",
-      "high-protein",
-      "pescatarian",
-      "quick"
+      "salmon",
+      "pudding",
+      "polish-cuisine"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -13242,6 +13239,33 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-dense-slovakian-curry-stew--vegetarian",
+    "title": "Slovakian Vegetable Stew",
+    "tags": [
+      "vegetarian",
+      "slovakian",
+      "stew",
+      "wintery"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-crisp-kenyan-sherry-vinegar-bonito-slaw--german",
+    "title": "German-Style Braised Pork Knuckle with Slaw",
+    "tags": [
+      "german-cuisine",
+      "braised-pork",
+      "slaw-recipe",
+      " hearty-dinner",
+      "traditional-german-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 165,
     "shard": "p"
   }
 ]
