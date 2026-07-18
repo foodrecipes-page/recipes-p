@@ -13339,5 +13339,19 @@
     "cuisine": "Thai",
     "totalTimeMin": 25,
     "shard": "p"
+  },
+  {
+    "slug": "pan-seared-japanese-celery-nabemono--japanese",
+    "title": "Japanese Nabemono with Celery and Seared Beef",
+    "tags": [
+      "japanese",
+      "hot-pot",
+      "beef",
+      "celery",
+      "nabemono"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "p"
   }
 ]
