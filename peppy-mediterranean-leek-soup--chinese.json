@@ -1,0 +1,63 @@
+{
+  "slug": "peppy-mediterranean-leek-soup--chinese",
+  "title": "Braised Leek and Peppy Stir Fry",
+  "description": "A hearty and flavorful Chinese-inspired stir fry featuring leeks and peppercorns, served with a savory sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "leek",
+      "amount": "2 medium, sliced"
+    },
+    {
+      "name": "peppy",
+      "amount": "2 tsp, whole"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "soup",
+      "amount": "2 cups, vegetable broth"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp",
+      "notes": "for stir-frying"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add 2 tsp of peppercorns and toast for 1 minute, until fragrant.",
+    "Add sliced leeks and cook until tender, about 5 minutes.",
+    "Add 2 tbsp of chopped Mediterranean herbs and stir to combine.",
+    "Pour in 2 cups of vegetable broth and bring to a simmer.",
+    "Reduce heat to medium-low and braise for 10-12 minutes, until the sauce has thickened.",
+    "Season with salt to taste and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "leek"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppy-mediterranean-leek-soup--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:20:45.545Z"
+}
