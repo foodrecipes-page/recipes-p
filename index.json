@@ -7027,15 +7027,14 @@
   },
   {
     "slug": "piquant-jammy-ikura-pasta",
-    "title": "Piquant Jammy Ikura Pasta",
+    "title": "Ikura Pasta",
     "tags": [
-      "croatian",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "pasta",
+      "seafood",
+      "gluten-free"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 22,
+    "cuisine": "Japanese",
+    "totalTimeMin": 20,
     "shard": "p"
   },
   {
@@ -10879,16 +10878,15 @@
   },
   {
     "slug": "pungent-saudi-arabian-romano-pepper-tagine",
-    "title": "Pungent Saudi Arabian Romano Pepper Tagine",
+    "title": "Saudi Arabian Chicken Tagine",
     "tags": [
-      "comfort-food",
-      "keto-friendly",
-      "one-pot",
-      "saudi-arabian",
-      "spicy"
+      "saudiarabian",
+      "chicken",
+      "stew",
+      "moroccan"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
