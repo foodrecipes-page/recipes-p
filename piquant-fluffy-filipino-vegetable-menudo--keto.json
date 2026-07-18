@@ -1,0 +1,67 @@
+{
+  "slug": "piquant-fluffy-filipino-vegetable-menudo--keto",
+  "title": "Filipino-Style Menudo Keto Casserole",
+  "description": "A keto twist on the classic Filipino menudo dish, transformed into a hearty casserole with a crunchy piquant topping.",
+  "cuisine": "Filipino",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Menudo",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Fluffy",
+      "amount": "1 cup",
+      "notes": "shredded cheese"
+    },
+    {
+      "name": "Piquant",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh cilantro"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a pan, heat vegetable oil over medium heat. Add menudo and cook until lightly browned.",
+    "In a separate bowl, mix fluffy cheese with salt.",
+    "In a 9x13 inch baking dish, create a layer of cooked menudo.",
+    "Top the menudo layer with the fluffy cheese mixture.",
+    "Sprinkle piquant on top of the cheese layer.",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "keto",
+    "casserole",
+    "menudo"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-fluffy-filipino-vegetable-menudo--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:49:36.065Z"
+}
