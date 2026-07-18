@@ -13399,5 +13399,17 @@
     "cuisine": "german",
     "totalTimeMin": 40,
     "shard": "p"
+  },
+  {
+    "slug": "piquant-pungent-thai-brown-lentils-green-curry--thai",
+    "title": "Thai Lentil Curry",
+    "tags": [
+      "thaicurry",
+      "lentil",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "p"
   }
 ]
