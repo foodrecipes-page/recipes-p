@@ -1,0 +1,58 @@
+{
+  "slug": "pan-seared-croatian-sausages-skewers--gluten-free",
+  "title": "Croatian Sausage Skewers",
+  "description": "A gluten-free recipe featuring Croatian sausages, perfect for a quick and flavorful meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Croatian sausages",
+      "amount": "4-6",
+      "notes": "Make sure to choose gluten-free sausages"
+    },
+    {
+      "name": "Vegetables of your choice",
+      "amount": "1 cup",
+      "notes": "Bell peppers, onions, cherry tomatoes, and mushrooms work well"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Soak the skewers in water for at least 30 minutes to prevent burning.",
+    "Thread the Croatian sausages and vegetables onto the skewers.",
+    "Brush the skewers with olive oil.",
+    "Season with salt and pepper to taste.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Serve hot and enjoy!",
+    "Note: Make sure to cook the sausages to an internal temperature of 160°F (71°C) to ensure food safety."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "summer",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-croatian-sausages-skewers--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:28:13.122Z"
+}
