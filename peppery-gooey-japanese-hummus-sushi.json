@@ -1,0 +1,73 @@
+{
+  "slug": "peppery-gooey-japanese-hummus-sushi",
+  "title": "Spicy Gooey Sushi Rolls",
+  "description": "A fusion of Japanese flavors with a spicy kick. These gooey sushi rolls are perfect for a quick snack or light meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "peppery hummus",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "sushi nori",
+      "amount": "6 sheets",
+      "notes": "seaweed sheets"
+    },
+    {
+      "name": "sushi vinegar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "for mixing rice"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Prepare Japanese rice according to package instructions.",
+    "Mix peppery hummus with 1 tsp of sushi vinegar (if using).",
+    "Lay a sheet of sushi nori flat and spread a thin layer of hummus mixture.",
+    "Place a small amount of Japanese rice on top of the hummus.",
+    "Roll the sushi using a bamboo mat or your hands.",
+    "Repeat with remaining ingredients.",
+    "Cut the rolls into bite-sized pieces.",
+    "Garnish with sesame seeds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sushi",
+    "japanese",
+    "spicy",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-gooey-japanese-hummus-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T14:18:33.269Z"
+}
