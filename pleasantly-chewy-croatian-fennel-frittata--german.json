@@ -1,0 +1,93 @@
+{
+  "slug": "pleasantly-chewy-croatian-fennel-frittata--german",
+  "title": "German Frittata with Fennel and Croation Sausage",
+  "description": "A hearty German-inspired frittata loaded with flavors of Croatia and crunchy fennel.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Croatian Sausage",
+      "amount": "1",
+      "notes": "casings removed"
+    },
+    {
+      "name": "Fennel",
+      "amount": "2 bulbs",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Eggs",
+      "amount": "6 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large skillet, heat butter over medium heat.",
+    "3. Add chopped onions and cook until translucent, 5 minutes.",
+    "4. Add minced garlic and cook for an additional minute.",
+    "5. Add sliced fennel and cook until tender, 5 minutes.",
+    "6. Add Croatian sausage, breaking it up with a spoon as it cooks, until browned, 5 minutes.",
+    "7. In a large bowl, whisk together beaten eggs, salt, and black pepper.",
+    "8. Pour egg mixture over the skillet contents and cook until eggs start to set, 2-3 minutes.",
+    "9. Transfer skillet to the preheated oven and bake for 15-20 minutes, or until eggs are set.",
+    "10. Remove from oven and sprinkle with chopped parsley. Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "breakfast",
+    "frittata",
+    "sausage",
+    "fennel",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 16,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pleasantly-chewy-croatian-fennel-frittata--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:06:28.752Z"
+}
