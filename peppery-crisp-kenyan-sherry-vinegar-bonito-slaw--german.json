@@ -1,0 +1,91 @@
+{
+  "slug": "peppery-crisp-kenyan-sherry-vinegar-bonito-slaw--german",
+  "title": "German-Style Braised Pork Knuckle with Slaw",
+  "description": "A hearty and flavorful pork knuckle dish inspired by traditional German cuisine, served with a refreshing slaw made from crisp vegetables.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork knuckle",
+      "amount": "1 (1.5-2 kg)",
+      "notes": "bone-in"
+    },
+    {
+      "name": "peppery mustard",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "kenyan coffee",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "sherry vinegar",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "slaw (cabbage, carrots, apple)",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 150°C (300°F).",
+    "2. In a small bowl, whisk together peppery mustard, kenyan coffee, sherry vinegar, bonito flakes, caraway seeds, salt, and black pepper.",
+    "3. Rub the spice mixture all over the pork knuckle, making sure to coat it evenly.",
+    "4. Place the pork knuckle in a large Dutch oven or oven-safe pot and cover it with a lid.",
+    "5. Braise the pork knuckle in the preheated oven for 2 1/2 hours, or until it reaches an internal temperature of 63°C (145°F).",
+    "6. While the pork knuckle is braising, prepare the slaw by shredding the cabbage, carrots, and apple.",
+    "7. In a separate bowl, whisk together a dressing made from equal parts slaw and vinegar.",
+    "8. Toss the slaw with the dressing and set aside.",
+    "9. Remove the pork knuckle from the oven and let it rest for 10 minutes before slicing.",
+    "10. Serve the sliced pork knuckle with the refreshing slaw on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "german-cuisine",
+    "braised-pork",
+    "slaw-recipe",
+    " hearty-dinner",
+    "traditional-german-food"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 60,
+    "carbs": 15,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crisp-kenyan-sherry-vinegar-bonito-slaw--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:46:35.448Z"
+}
