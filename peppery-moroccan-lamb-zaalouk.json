@@ -1,63 +1,76 @@
 {
   "slug": "peppery-moroccan-lamb-zaalouk",
-  "title": "Lamb Zaalouk Tagine",
-  "description": "A North African-inspired stew made with lamb, peppers, and eggplant in a rich and aromatic sauce.",
-  "cuisine": "North African",
+  "title": "Moroccan Lamb Stew",
+  "description": "A hearty and flavorful stew originating from Morocco, made with tender lamb and spices.",
+  "cuisine": "Moroccan",
   "diet": [
-    "meat"
+    "meat",
+    "omnivore"
   ],
   "meal": "dinner",
   "ingredients": [
     {
       "name": "Lamb shoulder",
-      "amount": "1.5 lbs",
-      "notes": "Bone-in, cut into 2-inch pieces"
-    },
-    {
-      "name": "Red bell pepper",
-      "amount": "2",
-      "notes": "Diced"
-    },
-    {
-      "name": "Moroccan peppery spice mix",
-      "amount": "2 tsp",
-      "notes": "Available at most spice shops or online"
-    },
-    {
-      "name": "Zaalouk sauce",
-      "amount": "1/4 cup",
-      "notes": "Homemade or store-bought"
+      "amount": "1 pound",
+      "notes": "cut into 2-inch cubes"
     },
     {
       "name": "Olive oil",
-      "amount": "2 tbsp",
-      "notes": "For browning lamb"
+      "amount": "2 tablespoons",
+      "notes": null
     },
     {
       "name": "Onion",
-      "amount": "1",
-      "notes": "Chopped"
+      "amount": "1 medium",
+      "notes": "chopped"
     },
     {
       "name": "Garlic",
       "amount": "3 cloves",
-      "notes": "Minced"
+      "notes": "minced"
     },
     {
-      "name": "Eggplant",
-      "amount": "1",
-      "notes": "Diced"
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Peppery spice blend",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
     }
   ],
   "instructions": [
-    "Heat oil in a large Dutch oven over medium-high heat.",
-    "Brown lamb in batches until browned, about 5 minutes per batch.",
-    "Remove lamb from pot, set aside.",
-    "Add more oil if necessary, then sauté onion and garlic until softened.",
-    "Add bell pepper and eggplant, cook until tender.",
-    "Return lamb to pot, add zaalouk sauce and spice mix.",
-    "Cover and simmer for 1 1/2 hours, or until lamb is tender.",
-    "Serve over couscous or rice."
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is softened, about 5 minutes.",
+    "Add the cumin, cayenne pepper, and peppery spice blend to the pot and cook for 1 minute.",
+    "Add the lamb back to the pot and stir to coat with the spice mixture.",
+    "Add 1 cup of water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Stir in the chopped parsley and season with salt and black pepper to taste.",
+    "Serve hot over couscous or rice."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 90,
@@ -65,19 +78,18 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "lamb",
-    "eggplant",
     "moroccan",
-    "tagine"
+    "lamb",
+    "stew"
   ],
   "nutrition": {
     "calories": 550,
-    "protein": "35g",
-    "carbs": "25g",
-    "fat": "35g"
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/peppery-moroccan-lamb-zaalouk",
   "providerUsed": "groq",
-  "createdAt": "2026-07-14T21:01:01.266Z"
+  "createdAt": "2026-07-16T04:49:00.913Z"
 }
