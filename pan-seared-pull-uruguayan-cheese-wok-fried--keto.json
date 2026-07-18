@@ -1,0 +1,61 @@
+{
+  "slug": "pan-seared-pull-uruguayan-cheese-wok-fried--keto",
+  "title": "Uruguayan Cheese Pull",
+  "description": "A keto-friendly dish inspired by Uruguayan cuisine, made with seared cheese.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cheddar cheese",
+      "amount": "8 oz",
+      "notes": "Low-carb cheddar"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a wok or large skillet over medium heat.",
+    "2. Add butter to the pan and let it melt.",
+    "3. Place the cheddar cheese in the wok and sear until it starts to melt.",
+    "4. Use a spatula to gently pull the cheese apart into strings.",
+    "5. Continue to cook until the cheese is golden brown and slightly crispy.",
+    "6. Season with black pepper and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "cheese",
+    "keto",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 1,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-pull-uruguayan-cheese-wok-fried--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:29:35.955Z"
+}
