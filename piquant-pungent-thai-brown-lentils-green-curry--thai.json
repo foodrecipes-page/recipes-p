@@ -1,0 +1,78 @@
+{
+  "slug": "piquant-pungent-thai-brown-lentils-green-curry--thai",
+  "title": "Thai Lentil Curry",
+  "description": "A flavorful and nutritious Thai-inspired curry made with lentils, featuring a blend of aromatic spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pungent garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "piquant lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "green chilies",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add curry paste and cook, stirring constantly, for 2 minutes.",
+    "Add garlic, lemongrass, and green chilies; cook for 1 minute.",
+    "Add lentils, coconut milk, brown sugar, salt, and curry powder; stir well.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Check lentils for doneness, adding more water if necessary.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh cilantro (if desired)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaicurry",
+    "lentil",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-pungent-thai-brown-lentils-green-curry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:11:09.165Z"
+}
