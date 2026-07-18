@@ -1,0 +1,80 @@
+{
+  "slug": "pungent-saudi-arabian-romano-pepper-tagine",
+  "title": "Saudi Arabian Chicken Tagine",
+  "description": "A flavorful and aromatic stew originating from Saudi Arabia, made with tender chicken and spices.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "romano pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "pungent onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "arabian spice blend",
+      "amount": "2 teaspoons",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 tablespoon",
+      "notes": "ground, available at most Middle Eastern markets or online"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the diced onion and pepper to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the garlic, Arabian spice blend, and tagine to the pot and cook for 1 minute.",
+    "Return the chicken to the pot and stir to coat with the spice mixture.",
+    "Add 1 cup of chicken broth to the pot and bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 20-25 minutes, or until the chicken is cooked through.",
+    "Serve the chicken hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudiarabian",
+    "chicken",
+    "stew",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-saudi-arabian-romano-pepper-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:14:26.531Z"
+}
