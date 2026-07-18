@@ -1,0 +1,84 @@
+{
+  "slug": "pan-seared-croatian-sausages-skewers--french",
+  "title": "French-Style Pan-Seared Croatian Sausages",
+  "description": "A simple yet flavorful recipe featuring pan-seared Croatian sausages, perfect for a quick dinner.",
+  "cuisine": "french",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian sausages",
+      "amount": "4",
+      "notes": "look for a brand that's high-quality and has a good balance of flavors"
+    },
+    {
+      "name": "pan",
+      "amount": "1",
+      "notes": "a stainless steel or cast iron pan is ideal for searing"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "use a high-quality olive oil that has a good smoke point"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly slice the onion and cook it until it's translucent"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "mince the garlic and cook it for 1 minute until fragrant"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": "fresh thyme is best, but dried thyme works too"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "use a flaky sea salt for the best flavor"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "freshly ground black pepper is best"
+    }
+  ],
+  "instructions": [
+    "Heat the pan over medium-high heat until it's hot.",
+    "Add the olive oil to the pan and swirl it around to coat the bottom.",
+    "Add the sliced onion to the pan and cook it until it's translucent.",
+    "Add the minced garlic to the pan and cook for 1 minute until fragrant.",
+    "Add the Croatian sausages to the pan and sear them for 2-3 minutes on each side.",
+    "Add the thyme sprig to the pan and cook for an additional 1-2 minutes.",
+    "Season the sausages with salt and pepper to taste.",
+    "Serve the sausages hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "sausages",
+    "skewers",
+    "breakfast-for-dinner"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-croatian-sausages-skewers--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:11:59.854Z"
+}
