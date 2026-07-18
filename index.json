@@ -3256,18 +3256,15 @@
   },
   {
     "slug": "peppery-gooey-japanese-hummus-sushi",
-    "title": "Peppery Gooey Japanese Hummus Sushi",
+    "title": "Spicy Gooey Sushi Rolls",
     "tags": [
-      "date-night",
-      "high-protein",
-      "japanese",
-      "lacto-vegetarian",
       "sushi",
-      "vegetarian",
-      "weeknight"
+      "japanese",
+      "spicy",
+      "snack"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 10,
     "shard": "p"
   },
   {
@@ -7127,17 +7124,14 @@
   },
   {
     "slug": "piquant-kenyan-vegetable-stir-fry",
-    "title": "Piquant Kenyan Vegetable Stir Fry",
+    "title": "Kenyan Vegetable Stir Fry",
     "tags": [
-      "date-night",
-      "kenyan-cuisine",
-      "one-pan",
-      "quick-dinner",
-      "stir-fry",
-      "vegetarian"
+      "kenyan",
+      "vegetarian",
+      "stir-fry"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
