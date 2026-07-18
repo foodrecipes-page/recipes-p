@@ -1,0 +1,85 @@
+{
+  "slug": "panang-curry-brise-ferment--keto",
+  "title": "Panang Brise Chicken Thighs",
+  "description": "A keto-friendly twist on Thai Panang Chicken with the addition of tenderized Brise chicken.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brise chicken thighs",
+      "amount": "4",
+      "notes": "Pounded thin"
+    },
+    {
+      "name": "Panang curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "Optional, for flavor"
+    },
+    {
+      "name": "Keto sweetener",
+      "amount": "1 tablespoon",
+      "notes": "Such as Swerve or Erythritol"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Keto-friendly vegetables",
+      "amount": "1 cup",
+      "notes": "Such as bell peppers, cauliflower, or mushrooms"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a pan over medium-high heat.",
+    "Add the Brise chicken thighs and cook until browned, about 5 minutes.",
+    "Remove the chicken from the pan and set aside.",
+    "Add the remaining 1 tablespoon of coconut oil to the pan.",
+    "Add the Panang curry paste and cook for 1 minute, stirring constantly.",
+    "Add the keto-friendly vegetables and cook until tender, about 3-4 minutes.",
+    "Return the chicken to the pan and stir to combine with the curry paste and vegetables.",
+    "Cook for an additional 2-3 minutes, until the chicken is cooked through.",
+    "Stir in the fish sauce and keto sweetener (if using).",
+    "Serve hot, garnished with chopped fresh basil and mint."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "thai",
+    "chicken",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/panang-curry-brise-ferment--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:11:15.454Z"
+}
