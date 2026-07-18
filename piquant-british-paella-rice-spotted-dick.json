@@ -1,0 +1,74 @@
+{
+  "slug": "piquant-british-paella-rice-spotted-dick",
+  "title": "Spotted Dick Pudding",
+  "description": "A traditional British steamed pudding flavored with suet and spices, often served with custard.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Spotted Dick mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Raisins",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Grease a 1-pint pudding basin with butter.",
+    "In a large mixing bowl, combine the Spotted Dick mix, sugar, eggs, and milk.",
+    "Add the melted butter and mix until well combined.",
+    "Stir in the raisins.",
+    "Transfer the mixture to the prepared pudding basin.",
+    "Cover the pudding with a piece of parchment paper or aluminum foil.",
+    "Place the pudding in a large pot or steamer basket.",
+    "Add enough boiling water to come halfway up the side of the pudding basin.",
+    "Steam the pudding for 2-3 hours, or until cooked through.",
+    "Remove the pudding from the heat and let it cool for 10 minutes.",
+    "Serve the pudding with custard or whipped cream."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pudding",
+    "dessert",
+    "british-cuisine",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-british-paella-rice-spotted-dick",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:54:05.467Z"
+}
