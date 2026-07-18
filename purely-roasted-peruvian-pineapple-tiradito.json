@@ -1,0 +1,89 @@
+{
+  "slug": "purely-roasted-peruvian-pineapple-tiradito",
+  "title": "Peruvian Grilled Steak with Pineapple Salsa",
+  "description": "A traditional Peruvian dish featuring grilled steak served with a fresh pineapple salsa. This recipe is perfect for a summer evening.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ribeye Steaks",
+      "amount": "1.5 lbs",
+      "notes": "1.5-2 pounds per serving"
+    },
+    {
+      "name": "Pineapple",
+      "amount": "1 cup",
+      "notes": "fresh pineapple chunks"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "peruvian sea salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to high heat.",
+    "Season the steak with salt and black pepper.",
+    "Grill the steak for 4-5 minutes per side, or until it reaches your desired level of doneness.",
+    "Transfer the steak to a cutting board and let it rest for 5 minutes.",
+    "Meanwhile, combine the pineapple, red onion, red bell pepper, cilantro, lime juice, and garlic in a bowl.",
+    "Stir to combine and adjust seasoning as needed.",
+    "Slice the steak against the grain and serve with the pineapple salsa.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "steak",
+    "peruvian",
+    "pineapple",
+    "salsa"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 12,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-roasted-peruvian-pineapple-tiradito",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:37:52.954Z"
+}
