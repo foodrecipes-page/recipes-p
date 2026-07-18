@@ -1,0 +1,85 @@
+{
+  "slug": "piquant-turkish-cauliflower-flatbread--french",
+  "title": "Cauliflower Fritters with Piquant Aioli",
+  "description": "A crispy and flavorful French-inspired snack or side dish made with cauliflower, flatbread, and a tangy piquant aioli.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "flatbread",
+      "amount": "1 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "piquant",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "turkish",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "parmesan",
+      "amount": "1/4 cup, grated",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Grate the cauliflower and squeeze out excess moisture.",
+    "In a bowl, mix together cauliflower, flatbread, piquant, turkish, eggs, parmesan, and garlic.",
+    "Season with salt and pepper to taste.",
+    "Using a spoon, drop small amounts of the mixture onto a baking sheet lined with parchment paper.",
+    "Drizzle with olive oil and gently toss to coat.",
+    "Bake for 20-25 minutes, or until crispy and golden brown.",
+    "Meanwhile, prepare the piquant aioli by mixing together piquant and mayonnaise.",
+    "Serve the fritters hot with a side of piquant aioli for dipping.",
+    "Enjoy immediately!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "cauliflower",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-turkish-cauliflower-flatbread--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:21:45.479Z"
+}
