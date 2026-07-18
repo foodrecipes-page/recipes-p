@@ -1,0 +1,92 @@
+{
+  "slug": "pan-seared-japanese-celery-nabemono--japanese",
+  "title": "Japanese Nabemono with Celery and Seared Beef",
+  "description": "A traditional Japanese hot pot dish featuring seared beef, celery, and a variety of vegetables served with a savory broth.",
+  "cuisine": "japanese",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef (sirloin) ",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "4 stalks",
+      "notes": ""
+    },
+    {
+      "name": "nabemono broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sake",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "4 stalks",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in the pan over medium heat.",
+    "Add the ginger and cook for 2 minutes.",
+    "Add the soy sauce, sake, and sugar, and stir to combine.",
+    "Add 4 cups of nabemono broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Add the beef and cook for 3-4 minutes per side, or until seared to desired level of doneness.",
+    "Add the celery and cook for 2-3 minutes, or until tender.",
+    "Add the mushrooms and cook for 2-3 minutes, or until tender.",
+    "Serve the hot pot with scallions and additional nabemono broth, if desired.",
+    "Cook the beef to an internal temperature of 130°F for medium-rare, 140°F for medium, and 150°F for medium-well.",
+    "Let the beef rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "hot-pot",
+    "beef",
+    "celery",
+    "nabemono"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-japanese-celery-nabemono--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:47:05.064Z"
+}
