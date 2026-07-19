@@ -1,0 +1,88 @@
+{
+  "slug": "piquant-venezuelan-tofu-curry--italian",
+  "title": "Italian-Style Tofu Curry",
+  "description": "A fusion dish blending the flavors of Italy and Venezuela, featuring a piquant curry sauce and tender tofu.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "drained and cut into bite-sized pieces"
+    },
+    {
+      "name": "piquant venezuelan curry",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 can (14 oz)",
+      "notes": "diced"
+    },
+    {
+      "name": "basil",
+      "amount": "1 tsp dried",
+      "notes": "or 2 tbsp fresh chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the tofu and cook until golden brown on all sides, about 5-6 minutes.",
+    "Add the piquant venezuelan curry, diced tomato, and dried basil. Stir to combine.",
+    "Reduce heat to medium-low and simmer for 10-15 minutes or until the sauce has thickened.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh basil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "vegan",
+    "curry",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-venezuelan-tofu-curry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:35:51.158Z"
+}
