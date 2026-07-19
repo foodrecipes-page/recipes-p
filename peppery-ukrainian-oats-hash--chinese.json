@@ -1,0 +1,71 @@
+{
+  "slug": "peppery-ukrainian-oats-hash--chinese",
+  "title": "Sesame Oat Hash",
+  "description": "A twist on traditional hash, this chinese-inspired dish combines peppery flavors with crunchy sesame seeds.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "peppery oats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "scallions, thinly sliced",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "hash browns",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan over medium heat.",
+    "Add scallions and cook until softened.",
+    "Add hash browns and cook until crispy.",
+    "Add peppery oats and cook until toasted.",
+    "Sprinkle sesame seeds and soy sauce on top.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "breakfast",
+    "oats",
+    "sesame"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-ukrainian-oats-hash--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:48:15.444Z"
+}
