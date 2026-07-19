@@ -1,0 +1,63 @@
+{
+  "slug": "pita-fry-tofu-delight--gluten-free",
+  "title": "Crispy Tofu Pita Bites",
+  "description": "A tasty and healthy snack made with crispy tofu and served in a gluten-free pita. Perfect for a quick bite on the go!",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Press and drain excess water before use"
+    },
+    {
+      "name": "Pita",
+      "amount": "4-6 small pita breads",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Fry",
+      "amount": "1/2 cup cooking oil",
+      "notes": "For frying the tofu"
+    },
+    {
+      "name": "Delight",
+      "amount": "Optional, for garnish",
+      "notes": "Sauce or seasoning of your choice"
+    }
+  ],
+  "instructions": [
+    "Cut the tofu into small cubes.",
+    "Dredge the tofu cubes in a mixture of your favorite seasonings and spices.",
+    "Heat about 1/2 inch of cooking oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add the tofu cubes and fry until golden brown and crispy.",
+    "Transfer the fried tofu to a paper towel-lined plate to drain excess oil.",
+    "Cut the pita breads into bite-sized pieces.",
+    "Fill the pita bites with the crispy tofu and any desired garnishes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "gluten-free",
+    "tofu",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pita-fry-tofu-delight--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:42:21.215Z"
+}
