@@ -1,0 +1,70 @@
+{
+  "slug": "peppery-creamy-pesto",
+  "title": "Creamy Pesto Pasta",
+  "description": "A simple pasta dish with a rich and creamy pesto sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Penne pasta",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Pesto sauce",
+      "amount": "120ml",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Creamy sauce",
+      "amount": "60ml",
+      "notes": "heavy cream or mascarpone"
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "20g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the penne pasta in a large pot of boiling water until al dente.",
+    "In a separate saucepan, heat the pesto sauce over medium heat.",
+    "Add the creamy sauce to the pesto sauce and stir until combined.",
+    "Add the grated Parmesan cheese to the sauce and stir until melted.",
+    "Drain the cooked pasta and add it to the saucepan with the pesto sauce.",
+    "Toss the pasta in the sauce until well coated.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "pesto",
+    "creamy",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-creamy-pesto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T10:30:51.921Z"
+}
