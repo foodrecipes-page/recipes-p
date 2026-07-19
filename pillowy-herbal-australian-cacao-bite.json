@@ -1,0 +1,69 @@
+{
+  "slug": "pillowy-herbal-australian-cacao-bite",
+  "title": "Australian Herbal Cacao Truffles",
+  "description": "A rich and decadent dessert made with Australian cacao and herbal notes. These bite-sized truffles are perfect for satisfying your sweet tooth.",
+  "cuisine": "australian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cacao",
+      "amount": "1 cup",
+      "notes": "Australian cacao powder"
+    },
+    {
+      "name": "pillowy coconut cream",
+      "amount": "1/2 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "herbal honey",
+      "amount": "2 tbsp",
+      "notes": "raw"
+    },
+    {
+      "name": "bite-sized shortbread cookies",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Melt cacao in a double boiler over low heat.",
+    "Whisk in coconut cream until smooth.",
+    "Add honey and vanilla extract.",
+    "Stir in crushed shortbread cookies.",
+    "Chill mixture for 30 minutes.",
+    "Use a spoon to form truffles.",
+    "Roll truffles between hands to shape.",
+    "Chill truffles for an additional 30 minutes.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "dessert",
+    "chocolate",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-herbal-australian-cacao-bite",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:44:16.342Z"
+}
