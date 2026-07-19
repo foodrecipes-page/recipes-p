@@ -1,0 +1,90 @@
+{
+  "slug": "pungent-indian-kale-hyderabadi-pakora--japanese",
+  "title": "Kale Pakora with Japanese Twist",
+  "description": "A Japanese-inspired take on the Indian classic, kale pakora. Crispy fried kale fritters served with a side of tangy dipping sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kale",
+      "amount": "1 bunch",
+      "notes": "curly or lacinato work well"
+    },
+    {
+      "name": "pungent",
+      "amount": "2 cloves",
+      "notes": "garlic, minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "gram flour",
+      "amount": "1/2 cup",
+      "notes": "chickpea flour"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/4 teaspoon",
+      "notes": "helps with crispiness"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 teaspoon",
+      "notes": "indian spice blend"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "oil",
+      "amount": "1/2 cup",
+      "notes": "vegetable or canola oil"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for dipping sauce"
+    }
+  ],
+  "instructions": [
+    "Rinse and dry the kale leaves.",
+    "In a blender or food processor, blend the kale, garlic, and gram flour until well combined.",
+    "Add the baking soda, garam masala, and salt. Blend until smooth.",
+    "Heat the oil in a deep frying pan or a deep fryer to 350°F.",
+    "Using a spoon, drop small balls of the kale mixture into the hot oil.",
+    "Fry until golden brown and crispy, about 3-4 minutes.",
+    "Drain the pakora on paper towels.",
+    "Mix the soy sauce with a little water to make a dipping sauce.",
+    "Serve the pakora hot with the soy sauce dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "indian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-indian-kale-hyderabadi-pakora--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:25:32.700Z"
+}
