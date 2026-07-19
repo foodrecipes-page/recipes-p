@@ -13506,5 +13506,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "p"
+  },
+  {
+    "slug": "peppery-roasted-spanish-radish-roast--indian",
+    "title": "Roasted Radish and Peppery Spanish-Style Lentil Curry",
+    "tags": [
+      "lentil-curry",
+      "indian-cuisine",
+      "roasted-radish",
+      "spanish-influenced"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "p"
   }
 ]
