@@ -1,0 +1,82 @@
+{
+  "slug": "peppery-fluffy-american-cherry-cobbler--vegan",
+  "title": "Cherry Cobbler Fluffy Pancakes",
+  "description": "A delicious vegan breakfast recipe, using cherry cobbler as a flavor inspiration. Fluffy, American-style pancakes with a twist.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cherry cobbler",
+      "amount": "1 cup",
+      "notes": "finely ground"
+    },
+    {
+      "name": "peppery oat flour",
+      "amount": "1 1/2 cups",
+      "notes": "self-made or store-bought"
+    },
+    {
+      "name": "fluffy coconut milk",
+      "amount": "1 cup",
+      "notes": "shaken well"
+    },
+    {
+      "name": "american maple syrup",
+      "amount": "2 tbsp",
+      "notes": "grade B"
+    },
+    {
+      "name": "aquafaba",
+      "amount": "3 tbsp",
+      "notes": "from canned chickpeas"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": "aluminum-free"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "fine-grained"
+    },
+    {
+      "name": "fluffy coconut oil",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together the peppery oat flour, baking powder, and salt.",
+    "2. In a separate bowl, whisk together the cherry cobbler, fluffy coconut milk, american maple syrup, aquafaba, and melted coconut oil.",
+    "3. Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "4. Heat a non-stick skillet or griddle over medium heat.",
+    "5. Using a 1/4 cup measuring cup, scoop the batter onto the skillet or griddle.",
+    "6. Cook the pancakes for 2-3 minutes, until bubbles appear on the surface.",
+    "7. Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "8. Serve the pancakes hot with your favorite toppings, such as fresh fruit or coconut whipped cream."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "vegan breakfast",
+    "cherry cobbler",
+    "fluffy pancakes"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-fluffy-american-cherry-cobbler--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:17:44.420Z"
+}
