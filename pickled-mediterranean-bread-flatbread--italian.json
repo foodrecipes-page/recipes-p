@@ -1,0 +1,69 @@
+{
+  "slug": "pickled-mediterranean-bread-flatbread--italian",
+  "title": "Italian Flatbread Bruschetta",
+  "description": "A classic Italian appetizer featuring toasted flatbread, fresh tomatoes, and basil. Perfect for a quick and easy dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 baguette, sliced"
+    },
+    {
+      "name": "Mediterranean pickled vegetables",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "Fresh tomatoes",
+      "amount": "2, diced"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toast the flatbread slices for 5-7 minutes, or until lightly browned.",
+    "In a medium bowl, combine the chopped pickled vegetables, diced tomatoes, and chopped basil.",
+    "Drizzle the olive oil over the vegetable mixture and season with salt and pepper to taste.",
+    "Brush the toasted flatbread slices with olive oil and top each slice with the vegetable mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "appetizer",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pickled-mediterranean-bread-flatbread--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:53:22.620Z"
+}
