@@ -1,0 +1,84 @@
+{
+  "slug": "peaceful-middle-eastern-lamb-tagine--chinese",
+  "title": "Eastern-Style Braised Lamb",
+  "description": "A twist on traditional Chinese braising, this Eastern-inspired lamb tagine is a flavorful and comforting meal. The lamb is slow-cooked in a rich and aromatic sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large Dutch oven over medium-high heat. Brown the lamb pieces in batches until they are nicely browned, about 5 minutes per batch. Set the browned lamb aside.",
+    "Reduce the heat to medium and add the sliced ginger and minced garlic to the pot. Cook, stirring occasionally, until the ginger and garlic are softened and fragrant, about 5 minutes.",
+    "Add the soy sauce, brown sugar, cumin, coriander, and turmeric to the pot. Cook, stirring constantly, for 1 minute.",
+    "Add the browned lamb back to the pot, along with any accumulated juices. Bring the sauce to a simmer and cook, covered, until the lamb is tender and the sauce is rich and thickened, about 2 1/2 hours.",
+    "Remove the pot from the heat and let it cool slightly. Serve the lamb and sauce hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "chinese",
+    "lamb",
+    "braise"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peaceful-middle-eastern-lamb-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:54:54.571Z"
+}
