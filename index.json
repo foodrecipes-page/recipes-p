@@ -13701,5 +13701,18 @@
     "cuisine": "german",
     "totalTimeMin": 65,
     "shard": "p"
+  },
+  {
+    "slug": "pan-seared-japanese-celery-nabemono--vegan",
+    "title": "Vegan Nabemono Stew",
+    "tags": [
+      "vegan",
+      "japanese",
+      "hot-pot",
+      "stew"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "p"
   }
 ]
