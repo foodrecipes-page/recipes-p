@@ -1,0 +1,97 @@
+{
+  "slug": "plush-vietnamese-stilton-pho--indian",
+  "title": "Plush Chicken Tikka Masala",
+  "description": "A creamy and aromatic Indian dish made with marinated chicken, served in a rich tomato-based sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plush chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "pho broth",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "stilton cheese",
+      "amount": "1/2 cup",
+      "notes": "Cubed"
+    },
+    {
+      "name": "vietnamese fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup",
+      "notes": "Canned"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together pho broth, garam masala, cumin, coriander, and salt.",
+    "2. Add the plush chicken breasts to the marinade and mix well.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "4. Preheat the grill or grill pan to medium-high heat.",
+    "5. Remove the chicken from the marinade, letting any excess liquid drip off.",
+    "6. Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "7. Transfer the chicken to a plate and let rest for 5 minutes.",
+    "8. In a large saucepan, melt the stilton cheese over medium heat.",
+    "9. Add the tomato puree and heavy cream (if using) to the saucepan.",
+    "10. Stir to combine and bring the sauce to a simmer.",
+    "11. Add the grilled chicken to the saucepan and stir to coat with the sauce.",
+    "12. Serve hot, garnished with fresh cilantro and lemon wedges."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "tikka masala"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 44,
+    "carbs": 20,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/plush-vietnamese-stilton-pho--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:57:56.190Z"
+}
