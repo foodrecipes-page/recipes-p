@@ -932,16 +932,15 @@
   },
   {
     "slug": "pan-seared-thai-serrano-ham-noodles",
-    "title": "Pan Seared Thai Serrano Ham Noodles",
+    "title": "Seared Ham Noodle Stir Fry",
     "tags": [
-      "copper-pot",
-      "noodle-dish",
-      "one-pot",
-      "spicy-food",
-      "thai-cuisine"
+      "stir-fry",
+      "thai-food",
+      "ham",
+      "noodles"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "cuisine": "thai",
+    "totalTimeMin": 20,
     "shard": "p"
   },
   {
@@ -13638,6 +13637,33 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-dense-slovakian-curry-stew--german",
+    "title": "Slovakian Stew",
+    "tags": [
+      "hearty",
+      "comfort-food",
+      "beef",
+      "potatoes",
+      "curry"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 120,
+    "shard": "p"
+  },
+  {
+    "slug": "pillowy-portuguese-tofu-dumplings--italian",
+    "title": "Tofu Italian Dumplings",
+    "tags": [
+      "italian",
+      "vegan",
+      "gluten-free",
+      "comfort-food"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
     "shard": "p"
   }
 ]
