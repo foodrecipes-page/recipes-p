@@ -1,0 +1,81 @@
+{
+  "slug": "pillowy-nutty-applesauce-bake--japanese",
+  "title": "Pillowy Mochi Cake",
+  "description": "A traditional Japanese-style cake with a soft, pillowy texture. Made with nutty mochiko flour and topped with a sweet applesauce glaze.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "mochiko flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "applesauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C). Grease a 9-inch round cake pan.",
+    "Sift the mochiko flour into a large bowl.",
+    "Add the sugar, applesauce, coconut milk, eggs, vanilla extract, and salt. Mix until combined.",
+    "Melt the butter and add it to the bowl. Mix until smooth.",
+    "Add the baking powder and mix until just combined.",
+    "Pour the batter into the prepared cake pan.",
+    "Bake for 35-40 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Let the cake cool in the pan for 5 minutes before transferring it to a wire rack to cool completely.",
+    "Once the cake is cool, drizzle with the applesauce glaze (see below).",
+    "To make the applesauce glaze, whisk together 1/2 cup applesauce and 2 tbsp granulated sugar until smooth."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "cake",
+    "dessert",
+    "mochi"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-nutty-applesauce-bake--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:11:27.111Z"
+}
