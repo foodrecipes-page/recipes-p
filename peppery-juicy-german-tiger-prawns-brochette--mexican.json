@@ -1,0 +1,74 @@
+{
+  "slug": "peppery-juicy-german-tiger-prawns-brochette--mexican",
+  "title": "Prawns and Poblanos Brochette",
+  "description": "A Mexican-inspired dish featuring prawns and poblanos grilled to perfection. This recipe is a great combination of spicy and savory flavors.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Prawns",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Poblanos",
+      "amount": "4"
+    },
+    {
+      "name": "Peppery",
+      "amount": "2 tablespoons",
+      "notes": "Pepper"
+    },
+    {
+      "name": "Juicy",
+      "amount": "1 cup",
+      "notes": "Tomato"
+    },
+    {
+      "name": "German",
+      "amount": "1 tablespoon",
+      "notes": "Mustard"
+    },
+    {
+      "name": "Tiger",
+      "amount": "1 teaspoon",
+      "notes": "Powder"
+    },
+    {
+      "name": "Brochette",
+      "amount": "1 dozen",
+      "notes": "Skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread prawns and poblanos onto the brochette.",
+    "In a small bowl, mix together peppery, juicy, German, and Tiger ingredients.",
+    "Brush the mixture onto the prawns and poblanos.",
+    "Season with salt and pepper to taste.",
+    "Grill for 8-10 minutes, or until the prawns are pink and the poblanos are charred.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "grilled",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-juicy-german-tiger-prawns-brochette--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:09:33.891Z"
+}
