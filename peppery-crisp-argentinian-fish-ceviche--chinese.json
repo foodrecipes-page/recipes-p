@@ -1,0 +1,88 @@
+{
+  "slug": "peppery-crisp-argentinian-fish-ceviche--chinese",
+  "title": "Ceviche with Crisp Asian Slaw",
+  "description": "A refreshing Chinese-inspired ceviche dish with a crunchy slaw. Perfect for a light lunch or dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Argentinian fish",
+      "amount": "1 lb",
+      "notes": "White fish such as sea bass or halibut works well"
+    },
+    {
+      "name": "Peppery",
+      "amount": "1/4 cup",
+      "notes": "Pepper slices or peppercorns"
+    },
+    {
+      "name": "Crisp",
+      "amount": "2 cups",
+      "notes": "Shredded cabbage or thinly sliced carrots"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/4 cup",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "optional",
+      "notes": "For some heat"
+    }
+  ],
+  "instructions": [
+    "Cut the Argentinian fish into small pieces and place in a large bowl.",
+    "In a small bowl, whisk together lime juice, soy sauce, ginger, garlic, and chili flakes (if using).",
+    "Pour the marinade over the fish and refrigerate for at least 30 minutes.",
+    "Just before serving, toss the crisp slaw with a little bit of oil, salt, and pepper.",
+    "To serve, place a scoop of the slaw on a plate and top with the ceviche.",
+    "Garnish with peppery slices or peppercorns.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ceviche",
+    "chinese",
+    "slaw",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crisp-argentinian-fish-ceviche--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:20:40.321Z"
+}
