@@ -1,0 +1,97 @@
+{
+  "slug": "pillowy-soft-polish-pork-dumplings--italian",
+  "title": "Polish-Style Pork and Dumplings",
+  "description": "A hearty Italian-inspired dish featuring pork and pillowy dumplings. This comforting meal is perfect for a cozy evening.",
+  "cuisine": "italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": null
+    },
+    {
+      "name": "dumplings",
+      "amount": "1 package (8-10 dumplings)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "polish sausage",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "2. Add the pork shoulder and cook until browned on all sides, about 5 minutes.",
+    "3. Remove the pork from the pot and set aside.",
+    "4. Add the polish sausage to the pot and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "5. Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "6. Add the caraway seeds and cook for 1 minute.",
+    "7. Add the tomato sauce to the pot and stir to combine.",
+    "8. Return the pork to the pot and bring the sauce to a simmer.",
+    "9. Reduce the heat to low and cook, covered, until the pork is tender, about 2 hours.",
+    "10. Add the dumplings to the pot and cook, covered, until they are cooked through, about 10-15 minutes.",
+    "11. Season the sauce with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pork",
+    "dumplings",
+    "comfort-food",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-soft-polish-pork-dumplings--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:54:39.432Z"
+}
