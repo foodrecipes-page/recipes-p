@@ -1,0 +1,85 @@
+{
+  "slug": "pillowy-portuguese-tofu-dumplings--italian",
+  "title": "Tofu Italian Dumplings",
+  "description": "A vegan twist on the classic Italian dumpling dish, using pillowy tofu and portuguese flair.",
+  "cuisine": "italian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pillowy tofu",
+      "amount": "1 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "portuguese bread crumbs",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "dumplings",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": "dried herbs"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and sauté for 1 minute until fragrant.",
+    "Add the portuguese bread crumbs and cook for 2-3 minutes until lightly toasted.",
+    "Add the crumbled tofu and cook until lightly browned, breaking up with a spatula as needed.",
+    "Add the italian seasoning, salt, and pepper, and stir to combine.",
+    "Cook the dumplings according to package instructions and add to the skillet with the tofu mixture.",
+    "Cook for an additional 2-3 minutes until the dumplings are coated in the tofu mixture.",
+    "Serve hot and enjoy!",
+    "Optional: Serve with marinara sauce for added flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "vegan",
+    "gluten-free",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-portuguese-tofu-dumplings--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:12:38.184Z"
+}
