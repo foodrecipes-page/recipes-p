@@ -1,0 +1,73 @@
+{
+  "slug": "pan-seared-japanese-celery-nabemono--vegan",
+  "title": "Vegan Nabemono Stew",
+  "description": "A Japanese-inspired, vegan version of the popular hot pot dish. This stew is perfect for a cold winter night, with a flavorful broth and a variety of vegetables.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "nabemono broth mix",
+      "amount": "1 package",
+      "notes": "make sure it's vegan"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "cubed"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring the nabemono broth mix to a boil.",
+    "Add the chopped celery and cook until tender.",
+    "Add the sliced mushrooms, bell peppers, and carrots.",
+    "Cook for 5 minutes.",
+    "Add the cubed tofu and cook for an additional 2 minutes.",
+    "Season with soy sauce and sesame oil to taste.",
+    "Serve hot, garnished with green onions and sesame seeds.",
+    "Have fun and customize your stew with your favorite vegetables!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "japanese",
+    "hot-pot",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-japanese-celery-nabemono--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:00:37.535Z"
+}
