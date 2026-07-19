@@ -1,0 +1,78 @@
+{
+  "slug": "peppery-velvety-garlic-korean-stir-fry--keto",
+  "title": "Spicy Korean Keto Stir Fry",
+  "description": "A spicy and savory stir fry that's keto-friendly. Use your favorite vegetables and adjust the level of heat to your liking.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peppery Stir Fry Beef",
+      "amount": "1 lb",
+      "notes": "Slice the beef into thin strips and season with salt and pepper."
+    },
+    {
+      "name": "Velvety Korean Chili Flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Korean Stir Fry Sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Vegetables (bell peppers, onions, etc.)",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Keto Stir Fry Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the chili flakes and cook for 1 minute.",
+    "Add the stir fry sauce and cook for 1 minute.",
+    "Add the vegetables and cook until tender-crisp, about 3-4 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "stir-fry",
+    "spicy",
+    "korean"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 5,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-velvety-garlic-korean-stir-fry--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:15:48.011Z"
+}
