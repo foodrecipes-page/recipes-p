@@ -1,0 +1,77 @@
+{
+  "slug": "peppery-crispy-pumpkin-croissant--mexican",
+  "title": "Crispy Pumpkin Croissant Empanadas",
+  "description": "A Mexican-inspired dessert featuring crispy croissant dough wrapped around a spiced pumpkin filling. Perfect for a sweet treat.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pumpkin",
+      "amount": "1 cup, cooked and mashed"
+    },
+    {
+      "name": "Croissant",
+      "amount": "4, cut into small pieces"
+    },
+    {
+      "name": "Peppery",
+      "amount": "a pinch, to taste"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "1, beaten"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium bowl, combine the pumpkin, cinnamon, nutmeg, and sugar. Mix well.",
+    "Add the beaten eggs to the pumpkin mixture and mix until smooth.",
+    "Add the chopped croissant pieces to the pumpkin mixture and mix until well combined.",
+    "On a lightly floured surface, roll out the croissant pieces into thin sheets.",
+    "Place a tablespoon of the pumpkin mixture onto one half of each croissant sheet.",
+    "Fold the other half over the filling and press the edges to seal.",
+    "Heat the vegetable oil in a large skillet over medium heat.",
+    "Fry the empanadas until golden brown, then transfer to a baking sheet.",
+    "Bake for 10-12 minutes, or until crispy and golden brown.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "dessert",
+    "empanadas",
+    "pumpkin",
+    "croissant"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crispy-pumpkin-croissant--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:05:21.800Z"
+}
