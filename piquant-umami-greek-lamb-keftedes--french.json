@@ -1,0 +1,85 @@
+{
+  "slug": "piquant-umami-greek-lamb-keftedes--french",
+  "title": "French-Style Lamb Keftedes with Umami Gravy",
+  "description": "A French-inspired twist on traditional Greek lamb meatballs, served in a rich and savory umami gravy.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "slightly beaten"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Umami paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Piquant sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine lamb, breadcrumbs, onion, garlic, egg, Greek yogurt, umami paste, salt, and black pepper. Mix well with your hands until just combined.",
+    "Use your hands to shape the mixture into small meatballs, about 1 1/2 inches (3.8 cm) in diameter. Place the meatballs on a baking sheet lined with parchment paper.",
+    "Bake the meatballs in the preheated oven for 18-20 minutes, or until cooked through.",
+    "While the meatballs are baking, heat 2 tablespoons of piquant sauce in a large skillet over medium heat.",
+    "Once the meatballs are done, remove them from the oven and carefully place them in the skillet with the piquant sauce.",
+    "Toss the meatballs in the skillet to coat them evenly with the sauce.",
+    "Serve the French-Style Lamb Keftedes hot, garnished with fresh parsley and accompanied by a side of rice or roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 22,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "greek",
+    "lamb",
+    "keftedes",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-umami-greek-lamb-keftedes--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:31:37.542Z"
+}
