@@ -13739,5 +13739,31 @@
     "cuisine": "thai",
     "totalTimeMin": 30,
     "shard": "p"
+  },
+  {
+    "slug": "piquant-venezuelan-tofu-curry--italian",
+    "title": "Italian-Style Tofu Curry",
+    "tags": [
+      "italian",
+      "vegan",
+      "curry",
+      "tofu"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-ukrainian-oats-hash--chinese",
+    "title": "Sesame Oat Hash",
+    "tags": [
+      "chinese",
+      "breakfast",
+      "oats",
+      "sesame"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "p"
   }
 ]
