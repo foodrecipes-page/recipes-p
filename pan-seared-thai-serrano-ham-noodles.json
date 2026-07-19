@@ -1,0 +1,61 @@
+{
+  "slug": "pan-seared-thai-serrano-ham-noodles",
+  "title": "Seared Ham Noodle Stir Fry",
+  "description": "A spicy Thai-inspired stir fry made with pan-seared ham and served over noodles.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ham",
+      "amount": "1/2 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "noodles",
+      "amount": "1 cup",
+      "notes": "rice noodles or egg noodles"
+    },
+    {
+      "name": "serrano pepper",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pan",
+      "amount": "",
+      "notes": "for searing"
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium-high heat.",
+    "Add the sliced ham and sear until browned, about 3-4 minutes.",
+    "Remove the ham from the pan and set aside.",
+    "Add the sliced serrano pepper to the pan and cook for 1-2 minutes.",
+    "Add the noodles to the pan and cook according to package instructions.",
+    "Return the ham to the pan and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with additional serrano pepper slices if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "thai-food",
+    "ham",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-thai-serrano-ham-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:57:04.221Z"
+}
