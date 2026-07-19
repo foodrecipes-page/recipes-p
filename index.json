@@ -9810,17 +9810,14 @@
   },
   {
     "slug": "pungent-canadian-tofu-bake",
-    "title": "Pungent Canadian Tofu Bake",
+    "title": "Tofu Bake with Pungent Flair",
     "tags": [
-      "canadian",
-      "halal-friendly",
-      "one-pan",
       "tofu",
-      "vegan",
-      "weeknight"
+      "garlic",
+      "canadian"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
@@ -13449,6 +13446,43 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-crunchy-greek-beans-gigantes-plaki--vegan",
+    "title": "Vegan Gigantes Plaki",
+    "tags": [
+      "greek",
+      "vegan",
+      "beans",
+      "stew"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "plush-vietnamese-stilton-pho--indian",
+    "title": "Plush Chicken Tikka Masala",
+    "tags": [
+      "indian",
+      "chicken",
+      "tikka masala"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 55,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-kenyan-beef-broth--vegetarian",
+    "title": "Kenyan Vegetarian Stew",
+    "tags": [
+      "vegetarian",
+      "stew",
+      "kenyan"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
     "shard": "p"
   }
 ]
