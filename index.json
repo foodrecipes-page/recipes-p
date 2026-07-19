@@ -13674,5 +13674,32 @@
     "cuisine": "Chinese",
     "totalTimeMin": 165,
     "shard": "p"
+  },
+  {
+    "slug": "pillowy-soft-polish-pork-dumplings--italian",
+    "title": "Polish-Style Pork and Dumplings",
+    "tags": [
+      "italian",
+      "pork",
+      "dumplings",
+      "comfort-food",
+      "homemade"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 140,
+    "shard": "p"
+  },
+  {
+    "slug": "purely-decadent-canadian-pecan-tart--german",
+    "title": "German Pecan Tart",
+    "tags": [
+      "german",
+      "pecan",
+      "tart",
+      "dessert"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 65,
+    "shard": "p"
   }
 ]
