@@ -1,0 +1,75 @@
+{
+  "slug": "pillowy-indulgent-american-macaroni-casserole",
+  "title": "American Macaroni Casserole",
+  "description": "A comforting, indulgent casserole perfect for a cozy evening. This classic American dish is a crowd-pleaser, with a crispy top and creamy pasta filling.",
+  "cuisine": "American",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "8 oz"
+    },
+    {
+      "name": "indulgent",
+      "amount": "2 cups shredded cheddar cheese",
+      "notes": null
+    },
+    {
+      "name": "casserole",
+      "amount": "1 cup milk"
+    },
+    {
+      "name": "pillowy",
+      "amount": "2 cups crushed crackers",
+      "notes": null
+    },
+    {
+      "name": "american",
+      "amount": "1/4 cup butter",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook macaroni according to package instructions until al dente.",
+    "In a large skillet, melt butter over medium heat.",
+    "Add milk and stir until smooth.",
+    "Add shredded cheddar cheese and stir until melted.",
+    "Combine cooked macaroni and cheese sauce in a large mixing bowl.",
+    "Transfer mixture to a 9x13 inch baking dish.",
+    "Top with crushed crackers.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-indulgent-american-macaroni-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:57:36.634Z"
+}
