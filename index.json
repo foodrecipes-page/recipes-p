@@ -7746,17 +7746,16 @@
   },
   {
     "slug": "piquant-thai-fish-noodles",
-    "title": "Piquant Thai Fish Noodles",
+    "title": "Thai Piquant Fish Noodle Soup",
     "tags": [
-      "flambe",
-      "no-bread",
-      "paleo-friendly",
-      "quick",
-      "seafood",
+      "thai",
+      "soup",
+      "noodle",
+      "fish",
       "spicy"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "p"
   },
   {
@@ -13553,6 +13552,45 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 36,
+    "shard": "p"
+  },
+  {
+    "slug": "pillowy-nutty-applesauce-bake--japanese",
+    "title": "Pillowy Mochi Cake",
+    "tags": [
+      "japanese",
+      "cake",
+      "dessert",
+      "mochi"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-fluffy-american-cherry-cobbler--vegan",
+    "title": "Cherry Cobbler Fluffy Pancakes",
+    "tags": [
+      "vegan breakfast",
+      "cherry cobbler",
+      "fluffy pancakes"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "piquant-umami-greek-lamb-keftedes--french",
+    "title": "French-Style Lamb Keftedes with Umami Gravy",
+    "tags": [
+      "french",
+      "greek",
+      "lamb",
+      "keftedes",
+      "umami"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 42,
     "shard": "p"
   }
 ]
