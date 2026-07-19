@@ -4981,17 +4981,14 @@
   },
   {
     "slug": "peppy-chinese-gelatin-stir-fry",
-    "title": "Peppy Chinese Gelatin Stir-fry",
+    "title": "Stir Fry Peppy Delight",
     "tags": [
+      "stir-fry",
       "peppy",
-      "crispy",
-      "energizing",
-      "chinese",
-      "gelatin",
-      "keto-friendly"
+      "chinese"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 30,
+    "cuisine": "Asian",
+    "totalTimeMin": 10,
     "shard": "p"
   },
   {
@@ -13664,6 +13661,18 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
+    "slug": "peaceful-middle-eastern-lamb-tagine--chinese",
+    "title": "Eastern-Style Braised Lamb",
+    "tags": [
+      "chinese",
+      "lamb",
+      "braise"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 165,
     "shard": "p"
   }
 ]
