@@ -1,0 +1,77 @@
+{
+  "slug": "pungent-juicy-syrian-donabe-dish-wrap",
+  "title": "Juicy Donabe Beef Wrap",
+  "description": "A flavorful and hearty wrap filled with slow-cooked beef and served with fresh vegetables. Perfect for a satisfying dinner.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye)",
+      "amount": "1 pound",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "Pungent Syrian Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For marinade and cooking"
+    },
+    {
+      "name": "Juicy Donabe Rice",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Large Tortilla Wrap",
+      "amount": "1",
+      "notes": "For serving"
+    },
+    {
+      "name": "Shredded Cucumber",
+      "amount": "1/2 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sliced Red Onion",
+      "amount": "1/2 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Marinate the beef in 1 tablespoon of pungent Syrian olive oil, 1 teaspoon of salt, and 1/2 teaspoon of black pepper for at least 30 minutes.",
+    "Preheat the donabe according to the manufacturer's instructions.",
+    "Cook the beef in the donabe over medium-high heat for 3-4 minutes per side, or until browned and cooked through.",
+    "Transfer the beef to a plate and let rest for 5 minutes before slicing into thin strips.",
+    "Warm the tortilla wrap in the microwave for 20-30 seconds or by wrapping it in a damp paper towel and heating in the donabe for 1-2 minutes.",
+    "Assemble the wrap by spreading a tablespoon of pungent Syrian olive oil on the tortilla, followed by a portion of cooked donabe rice, sliced beef, and desired toppings (cucumber, red onion, and cilantro).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "donabe",
+    "wrap",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-juicy-syrian-donabe-dish-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:57:07.080Z"
+}
