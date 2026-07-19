@@ -1,0 +1,83 @@
+{
+  "slug": "peppery-mediterranean-lentils-tagine",
+  "title": "North African Lentil Tagine",
+  "description": "A hearty, flavorful stew originating from Morocco, made with lentils and a blend of spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "green or brown lentils work well"
+    },
+    {
+      "name": "peppery",
+      "amount": "2 tablespoons",
+      "notes": "use a mix of black, green, and red peppercorns"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 teaspoon",
+      "notes": " Moroccan spice blend"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the lentils, tomato paste, chicken broth, water, peppery, and tagine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 30-40 minutes or until the lentils are tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "moroccan",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-mediterranean-lentils-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:59:37.638Z"
+}
