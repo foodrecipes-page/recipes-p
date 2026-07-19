@@ -1,0 +1,63 @@
+{
+  "slug": "parma-affair",
+  "title": "Pan-Seared Parma with Affair Sauce",
+  "description": "A simple yet elegant Italian dish featuring seared Parma ham and a tangy affair sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Parma ham",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Affair sauce (mayonnaise, chopped fresh herbs, lemon juice)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a skillet to medium heat.",
+    "Add a small amount of oil and sear the Parma ham slices for 2-3 minutes on each side.",
+    "While the ham is cooking, mix the affair sauce ingredients in a bowl.",
+    "Once the ham is cooked, remove it from the skillet and place it on a plate.",
+    "Add the affair sauce to the skillet and stir to combine with the remaining oil.",
+    "Season the sauce with salt to taste.",
+    "Serve the seared Parma ham with the affair sauce spooned over the top.",
+    "Garnish with chopped fresh parsley and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "ham",
+    "sauce",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 6,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/parma-affair",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:19:31.721Z"
+}
