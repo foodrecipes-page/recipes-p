@@ -1,0 +1,58 @@
+{
+  "slug": "peppy-chinese-gelatin-stir-fry",
+  "title": "Stir Fry Peppy Delight",
+  "description": "A quick and easy stir fry dish made with peppy and chinese ingredients.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peppy",
+      "amount": "250g"
+    },
+    {
+      "name": "chinese",
+      "amount": "150g"
+    },
+    {
+      "name": "gelatin",
+      "amount": "10g",
+      "notes": "for thickening"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir frying"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a pan over medium heat.",
+    "Add the peppy and chinese ingredients and stir-fry for 3-4 minutes.",
+    "Add the gelatin and stir well to combine.",
+    "Continue stir-frying for another 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "peppy",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppy-chinese-gelatin-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:46:04.561Z"
+}
