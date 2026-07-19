@@ -1,0 +1,95 @@
+{
+  "slug": "pillowy-adventurous-portuguese-tagine--gluten-free",
+  "title": "Portuguese-Style Tagine Chicken",
+  "description": "A gluten-free twist on traditional Moroccan chicken tagine, featuring portuguese spices and pillowy couscous.",
+  "cuisine": "portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Couscous",
+      "amount": "1 cup",
+      "notes": "pillowy and fluffy"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "portuguese spice"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "portuguese spice"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large tagine or Dutch oven over medium-high heat.",
+    "2. Add the onion and cook until softened, about 5 minutes.",
+    "3. Add the garlic and cook for an additional 1-2 minutes.",
+    "4. Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "5. Add the cumin, paprika, salt, and pepper. Stir to combine.",
+    "6. Pour in the chicken broth and bring to a simmer.",
+    "7. Cover the tagine and transfer to the oven.",
+    "8. Bake at 375°F (190°C) for 25-30 minutes, or until the chicken is cooked through.",
+    "9. Serve the chicken over couscous, garnished with additional herbs if desired.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "chicken",
+    "portuguese",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-adventurous-portuguese-tagine--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:37:51.957Z"
+}
