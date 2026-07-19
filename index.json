@@ -1,17 +1,14 @@
 [
   {
     "slug": "pacific-smoked-australian-shrimp-skewers",
-    "title": "Pacific Smoked Australian Shrimp Skewers",
+    "title": "Grilled Shrimp Skewers with Pacific Smoked Flavor",
     "tags": [
-      "australian",
-      "coconut-milk",
-      "grilled",
-      "seafood",
-      "shrimp",
-      "smoked"
+      "grilled-shrimp",
+      "pacific-rim",
+      "seafood"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 40,
+    "cuisine": "Pacific Rim",
+    "totalTimeMin": 18,
     "shard": "p"
   },
   {
@@ -13630,6 +13627,18 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 15,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-juicy-german-tiger-prawns-brochette--mexican",
+    "title": "Prawns and Poblanos Brochette",
+    "tags": [
+      "mexican",
+      "grilled",
+      "seafood"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "p"
   }
 ]
