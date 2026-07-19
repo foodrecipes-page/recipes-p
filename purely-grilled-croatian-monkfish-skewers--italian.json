@@ -1,0 +1,88 @@
+{
+  "slug": "purely-grilled-croatian-monkfish-skewers--italian",
+  "title": "Grilled Monkfish Skewers with Croatian Salsa",
+  "description": "A simple yet flavorful Italian-inspired dish featuring monkfish skewers grilled to perfection and served with a refreshing Croatian-style salsa.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Monkfish fillets",
+      "amount": "4",
+      "notes": "1 inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for grilling"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Croatian parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for salsa"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a bowl, whisk together olive oil, lemon juice, garlic, salt, and black pepper.",
+    "Add the monkfish pieces to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated monkfish onto skewers.",
+    "Grill the skewers for 8-10 minutes per side, or until the fish is cooked through.",
+    "Meanwhile, combine chopped parsley, red onion, cucumber, and balsamic vinegar in a bowl.",
+    "Stir to combine and refrigerate until ready to serve.",
+    "Serve the grilled monkfish skewers with the Croatian salsa on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "grilled",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-grilled-croatian-monkfish-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:43:18.316Z"
+}
