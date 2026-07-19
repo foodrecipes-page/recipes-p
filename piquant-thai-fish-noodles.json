@@ -1,0 +1,85 @@
+{
+  "slug": "piquant-thai-fish-noodles",
+  "title": "Thai Piquant Fish Noodle Soup",
+  "description": "A flavorful and spicy Thai-inspired noodle soup made with fish, piquant sauce, and fresh herbs.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillet (tilapia or cod)",
+      "amount": "1 lb",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Piquant sauce",
+      "amount": "2 tbsp",
+      "notes": "Thai red curry paste or store-bought"
+    },
+    {
+      "name": "Thai noodles (rice stick or egg noodles)",
+      "amount": "8 oz",
+      "notes": "Cook according to package instructions"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Fish sauce (optional)",
+      "amount": "1 tsp",
+      "notes": "For added umami flavor"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and ginger, cook until softened, about 3-4 minutes.",
+    "Add piquant sauce and cook for 1 minute, stirring constantly.",
+    "Add fish, cook until opaque and flaky, about 3-4 minutes.",
+    "Add noodles and stir to combine.",
+    "Cook for an additional 2-3 minutes or until the noodles are heated through.",
+    "Garnish with Thai basil and serve hot.",
+    "Optional: add fish sauce and stir to combine."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "soup",
+    "noodle",
+    "fish",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-thai-fish-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:49:57.341Z"
+}
