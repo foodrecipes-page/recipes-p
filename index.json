@@ -5839,17 +5839,14 @@
   },
   {
     "slug": "pillowy-indulgent-american-macaroni-casserole",
-    "title": "Pillowy Indulgent American Macaroni Casserole",
+    "title": "American Macaroni Casserole",
     "tags": [
+      "american",
       "casserole",
-      "comfort-food",
-      "indulgent",
-      "lacto-vegetarian",
-      "one-pan",
-      "weeknight"
+      "comfort-food"
     ],
     "cuisine": "American",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -13518,6 +13515,44 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
+    "slug": "pillowy-adventurous-portuguese-tagine--gluten-free",
+    "title": "Portuguese-Style Tagine Chicken",
+    "tags": [
+      "gluten-free",
+      "chicken",
+      "portuguese",
+      "tagine"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
+    "slug": "pita-fry-tofu-delight--gluten-free",
+    "title": "Crispy Tofu Pita Bites",
+    "tags": [
+      "snack",
+      "gluten-free",
+      "tofu",
+      "crispy"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "purely-grilled-croatian-monkfish-skewers--italian",
+    "title": "Grilled Monkfish Skewers with Croatian Salsa",
+    "tags": [
+      "italian",
+      "grilled",
+      "fish"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 36,
     "shard": "p"
   }
 ]
