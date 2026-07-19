@@ -1,0 +1,64 @@
+{
+  "slug": "pungent-kenyan-beef-broth--vegetarian",
+  "title": "Kenyan Vegetarian Stew",
+  "description": "A hearty and flavorful vegetarian stew inspired by Kenyan cuisine, featuring a pungent blend of spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pungent",
+      "amount": "2 tablespoons",
+      "notes": "Use a mix of garlic, ginger, and onions"
+    },
+    {
+      "name": "kenyan",
+      "amount": "1 teaspoon",
+      "notes": "Use a Kenyan spice blend"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the pungent spice blend and cook for 1 minute.",
+    "Add the beef broth, Kenyan spice blend, and chopped carrots and potatoes.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "stew",
+    "kenyan"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-kenyan-beef-broth--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:04:45.844Z"
+}
