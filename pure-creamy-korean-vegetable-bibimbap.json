@@ -1,0 +1,86 @@
+{
+  "slug": "pure-creamy-korean-vegetable-bibimbap",
+  "title": "Bibimbap Korean Rice Bowl",
+  "description": "A popular Korean dish made with a fried rice mixture, topped with an assortment of vegetables and a fried egg. This recipe is a classic take on the original, using simple and accessible ingredients.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "White Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Korean Chili Flakes (gochugaru)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium, peeled and grated"
+    },
+    {
+      "name": "Korean Chili Paste (gochujang)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fried Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Green Onion",
+      "amount": "1/4 cup, thinly sliced",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the sliced zucchini and cook for an additional 3-4 minutes, until tender.",
+    "Add the grated carrots and cook for 2-3 minutes, until slightly softened.",
+    "In a small bowl, whisk together the Korean chili paste, soy sauce, and 1 tablespoon of water. Pour the sauce over the vegetables and stir to combine.",
+    "Add the cooked white rice to the skillet and stir-fry for about 5 minutes, until the rice is well coated with the sauce and the vegetables are evenly distributed.",
+    "Create 4-6 wells in the rice mixture and crack an egg into each well.",
+    "Cook the eggs until the whites are set and the yolks are cooked to your desired doneness.",
+    "Transfer the bibimbap to individual serving bowls and garnish with thinly sliced green onion.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "rice",
+    "vegetarian",
+    "bibimbap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pure-creamy-korean-vegetable-bibimbap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:22:51.609Z"
+}
