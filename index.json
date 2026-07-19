@@ -1095,13 +1095,15 @@
   },
   {
     "slug": "parma-affair",
-    "title": "Parma Affair",
+    "title": "Pan-Seared Parma with Affair Sauce",
     "tags": [
-      "parma-affair",
-      "british-dinner"
+      "italian",
+      "ham",
+      "sauce",
+      "easy"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 35,
+    "cuisine": "Italian",
+    "totalTimeMin": 18,
     "shard": "p"
   },
   {
@@ -6474,14 +6476,12 @@
   },
   {
     "slug": "piquant-charred-mediterranean-zucchini-kebabs",
-    "title": "Piquant Charred Mediterranean Zucchini Kebabs",
+    "title": "Grilled Zucchini Kebabs with Mediterranean Flair",
     "tags": [
       "grilled",
-      "kebab",
-      "low-carb",
-      "mediterranean",
-      "quick",
-      "sugar-free"
+      "vegetarian",
+      "kebabs",
+      "mediterranean"
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 20,
