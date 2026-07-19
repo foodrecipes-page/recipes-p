@@ -1,0 +1,90 @@
+{
+  "slug": "pillowy-soft-polish-pork-dumplings--thai",
+  "title": "Thai-Style Polish Pork Dumplings",
+  "description": "A twist on traditional pork dumplings, infused with Thai flavors and spices. Pillowy soft dumplings filled with tender pork, perfect for a unique dinner experience.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "500g",
+      "notes": "ground"
+    },
+    {
+      "name": "pilau rice",
+      "amount": "200g",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "pandanus leaves",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "soft polish sausage",
+      "amount": "100g",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "100g",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Combine pork, pilau rice, fish sauce, soy sauce, coriander, paprika, and salt in a mixing bowl.",
+    "Knead the mixture until it forms a cohesive dough.",
+    "Divide the dough into small portions and shape into balls.",
+    "Wrap each ball with a soft polish sausage slice.",
+    "Heat a non-stick pan with a small amount of oil and cook the dumplings until golden brown.",
+    "Add 2 pandanus leaves to the pan and steam the dumplings for 5 minutes.",
+    "Serve hot with green onions garnished on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-dumplings",
+    "pork-dumplings"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-soft-polish-pork-dumplings--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T10:39:15.109Z"
+}
