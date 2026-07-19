@@ -1,0 +1,88 @@
+{
+  "slug": "pungent-crunchy-greek-beans-gigantes-plaki--vegan",
+  "title": "Vegan Gigantes Plaki",
+  "description": "A hearty vegan twist on the classic Greek Gigantes Plaki, made with pungent garlic, crunchy onions, and tender gigantes beans.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pungent garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "crunchy onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "gigantes beans",
+      "amount": "1 can (14.5 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Greek extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the minced garlic and cook, stirring occasionally, for 4-5 minutes or until fragrant and lightly golden.",
+    "Add the chopped onion and cook, stirring occasionally, for 5-7 minutes or until softened and lightly caramelized.",
+    "Add the gigantes beans, tomato paste, oregano, salt, and black pepper. Stir to combine.",
+    "Cook for 2-3 minutes, stirring occasionally.",
+    "Stir in the lemon juice and continue cooking for an additional 2 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped fresh parsley or oregano if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "vegan",
+    "beans",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-crunchy-greek-beans-gigantes-plaki--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:19:28.693Z"
+}
