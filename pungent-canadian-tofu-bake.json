@@ -1,0 +1,73 @@
+{
+  "slug": "pungent-canadian-tofu-bake",
+  "title": "Tofu Bake with Pungent Flair",
+  "description": "A savory tofu bake infused with the pungency of garlic and an earthy Canadian twist, perfect for a comforting dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "250g",
+      "notes": "firm, drained, and cut into 1-inch cubes"
+    },
+    {
+      "name": "Pungent Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Canadian All-Purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting tofu"
+    },
+    {
+      "name": "Bake Seasoning",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon",
+      "notes": "for greasing"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 sprig",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Dust the tofu cubes with Canadian flour, shaking off excess.",
+    "Heat the vegetable oil in an oven-safe skillet over medium-high heat.",
+    "Sear the tofu until golden brown on all sides, about 3-4 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes.",
+    "Remove the skillet from the oven and sprinkle the pungent garlic and bake seasoning over the tofu.",
+    "Return the skillet to the oven and bake for an additional 5-7 minutes.",
+    "Garnish with fresh thyme and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "tofu",
+    "garlic",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-canadian-tofu-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:07:56.659Z"
+}
