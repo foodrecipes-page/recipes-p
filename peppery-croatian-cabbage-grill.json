@@ -1,0 +1,79 @@
+{
+  "slug": "peppery-croatian-cabbage-grill",
+  "title": "Grilled Croatian Sausage with Peppery Slaw",
+  "description": "A hearty dinner recipe featuring grilled Croatian sausage paired with a refreshing peppery slaw made from red cabbage.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian Sausage",
+      "amount": "4 links",
+      "notes": "Grill until browned and cooked through"
+    },
+    {
+      "name": "Red Cabbage",
+      "amount": "1 head",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Peppercorns",
+      "amount": "1 tbsp",
+      "notes": "Cracked"
+    },
+    {
+      "name": "Caraway Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill the Croatian sausage for 5-7 minutes per side, or until browned and cooked through.",
+    "While the sausage is grilling, combine the shredded cabbage, cracked peppercorns, caraway seeds, apple cider vinegar, and olive oil in a bowl.",
+    "Season the slaw with salt to taste.",
+    "Once the sausage is cooked, let it rest for a few minutes before slicing.",
+    "Serve the sliced sausage with the peppery slaw on the side.",
+    "Optional: grill some slices of red cabbage for added crunch and flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "sausage",
+    "slaw",
+    "cabbage",
+    "peppercorns",
+    "caraway seeds"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-croatian-cabbage-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:39:59.472Z"
+}
