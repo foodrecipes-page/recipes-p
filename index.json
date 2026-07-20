@@ -13827,5 +13827,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 22,
     "shard": "p"
+  },
+  {
+    "slug": "pungent-creamy-russian-buckwheat-pilaf--indian",
+    "title": "Creamy Buckwheat Pilaf",
+    "tags": [
+      "indian",
+      "pilaf",
+      "buckwheat",
+      "coconut-milk"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "p"
   }
 ]
