@@ -13814,5 +13814,18 @@
     "cuisine": "italian",
     "totalTimeMin": 30,
     "shard": "p"
+  },
+  {
+    "slug": "peppery-nutmeg-turkish-cod-stir-fry--chinese",
+    "title": "Pan-Seared Cod with Turkish Spices",
+    "tags": [
+      "chinese",
+      "fish",
+      "seafood",
+      "turkish-spices"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 22,
+    "shard": "p"
   }
 ]
