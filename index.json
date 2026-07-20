@@ -13789,5 +13789,30 @@
     "cuisine": "dutch",
     "totalTimeMin": 25,
     "shard": "p"
+  },
+  {
+    "slug": "peppery-tender-greek-lamb-stew--french",
+    "title": "French-Style Braised Lamb Stew",
+    "tags": [
+      "lamb",
+      "stew",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 180,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-juicy-syrian-donabe-dish-wrap--italian",
+    "title": "Italian-Style Chicken Wrap",
+    "tags": [
+      "italian",
+      "chicken",
+      "wrap",
+      "easy-to-make"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "p"
   }
 ]
