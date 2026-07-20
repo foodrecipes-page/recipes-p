@@ -13764,5 +13764,17 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "p"
+  },
+  {
+    "slug": "pungent-polish-fish-stew--chinese",
+    "title": "Polish Fish Stew",
+    "tags": [
+      "chinese",
+      "stew",
+      "fish"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "p"
   }
 ]
