@@ -13776,5 +13776,18 @@
     "cuisine": "Chinese",
     "totalTimeMin": 35,
     "shard": "p"
+  },
+  {
+    "slug": "peppery-chewy-dutch-onion-stir-fry--gluten-free",
+    "title": "Dutch Pan-Seared Peppery Steak",
+    "tags": [
+      "gluten-free",
+      "beef",
+      "onion",
+      "dinner"
+    ],
+    "cuisine": "dutch",
+    "totalTimeMin": 25,
+    "shard": "p"
   }
 ]
