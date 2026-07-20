@@ -1,0 +1,81 @@
+{
+  "slug": "peppery-tender-greek-lamb-stew--french",
+  "title": "French-Style Braised Lamb Stew",
+  "description": "A hearty and flavorful lamb stew inspired by French cuisine, perfect for a chilly evening.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "Cut into 2-inch cubes"
+    },
+    {
+      "name": "Peppercorns",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Tender onions",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Greek tomatoes",
+      "amount": "2 cups",
+      "notes": "Canned or fresh, diced"
+    },
+    {
+      "name": "Stew broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 300°F (150°C).",
+    "2. Season the lamb cubes with salt and pepper.",
+    "3. In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "4. Sear the lamb cubes until browned on all sides, about 5 minutes.",
+    "5. Remove the lamb from the pot and set aside.",
+    "6. Reduce heat to medium and cook the chopped onions until softened, about 5 minutes.",
+    "7. Add the peppercorns, thyme, and red wine to the pot.",
+    "8. Stir to combine, scraping up any browned bits from the bottom of the pot.",
+    "9. Add the stew broth, diced tomatoes, and browned lamb to the pot.",
+    "10. Cover the pot and transfer it to the preheated oven.",
+    "11. Braise the stew for 2 1/2 hours, or until the lamb is tender and falls apart easily.",
+    "12. Serve hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-tender-greek-lamb-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:03:38.846Z"
+}
