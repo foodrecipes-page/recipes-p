@@ -1,0 +1,81 @@
+{
+  "slug": "pungent-juicy-syrian-donabe-dish-wrap--italian",
+  "title": "Italian-Style Chicken Wrap",
+  "description": "A flavorful and easy-to-make wrap filled with juicy chicken, pungent herbs, and spices.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Syrian Chicken",
+      "amount": "1 pound",
+      "notes": "Boneless, skinless chicken breast"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Wrap",
+      "amount": "1 large",
+      "notes": "Flour or whole wheat"
+    },
+    {
+      "name": "Shredded Mozzarella",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a small bowl, mix together olive oil, Italian seasoning, minced garlic, and chopped parsley.",
+    "3. Brush the mixture evenly onto the chicken breast.",
+    "4. Bake the chicken in the preheated oven for 20-25 minutes, or until cooked through.",
+    "5. While the chicken is baking, warm the wrap in the oven for 2-3 minutes.",
+    "6. Once the chicken is done, slice it thinly.",
+    "7. Assemble the wrap by spreading shredded mozzarella cheese on the wrap, followed by sliced chicken, and topped with chopped fresh basil.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "wrap",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-juicy-syrian-donabe-dish-wrap--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:19:45.931Z"
+}
