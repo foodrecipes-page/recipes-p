@@ -1,0 +1,57 @@
+{
+  "slug": "peppery-chewy-dutch-onion-stir-fry--gluten-free",
+  "title": "Dutch Pan-Seared Peppery Steak",
+  "description": "A simple yet flavorful gluten-free recipe featuring seared peppery steak served with sautéed onions.",
+  "cuisine": "dutch",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peppery Steak",
+      "amount": "4 steaks (6 oz each)",
+      "notes": "Choose a peppery cut of beef, such as a flank steak"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large onion, sliced",
+      "notes": "Use a sweet onion, such as a Vidalia"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp",
+      "notes": "Use a neutral-tasting oil, such as canola or grapeseed"
+    }
+  ],
+  "instructions": [
+    "Season the steaks with salt and pepper.",
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the sliced onions to the skillet and cook until they are caramelized, stirring occasionally.",
+    "Remove the onions from the skillet and set them aside.",
+    "Add the steaks to the skillet and sear them for 3-4 minutes per side, or until they reach your desired level of doneness.",
+    "Transfer the steaks to a plate and let them rest for 5 minutes.",
+    "Serve the steaks with the caramelized onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "beef",
+    "onion",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-chewy-dutch-onion-stir-fry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:48:00.007Z"
+}
