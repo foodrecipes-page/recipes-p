@@ -1,0 +1,67 @@
+{
+  "slug": "pungent-creamy-russian-buckwheat-pilaf--indian",
+  "title": "Creamy Buckwheat Pilaf",
+  "description": "A flavorful and nutritious Indian-inspired pilaf made with creamy ingredients, buckwheat, and a hint of Russian spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Buckwheat",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Russian Saffron",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pungent Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Creamy Coconut Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pilaf Spice Blend",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and sauté until translucent.",
+    "Add buckwheat and sauté for 2 minutes.",
+    "Add coconut milk, saffron, and pilaf spice blend.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Fluff with a fork and serve hot.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "pilaf",
+    "buckwheat",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-creamy-russian-buckwheat-pilaf--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:06:50.209Z"
+}
