@@ -1,0 +1,75 @@
+{
+  "slug": "peppery-nutmeg-turkish-cod-stir-fry--chinese",
+  "title": "Pan-Seared Cod with Turkish Spices",
+  "description": "A flavorful and easy-to-make Chinese-inspired dish featuring pan-seared cod with a blend of Turkish spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "peppery",
+      "amount": "1 tsp",
+      "notes": "Ground black pepper"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp",
+      "notes": "Ground nutmeg"
+    },
+    {
+      "name": "turkish",
+      "amount": "2 tsp",
+      "notes": "Turkish spice blend"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "Vegetable oil or peanut oil"
+    },
+    {
+      "name": "stir-fry",
+      "amount": "1 cup",
+      "notes": "Mixed stir-fry vegetables"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet or wok over medium-high heat.",
+    "2. Season the cod fillets with black pepper, nutmeg, and Turkish spice blend.",
+    "3. Add oil to the preheated skillet and swirl it around.",
+    "4. Add the cod fillets, skin side up (if they have skin).",
+    "5. Cook for 3-4 minutes, or until the skin is golden brown.",
+    "6. Flip the cod fillets and cook for an additional 3-4 minutes, or until cooked through.",
+    "7. Remove the cod from the skillet and set aside.",
+    "8. In the same skillet, add the mixed stir-fry vegetables and cook until tender.",
+    "9. Serve the pan-seared cod with the stir-fry vegetables on top.",
+    "10. Garnish with additional Turkish spice blend, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "fish",
+    "seafood",
+    "turkish-spices"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-nutmeg-turkish-cod-stir-fry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:44:32.166Z"
+}
