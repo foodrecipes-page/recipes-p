@@ -1,0 +1,88 @@
+{
+  "slug": "pleasantly-poached-croatian-vegetable-bowl--chinese",
+  "title": "Croatian Vegetable Stir Fry",
+  "description": "A hearty and flavorful stir fry dish made with a variety of vegetables, perfect for a quick and easy dinner. This recipe is inspired by traditional Chinese cuisine.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian Vegetable",
+      "amount": "1 cup, sliced",
+      "notes": null
+    },
+    {
+      "name": "Pleasantly Poached Chicken Breast",
+      "amount": "1 cup, diced",
+      "notes": "cook to 165°F"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon, grated",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and ginger and stir-fry for 30 seconds.",
+    "Add the sliced Croatian Vegetable and stir-fry for 3-4 minutes, or until tender.",
+    "Add the diced chicken and stir-fry for 2-3 minutes, or until cooked through.",
+    "In a small bowl, whisk together the soy sauce and sesame oil.",
+    "Pour the sauce over the chicken and vegetables and stir-fry for 1 minute.",
+    "Transfer the stir-fry to a serving bowl and garnish with chopped green onions and sesame seeds.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "vegetarian",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pleasantly-poached-croatian-vegetable-bowl--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T04:26:04.026Z"
+}
