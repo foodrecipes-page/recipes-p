@@ -14003,5 +14003,17 @@
     "cuisine": "mexican",
     "totalTimeMin": 20,
     "shard": "p"
+  },
+  {
+    "slug": "peppery-australian-pork-belly-crisp-slices--vegetarian",
+    "title": "Crisp Australian Pork-Free Belly Bites",
+    "tags": [
+      "vegan",
+      "vegetarian",
+      "snack"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "p"
   }
 ]
