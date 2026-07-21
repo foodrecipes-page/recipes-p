@@ -1,0 +1,83 @@
+{
+  "slug": "pomegranate-glazed-middle-eastern-turkey-kebabs",
+  "title": "Middle Eastern Turkey Kebabs",
+  "description": "A flavorful and easy-to-make dish featuring marinated turkey and sweet pomegranate glaze, perfect for a quick dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons",
+      "notes": "or pomegranate jam"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "divided"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together olive oil, lemon juice, garlic, cumin, salt, and pomegranate molasses.",
+    "3. Add the turkey cubes to the marinade and toss to coat. Refrigerate for at least 30 minutes.",
+    "4. Thread the marinated turkey onto the skewers, leaving a small space between each piece.",
+    "5. Brush the grill with oil to prevent sticking.",
+    "6. Grill the kebabs for 8-10 minutes per side, or until the turkey is cooked through.",
+    "7. Brush with pomegranate glaze during the last 2 minutes of cooking.",
+    "8. Serve hot with additional pomegranate glaze on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle east",
+    "kebabs",
+    "turkey",
+    "pomegranate"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pomegranate-glazed-middle-eastern-turkey-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:09:49.216Z"
+}
