@@ -1,0 +1,96 @@
+{
+  "slug": "prawn-broil-medley--thai",
+  "title": "Thai Prawn Broil",
+  "description": "A simple and flavorful Thai-inspired dish featuring succulent prawns, a medley of colorful vegetables, and a hint of spice. Perfect for a quick weeknight dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawn",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "medley",
+      "amount": "1 cup",
+      "notes": "mixed bell peppers, carrots, and onions"
+    },
+    {
+      "name": "broil",
+      "amount": "1/4 cup",
+      "notes": "fish sauce"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "for balance"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised, for added depth"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler.",
+    "Peel and de-vein the prawns, leaving the tails intact.",
+    "Season the prawns with salt and pepper.",
+    "In a large skillet, heat 1 tablespoon of coconut oil over medium-high heat.",
+    "Add the medley and cook until tender, about 3-4 minutes.",
+    "Add the garlic, ginger, and chili flakes (if using) to the skillet and cook for another minute.",
+    "Add the prawns to the skillet and cook until pink and just cooked through, about 2-3 minutes per side.",
+    "Transfer the prawns to a baking sheet and broil for 2-3 minutes, until slightly charred.",
+    "Serve the prawns on top of the medley, drizzled with fish sauce and sprinkled with brown sugar.",
+    "Garnish with lemongrass and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "prawns",
+    "medley",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/prawn-broil-medley--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:57:56.070Z"
+}
