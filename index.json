@@ -13952,5 +13952,56 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "p"
+  },
+  {
+    "slug": "poached-norwegian-turnip-stir-fry--indian",
+    "title": "Indian Turnip Stir Fry",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "gluten-free",
+      "stir-fry"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 15,
+    "shard": "p"
+  },
+  {
+    "slug": "pan-seared-pull-uruguayan-cheese-wok-fried--vegetarian",
+    "title": "Uruguayan Cheese Fritters",
+    "tags": [
+      "fritters",
+      "cheese",
+      "uruguayan"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 22,
+    "shard": "p"
+  },
+  {
+    "slug": "poached-russian-pike-perch-pilaf--keto",
+    "title": "Pan-Seared Pike with Russian Pilaf",
+    "tags": [
+      "pike",
+      "russian pilaf",
+      "keto",
+      "fish"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-tunisian-white-bread-grill--mexican",
+    "title": "Grilled Tunisian Peppers with Crusty Bread",
+    "tags": [
+      "mexican",
+      "grilled",
+      "bread",
+      "peppers"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
+    "shard": "p"
   }
 ]
