@@ -1,0 +1,59 @@
+{
+  "slug": "peppery-crispy-mediterranean-pecorino-salad--keto",
+  "title": "Keto Pecorino Crispy Salad",
+  "description": "A refreshing keto salad featuring crispy pecorino and mixed greens.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Pecorino Cheese",
+      "amount": "8 oz",
+      "notes": "Crispy, chopped"
+    },
+    {
+      "name": "Peppery Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Crunchy Salad Topping (e.g. crispy bacon, chopped nuts)",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Rinse and dry the mixed greens.",
+    "Crumble the pecorino cheese into small pieces and toast in the oven at 350°F (175°C) for 5 minutes, or until crispy.",
+    "In a large bowl, combine the mixed greens and crispy pecorino cheese.",
+    "Drizzle the peppery olive oil over the salad and sprinkle with crunchy salad topping.",
+    "Toss to combine and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "keto-diet",
+    "salad",
+    "cheese-lovers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 6,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crispy-mediterranean-pecorino-salad--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:44:38.877Z"
+}
