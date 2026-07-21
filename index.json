@@ -14012,5 +14012,18 @@
     "cuisine": null,
     "totalTimeMin": 25,
     "shard": "p"
+  },
+  {
+    "slug": "poppy-smokey--italian",
+    "title": "Smokey Italian Sausage and Poppy Focaccia",
+    "tags": [
+      "italian",
+      "sausage",
+      "focaccia",
+      "poppy-seeds"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "p"
   }
 ]
