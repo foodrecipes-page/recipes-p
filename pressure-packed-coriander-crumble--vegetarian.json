@@ -1,0 +1,69 @@
+{
+  "slug": "pressure-packed-coriander-crumble--vegetarian",
+  "title": "Vegetarian Coriander Crumble",
+  "description": "A flavorful and crunchy vegetarian coriander crumble, perfect as a side dish or snack.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Coriander seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Packed oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for greasing"
+    },
+    {
+      "name": "Crumble cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium",
+      "notes": "optional"
+    },
+    {
+      "name": "Chopped fresh coriander",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a pan, heat the oil over medium heat.",
+    "Add the chopped onion and cook until softened.",
+    "Add the coriander seeds and cook for 1 minute.",
+    "In a bowl, mix together the oats, crumble cheese, and cooked onion mixture.",
+    "Transfer the mixture to a greased baking dish.",
+    "Bake for 20 minutes, or until golden brown.",
+    "Garnish with chopped fresh coriander, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "snack",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 11
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pressure-packed-coriander-crumble--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:50:28.832Z"
+}
