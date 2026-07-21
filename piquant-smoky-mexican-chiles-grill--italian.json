@@ -1,0 +1,70 @@
+{
+  "slug": "piquant-smoky-mexican-chiles-grill--italian",
+  "title": "Grilled Chiles with Piquant Sauce",
+  "description": "A tangy and slightly spicy Italian-inspired dish featuring smoked chiles grilled to perfection and served with a creamy piquant sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Piquant sauce",
+      "amount": "1 cup",
+      "notes": "see below for ingredients"
+    },
+    {
+      "name": "Smoked chiles",
+      "amount": "2",
+      "notes": "available at most Italian markets"
+    },
+    {
+      "name": "Mexican oregano",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Grill",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the smoked chiles for 2-3 minutes per side, or until slightly charred.",
+    "Transfer the chiles to a cutting board and let cool slightly.",
+    "Peel the skin off the chiles and chop into small pieces.",
+    "In a blender or food processor, combine piquant sauce, oregano, and garlic. Blend until smooth.",
+    "Add the chopped chiles to the blender and blend until well combined.",
+    "Taste and adjust seasoning as needed.",
+    "Serve the piquant sauce over grilled bread or as a dip for vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "grilled",
+    "chiles",
+    "peppers",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-smoky-mexican-chiles-grill--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:22:21.152Z"
+}
