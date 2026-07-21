@@ -1,0 +1,82 @@
+{
+  "slug": "peppery-australian-pork-belly-crisp-slices--vegetarian",
+  "title": "Crisp Australian Pork-Free Belly Bites",
+  "description": "A delicious vegetarian twist on traditional pork belly bites, using peppery flavors and crunchy texture.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "peppery australian slices",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "crisp slices",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetarian bacon bits",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegan mayo",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "vegan Worcestershire sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the peppery Australian slices into small pieces.",
+    "Mix the crisp slices with the vegetarian bacon bits and vegan mayo.",
+    "Add the chopped fresh parsley, salt, black pepper, and vegan Worcestershire sauce to the mixture. Mix well.",
+    "Add the peppery Australian pieces to the mixture and toss to coat.",
+    "Transfer the mixture to a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-australian-pork-belly-crisp-slices--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:14:04.545Z"
+}
