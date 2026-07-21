@@ -1,0 +1,77 @@
+{
+  "slug": "poached-norwegian-turnip-stir-fry--indian",
+  "title": "Indian Turnip Stir Fry",
+  "description": "A simple and flavorful Indian-inspired turnip stir fry made with poached and norwegian turnips.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "turnip",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add ginger and garlic, sauté for 1-2 minutes.",
+    "Add turnips, stir to coat with spices.",
+    "Cook for 5-7 minutes or until turnips are tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "gluten-free",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/poached-norwegian-turnip-stir-fry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:49:23.649Z"
+}
