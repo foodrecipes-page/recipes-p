@@ -1,0 +1,58 @@
+{
+  "slug": "peppery-irish-cheese-flatbread--indian",
+  "title": "Indian-Style Flatbread with Peppery Cheese",
+  "description": "A simple yet flavorful flatbread dish from the Indian subcontinent. The peppery cheese adds a delightful twist to the classic recipe.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "irish cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "1/2 teaspoon, freshly ground"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the flatbread into smaller pieces and place them on a baking sheet.",
+    "Sprinkle the shredded Irish cheese over the flatbread pieces.",
+    "Grind the peppercorns and sprinkle them over the cheese.",
+    "Bake in the preheated oven for 8-10 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and brush with water to give it a slightly crispy texture."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "snack",
+    "cheese",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-irish-cheese-flatbread--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:18:04.739Z"
+}
