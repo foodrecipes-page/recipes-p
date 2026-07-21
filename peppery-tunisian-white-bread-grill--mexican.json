@@ -1,0 +1,61 @@
+{
+  "slug": "peppery-tunisian-white-bread-grill--mexican",
+  "title": "Grilled Tunisian Peppers with Crusty Bread",
+  "description": "A flavorful and spicy side dish, perfect for accompanying your favorite Mexican dishes. The smoky flavor of grilled peppers pairs beautifully with crusty bread.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tunisian peppers",
+      "amount": "4"
+    },
+    {
+      "name": "Peppery bread",
+      "amount": "1 loaf, sliced"
+    },
+    {
+      "name": "White bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "White",
+      "amount": "1 tablespoon olive oil"
+    },
+    {
+      "name": "Grill",
+      "amount": "coals or grill grates"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Brush the Tunisian peppers with olive oil and season with salt and pepper.",
+    "Grill the peppers for 10-12 minutes, or until charred and tender.",
+    "Meanwhile, toast the peppery bread slices until crispy.",
+    "Slice the bread into strips.",
+    "Serve the grilled peppers with toasted bread strips and a sprinkle of white for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "grilled",
+    "bread",
+    "peppers"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-tunisian-white-bread-grill--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:10:42.191Z"
+}
