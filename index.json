@@ -13876,5 +13876,55 @@
     "cuisine": "indian",
     "totalTimeMin": 13,
     "shard": "p"
+  },
+  {
+    "slug": "peppery-crumbly-canadian-rolled-oats-stir-fry--japanese",
+    "title": "Peppery Japanese Oatmeal",
+    "tags": [
+      "oatmeal",
+      "japanese",
+      "breakfast"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 10,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-crispy-mediterranean-pecorino-salad--keto",
+    "title": "Keto Pecorino Crispy Salad",
+    "tags": [
+      "keto-diet",
+      "salad",
+      "cheese-lovers"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 15,
+    "shard": "p"
+  },
+  {
+    "slug": "pressure-packed-coriander-crumble--vegetarian",
+    "title": "Vegetarian Coriander Crumble",
+    "tags": [
+      "vegetarian",
+      "snack",
+      "indian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
+    "slug": "piquant-smoky-mexican-chiles-grill--italian",
+    "title": "Grilled Chiles with Piquant Sauce",
+    "tags": [
+      "italian",
+      "grilled",
+      "chiles",
+      "peppers",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 20,
+    "shard": "p"
   }
 ]
