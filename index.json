@@ -10920,17 +10920,16 @@
   },
   {
     "slug": "pungent-silky-uruguayan-horseradish-gratin",
-    "title": "Pungent Silky Uruguayan Horseradish Gratin",
+    "title": "Uruguayan Horseradish Gratin",
     "tags": [
-      "comfort-food",
       "gratin",
-      "lacto-vegetarian",
-      "one-pan",
-      "sick-day",
-      "uruguayan"
+      "uruguayan",
+      "horseradish",
+      "potatoes",
+      "cheese"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 45,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 65,
     "shard": "p"
   },
   {
