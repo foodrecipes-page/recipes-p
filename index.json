@@ -13840,5 +13840,18 @@
     "cuisine": "indian",
     "totalTimeMin": 30,
     "shard": "p"
+  },
+  {
+    "slug": "prawn-broil-medley--thai",
+    "title": "Thai Prawn Broil",
+    "tags": [
+      "thai",
+      "prawns",
+      "medley",
+      "quick-and-easy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "p"
   }
 ]
