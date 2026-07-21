@@ -5077,17 +5077,14 @@
   },
   {
     "slug": "perfectly-charred-polish-custard-grill",
-    "title": "Perfectly Charred Polish Custard Grill",
+    "title": "Charred Polish-Style Custard Cake",
     "tags": [
-      "charred",
-      "custard",
-      "dessert",
-      "grilled",
       "polish",
-      "yakimono"
+      "custard",
+      "cake"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "p"
   },
   {
