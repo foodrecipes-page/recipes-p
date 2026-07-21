@@ -1,0 +1,65 @@
+{
+  "slug": "peppery-crumbly-canadian-rolled-oats-stir-fry--japanese",
+  "title": "Peppery Japanese Oatmeal",
+  "description": "A Japanese-inspired oatmeal dish with a spicy kick.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "peppery",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "canadian",
+      "amount": "1/4 cup, grated"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tablespoons",
+      "notes": "sesame oil"
+    },
+    {
+      "name": "fry",
+      "amount": "1 tablespoon",
+      "notes": "sesame seeds"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring 2 cups of water to a boil.",
+    "Add the oats and reduce heat to medium-low.",
+    "Simmer for 5 minutes, stirring occasionally.",
+    "Add the grated Canadian and stir to combine.",
+    "Add the peppery and stir to combine.",
+    "Transfer the oatmeal to a bowl and stir in the sesame oil.",
+    "Top with sesame seeds.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "oatmeal",
+    "japanese",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crumbly-canadian-rolled-oats-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:42:46.078Z"
+}
