@@ -1,0 +1,69 @@
+{
+  "slug": "peppery-velvety-garlic-korean-stir-fry--indian",
+  "title": "Spicy Indian Stir Fry",
+  "description": "A flavorful and spicy Indian stir fry made with a blend of aromatic spices, crunchy vegetables, and a hint of Korean chili flakes.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peppery",
+      "amount": "10g",
+      "notes": "Crushed peppercorns"
+    },
+    {
+      "name": "velvety",
+      "amount": "1/2 cup",
+      "notes": "Yogurt"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "korean",
+      "amount": "1 tsp",
+      "notes": "Korean chili flakes"
+    },
+    {
+      "name": "stir",
+      "amount": "2 cups",
+      "notes": "Mixed vegetables (bell peppers, carrots, broccoli)"
+    },
+    {
+      "name": "fry",
+      "amount": "1 cup",
+      "notes": "Cauliflower florets"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add minced garlic and sauté for 1 minute.",
+    "Add mixed vegetables and cauliflower florets, stir-fry for 3-4 minutes.",
+    "Add crushed peppercorns, Korean chili flakes, and yogurt, stir-fry for another 2 minutes.",
+    "Season with salt to taste.",
+    "Serve hot and garnish with chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "spicy",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-velvety-garlic-korean-stir-fry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:04:56.712Z"
+}
