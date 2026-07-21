@@ -1,0 +1,77 @@
+{
+  "slug": "pungent-silky-uruguayan-horseradish-gratin",
+  "title": "Uruguayan Horseradish Gratin",
+  "description": "A spicy and rich side dish, perfect for accompanying grilled meats. The Uruguayan influence adds a unique twist to this classic gratin.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "uruguayan cheese",
+      "amount": "120g",
+      "notes": "grated"
+    },
+    {
+      "name": "horseradish",
+      "amount": "60g",
+      "notes": "grated"
+    },
+    {
+      "name": "pungent onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "silky potatoes",
+      "amount": "3 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "gratin cream",
+      "amount": "240ml",
+      "notes": "heavy cream"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "In a saucepan, combine grated Uruguayan cheese, grated horseradish, chopped pungent onion, and heavy cream. Heat over low heat, stirring until the cheese melts.",
+    "In a separate baking dish, arrange a layer of thinly sliced silky potatoes.",
+    "Pour the cheese mixture over the potatoes and sprinkle with salt and pepper.",
+    "Repeat the layering process, ending with a layer of potatoes on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the potatoes are golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gratin",
+    "uruguayan",
+    "horseradish",
+    "potatoes",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 16,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-silky-uruguayan-horseradish-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:45:57.563Z"
+}
