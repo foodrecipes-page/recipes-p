@@ -3251,15 +3251,16 @@
   },
   {
     "slug": "peppery-gooey-japanese-hummus-sushi",
-    "title": "Spicy Gooey Sushi Rolls",
+    "title": "Gooey Peppery Sushi Rolls",
     "tags": [
-      "sushi",
+      "quick",
+      "easy",
+      "snack",
       "japanese",
-      "spicy",
-      "snack"
+      "vegan"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 10,
+    "totalTimeMin": 15,
     "shard": "p"
   },
   {
@@ -13925,6 +13926,31 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-velvety-garlic-korean-stir-fry--indian",
+    "title": "Spicy Indian Stir Fry",
+    "tags": [
+      "indian",
+      "spicy",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "piquant-silky-portuguese-chicken-skillet--chinese",
+    "title": "Stir-fried Chicken with Portuguese Spice",
+    "tags": [
+      "chinese",
+      "chicken",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "p"
   }
 ]
