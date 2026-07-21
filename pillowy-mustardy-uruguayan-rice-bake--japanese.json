@@ -1,0 +1,69 @@
+{
+  "slug": "pillowy-mustardy-uruguayan-rice-bake--japanese",
+  "title": "Japanese-Style Uruguayan Rice Bowl",
+  "description": "A unique fusion dish combining the flavors of Japan and Uruguay. This recipe features a savory rice bowl topped with grilled uruguayan meat and a tangy mustardy sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "uruguayan meat",
+      "amount": "1 lb",
+      "notes": "such as skirt steak"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "Japanese short-grain rice"
+    },
+    {
+      "name": "pillowy flour",
+      "amount": "1/2 cup",
+      "notes": "for dusting the meat"
+    },
+    {
+      "name": "mustardy sauce",
+      "amount": "1/4 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling the meat"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the uruguayan meat with salt, pepper, and a dusting of pillowy flour.",
+    "Grill the meat for 5-7 minutes per side, or until cooked to your desired level of doneness.",
+    "Meanwhile, prepare the rice according to package instructions.",
+    "To make the mustardy sauce, mix together 1/4 cup of mustard and 1/4 cup of water in a small bowl.",
+    "Slice the grilled meat into thin strips.",
+    "To assemble the bowls, place a scoop of cooked rice on a plate, followed by a few slices of grilled meat.",
+    "Drizzle the mustardy sauce over the top and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "uruguayan",
+    "grilled-meat",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-mustardy-uruguayan-rice-bake--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:45:35.317Z"
+}
