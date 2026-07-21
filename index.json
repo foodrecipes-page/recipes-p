@@ -8845,17 +8845,15 @@
   },
   {
     "slug": "pomegranate-glazed-middle-eastern-turkey-kebabs",
-    "title": "Pomegranate Glazed Middle-eastern Turkey Kebabs",
+    "title": "Middle Eastern Turkey Kebabs",
     "tags": [
-      "glazed",
-      "grilled",
-      "kid-friendly",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "middle east",
+      "kebabs",
+      "turkey",
+      "pomegranate"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 27,
+    "totalTimeMin": 31,
     "shard": "p"
   },
   {
@@ -14022,6 +14020,32 @@
       "poppy-seeds"
     ],
     "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "pillowy-mustardy-uruguayan-rice-bake--japanese",
+    "title": "Japanese-Style Uruguayan Rice Bowl",
+    "tags": [
+      "japanese",
+      "uruguayan",
+      "grilled-meat",
+      "rice-bowl"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "pure-creamy-korean-vegetable-bibimbap--gluten-free",
+    "title": "Gluten-Free Korean Bibimbap Bowl",
+    "tags": [
+      "korean",
+      "bibimbap",
+      "gluten-free",
+      "vegetarian"
+    ],
+    "cuisine": "Korean",
     "totalTimeMin": 25,
     "shard": "p"
   }
