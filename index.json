@@ -709,17 +709,14 @@
   },
   {
     "slug": "pan-seared-moroccan-chicken-liver-skewers",
-    "title": "Pan Seared Moroccan Chicken Liver Skewers",
+    "title": "Moroccan Chicken Skewers",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "moroccan",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "grilled",
+      "moroccan"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -13852,6 +13849,32 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "pleasantly-poached-croatian-vegetable-bowl--chinese",
+    "title": "Croatian Vegetable Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "vegetarian",
+      "quick-and-easy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-irish-cheese-flatbread--indian",
+    "title": "Indian-Style Flatbread with Peppery Cheese",
+    "tags": [
+      "indian",
+      "snack",
+      "cheese",
+      "flatbread"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 13,
     "shard": "p"
   }
 ]
