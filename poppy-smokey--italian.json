@@ -1,0 +1,79 @@
+{
+  "slug": "poppy-smokey--italian",
+  "title": "Smokey Italian Sausage and Poppy Focaccia",
+  "description": "A flavorful Italian dish featuring smoky sausage, crispy focaccia, and a sprinkle of poppy seeds.",
+  "cuisine": "italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Italian Sausage",
+      "amount": "4 links",
+      "notes": "Smokey flavor"
+    },
+    {
+      "name": "Focaccia Bread",
+      "amount": "1 loaf",
+      "notes": "Italian-style flatbread"
+    },
+    {
+      "name": "Poppy Seeds",
+      "amount": "2 tablespoons",
+      "notes": "Crunchy topping"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince and mix with olive oil"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing focaccia"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Season the sausage"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Slice the focaccia into 1-inch thick slices.",
+    "Place the focaccia slices on a baking sheet.",
+    "Drizzle with olive oil, sprinkle with minced garlic, and season with salt.",
+    "Cook in the oven for 10-12 minutes, or until crispy.",
+    "While the focaccia is cooking, grill the Italian sausage until browned and cooked through.",
+    "Slice the cooked sausage into thick rounds.",
+    "Once the focaccia is done, top each slice with a slice of sausage and a sprinkle of poppy seeds.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "sausage",
+    "focaccia",
+    "poppy-seeds"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/poppy-smokey--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:59:05.027Z"
+}
