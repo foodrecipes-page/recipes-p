@@ -1,0 +1,92 @@
+{
+  "slug": "pacific-smoked-australian-shrimp-skewers--thai",
+  "title": "Thai Shrimp Skewers",
+  "description": "Spicy and flavorful Thai-style shrimp skewers, grilled to perfection. Serve with steamed rice or noodles for a delicious and easy meal.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "seafood-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "pacific shrimp skewers",
+      "amount": "10-12 skewers",
+      "notes": "for grilling"
+    },
+    {
+      "name": "australian australian olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "grated fresh ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a medium bowl, whisk together olive oil, smoked paprika, garlic, ginger, chili flakes, fish sauce, brown sugar, and coconut milk.",
+    "3. Add the shrimp to the bowl and toss to coat with the marinade.",
+    "4. Thread the shrimp onto the skewers, leaving a little space between each piece.",
+    "5. Grill the skewers for 8-10 minutes, turning occasionally, or until the shrimp are pink and cooked through.",
+    "6. Remove the skewers from the grill and serve hot with steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "seafood",
+    "grilled",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pacific-smoked-australian-shrimp-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:16:32.508Z"
+}
