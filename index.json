@@ -7730,16 +7730,15 @@
   },
   {
     "slug": "piquant-thai-fish-noodles",
-    "title": "Thai Piquant Fish Noodle Soup",
+    "title": "Thai Fish Noodle Soup",
     "tags": [
       "thai",
-      "soup",
-      "noodle",
       "fish",
-      "spicy"
+      "soup",
+      "noodles"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 22,
+    "totalTimeMin": 20,
     "shard": "p"
   },
   {
@@ -11449,15 +11448,14 @@
   },
   {
     "slug": "purely-adventurous-turkish-cacao-su-boregi",
-    "title": "Purely Adventurous Turkish Cacao Su Boregi",
+    "title": "Turkish Boregi Delight",
     "tags": [
-      "cacao-based",
-      "jain-friendly",
-      "lacquer-glaze",
-      "turkish-delight",
-      "vegetarian-snack"
+      "turkish",
+      "pastry",
+      "cacao",
+      "dessert"
     ],
-    "cuisine": "Turkish",
+    "cuisine": "turkish",
     "totalTimeMin": 40,
     "shard": "p"
   },
@@ -14066,6 +14064,20 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-mediterranean-bacon-roast--indian",
+    "title": "Spiced Roast Chicken with Bacon",
+    "tags": [
+      "indian",
+      "chicken",
+      "bacon",
+      "roast",
+      "spicy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 70,
     "shard": "p"
   }
 ]
