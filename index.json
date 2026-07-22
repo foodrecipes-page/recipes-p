@@ -7146,18 +7146,14 @@
   },
   {
     "slug": "piquant-lazy-middle-eastern-chicken-skewers",
-    "title": "Piquant Lazy Middle Eastern Chicken Skewers",
+    "title": "Middle Eastern Chicken Skewers",
     "tags": [
-      "air-fry",
-      "easy",
-      "green-salsa",
-      "hangover-cure",
-      "lazy-susan-spinner",
+      "chicken",
       "middle-eastern",
-      "quick"
+      "skewers"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 25,
+    "totalTimeMin": 31,
     "shard": "p"
   },
   {
@@ -14057,6 +14053,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
+    "slug": "purely-roasted-tunisian-lamb-casserole--italian",
+    "title": "Tunisian Lamb Casserole",
+    "tags": [
+      "lamb",
+      "casserole",
+      "italian",
+      "pasta"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 50,
     "shard": "p"
   }
 ]
