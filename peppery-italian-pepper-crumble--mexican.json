@@ -1,0 +1,102 @@
+{
+  "slug": "peppery-italian-pepper-crumble--mexican",
+  "title": "Mexican Chicken Tacos",
+  "description": "A flavorful and spicy Mexican dish made with chicken, peppers, and spices. Serve with warm tortillas and your favorite toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "peppery Italian sausage",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "diced pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "crushed crumble",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "optional toppings",
+      "amount": "",
+      "notes": "diced onion, diced tomato, diced avocado, cilantro"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the chicken with cumin, chili powder, and salt.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, grill the sausage for 3-5 minutes per side, or until browned.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Slice the cooked chicken and sausage into thin strips.",
+    "Assemble tacos by placing chicken and sausage onto tortillas, and topping with cheese, sour cream, and desired toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-italian-pepper-crumble--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:00:02.451Z"
+}
