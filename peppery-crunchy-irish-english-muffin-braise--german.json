@@ -1,0 +1,77 @@
+{
+  "slug": "peppery-crunchy-irish-english-muffin-braise--german",
+  "title": "Braised Irish Sausages with Peppery Muffin Crust",
+  "description": "A hearty german dish featuring pan-seared irish sausages in a rich braising liquid, served on top of a crunchy peppery muffin crust.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "irish sausages",
+      "amount": "4",
+      "notes": "look for german-style sausages"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "2 tbsp",
+      "notes": "freshly ground, if possible"
+    },
+    {
+      "name": "english muffins",
+      "amount": "4",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "salted, for crust"
+    },
+    {
+      "name": "braising liquid (beer and beef broth)",
+      "amount": "1 cup",
+      "notes": "use a german beer for authenticity"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": "optional, for added depth"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the english muffins in half and toast until lightly browned.",
+    "In a large skillet, melt 1 tbsp of butter over medium-high heat. Add the irish sausages and cook until browned, about 5 minutes.",
+    "Transfer the sausages to a baking dish and set aside.",
+    "In the same skillet, add the remaining 1 tbsp of butter. Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the braising liquid, caraway seeds (if using), and peppercorns to the skillet. Bring to a boil, then cover and transfer to the oven.",
+    "Bake for 20-25 minutes, or until the sausages are cooked through and the liquid has thickened.",
+    "Meanwhile, mix the toasted english muffin halves with some additional grated peppercorns (if desired).",
+    "To serve, place the braised sausages on top of the peppery muffin crust and spoon some of the braising liquid over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "sausages",
+    "braising",
+    "muffin-crust"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 40,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crunchy-irish-english-muffin-braise--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:12:22.165Z"
+}
