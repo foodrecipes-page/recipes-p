@@ -12005,17 +12005,15 @@
   },
   {
     "slug": "purely-roasted-mediterranean-lentil-pilaf",
-    "title": "Purely Roasted Mediterranean Lentil Pilaf",
+    "title": "Roasted Lentil Pilaf Bowl",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "mediterranean-inspired",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "lentil",
+      "pilaf",
+      "middle-eastern",
+      "vegetarian"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
     "shard": "p"
   },
   {
@@ -14137,6 +14135,19 @@
       "snack"
     ],
     "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "poached-norwegian-gruyere-crust--japanese",
+    "title": "Japanese Crust Gratin",
+    "tags": [
+      "japanese",
+      "fish",
+      "gratin",
+      "salmon"
+    ],
+    "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "p"
   }
