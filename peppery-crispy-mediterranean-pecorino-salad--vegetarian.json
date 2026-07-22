@@ -1,0 +1,65 @@
+{
+  "slug": "peppery-crispy-mediterranean-pecorino-salad--vegetarian",
+  "title": "Grilled Salad with Pecorino",
+  "description": "A simple and flavorful vegetarian salad recipe with a grilled twist, topped with crispy pecorino cheese.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": "any combination of lettuce, arugula, spinach"
+    },
+    {
+      "name": "Peppery salad",
+      "amount": "1 cup",
+      "notes": "such as arugula or watercress"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for grilling"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Pecorino cheese",
+      "amount": "1/2 cup",
+      "notes": "crusty and crispy"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Toss the mixed greens and peppery salad with olive oil and a pinch of salt.",
+    "3. Grill the salad for 2-3 minutes per side, until slightly charred.",
+    "4. Crumble the pecorino cheese and sprinkle over the grilled salad.",
+    "5. Serve immediately, garnished with additional pecorino cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "grilled",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crispy-mediterranean-pecorino-salad--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:33:25.208Z"
+}
