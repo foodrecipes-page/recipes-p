@@ -1,0 +1,77 @@
+{
+  "slug": "poached-norwegian-gruyere-crust--japanese",
+  "title": "Japanese Crust Gratin",
+  "description": "A Japanese-inspired twist on a classic gratin, featuring Norwegian salmon and a crispy crust.",
+  "cuisine": "japanese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian salmon fillets",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "Gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Crust (homemade or store-bought)",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Poached asparagus",
+      "amount": "1 bunch",
+      "notes": "spears"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the salmon fillets on the prepared baking sheet.",
+    "Drizzle with soy sauce and dot with butter.",
+    "Bake for 12-15 minutes or until cooked through.",
+    "Meanwhile, roll out the crust to a thickness of 1/8 inch.",
+    "Transfer the crust to a 9x13 inch baking dish.",
+    "Top the crust with the shredded Gruyere cheese.",
+    "Arrange the poached asparagus spears on top of the cheese.",
+    "Place the baked salmon on top of the asparagus.",
+    "Return to the oven and bake for an additional 5-7 minutes or until the crust is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "fish",
+    "gratin",
+    "salmon"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/poached-norwegian-gruyere-crust--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:08:51.322Z"
+}
