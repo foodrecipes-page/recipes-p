@@ -1,0 +1,90 @@
+{
+  "slug": "purely-pale-croatian-pork-casseroles",
+  "title": "Pork and Purely Pale Croatian Casserole",
+  "description": "A hearty, comforting casserole that combines the flavors of Croatian cuisine with the richness of pork. This recipe is perfect for a chilly evening.",
+  "cuisine": "croatian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Purely Pale Croatian Pork Shoulder",
+      "amount": "1.5 lbs"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Casseroles Sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Grated Cheddar Cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Season the pork shoulder with salt and black pepper.",
+    "In a large skillet, cook the pork shoulder over medium-high heat until browned on all sides.",
+    "Remove the pork from the skillet and set it aside.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Add the sliced mushrooms to the skillet and cook until they release their moisture and start to brown.",
+    "Stir in the casseroles sauce, tomato paste, salt, and black pepper.",
+    "Return the pork shoulder to the skillet and coat it with the sauce.",
+    "Transfer the pork and sauce to a 9x13 inch baking dish.",
+    "Top the pork with breadcrumbs and grated cheddar cheese.",
+    "Bake the casserole in the preheated oven for 45-50 minutes or until the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and let it rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "croatian",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-pale-croatian-pork-casseroles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:28:29.209Z"
+}
