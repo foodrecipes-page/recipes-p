@@ -1,0 +1,80 @@
+{
+  "slug": "pungent-sour-russian-chives-borscht",
+  "title": "Borscht with Chives",
+  "description": "A hearty and tangy beets-based soup originating from Eastern Europe, served with a dollop of sour cream and a sprinkle of chives.",
+  "cuisine": "eastern european",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Russian borscht",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and sauté until softened.",
+    "Add carrots and beets, cook for 5 minutes.",
+    "Pour in borscht and add salt and pepper to taste.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Stir in chopped chives.",
+    "Serve hot with a dollop of sour cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "beets",
+    "eastern-european"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-sour-russian-chives-borscht",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:17:42.384Z"
+}
