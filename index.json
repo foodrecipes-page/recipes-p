@@ -6790,16 +6790,17 @@
   },
   {
     "slug": "piquant-french-chicken-quiche",
-    "title": "Piquant French Chicken Quiche",
+    "title": "French Chicken Quiche",
     "tags": [
-      "chicken-dishes",
-      "french-cuisine",
-      "halal-friendly",
-      "quiche-recipes",
-      "special-occasion"
+      "breakfast",
+      "lunch",
+      "dinner",
+      "quiche",
+      "french",
+      "chicken"
     ],
     "cuisine": "French",
-    "totalTimeMin": 60,
+    "totalTimeMin": 55,
     "shard": "p"
   },
   {
@@ -7366,18 +7367,15 @@
   },
   {
     "slug": "piquant-portuguese-orange-casserole",
-    "title": "Piquant Portuguese Orange Casserole",
+    "title": "Portuguese Orange Casserole",
     "tags": [
-      "antioxidant-rich",
-      "citrus",
-      "comfort-food",
-      "dessert",
-      "easy",
-      "gluten-free",
-      "weekend"
+      "portuguese",
+      "casserole",
+      "orange",
+      "snack"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -8268,15 +8266,14 @@
   },
   {
     "slug": "plum-dash-dum",
-    "title": "Plum Dash Dum",
+    "title": "Plum Dumplings",
     "tags": [
-      "ethiopian",
-      "smoky",
-      "light",
-      "dash-friendly"
+      "plum",
+      "dessert",
+      "steamed"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -11002,19 +10999,14 @@
   },
   {
     "slug": "pungent-sour-russian-chives-borscht",
-    "title": "Pungent Sour Russian Chives Borscht",
+    "title": "Borscht with Chives",
     "tags": [
-      "beet-based",
-      "chive-lovers",
-      "comfort-food",
-      "flexitarian",
-      "lunch",
-      "russian",
       "soup",
-      "weeknight"
+      "beets",
+      "eastern-european"
     ],
-    "cuisine": "russian",
-    "totalTimeMin": 45,
+    "cuisine": "eastern european",
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -14179,6 +14171,33 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-crispy-mediterranean-pecorino-salad--vegetarian",
+    "title": "Grilled Salad with Pecorino",
+    "tags": [
+      "italian",
+      "vegetarian",
+      "grilled",
+      "salad"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
+    "slug": "purely-poached-filipino-chicken-biryani--french",
+    "title": "Chicken Biryani Casserole",
+    "tags": [
+      "french",
+      "chicken",
+      "rice",
+      "casserole",
+      "egg"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
     "shard": "p"
   }
 ]
