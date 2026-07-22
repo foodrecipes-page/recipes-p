@@ -1,85 +1,80 @@
 {
   "slug": "piquant-thai-fish-noodles",
-  "title": "Thai Piquant Fish Noodle Soup",
-  "description": "A flavorful and spicy Thai-inspired noodle soup made with fish, piquant sauce, and fresh herbs.",
+  "title": "Thai Fish Noodle Soup",
+  "description": "A spicy and flavorful soup from Thailand, made with fish and noodles. Perfect for a quick and easy meal.",
   "cuisine": "Thai",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "fish"
   ],
   "meal": "lunch",
   "ingredients": [
     {
-      "name": "Fish fillet (tilapia or cod)",
-      "amount": "1 lb",
-      "notes": "Fresh or frozen, thawed"
+      "name": "Fish",
+      "amount": "400g",
+      "notes": "white fish such as cod or tilapia"
     },
     {
-      "name": "Piquant sauce",
-      "amount": "2 tbsp",
-      "notes": "Thai red curry paste or store-bought"
+      "name": "Noodles",
+      "amount": "200g",
+      "notes": "rice noodles or egg noodles"
     },
     {
-      "name": "Thai noodles (rice stick or egg noodles)",
-      "amount": "8 oz",
-      "notes": "Cook according to package instructions"
+      "name": "Thai Chili Sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
     },
     {
-      "name": "Vegetable oil",
-      "amount": "2 tbsp",
-      "notes": "For frying"
+      "name": "Thai Basil",
+      "amount": "handful",
+      "notes": "fresh or frozen"
     },
     {
-      "name": "Onion",
-      "amount": "1 medium",
-      "notes": "Chopped"
+      "name": "Piquant",
+      "amount": "1 tablespoon",
+      "notes": "Thai seasoning blend"
     },
     {
-      "name": "Ginger",
-      "amount": "1-inch piece",
-      "notes": "Sliced"
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
     },
     {
-      "name": "Thai basil",
-      "amount": "1/4 cup",
-      "notes": "Chopped, for garnish"
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
     },
     {
-      "name": "Fish sauce (optional)",
-      "amount": "1 tsp",
-      "notes": "For added umami flavor"
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "or fish stock"
     }
   ],
   "instructions": [
-    "Heat oil in a large pan over medium heat.",
-    "Add onion and ginger, cook until softened, about 3-4 minutes.",
-    "Add piquant sauce and cook for 1 minute, stirring constantly.",
-    "Add fish, cook until opaque and flaky, about 3-4 minutes.",
-    "Add noodles and stir to combine.",
-    "Cook for an additional 2-3 minutes or until the noodles are heated through.",
-    "Garnish with Thai basil and serve hot.",
-    "Optional: add fish sauce and stir to combine."
+    "Bring the water to a boil, then add the fish sauce and soy sauce (if using).",
+    "Add the noodles and cook according to package instructions.",
+    "Add the fish and cook until it is opaque and flakes easily with a fork.",
+    "Add the Thai chili sauce, Thai basil, and piquant, and stir to combine.",
+    "Simmer for 5 minutes, then serve hot."
   ],
-  "prepTimeMin": 10,
-  "cookTimeMin": 12,
-  "totalTimeMin": 22,
-  "servings": 2,
-  "difficulty": "medium",
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
   "tags": [
     "thai",
-    "soup",
-    "noodle",
     "fish",
-    "spicy"
+    "soup",
+    "noodles"
   ],
   "nutrition": {
-    "calories": 320,
+    "calories": 250,
     "protein": 30,
-    "carbs": 30,
+    "carbs": 20,
     "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/piquant-thai-fish-noodles",
   "providerUsed": "groq",
-  "createdAt": "2026-07-17T00:49:57.341Z"
+  "createdAt": "2026-07-18T22:22:00.775Z"
 }
