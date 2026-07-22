@@ -1,0 +1,96 @@
+{
+  "slug": "piquant-juicy-thai-shrimp-tom-yum--mexican",
+  "title": "Piquant Shrimp Tacos",
+  "description": "A flavorful and spicy twist on traditional tacos, featuring succulent shrimp in a zesty Thai-inspired sauce.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "piquant sauce (store-bought or homemade)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "juicy shrimp",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "tom yum soup mix",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "tortillas (corn or flour)",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add shrimp and cook until pink, about 2-3 minutes per side.",
+    "Remove shrimp from skillet and set aside.",
+    "In the same skillet, add curry paste and cook for 1 minute, stirring constantly.",
+    "Add tom yum soup mix and cook for an additional minute.",
+    "Add piquant sauce and stir to combine.",
+    "Return shrimp to skillet and toss with sauce.",
+    "Season with salt and pepper to taste.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by placing a few shrimp onto a tortilla, followed by a sprinkle of cilantro and a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tacos",
+    "shrimp",
+    "mexican",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-juicy-thai-shrimp-tom-yum--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:56:30.261Z"
+}
