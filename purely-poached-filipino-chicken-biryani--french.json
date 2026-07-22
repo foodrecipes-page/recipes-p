@@ -1,0 +1,87 @@
+{
+  "slug": "purely-poached-filipino-chicken-biryani--french",
+  "title": "Chicken Biryani Casserole",
+  "description": "A French twist on the classic Indian dish, this casserole combines the flavors of French cuisine with the spices of biryani.",
+  "cuisine": "french",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pure ghee",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "poached eggs",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "filipino-style fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "biryani spice blend",
+      "amount": "2 teaspoons",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the basmati rice according to package instructions.",
+    "In a large skillet, heat the ghee over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken breast and cook until browned on all sides and cooked through, about 5-6 minutes.",
+    "In a separate saucepan, heat the fish sauce (if using) over low heat.",
+    "Add the biryani spice blend and stir to combine.",
+    "To assemble the casserole, layer the cooked rice, chicken mixture, and sauce in a 9x13 inch baking dish.",
+    "Top with poached eggs and bake for 10-12 minutes, or until the eggs are set and the casserole is heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "chicken",
+    "rice",
+    "casserole",
+    "egg"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-poached-filipino-chicken-biryani--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:36:20.030Z"
+}
