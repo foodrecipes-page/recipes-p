@@ -1,0 +1,90 @@
+{
+  "slug": "plush-argentinian-beef-empanadas--french",
+  "title": "French Beef Empanadas",
+  "description": "A French twist on the classic Argentine empanada, filled with tender beef and seasoned with herbs.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Argentinian Beef Empanada Dough",
+      "amount": "1 package",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "In a large bowl, combine the cooked beef mixture, flour, salt, and pepper. Mix well.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Use a cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a tablespoon of the beef mixture in the center of each dough circle.",
+    "Fold the dough in half over the filling and press the edges together with a fork to seal.",
+    "Brush the tops of the empanadas with the beaten egg and cut a few slits in the top of each to allow steam to escape.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "french",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/plush-argentinian-beef-empanadas--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:47:59.803Z"
+}
