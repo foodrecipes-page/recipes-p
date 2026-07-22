@@ -1,0 +1,86 @@
+{
+  "slug": "piquant-french-chicken-quiche",
+  "title": "French Chicken Quiche",
+  "description": "A classic French quiche filled with chicken, perfect for brunch or dinner.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "french quiche crust",
+      "amount": "1 pie crust",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "piquant cheese",
+      "amount": "1/2 cup shredded",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pie crust and place it in a 9-inch tart pan.",
+    "In a large skillet, sauté the chicken, onion, and garlic until the chicken is cooked through.",
+    "In a separate bowl, whisk together the milk and eggs.",
+    "Pour the egg mixture over the cooked chicken mixture.",
+    "Sprinkle the shredded cheese over the top.",
+    "Bake for 35-40 minutes or until the quiche is set and the crust is golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "quiche",
+    "french",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-french-chicken-quiche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:30:25.709Z"
+}
