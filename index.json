@@ -872,17 +872,15 @@
   },
   {
     "slug": "pan-seared-smoky-mexican-chicken-breasts-fajitas",
-    "title": "Pan Seared Smoky Mexican Chicken Breasts Fajitas",
+    "title": "Smoky Chicken Fajitas",
     "tags": [
+      "mexican",
       "chicken",
       "fajitas",
-      "mexican",
-      "one-pan",
-      "smoky",
-      "weeknight"
+      "smoky"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
@@ -3910,16 +3908,15 @@
   },
   {
     "slug": "peppery-malaysian-rice-noodles",
-    "title": "Peppery Malaysian Rice Noodles",
+    "title": "Spicy Malaysian Noodle Stir Fry",
     "tags": [
-      "easy-dinner",
-      "high-protein",
-      "malaysian-food",
-      "one-pan",
-      "weeknight"
+      "malaysian",
+      "noodle",
+      "stir-fry",
+      "vegetarian"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 25,
+    "cuisine": "malaysian",
+    "totalTimeMin": 18,
     "shard": "p"
   },
   {
@@ -14104,6 +14101,31 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-italian-pepper-crumble--mexican",
+    "title": "Mexican Chicken Tacos",
+    "tags": [
+      "mexican",
+      "chicken",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-tender-australian-almond-bowl--indian",
+    "title": "Australian Chicken Tikka Masala",
+    "tags": [
+      "indian",
+      "chicken",
+      "tikka-masala",
+      "australian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "p"
   }
 ]
