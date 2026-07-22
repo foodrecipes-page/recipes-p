@@ -1,0 +1,57 @@
+{
+  "slug": "plum-dash-dum",
+  "title": "Plum Dumplings",
+  "description": "A simple dessert made with plums and dumplings, perfect for a sweet treat. The plum filling is wrapped in a dumpling wrapper and steamed to create a delicious and juicy dessert.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Plums",
+      "amount": "4"
+    },
+    {
+      "name": "Dumpling wrappers",
+      "amount": "8"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Dash",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Combine the plums and sugar in a bowl.",
+    "Lay a dumpling wrapper on a flat surface.",
+    "Place a tablespoon of the plum mixture onto the center of the wrapper.",
+    "Fold the wrapper into a triangle and press the edges to seal.",
+    "Repeat with the remaining wrappers and plum mixture.",
+    "Place the dumplings in a steamer basket.",
+    "Steam the dumplings for 10-12 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "plum",
+    "dessert",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/plum-dash-dum",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:47:07.023Z"
+}
