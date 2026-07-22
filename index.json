@@ -11837,17 +11837,14 @@
   },
   {
     "slug": "purely-pale-croatian-pork-casseroles",
-    "title": "Purely Pale Croatian Pork Casseroles",
+    "title": "Pork and Purely Pale Croatian Casserole",
     "tags": [
-      "cream-based",
-      "croatian-cuisine",
-      "garlic-free",
-      "lardon-recipe",
-      "onion-free",
-      "pork-recipe"
+      "pork",
+      "croatian",
+      "casserole"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 45,
+    "cuisine": "croatian",
+    "totalTimeMin": 65,
     "shard": "p"
   },
   {
@@ -14047,6 +14044,19 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-crunchy-irish-english-muffin-braise--german",
+    "title": "Braised Irish Sausages with Peppery Muffin Crust",
+    "tags": [
+      "german",
+      "sausages",
+      "braising",
+      "muffin-crust"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
     "shard": "p"
   }
 ]
