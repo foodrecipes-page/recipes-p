@@ -1,0 +1,79 @@
+{
+  "slug": "purely-roasted-mediterranean-lentil-pilaf",
+  "title": "Roasted Lentil Pilaf Bowl",
+  "description": "A hearty and flavorful bowl filled with the warmth of roasted spices and the comfort of lentils.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Purely olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Roasted cumin powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Mediterranean oregano",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Pilaf rice",
+      "amount": "1 cup",
+      "notes": "Uncooked"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a large bowl, mix together the lentils, cumin powder, and oregano.",
+    "3. Add the olive oil and toss to coat the lentils evenly.",
+    "4. Spread the lentil mixture on a baking sheet and roast for 20-25 minutes, or until fragrant and lightly browned.",
+    "5. While the lentils are roasting, heat 2 cups of water in a large saucepan over high heat.",
+    "6. Add the uncooked rice and salt to the saucepan. Bring to a boil, then reduce the heat to low, cover, and simmer for 15-20 minutes, or until the water is absorbed and the rice is tender.",
+    "7. Once the lentils are done, add them to the cooked rice and toss to combine.",
+    "8. Fluff the pilaf with a fork and serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "pilaf",
+    "middle-eastern",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-roasted-mediterranean-lentil-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:33:22.477Z"
+}
