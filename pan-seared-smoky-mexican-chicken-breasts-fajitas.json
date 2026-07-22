@@ -1,0 +1,85 @@
+{
+  "slug": "pan-seared-smoky-mexican-chicken-breasts-fajitas",
+  "title": "Smoky Chicken Fajitas",
+  "description": "A flavorful and spicy Mexican dish made with seared chicken breasts and served with a side of smoky spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4"
+    },
+    {
+      "name": "fajitas",
+      "amount": "1 packet"
+    },
+    {
+      "name": "pan",
+      "amount": "1"
+    },
+    {
+      "name": "smoky spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "limes",
+      "amount": "2"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Heat the pan over medium-high heat.",
+    "2. Add the chicken breasts and sear for 5-6 minutes per side, or until cooked through.",
+    "3. Remove the chicken from the pan and set aside.",
+    "4. Add the fajitas to the pan and cook according to the package instructions.",
+    "5. Add the smoky spices, garlic, onion, and bell peppers to the pan and cook until the vegetables are tender.",
+    "6. Slice the cooked chicken into strips and add it to the pan.",
+    "7. Serve the chicken and vegetables hot, garnished with lime wedges and cilantro.",
+    "8. Season with salt and pepper to taste.",
+    "9. Serve with warm flour or corn tortillas.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "fajitas",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-smoky-mexican-chicken-breasts-fajitas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:58:27.452Z"
+}
