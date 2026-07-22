@@ -14155,5 +14155,30 @@
     "cuisine": "german",
     "totalTimeMin": 60,
     "shard": "p"
+  },
+  {
+    "slug": "peaceful-middle-eastern-lamb-tagine--mexican",
+    "title": "Middle Eastern Lamb Tagine with a Mexican Twist",
+    "tags": [
+      "mexican",
+      "middle-eastern",
+      "lamb",
+      "tagine"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 170,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-peaceful-spanish-penne-pasta-paella--mexican",
+    "title": "Mexican Pasta Fiesta",
+    "tags": [
+      "mexican-pasta",
+      "italian-mexican-fusion",
+      "mexican-inspired"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "p"
   }
 ]
