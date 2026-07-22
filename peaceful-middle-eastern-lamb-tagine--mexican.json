@@ -1,0 +1,91 @@
+{
+  "slug": "peaceful-middle-eastern-lamb-tagine--mexican",
+  "title": "Middle Eastern Lamb Tagine with a Mexican Twist",
+  "description": "A bold fusion of spices and flavors, blending the warmth of the Middle East with the vibrant spirit of Mexico.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Middle Eastern spice blend",
+      "amount": "2 tbsp",
+      "notes": "Available at most Middle Eastern markets or online"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "2",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb pieces in batches, about 5 minutes per batch.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the onions, ginger, and garlic to the pot and cook until the onions are softened.",
+    "Add the cumin, cayenne pepper, and Middle Eastern spice blend to the pot and cook for 1 minute.",
+    "Add the diced tomatoes, sliced peppers, and browned lamb to the pot.",
+    "Stir to combine and bring to a simmer.",
+    "Transfer the pot to the oven and cook for 2-1/2 hours, or until the lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh cilantro and warm pita bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "middle-eastern",
+    "lamb",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peaceful-middle-eastern-lamb-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:22:17.700Z"
+}
