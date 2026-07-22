@@ -1,0 +1,69 @@
+{
+  "slug": "purely-adventurous-turkish-cacao-su-boregi",
+  "title": "Turkish Boregi Delight",
+  "description": "A delicious Turkish boregi pastry filled with a sweet and creamy cacao filling, perfect for dessert.",
+  "cuisine": "turkish",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry Dough",
+      "amount": "1 package",
+      "notes": "available in most supermarkets"
+    },
+    {
+      "name": "Cacao Filling",
+      "amount": "1 cup",
+      "notes": "see below for cacao filling recipe"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of about 1/8 inch.",
+    "Cut the dough into 4 equal squares.",
+    "Place a tablespoon of cacao filling in the center of each square.",
+    "Fold the dough over the filling to form a triangle and press the edges to seal.",
+    "Brush the tops of the boregi with the softened butter.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Allow to cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "pastry",
+    "cacao",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-adventurous-turkish-cacao-su-boregi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:25:16.573Z"
+}
