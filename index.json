@@ -3810,14 +3810,15 @@
   },
   {
     "slug": "peppery-kenyani-beef-stir-fry",
-    "title": "Peppery Kenyani Beef Stir-fry",
+    "title": "Stir Fry Beef with Peppery Spices",
     "tags": [
-      "peppery",
-      "kenyan",
-      "beef-stir-fry"
+      "beef",
+      "stir-fry",
+      "asian",
+      "quick-dinner"
     ],
-    "cuisine": "Kenyani",
-    "totalTimeMin": 20,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
