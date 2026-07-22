@@ -1,0 +1,64 @@
+{
+  "slug": "piquant-creamy-russian-banana-pancakes",
+  "title": "Russian Banana Pancakes",
+  "description": "A creamy, piquant twist on traditional pancakes, topped with fresh banana slices.",
+  "cuisine": "russian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 ripe bananas",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 cup pancake mix",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup piquant cream",
+      "amount": "0.5",
+      "notes": ""
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp vanilla extract",
+      "amount": "0.5",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mash the ripe bananas with a fork until smooth.",
+    "In a separate mixing bowl, combine pancake mix, piquant cream, eggs, and vanilla extract. Mix until just combined.",
+    "Add the mashed banana to the dry ingredients and mix until smooth.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook for 2-3 minutes, until bubbles appear on the surface and edges start to dry.",
+    "Flip and cook for 1-2 minutes, until golden brown."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-creamy-russian-banana-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:49:04.322Z"
+}
