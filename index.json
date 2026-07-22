@@ -3151,20 +3151,15 @@
   },
   {
     "slug": "peppery-gooey-dutch-potato-stew",
-    "title": "Peppery Gooey Dutch Potato Stew",
+    "title": "Dutch Stew Recipe",
     "tags": [
-      "dutch-dish",
-      "peppery",
-      "potato-stew",
-      "vegan-friendly",
-      "egg-free",
-      "chili",
-      "gooey",
-      "midnight-craving",
-      "comfort-food"
+      "dutch",
+      "stew",
+      "potatoes",
+      "vegetarian"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": null,
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
@@ -6538,17 +6533,14 @@
   },
   {
     "slug": "piquant-creamy-russian-banana-pancakes",
-    "title": "Piquant Creamy Russian Banana Pancakes",
+    "title": "Russian Banana Pancakes",
     "tags": [
-      "banana-recipes",
-      "breakfast-ideas",
-      "brine-wet",
-      "fodmap-friendly",
-      "russian-cuisine",
-      "yeasty-treats"
+      "breakfast",
+      "pancakes",
+      "russian"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 40,
+    "cuisine": "russian",
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -14150,6 +14142,18 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "poppy-seed-bliss--german",
+    "title": "Blissful German Seed Bread",
+    "tags": [
+      "german",
+      "bread",
+      "breakfast"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
     "shard": "p"
   }
 ]
