@@ -1,0 +1,78 @@
+{
+  "slug": "peppery-malaysian-rice-noodles",
+  "title": "Spicy Malaysian Noodle Stir Fry",
+  "description": "A spicy and flavorful Malaysian-inspired noodle dish made with peppery notes and a variety of textures.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "200g",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "peppery vegetable mix",
+      "amount": "150g",
+      "notes": "such as bell peppers, onions, and mushrooms"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2tbsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 tsp",
+      "notes": "for heat"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "20g",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions.",
+    "Heat the peanut oil in a wok or large skillet over medium-high heat.",
+    "Add the peppery vegetable mix and stir-fry until tender, about 3-4 minutes.",
+    "Add the soy sauce, chili flakes, and salt. Stir-fry for another minute, until the flavors are combined.",
+    "Add the cooked noodles to the wok and stir-fry for 2-3 minutes, until the noodles are well coated with the sauce.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the noodles to a serving dish and garnish with fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "noodle",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-malaysian-rice-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:31:29.149Z"
+}
