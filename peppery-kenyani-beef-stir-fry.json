@@ -1,0 +1,87 @@
+{
+  "slug": "peppery-kenyani-beef-stir-fry",
+  "title": "Stir Fry Beef with Peppery Spices",
+  "description": "A quick and flavorful beef stir fry recipe with a kick from peppery spices. Serve with your choice of sides, such as rice or noodles.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "peppery",
+      "amount": "2 teaspoons",
+      "notes": "ground peppercorns"
+    },
+    {
+      "name": "kenyani",
+      "amount": "1 teaspoon",
+      "notes": " Kenyan spice blend"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil for stir-frying"
+    },
+    {
+      "name": "fry",
+      "amount": "2 cloves",
+      "notes": "garlic, minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes. Remove from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet. Add the minced garlic and cook for 1 minute.",
+    "Add the sliced onion and bell pepper to the skillet. Cook until the vegetables are tender, about 3-4 minutes.",
+    "Return the beef to the skillet. Add the ground peppercorns, Kenyan spice blend, and soy sauce (if using). Stir-fry everything together for 1-2 minutes.",
+    "Season with salt to taste. Serve hot over rice or noodles.",
+    "Check the internal temperature of the beef to ensure it reaches a safe minimum internal temperature of 145°F (63°C) for medium-rare, 160°F (71°C) for medium, and 170°F (77°C) for well-done."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stir-fry",
+    "asian",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-kenyani-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:25:03.950Z"
+}
