@@ -14079,5 +14079,31 @@
     "cuisine": "indian",
     "totalTimeMin": 70,
     "shard": "p"
+  },
+  {
+    "slug": "piquant-juicy-thai-shrimp-tom-yum--mexican",
+    "title": "Piquant Shrimp Tacos",
+    "tags": [
+      "tacos",
+      "shrimp",
+      "mexican",
+      "spicy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 18,
+    "shard": "p"
+  },
+  {
+    "slug": "pacific-smoked-australian-shrimp-skewers--thai",
+    "title": "Thai Shrimp Skewers",
+    "tags": [
+      "thai",
+      "seafood",
+      "grilled",
+      "quick"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "p"
   }
 ]
