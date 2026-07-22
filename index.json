@@ -14127,5 +14127,17 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "p"
+  },
+  {
+    "slug": "plush-argentinian-beef-empanadas--french",
+    "title": "French Beef Empanadas",
+    "tags": [
+      "beef",
+      "french",
+      "snack"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "p"
   }
 ]
