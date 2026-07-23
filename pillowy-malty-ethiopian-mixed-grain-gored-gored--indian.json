@@ -1,0 +1,84 @@
+{
+  "slug": "pillowy-malty-ethiopian-mixed-grain-gored-gored--indian",
+  "title": "Pillowy Gored Chicken Biryani",
+  "description": "A flavorful and aromatic Indian dish made with pillowy rice, gored chicken, and a blend of spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pillowy rice",
+      "amount": "1 cup",
+      "notes": "Cooked per package instructions"
+    },
+    {
+      "name": "Gored chicken",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Mixed spices",
+      "amount": "2 teaspoons",
+      "notes": "Blend of cumin, coriander, and turmeric"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion, ginger, and garlic; sauté until softened.",
+    "Add chicken; cook until browned, about 5-7 minutes.",
+    "Add mixed spices; cook for 1 minute.",
+    "Stir in cooked rice; cook for 2-3 minutes.",
+    "Transfer to a serving dish; garnish with chopped fresh cilantro.",
+    "Serve hot.",
+    "Garnish with additional cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "rice",
+    "biryani"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-malty-ethiopian-mixed-grain-gored-gored--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:14:31.485Z"
+}
