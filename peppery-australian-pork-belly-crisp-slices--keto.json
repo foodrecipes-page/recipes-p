@@ -1,0 +1,57 @@
+{
+  "slug": "peppery-australian-pork-belly-crisp-slices--keto",
+  "title": "Crispy Australian Pork Belly",
+  "description": "A keto-friendly dish that highlights the flavors of Australian pork belly.",
+  "cuisine": "australian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "peppery",
+      "amount": "1 tsp",
+      "notes": "ground black pepper"
+    },
+    {
+      "name": "crisp slices",
+      "amount": "1 cup",
+      "notes": "bacon, diced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Rinse the pork belly and pat dry with paper towels.",
+    "Season the pork belly with ground black pepper.",
+    "In a large pan, sear the pork belly over medium-high heat until browned on all sides.",
+    "Transfer the pork belly to a baking sheet.",
+    "Bake the pork belly in the preheated oven for 20 minutes.",
+    "Remove the pork belly from the oven and top with diced bacon.",
+    "Return the pork belly to the oven and continue baking for an additional 10 minutes.",
+    "Let the pork belly rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "pork",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 64,
+    "carbs": 0,
+    "fat": 54
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-australian-pork-belly-crisp-slices--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:57:55.313Z"
+}
