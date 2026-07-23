@@ -14373,5 +14373,31 @@
     "cuisine": "french",
     "totalTimeMin": 35,
     "shard": "p"
+  },
+  {
+    "slug": "pleasantly-poached-croatian-vegetable-bowl--keto",
+    "title": "Bowl of Poached Vegetables",
+    "tags": [
+      "keto",
+      "vegetarian",
+      "low-carb"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 10,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-silky-uruguayan-horseradish-gratin--german",
+    "title": "Uruguayan Horseradish Gratin",
+    "tags": [
+      "german",
+      "side-dish",
+      "gratin",
+      "horseradish",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
+    "shard": "p"
   }
 ]
