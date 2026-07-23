@@ -14347,5 +14347,31 @@
     "cuisine": "korean",
     "totalTimeMin": 25,
     "shard": "p"
+  },
+  {
+    "slug": "piquant-vietnamese-long-beans-canh-chua--indian",
+    "title": "Spicy Green Bean Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "spicy",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "piquant-lazy-middle-eastern-chicken-skewers--french",
+    "title": "French Eastern Chicken Skewers",
+    "tags": [
+      "french",
+      "middle eastern",
+      "chicken",
+      "grilled"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "p"
   }
 ]
