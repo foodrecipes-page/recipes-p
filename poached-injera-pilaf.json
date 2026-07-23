@@ -1,0 +1,97 @@
+{
+  "slug": "poached-injera-pilaf",
+  "title": "Ethiopian-Inspired Pilaf Bowl",
+  "description": "A flavorful and healthy bowl filled with pilaf, topped with spicy poached chicken, and served with a side of injera.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "injera",
+      "amount": "2 pieces",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a pot of water to a boil and poach the chicken for 12-15 minutes or until cooked through.",
+    "In a large skillet, heat the olive oil over medium-high heat. Add the onion and cook for 5 minutes or until softened.",
+    "Add the garlic and cook for an additional 1 minute.",
+    "Add the berbere spice and cook for 1 minute.",
+    "Add the cooked pilaf to the skillet and stir to combine.",
+    "Slice the cooked chicken into strips and add to the skillet.",
+    "Stir in the lemon juice and season with salt and pepper to taste.",
+    "Serve the pilaf mixture over the injera and top with fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "chicken",
+    "pilaf",
+    "injera",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/poached-injera-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:17:41.995Z"
+}
