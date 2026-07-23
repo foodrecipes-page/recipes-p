@@ -1,0 +1,88 @@
+{
+  "slug": "piquant-thai-fish-noodles--german",
+  "title": "Thai Fish Noodle Soup",
+  "description": "A spicy Thai-inspired noodle soup made with flaky fish and German sausage. Serve with a side of crusty bread for a hearty meal.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Thai fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "German sausage (Bratwurst)",
+      "amount": "6 slices",
+      "notes": "canned or store-bought"
+    },
+    {
+      "name": "Noodles",
+      "amount": "8 ounces",
+      "notes": "rice noodles or egg noodles"
+    },
+    {
+      "name": "Piquant peppers",
+      "amount": "2",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "Fish (cod or tilapia)",
+      "amount": "4 fillets",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat or low-fat"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "chicken or fish stock optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the sliced sausage and cook until browned, about 5 minutes.",
+    "Add the diced peppers and cook for an additional 2 minutes.",
+    "Add the fish sauce, coconut milk, water, salt, and pepper. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "Add the noodles and cook according to package instructions.",
+    "Add the fish fillets and cook until cooked through, about 3-4 minutes.",
+    "Serve hot, garnished with chopped herbs or chilies if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "thai",
+    "fish",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-thai-fish-noodles--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:22:04.488Z"
+}
