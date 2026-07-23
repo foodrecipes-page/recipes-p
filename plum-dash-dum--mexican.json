@@ -1,0 +1,75 @@
+{
+  "slug": "plum-dash-dum--mexican",
+  "title": "Plum Dumplings with Spicy Dipping Sauce",
+  "description": "A sweet and spicy twist on traditional Mexican dumplings, served with a tangy dipping sauce.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dum",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Plum",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Dash",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine plums, sugar, cinnamon, and dash in a saucepan.",
+    "Cook over medium heat until the plums are tender.",
+    "Roll out dum dough to a thickness of 1/4 inch.",
+    "Cut the dough into circles of 3-4 inches in diameter.",
+    "Place a spoonful of plum mixture onto the center of each dough circle.",
+    "Fold the dough over the filling and press the edges together to seal.",
+    "Boil the dumplings in a large pot of water for 10-15 minutes, or until they float to the surface.",
+    "Serve the plum dumplings hot with a side of spicy dipping sauce (optional).",
+    "To make the dipping sauce, combine 1/2 cup of water with 1-2 dashes of dash in a saucepan.",
+    "Bring the mixture to a boil, then reduce heat and simmer for 5-7 minutes.",
+    "Strain the sauce into a bowl and let it cool to room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "dessert",
+    "plum"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/plum-dash-dum--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:01:09.681Z"
+}
