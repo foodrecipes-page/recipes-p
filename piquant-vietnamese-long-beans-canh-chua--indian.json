@@ -1,0 +1,81 @@
+{
+  "slug": "piquant-vietnamese-long-beans-canh-chua--indian",
+  "title": "Spicy Green Bean Curry",
+  "description": "A flavorful and spicy Indian-inspired dish made with green beans, onions, and a blend of Indian spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "green beans",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "piquant sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "vietnamese chili peppers",
+      "amount": "2-3",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "long grain rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "canh tom paste",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "chua sauce",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable or canola oil"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onions and sauté until softened.",
+    "Add green beans and cook until tender.",
+    "Add piquant sauce, vietnamese chili peppers, canh tom paste, and chua sauce (if using).",
+    "Stir well and cook for 2-3 minutes.",
+    "Serve over long grain rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-vietnamese-long-beans-canh-chua--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:26:20.069Z"
+}
