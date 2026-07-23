@@ -1,0 +1,57 @@
+{
+  "slug": "pleasantly-poached-croatian-vegetable-bowl--keto",
+  "title": "Bowl of Poached Vegetables",
+  "description": "A simple and flavorful keto dish made with poached vegetables, ideal for a light and refreshing meal.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetables (such as broccoli, cauliflower, and carrots)",
+      "amount": "1 head",
+      "notes": "Your choice of vegetables"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Fill a large bowl with ice and water.",
+    "Bring a pot of water to a boil and add a tablespoon of vegetable oil.",
+    "Carefully place the vegetables into the boiling water and poach for 3-5 minutes, or until tender.",
+    "Remove the vegetables from the water with a slotted spoon and place them into the bowl of ice water to stop the cooking process.",
+    "Once the vegetables have cooled, drain them and season with salt and pepper to taste.",
+    "Serve the poached vegetables in a bowl and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "vegetarian",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 1,
+    "carbs": 10,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pleasantly-poached-croatian-vegetable-bowl--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:36:43.226Z"
+}
