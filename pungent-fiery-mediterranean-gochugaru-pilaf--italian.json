@@ -1,0 +1,88 @@
+{
+  "slug": "pungent-fiery-mediterranean-gochugaru-pilaf--italian",
+  "title": "Spicy Italian Pilaf",
+  "description": "A flavorful and spicy Italian-inspired pilaf dish made with pilaf, gochugaru, and mediterranean herbs.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "gochugaru",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the pilaf and cook for 2-3 minutes, stirring constantly.",
+    "Add the chicken broth, gochugaru, oregano, basil, salt, and pepper.",
+    "Bring to a boil, then reduce heat to low and simmer for 20-25 minutes, or until the liquid has been absorbed.",
+    "Fluff with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pilaf",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-fiery-mediterranean-gochugaru-pilaf--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:05:32.545Z"
+}
