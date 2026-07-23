@@ -1,0 +1,62 @@
+{
+  "slug": "pillowy-herbal-australian-cacao-bite--keto",
+  "title": "Keto Chocolate Mousse",
+  "description": "A low-carb, rich dessert made with cacao and cream, perfect for keto dieters. The herbal notes enhance the chocolate flavor.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cacao",
+      "amount": "6 oz"
+    },
+    {
+      "name": "pillowy",
+      "amount": "1 cup heavy cream",
+      "notes": "chilled"
+    },
+    {
+      "name": "herbal",
+      "amount": "1 tsp vanilla extract",
+      "notes": "high-quality"
+    },
+    {
+      "name": "bite",
+      "amount": "1/4 cup granulated sweetener (e.g., Swerve)",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "1. Chill a mixing bowl in the freezer for 5 minutes.",
+    "2. In the chilled bowl, whip the heavy cream until stiff peaks form.",
+    "3. In a separate bowl, melt the cacao in the microwave in 10-second increments, stirring between each interval, until smooth.",
+    "4. Fold the melted cacao into the whipped cream until well combined.",
+    "5. Add the vanilla extract and granulated sweetener, folding until smooth.",
+    "6. Spoon the mousse into individual serving cups or a large serving dish.",
+    "7. Chill in the refrigerator for at least 2 hours before serving.",
+    "8. Garnish with additional cacao powder or whipped cream, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "chocolate",
+    "dessert",
+    "mousse"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 5,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-herbal-australian-cacao-bite--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:40:40.629Z"
+}
