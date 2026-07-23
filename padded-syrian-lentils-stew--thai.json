@@ -1,0 +1,97 @@
+{
+  "slug": "padded-syrian-lentils-stew--thai",
+  "title": "Thai Lentil Stew",
+  "description": "A hearty and flavorful Thai-inspired stew made with red lentils, onions, and a blend of aromatic spices. Serve over steamed rice or noodles for a satisfying meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "padded",
+      "amount": "2 tablespoons",
+      "notes": "toasted in a pan"
+    },
+    {
+      "name": "syrian",
+      "amount": "1 tablespoon",
+      "notes": "toasted in a pan"
+    },
+    {
+      "name": "stew",
+      "amount": "4 cups",
+      "notes": "vegetable broth"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "toasted in a pan"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": "toasted in a pan"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the padded and syrian and cook for 1 minute.",
+    "Add the cumin and coriander and cook for 1 minute.",
+    "Add the stew and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Add the coconut milk and stir to combine.",
+    "Add the fish sauce and brown sugar (if using) and stir to combine.",
+    "Simmer for an additional 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "lentils",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/padded-syrian-lentils-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:34:14.072Z"
+}
