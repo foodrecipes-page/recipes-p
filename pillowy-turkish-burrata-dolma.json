@@ -1,0 +1,80 @@
+{
+  "slug": "pillowy-turkish-burrata-dolma",
+  "title": "Pan-Seared Dolma with Burrata Cream Sauce",
+  "description": "A rich and creamy Turkish-inspired dish featuring dolma stuffed with a blend of cheese and herbs, served with a pan-seared dolma and a side of burrata cream sauce.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dolma",
+      "amount": "1 cup",
+      "notes": "Rice and herb stuffed grape leaves"
+    },
+    {
+      "name": "Burrata Cheese",
+      "amount": "1 ball",
+      "notes": ""
+    },
+    {
+      "name": "Pillowy Pita Bread",
+      "amount": "1 cup, torn",
+      "notes": "For serving"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "To taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large skillet over medium-high heat.",
+    "2. Pan-fry the dolma until golden brown, about 2-3 minutes per side.",
+    "3. In a separate pan, warm the burrata cheese over low heat, stirring occasionally.",
+    "4. To make the cream sauce, add 1/2 cup of warm water to the pan with the burrata cheese and stir to combine.",
+    "5. Add the chopped parsley to the cream sauce and stir to combine.",
+    "6. To serve, place the pan-seared dolma on a plate and top with the burrata cream sauce.",
+    "7. Serve with torn pillowy pita bread on the side.",
+    "8. Garnish with additional parsley if desired.",
+    "9. Season with salt and black pepper to taste.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-turkish-burrata-dolma",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:49:37.747Z"
+}
