@@ -1,0 +1,52 @@
+{
+  "slug": "pepper-solo--thai",
+  "title": "Spicy Pepper Stir Fry",
+  "description": "A quick and flavorful Thai-inspired stir fry made with fresh peppers and solo.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pepper",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "solo",
+      "amount": "1/2 cup",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat.",
+    "Add 1 minced garlic clove and sauté for 1 minute.",
+    "Add sliced peppers and stir-fry for 3-4 minutes.",
+    "Add solo and stir-fry for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "pepper",
+    "solo"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pepper-solo--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:52:15.858Z"
+}
