@@ -1,0 +1,65 @@
+{
+  "slug": "piquant-lazy-middle-eastern-chicken-skewers--french",
+  "title": "French Eastern Chicken Skewers",
+  "description": "A flavorful and colorful skewer dish combining the tastes of the East with the elegance of French cuisine.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "500g",
+      "notes": "Boneless and skinless chicken breast or thighs"
+    },
+    {
+      "name": "eastern",
+      "amount": "",
+      "notes": "Middle Eastern spice blend (e.g., cumin, coriander, turmeric)"
+    },
+    {
+      "name": "piquant",
+      "amount": "",
+      "notes": "A pinch of cayenne pepper or red pepper flakes"
+    },
+    {
+      "name": "middle",
+      "amount": "",
+      "notes": "Middle Eastern herbs (e.g., parsley, mint)"
+    },
+    {
+      "name": "skewers",
+      "amount": "",
+      "notes": "Metal or bamboo skewers, soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400°F (200°C).",
+    "In a large bowl, mix together the chicken, eastern spice blend, piquant, and middle Eastern herbs.",
+    "Thread the chicken mixture onto the skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Grill the skewers for 8-10 minutes per side, or until the chicken is cooked through.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve hot, garnished with additional herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "middle eastern",
+    "chicken",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-lazy-middle-eastern-chicken-skewers--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:08:59.236Z"
+}
