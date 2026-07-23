@@ -14309,5 +14309,43 @@
     "cuisine": "American",
     "totalTimeMin": 25,
     "shard": "p"
+  },
+  {
+    "slug": "plum-dash-dum--mexican",
+    "title": "Plum Dumplings with Spicy Dipping Sauce",
+    "tags": [
+      "mexican",
+      "dessert",
+      "plum"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-spring-roasted-italian-chicken-casserole--thai",
+    "title": "Thai Chicken Casserole",
+    "tags": [
+      "thai",
+      "chicken",
+      "casserole",
+      "noodles"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-sour-indian-korean-pear-curry--keto",
+    "title": "Korean Pear Curry",
+    "tags": [
+      "keto",
+      "korean",
+      "pear",
+      "curry"
+    ],
+    "cuisine": "korean",
+    "totalTimeMin": 25,
+    "shard": "p"
   }
 ]
