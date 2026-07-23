@@ -1,0 +1,95 @@
+{
+  "slug": "peppery-crispy-japanese-seafood-bowl",
+  "title": "Seafood Peppery Bowl",
+  "description": "A quick and flavorful Japanese-inspired seafood bowl with peppery notes.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup",
+      "notes": "short-grain"
+    },
+    {
+      "name": "Peppery sauce",
+      "amount": "1/4 cup",
+      "notes": "see notes for recipe"
+    },
+    {
+      "name": "Seafood mix",
+      "amount": "1/2 cup",
+      "notes": "shrimp, scallops, mussels"
+    },
+    {
+      "name": "Crispy tempura bits",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "for drizzling"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook Japanese rice according to package instructions.",
+    "Prepare peppery sauce by mixing 2 tsp soy sauce, 1 tsp rice vinegar, and 1 tsp grated ginger.",
+    "Heat 1 tsp sesame oil in a pan over medium-high heat. Add seafood mix and cook until pink, about 2-3 minutes.",
+    "Add crispy tempura bits to the pan and stir to combine with seafood.",
+    "To assemble the bowls, place a scoop of cooked rice in the bottom, followed by the seafood and tempura mixture.",
+    "Drizzle with peppery sauce and sprinkle with sesame seeds, if using.",
+    "Garnish with chopped green onions and serve with lime wedges on the side, if desired.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "seafood",
+    "rice-bowl",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crispy-japanese-seafood-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:43:30.937Z"
+}
