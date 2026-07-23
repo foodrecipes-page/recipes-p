@@ -1,0 +1,70 @@
+{
+  "slug": "pungent-sour-indian-korean-pear-curry--keto",
+  "title": "Korean Pear Curry",
+  "description": "A keto-friendly twist on traditional curry, featuring the sweetness of pear and the spiciness of Korean chili flakes.",
+  "cuisine": "korean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pear",
+      "amount": "2"
+    },
+    {
+      "name": "Pungent Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Sour Lime Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Indian Curry Powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add garlic and sauté for 2 minutes.",
+    "Add curry powder and chili flakes, and cook for 1 minute.",
+    "Add pear and cook for 5 minutes, or until tender.",
+    "Squeeze lime juice over the pear mixture.",
+    "Season with salt to taste.",
+    "Serve hot over a bed of greens or with a side of cauliflower rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "korean",
+    "pear",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-sour-indian-korean-pear-curry--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:38:09.939Z"
+}
