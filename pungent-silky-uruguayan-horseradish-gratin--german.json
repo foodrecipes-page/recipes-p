@@ -1,0 +1,69 @@
+{
+  "slug": "pungent-silky-uruguayan-horseradish-gratin--german",
+  "title": "Uruguayan Horseradish Gratin",
+  "description": "A hearty, comforting German side dish featuring Uruguayan horseradish and a silky, creamy gratin.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Uruguayan Horseradish",
+      "amount": "1 large root, peeled and grated",
+      "notes": ""
+    },
+    {
+      "name": "Silky potatoes",
+      "amount": "3-4 medium-sized, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Pungent onion",
+      "amount": "1 medium, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Gratin cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large saucepan, combine sliced potatoes and onion. Add enough cold water to cover the potatoes. Bring to a boil over high heat, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "Drain the potatoes and onion, and return them to the saucepan. Add the grated horseradish and a pinch of salt. Toss to combine.",
+    "In a greased 9x13 inch baking dish, arrange half of the potato mixture in an even layer. Sprinkle with half of the grated cheese.",
+    "Repeat the layers, starting with the remaining potato mixture and ending with the remaining cheese.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Remove the gratin from the oven and let it cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "side-dish",
+    "gratin",
+    "horseradish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-silky-uruguayan-horseradish-gratin--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:07:48.554Z"
+}
