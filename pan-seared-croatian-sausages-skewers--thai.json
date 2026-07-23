@@ -1,0 +1,87 @@
+{
+  "slug": "pan-seared-croatian-sausages-skewers--thai",
+  "title": "Croatian Sausage Satay",
+  "description": "A twist on traditional Satay, these skewers are filled with Croatian sausages, perfect for a Thai-inspired BBQ.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian sausages",
+      "amount": "1 pound",
+      "notes": "Grilled or pan-cooked"
+    },
+    {
+      "name": "Pineapple",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "2-3",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread Croatian sausages, pineapple, red onion, and cilantro onto skewers.",
+    "3. Brush skewers with a mixture of soy sauce, honey, and lime juice.",
+    "4. Grill skewers for 8-10 minutes, or until sausages are cooked through.",
+    "5. Serve skewers with a side of peanut sauce for dipping.",
+    "6. In a small bowl, combine coconut milk and chili peppers.",
+    "7. Serve coconut milk mixture on the side as a cooling sauce.",
+    "8. Garnish with additional cilantro if desired.",
+    "9. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "satay",
+    "bbq",
+    "thai",
+    "croation-sausage"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-croatian-sausages-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:22:25.090Z"
+}
