@@ -1,0 +1,92 @@
+{
+  "slug": "poached-russian-pike-perch-pilaf--mexican",
+  "title": "Mexican Pike Pilaf",
+  "description": "A flavorful Mexican pilaf dish with poached pike and a blend of spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pike fillet",
+      "amount": "1 lb",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "Mexican rice pilaf",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Line a baking sheet with aluminum foil or parchment paper.",
+    "Place the pike fillet on the prepared baking sheet.",
+    "Season the pike with salt, pepper, and smoked paprika.",
+    "Poach the pike in the oven for 8-12 minutes, or until cooked through.",
+    "While the pike is cooking, heat a large skillet over medium-high heat.",
+    "Add the diced onion and bell pepper to the skillet and cook until tender.",
+    "Add the Mexican rice pilaf to the skillet and cook for 2-3 minutes, stirring constantly.",
+    "Stir in the chopped cilantro, lime juice, and ground cumin.",
+    "Once the pike is cooked, flake it into the skillet with the rice mixture.",
+    "Stir to combine and cook for an additional 1-2 minutes.",
+    "Serve the pike pilaf hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "mexican",
+    "pilaf",
+    "pike"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/poached-russian-pike-perch-pilaf--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:00:32.822Z"
+}
