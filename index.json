@@ -14256,5 +14256,31 @@
     "cuisine": "thai",
     "totalTimeMin": 45,
     "shard": "p"
+  },
+  {
+    "slug": "pan-seared-japanese-pork-dumplings--vegetarian",
+    "title": "Pan-Seared Dumplings",
+    "tags": [
+      "pan-seared",
+      "dumplings",
+      "vegetarian",
+      "quick-dinner"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "pillowy-herbal-australian-cacao-bite--keto",
+    "title": "Keto Chocolate Mousse",
+    "tags": [
+      "keto",
+      "chocolate",
+      "dessert",
+      "mousse"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 120,
+    "shard": "p"
   }
 ]
