@@ -1,0 +1,84 @@
+{
+  "slug": "playful-spanish-rice-krispies-paella",
+  "title": "Spanish Rice Krispie Paella",
+  "description": "A creative fusion of traditional Spanish paella and childhood Rice Krispie treats, perfect for a fun and easy meal.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice Krispies",
+      "amount": "2 cups"
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "playful play dough (colorful)",
+      "amount": "for garnish"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "saffron",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the paella rice and cook for 2-3 minutes, until lightly toasted.",
+    "Add the chicken broth, saffron, and smoked paprika.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20-25 minutes, or until the rice is cooked.",
+    "Meanwhile, melt 2 tablespoons of butter in a separate saucepan over low heat.",
+    "Add the Rice Krispies and stir until coated in the melted butter.",
+    "Flatten the Rice Krispie mixture into a large rectangle.",
+    "Once the paella is cooked, place the Rice Krispie rectangle on top of the paella.",
+    "Use playful play dough to create fun designs on the Rice Krispie topping.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "fun",
+    "creative",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 10,
+    "carbs": 80,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/playful-spanish-rice-krispies-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:42:13.535Z"
+}
