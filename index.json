@@ -14282,5 +14282,32 @@
     "cuisine": null,
     "totalTimeMin": 120,
     "shard": "p"
+  },
+  {
+    "slug": "pepper-solo--thai",
+    "title": "Spicy Pepper Stir Fry",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "pepper",
+      "solo"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 13,
+    "shard": "p"
+  },
+  {
+    "slug": "piquant-welsh-collards-skillet--keto",
+    "title": "Keto Skillet Collards with Piquant Welsh",
+    "tags": [
+      "keto",
+      "skillet",
+      "collards",
+      "welsh onion",
+      "piquant cheese"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 25,
+    "shard": "p"
   }
 ]
