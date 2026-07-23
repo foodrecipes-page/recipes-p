@@ -1,0 +1,86 @@
+{
+  "slug": "pungent-spring-roasted-italian-chicken-casserole--thai",
+  "title": "Thai Chicken Casserole",
+  "description": "A fusion of Thai flavors with a classic casserole. Pungent and aromatic, this dish is perfect for adventurous eaters.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spring onions",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "roasted red peppers",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pungent garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook rice noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, heat coconut oil over medium heat.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add chicken breast and cook until browned, about 5 minutes.",
+    "Add roasted red peppers and cook for an additional 2 minutes.",
+    "Stir in cooked rice noodles, italian seasoning, and spring onions.",
+    "Transfer mixture to a 9x13 inch baking dish.",
+    "Bake for 20-25 minutes, or until chicken is cooked through.",
+    "Garnish with cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "casserole",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-spring-roasted-italian-chicken-casserole--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:32:46.285Z"
+}
