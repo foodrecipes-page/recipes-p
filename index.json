@@ -2114,17 +2114,15 @@
   },
   {
     "slug": "peppery-crispy-japanese-seafood-bowl",
-    "title": "Peppery Crispy Japanese Seafood Bowl",
+    "title": "Seafood Peppery Bowl",
     "tags": [
-      "quick-fix",
+      "japanese",
       "seafood",
-      "kosher-friendly",
-      "peppery",
-      "crispy",
-      "bowl"
+      "rice-bowl",
+      "quick-dinner"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 20,
+    "totalTimeMin": 23,
     "shard": "p"
   },
   {
@@ -7983,17 +7981,15 @@
   },
   {
     "slug": "playful-spanish-rice-krispies-paella",
-    "title": "Playful Spanish Rice Krispies Paella",
+    "title": "Spanish Rice Krispie Paella",
     "tags": [
-      "easy-dinner",
-      "fun-twist",
-      "kid-friendly",
-      "one-pot",
-      "spanish-inspired",
-      "vegetarian"
+      "spanish",
+      "fun",
+      "creative",
+      "kid-friendly"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "cuisine": "spanish",
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
@@ -14233,6 +14229,32 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
+    "slug": "pan-seared-croatian-sausages-skewers--thai",
+    "title": "Croatian Sausage Satay",
+    "tags": [
+      "satay",
+      "bbq",
+      "thai",
+      "croation-sausage"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "padded-syrian-lentils-stew--thai",
+    "title": "Thai Lentil Stew",
+    "tags": [
+      "thai",
+      "lentils",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
     "shard": "p"
   }
 ]
