@@ -8648,14 +8648,16 @@
   },
   {
     "slug": "poached-injera-pilaf",
-    "title": "Poached Injera Pilaf",
+    "title": "Ethiopian-Inspired Pilaf Bowl",
     "tags": [
-      "poached",
+      "ethiopian",
+      "chicken",
+      "pilaf",
       "injera",
-      "sourcream"
+      "healthy"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 7,
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
@@ -14398,6 +14400,31 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 60,
+    "shard": "p"
+  },
+  {
+    "slug": "pillowy-malty-ethiopian-mixed-grain-gored-gored--indian",
+    "title": "Pillowy Gored Chicken Biryani",
+    "tags": [
+      "indian",
+      "chicken",
+      "rice",
+      "biryani"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-fiery-mediterranean-gochugaru-pilaf--italian",
+    "title": "Spicy Italian Pilaf",
+    "tags": [
+      "italian",
+      "pilaf",
+      "spicy"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "p"
   }
 ]
