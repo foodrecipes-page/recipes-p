@@ -1,0 +1,78 @@
+{
+  "slug": "pan-seared-japanese-pork-dumplings--vegetarian",
+  "title": "Pan-Seared Dumplings",
+  "description": "A simple and delicious vegetarian dish with pan-seared dumplings, perfect for a quick weeknight dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pan-seared dumplings",
+      "amount": "4-6 pieces",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "cubed"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan over medium-high heat.",
+    "Add cubed tofu and cook until golden brown, about 3-4 minutes.",
+    "Add sliced mushrooms and cook until they release their liquid and start browning, about 5 minutes.",
+    "Add chopped green onions and cook for an additional minute.",
+    "Serve pan-seared dumplings on top of the tofu and mushroom mixture.",
+    "Optional: drizzle soy sauce over the dish and sprinkle with sesame seeds.",
+    "Serve hot and enjoy!",
+    "Cook and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pan-seared",
+    "dumplings",
+    "vegetarian",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-japanese-pork-dumplings--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:11:08.005Z"
+}
