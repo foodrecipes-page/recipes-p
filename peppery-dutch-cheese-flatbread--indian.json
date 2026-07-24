@@ -1,0 +1,57 @@
+{
+  "slug": "peppery-dutch-cheese-flatbread--indian",
+  "title": "Spiced Flatbread with Cheese",
+  "description": "A simple and flavorful flatbread recipe from India, topped with melted cheese and a blend of spices. Perfect as a snack or side dish.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dutch flatbread",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Cheese",
+      "amount": "1/4 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Peppery spice blend",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Place the flatbread on a baking sheet.",
+    "Sprinkle the shredded cheese evenly over the flatbread.",
+    "Mix the peppery spice blend with a pinch of salt, and sprinkle over the cheese.",
+    "Bake in the preheated oven for 5-7 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a minute or two.",
+    "Cut into desired shapes or serve whole."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "flatbread",
+    "cheese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 7,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-dutch-cheese-flatbread--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:28:49.720Z"
+}
