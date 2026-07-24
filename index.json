@@ -14426,5 +14426,32 @@
     "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "p"
+  },
+  {
+    "slug": "parsnip-jalebi--keto",
+    "title": "Keto Parsnip Fries",
+    "tags": [
+      "keto",
+      "low-carb",
+      "snack",
+      "fries"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
+    "slug": "pulling-pan-seared-mexican-cheese-paella--thai",
+    "title": "Thai Cheese Paella",
+    "tags": [
+      "thaipassion",
+      "cheesy",
+      "paellalove",
+      "veganoption",
+      "easydinner"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "p"
   }
 ]
