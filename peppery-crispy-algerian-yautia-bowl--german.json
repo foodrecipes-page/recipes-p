@@ -1,0 +1,80 @@
+{
+  "slug": "peppery-crispy-algerian-yautia-bowl--german",
+  "title": "Crispy German Yautia Bowl",
+  "description": "A hearty German-inspired bowl filled with crispy yautia, peppery flavors, and a touch of Algerian spice.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yautia",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "peppercorns",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "for frying",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Peel and cut the yautia into 1-inch pieces.",
+    "In a large bowl, mix together the flour, water, peppercorns, and Algerian spice blend.",
+    "Add the yautia pieces to the bowl and toss to coat.",
+    "Heat the vegetable oil in a deep frying pan over medium-high heat.",
+    "Fry the yautia pieces in batches until crispy and golden brown, about 3-4 minutes per batch.",
+    "Drain the yautia on paper towels and season with salt to taste.",
+    "Serve the crispy yautia in a bowl and garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "yautia",
+    "crispy",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crispy-algerian-yautia-bowl--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:46:31.057Z"
+}
