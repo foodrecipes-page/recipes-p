@@ -1,0 +1,71 @@
+{
+  "slug": "pale-golden-mediterranean-bacon-skewers--chinese",
+  "title": "Grilled Pork Skewers with Hoisin Glaze",
+  "description": "A sweet and savory Chinese-inspired dish featuring pork skewers grilled to perfection and served with a sticky hoisin glaze.",
+  "cuisine": "chinese",
+  "diet": [
+    "pork",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "mediterranean olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "golden honey",
+      "amount": "2 tablespoons",
+      "notes": "for glaze"
+    },
+    {
+      "name": "bacon",
+      "amount": "4 slices",
+      "notes": "crumbled"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together honey, soy sauce, and rice vinegar.",
+    "Thread pork cubes onto skewers, leaving a small space between each piece.",
+    "Brush skewers with honey mixture and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes, or until cooked through.",
+    "Meanwhile, cook bacon in a pan over medium heat until crispy.",
+    "In a small bowl, mix together crumbled bacon and chopped olives.",
+    "Brush skewers with remaining honey mixture and serve with bacon mixture on top.",
+    "Optional: serve with steamed vegetables or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "grilled-pork",
+    "skewers",
+    "hoisin-glaze",
+    "bacon"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pale-golden-mediterranean-bacon-skewers--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:00:45.123Z"
+}
