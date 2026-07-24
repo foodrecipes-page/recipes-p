@@ -1,0 +1,65 @@
+{
+  "slug": "piquant-middle-eastern-shrimp-pilaf--italian",
+  "title": "Shrimp and Pilaf Italian Skillet",
+  "description": "A flavorful and easy Italian-inspired dish made with succulent shrimp and crispy pilaf. Perfect for a quick weeknight dinner.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eastern",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "middle",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "piquant",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the shrimp and cook until pink and fully cooked, about 2-3 minutes per side. Set aside.",
+    "In the same skillet, add the pilaf and cook until lightly toasted, about 2-3 minutes.",
+    "Add the eastern, middle, and piquant to the skillet and stir to combine.",
+    "Add the cooked shrimp back into the skillet and stir to combine with the pilaf mixture.",
+    "Season with salt and pepper to taste. Serve immediately.",
+    "Optional: serve with a squeeze of lemon juice and a side of garlic bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "skillet",
+    "shrimp",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-middle-eastern-shrimp-pilaf--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:58:49.322Z"
+}
