@@ -4883,20 +4883,14 @@
   },
   {
     "slug": "peppery-velvety-norwegian-cod-salad",
-    "title": "Peppery Velvety Norwegian Cod Salad",
+    "title": "Pan-Seared Cod with Salad",
     "tags": [
-      "norwegian",
-      "whole30",
-      "post-workout",
+      "seafood",
       "salad",
-      "cod",
-      "velvety",
-      "peppery",
-      "quick",
-      "healthy"
+      "cod"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 15,
+    "cuisine": "fish",
+    "totalTimeMin": 23,
     "shard": "p"
   },
   {
@@ -14531,6 +14525,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-gooey-festive-argentinian-beef-roast--french",
+    "title": "French-Style Roast Beef",
+    "tags": [
+      "french",
+      "roast-beef",
+      "beef",
+      "holiday"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 135,
     "shard": "p"
   }
 ]
