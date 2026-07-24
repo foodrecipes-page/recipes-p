@@ -7109,18 +7109,16 @@
   },
   {
     "slug": "piquant-korean-vegetable-cold-chewy-naengmyeon",
-    "title": "Piquant Korean Vegetable Cold Naengmyeon",
+    "title": "Naengmyeon Noodle Dish",
     "tags": [
-      "cold",
-      "gluten-free",
       "korean",
-      "lacto-vegetarian",
+      "vegetarian",
       "naengmyeon",
-      "snack",
-      "weeknight"
+      "cold-noodle-dish",
+      "summer-dish"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 10,
+    "totalTimeMin": 20,
     "shard": "p"
   },
   {
