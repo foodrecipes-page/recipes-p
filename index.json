@@ -9611,15 +9611,14 @@
   },
   {
     "slug": "pungent-aerated-canadian-onion-hash",
-    "title": "Pungent Aerated Canadian Onion Hash",
+    "title": "Canadian Puffed Onion Hash",
     "tags": [
       "breakfast",
       "canadian",
-      "kid-friendly",
-      "one-pan"
+      "hash"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "p"
   },
   {
@@ -14549,6 +14548,19 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 15,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-tender-australian-mincemeat-fritters--indian",
+    "title": "Australian-Style Beef Mincemeat Fritters",
+    "tags": [
+      "indian",
+      "snack",
+      "beef",
+      "fritters"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 18,
     "shard": "p"
   }
 ]
