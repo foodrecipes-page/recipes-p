@@ -6025,16 +6025,15 @@
   },
   {
     "slug": "pillowy-russian-haricot-beans-papillote",
-    "title": "Pillowy Russian Haricot Beans Papillote",
+    "title": "Papillote Style Haricot Beans with Pillowy Russian Flatbread",
     "tags": [
-      "high-fiber",
-      "one-pan",
+      "beans",
+      "flatbread",
       "papillote",
-      "vegetarian-friendly",
-      "weeknight"
+      "comfort-food"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 60,
+    "cuisine": "French",
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -11047,17 +11046,16 @@
   },
   {
     "slug": "pungent-springy-thai-asparagus-satay",
-    "title": "Pungent Springy Thai Asparagus Satay",
+    "title": "Thai Satay Asparagus Stir-Fry",
     "tags": [
-      "easy-to-make",
-      "gluten-free",
-      "grilled",
-      "low-carb",
-      "thai-street-food",
-      "vegetarian"
+      "thai",
+      "stir-fry",
+      "asparagus",
+      "snack",
+      "easy"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 30,
+    "cuisine": "thai",
+    "totalTimeMin": 13,
     "shard": "p"
   },
   {
@@ -14561,6 +14559,72 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 18,
+    "shard": "p"
+  },
+  {
+    "slug": "pacific-smoked-australian-shrimp-skewers--vegetarian",
+    "title": "Grilled Smoked Shrimp Skewers with Pacific Fruit",
+    "tags": [
+      "grilled",
+      "smoked",
+      "shrimp",
+      "vegetarian",
+      "skewers"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "piquant-middle-eastern-shrimp-pilaf--italian",
+    "title": "Shrimp and Pilaf Italian Skillet",
+    "tags": [
+      "italian",
+      "skillet",
+      "shrimp",
+      "pilaf"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "piquant-kenyan-lamb-tagine--mexican",
+    "title": "Spicy Kenyan Lamb Tagine Tacos",
+    "tags": [
+      "lamb",
+      "tacos",
+      "african-mexican-fusion",
+      "spicy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
+    "slug": "pillowy-indulgent-american-macaroni-casserole--vegetarian",
+    "title": "Creamy Mac and Cheese Casserole",
+    "tags": [
+      "mac-and-cheese",
+      "casserole",
+      "vegetarian",
+      "comfort-food"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-crispy-algerian-yautia-bowl--german",
+    "title": "Crispy German Yautia Bowl",
+    "tags": [
+      "german",
+      "yautia",
+      "crispy",
+      "bowl"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "p"
   }
 ]
