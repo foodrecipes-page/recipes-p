@@ -1,0 +1,62 @@
+{
+  "slug": "peppery-gooey-festive-argentinian-beef-roast--french",
+  "title": "French-Style Roast Beef",
+  "description": "A classic French dish featuring a slow-cooked roast beef with a peppery crust. Perfect for a special occasion.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roast",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "Peppercorns",
+      "amount": "20"
+    },
+    {
+      "name": "Festive Salt",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Argentinian Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Gooey Butter",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C (425°F).",
+    "Rub the roast all over with peppercorns.",
+    "Season the roast with festive salt.",
+    "Heat argentinian olive oil in a large skillet over high heat.",
+    "Sear the roast on all sides until browned, about 2-3 minutes per side.",
+    "Transfer the roast to a roasting pan and roast in the preheated oven for 20 minutes.",
+    "Reduce oven temperature to 160°C (325°F) and continue roasting for another 1.5 hours.",
+    "Baste the roast with gooey butter every 30 minutes during the last hour of cooking.",
+    "Let the roast rest for 15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "roast-beef",
+    "beef",
+    "holiday"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 0,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-gooey-festive-argentinian-beef-roast--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:31:52.588Z"
+}
