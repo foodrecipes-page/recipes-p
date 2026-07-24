@@ -1,0 +1,73 @@
+{
+  "slug": "peppery-velvety-norwegian-cod-salad",
+  "title": "Pan-Seared Cod with Salad",
+  "description": "A simple and flavorful dish featuring pan-seared cod served with a fresh salad.",
+  "cuisine": "fish",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": "Fresh cod with skin removed"
+    },
+    {
+      "name": "Peppery oil",
+      "amount": "2 tbsp",
+      "notes": "Use peppery oil for seasoning"
+    },
+    {
+      "name": "Salad greens",
+      "amount": "4 cups",
+      "notes": "Choose your favorite mixed greens"
+    },
+    {
+      "name": "Salad dressing",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Velvety sauce",
+      "amount": "2 tbsp",
+      "notes": "A creamy sauce to complement the cod"
+    },
+    {
+      "name": "Norwegian seasoning",
+      "amount": "1 tsp",
+      "notes": "A blend of herbs and spices"
+    }
+  ],
+  "instructions": [
+    "Preheat skillet to medium-high heat.",
+    "Season cod fillets with Norwegian seasoning.",
+    "Add Peppery oil to the skillet and sear the cod for 2-3 minutes per side.",
+    "Remove the cod from the skillet and set aside.",
+    "In the same skillet, add salad greens and toss with salad dressing.",
+    "Place the cooked cod on top of the salad.",
+    "Drizzle Velvety sauce over the cod and salad.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "salad",
+    "cod"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-velvety-norwegian-cod-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:50:18.676Z"
+}
