@@ -1,0 +1,87 @@
+{
+  "slug": "pungent-silky-uruguayan-horseradish-gratin--thai",
+  "title": "Spicy Uruguayan Gratin",
+  "description": "A Thai-inspired dish combining the bold flavors of Uruguay with the creaminess of a gratin.",
+  "cuisine": "thai",
+  "diet": [
+    "dairy",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan Chorizo Sausage",
+      "amount": "4 slices",
+      "notes": "about 1/2 inch thick"
+    },
+    {
+      "name": "Horseradish",
+      "amount": "2 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Silky Eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "Pungent Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup",
+      "notes": "full-fat or low-fat"
+    },
+    {
+      "name": "Gratin Cheese",
+      "amount": "1 cup",
+      "notes": "shredded, such as mozzarella or cheddar"
+    },
+    {
+      "name": "Fresh Thai Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the Uruguayan Chorizo Sausage in a pan over medium-high heat until browned, about 5 minutes.",
+    "Remove the sausage from the pan and set aside.",
+    "In the same pan, add the Horseradish, Pungent Garlic, and cook for 1 minute.",
+    "Add the Silky Eggplant slices to the pan and cook until tender, about 5 minutes.",
+    "Stir in the Thai Red Curry Paste and cook for 1 minute.",
+    "Add the Coconut Milk to the pan and bring to a simmer.",
+    "Return the cooked sausage to the pan and stir to combine.",
+    "Transfer the mixture to a baking dish and top with Gratin Cheese.",
+    "Bake in the preheated oven for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with Fresh Thai Basil and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "spicy",
+    "gratin",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-silky-uruguayan-horseradish-gratin--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:34:25.339Z"
+}
