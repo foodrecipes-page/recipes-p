@@ -14539,5 +14539,18 @@
     "cuisine": "french",
     "totalTimeMin": 135,
     "shard": "p"
+  },
+  {
+    "slug": "pesto-saudia-olive-stir-fry--indian",
+    "title": "Indian-Style Vegetable Stir Fry",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "stir-fry",
+      "pesto"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 15,
+    "shard": "p"
   }
 ]
