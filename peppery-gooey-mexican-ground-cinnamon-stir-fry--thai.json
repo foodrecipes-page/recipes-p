@@ -1,0 +1,67 @@
+{
+  "slug": "peppery-gooey-mexican-ground-cinnamon-stir-fry--thai",
+  "title": "Thai Beef Stir Fry",
+  "description": "A quick and flavorful Thai beef stir fry with a sweet and spicy twist. Can be served with steamed rice or noodles.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "90% lean"
+    },
+    {
+      "name": "peppery stir-fry sauce",
+      "amount": "",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "mexican onions",
+      "amount": "",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fry oil",
+      "amount": "",
+      "notes": "vegetable or peanut oil"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "",
+      "notes": "ground, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of fry oil in a large skillet or wok over medium-high heat.",
+    "Add the ground beef and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the sliced onions and cook until they start to soften, about 2 minutes.",
+    "Add the peppery stir-fry sauce and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened and the beef and onions are coated.",
+    "Season with a pinch of salt and a few grinds of black pepper.",
+    "Garnish with a sprinkle of ground cinnamon, if desired.",
+    "Serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "beef",
+    "stirfry",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-gooey-mexican-ground-cinnamon-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:50:20.430Z"
+}
