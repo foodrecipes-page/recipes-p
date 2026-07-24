@@ -1236,12 +1236,12 @@
     "slug": "peanut-butter-kebab-wrap",
     "title": "Peanut Butter Kebab Wrap",
     "tags": [
-      "peanut-butter",
-      "kebab-wrap",
-      "whole30"
+      "snack",
+      "easy",
+      "quick"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 7,
     "shard": "p"
   },
   {
@@ -6443,17 +6443,16 @@
   },
   {
     "slug": "piquant-charred-algerian-lamb-tagine",
-    "title": "Piquant Charred Algerian Lamb Tagine",
+    "title": "Lamb Tagine",
     "tags": [
-      "algerian-cuisine",
-      "brunch-ideas",
-      "gluten-free",
-      "lamb-recipes",
-      "low-carb",
-      "one-pot"
+      "north african",
+      "algerian",
+      "lamb",
+      "stew",
+      "slow cooker"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 170,
+    "cuisine": "North African",
+    "totalTimeMin": 110,
     "shard": "p"
   },
   {
@@ -14452,6 +14451,46 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "pale-golden-mediterranean-bacon-skewers--chinese",
+    "title": "Grilled Pork Skewers with Hoisin Glaze",
+    "tags": [
+      "chinese-food",
+      "grilled-pork",
+      "skewers",
+      "hoisin-glaze",
+      "bacon"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "purely-grilled-mediterranean-saskatoon-berry-skewers--chinese",
+    "title": "Saskatoon Berry Skewers with Honey Glaze",
+    "tags": [
+      "chinese",
+      "saskatoon-berries",
+      "grilled-chicken",
+      "skewers"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 17,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-dutch-cheese-flatbread--indian",
+    "title": "Spiced Flatbread with Cheese",
+    "tags": [
+      "indian",
+      "flatbread",
+      "cheese",
+      "snack"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 10,
     "shard": "p"
   }
 ]
