@@ -1,0 +1,68 @@
+{
+  "slug": "peanut-butter-kebab-wrap",
+  "title": "Peanut Butter Kebab Wrap",
+  "description": "A delicious and easy to make snack or meal using peanut butter and kebab wrap.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peanut Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Kebab Wrap",
+      "amount": "1"
+    },
+    {
+      "name": "Kebab Meat (chicken or beef)",
+      "amount": "1/2 cup",
+      "notes": "Cooked and shredded"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1/2 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan over medium heat.",
+    "2. Lay the kebab wrap on a flat surface.",
+    "3. Spread 1 tablespoon of peanut butter on the center of the wrap.",
+    "4. Add the cooked and shredded kebab meat on top of the peanut butter.",
+    "5. Add the chopped lettuce, diced tomato, and sliced cucumber on top of the meat.",
+    "6. Fold the bottom half of the wrap up over the filling.",
+    "7. Fold in the sides and roll the wrap up tightly.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peanut-butter-kebab-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:36:11.301Z"
+}
