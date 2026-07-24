@@ -1,0 +1,84 @@
+{
+  "slug": "plush-argentinian-beef-empanadas--vegetarian",
+  "title": "Argentinian Empanadas",
+  "description": "A delicious vegetarian twist on Argentinian empanadas, filled with beef-free ingredients.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "plush pastry dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "argentinian-style roasted vegetables",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "argentinian-style cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "plush egg, beaten",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "argentinian-style breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "argentinian-style olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "argentinian-style cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "argentinian-style paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out plush pastry dough to 1/4 inch thickness.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a bowl, mix together argentinian-style roasted vegetables, argentinian-style cheese, plush egg, argentinian-style breadcrumbs, argentinian-style olive oil, argentinian-style cumin, and argentinian-style paprika.",
+    "Place a tablespoon of the vegetable mixture onto the center of each dough circle.",
+    "Fold the dough over the filling and press edges together to seal.",
+    "Brush tops with plush egg for a golden glaze.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "vegetarian",
+    "lunch",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/plush-argentinian-beef-empanadas--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:19:34.309Z"
+}
