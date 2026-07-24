@@ -1,0 +1,76 @@
+{
+  "slug": "pungent-springy-thai-asparagus-satay",
+  "title": "Thai Satay Asparagus Stir-Fry",
+  "description": "A quick and flavorful stir-fry featuring marinated asparagus and a hint of Thai spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "pungent",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "springy",
+      "amount": "1 cup",
+      "notes": "peanuts or cashews"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "satay",
+      "amount": "2 tbsp",
+      "notes": "Thai peanut sauce"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of oil in a pan over medium-high heat.",
+    "Add the pungent and cook for 1 minute.",
+    "Add the asparagus and cook for 3-4 minutes.",
+    "Add the springy and cook for an additional 2 minutes.",
+    "In a small bowl, whisk together sugar and soy sauce.",
+    "Pour the sugar-soy sauce mixture over the asparagus mixture and stir to combine.",
+    "Add the satay and stir to coat.",
+    "Cook for an additional 1-2 minutes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "asparagus",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-springy-thai-asparagus-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:07:57.498Z"
+}
