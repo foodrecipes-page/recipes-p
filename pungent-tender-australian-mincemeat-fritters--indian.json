@@ -1,0 +1,76 @@
+{
+  "slug": "pungent-tender-australian-mincemeat-fritters--indian",
+  "title": "Australian-Style Beef Mincemeat Fritters",
+  "description": "A delicious fusion of Indian flavors with Australian-style beef mincemeat fritters.",
+  "cuisine": "indian",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mincemeat",
+      "amount": "250g"
+    },
+    {
+      "name": "pungent",
+      "amount": "2 cloves, minced",
+      "notes": "Garlic"
+    },
+    {
+      "name": "tender",
+      "amount": "1 onion, finely chopped",
+      "notes": "Red onion"
+    },
+    {
+      "name": "australian",
+      "amount": "1 cup all-purpose flour",
+      "notes": "Self-raising flour"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large egg",
+      "notes": "Beaten egg"
+    },
+    {
+      "name": "chilli powder",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "1/4 cup",
+      "notes": "For frying"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine mincemeat, garlic, onion, flour, egg, and chilli powder. Mix well.",
+    "2. Heat a non-stick pan with 1/4 cup of ghee or oil over medium heat.",
+    "3. Using a spoon, drop small portions of the mixture into the pan.",
+    "4. Flatten the mixture slightly with a spatula.",
+    "5. Cook the fritters for 4-5 minutes or until golden brown.",
+    "6. Flip the fritters and cook the other side until golden brown.",
+    "7. Serve hot with your favorite chutney or raita."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "beef",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-tender-australian-mincemeat-fritters--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:32:23.448Z"
+}
