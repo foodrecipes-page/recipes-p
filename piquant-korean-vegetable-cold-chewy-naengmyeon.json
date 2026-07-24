@@ -1,0 +1,89 @@
+{
+  "slug": "piquant-korean-vegetable-cold-chewy-naengmyeon",
+  "title": "Naengmyeon Noodle Dish",
+  "description": "A refreshing Korean cold noodle dish, perfect for hot summer days.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Naengmyeon noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp",
+      "notes": "For stir-frying."
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste."
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "For a nutty flavor."
+    },
+    {
+      "name": "Korean pear",
+      "amount": "1 medium",
+      "notes": "Thinly sliced."
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "Thinly sliced."
+    },
+    {
+      "name": "Iceberg lettuce",
+      "amount": "1 head",
+      "notes": "Shredded."
+    },
+    {
+      "name": "Chewy Korean rice cakes",
+      "amount": "200g",
+      "notes": "Optional, but recommended for added texture."
+    },
+    {
+      "name": "Cold beef or chicken broth",
+      "amount": "2 cups",
+      "notes": "For serving."
+    }
+  ],
+  "instructions": [
+    "Cook the naengmyeon noodles according to the package instructions, then rinse with cold water to stop cooking.",
+    "In a large bowl, combine the cooked noodles, thinly sliced Korean pear and cucumber, and shredded iceberg lettuce.",
+    "In a small pan, heat the vegetable oil over medium heat and stir-fry the Korean chili flakes for 1-2 minutes until fragrant.",
+    "Add the sesame oil and stir-fry for another minute.",
+    "Pour the stir-fry mixture over the noodles and toss to combine.",
+    "Add the chewy Korean rice cakes on top of the noodles, if using.",
+    "Pour the cold beef or chicken broth over the noodles and serve immediately.",
+    "Garnish with additional sesame oil, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "vegetarian",
+    "naengmyeon",
+    "cold-noodle-dish",
+    "summer-dish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-korean-vegetable-cold-chewy-naengmyeon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:23:09.882Z"
+}
