@@ -1,0 +1,67 @@
+{
+  "slug": "pesto-saudia-olive-stir-fry--indian",
+  "title": "Indian-Style Vegetable Stir Fry",
+  "description": "A quick and flavorful Indian-inspired stir fry made with mixed vegetables and a hint of pesto.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed vegetables",
+      "amount": "1 cup",
+      "notes": "such as bell peppers, carrots, and broccoli"
+    },
+    {
+      "name": "Pesto",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Saudia",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the mixed vegetables and cook until they start to soften, about 3-4 minutes.",
+    "Add the pesto, Saudia, and salt. Stir-fry for another 2-3 minutes.",
+    "Serve hot over rice or with naan bread.",
+    "Garnish with chopped cilantro, if desired.",
+    "Cook time may vary based on your desired level of doneness.",
+    "Adjust the amount of pesto to your taste, as it can be quite strong.",
+    "You can also add protein like chicken or tofu to make it a more substantial meal.",
+    "Stir-fry is a quick and versatile dish, so feel free to experiment with different vegetables and seasonings."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "stir-fry",
+    "pesto"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pesto-saudia-olive-stir-fry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:45:17.895Z"
+}
