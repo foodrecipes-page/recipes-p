@@ -14518,5 +14518,19 @@
     "cuisine": "thai",
     "totalTimeMin": 45,
     "shard": "p"
+  },
+  {
+    "slug": "peppery-gooey-mexican-ground-cinnamon-stir-fry--thai",
+    "title": "Thai Beef Stir Fry",
+    "tags": [
+      "thai",
+      "beef",
+      "stirfry",
+      "quick",
+      "easy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "p"
   }
 ]
