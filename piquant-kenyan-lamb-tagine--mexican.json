@@ -1,0 +1,113 @@
+{
+  "slug": "piquant-kenyan-lamb-tagine--mexican",
+  "title": "Spicy Kenyan Lamb Tagine Tacos",
+  "description": "A fusion of traditional African and Mexican flavors, this lamb tagine is served in a crispy taco shell with a side of fresh cilantro and lime.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 1/2 pounds, cut into 1 1/2-inch cubes",
+      "notes": ""
+    },
+    {
+      "name": "piquant",
+      "amount": "2 tablespoons, chopped",
+      "notes": ""
+    },
+    {
+      "name": "kenyan",
+      "amount": "2 tablespoons, chopped",
+      "notes": ""
+    },
+    {
+      "name": "tagine",
+      "amount": "2 cups, chopped",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10 corn tortillas",
+      "notes": ""
+    },
+    {
+      "name": "avocado or sour cream",
+      "amount": "for topping",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the skillet and set aside.",
+    "Add the piquant, kenyan, tagine, onion, and garlic to the skillet and cook until the vegetables are softened, about 5 minutes.",
+    "Add the cumin, coriander, cayenne pepper, salt, and black pepper to the skillet and cook for 1 minute.",
+    "Add the lamb back to the skillet and stir to combine with the spice mixture.",
+    "Reduce heat to low and simmer, covered, until the lamb is tender, about 20-25 minutes.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a few pieces of the lamb mixture onto a tortilla and topping with avocado or sour cream, cilantro, and any other desired toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tacos",
+    "african-mexican-fusion",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-kenyan-lamb-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:15:11.262Z"
+}
