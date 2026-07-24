@@ -1,0 +1,86 @@
+{
+  "slug": "pillowy-indulgent-american-macaroni-casserole--vegetarian",
+  "title": "Creamy Mac and Cheese Casserole",
+  "description": "A comforting and indulgent vegetarian casserole loaded with macaroni, cheese, and a creamy sauce.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "casserole",
+      "amount": "",
+      "notes": "for baking"
+    },
+    {
+      "name": "indulgent",
+      "amount": "1 cup grated cheddar cheese",
+      "notes": ""
+    },
+    {
+      "name": "pillowy",
+      "amount": "1/2 cup grated mozzarella cheese",
+      "notes": ""
+    },
+    {
+      "name": "american",
+      "amount": "1/4 cup all-purpose flour",
+      "notes": "for thickening"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "for sauce"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the macaroni according to package instructions until al dente. Drain and set aside.",
+    "In a saucepan, melt 2 tablespoons of butter over medium heat.",
+    "Whisk in the flour and cook for 1 minute, creating a roux.",
+    "Slowly add in the milk, whisking continuously until the sauce thickens.",
+    "Remove from heat and stir in the cheddar and mozzarella cheese until melted.",
+    "In a large mixing bowl, combine the cooked macaroni, cheese sauce, and a pinch of salt.",
+    "Transfer the mixture to a casserole dish and top with additional grated cheese.",
+    "Dot the top with the remaining 2 tablespoons of butter.",
+    "Bake in the preheated oven for 25-30 minutes or until the top is golden brown and the casserole is heated through.",
+    "Remove from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mac-and-cheese",
+    "casserole",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 65,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-indulgent-american-macaroni-casserole--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:41:41.096Z"
+}
