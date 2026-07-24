@@ -1,0 +1,91 @@
+{
+  "slug": "pulling-pan-seared-mexican-cheese-paella--thai",
+  "title": "Thai Cheese Paella",
+  "description": "A unique twist on traditional paella with a creamy Thai-inspired cheese sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "paella",
+      "amount": "1 cup",
+      "notes": "short grain rice"
+    },
+    {
+      "name": "mexican cheese",
+      "amount": "1 cup shredded",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "coconut or vegetable oil"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "saffron",
+      "amount": "1/2 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": "mild Thai style"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large paella pan or skillet over medium-high heat.",
+    "Add the garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the curry powder and sauté for 1 minute.",
+    "Add the vegetable broth and bring to a boil.",
+    "Add the paella and stir to coat with the broth.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes.",
+    "Stir in the shredded cheese until melted and creamy.",
+    "Season with soy sauce if desired.",
+    "Garnish with chopped scallions if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaipassion",
+    "cheesy",
+    "paellalove",
+    "veganoption",
+    "easydinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pulling-pan-seared-mexican-cheese-paella--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:41:12.982Z"
+}
