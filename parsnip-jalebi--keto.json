@@ -1,0 +1,63 @@
+{
+  "slug": "parsnip-jalebi--keto",
+  "title": "Keto Parsnip Fries",
+  "description": "A delicious low-carb twist on traditional fries, made with parsnips and perfect for a keto diet.",
+  "cuisine": "American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Parsnips",
+      "amount": "2 large",
+      "notes": "peeled"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 180°C (350°F)",
+    "Slice parsnips into long, thin strips",
+    "Pat dry parsnip strips with paper towels to remove excess moisture",
+    "Carefully add parsnip strips to the hot oil in batches",
+    "Fry for 3-4 minutes, or until golden brown and crispy",
+    "Remove from oil with a slotted spoon and drain on paper towels",
+    "Season with salt and black pepper to taste",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "low-carb",
+    "snack",
+    "fries"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/parsnip-jalebi--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:35:49.594Z"
+}
