@@ -14492,5 +14492,31 @@
     "cuisine": "indian",
     "totalTimeMin": 10,
     "shard": "p"
+  },
+  {
+    "slug": "plush-argentinian-beef-empanadas--vegetarian",
+    "title": "Argentinian Empanadas",
+    "tags": [
+      "argentinian",
+      "vegetarian",
+      "lunch",
+      "empanadas"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-silky-uruguayan-horseradish-gratin--thai",
+    "title": "Spicy Uruguayan Gratin",
+    "tags": [
+      "thai",
+      "spicy",
+      "gratin",
+      "meat"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
+    "shard": "p"
   }
 ]
