@@ -1,0 +1,76 @@
+{
+  "slug": "pillowy-russian-haricot-beans-papillote",
+  "title": "Papillote Style Haricot Beans with Pillowy Russian Flatbread",
+  "description": "A hearty, comforting dish featuring pillowy flatbread and tender, flavorful haricot beans. This recipe showcases the simplicity of French-inspired papillote cooking.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Haricot beans, drained and rinsed",
+      "amount": "1 cup",
+      "notes": "Canned or cooked from scratch"
+    },
+    {
+      "name": "Russian flatbread dough",
+      "amount": "1 cup",
+      "notes": "You can also use store-bought dough or substitute with a similar flatbread"
+    },
+    {
+      "name": "Pillowy dough",
+      "amount": "1 cup",
+      "notes": "Similar to Russian flatbread dough, store-bought or homemade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing flatbreads"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Optional: garlic, chopped fresh herbs",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Prepare flatbread dough according to package instructions or recipe.",
+    "3. Roll out each dough into thin circles, about 6-8 inches in diameter.",
+    "4. Brush flatbreads with olive oil and season with salt, pepper, and optional garlic or herbs.",
+    "5. In a separate pan, heat a tablespoon of olive oil over medium heat. Add haricot beans and cook until lightly browned, about 5 minutes.",
+    "6. Spoon cooked haricot beans onto one half of each flatbread circle.",
+    "7. Fold the other half of the flatbread over the beans to form a half-moon shape. Press edges to seal.",
+    "8. Place papillotes on a baking sheet lined with parchment paper, seam-side down.",
+    "9. Bake for 12-15 minutes, or until flatbreads are golden and crispy.",
+    "10. Serve hot, garnished with additional fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beans",
+    "flatbread",
+    "papillote",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-russian-haricot-beans-papillote",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:04:29.413Z"
+}
