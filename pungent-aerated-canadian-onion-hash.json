@@ -1,0 +1,75 @@
+{
+  "slug": "pungent-aerated-canadian-onion-hash",
+  "title": "Canadian Puffed Onion Hash",
+  "description": "A simple and flavorful breakfast dish made with puffed onions, crispy hash, and a hint of Canadian flavor.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pungent Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Aerated Hash",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Canadian Seasoning",
+      "amount": "1 tsp",
+      "notes": "Available at most grocery stores"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Egg",
+      "amount": "2 large",
+      "notes": "Beaten"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium heat.",
+    "Add sliced onions and cook until they start to caramelize, about 5 minutes.",
+    "Add Canadian seasoning and cook for an additional minute.",
+    "Add hash to the skillet and cook until crispy, about 3-4 minutes.",
+    "Make a well in the center of the hash and crack in the eggs.",
+    "Scramble the eggs and mix with the hash and onions.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "canadian",
+    "hash"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-aerated-canadian-onion-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:50:44.987Z"
+}
