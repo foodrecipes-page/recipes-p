@@ -1,0 +1,64 @@
+{
+  "slug": "purely-grilled-mediterranean-saskatoon-berry-skewers--chinese",
+  "title": "Saskatoon Berry Skewers with Honey Glaze",
+  "description": "Sweet and savory saskatoon berry skewers, a perfect mix of Chinese and Canadian flavors.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Saskatoon berries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Purely honey",
+      "amount": "2 tbsp",
+      "notes": "for glaze"
+    },
+    {
+      "name": "Mediterranean olive oil",
+      "amount": "2 tbsp",
+      "notes": "for skewers"
+    },
+    {
+      "name": "Berry skewers",
+      "amount": "10-12",
+      "notes": "wooden or metal"
+    },
+    {
+      "name": "Grilled chicken breast",
+      "amount": "1",
+      "notes": "for added protein"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "Thread saskatoon berries, chicken breast, and olive oil onto skewers.",
+    "Brush honey glaze on skewers.",
+    "Grill skewers for 10-12 minutes, turning frequently.",
+    "Let skewers cool for 2-3 minutes before serving.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "saskatoon-berries",
+    "grilled-chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-grilled-mediterranean-saskatoon-berry-skewers--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:19:21.720Z"
+}
