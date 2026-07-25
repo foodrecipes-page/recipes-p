@@ -1,0 +1,69 @@
+{
+  "slug": "purely-comforting-mexican-sweet-potatoes-fajitas",
+  "title": "Mexican Sweet Potato Fajitas",
+  "description": "A flavorful and comforting Mexican-inspired dish featuring sweet potatoes, bell peppers, onions, and your favorite toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sweet potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2 large"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Fajita seasoning",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Optional: avocado, sour cream, shredded cheese, cilantro, salsa",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet to medium-high heat.",
+    "Peel and slice the sweet potatoes into 1/2-inch thick rounds.",
+    "Add the olive oil to the skillet and swirl to coat.",
+    "Add the sliced sweet potatoes to the skillet and cook for 5 minutes, or until they start to brown.",
+    "Add the sliced bell peppers and onions to the skillet and cook for an additional 5 minutes, or until the vegetables are tender.",
+    "Sprinkle the fajita seasoning over the vegetables and stir to combine.",
+    "Cook for an additional 1-2 minutes, or until the flavors have melded together.",
+    "Serve the fajita mixture hot, topped with your favorite toppings, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "sweet-potatoes",
+    "vegetarian",
+    "gluten-free",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-comforting-mexican-sweet-potatoes-fajitas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:50:34.162Z"
+}
