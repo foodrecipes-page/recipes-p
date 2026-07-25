@@ -1,0 +1,90 @@
+{
+  "slug": "peppery-irish-dates-stir-fry--mexican",
+  "title": "Spicy Irish Beef Fajitas",
+  "description": "A twist on traditional Mexican fajitas, using Irish beef and a spicy kick. Serve with warm flour tortillas and your favorite toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish beef strips",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Peppery stir-fry oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Peppers (any color)",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Dates (chopped)",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Fajita seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (optional)",
+      "notes": ""
+    },
+    {
+      "name": "Warm flour tortillas",
+      "amount": "4-6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of peppery stir-fry oil in a large skillet over medium-high heat.",
+    "Add Irish beef strips and cook until browned, about 3-4 minutes. Remove from skillet and set aside.",
+    "Add remaining 1 tablespoon of peppery stir-fry oil to the skillet. Add peppers and onions and cook until tender, about 5 minutes.",
+    "Add fajita seasoning and cook for 1 minute.",
+    "Add cooked Irish beef strips back into the skillet and stir to combine.",
+    "Optional: Add chopped dates and stir to combine.",
+    "Cook for an additional 2 minutes.",
+    "Warm flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble fajitas by placing beef and pepper mixture onto tortillas and topping with chopped cilantro (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "mexican",
+    "fajitas",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-irish-dates-stir-fry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:02:16.863Z"
+}
