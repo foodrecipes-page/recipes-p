@@ -14748,5 +14748,18 @@
     "cuisine": "Caribbean",
     "totalTimeMin": 45,
     "shard": "p"
+  },
+  {
+    "slug": "peppery-italian-pepper-crumble--vegetarian",
+    "title": "Italian Crumble Peppers",
+    "tags": [
+      "peppers",
+      "italian",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 30,
+    "shard": "p"
   }
 ]
