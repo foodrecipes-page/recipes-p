@@ -1,0 +1,76 @@
+{
+  "slug": "parsnip-jalebi--italian",
+  "title": "Italian Parsnip Fritters",
+  "description": "Crispy fritters filled with roasted parsnip and served with a side of tangy aioli. A creative Italian twist on traditional potato fritters.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "parsnip",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Peel and dice the parsnip, then toss with 2 tablespoons of olive oil, salt, and pepper. Roast in the oven for 20-25 minutes, or until tender.",
+    "In a large bowl, combine the flour, parmesan cheese, and a pinch of salt and pepper.",
+    "In a separate bowl, whisk together the eggs.",
+    "Once the parsnip is done roasting, let it cool slightly, then mash in a bowl with a fork.",
+    "Add the mashed parsnip to the flour mixture and stir until just combined.",
+    "Add the eggs to the mixture and stir until a dough forms.",
+    "Using your hands, shape the dough into small patties, about 1 1/2 inches (3.8 cm) in diameter and 1/2 inch (1.3 cm) thick.",
+    "Heat about 1/2 inch (1.3 cm) of olive oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add a few of the fritters to the skillet (do not overcrowd) and cook for 3-4 minutes on each side, or until golden brown.",
+    "Drain the fritters on paper towels and serve hot with a side of aioli for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "snack",
+    "parsnip",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/parsnip-jalebi--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:11:21.957Z"
+}
