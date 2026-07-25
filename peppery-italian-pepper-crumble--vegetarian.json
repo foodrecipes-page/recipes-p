@@ -1,0 +1,61 @@
+{
+  "slug": "peppery-italian-pepper-crumble--vegetarian",
+  "title": "Italian Crumble Peppers",
+  "description": "A flavorful and crunchy vegetarian side dish that brings together the sweetness of peppers with the savory taste of Italian seasonings.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "peppers",
+      "amount": "2 large",
+      "notes": "any color"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "2 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "crumble",
+      "amount": "1/4 cup",
+      "notes": "parmesan cheese"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the peppers in half and remove the seeds.",
+    "Place the peppers on a baking sheet.",
+    "Drizzle with a little bit of olive oil and sprinkle with Italian seasoning, pepper, and crumble.",
+    "Bake for 20-25 minutes or until the peppers are tender and the topping is golden brown.",
+    "Serve hot as a side dish or add to salads or sandwiches."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppers",
+    "italian",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-italian-pepper-crumble--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:00:47.439Z"
+}
