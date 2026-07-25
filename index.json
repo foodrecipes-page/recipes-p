@@ -552,17 +552,15 @@
   },
   {
     "slug": "pan-seared-irish-pork-belly-skillet",
-    "title": "Pan Seared Irish Pork Belly Skillet",
+    "title": "Pan-Seared Irish Pork Belly",
     "tags": [
-      "brunch-ideas",
-      "gluten-free",
-      "irish-cuisine",
-      "one-pan",
-      "pork-belly",
-      "smoked-paprika"
+      "irish",
+      "pork",
+      "belly",
+      "pan-seared"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -14662,6 +14660,31 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 23,
+    "shard": "p"
+  },
+  {
+    "slug": "pillowy-turkish-burrata-dolma--mexican",
+    "title": "Mexican Dolma Stuffed Pillowy Bread",
+    "tags": [
+      "mexican",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
+    "shard": "p"
+  },
+  {
+    "slug": "penetrating-yunnan-peanuts-boil--keto",
+    "title": "Pan-Seared Peanuts and Yunnan Stir Fry",
+    "tags": [
+      "chinese",
+      "keto",
+      "stir-fry",
+      "peanuts"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 20,
     "shard": "p"
   }
 ]
