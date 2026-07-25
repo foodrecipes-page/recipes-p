@@ -1,0 +1,70 @@
+{
+  "slug": "peppery-fluffy-spanish-chickpea-polish-dish--japanese",
+  "title": "Japanese Chickpea Stir Fry",
+  "description": "A simple and flavorful Japanese-inspired stir-fry made with chickpeas and a variety of vegetables.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": null
+    },
+    {
+      "name": "peppery",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "fluffy",
+      "amount": "2 cups mixed vegetables (e.g. bell peppers, carrots, broccoli)",
+      "notes": null
+    },
+    {
+      "name": "spanish",
+      "amount": "1/4 cup soy sauce",
+      "notes": null
+    },
+    {
+      "name": "polish",
+      "amount": "2 tbsp sesame oil",
+      "notes": null
+    },
+    {
+      "name": "dish",
+      "amount": "1 tsp grated ginger",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the grated ginger and cook for 1 minute, until fragrant.",
+    "Add the mixed vegetables and cook until they start to soften, about 3-4 minutes.",
+    "Add the chickpeas, soy sauce, and black pepper. Stir to combine.",
+    "Cook for an additional 2-3 minutes, until the vegetables are tender-crisp.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "chickpeas",
+    "stir-fry",
+    "vegetarian",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-fluffy-spanish-chickpea-polish-dish--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:38:04.794Z"
+}
