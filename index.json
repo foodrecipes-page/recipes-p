@@ -14686,5 +14686,19 @@
     "cuisine": "Chinese",
     "totalTimeMin": 20,
     "shard": "p"
+  },
+  {
+    "slug": "peruvian-style-spicy-peruvian-nduja-anticuchos--vegan",
+    "title": "Spicy Peruvian Street Corn",
+    "tags": [
+      "vegan",
+      "peruvian",
+      "street-food",
+      "corn",
+      "grilled"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 22,
+    "shard": "p"
   }
 ]
