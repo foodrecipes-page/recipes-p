@@ -1,0 +1,101 @@
+{
+  "slug": "pungent-pan-seared-russian-beef-casserole--french",
+  "title": "Beef Bourguignon Casserole",
+  "description": "A hearty French beef casserole with tender beef and vegetables in a rich red wine sauce.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushroom",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 can (28 oz)",
+      "notes": "crushed"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "pearl onions",
+      "amount": "1 cup",
+      "notes": "pickled"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C).",
+    "Season the beef with salt and pepper.",
+    "In a large pan over medium-high heat, sear the beef until browned, about 5 minutes.",
+    "Remove the beef from the pan and set aside.",
+    "Add the chopped onion, sliced carrot, and chopped celery to the pan and cook until the vegetables are tender, about 5 minutes.",
+    "Add the sliced mushroom and cook until the mushroom is tender, about 3 minutes.",
+    "Add the crushed tomato, red wine, beef broth, thyme, and bay leaves to the pan and stir to combine.",
+    "Return the beef to the pan and bring the mixture to a boil.",
+    "Transfer the mixture to a 9x13 inch casserole dish.",
+    "Cover the dish with aluminum foil and bake for 2 1/2 hours.",
+    "Remove the foil and continue baking for an additional 30 minutes.",
+    "Serve the casserole hot, garnished with pearl onions and fresh thyme."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 160,
+  "totalTimeMin": 190,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "casserole",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-pan-seared-russian-beef-casserole--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:24:54.309Z"
+}
