@@ -14723,5 +14723,30 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "p"
+  },
+  {
+    "slug": "pungent-pan-seared-russian-beef-casserole--french",
+    "title": "Beef Bourguignon Casserole",
+    "tags": [
+      "beef",
+      "casserole",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 190,
+    "shard": "p"
+  },
+  {
+    "slug": "piquant-low-carb-jamaican-chicken-stew--gluten-free",
+    "title": "Jamaican Chicken Stew",
+    "tags": [
+      "jamaican",
+      "chicken",
+      "stew",
+      "gluten-free"
+    ],
+    "cuisine": "Caribbean",
+    "totalTimeMin": 45,
+    "shard": "p"
   }
 ]
