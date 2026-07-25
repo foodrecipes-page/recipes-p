@@ -14783,5 +14783,18 @@
     "cuisine": "italian",
     "totalTimeMin": 10,
     "shard": "p"
+  },
+  {
+    "slug": "pungent-silky-uruguayan-horseradish-gratin--chinese",
+    "title": "Silky Uruguayan Stir Fry",
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "uruguayan",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "p"
   }
 ]
