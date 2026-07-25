@@ -14807,5 +14807,18 @@
     "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "p"
+  },
+  {
+    "slug": "pillowy-light-kenyan-lamb-biryani--indian",
+    "title": "Kenyan Lamb Biryani",
+    "tags": [
+      "lamb",
+      "biryani",
+      "indian",
+      "rice"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 70,
+    "shard": "p"
   }
 ]
