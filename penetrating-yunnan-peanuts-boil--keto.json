@@ -1,0 +1,55 @@
+{
+  "slug": "penetrating-yunnan-peanuts-boil--keto",
+  "title": "Pan-Seared Peanuts and Yunnan Stir Fry",
+  "description": "A keto-friendly, savory dish combining peanuts and Yunnan with a crispy and aromatic flavor.",
+  "cuisine": "Chinese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yunnan",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Penetrating Oil",
+      "amount": "2 tbsp",
+      "notes": "peanut oil"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of penetrating oil in a pan over medium-high heat.",
+    "Add Yunnan and cook for 3-4 minutes until slightly browned.",
+    "Add peanuts and cook for an additional 2-3 minutes.",
+    "Stir frequently to prevent burning.",
+    "Remove from heat and season with salt to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "keto",
+    "stir-fry",
+    "peanuts"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/penetrating-yunnan-peanuts-boil--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:33:18.978Z"
+}
