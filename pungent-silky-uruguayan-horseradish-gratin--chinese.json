@@ -1,0 +1,67 @@
+{
+  "slug": "pungent-silky-uruguayan-horseradish-gratin--chinese",
+  "title": "Silky Uruguayan Stir Fry",
+  "description": "A unique blend of Uruguayan flavors in a traditional Chinese stir fry. Pungent and silky ingredients come together to create a memorable dish.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uruguayan cheese",
+      "amount": "1 cup, shredded",
+      "notes": "Use a mild Uruguayan cheese like Oveja Negra"
+    },
+    {
+      "name": "pungent leek",
+      "amount": "2 medium, sliced",
+      "notes": "Make sure to caramelize the leeks for added depth"
+    },
+    {
+      "name": "silky soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality soy sauce for the best flavor"
+    },
+    {
+      "name": "gratin potatoes",
+      "amount": "1 large, peeled and thinly sliced",
+      "notes": "Use leftover gratin potatoes for added convenience"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tsp",
+      "notes": "Use a neutral-tasting oil like canola or grapeseed"
+    }
+  ],
+  "instructions": [
+    "1. Heat the vegetable oil in a large wok or frying pan over medium-high heat.",
+    "2. Add the sliced leeks and cook until caramelized, about 5 minutes.",
+    "3. Add the grated Uruguayan cheese and cook until melted and bubbly.",
+    "4. Add the sliced gratin potatoes and stir to combine with the cheese and leeks.",
+    "5. Add the soy sauce and stir to combine.",
+    "6. Cook for an additional 2-3 minutes, until the potatoes are coated in the sauce.",
+    "7. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "uruguayan",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-silky-uruguayan-horseradish-gratin--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:10:49.731Z"
+}
