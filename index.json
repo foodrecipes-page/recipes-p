@@ -14640,5 +14640,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "p"
+  },
+  {
+    "slug": "parsnip-jalebi--italian",
+    "title": "Italian Parsnip Fritters",
+    "tags": [
+      "italian",
+      "snack",
+      "parsnip",
+      "fritters"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 32,
+    "shard": "p"
   }
 ]
