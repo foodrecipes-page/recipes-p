@@ -11525,17 +11525,16 @@
   },
   {
     "slug": "purely-comforting-mexican-sweet-potatoes-fajitas",
-    "title": "Purely Comforting Mexican Sweet Potatoes Fajitas",
+    "title": "Mexican Sweet Potato Fajitas",
     "tags": [
-      "comfort-food",
-      "donabe-recipes",
-      "fajitas",
-      "mexican-food",
+      "mexican",
       "sweet-potatoes",
-      "vegetarian-recipes"
+      "vegetarian",
+      "gluten-free",
+      "lunch"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
     "shard": "p"
   },
   {
@@ -14794,6 +14793,18 @@
       "stir-fry"
     ],
     "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "plump-indian-samphire-naan--italian",
+    "title": "Pan-Seared Samphire with Indian Naan",
+    "tags": [
+      "italian",
+      "italian-inspired",
+      "samphire"
+    ],
+    "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "p"
   }
