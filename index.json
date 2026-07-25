@@ -2360,16 +2360,14 @@
   },
   {
     "slug": "peppery-crumbly-australian-horseradish-crumble",
-    "title": "Peppery Crumbly Australian Horseradish Crumble",
+    "title": "Peppery Crumble Chicken",
     "tags": [
-      "peppery",
-      "crumbly",
       "australian",
-      "horseradish",
-      "tadka"
+      "chicken",
+      "crumble"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 30,
+    "cuisine": "australian",
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
@@ -14760,6 +14758,18 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 30,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-turkish-beef-pita-based-dishes--vegan",
+    "title": "Turkish Stuffed Pita",
+    "tags": [
+      "turkish",
+      "vegan",
+      "stuffed-pita"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 22,
     "shard": "p"
   }
 ]
