@@ -1,0 +1,80 @@
+{
+  "slug": "pillowy-light-kenyan-lamb-biryani--indian",
+  "title": "Kenyan Lamb Biryani",
+  "description": "A flavorful Indian-inspired biryani dish made with Kenyan lamb, featuring a delicate balance of spices and aromatic basmati rice.",
+  "cuisine": "indian",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kenyan lamb",
+      "amount": "500g"
+    },
+    {
+      "name": "biryani rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pillowy",
+      "amount": "2"
+    },
+    {
+      "name": "light oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add lamb and cook until browned, about 5 minutes.",
+    "Add garam masala, cumin, and coriander; stir for 1 minute.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 30 minutes.",
+    "Prepare biryani rice according to package instructions.",
+    "Layer cooked lamb and rice in a bowl.",
+    "Garnish with a pillow of rice and serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "biryani",
+    "indian",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-light-kenyan-lamb-biryani--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:21:09.634Z"
+}
