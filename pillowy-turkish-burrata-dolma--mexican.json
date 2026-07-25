@@ -1,0 +1,70 @@
+{
+  "slug": "pillowy-turkish-burrata-dolma--mexican",
+  "title": "Mexican Dolma Stuffed Pillowy Bread",
+  "description": "A creative Mexican twist on traditional dolma, featuring pillowy bread as the vessel for flavorful ingredients.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pillowy bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "turkish dolma mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "burrata cheese",
+      "amount": "1 ball"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the pillowy bread into 1-inch cubes.",
+    "Scoop out the insides of each bread cube to create a shell.",
+    "Fill each bread shell with dolma mix, followed by a slice of burrata cheese.",
+    "Drizzle with lime juice and sprinkle with chopped cilantro.",
+    "Season with salt and pepper to taste.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pillowy-turkish-burrata-dolma--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:19:31.883Z"
+}
