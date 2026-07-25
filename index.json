@@ -9933,16 +9933,14 @@
   },
   {
     "slug": "pungent-dense-argentinian-prosciutto-empanadas",
-    "title": "Pungent, Dense Argentinian Prosciutto Empanadas",
+    "title": "Argentinian Prosciutto Empanadas",
     "tags": [
       "argentinian",
-      "deep-fried",
       "empanadas",
-      "high-calorie",
-      "weeknight"
+      "meat"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 40,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 45,
     "shard": "p"
   },
   {
@@ -14652,6 +14650,18 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 32,
+    "shard": "p"
+  },
+  {
+    "slug": "parsnip-jalebi--french",
+    "title": "Pan-Seared Parsnip Fritters with French Twist",
+    "tags": [
+      "french",
+      "parsnip",
+      "fritters"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 23,
     "shard": "p"
   }
 ]
