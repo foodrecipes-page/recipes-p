@@ -14626,5 +14626,19 @@
     "cuisine": "german",
     "totalTimeMin": 35,
     "shard": "p"
+  },
+  {
+    "slug": "peppery-fluffy-spanish-chickpea-polish-dish--japanese",
+    "title": "Japanese Chickpea Stir Fry",
+    "tags": [
+      "japanese",
+      "chickpeas",
+      "stir-fry",
+      "vegetarian",
+      "quick-and-easy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "p"
   }
 ]
