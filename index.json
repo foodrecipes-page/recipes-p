@@ -2890,17 +2890,14 @@
   },
   {
     "slug": "peppery-flaky-norwegian-tomato-toast",
-    "title": "Peppery Flaky Norwegian Tomato Toast",
+    "title": "Norwegian Smørrebrød",
     "tags": [
-      "norwegian",
-      "post-workout",
-      "nut-free",
-      "vegetarian",
-      "quick",
-      "flaky",
-      "tomato"
+      "scandinavian",
+      "fish",
+      "breakfast",
+      "lunch"
     ],
-    "cuisine": "Norwegian",
+    "cuisine": "scandinavian",
     "totalTimeMin": 15,
     "shard": "p"
   },
@@ -14699,6 +14696,32 @@
     ],
     "cuisine": "peruvian",
     "totalTimeMin": 22,
+    "shard": "p"
+  },
+  {
+    "slug": "pomegranate-glazed-middle-eastern-turkey-kebabs--vegetarian",
+    "title": "Middle Eastern Pomegranate Salad",
+    "tags": [
+      "healthy",
+      "salad",
+      "vegetarian",
+      "middle-eastern"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 15,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-irish-dates-stir-fry--mexican",
+    "title": "Spicy Irish Beef Fajitas",
+    "tags": [
+      "beef",
+      "mexican",
+      "fajitas",
+      "spicy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "p"
   }
 ]
