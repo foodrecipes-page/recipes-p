@@ -1,0 +1,61 @@
+{
+  "slug": "pungent-turkish-beef-pita-based-dishes--vegan",
+  "title": "Turkish Stuffed Pita",
+  "description": "A flavorful and easy vegan dish packed with spices and herbs, served inside a warm pita.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pita",
+      "amount": "4",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "turkish",
+      "amount": "1 tsp",
+      "notes": "dried oregano"
+    },
+    {
+      "name": "pungent",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "based",
+      "amount": "1 cup",
+      "notes": "cooked lentils"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Cut the pita in half lengthwise and hollow out the inside.",
+    "In a pan, sauté the garlic and oregano over medium heat for 1 minute.",
+    "Add the cooked lentils and stir to combine with the garlic and oregano.",
+    "Spoon the lentil mixture into the pita bread.",
+    "Bake in the preheated oven for 10-12 minutes or until the pita is crispy.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "vegan",
+    "stuffed-pita"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-turkish-beef-pita-based-dishes--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:08:41.156Z"
+}
