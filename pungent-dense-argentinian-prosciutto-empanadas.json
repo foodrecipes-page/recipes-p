@@ -1,0 +1,64 @@
+{
+  "slug": "pungent-dense-argentinian-prosciutto-empanadas",
+  "title": "Argentinian Prosciutto Empanadas",
+  "description": "Crispy empanadas filled with a savory blend of prosciutto, pungent onions, and dense beef.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Prosciutto",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Pungent Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Dense Ground Beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Argentinian Empanada Dough",
+      "amount": "1 package",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the empanada dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a pan, cook the chopped onion until softened.",
+    "Add the ground beef to the pan and cook until browned, breaking it up into small pieces.",
+    "Add the prosciutto to the pan and stir to combine.",
+    "Place a spoonful of the beef mixture onto one half of each dough circle.",
+    "Fold the other half of the dough over the filling and press the edges together to seal.",
+    "Brush the tops of the empanadas with a little water and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "meat"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-dense-argentinian-prosciutto-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:27:45.117Z"
+}
