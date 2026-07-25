@@ -1,0 +1,79 @@
+{
+  "slug": "pomegranate-glazed-middle-eastern-turkey-kebabs--vegetarian",
+  "title": "Middle Eastern Pomegranate Salad",
+  "description": "A refreshing and flavorful salad made with juicy pomegranate seeds, crunchy vegetables, and a zesty dressing.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pomegranate seeds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups",
+      "notes": "arugula, spinach, lettuce"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "crumbly feta cheese",
+      "amount": "1/2 cup",
+      "notes": "optional, vegetarian alternative"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the mixed greens, red onion, and crumbled feta cheese (if using).",
+    "In a small bowl, whisk together the pomegranate molasses, olive oil, lemon juice, salt, and black pepper.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Just before serving, sprinkle the pomegranate seeds over the salad and toss again to distribute evenly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "salad",
+    "vegetarian",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pomegranate-glazed-middle-eastern-turkey-kebabs--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:24:18.895Z"
+}
