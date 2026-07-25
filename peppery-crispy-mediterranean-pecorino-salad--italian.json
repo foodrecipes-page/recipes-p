@@ -1,0 +1,63 @@
+{
+  "slug": "peppery-crispy-mediterranean-pecorino-salad--italian",
+  "title": "Italian Pecorino Salad",
+  "description": "A simple and refreshing Italian salad featuring crisp greens, tangy pecorino, and a hint of peppery spice.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "crisp greens",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "pecorino cheese",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "peppery arugula",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "mediterranean olives",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "salad",
+      "amount": "1 cup",
+      "notes": "any type"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine crisp greens, arugula, and olives.",
+    "2. Crumble pecorino cheese over the top.",
+    "3. Toss to combine and adjust seasoning as needed.",
+    "4. Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "salad",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crispy-mediterranean-pecorino-salad--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:19:45.314Z"
+}
