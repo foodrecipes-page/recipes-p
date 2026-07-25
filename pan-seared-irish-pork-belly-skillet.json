@@ -1,0 +1,65 @@
+{
+  "slug": "pan-seared-irish-pork-belly-skillet",
+  "title": "Pan-Seared Irish Pork Belly",
+  "description": "A delicious and crispy pan-seared pork belly dish, inspired by Irish cuisine.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork belly with salt and black pepper.",
+    "Heat the olive oil in a skillet over medium-high heat.",
+    "Sear the pork belly for 2-3 minutes on each side, or until browned.",
+    "Transfer the skillet to the preheated oven and cook for 20-25 minutes, or until the internal temperature reaches 160°F (71°C).",
+    "Remove the skillet from the oven and let rest for 5 minutes.",
+    "Slice the pork belly into thick slices.",
+    "Serve with garlic and thyme, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "pork",
+    "belly",
+    "pan-seared"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-irish-pork-belly-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:06:51.419Z"
+}
