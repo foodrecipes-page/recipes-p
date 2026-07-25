@@ -14771,5 +14771,17 @@
     "cuisine": "Turkish",
     "totalTimeMin": 22,
     "shard": "p"
+  },
+  {
+    "slug": "peppery-crispy-mediterranean-pecorino-salad--italian",
+    "title": "Italian Pecorino Salad",
+    "tags": [
+      "italian",
+      "salad",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 10,
+    "shard": "p"
   }
 ]
