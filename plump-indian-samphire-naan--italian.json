@@ -1,0 +1,77 @@
+{
+  "slug": "plump-indian-samphire-naan--italian",
+  "title": "Pan-Seared Samphire with Indian Naan",
+  "description": "A unique Italian-inspired dish featuring pan-seared samphire and crispy indian naan. This recipe is perfect for a quick dinner.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plump",
+      "amount": "1 cup"
+    },
+    {
+      "name": "samphire",
+      "amount": "2 cups"
+    },
+    {
+      "name": "naan",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the naan into bite-sized pieces and bake in the preheated oven for 5-7 minutes, or until crispy.",
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the samphire to the skillet and cook for 3-4 minutes, or until tender.",
+    "Add the plump to the skillet and cook for an additional 2-3 minutes, or until heated through.",
+    "Stir in the garlic, lemon juice, salt, and pepper.",
+    "Serve the samphire and plump over the crispy naan pieces.",
+    "Enjoy immediately!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "italian-inspired",
+    "samphire"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/plump-indian-samphire-naan--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:02:17.481Z"
+}
