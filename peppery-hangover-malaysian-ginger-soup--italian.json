@@ -1,0 +1,74 @@
+{
+  "slug": "peppery-hangover-malaysian-ginger-soup--italian",
+  "title": "Malaysian-Italian Chicken Soup",
+  "description": "A comforting and flavorful soup that combines the spices of Malaysia with the heartiness of Italian cooking.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "malaysian chili paste",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "peppery arugula",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "italian chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "soup vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots, celery, and onions"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large pot over medium heat.",
+    "Add the grated ginger and cook for 1-2 minutes, until fragrant.",
+    "Add the chicken and cook until browned on all sides, about 5-6 minutes.",
+    "Add the Malaysian chili paste and cook for another minute, until fragrant.",
+    "Add the chicken broth, soup vegetables, and chicken breast to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-12 minutes, or until the chicken is cooked through.",
+    "Stir in the chopped arugula and cook for another minute, until wilted.",
+    "Season the soup with salt and pepper to taste.",
+    "Serve hot, garnished with additional arugula if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "soup",
+    "chicken",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-hangover-malaysian-ginger-soup--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:56:50.803Z"
+}
