@@ -14854,5 +14854,18 @@
     "cuisine": "german",
     "totalTimeMin": 40,
     "shard": "p"
+  },
+  {
+    "slug": "piquant-german-potatoes-bake--vegan",
+    "title": "German Potato Bake",
+    "tags": [
+      "vegan",
+      "german",
+      "potatoes",
+      "bake"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 70,
+    "shard": "p"
   }
 ]
