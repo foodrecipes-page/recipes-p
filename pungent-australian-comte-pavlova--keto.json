@@ -1,0 +1,78 @@
+{
+  "slug": "pungent-australian-comte-pavlova--keto",
+  "title": "Australian Keto Pavlova",
+  "description": "A keto version of the classic Australian dessert, featuring a crispy meringue exterior and a creamy, sweet filling.",
+  "cuisine": "australian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Australian meringue mix",
+      "amount": "1 cup",
+      "notes": "make sure it's sugar-free"
+    },
+    {
+      "name": "Comte cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "4",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Pavlova crumbs",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°F (90°C).",
+    "Line a baking sheet with parchment paper.",
+    "Sift the meringue mix into a bowl and add the egg yolks.",
+    "Mix well until stiff peaks form.",
+    "Spoon the mixture onto the prepared baking sheet.",
+    "Bake for 1 hour and 15 minutes, or until crispy.",
+    "Remove from the oven and let cool completely.",
+    "In a separate bowl, whip the heavy cream until stiff peaks form.",
+    "Add the softened Comte cheese and mix until combined.",
+    "Add the lemon juice and mix until stiff peaks form.",
+    "To assemble, place the cooled meringue on a serving plate.",
+    "Top with the whipped cream mixture and sprinkle with pavlova crumbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 75,
+  "totalTimeMin": 95,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "dessert",
+    "keto",
+    "pavlova",
+    "meringue"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 5,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-australian-comte-pavlova--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:41:38.029Z"
+}
