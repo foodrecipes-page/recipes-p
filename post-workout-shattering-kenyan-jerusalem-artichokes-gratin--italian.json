@@ -1,0 +1,76 @@
+{
+  "slug": "post-workout-shattering-kenyan-jerusalem-artichokes-gratin--italian",
+  "title": "Artichoke and Jerusalem Potato Gratin",
+  "description": "A creamy, cheesy Italian-inspired side dish featuring artichokes and Jerusalem potatoes, perfect for a weeknight dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jerusalem potatoes",
+      "amount": "3-4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "Gratin cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large saucepan, combine sliced potatoes and enough cold water to cover. Bring to a boil over high heat, then reduce heat to medium-low and simmer for 5-7 minutes, or until slightly tender. Drain and set aside.",
+    "In a separate saucepan, melt butter over medium heat. Add artichoke hearts and cook, stirring occasionally, for 3-4 minutes, or until lightly browned.",
+    "In a greased 9x13-inch baking dish, create a layer of potatoes. Top with a layer of artichoke mixture, followed by a sprinkle of grated cheese. Repeat this process until all ingredients are used, ending with a layer of cheese on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes. Remove foil and continue baking for an additional 10-15 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Remove from oven and sprinkle with chopped parsley, if desired. Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "sides",
+    "gratin"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/post-workout-shattering-kenyan-jerusalem-artichokes-gratin--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:54:53.741Z"
+}
