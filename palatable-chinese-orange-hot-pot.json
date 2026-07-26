@@ -1,0 +1,68 @@
+{
+  "slug": "palatable-chinese-orange-hot-pot",
+  "title": "Hot Pot Delight",
+  "description": "A delicious and easy-to-make Chinese-inspired hot pot recipe. Simply gather your ingredients and let everyone create their own dipping sauces.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hot Pot",
+      "amount": "1",
+      "notes": "You can also use a large wok or a large saucepan"
+    },
+    {
+      "name": "Palatable Broth",
+      "amount": "4 cups",
+      "notes": "You can use chicken or beef broth"
+    },
+    {
+      "name": "Chopped Orange",
+      "amount": "1",
+      "notes": "Add sliced oranges at the end of cooking"
+    },
+    {
+      "name": "Palatable Pot Stickers",
+      "amount": "4",
+      "notes": "You can also use store-bought potstickers"
+    },
+    {
+      "name": "Sliced Potatoes",
+      "amount": "1",
+      "notes": "Slice potatoes thinly for easy cooking"
+    },
+    {
+      "name": "Sliced Palatable Beef",
+      "amount": "1 pound",
+      "notes": "Slice beef thinly for easy cooking"
+    }
+  ],
+  "instructions": [
+    "1. Fill a large pot or a hot pot with the palatable broth and bring to a boil",
+    "2. Reduce the heat to a simmer and add sliced potatoes to cook for 5 minutes",
+    "3. Add sliced beef to the pot and cook for an additional 5 minutes",
+    "4. Add chopped orange slices to the pot and cook for 1 minute",
+    "5. Serve the hot pot with palatable pot stickers and let everyone create their own dipping sauces"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hot-pot",
+    "chinese",
+    "easy-meal",
+    "dinner-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/palatable-chinese-orange-hot-pot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:06:03.974Z"
+}
