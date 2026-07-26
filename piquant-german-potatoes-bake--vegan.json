@@ -1,0 +1,55 @@
+{
+  "slug": "piquant-german-potatoes-bake--vegan",
+  "title": "German Potato Bake",
+  "description": "A rich and comforting vegan potato bake with a German twist. Perfect for a chilly evening.",
+  "cuisine": "German",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large"
+    },
+    {
+      "name": "piquant sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bake mix",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel and slice the potatoes into 1/4 inch thick rounds.",
+    "In a large bowl, combine the sliced potatoes and piquant sauce. Toss to coat.",
+    "Transfer the potato mixture to a 9x13 inch baking dish.",
+    "In a separate bowl, mix the bake mix with a splash of non-dairy milk. Pour the mixture evenly over the potatoes.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the potatoes are tender and the top is golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "german",
+    "potatoes",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-german-potatoes-bake--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T07:39:42.752Z"
+}
