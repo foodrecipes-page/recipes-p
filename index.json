@@ -14926,5 +14926,19 @@
     "cuisine": "Croatian",
     "totalTimeMin": 40,
     "shard": "p"
+  },
+  {
+    "slug": "paleo-friendly-pan-seared-tunisian-lamb-tagine--keto",
+    "title": "Pan-Seared Lamb Tagine",
+    "tags": [
+      "lamb",
+      "tunisian",
+      "keto",
+      "paleo",
+      "pan-seared"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 45,
+    "shard": "p"
   }
 ]
