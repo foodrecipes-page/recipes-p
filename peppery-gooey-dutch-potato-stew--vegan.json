@@ -1,0 +1,62 @@
+{
+  "slug": "peppery-gooey-dutch-potato-stew--vegan",
+  "title": "Vegan Dutch Stew",
+  "description": "A hearty and comforting vegan stew made with tender potatoes and a rich, peppery broth.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "peppery",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "vegan broth",
+      "amount": "4 cups",
+      "notes": "make sure it's vegan"
+    }
+  ],
+  "instructions": [
+    "Heat the stew over medium heat in a large pot.",
+    "Add the vegan broth and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Add diced potatoes and cook for an additional 15-20 minutes, or until they're tender.",
+    "Stir in the peppery and season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Let the stew rest for 5 minutes before serving.",
+    "Enjoy your delicious vegan Dutch stew!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "stew",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-gooey-dutch-potato-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:53:50.542Z"
+}
