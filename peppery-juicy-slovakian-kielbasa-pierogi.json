@@ -1,0 +1,82 @@
+{
+  "slug": "peppery-juicy-slovakian-kielbasa-pierogi",
+  "title": "Slovakian Kielbasa Pierogi",
+  "description": "A hearty and comforting Slovakian-inspired dish featuring homemade pierogi filled with kielbasa and served in a savory broth.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kielbasa",
+      "amount": "1 pound"
+    },
+    {
+      "name": "pierogi dough",
+      "amount": "homemade or 1 package store-bought",
+      "notes": "see below for homemade dough recipe"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "slovakian sausage seasoning",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "To make homemade pierogi dough, combine 2 cups all-purpose flour, 1/4 cup warm water, 1/4 cup milk, 1 egg, and 1 tablespoon vegetable oil in a bowl. Knead for 5 minutes and let rest for 30 minutes.",
+    "Divide dough into 4 equal pieces and roll out each piece into a thin circle.",
+    "Place a tablespoon of kielbasa mixture in the center of each dough circle.",
+    "Fold dough over filling and press edges together to seal.",
+    "In a large pot, combine 2 cups chicken broth, 1 cup water, and 1 tablespoon Slovakian sausage seasoning.",
+    "Bring to a boil, then reduce heat and simmer for 10 minutes.",
+    "Add pierogi to pot and cook for 5-7 minutes, or until they float to the surface.",
+    "Serve hot with sour cream and chopped parsley, if desired.",
+    "To make kielbasa mixture, cook 1 pound kielbasa in a skillet over medium-high heat until browned, breaking into small pieces as it cooks.",
+    "Add 1 medium chopped onion and cook until softened.",
+    "Stir in 1 teaspoon caraway seeds and 1 tablespoon Slovakian sausage seasoning."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "kielbasa",
+    "pierogi",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-juicy-slovakian-kielbasa-pierogi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:12:14.196Z"
+}
