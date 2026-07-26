@@ -1,0 +1,63 @@
+{
+  "slug": "peppery-velvety-norwegian-cod-salad--chinese",
+  "title": "Pan-Seared Cod with Salad",
+  "description": "A simple yet flavorful Chinese-inspired dish featuring pan-seared cod served with a refreshing salad.",
+  "cuisine": "chinese",
+  "diet": [
+    "fish",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "norwegian cod",
+      "amount": "4 fillets",
+      "notes": "Fresh and of good quality"
+    },
+    {
+      "name": "peppery",
+      "amount": "1 tsp",
+      "notes": "Ground black pepper"
+    },
+    {
+      "name": "velvety",
+      "amount": "2 tbsp",
+      "notes": "Vegetable oil"
+    },
+    {
+      "name": "salad",
+      "amount": "4 cups",
+      "notes": "Mixed greens with your choice of vegetables"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or wok over medium-high heat.",
+    "Season the cod fillets with ground black pepper.",
+    "Add vegetable oil to the skillet and swirl to coat.",
+    "Add the cod fillets to the skillet and sear for 3-4 minutes per side.",
+    "Remove the cod from the skillet and set aside.",
+    "In the same skillet, add your choice of vegetables from the salad and stir-fry until tender.",
+    "Return the cod to the skillet and serve with the salad.",
+    "Garnish with additional vegetables or herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "fish",
+    "quick-cooking"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-velvety-norwegian-cod-salad--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:13:23.561Z"
+}
