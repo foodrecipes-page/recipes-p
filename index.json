@@ -14878,5 +14878,30 @@
     "cuisine": "australian",
     "totalTimeMin": 95,
     "shard": "p"
+  },
+  {
+    "slug": "piquant-middle-eastern-shrimp-pilaf--japanese",
+    "title": "Japanese Shrimp Pilaf",
+    "tags": [
+      "japanese",
+      "shrimp",
+      "pilaf",
+      "easy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-velvety-norwegian-cod-salad--chinese",
+    "title": "Pan-Seared Cod with Salad",
+    "tags": [
+      "chinese",
+      "fish",
+      "quick-cooking"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "p"
   }
 ]
