@@ -1,7 +1,7 @@
 {
   "slug": "pure-creamy-korean-vegetable-bibimbap--gluten-free",
-  "title": "Gluten-Free Korean Bibimbap Bowl",
-  "description": "A gluten-free twist on the classic Korean dish, topped with an assortment of vegetables and a fried egg.",
+  "title": "Korean-Style Bibimbap",
+  "description": "A flavorful and nutritious Korean rice bowl dish, perfect for a gluten-free meal. This version is a simplified take on the classic recipe, with a focus on fresh vegetables and a fried egg.",
   "cuisine": "Korean",
   "diet": [
     "gluten-free"
@@ -9,79 +9,63 @@
   "meal": "lunch",
   "ingredients": [
     {
-      "name": "Vegetable oil",
+      "name": "Korean rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "assorted vegetables (bean sprouts, carrots, zucchini, bell peppers)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "bibimbap sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "frying oil",
       "amount": "2 tablespoons"
     },
     {
-      "name": "Pure Korean chili flakes (gochugaru)",
-      "amount": "1 teaspoon"
+      "name": "large egg",
+      "amount": "1"
     },
     {
-      "name": "Gluten-free soy sauce",
-      "amount": "2 tablespoons"
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
     },
     {
-      "name": "Bibimbap rice",
-      "amount": "1 cup"
-    },
-    {
-      "name": "Fried egg",
-      "amount": "1",
-      "notes": "fried in vegetable oil"
-    },
-    {
-      "name": "Sliced zucchini",
-      "amount": "1 cup"
-    },
-    {
-      "name": "Sliced carrots",
-      "amount": "1 cup"
-    },
-    {
-      "name": "Sliced bean sprouts",
-      "amount": "1 cup"
-    },
-    {
-      "name": "Sliced cucumber",
-      "amount": "1 cup"
-    },
-    {
-      "name": "Korean chili paste (gochujang)",
-      "amount": "2 tablespoons"
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
     }
   ],
   "instructions": [
-    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
-    "Add the sliced vegetables and cook for 3-4 minutes, or until they are tender.",
-    "In a separate pan, heat the remaining 1 tablespoon of vegetable oil over medium heat.",
-    "Add the fried egg and cook for 2-3 minutes, or until the whites are set and the yolks are cooked to your desired doneness.",
-    "In a large bowl, combine the cooked vegetables, fried egg, and a scoop of bibimbap rice.",
-    "Drizzle the gluten-free soy sauce and Korean chili flakes over the top of the bowl.",
-    "Serve immediately and garnish with sliced green onions and a sprinkle of toasted sesame seeds.",
-    "In a small bowl, mix together the Korean chili paste and a splash of water to create a spicy sauce.",
-    "Serve the spicy sauce on the side for added flavor.",
-    "To assemble the bibimbap bowl, place a scoop of rice in the bottom of a bowl, followed by a layer of vegetables, a fried egg, and a drizzle of the spicy sauce.",
-    "Garnish with toasted sesame seeds and sliced green onions."
+    "Cook the Korean rice according to package instructions.",
+    "Prepare the assorted vegetables by washing and cutting them into bite-sized pieces.",
+    "Heat the frying oil in a pan over medium-high heat.",
+    "Fry the egg in the pan and set aside.",
+    "In the same pan, add the vegetable oil and sauté the vegetables until they are tender.",
+    "Add the bibimbap sauce to the pan and stir to combine with the vegetables.",
+    "To assemble the dish, place a scoop of cooked rice into a bowl, followed by a spoonful of the vegetable mixture.",
+    "Top the dish with the fried egg and toasted sesame seeds.",
+    "Serve immediately and enjoy!"
   ],
   "prepTimeMin": 15,
-  "cookTimeMin": 10,
-  "totalTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
   "servings": 1,
   "difficulty": "medium",
   "tags": [
-    "korean",
     "bibimbap",
-    "gluten-free",
-    "vegetarian"
+    "korean",
+    "gluten-free"
   ],
   "nutrition": {
-    "calories": 420,
-    "protein": 20,
+    "calories": 450,
+    "protein": 18,
     "carbs": 60,
-    "fat": 15
+    "fat": 20
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/pure-creamy-korean-vegetable-bibimbap--gluten-free",
   "providerUsed": "groq",
-  "createdAt": "2026-07-18T17:48:56.529Z"
+  "createdAt": "2026-07-21T08:56:46.920Z"
 }
