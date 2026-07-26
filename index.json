@@ -3738,19 +3738,15 @@
   },
   {
     "slug": "peppery-juicy-slovakian-kielbasa-pierogi",
-    "title": "Peppery Juicy Slovakian Kielbasa Pierogi",
+    "title": "Slovakian Kielbasa Pierogi",
     "tags": [
-      "low-carb",
-      "gluten-free",
       "slovakian",
-      "kiebasa",
+      "kielbasa",
       "pierogi",
-      "vanilla-custard",
-      "date-night",
-      "bacon"
+      "homemade"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 55,
     "shard": "p"
   },
   {
@@ -14819,6 +14815,32 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 70,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-earthy-tunisian-lamb-tagine--vegan",
+    "title": "Tunisian Stew",
+    "tags": [
+      "vegan",
+      "north-african",
+      "stew",
+      "winter-recipe"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-hangover-malaysian-ginger-soup--italian",
+    "title": "Malaysian-Italian Chicken Soup",
+    "tags": [
+      "italian",
+      "soup",
+      "chicken",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
     "shard": "p"
   }
 ]
