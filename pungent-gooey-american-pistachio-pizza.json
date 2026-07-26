@@ -1,0 +1,80 @@
+{
+  "slug": "pungent-gooey-american-pistachio-pizza",
+  "title": "Pistachio Stuffed American Pizza",
+  "description": "A twist on the classic American pizza with a pistachio-stuffed crust, gooey cheese, and a pungent flavor.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pizza dough",
+      "amount": "1 lb",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Pistachio paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "American cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "Gooey mozzarella cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "Pungent garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Roll out the pizza dough to a thickness of 1/4 inch.",
+    "Spread the pistachio paste evenly over the dough, leaving a 1/2 inch border.",
+    "Sprinkle the shredded American cheese and gooey mozzarella cheese over the pistachio paste.",
+    "Mince the pungent garlic and sprinkle it over the cheese.",
+    "Drizzle the tomato sauce over the garlic.",
+    "Sprinkle the chopped fresh basil leaves over the sauce.",
+    "Roll the dough into a tight log and place it on a baking sheet.",
+    "Bake the pizza for 20-25 minutes, or until the crust is golden brown.",
+    "Remove the pizza from the oven and let it cool for 5 minutes.",
+    "Slice the pizza into 8 equal pieces and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pistachio",
+    "american",
+    "pizza"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-gooey-american-pistachio-pizza",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:35:21.477Z"
+}
