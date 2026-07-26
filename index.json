@@ -77,17 +77,15 @@
   },
   {
     "slug": "palatable-chinese-orange-hot-pot",
-    "title": "Palatable Chinese Orange Hot Pot",
+    "title": "Hot Pot Delight",
     "tags": [
-      "chinese-food",
-      "easy-to-make",
-      "kid-friendly",
-      "low-fat",
-      "one-pot",
-      "weeknight"
+      "hot-pot",
+      "chinese",
+      "easy-meal",
+      "dinner-recipe"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
