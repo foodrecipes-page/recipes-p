@@ -1,0 +1,68 @@
+{
+  "slug": "pungent-earthy-tunisian-lamb-tagine--vegan",
+  "title": "Tunisian Stew",
+  "description": "A hearty, earthy stew inspired by the flavors of Tunisia, made vegan and perfect for a cold winter's night.",
+  "cuisine": "North African",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pungent garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Earthy mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tagine",
+      "amount": "1",
+      "notes": "traditionally made from clay"
+    },
+    {
+      "name": "Lamb substitute (seitan)",
+      "amount": "1 cup",
+      "notes": "cut into bite-sized pieces"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the tagine over medium heat.",
+    "Add the garlic and cook until fragrant.",
+    "Add the mushrooms and cook until they release their liquid.",
+    "Add the seitan and cook until browned.",
+    "Add the Tunisian spice blend and stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and serve over couscous."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "north-african",
+    "stew",
+    "winter-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-earthy-tunisian-lamb-tagine--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:54:10.218Z"
+}
