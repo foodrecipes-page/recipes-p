@@ -14864,5 +14864,19 @@
     "cuisine": "German",
     "totalTimeMin": 70,
     "shard": "p"
+  },
+  {
+    "slug": "pungent-australian-comte-pavlova--keto",
+    "title": "Australian Keto Pavlova",
+    "tags": [
+      "australian",
+      "dessert",
+      "keto",
+      "pavlova",
+      "meringue"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 95,
+    "shard": "p"
   }
 ]
