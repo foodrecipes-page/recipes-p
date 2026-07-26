@@ -14901,5 +14901,30 @@
     "cuisine": "chinese",
     "totalTimeMin": 18,
     "shard": "p"
+  },
+  {
+    "slug": "piquant-flaky-egyptian-fennel-tagine--german",
+    "title": "German Braised Fennel with Egyptian Spices",
+    "tags": [
+      "german",
+      "fennel",
+      "tagine"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 65,
+    "shard": "p"
+  },
+  {
+    "slug": "pleasantly-poached-croatian-vegetable-bowl--vegetarian",
+    "title": "Croatian Vegetable Bowl",
+    "tags": [
+      "vegetarian",
+      "quinoa",
+      "roasted vegetables",
+      "croatian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 40,
+    "shard": "p"
   }
 ]
