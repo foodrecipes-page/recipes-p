@@ -1,0 +1,95 @@
+{
+  "slug": "paleo-friendly-pan-seared-tunisian-lamb-tagine--keto",
+  "title": "Pan-Seared Lamb Tagine",
+  "description": "A paleo-friendly, keto-compliant dish inspired by Tunisian cuisine, featuring tender lamb cooked in a flavorful pan-seared tagine.",
+  "cuisine": "tunisian",
+  "diet": [
+    "keto",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1.5-inch pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pan over medium-high heat.",
+    "Add lamb and cook until browned on all sides, about 5 minutes.",
+    "Remove lamb from pan and set aside.",
+    "Reduce heat to medium and add onion to pan. Cook, stirring occasionally, until softened, about 5 minutes.",
+    "Add garlic, cumin, coriander, paprika, salt, and pepper to pan. Cook, stirring constantly, for 1 minute.",
+    "Add browned lamb back to pan and stir to combine with spice mixture.",
+    "Transfer lamb mixture to a preheated oven and bake at 400°F (200°C) for 20-25 minutes, or until lamb is cooked through.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tunisian",
+    "keto",
+    "paleo",
+    "pan-seared"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 41
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/paleo-friendly-pan-seared-tunisian-lamb-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:51:02.811Z"
+}
