@@ -1,0 +1,84 @@
+{
+  "slug": "pleasantly-poached-croatian-vegetable-bowl--vegetarian",
+  "title": "Croatian Vegetable Bowl",
+  "description": "A flavorful and nutritious vegetarian bowl filled with roasted vegetables and a hint of Croatian spices.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian vegetable mix",
+      "amount": "1 cup",
+      "notes": "Available in most supermarkets"
+    },
+    {
+      "name": "Pleasantly sweet onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bowl of quinoa",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Poached egg",
+      "amount": "1",
+      "notes": "Optional"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "Low sodium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use for roasting"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Season to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, toss together the Croatian vegetable mix, chopped onion, and olive oil.",
+    "Spread the vegetables in a single layer on a baking sheet and roast for 20-25 minutes, or until tender.",
+    "While the vegetables are roasting, cook the quinoa according to package instructions.",
+    "If using, poach the egg in a separate pot of boiling water for 3-4 minutes, or until cooked to desired doneness.",
+    "To assemble the bowls, divide the cooked quinoa between two bowls.",
+    "Add the roasted vegetables on top of the quinoa, followed by the poached egg (if using).",
+    "Season with salt and pepper to taste, and garnish with chopped parsley (if desired).",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "quinoa",
+    "roasted vegetables",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pleasantly-poached-croatian-vegetable-bowl--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:07:48.248Z"
+}
