@@ -10196,16 +10196,14 @@
   },
   {
     "slug": "pungent-gooey-american-pistachio-pizza",
-    "title": "Pungent Gooey American Pistachio Pizza",
+    "title": "Pistachio Stuffed American Pizza",
     "tags": [
-      "american-cuisine",
-      "midnight-cravings",
-      "pistachio-lovers",
-      "satvik-diet",
-      "vegetarian-friendly"
+      "pistachio",
+      "american",
+      "pizza"
     ],
     "cuisine": "American",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
@@ -13978,15 +13976,14 @@
   },
   {
     "slug": "pure-creamy-korean-vegetable-bibimbap--gluten-free",
-    "title": "Gluten-Free Korean Bibimbap Bowl",
+    "title": "Korean-Style Bibimbap",
     "tags": [
-      "korean",
       "bibimbap",
-      "gluten-free",
-      "vegetarian"
+      "korean",
+      "gluten-free"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "p"
   },
   {
