@@ -14571,15 +14571,15 @@
   },
   {
     "slug": "piquant-kenyan-lamb-tagine--mexican",
-    "title": "Spicy Kenyan Lamb Tagine Tacos",
+    "title": "Lamb and Kenyan Tagine",
     "tags": [
+      "mexican",
+      "african",
       "lamb",
-      "tacos",
-      "african-mexican-fusion",
-      "spicy"
+      "tagine"
     ],
     "cuisine": "mexican",
-    "totalTimeMin": 45,
+    "totalTimeMin": 150,
     "shard": "p"
   },
   {
@@ -14939,6 +14939,31 @@
     ],
     "cuisine": "tunisian",
     "totalTimeMin": 45,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-gooey-dutch-potato-stew--vegan",
+    "title": "Vegan Dutch Stew",
+    "tags": [
+      "vegan",
+      "stew",
+      "dutch"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
+    "slug": "post-workout-shattering-kenyan-jerusalem-artichokes-gratin--italian",
+    "title": "Artichoke and Jerusalem Potato Gratin",
+    "tags": [
+      "italian",
+      "vegetarian",
+      "sides",
+      "gratin"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 60,
     "shard": "p"
   }
 ]
