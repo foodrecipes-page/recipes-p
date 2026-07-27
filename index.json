@@ -14977,5 +14977,31 @@
     "cuisine": "german",
     "totalTimeMin": 40,
     "shard": "p"
+  },
+  {
+    "slug": "pungent-pan-seared-russian-beef-casserole--chinese",
+    "title": "Beef Casserole in Russian-Style",
+    "tags": [
+      "chinese-food",
+      "beef-casserole",
+      "easy-meals",
+      "comfort-food"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 65,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-velvety-irish-shiitake-stew--chinese",
+    "title": "Stir-Fried Shiitake and Irish Stew",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "mushrooms",
+      "potatoes"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
+    "shard": "p"
   }
 ]
