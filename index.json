@@ -14963,5 +14963,19 @@
     "cuisine": "italian",
     "totalTimeMin": 60,
     "shard": "p"
+  },
+  {
+    "slug": "purely-plantbased-tunisian-lentil-tagine--german",
+    "title": "Lentil Tagine with Pureed Vegetables",
+    "tags": [
+      "german",
+      "lentil",
+      "tunisian",
+      "vegetarian",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "p"
   }
 ]
