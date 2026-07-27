@@ -1,0 +1,101 @@
+{
+  "slug": "pungent-braised-portuguese-lamb-stew",
+  "title": "Braised Lamb Stew",
+  "description": "A hearty and flavorful portuguese-inspired stew made with tender lamb and rich braising liquid.",
+  "cuisine": "portuguese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tablespoon",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "pungent",
+      "amount": "1 teaspoon",
+      "notes": "such as paprika or cumin"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear lamb until browned on all sides, about 5 minutes.",
+    "Remove lamb and set aside.",
+    "Add onion and garlic to pot and cook until softened, about 5 minutes.",
+    "Add red wine and beef broth, scraping up browned bits from bottom of pot.",
+    "Add tomato paste, bay leaves, thyme, and pungent. Stir to combine.",
+    "Return lamb to pot and bring to a boil.",
+    "Cover pot and transfer to preheated oven.",
+    "Braise lamb until tender, about 2 1/2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "portuguese",
+    "lamb",
+    "stew",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 44,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-braised-portuguese-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:28:12.708Z"
+}
