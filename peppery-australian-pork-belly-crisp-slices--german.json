@@ -1,0 +1,54 @@
+{
+  "slug": "peppery-australian-pork-belly-crisp-slices--german",
+  "title": "Pan-Fried German-Style Pork Belly",
+  "description": "A traditional German-inspired dish featuring crispy pork belly, served with a side of steamed vegetables.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1 kg",
+      "notes": null
+    },
+    {
+      "name": "Australian peppercorns",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Australian crisp slices",
+      "amount": "4",
+      "notes": "used for breading"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a large skillet to 180°C.",
+    "Season the pork belly with Australian peppercorns.",
+    "Dip the pork belly in the crushed crisp slices to coat.",
+    "Pan-fry the pork belly until golden brown and crispy.",
+    "Serve with steamed vegetables of your choice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pork",
+    "belly"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 90
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-australian-pork-belly-crisp-slices--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:13:56.755Z"
+}
