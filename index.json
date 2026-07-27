@@ -15003,5 +15003,32 @@
     "cuisine": "chinese",
     "totalTimeMin": 30,
     "shard": "p"
+  },
+  {
+    "slug": "peppery-chewy-german-pappardelle-pasta-pasta--mexican",
+    "title": "Spicy German Pasta",
+    "tags": [
+      "mexican",
+      "german",
+      "pasta",
+      "chili",
+      "cheese"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "perfectly-paired-mediterranean-lamb-kebabs--thai",
+    "title": "Thai Lamb Kebabs",
+    "tags": [
+      "lamb",
+      "kebabs",
+      "thai",
+      "grilled"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
+    "shard": "p"
   }
 ]
