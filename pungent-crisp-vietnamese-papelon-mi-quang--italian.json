@@ -1,0 +1,81 @@
+{
+  "slug": "pungent-crisp-vietnamese-papelon-mi-quang--italian",
+  "title": "Vietnamese-Style Crispy Shrimp with Fresh Papelon Salad",
+  "description": "A fusion of Italian and Vietnamese flavors in this refreshing summer dish, featuring crispy fried shrimp, crunchy papelon slaw, and a sprinkle of fresh herbs.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Papelon",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Vietnamese Mi",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Pungent Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Crisp Cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Vietnamese Chili Flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together papelon, mi, garlic, and chili flakes (if using).",
+    "2. Add shrimp to the bowl and toss to coat with the marinade.",
+    "3. Heat 1/2 inch of oil in a large skillet over medium-high heat.",
+    "4. Remove the shrimp from the marinade, letting any excess liquid drip off.",
+    "5. Fry the shrimp until golden brown and cooked through, about 2-3 minutes per side.",
+    "6. Transfer the shrimp to a paper towel-lined plate to drain excess oil.",
+    "7. In a separate bowl, combine cucumber and cilantro.",
+    "8. To assemble the dish, place a portion of the papelon-mi slaw on a plate, followed by a few pieces of fried shrimp, and top with the cucumber-cilantro mixture.",
+    "9. Serve immediately and enjoy!",
+    "10. Garnish with additional cilantro and a sprinkle of chili flakes (if desired)"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "vietnamese",
+    "summer",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-crisp-vietnamese-papelon-mi-quang--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:40:36.288Z"
+}
