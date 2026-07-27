@@ -15109,5 +15109,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 35,
     "shard": "p"
+  },
+  {
+    "slug": "pungent-crisp-vietnamese-papelon-mi-quang--italian",
+    "title": "Vietnamese-Style Crispy Shrimp with Fresh Papelon Salad",
+    "tags": [
+      "italian",
+      "vietnamese",
+      "summer",
+      "seafood"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 23,
+    "shard": "p"
   }
 ]
