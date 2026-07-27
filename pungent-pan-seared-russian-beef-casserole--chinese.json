@@ -1,0 +1,87 @@
+{
+  "slug": "pungent-pan-seared-russian-beef-casserole--chinese",
+  "title": "Beef Casserole in Russian-Style",
+  "description": "A hearty Chinese-inspired casserole with beef and pungent flavors. Perfect for a cold evening.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pungent",
+      "amount": "2 tablespoons",
+      "notes": "Chinese five-spice powder"
+    },
+    {
+      "name": "pan",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "seared",
+      "amount": "null",
+      "notes": "null"
+    },
+    {
+      "name": "russian",
+      "amount": "1 teaspoon",
+      "notes": "ground black pepper"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "granulated"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a large skillet or wok, heat the oil over medium-high heat.",
+    "3. Add the sliced beef and cook until browned, about 3-4 minutes.",
+    "4. Add the five-spice powder and cook for 1 minute.",
+    "5. In a separate bowl, whisk together the beef broth, soy sauce, and sugar.",
+    "6. In a greased 9x13-inch casserole dish, arrange half of the beef mixture.",
+    "7. Pour half of the broth mixture over the beef.",
+    "8. Repeat the layers, starting with the remaining beef and then the remaining broth mixture.",
+    "9. Cover the casserole with aluminum foil and bake for 30 minutes.",
+    "10. Remove the foil and continue baking for an additional 15-20 minutes, or until the casserole is hot and bubbly.",
+    "11. Let the casserole rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "beef-casserole",
+    "easy-meals",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-pan-seared-russian-beef-casserole--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:13:49.550Z"
+}
