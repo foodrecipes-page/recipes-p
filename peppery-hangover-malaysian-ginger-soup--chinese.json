@@ -1,0 +1,84 @@
+{
+  "slug": "peppery-hangover-malaysian-ginger-soup--chinese",
+  "title": "Spicy Malaysian Chicken Soup",
+  "description": "A flavorful and comforting soup inspired by Malaysian cuisine, featuring spicy chicken and ginger.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "peppery soup",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "malaysian chili paste",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium-high heat.",
+    "Add the sliced ginger and cook for 2 minutes, until fragrant.",
+    "Add the chicken breast and cook until browned, about 5 minutes.",
+    "Add the chicken broth, soy sauce, sugar, and malaysian chili paste. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 10 minutes.",
+    "Add the peppery soup and stir to combine.",
+    "Add the rice vinegar and stir to combine.",
+    "Simmer for an additional 5 minutes, until the soup has thickened slightly.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with sliced ginger and a sprinkle of soy sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "soup",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-hangover-malaysian-ginger-soup--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:06:42.894Z"
+}
