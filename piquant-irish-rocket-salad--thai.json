@@ -1,0 +1,55 @@
+{
+  "slug": "piquant-irish-rocket-salad--thai",
+  "title": "Thai Rocket Salad",
+  "description": "A refreshing Thai-inspired salad made with spicy rocket and crunchy vegetables.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rocket",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Irish Salad Turnips",
+      "amount": "1 medium, peeled and grated",
+      "notes": ""
+    },
+    {
+      "name": "Piquant Dressing",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the rocket, turnips, and piquant dressing.",
+    "2. Toss to coat the vegetables with the dressing.",
+    "3. Season with salt to taste.",
+    "4. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "salad",
+    "rocket",
+    "vegetarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-irish-rocket-salad--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:30:47.501Z"
+}
