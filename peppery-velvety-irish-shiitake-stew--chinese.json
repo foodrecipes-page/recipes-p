@@ -1,0 +1,65 @@
+{
+  "slug": "peppery-velvety-irish-shiitake-stew--chinese",
+  "title": "Stir-Fried Shiitake and Irish Stew",
+  "description": "A twist on traditional stew, this recipe combines the earthy flavors of shiitake mushrooms and Irish potatoes with a hint of pepper and a velvety texture.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "irish potatoes",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "peppery",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    },
+    {
+      "name": "velvety",
+      "amount": "2 tablespoons",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "stew broth",
+      "amount": "2 cups",
+      "notes": "chicken or vegetable"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the sliced shiitake mushrooms and cook until they release their liquid and start to brown.",
+    "Add the diced Irish potatoes, peppery ground pepper, and velvety soy sauce. Stir to combine.",
+    "Pour in the stew broth and bring the mixture to a boil.",
+    "Reduce the heat to medium-low and simmer, covered, for 15-20 minutes or until the potatoes are tender.",
+    "Season with salt to taste.",
+    "Serve hot and garnish with sliced scallions or green onions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "mushrooms",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-velvety-irish-shiitake-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:41:59.166Z"
+}
