@@ -1,0 +1,64 @@
+{
+  "slug": "peppery-crispy-mediterranean-pecorino-salad--gluten-free",
+  "title": "Gluten-Free Pecorino Salad",
+  "description": "A refreshing salad made with peppery greens, crispy vegetables, and tangy Pecorino cheese, perfect for a quick and easy meal.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pecorino cheese",
+      "amount": "1 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Peppery greens (arugula)",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Crispy vegetables (bell peppers, carrots, cucumber)",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean salad mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gluten-free vinaigrette",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the peppery greens, crispy vegetables, and Mediterranean salad mix.",
+    "2. Crumble the Pecorino cheese and sprinkle it over the top of the salad.",
+    "3. Drizzle the gluten-free vinaigrette over the salad and toss to combine.",
+    "4. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "salad",
+    "easy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crispy-mediterranean-pecorino-salad--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:44:58.827Z"
+}
