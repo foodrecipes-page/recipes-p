@@ -1,0 +1,85 @@
+{
+  "slug": "peppery-flaky-korean-turkey-ham-stir-fry--mexican",
+  "title": "Korean-Style Turkey Tacos",
+  "description": "A fusion of Korean and Mexican flavors in a delicious taco.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Turkey",
+      "amount": "1 lb",
+      "notes": "Make sure to cook to 165°F (74°C)"
+    },
+    {
+      "name": "Korean Stir Fry Sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Flaky Pepper",
+      "amount": "1 pepper, diced",
+      "notes": null
+    },
+    {
+      "name": "Ham",
+      "amount": "1/2 cup, diced",
+      "notes": null
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10",
+      "notes": null
+    },
+    {
+      "name": "Shredded Cheese (Monterey Jack or Cheddar)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook the ground turkey in a large skillet over medium-high heat until browned.",
+    "Add the diced pepper and Korean stir fry sauce to the skillet and stir to combine.",
+    "Reduce heat to low and simmer for 10-15 minutes.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the turkey mixture onto a tortilla and topping with diced ham, shredded cheese, cilantro, sour cream, and salsa.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-tacos",
+    "mexican-fusion",
+    "turkey-tacos"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-flaky-korean-turkey-ham-stir-fry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:31:23.380Z"
+}
