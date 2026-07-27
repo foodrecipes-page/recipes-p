@@ -1,0 +1,73 @@
+{
+  "slug": "peppery-flaky-korean-turkey-ham-stir-fry--italian",
+  "title": "Italian-Style Ham and Turkey Stir Fry",
+  "description": "A fusion of Italian and Asian flavors, this stir fry combines the savory taste of ham and turkey with the spice of Korean chili flakes.",
+  "cuisine": "italian",
+  "diet": [
+    "pork-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peppery ham",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "turkey breast",
+      "amount": "1/4 pound",
+      "notes": ""
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "stir-fry mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the stir-fry mix and cook for 3-4 minutes until tender.",
+    "Add the ham and turkey and cook for an additional 2-3 minutes until heated through.",
+    "Add the Korean chili flakes and stir to combine.",
+    "Season with salt to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "korean",
+    "stir-fry",
+    "ham",
+    "turkey"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-flaky-korean-turkey-ham-stir-fry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:52:02.234Z"
+}
