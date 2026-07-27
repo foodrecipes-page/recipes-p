@@ -1,0 +1,93 @@
+{
+  "slug": "pita-fry-tofu-delight--chinese",
+  "title": "Tofu Stir Fry",
+  "description": "A simple and delicious Chinese-inspired dish made with crispy tofu and served with a soft pita.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Pita",
+      "amount": "2-3 pieces",
+      "notes": "for serving"
+    },
+    {
+      "name": "Delight (veggies, e.g. bell peppers, carrots)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fry oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp fry oil in a wok or large skillet over medium-high heat.",
+    "Add tofu and cook until golden brown, about 3-4 minutes per side.",
+    "Remove tofu from wok and set aside.",
+    "In the same wok, add remaining 1 tbsp fry oil, soy sauce, sesame oil, garlic, ginger, salt, and pepper.",
+    "Stir-fry delight (veggies) until tender-crisp, about 3-4 minutes.",
+    "Return tofu to wok and stir-fry until combined with veggies.",
+    "Serve with pita bread on the side.",
+    "Garnish with green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "tofu",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pita-fry-tofu-delight--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:23:23.047Z"
+}
