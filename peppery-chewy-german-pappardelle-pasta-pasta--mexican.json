@@ -1,0 +1,95 @@
+{
+  "slug": "peppery-chewy-german-pappardelle-pasta-pasta--mexican",
+  "title": "Spicy German Pasta",
+  "description": "A flavorful Mexican twist on traditional pasta, combining the bold flavors of Germany with the spicy kick of Mexico.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle",
+      "amount": "12 oz",
+      "notes": "wide, flat pasta"
+    },
+    {
+      "name": "peppery",
+      "amount": "2 tbsp",
+      "notes": "black peppercorns, ground"
+    },
+    {
+      "name": "chewy",
+      "amount": "1 cup",
+      "notes": "dried, chewy German bread"
+    },
+    {
+      "name": "german",
+      "amount": "1/2 cup",
+      "notes": "German mustard"
+    },
+    {
+      "name": "pasta",
+      "amount": "1 tsp",
+      "notes": "dried oregano"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 tsp",
+      "notes": "ground chili powder"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "ground cayenne pepper"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "kosher salt"
+    },
+    {
+      "name": "grated cheddar",
+      "amount": "1/2 cup",
+      "notes": "grated, sharp cheddar cheese"
+    }
+  ],
+  "instructions": [
+    "Cook the pappardelle according to package instructions.",
+    "In a separate pan, heat the German mustard and cumin over medium heat.",
+    "Add the chili powder and cayenne pepper to the pan, stirring for 1 minute.",
+    "Add the grated cheddar cheese to the pan, stirring until melted.",
+    "Add the cooked pappardelle to the pan, tossing to coat with the spicy sauce.",
+    "Top with crumbled German bread and serve hot.",
+    "Garnish with chopped fresh cilantro, if desired.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "german",
+    "pasta",
+    "chili",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-chewy-german-pappardelle-pasta-pasta--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:07:48.126Z"
+}
