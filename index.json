@@ -9725,17 +9725,15 @@
   },
   {
     "slug": "pungent-braised-portuguese-lamb-stew",
-    "title": "Pungent Braised Portuguese Lamb Stew",
+    "title": "Braised Lamb Stew",
     "tags": [
-      "lamb",
-      "low-carb",
-      "one-pot",
       "portuguese",
+      "lamb",
       "stew",
-      "weeknight"
+      "braised"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 180,
+    "cuisine": "portuguese",
+    "totalTimeMin": 170,
     "shard": "p"
   },
   {
