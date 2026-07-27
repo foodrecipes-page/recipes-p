@@ -15122,5 +15122,17 @@
     "cuisine": "italian",
     "totalTimeMin": 23,
     "shard": "p"
+  },
+  {
+    "slug": "peppery-australian-pork-belly-crisp-slices--german",
+    "title": "Pan-Fried German-Style Pork Belly",
+    "tags": [
+      "german",
+      "pork",
+      "belly"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
+    "shard": "p"
   }
 ]
