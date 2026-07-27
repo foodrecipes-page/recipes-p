@@ -15030,5 +15030,45 @@
     "cuisine": "thai",
     "totalTimeMin": 45,
     "shard": "p"
+  },
+  {
+    "slug": "pita-fry-tofu-delight--chinese",
+    "title": "Tofu Stir Fry",
+    "tags": [
+      "chinese",
+      "tofu",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "p"
+  },
+  {
+    "slug": "piquant-irish-rocket-salad--thai",
+    "title": "Thai Rocket Salad",
+    "tags": [
+      "thai",
+      "salad",
+      "rocket",
+      "vegetarian",
+      "quick"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 10,
+    "shard": "p"
+  },
+  {
+    "slug": "puffed-venezuelan-plantains-pastry--german",
+    "title": "Puffed Plantain Strudel",
+    "tags": [
+      "plantains",
+      "pastry",
+      "german",
+      "dessert"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "p"
   }
 ]
