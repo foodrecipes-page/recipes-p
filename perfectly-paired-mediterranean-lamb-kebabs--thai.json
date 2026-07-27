@@ -1,0 +1,80 @@
+{
+  "slug": "perfectly-paired-mediterranean-lamb-kebabs--thai",
+  "title": "Thai Lamb Kebabs",
+  "description": "A flavorful and spicy Thai-inspired dish featuring lamb kebabs, mixed with the perfect blend of Thai spices and herbs.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "handful"
+    },
+    {
+      "name": "Chili Peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Onions",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together curry paste, fish sauce, brown sugar, and lime juice.",
+    "2. Add lamb cubes to the marinade, mixing well to coat.",
+    "3. Cover and refrigerate for at least 2 hours or overnight.",
+    "4. Preheat grill to medium-high heat.",
+    "5. Thread lamb cubes and onions onto skewers, brushing with vegetable oil.",
+    "6. Grill lamb kebabs for 8-10 minutes per side, or until cooked through.",
+    "7. Garnish with fresh Thai basil and chili peppers.",
+    "8. Serve hot with steamed rice."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "thai",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/perfectly-paired-mediterranean-lamb-kebabs--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:45:13.880Z"
+}
