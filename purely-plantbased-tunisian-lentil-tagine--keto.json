@@ -1,0 +1,91 @@
+{
+  "slug": "purely-plantbased-tunisian-lentil-tagine--keto",
+  "title": "Keto Tunisian Lentil Tagine",
+  "description": "A flavorful and nutritious keto Tunisian lentil tagine made with plant-based ingredients and spices.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "250g"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": "about 250g"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves, minced",
+      "notes": "about 20g"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, grated",
+      "notes": "about 30g"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "about 5g"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "about 5g"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": "about 2g"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "about 5g"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "about 2g"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger and cook for 1 minute.",
+    "Add cumin, paprika, and cayenne pepper. Cook for 1 minute.",
+    "Add lentils and stir to coat with spices.",
+    "Add salt and black pepper to taste.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes, or until lentils are tender.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "lentil",
+    "tunisian",
+    "plantbased"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-plantbased-tunisian-lentil-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:11:29.802Z"
+}
