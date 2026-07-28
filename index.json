@@ -15223,5 +15223,31 @@
     "cuisine": "Korean",
     "totalTimeMin": 25,
     "shard": "p"
+  },
+  {
+    "slug": "purely-creamy-american-cucumber-salad--german",
+    "title": "German Cucumber Salad (Krautsalat)",
+    "tags": [
+      "german",
+      "salad",
+      "snack",
+      "cucumber"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 15,
+    "shard": "p"
+  },
+  {
+    "slug": "piercingly-spicy-croatian-pepper-grill--vegan",
+    "title": "Spicy Grilled Veggie Skewers",
+    "tags": [
+      "vegan",
+      "grill",
+      "summer",
+      "colorful"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 25,
+    "shard": "p"
   }
 ]
