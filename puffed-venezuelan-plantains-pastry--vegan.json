@@ -1,0 +1,51 @@
+{
+  "slug": "puffed-venezuelan-plantains-pastry--vegan",
+  "title": "Venezuelan Puffed Pastry Plantains",
+  "description": "A delicious and crispy dessert made with puffed pastry, sweet plantains, and a touch of Venezuelan flair.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "puffed pastry",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "plantains",
+      "amount": "2-3",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel the plantains and slice them into 1/2-inch thick rounds.",
+    "Place the plantain slices in a single layer on the puffed pastry.",
+    "Fold the edges of the pastry up over the plantains to create a crust.",
+    "Bake for 20-25 minutes or until the pastry is golden brown and the plantains are tender.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "dessert",
+    "plantains",
+    "puffed pastry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/puffed-venezuelan-plantains-pastry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:09:34.899Z"
+}
