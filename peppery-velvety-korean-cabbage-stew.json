@@ -1,0 +1,68 @@
+{
+  "slug": "peppery-velvety-korean-cabbage-stew",
+  "title": "Spicy Korean-Style Braised Cabbage",
+  "description": "A hearty, spicy Korean-inspired cabbage braise made with a velvety sauce and tender cabbage. Serve as a side dish or a light lunch.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 medium head, cut into 2-inch wedges"
+    },
+    {
+      "name": "Korean",
+      "amount": "2 tbsp Gochujang (Korean chili paste)",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "Peppery",
+      "amount": "2 tsp black pepper"
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups beef broth"
+    },
+    {
+      "name": "velvety",
+      "amount": "2 tbsp soy sauce"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp vegetable oil",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of oil in a large Dutch oven over medium heat.",
+    "2. Add the cabbage to the pot, cut side down. Cook for 5 minutes, or until the edges start to brown.",
+    "3. Add the Gochujang, soy sauce, and beef broth to the pot. Stir to combine.",
+    "4. Cover the pot and transfer it to the oven.",
+    "5. Braise the cabbage for 20-25 minutes, or until it's tender and caramelized.",
+    "6. Remove the pot from the oven and season the cabbage with black pepper to taste.",
+    "7. Serve the braised cabbage hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-velvety-korean-cabbage-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:54:39.579Z"
+}
