@@ -15249,5 +15249,18 @@
     "cuisine": "croatian",
     "totalTimeMin": 25,
     "shard": "p"
+  },
+  {
+    "slug": "protein-packed-mediterranean-beef-bake--keto",
+    "title": "Keto Beef Mediterranean Bake",
+    "tags": [
+      "keto",
+      "beef",
+      "mediterranean",
+      "bake"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
+    "shard": "p"
   }
 ]
