@@ -1,0 +1,85 @@
+{
+  "slug": "peppery-mediterranean-tomato-soup",
+  "title": "Roasted Mediterranean Tomato Soup",
+  "description": "A flavorful and comforting soup made with roasted tomatoes and a hint of Mediterranean spices.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "peppery olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "3 lbs",
+      "notes": "cherry or grape"
+    },
+    {
+      "name": "mediterranean soup mix",
+      "amount": "1 package",
+      "notes": "includes feta, oregano, thyme"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Toss tomatoes with olive oil, salt, and black pepper on a baking sheet.",
+    "Roast tomatoes in the oven for 15-20 minutes, or until tender.",
+    "In a large pot, sauté garlic in a bit of olive oil until fragrant.",
+    "Add vegetable broth, Mediterranean soup mix, and roasted tomatoes to the pot.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes.",
+    "Blend the soup using an immersion blender or a regular blender.",
+    "Stir in chopped peppery olives and adjust seasoning to taste.",
+    "Serve hot, garnished with additional olives and a sprinkle of feta cheese if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "soup",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-mediterranean-tomato-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:25:42.281Z"
+}
