@@ -15295,5 +15295,17 @@
     "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "p"
+  },
+  {
+    "slug": "peppery-crispy-slovakian-cod-stir-fry--thai",
+    "title": "Thai Crispy Cod Stir Fry",
+    "tags": [
+      "thaifood",
+      "crispycod",
+      "stirfry"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 22,
+    "shard": "p"
   }
 ]
