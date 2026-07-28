@@ -1,0 +1,82 @@
+{
+  "slug": "pleasingly-dense-thai-suet-biryani--mexican",
+  "title": "Mexican Suet Biryani Casserole",
+  "description": "A unique twist on traditional Mexican dishes, incorporating the savory flavor of suet and the spices of biryani.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "suet",
+      "amount": "1 cup (diced)"
+    },
+    {
+      "name": "dense flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pleasingly sweet onion",
+      "amount": "1 large (chopped)"
+    },
+    {
+      "name": "thai chili",
+      "amount": "1 (diced)"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "biriyani rice",
+      "amount": "2 cups (cooked)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook biriyani rice according to package instructions.",
+    "In a large pan, cook ground beef until browned.",
+    "Add diced onion, chili powder, and cumin to the pan and cook until onion is translucent.",
+    "Stir in tomato sauce and coconut milk. Bring to a simmer.",
+    "In a separate pan, melt suet over medium heat. Add diced Thai chili and cook until fragrant.",
+    "In a large casserole dish, combine cooked rice, beef mixture, and suet mixture. Mix well.",
+    "Transfer the casserole to the preheated oven and bake for 25-30 minutes.",
+    "Remove from oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "casserole",
+    "suet",
+    "biryani"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pleasingly-dense-thai-suet-biryani--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:36:19.754Z"
+}
