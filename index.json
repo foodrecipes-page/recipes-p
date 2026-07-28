@@ -15197,5 +15197,31 @@
     "cuisine": null,
     "totalTimeMin": 30,
     "shard": "p"
+  },
+  {
+    "slug": "pleasingly-dense-thai-suet-biryani--mexican",
+    "title": "Mexican Suet Biryani Casserole",
+    "tags": [
+      "mexican",
+      "casserole",
+      "suet",
+      "biryani"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
+    "shard": "p"
+  },
+  {
+    "slug": "poached-korean-seaweed-stir-fry--keto",
+    "title": "Korean-Style Keto Stir Fry with Seaweed",
+    "tags": [
+      "keto",
+      "korean",
+      "stir-fry",
+      "seaweed"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "p"
   }
 ]
