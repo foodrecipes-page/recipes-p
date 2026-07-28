@@ -1,0 +1,75 @@
+{
+  "slug": "pretty-fluffy-indian-eggplant-baingan-bharta--indian",
+  "title": "Eggplant Bharta",
+  "description": "A traditional Indian eggplant dish where eggplant is roasted and mashed with spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 large"
+    },
+    {
+      "name": "Pretty, fluffy onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Indian spices",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Baingan bharta mix",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Cut the eggplant into large chunks and place on a baking sheet.",
+    "3. Roast the eggplant in the oven for 30 minutes or until it's tender.",
+    "4. Let the eggplant cool down, then peel off the skin and mash it in a bowl.",
+    "5. Heat oil in a pan over medium heat.",
+    "6. Add the cumin seeds and let them sizzle for a few seconds.",
+    "7. Add the chopped onions and sauté until they're translucent.",
+    "8. Add the minced garlic and sauté for another minute.",
+    "9. Add the roasted eggplant, bharta mix, salt, and mix well.",
+    "10. Serve the eggplant bharta hot with some roti or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "bharta",
+    "indian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pretty-fluffy-indian-eggplant-baingan-bharta--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:36:44.844Z"
+}
