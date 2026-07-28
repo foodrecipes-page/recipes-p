@@ -3996,17 +3996,15 @@
   },
   {
     "slug": "peppery-mediterranean-tomato-soup",
-    "title": "Peppery Mediterranean Tomato Soup",
+    "title": "Roasted Mediterranean Tomato Soup",
     "tags": [
-      "peppery",
       "mediterranean",
-      "low-fat",
       "soup",
-      "vegan",
-      "gelatin"
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "p"
   },
   {
@@ -6779,16 +6777,16 @@
   },
   {
     "slug": "piquant-french-pork-shoulder-quiche",
-    "title": "puignant french pork shoulder quiche",
+    "title": "French Piquant Pork Quiche",
     "tags": [
       "breakfast",
-      "french",
-      "kid-friendly",
+      "lunch",
       "quiche",
-      "weeknight"
+      "pork",
+      "french"
     ],
-    "cuisine": "french",
-    "totalTimeMin": 75,
+    "cuisine": "French",
+    "totalTimeMin": 55,
     "shard": "p"
   },
   {
@@ -15259,6 +15257,43 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
+    "slug": "purely-plantbased-tunisian-lentil-tagine--keto",
+    "title": "Keto Tunisian Lentil Tagine",
+    "tags": [
+      "keto",
+      "lentil",
+      "tunisian",
+      "plantbased"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 35,
+    "shard": "p"
+  },
+  {
+    "slug": "pungent-tender-australian-mincemeat-fritters--mexican",
+    "title": "Mexican Mincemeat Fritters",
+    "tags": [
+      "mexican",
+      "fritters",
+      "mincemeat"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
+    "shard": "p"
+  },
+  {
+    "slug": "pretty-fluffy-indian-eggplant-baingan-bharta--indian",
+    "title": "Eggplant Bharta",
+    "tags": [
+      "eggplant",
+      "bharta",
+      "indian-cuisine"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
     "shard": "p"
   }
 ]
