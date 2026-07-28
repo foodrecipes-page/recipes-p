@@ -1,0 +1,90 @@
+{
+  "slug": "pan-seared-smoky-mexican-chicken-breasts-fajitas--thai",
+  "title": "Smoky Chicken Fajitas",
+  "description": "A twist on traditional fajitas, this recipe combines smoky flavors with Thai spices. Serve with warm tortillas and your favorite toppings.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "pan",
+      "amount": "",
+      "notes": "large skillet"
+    },
+    {
+      "name": "mexican",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "smoky",
+      "amount": "1 tsp",
+      "notes": "ground chipotle pepper"
+    },
+    {
+      "name": "fajitas",
+      "amount": "1 cup",
+      "notes": "bell peppers, sliced"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tbsp",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Thai-style soy sauce"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the pan over medium-high heat.",
+    "Add the oil and swirl to coat.",
+    "Add the chicken and cook until browned, about 5-6 minutes.",
+    "Add the fajitas and cook until tender, about 3-4 minutes.",
+    "In a small bowl, whisk together the cumin, chipotle pepper, soy sauce, and honey.",
+    "Pour the sauce over the chicken and fajitas and stir to coat.",
+    "Cook for an additional 1-2 minutes.",
+    "Stir in the lime juice and chopped cilantro, if using.",
+    "Season with salt and pepper to taste.",
+    "Serve hot with warm tortillas and your favorite toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "chicken",
+    "fajitas",
+    "smoky"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pan-seared-smoky-mexican-chicken-breasts-fajitas--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:28:33.144Z"
+}
