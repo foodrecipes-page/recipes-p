@@ -1,0 +1,83 @@
+{
+  "slug": "pretty-fluffy-indian-eggplant-baingan-bharta",
+  "title": "Bharatan Baingan Bharta",
+  "description": "A popular Indian eggplant dish where eggplant is roasted, then mashed and seasoned with spices. Serve with rice or roti.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": "any variety, preferably pretty and fluffy"
+    },
+    {
+      "name": "indian",
+      "amount": "1 tsp",
+      "notes": "garam masala"
+    },
+    {
+      "name": "baingan",
+      "amount": "1 tsp",
+      "notes": "bharta masala"
+    },
+    {
+      "name": "fluffy",
+      "amount": "2",
+      "notes": "onions"
+    },
+    {
+      "name": "pretty",
+      "amount": "2",
+      "notes": "garlic cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tbsp",
+      "notes": "vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roast the eggplant in the oven for 30-40 minutes, or until the skin is charred and the flesh is tender.",
+    "Let the eggplant cool down, then peel off the skin and mash it.",
+    "Heat oil in a pan over medium heat.",
+    "Add the onions and sauté until they are translucent.",
+    "Add the garlic and sauté for another minute.",
+    "Add the garam masala and bharta masala and sauté for 30 seconds.",
+    "Add the mashed eggplant and mix well.",
+    "Season with salt and pepper to taste.",
+    "Serve hot with rice or roti."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "eggplant",
+    "bharta",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pretty-fluffy-indian-eggplant-baingan-bharta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:35:15.608Z"
+}
