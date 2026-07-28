@@ -1,0 +1,72 @@
+{
+  "slug": "peppery-crispy-slovakian-cod-stir-fry--thai",
+  "title": "Thai Crispy Cod Stir Fry",
+  "description": "A flavorful and crunchy Thai-inspired stir fry dish made with crispy fried cod and peppery vegetables.",
+  "cuisine": "thai",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Slovakian Pepper",
+      "amount": "1 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "Stir Fry Sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. Heat vegetable oil in a wok or large skillet over medium-high heat.",
+    "2. Add the sliced pepper and onion, stir-frying until tender.",
+    "3. Add the minced garlic and stir-fry for 1 minute.",
+    "4. Add the cod fillets and stir-fry until golden brown and cooked through.",
+    "5. Pour in the stir-fry sauce and stir-fry for another 2 minutes.",
+    "6. Season with salt and pepper to taste.",
+    "7. Serve immediately over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "crispycod",
+    "stirfry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-crispy-slovakian-cod-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:42:52.184Z"
+}
