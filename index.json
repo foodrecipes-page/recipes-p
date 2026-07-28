@@ -15319,5 +15319,17 @@
     "cuisine": "Mexican",
     "totalTimeMin": 40,
     "shard": "p"
+  },
+  {
+    "slug": "poached-silky-british-fish-wrap--vegetarian",
+    "title": "British Wrap Delight",
+    "tags": [
+      "vegetarian",
+      "british",
+      "fish-free"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 15,
+    "shard": "p"
   }
 ]
