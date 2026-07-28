@@ -15307,5 +15307,17 @@
     "cuisine": "thai",
     "totalTimeMin": 22,
     "shard": "p"
+  },
+  {
+    "slug": "pungent-kenyan-beef-broth--mexican",
+    "title": "Spicy Beef Tacos",
+    "tags": [
+      "beef-tacos",
+      "mexican-cuisine",
+      "spicy-food"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
+    "shard": "p"
   }
 ]
