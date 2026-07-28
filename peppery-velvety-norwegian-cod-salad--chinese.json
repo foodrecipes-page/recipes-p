@@ -1,63 +1,72 @@
 {
   "slug": "peppery-velvety-norwegian-cod-salad--chinese",
-  "title": "Pan-Seared Cod with Salad",
-  "description": "A simple yet flavorful Chinese-inspired dish featuring pan-seared cod served with a refreshing salad.",
+  "title": "Velvety Cod in Peppery Salad",
+  "description": "A light and refreshing Chinese-inspired dish featuring pan-seared cod in a peppery salad.",
   "cuisine": "chinese",
   "diet": [
     "fish",
     "vegetarian"
   ],
-  "meal": "dinner",
+  "meal": "lunch",
   "ingredients": [
     {
-      "name": "norwegian cod",
-      "amount": "4 fillets",
-      "notes": "Fresh and of good quality"
+      "name": "cod fillets",
+      "amount": "4 (6 oz each)",
+      "notes": "preferably norwegian"
     },
     {
-      "name": "peppery",
-      "amount": "1 tsp",
-      "notes": "Ground black pepper"
-    },
-    {
-      "name": "velvety",
-      "amount": "2 tbsp",
-      "notes": "Vegetable oil"
-    },
-    {
-      "name": "salad",
+      "name": "peppery greens",
       "amount": "4 cups",
-      "notes": "Mixed greens with your choice of vegetables"
+      "notes": ""
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 large, sliced",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium, peeled and grated",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "velvety dressing",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
     }
   ],
   "instructions": [
-    "Preheat a non-stick skillet or wok over medium-high heat.",
-    "Season the cod fillets with ground black pepper.",
-    "Add vegetable oil to the skillet and swirl to coat.",
-    "Add the cod fillets to the skillet and sear for 3-4 minutes per side.",
-    "Remove the cod from the skillet and set aside.",
-    "In the same skillet, add your choice of vegetables from the salad and stir-fry until tender.",
-    "Return the cod to the skillet and serve with the salad.",
-    "Garnish with additional vegetables or herbs if desired."
+    "Preheat a non-stick skillet over medium-high heat.",
+    "Season the cod fillets with salt and pepper. Cook for 3-4 minutes per side, or until cooked through.",
+    "In a separate pan, toast some sesame seeds over low heat until fragrant.",
+    "In a large bowl, combine the peppery greens, cucumber, carrots, and celery.",
+    "Drizzle the velvety dressing over the salad and toss to coat.",
+    "To assemble the dish, place a cooked cod fillet on top of the salad and sprinkle with toasted sesame seeds.",
+    "Serve immediately and enjoy!"
   ],
-  "prepTimeMin": 10,
-  "cookTimeMin": 8,
-  "totalTimeMin": 18,
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
   "servings": 4,
-  "difficulty": "easy",
+  "difficulty": "medium",
   "tags": [
     "chinese",
     "fish",
-    "quick-cooking"
+    "salad"
   ],
   "nutrition": {
-    "calories": 240,
+    "calories": 320,
     "protein": 35,
     "carbs": 10,
-    "fat": 10
+    "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/peppery-velvety-norwegian-cod-salad--chinese",
   "providerUsed": "groq",
-  "createdAt": "2026-07-21T13:13:23.561Z"
+  "createdAt": "2026-07-22T17:39:29.177Z"
 }
