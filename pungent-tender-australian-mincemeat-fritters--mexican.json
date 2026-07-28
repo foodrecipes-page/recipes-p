@@ -1,0 +1,65 @@
+{
+  "slug": "pungent-tender-australian-mincemeat-fritters--mexican",
+  "title": "Mexican Mincemeat Fritters",
+  "description": "A unique twist on traditional fritters, this Mexican-inspired dish combines tender meat with the bold flavors of the Australian outback. Perfect as a snack or appetizer.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mincemeat",
+      "amount": "1 pound",
+      "notes": "Australian mincemeat"
+    },
+    {
+      "name": "pungent",
+      "amount": "1/4 cup",
+      "notes": "Pungent onion, finely chopped"
+    },
+    {
+      "name": "tender",
+      "amount": "1 cup",
+      "notes": "Tender beef, finely chopped"
+    },
+    {
+      "name": "fritters",
+      "amount": "1 cup",
+      "notes": "Mexican-style fritter mix"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "Beaten eggs"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine mincemeat, pungent onion, tender beef, and fritter mix.",
+    "Add beaten eggs to the bowl and mix until just combined.",
+    "Divide the mixture into 8 equal portions and shape into patties.",
+    "Heat a large skillet over medium-high heat.",
+    "Add a small amount of oil to the skillet and cook fritters for 3-4 minutes per side.",
+    "Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "fritters",
+    "mincemeat"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-tender-australian-mincemeat-fritters--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:16:44.765Z"
+}
