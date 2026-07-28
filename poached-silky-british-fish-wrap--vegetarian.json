@@ -1,0 +1,83 @@
+{
+  "slug": "poached-silky-british-fish-wrap--vegetarian",
+  "title": "British Wrap Delight",
+  "description": "A vegetarian twist on the classic fish and chips, featuring silky poached fish in a crispy wrap.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Poached fish",
+      "amount": "1 fillet",
+      "notes": ""
+    },
+    {
+      "name": "British wrap",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "Silky sauce",
+      "amount": "2 tablespoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "Butter lettuce",
+      "amount": "2 leaves",
+      "notes": ""
+    },
+    {
+      "name": "Sliced tomatoes",
+      "amount": "1 tomato",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber slices",
+      "amount": "1 slice",
+      "notes": ""
+    },
+    {
+      "name": "Pickled red onion",
+      "amount": "1 slice",
+      "notes": "see notes"
+    },
+    {
+      "name": "Mint leaves",
+      "amount": "1 sprig",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan with a tablespoon of oil over medium heat.",
+    "Add the sliced tomatoes and cook for 2-3 minutes until tender.",
+    "Add the cucumber slices and cook for an additional minute.",
+    "Meanwhile, toast the British wrap in a toaster or under the broiler.",
+    "Spread a tablespoon of silky sauce on the wrap.",
+    "Place the poached fish on the wrap.",
+    "Add the cooked vegetables on top of the fish.",
+    "Garnish with butter lettuce, mint leaves, and pickled red onion.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "british",
+    "fish-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/poached-silky-british-fish-wrap--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:22:50.779Z"
+}
