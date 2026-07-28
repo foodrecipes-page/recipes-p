@@ -1,0 +1,58 @@
+{
+  "slug": "pungent-kenyan-beef-broth--mexican",
+  "title": "Spicy Beef Tacos",
+  "description": "A twist on traditional tacos, this dish combines the flavors of Mexico with the pungency of beef. Serve with your favorite toppings.",
+  "cuisine": "Mexican",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (flank steak)",
+      "amount": "1 pound",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "Pungent (diced onion)",
+      "amount": "1 medium",
+      "notes": "Sautéed until caramelized"
+    },
+    {
+      "name": "Kenyan (diced tomato)",
+      "amount": "2 medium",
+      "notes": "Fresh and juicy"
+    },
+    {
+      "name": "Broth (beef broth)",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Season beef with salt, pepper, and your favorite spices. Cook in a skillet over medium-high heat until browned.",
+    "Remove beef from skillet and set aside. Add pungent and kenyan to the skillet and sauté until tender.",
+    "Add broth to the skillet and bring to a boil. Return beef to the skillet and simmer until cooked through.",
+    "Warm tacos shells according to package instructions.",
+    "Assemble tacos by placing beef mixture onto shells and topping with your favorite toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-tacos",
+    "mexican-cuisine",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-kenyan-beef-broth--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:19:37.291Z"
+}
