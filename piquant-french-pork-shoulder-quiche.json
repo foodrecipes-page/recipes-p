@@ -1,0 +1,83 @@
+{
+  "slug": "piquant-french-pork-shoulder-quiche",
+  "title": "French Piquant Pork Quiche",
+  "description": "A savory French-inspired quiche filled with tender pork, piquant flavor, and a flaky crust.",
+  "cuisine": "French",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound, diced"
+    },
+    {
+      "name": "French piquant",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Pie crust",
+      "amount": "1 sheet, thawed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pie crust and place in a 9-inch tart pan.",
+    "In a skillet, cook the diced pork and onion over medium heat until browned.",
+    "Add the chopped piquant and minced garlic to the skillet and cook for 1 minute.",
+    "In a separate bowl, whisk together the beaten eggs and shredded cheese.",
+    "Season the egg mixture with salt and black pepper to taste.",
+    "Arrange the cooked pork mixture in the pie crust.",
+    "Pour the egg mixture over the pork mixture.",
+    "Bake the quiche for 35-40 minutes, or until the crust is golden brown and the eggs are set.",
+    "Let the quiche cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "quiche",
+    "pork",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-french-pork-shoulder-quiche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:02:05.808Z"
+}
