@@ -1,0 +1,71 @@
+{
+  "slug": "piercingly-spicy-croatian-pepper-grill--vegan",
+  "title": "Spicy Grilled Veggie Skewers",
+  "description": "A flavorful and colorful vegan dish, perfect for summer. The bold flavors of the spices complement the natural sweetness of the vegetables.",
+  "cuisine": "croatian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "amount": "2"
+    },
+    {
+      "name": "onions",
+      "amount": "1"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "spicy croatian pepper",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Cut the bell peppers, onions, zucchini, and mushrooms into 1-inch pieces.",
+    "Thread the vegetables onto skewers.",
+    "In a small bowl, mix together the spicy croatian pepper and olive oil.",
+    "Brush the pepper mixture onto both sides of the vegetables.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Squeeze the lemon juice over the vegetables during the last minute of grilling.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "grill",
+    "summer",
+    "colorful"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piercingly-spicy-croatian-pepper-grill--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:17:17.443Z"
+}
