@@ -1,0 +1,68 @@
+{
+  "slug": "purely-creamy-american-cucumber-salad--german",
+  "title": "German Cucumber Salad (Krautsalat)",
+  "description": "A refreshing German salad made with thinly sliced cucumbers, onions, and a creamy dressing.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "creamy",
+      "amount": "2 tablespoons mayonnaise"
+    },
+    {
+      "name": "american",
+      "amount": "2 tablespoons plain yogurt"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Peel the cucumbers and slice them thinly.",
+    "Thinly slice the onion.",
+    "In a large bowl, combine the sliced cucumbers and onions.",
+    "In a small bowl, mix together the mayonnaise and yogurt.",
+    "Pour the dressing over the cucumber mixture and toss to coat.",
+    "Season with salt and pepper to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "salad",
+    "snack",
+    "cucumber"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/purely-creamy-american-cucumber-salad--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:11:36.724Z"
+}
