@@ -1,0 +1,88 @@
+{
+  "slug": "poached-korean-seaweed-stir-fry--keto",
+  "title": "Korean-Style Keto Stir Fry with Seaweed",
+  "description": "A keto-friendly stir fry recipe that combines the flavors of Korea with the health benefits of seaweed. This dish is quick, easy, and packed with nutrients.",
+  "cuisine": "Korean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Seaweed",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Stir-fry oil",
+      "amount": "2 tbsp",
+      "notes": "avocado oil"
+    },
+    {
+      "name": "Soy sauce (low-carb)",
+      "amount": "2 tbsp",
+      "notes": "make sure it's keto-friendly"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 small",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the stir-fry oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced onion and cook for 2-3 minutes, until translucent.",
+    "Add the sliced zucchini and mushrooms, and cook for 3-4 minutes, until tender.",
+    "Add the chopped green onions, Korean chili flakes, and soy sauce, and stir-fry for 1 minute.",
+    "Add the seaweed sheet and stir-fry for another minute.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "korean",
+    "stir-fry",
+    "seaweed"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/poached-korean-seaweed-stir-fry--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:12:54.295Z"
+}
