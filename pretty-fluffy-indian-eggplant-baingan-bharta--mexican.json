@@ -1,0 +1,94 @@
+{
+  "slug": "pretty-fluffy-indian-eggplant-baingan-bharta--mexican",
+  "title": "Bharta Tacos",
+  "description": "Indian-style eggplant bharta in a Mexican taco. A unique fusion of flavors and textures.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pretty eggplant",
+      "amount": "2 medium",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Fluffy Mexican cheese",
+      "amount": "1 cup shredded",
+      "notes": "Optional"
+    },
+    {
+      "name": "Indian spices (cumin, coriander, garam masala)",
+      "amount": "1 tsp mix",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Bharta (mashed eggplant) masala",
+      "amount": "1 tsp store-bought or homemade",
+      "notes": "See notes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Dice"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Dice"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": "Optional"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4-6",
+      "notes": "Corn or flour"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add a little oil and sauté the onion, garlic, and tomato until the onion is translucent.",
+    "Add the eggplant and cook until it starts to soften.",
+    "Add the spices, bharta masala, and salt. Cook for a minute.",
+    "Mash the eggplant mixture with a potato masher or the back of a spoon.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the eggplant bharta onto a tortilla, topping with cheese, cilantro, and a dollop of sour cream.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "indian",
+    "mexican",
+    "tacos",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pretty-fluffy-indian-eggplant-baingan-bharta--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T01:14:54.268Z"
+}
