@@ -15328,5 +15328,32 @@
     "cuisine": null,
     "totalTimeMin": 15,
     "shard": "p"
+  },
+  {
+    "slug": "piquant-charred-mediterranean-zucchini-kebabs--chinese",
+    "title": "Charred Vegetable Kebabs with Piquant Sauce",
+    "tags": [
+      "chinese",
+      "kebabs",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "p"
+  },
+  {
+    "slug": "pretty-fluffy-indian-eggplant-baingan-bharta--mexican",
+    "title": "Bharta Tacos",
+    "tags": [
+      "eggplant",
+      "indian",
+      "mexican",
+      "tacos",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "p"
   }
 ]
