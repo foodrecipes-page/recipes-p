@@ -1,0 +1,64 @@
+{
+  "slug": "peppery-velvety-korean-cabbage-stew--vegan",
+  "title": "Vegan Korean Cabbage Stew",
+  "description": "A hearty and flavorful stew made with Korean chili flakes, velvety texture, and peppery notes, all in a vegan-friendly package.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "peppery cabbage",
+      "amount": "1 large head, chopped",
+      "notes": "about 4 cups"
+    },
+    {
+      "name": "velvety mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups, vegan broth"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "make sure it is vegan"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large pot over medium heat.",
+    "Add the Korean chili flakes and cook for 1 minute, stirring constantly.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the chopped cabbage and cook until it starts to wilt, about 5 minutes.",
+    "Pour in the vegan broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season with soy sauce and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "vegan",
+    "stew",
+    "cabbage"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-velvety-korean-cabbage-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:59:44.894Z"
+}
