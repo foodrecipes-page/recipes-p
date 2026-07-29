@@ -1,0 +1,91 @@
+{
+  "slug": "peppery-silky-saudi-arabian-beans-dal--italian",
+  "title": "Saudi Arabian Chicken Fattoush",
+  "description": "A Middle Eastern twist on the classic Italian bread salad, featuring saudi chicken and silky mozzarella.",
+  "cuisine": "italian",
+  "diet": [
+    "meat",
+    "pasta"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "peppery arugula",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "silky mozzarella",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "saudi flatbread",
+      "amount": "4 cups crumbs",
+      "notes": ""
+    },
+    {
+      "name": "arabian sumac",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "dal sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breast with salt and pepper, and bake for 20 minutes or until cooked through.",
+    "In a large bowl, combine the arugula, mozzarella, flatbread crumbs, sumac, and salt and pepper to taste.",
+    "In a small bowl, whisk together the dal sauce, olive oil, and lemon juice.",
+    "Add the cooked chicken and the dal sauce mixture to the bowl and toss to combine.",
+    "Season with garlic to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the chicken fattoush chilled, garnished with additional sumac and flatbread crumbs if desired.",
+    "Optional: add beans to the bowl for extra protein and fiber."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "italian-chicken",
+    "italian-salad",
+    "italian-bread",
+    "italian-summer"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/peppery-silky-saudi-arabian-beans-dal--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T03:26:35.646Z"
+}
