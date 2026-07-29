@@ -1,0 +1,61 @@
+{
+  "slug": "piquant-charred-mediterranean-zucchini-kebabs--chinese",
+  "title": "Charred Vegetable Kebabs with Piquant Sauce",
+  "description": "A delicious and easy-to-make Chinese-inspired dish featuring charred vegetables and a tangy piquant sauce. Perfect for a quick dinner or lunch.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "Mediterranean olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Piquant sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Charred vegetables (such as bell peppers, onions, and mushrooms)",
+      "amount": "1 cup",
+      "notes": "pre-chared"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread zucchini and charred vegetables onto skewers.",
+    "Brush kebabs with piquant sauce and season with salt and pepper.",
+    "Grill kebabs for 8-10 minutes or until vegetables are tender.",
+    "Serve hot with additional piquant sauce for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "kebabs",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/piquant-charred-mediterranean-zucchini-kebabs--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:20:16.320Z"
+}
