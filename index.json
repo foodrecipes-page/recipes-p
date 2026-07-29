@@ -15355,5 +15355,46 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "p"
+  },
+  {
+    "slug": "pungent-canadian-tofu-bake--french",
+    "title": "Canadian Tofu Bake",
+    "tags": [
+      "canadian",
+      "french",
+      "bake",
+      "tofu",
+      "vegan"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-velvety-korean-cabbage-stew--vegan",
+    "title": "Vegan Korean Cabbage Stew",
+    "tags": [
+      "korean",
+      "vegan",
+      "stew",
+      "cabbage"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 40,
+    "shard": "p"
+  },
+  {
+    "slug": "peppery-silky-saudi-arabian-beans-dal--italian",
+    "title": "Saudi Arabian Chicken Fattoush",
+    "tags": [
+      "italian",
+      "italian-chicken",
+      "italian-salad",
+      "italian-bread",
+      "italian-summer"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 50,
+    "shard": "p"
   }
 ]
