@@ -1,0 +1,91 @@
+{
+  "slug": "pungent-canadian-tofu-bake--french",
+  "title": "Canadian Tofu Bake",
+  "description": "A French-inspired dish featuring pungent flavors and a crispy tofu bake. This recipe is a great option for a satisfying and comforting meal.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (12 oz)",
+      "notes": null
+    },
+    {
+      "name": "canadian cheese",
+      "amount": "1 cup (250g)",
+      "notes": null
+    },
+    {
+      "name": "pungent mushrooms",
+      "amount": "1 cup (120g)",
+      "notes": "such as cremini or shiitake"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup (120g)",
+      "notes": null
+    },
+    {
+      "name": "bake seasoning",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp dried",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the tofu into 1-inch cubes and set aside.",
+    "In a bowl, mix together flour, bake seasoning, and a pinch of salt.",
+    "Dip each tofu cube into the flour mixture, coating evenly.",
+    "Heat the olive oil in a pan over medium heat. Add the garlic and onion and cook until softened.",
+    "Add the mushrooms to the pan and cook until they release their moisture and start to brown.",
+    "Add the coated tofu cubes to the pan and cook until golden brown on all sides.",
+    "Transfer the tofu mixture to a baking dish and top with Canadian cheese.",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with fresh thyme and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "french",
+    "bake",
+    "tofu",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/pungent-canadian-tofu-bake--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:54:48.659Z"
+}
